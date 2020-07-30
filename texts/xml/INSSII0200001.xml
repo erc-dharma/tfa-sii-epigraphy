@@ -67,7 +67,7 @@
          <div type="edition" xml:lang="tam"><!--Check milestones-->
          	         	         	
          	<p xml:lang="san">
-         		<milestone type="pagelike" unit="item" n="N"/>
+         		<milestone unit="item" n="N"/>
          		<label xml:lang="eng">Northern plinth of the <foreign>vimāna</foreign></label>
          		<milestone type="pagelike" unit="zone" n="1"/>
          		<label xml:lang="eng">Section 1</label>
@@ -130,7 +130,7 @@
          		
          		         	</p>
          	<p>
-         		<milestone type="pagelike" unit="item" n="W"/>
+         		<milestone unit="item" n="W"/>
          		<label xml:lang="eng">Western plinth of the <foreign>vimāna</foreign></label>
          		
          		<milestone type="pagelike" unit="zone" n="1"/><!--repetitive numbering scheme as in the original edition by Hultzsch-->
