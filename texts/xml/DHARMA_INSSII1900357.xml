@@ -53,14 +53,18 @@
 				<msDesc>
 					<msIdentifier>
 						<repository>DHARMAbase</repository>
-						<idno/>
+						<idno/>						
 					</msIdentifier>
 					<msContents>
-						<summary/>
+						<summary></summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p/>
+							<p>Repha in conjunct is a dot above the letter.</p>
+							<!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>-->
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -73,14 +77,22 @@
 	<text xml:space="preserve">
       <body>
 
-         <div type="edition" xml:lang="tam">
+         <div type="edition" xml:lang="tam-Latn">
          
          	<p>
-         		<lb n="1"/>
-         		<lb n="2" break="no"/>
-         		<lb n="3"/>
-         		
-         		<lb n="13"/>
+         		<lb n="1"/><hi rend="grantha">|||<!--update punctuation encoding everywhere--> svasti śrī |<supplied reason="lost">|</supplied>|— kuvalāla-samudbhavaḥ su-kī<unclear>r</unclear>tti
+         		<lb n="2" break="no"/>pa</hi>ḻu<hi rend="grantha">vū</hi>r-<hi rend="grantha">nakka Iti pratīta-nāmā muravairīva <unclear reason="eccentric_ductus">vira</unclear>
+         		<lb n="3" break="no"/><unclear reason="eccentric_ductus">jaḥ</unclear> jāta-varṇṇa-<unclear>pra</unclear>varo vaṃśa-karaḥ sam-āvirāsīt· ||
+         		<lb n="4"/>yam artthinas tyāgam upātta-vigraham· dviṣat·-janāḥ <unclear reason="eccentric_ductus">śau</unclear>
+         		<lb n="5" break="no"/><unclear>r</unclear>yya-guṇaṃ śarīriṇam· Anaṃgam aṃgānvayinaṃ· mṛgekṣaṇā
+         		<lb n="6"/>vida<unclear>n</unclear>ti dhar<unclear>m</unclear>maṃ satanum· vipaścitaḥ |||— so ’yaṃ sva-vikramā(p)ta
+         		<lb n="7" break="no"/>khilārṇṇavām·barākara-grahād vīryya-toṣitād v(i)krama-coḷa-nṛpāl la
+         		<lb n="8" break="no"/>bdha-vikrama-coḷa-mahārājābhidho ’sya rājñaś catu(r)daśe varṣe maha
+         		<lb n="9" break="no"/>ti śrī-vānavana-mahādevy-agrahare śrī-vijaya-maṃga(l)e vasataḥ śa
+         		<lb n="10" break="no"/>mbhoḥ mandiraṃ śilā-mayam· vidhāyāsyaiva grāmasya svabh(ū)tām· ne
+         		<lb n="11" break="no"/>(ḍ/ṭ)uvāyil-nāma-grāmaṭ[ī>i]kām mahāparṣadaḥ krītvā sva-vitta-dānād aka
+         		<lb n="12" break="no"/>rāñ ca kṛtvā tasyaiva śam·bhor ā-śaśāṃka-sthiter arccanot·savādy-arttha
+         		<lb n="13" break="no"/>m· prādāt· |||—</hi> kōpparakēsaripamak=ku yāṇṭu 10 4 Āvatu Uṭaiy
          		<lb n="14" break="no"/>
          		<lb n="15"/>
             </p>
