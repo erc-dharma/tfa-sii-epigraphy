@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Kōvintaputtūr, Gaṅgājaṭādhara Temple, time of Uttamacōḻa,
+					year 14 (1)</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+					<persName ref="part:vagi">
+						<forename>Valérie</forename>
+						<surname>Gillet</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+					<persName ref="part:vagi">
+						<forename>Valérie</forename>
+						<surname>Gillet</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA <note>This project has received funding from the European Research
+						Council (ERC) under the European Union's Horizon 2020 research and
+						innovation programme (grant agreement no 809994).</note>
+				</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">DHARMA_INSSII1900357</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary/>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2020-10-29" status="draft">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+      <body>
+
+         <div type="edition" xml:lang="tam">
+         
+         	<p>
+         		<lb n="1"/>
+         		<lb n="2" break="no"/>
+         		<lb n="3"/>
+         		
+         		<lb n="13"/>
+         		<lb n="14" break="no"/>
+         		<lb n="15"/>
+            </p>
+         	
+         </div>
+
+         <div type="apparatus">
+
+         	<listApp>
+         		<app loc="1">
+         			<lem></lem>
+         			<rdg source="bib:Hultzsch1891_01"></rdg>
+         		</app>
+         	</listApp>
+
+         </div>
+
+         <div type="translation" resp="part:emfr vagi">
+         	
+         </div>
+      	
+         <div type="translation" xml:lang="fra" resp="part:emfr">
+         	
+         </div>
+
+         <div type="commentary">
+         	<p n="1">
+         	</p>
+         </div>
+
+         <div type="bibliography">
+
+            <p>
+First edited in SII 19.357 and 32, part 2, n° 138 <!--Update--><bibl><ptr target="bib:Hultzsch1891_01"/></bibl> with partial facsimile <!--Update-->; re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis and Valérie Gillet (2020), based on photographs.
+            </p>
+
+            	<listBibl type="primary"><!--Update-->
+        		
+        		<bibl n="EH">
+        			<ptr target="bib:Hultzsch1891_01"/>
+        			<citedRange unit="page">1-14</citedRange>
+        			<citedRange unit="item">1</citedRange>
+        			<citedRange unit="plate">II</citedRange>
+        		</bibl>
+        		
+        	</listBibl>
+        	
+        	<listBibl type="secondary"><!--Update-->
+        		
+        		<bibl>
+        			<ptr target="bib:ARIE1887-1888_01"/>
+        			<citedRange unit="page">6</citedRange>
+        			<citedRange unit="appendix">I</citedRange>
+        			<citedRange unit="item">65</citedRange>
+        		</bibl>
+        		
+        	</listBibl>
+
+         </div>
+
+      </body>
+  </text>
+</TEI>
