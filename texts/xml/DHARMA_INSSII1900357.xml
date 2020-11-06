@@ -108,20 +108,22 @@
             </p>
             
             <lg n="1">
-               <l n="a"><hi rend="grantha">kuvalāla-samudbhavaḥ su-kī<unclear>r</unclear>tti<lb n="2" break="no"/>pa</hi>ḻu<hi rend="grantha">vū</hi>r-</l>
+               <l n="a"><hi rend="grantha">kuvalāla-samudbhavaḥ su-kī<unclear>r</unclear>tti<lb n="2" break="no"/>-pa</hi>ḻu<hi rend="grantha">vū</hi>r-</l>
                <l n="b"><hi rend="grantha">nakka Iti pratīta-nāmā muravairīva</hi></l>
                <l n="c"><hi rend="grantha"><unclear reason="eccentric_ductus">vira</unclear><lb n="3" break="no"/><unclear reason="eccentric_ductus">jaḥ</unclear> jāta-varṇṇa-<unclear>pra</unclear>varo</hi></l>
                <l n="d"><hi rend="grantha">vaṃśa-karaḥ sam-āvirāsīt· <g type="ddanda">.</g></hi></l></lg>
             
             <lg n="2" rend="grantha">
+               <!--display grantha a @ to <lg>-->
                <l n="a"><lb n="4"/>yam artthinas tyāgam upātta-vigraham·</l>
                <l n="b">dviṣat·-janāḥ <unclear reason="eccentric_ductus">śau</unclear><lb n="5" break="no"/><unclear>r</unclear>yya-guṇaṃ śarīriṇam·</l>
                <l n="c">Anaṃgam aṃgānvayinaṃ· mṛgekṣaṇā</l>
                <l n="d"><lb n="6"/>vida<unclear>n</unclear>ti dhar<unclear>m</unclear>maṃ satanum· vipaścitaḥ <g type="finalGomutra"/></l>
             </lg>
             
-            <p>
-               <!--Identify verse or verses?-->
+            <p rend="grantha">
+               <!--display grantha a @ to <p>-->
+               <!--Markup to be added-->
                so ’yaṃ sva-vikramā(p)ta
                <lb n="7" break="no"/>khilārṇṇavām·barākara-grahād vīryya-toṣitād v(i)krama-coḷa-nṛpāl la
                <lb n="8" break="no"/>bdha-vikrama-coḷa-mahārājābhidho ’sya rājñaś catu(r)daśe varṣe maha
@@ -154,12 +156,37 @@
             
          </div>
 
-         <div type="translation" resp="part:emfr vagi">
+         <div type="translation" resp="part:emfr part:vagi">
          	
          </div>
       	
-         <div type="translation" xml:lang="fra" resp="part:emfr">
-         	
+         <div type="translation" xml:lang="fra" resp="part:emfr part:vagi">
+            
+            <p n="1">
+               Prospérité ! Fortune !
+            </p>
+            
+            <p rend="stanza" n="1">
+               Apparut <supplied reason="explanation"><foreign>sam-āvir-āsīt</foreign></supplied> un fondateur de lignée, originaire de Kuvalālam, connu sous le nom de Nakka de Paḻuvūr à la bonne renommée, pur tel Muravairin <supplied reason="explanation">Kṛṣṇa</supplied>, excellent par sa naissance <supplied reason="explanation"><foreign>jāta</foreign></supplied> et sa classe <supplied reason="explanation"><foreign>varṇa</foreign></supplied>.
+            </p>
+            
+             <p rend="stanza" n="2">
+                <!--Reporter les explications en commentary?-->
+                <!--Check indentation policy-->
+                <lg>
+                   <l>Les mendiants le considèrent comme la libéralité incarnée,</l>
+                   <l>Ses ennemis comme possédant un corps fait d'héroïsme,</l>
+                   <l>Les femmes <supplied reason="explanation">littéralement "celles qui ont  des yeux de biche"</supplied>, comme Anaṅga (Kāma, littéralement "celui qui n'a pas de corps")
+                      <supplied reason="subaudible">bien que</supplied> de lignée humaine <supplied reason="explanation">littéralement "qui a un corps"</supplied></l>
+                   <l>Les sages comme le <foreign>dharma</foreign> incarné.</l>
+                </lg>
+            </p>
+            <p n="6-13">
+               <!--Update! This is verse! But how many stanzas? And which metres?-->
+               Celui-ci <supplied reason="subaudible">donc</supplied> - qui reçut le nom de Vikramacōḷa-Mahārāja du roi Vikramacōḷa, satisfait de son héroïsme parce qu’il s’était emparé d’une multitude d'océans  <supplied reason="explanation"><foreign>arṇava</foreign></supplied> et de cieux <supplied reason="explanation"><foreign>ambara</foreign></supplied>, entiers et obtenus par sa propre vaillance - en la quatorzième année de ce roi, après avoir fondé une temple en pierre pour Śambhu qui réside dans le glorieux Vijaya-maṅgala dans le grand et glorieux <foreign>agrahāra</foreign> de Vānavana-mahādevī, donna, aussi longtemps que la lune dure, pour le culte et le festival de ce Śambhu précisément, un village nécessiteux du nom de Neṭuvāyil <!--Update to Neḍu°?--> appartenant à ce village, après l’avoir acheté à la grande assemblée et l’avoir rendu exempt de taxes par le don de ses propres biens.
+            </p>
+            <p n="13-"></p>
+            
          </div>
 
          <div type="commentary">
