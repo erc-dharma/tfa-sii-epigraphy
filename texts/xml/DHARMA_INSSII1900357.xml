@@ -102,7 +102,7 @@
          <div type="edition" xml:lang="tam-Latn">
             <!--Check encoding of punctuation marks-->
             <!--display <hi rend="grantha"> when @ to <lg>-->
-         
+         <div type="textpart" subtype="surface" n="A">
             <p>
                <lb n="1"/><hi rend="grantha"><g type="ddanda">.</g><g type="danda">.</g> svasti śrī <g type="finalGomutra"/></hi>
             </p>
@@ -136,10 +136,24 @@
             
             <p>
                <!--@ Valérie : tu peux encoder la partie tamoule à partir d'ici-->
-               kōpparakēsaripamak=ku yāṇṭu 10 4 Āvatu Uṭaiy
-               <lb n="14" break="no"/>
-               <lb n="15"/>
+               <lb n="13" break="no"/>kōpparakē<hi rend="grantha">sa</hi>ripa<hi rend="grantha">nma</hi>k=ku yāṇṭu <num>10 4</num> Āvatu Uṭaiy
+               <lb n="14" break="no"/>ār peru<unclear>ṉ</unclear>tiṟattu kuvaḷālam-uṭaiyāṉ Ampalavan paḻuvūr
+               <lb n="15"/>nakkaṉāṉa vi<hi rend="grantha">krama</hi>cōḻa <hi rend="grantha">mahārāja</hi>nēṉ vaṭa ka<unclear>r</unclear>ai <hi rend="grantha">brahmade</hi>ya
+               <lb n="16" break="no"/>m periya <hi rend="grantha"><unclear>śrī</unclear></hi> vanavaṉ-<hi rend="grantha">mahāde</hi>vi-<unclear>catu</unclear><hi rend="grantha"><unclear>vvedi</unclear></hi>maṅ<unclear>ka</unclear>lattu <hi rend="grantha">śrī</hi> vi<hi rend="grantha">ja</hi>yamaṅkala<unclear>t</unclear>
+               <lb n="17" break="no"/>tu <hi rend="grantha">mahāde</hi>var <hi rend="grantha">śrī</hi> vimāṉam kallāl Eḻuṉtaruḷuvittu I<hi rend="grantha">de</hi>vark<unclear>ku</unclear>t ti
+               <lb n="18" break="no"/>ruvamitukkum tiruviḷakkukkum <hi rend="grantha">śrī bali</hi>kkum tirumeypūccukkum tiruppūkaik
+               <lb n="19" break="no"/>kum tirunaṉtavānappuṟattukkum tiruviḻāvukkum <hi rend="grantha">snapa</hi>ṉaṅkaḷukkum maṟṟum
+               <lb n="20"/>I<hi rend="grantha">de</hi>varkku veṇṭum Ārātiṉaikaḷ Eppēṟpaṭṭaṉa Avaiccukkum Uttama <unclear>I</unclear> <gap reason="illegible" extent="1" unit="character"/>
+               <lb n="21"/>mākaṉāṉ kuṭutta Ū<unclear>r</unclear>āva<unclear>tu</unclear> Ipperiya <hi rend="grantha">śrī</hi> vānavaṉ-<hi rend="grantha">mahāde</hi>vi-<hi rend="grantha">ca</hi>tu<hi rend="grantha">rvvedi</hi>ma
             </p>
+         </div>
+            
+            <div type="textpart" subtype="surface" n="B">
+             <p>
+            <lb n="22" break="no"/>ṅkalattu vaṭapiṭākai neṭuvāyilum
+             <lb n="23"/>
+             </p>
+            </div>
          	
          </div>
 
@@ -190,7 +204,9 @@
          </div>
 
          <div type="commentary">
-         	<p n="1">
+         	<p n="20">Uttama, at the end of the line, is written is smaller letters and seems to have been added later. It may be connected to the few lines added on the pilaster: yogi kalamupatu / Iccivayo<hi rend="grantha">gi</hi> / <hi rend="grantha">brāhma</hi>ṇāvo<gap reason="illegible" extent="1" unit="character"/> / vallor<unclear>i</unclear> A<unclear>puvi</unclear> / <gap reason="illegible" extent="unknown" unit="character"/> 
+         	</p>
+           <p n="21">A few words are added on the pilaster before the begining of the line but the letters are not very clear on my pictures. I think they were added later, as the ones on the other side (see commentary on the previous line). 
          	</p>
          </div>
 
