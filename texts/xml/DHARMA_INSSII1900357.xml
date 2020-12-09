@@ -151,7 +151,18 @@
             <div type="textpart" subtype="surface" n="B">
              <p>
             <lb n="22" break="no"/>ṅkalattu vaṭapiṭākai neṭuvāyilum
-             <lb n="23"/>
+             <lb n="23"/>Itu <gap reason="illegible" extent="2" unit="character"/> ppaṭum Ūrtāmaraiṉal
+              <lb n="24"/>Ārum tiruccen<unclear>i</unclear>valamum ma<unclear>ṇ</unclear>kulakku
+              <lb n="25" break="no"/>ṟucciyum Uḷppaṭa Ineṭuvāyil vaḷai
+             <lb n="26" break="no"/>yilc cuṟṟumuṟṟum Ivūr ni<gap reason="illegible" extent="1" unit="character"/><unclear>i</unclear>la<gap reason="illegible" extent="1" unit="character"/>m paṉ
+              <lb n="27" break="no"/>ceyūm meṉceyum mēnōkk<supplied reason="lost">i</supplied>na maramum <supplied reason="lost">kī</supplied><unclear>ḻ</unclear>
+               <lb n="28"/>ṉōkkina kiṇaṟum kuḷamum kōṭṭakamum paṟṟum teṟṟiyu<supplied reason="lost">m ma</supplied>
+                <lb n="29" break="no"/>ṟṟum Uṭump' ōṭi Āmai tavaḻ<choice><orig>ṇ</orig><reg>n</reg></choice>tatu Eppēṟppaṭa
+                <lb n="30" break="no"/>tum Ivūr ˚ilaikkalam<unclear>u</unclear>m ta<unclear>ṟi</unclear>ppuṭavaiyum kaṇ
+                <lb n="31" break="no"/>ṇālak <supplied reason="lost">kā</supplied>ṇamum <supplied reason="lost">i</supplied><unclear>kāṟ</unclear>ppāṭṭamum Ulaiyam Ulaippāṭṭamum
+                <lb n="32"/>Uḷppa<supplied reason="omitted">ṭa</supplied> Ivū<unclear>r</unclear> vaḷaiyilc cuṟṟumuṟṟum I<unclear>p</unclear>periya <hi rend="grantha">śrī</hi> vānavaṉ
+                <lb n="33" break="no"/><hi rend="grantha">mahāde<supplied reason="lost">vi</supplied></hi><hi rend="grantha"><unclear>cca</unclear></hi>tu<hi rend="grantha">vve</hi>timaṅkalattu peruṅkuṟip perumakkaḷ <supplied reason="lost">pa</supplied>kkal vilai
+                
              </p>
             </div>
          	
@@ -161,11 +172,49 @@
             <!--Check both SII editions-->
             
             <listApp>
-               <app loc="1">
-                  <lem/>
-                  <rdg source="bib:SrinivasaRao1967_01"/>
-                  <rdg source="bib:Swaminathan2012_01"/>
+                <app loc="23">
+                  <lem>ppaṭum</lem>
+                  <rdg source="bib:SrinivasaRao1967_01">ppacam</rdg>
+                  <rdg source="bib:Swaminathan2012_01">ppacam</rdg>
+                   <note>the letter ṭu indeed resembles the letter ca, but I chose to read it ṭu because it is exactly the same as the other ṭu of the inscription</note>
                </app>
+                <app loc="27">
+                  <lem>mēnōkk<supplied reason="lost">i</supplied>na</lem>
+                  <rdg source="bib:SrinivasaRao1967_01">mēnōkkina</rdg>
+                  <rdg source="bib:Swaminathan2012_01">mēnōkkina</rdg>
+                   <note>the i is no longer legible</note>
+               </app>
+               <app loc="27">
+                  <lem><supplied reason="lost">kī</supplied><unclear>ḻ</unclear></lem>
+                  <rdg source="bib:SrinivasaRao1967_01">kīḻ</rdg>
+                  <rdg source="bib:Swaminathan2012_01">kīḻ</rdg>
+                   <note>the letter kī is no longer legible</note>
+               </app>
+               <app loc="31">
+                  <lem><supplied reason="lost">kā</supplied>ṇamum</lem>
+                  <rdg source="bib:SrinivasaRao1967_01"><unclear>kā</unclear>ṇamum</rdg>
+                  <rdg source="bib:Swaminathan2012_01"><unclear>kā</unclear>ṇamum</rdg>
+                   <note>the letter kā is no longer legible</note>
+               </app>
+               <app loc="31">
+                  <lem><supplied reason="lost">i</supplied><unclear>kāṟ</unclear>ppāṭṭamum</lem>
+                  <rdg source="bib:SrinivasaRao1967_01">mikāṟppāṭṭamum</rdg>
+                  <rdg source="bib:Swaminathan2012_01">mikāṟppāṭṭamum</rdg>
+                   <note>Both editions read a mi at the beginning. However, there is only one m, and the i of ikāṟppāṭṭamum, placed above the m, is no longer legible</note>
+               </app>
+               <app loc="33">
+                  <lem><hi rend="grantha">mahāde<supplied reason="lost">vi</supplied></hi></lem>
+                  <rdg source="bib:SrinivasaRao1967_01"><hi rend="grantha">mahādevi</hi></rdg>
+                  <rdg source="bib:Swaminathan2012_01"><hi rend="grantha">mahādevi</hi></rdg>
+                   <note>The vi is no longer legible</note>
+               </app>
+                <app loc="33">
+                  <lem><supplied reason="lost">pa</supplied>kkal</lem>
+                  <rdg source="bib:SrinivasaRao1967_01">pakkal</rdg>
+                  <rdg source="bib:Swaminathan2012_01">pakkal</rdg>
+                   <note>The pa is no longer legible</note>
+               </app>
+               
             </listApp>
             
          </div>
