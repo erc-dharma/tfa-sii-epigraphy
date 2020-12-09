@@ -104,7 +104,7 @@
             <!--display <hi rend="grantha"> when @ to <lg>-->
          <div type="textpart" subtype="surface" n="A">
             <p>
-               <lb n="1"/><hi rend="grantha"><g type="ddanda">.</g><g type="danda">.</g> svasti śrī <g type="finalGomutra"/></hi>
+               <lb n="1"/><hi rend="grantha"><g type="daṇḍa"/><g type="daṇḍa"/><g type="daṇḍa"/> svasti śrī <g type="finalGomutra"/></hi>
             </p>
             
             <lg n="1">
