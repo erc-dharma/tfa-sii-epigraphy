@@ -135,11 +135,10 @@
             </p>
             
             <p>
-               <!--@ Valérie : tu peux encoder la partie tamoule à partir d'ici-->
-               <lb n="13" break="no"/>kōpparakē<hi rend="grantha">sa</hi>ripa<hi rend="grantha">nma</hi>k=ku yāṇṭu <num>10 4</num> Āvatu Uṭaiy
-               <lb n="14" break="no"/>ār peru<unclear>ṉ</unclear>tiṟattu kuvaḷālam-uṭaiyāṉ Ampalavan paḻuvūr
-               <lb n="15"/>nakkaṉāṉa vi<hi rend="grantha">krama</hi>cōḻa <hi rend="grantha">mahārāja</hi>nēṉ vaṭa ka<unclear>r</unclear>ai <hi rend="grantha">brahmade</hi>ya
-               <lb n="16" break="no"/>m periya <hi rend="grantha"><unclear>śrī</unclear></hi> vanavaṉ-<hi rend="grantha">mahāde</hi>vi-<unclear>catu</unclear><hi rend="grantha"><unclear>vvedi</unclear></hi>maṅ<unclear>ka</unclear>lattu <hi rend="grantha">śrī</hi> vi<hi rend="grantha">ja</hi>yamaṅkala<unclear>t</unclear>
+               <lb n="13" break="no"/><persName>kōpparakē<hi rend="grantha">sa</hi>ripa<hi rend="grantha">nma</hi>k=ku</persName> yāṇṭu <num>10 4</num> Āvatu <persName>Uṭaiy
+               <lb n="14" break="no"/>ār peru<unclear>ṉ</unclear>tiṟattu <placeName>kuvaḷālam</placeName>-uṭaiyāṉ Ampalavan <placeName>paḻuvūr</placeName>
+               <lb n="15"/>nakkaṉāṉa vi<hi rend="grantha">krama</hi>cōḻa <roleName><hi rend="grantha">mahārāja</hi></roleName>nēṉ</persName> vaṭa ka<unclear>r</unclear>ai <hi rend="grantha">brahmade</hi>ya
+               <lb n="16" break="no"/>m <placeName>periya <hi rend="grantha"><unclear>śrī</unclear></hi> vanavaṉ-<hi rend="grantha">mahāde</hi>vi-<unclear>catu</unclear><hi rend="grantha"><unclear>vvedi</unclear></hi>maṅ<unclear>ka</unclear>lattu</placeName> <hi rend="grantha">śrī</hi> vi<hi rend="grantha">ja</hi>yamaṅkala<unclear>t</unclear>
                <lb n="17" break="no"/>tu <hi rend="grantha">mahāde</hi>var <hi rend="grantha">śrī</hi> vimāṉam kallāl Eḻuṉtaruḷuvittu I<hi rend="grantha">de</hi>vark<unclear>ku</unclear>t ti
                <lb n="18" break="no"/>ruvamitukkum tiruviḷakkukkum <hi rend="grantha">śrī bali</hi>kkum tirumeypūccukkum tiruppūkaik
                <lb n="19" break="no"/>kum tirunaṉtavānappuṟattukkum tiruviḻāvukkum <hi rend="grantha">snapa</hi>ṉaṅkaḷukkum maṟṟum
@@ -150,7 +149,7 @@
             
             <div type="textpart" subtype="surface" n="B">
              <p>
-            <lb n="22" break="no"/>ṅkalattu vaṭapiṭākai neṭuvāyilum
+            <lb n="22" break="no"/>ṅkalattu vaṭapiṭākai <placeName>neṭuvāyil</placeName>um
              <lb n="23"/>Itu <gap reason="illegible" extent="2" unit="character"/> ppaṭum Ūrtāmaraiṉal
               <lb n="24"/>Ārum tiruccen<unclear>i</unclear>valamum ma<unclear>ṇ</unclear>kulakku
               <lb n="25" break="no"/>ṟucciyum Uḷppaṭa Ineṭuvāyil vaḷai
@@ -158,18 +157,18 @@
               <lb n="27" break="no"/>ceyūm meṉceyum mēnōkk<supplied reason="lost">i</supplied>na maramum <supplied reason="lost">kī</supplied><unclear>ḻ</unclear>
                <lb n="28"/>ṉōkkina kiṇaṟum kuḷamum kōṭṭakamum paṟṟum teṟṟiyu<supplied reason="lost">m ma</supplied>
                 <lb n="29" break="no"/>ṟṟum Uṭump' ōṭi Āmai tavaḻ<choice><orig>ṇ</orig><reg>n</reg></choice>tatu Eppēṟppaṭa
-                <lb n="30" break="no"/>tum Ivūr ˚ilaikkalam<unclear>u</unclear>m ta<unclear>ṟi</unclear>ppuṭavaiyum kaṇ
+                <lb n="30" break="no"/>tum Ivūr Ilaikkalam<unclear>u</unclear>m ta<unclear>ṟi</unclear>ppuṭavaiyum kaṇ
                 <lb n="31" break="no"/>ṇālak <supplied reason="lost">kā</supplied>ṇamum <supplied reason="lost">i</supplied><unclear>kāṟ</unclear>ppāṭṭamum Ulaiyam Ulaippāṭṭamum
                 <lb n="32"/>Uḷppa<supplied reason="omitted">ṭa</supplied> Ivū<unclear>r</unclear> vaḷaiyilc cuṟṟumuṟṟum I<unclear>p</unclear>periya <hi rend="grantha">śrī</hi> vānavaṉ
                 <lb n="33" break="no"/><hi rend="grantha">mahāde<supplied reason="lost">vi</supplied></hi><hi rend="grantha"><unclear>cca</unclear></hi>tu<hi rend="grantha">vve</hi>timaṅkalattu peruṅkuṟip perumakkaḷ <supplied reason="lost">pa</supplied>kkal vilai
                 <lb n="34" break="no"/>koṇṭu Uṭaiyēṉṉā<supplied reason="omitted">y</supplied> Im<hi rend="grantha">mahāsabhai</hi>yārkkē Eḻu<unclear>ṉūṟu</unclear> kācu ku<unclear>ṭu</unclear>
                 <lb n="35" break="no"/>tta Iṟai Iḻicca Ipparicu Iṟai Iliyāka ṉān Uṭai En<unclear>ṉā</unclear>y Iru<unclear>ṉ</unclear>
-                <lb n="36" break="no"/>ta Ineṭuvāyil muṟṟum I <hi rend="grantha">śrī</hi> v<unclear>i</unclear><hi rend="grantha">ja</hi>yamaṅkalattu <hi rend="grantha">mahāde</hi>varkku mu
+                <lb n="36" break="no"/>ta I<placeName>neṭuvāyil</placeName> muṟṟum I <hi rend="grantha">śrī</hi> v<unclear>i</unclear><hi rend="grantha">ja</hi>yamaṅkalattu <hi rend="grantha">mahāde</hi>varkku mu
                 <lb n="37" break="no"/>ṉ cuṭṭappaṭṭa Eppēṟppaṭṭa taruvārātiṉaikaḷukkum <hi rend="grantha">bhogamā</hi>kak kuṭuttē
-                <lb n="38" break="no"/>ṉ kuvalāḷam-uṭaiyān Ampalavaṉ paḻuvūr nakkaṉāṉa vi<hi rend="grantha">kramaśo</hi>ḻa <hi rend="grantha">mahā
-                <lb n="39" break="no"/>rāj<unclear>ā</unclear></hi>naṉ Ivai pan<hi rend="grantha">mahā</hi> E<supplied reason="lost"><hi rend="grantha">śva</hi></supplied>ra ra<hi rend="grantha">kṣai</hi> Aṟam<surplus>m</surplus> aṟavekka Aṟam<surplus>m</surplus> allatu tuṇaiyilai
-                <lb n="40"/>I<unclear>va</unclear> colla Eḻutinnē Ivūr <hi rend="grantha">maddhastha</hi>n ninṟān Ārā Amutān vānavamātevip peruṅk<unclear>ā</unclear>
-                <lb n="41" break="no"/>vitiy Ivai Enneḻuttu
+                <lb n="38" break="no"/>ṉ <persName><placeName>kuvalāḷam</placeName>-uṭaiyān Ampalavaṉ <placeName>paḻuvūr</placeName> nakkaṉāṉa vi<hi rend="grantha">kramaśo</hi>ḻa <roleName><hi rend="grantha">mahā
+                <lb n="39" break="no"/>rāj<unclear>ā</unclear></hi>naṉ</roleName></persName> Ivai pan<hi rend="grantha">mahā</hi> E<supplied reason="lost"><hi rend="grantha">śva</hi></supplied>ra ra<hi rend="grantha">kṣai</hi> Aṟam<surplus>m</surplus> aṟavekka Aṟam<surplus>m</surplus> allatu tuṇaiyilai
+                <lb n="40"/>I<unclear>va</unclear> colla Eḻutinnē Ivūr <roleName><hi rend="grantha">maddhastha</hi>n</roleName> <persName>ninṟān Ārā Amutān</persName> <placeName>vānavamātevi</placeName>p <roleName>peruṅk<unclear>ā</unclear>
+                <lb n="41" break="no"/>viti</roleName>y Ivai Enneḻuttu
              </p>
             </div>
          	
