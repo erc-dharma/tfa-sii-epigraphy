@@ -96,7 +96,7 @@
                <lb n="1"/><hi rend="grantha">svasti śrī</hi>
             </p>
             <p>
-            <lb n="1"/>koppa[[rakecaripaṉma[r*]kku yāṇṭu 11]] ˚āvatu vaṭakarai nallāṟṟūrnāṭṭu tirukko[[ṭikāvil mahā]]devarkku śrī ˚uttamacoḻade[[varai tiruvayiṟu vāytta ma]]ḻavaraiyar makiḷār
+            <lb n="1"/>kōppa<supplied reason="lost">rakēcaripaṉ<hi rend="grantha">ma</hi>kku yāṇṭu <num>10 1</num></supplied> Āvatu vaṭakarai nallāṟṟūrnāṭṭu tirukkō<supplied reason="lost">ṭikāvil <hi rend="grantha">mahā</hi></supplied><hi rend="grantha">de</hi>varkku <hi rend="grantha">śrī</hi> Uttamacōḻa<hi rend="grantha">de</hi><supplied reason="lost">varai tiruvayiṟu vāytta ma</supplied>ḻavaraiyar makiḷār
             <lb n="2"/>prāntaka[[ṉ mātevaṭikaḷārāna cem]]piyan māh[ā*]deviyār ˚iddevarkku muṉṉ iṭṭikai[[[p paṭaiyālu]ḷḷa śrī]]koyilait tavirttu kallāle [[śrī vimāṉam amaippi]]ttu ˚idevaruṭaiya
              <lb n="3"/>paṭikaḷ muṉpu dharmmattukku [v]ai[t]tu kaṟkaḷil veṭṭikkiṭanta ˚avai vevveṟu kallāl palav iṭattilāyk kiṭanta ˚avai ˚ellām ˚inta śrī vimāṉattiṉ mel muṉ {built over}
              <lb n="4"/>˚eṟa veṭṭikkoḷka ˚eṉṟu ˚aruḷicey veṭṭiṉapaṭi muṉ kiṭanta paṭikaḷil ˚itu ˚oru paṭi [||*] komāṟañcaṭaiyaṟku yāṇṭu 4 ˚āvatiṉ etir ˚oṉpatāvatu ā˚ {built over}
@@ -107,14 +107,20 @@
          </div>
 
          <div type="apparatus">
-            <!--Check both SII editions-->
+            
             
             <listApp>
-                <app loc="23">
-                  <lem>ppaṭum</lem>
-                  <rdg source="bib:SrinivasaRao1967_01">ppacam</rdg>
-                  <rdg source="bib:Swaminathan2012_01">ppacam</rdg>
-                   <note>the letter ṭu indeed resembles the letter ca, but I chose to read it ṭu because it is exactly the same as the other ṭu of the inscription</note>
+                <app loc="1">
+                  <lem>kōppa<supplied reason="lost">rakēcaripaṉ<hi rend="grantha">ma</hi>kku yāṇṭu <num>10 1</num></supplied></lem>
+                  <rdg source="bib:SrinivasaRao1967_01">kōpparakēcaripaṉmakku yāṇṭu <num>10 1</num></rdg>
+                   <note>this passage is no longer fully legible</note>
+                   </app>
+                   
+               <app loc="1">
+                  <lem>Uttamacōḻa<hi rend="grantha">de</hi><supplied reason="lost">varai tiruvayiṟu vāytta ma</supplied>ḻavaraiyar</lem>
+                  <rdg source="bib:SrinivasaRao1967_01">Uttamacōḻa<hi rend="grantha">de</hi>varai tiruvayiṟu vāytta maḻavaraiyar</rdg>
+                   <note>this passage is no longer fully legible</note>
+                   
                </app>
                
              
