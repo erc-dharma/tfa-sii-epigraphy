@@ -97,7 +97,7 @@
             </p>
             <p>
             <lb n="1"/>kōppa<supplied reason="lost">rakēcaripaṉ<hi rend="grantha">ma</hi>kku yāṇṭu <num>10 1</num></supplied> Āvatu vaṭakarai nallāṟṟūrnāṭṭu tirukkō<supplied reason="lost">ṭikāvil <hi rend="grantha">mahā</hi></supplied><hi rend="grantha">de</hi>varkku <hi rend="grantha">śrī</hi> Uttamacōḻa<hi rend="grantha">de</hi><supplied reason="lost">varai tiruvayiṟu vāytta ma</supplied>ḻavaraiyar makiḷār
-            <lb n="2"/>prāntaka[[ṉ mātevaṭikaḷārāna cem]]piyan māh[ā*]deviyār ˚iddevarkku muṉṉ iṭṭikai[[[p paṭaiyālu]ḷḷa śrī]]koyilait tavirttu kallāle [[śrī vimāṉam amaippi]]ttu ˚idevaruṭaiya
+            <lb n="2"/><choice><sic>prā</sic><corr>pirā</corr></choice>ntaka<supplied reason="lost">ṉ <hi rend="grantha">mā</hi>tēvaṭikaḷār-āna cem</supplied>piyan <hi rend="grantha"><choice><sic>māha</sic><corr>mahā</corr></choice>de</hi>viyār I<hi rend="grantha">dde</hi>varkku muṉ<surplus>ṉ</surplus> iṭṭikai<supplied reason="lost">p paṭaiyāluḷḷa <hi rend="grantha">śrī</hi></supplied>kōyilait tavirttu kallālē <supplied reason="lost"><hi rend="grantha">śrī</hi> vimāṉam amaippi</supplied>tu I<hi rend="grantha">de</hi>varuṭaiya
              <lb n="3"/>paṭikaḷ muṉpu dharmmattukku [v]ai[t]tu kaṟkaḷil veṭṭikkiṭanta ˚avai vevveṟu kallāl palav iṭattilāyk kiṭanta ˚avai ˚ellām ˚inta śrī vimāṉattiṉ mel muṉ {built over}
              <lb n="4"/>˚eṟa veṭṭikkoḷka ˚eṉṟu ˚aruḷicey veṭṭiṉapaṭi muṉ kiṭanta paṭikaḷil ˚itu ˚oru paṭi [||*] komāṟañcaṭaiyaṟku yāṇṭu 4 ˚āvatiṉ etir ˚oṉpatāvatu ā˚ {built over}
              <lb n="5"/>rukkoṭikāvil mahādevarkku nontāviḷakkiṉukku [[vara]] {damaged between 10 to 15 letters} jar kuṭutta poṉ ṉūṟṟirupatiṉ {damaged about 3 letters} [[ippo]]ṉ mahendrakoṭṭūr sabhaiyoṅ {built over}
@@ -120,10 +120,25 @@
                   <lem>Uttamacōḻa<hi rend="grantha">de</hi><supplied reason="lost">varai tiruvayiṟu vāytta ma</supplied>ḻavaraiyar</lem>
                   <rdg source="bib:SrinivasaRao1967_01">Uttamacōḻa<hi rend="grantha">de</hi>varai tiruvayiṟu vāytta maḻavaraiyar</rdg>
                    <note>this passage is no longer fully legible</note>
-                   
+               </app>
+                
+               <app loc="2">
+                  <lem><supplied reason="lost">ṉ <hi rend="grantha">mā</hi>tēvaṭikaḷār-āna cem</supplied></lem>
+                  <rdg source="bib:SrinivasaRao1967_01">ṉ <hi rend="grantha">mā</hi>tēvaṭikaḷār-āna cem</rdg>
+                   <note>this passage is no longer legible</note>
                </app>
                
-             
+                <app loc="2">
+                  <lem><supplied reason="lost">p paṭaiyāluḷḷa <hi rend="grantha">śrī</hi></supplied></lem>
+                  <rdg source="bib:SrinivasaRao1967_01"><unclear>p paṭaiyālu</unclear>ḷḷa <hi rend="grantha">śrī</hi></rdg>
+                   <note>this passage is no longer legible</note> 
+               </app>
+               
+             <app loc="2">
+                  <lem><supplied reason="lost"><hi rend="grantha">śrī</hi> vimāṉam amaippi</supplied></lem>
+                  <rdg source="bib:SrinivasaRao1967_01"><hi rend="grantha">śrī</hi> vimāṉam amaippi</rdg>
+                   <note>this passage is no longer legible</note> 
+               </app>
             </listApp>
             
          </div>
