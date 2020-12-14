@@ -6,7 +6,7 @@
       <fileDesc>
          <titleStmt>
             <title>Tirukkōṭikkāval, Tirukkōṭīśvara Temple, time of Uttamacōḻa,
-					year 1 (1)</title>
+					year 11 (1)</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:vagi">
@@ -98,11 +98,11 @@
             <p>
             <lb n="1"/>kōppa<supplied reason="lost">rakēcaripaṉ<hi rend="grantha">ma</hi>kku yāṇṭu <num>10 1</num></supplied> Āvatu vaṭakarai nallāṟṟūrnāṭṭu tirukkō<supplied reason="lost">ṭikāvil <hi rend="grantha">mahā</hi></supplied><hi rend="grantha">de</hi>varkku <hi rend="grantha">śrī</hi> Uttamacōḻa<hi rend="grantha">de</hi><supplied reason="lost">varai tiruvayiṟu vāytta ma</supplied>ḻavaraiyar makiḷār
             <lb n="2"/><choice><sic>prā</sic><corr>pirā</corr></choice>ntaka<supplied reason="lost">ṉ <hi rend="grantha">mā</hi>tēvaṭikaḷār-āna cem</supplied>piyan <hi rend="grantha"><choice><sic>māha</sic><corr>mahā</corr></choice>de</hi>viyār I<hi rend="grantha">dde</hi>varkku muṉ<surplus>ṉ</surplus> iṭṭikai<supplied reason="lost">p paṭaiyāluḷḷa <hi rend="grantha">śrī</hi></supplied>kōyilait tavirttu kallālē <supplied reason="lost"><hi rend="grantha">śrī</hi> vimāṉam amaippi</supplied>tu I<hi rend="grantha">de</hi>varuṭaiya
-             <lb n="3"/>paṭikaḷ muṉpu dharmmattukku [v]ai[t]tu kaṟkaḷil veṭṭikkiṭanta ˚avai vevveṟu kallāl palav iṭattilāyk kiṭanta ˚avai ˚ellām ˚inta śrī vimāṉattiṉ mel muṉ {built over}
-             <lb n="4"/>˚eṟa veṭṭikkoḷka ˚eṉṟu ˚aruḷicey veṭṭiṉapaṭi muṉ kiṭanta paṭikaḷil ˚itu ˚oru paṭi [||*] komāṟañcaṭaiyaṟku yāṇṭu 4 ˚āvatiṉ etir ˚oṉpatāvatu ā˚ {built over}
-             <lb n="5"/>rukkoṭikāvil mahādevarkku nontāviḷakkiṉukku [[vara]] {damaged between 10 to 15 letters} jar kuṭutta poṉ ṉūṟṟirupatiṉ {damaged about 3 letters} [[ippo]]ṉ mahendrakoṭṭūr sabhaiyoṅ {built over}
-             <lb n="6"/>licaiyāl nicatam nāḻi ney rājamāttāṇṭaṉukku śrī[ko] {damaged about 5 letters} [ko]ṇṭu ceṉṟu tirukkoyiluṭaiyār {damaged about 6 letters} kuṭuppomāṉom mahendrakoṭṭūr sabhai {built over}
-             <lb n="7"/>˚inta śrī vimaṉattile ˚eṟa veṭṭinamaiyil muṉṉivvājakam veṭṭikiṭanta taṉik[kallāl] [[˚u]]paiyogam ˚illāmaiyil ˚atu tavirntatu
+             <lb n="3"/>paṭikaḷ muṉpu <hi rend="grantha">dharmma</hi>ttukku <unclear>v</unclear>ai<unclear>t</unclear>tu kaṟkaḷil veṭṭik kiṭanta Avai vevvēṟu kallāl palav iṭattilāyk kiṭanta Avai Ēllām Inta <hi rend="grantha">śrī</hi> vimāṉattiṉ mēl muṉ <gap reason="lost" extent="unknown" unit="character"/>
+             <lb n="4"/>Ēṟa veṭṭikkoḷka Eṉṟu Aruḷicey veṭṭiṉapaṭi muṉ kiṭanta paṭikaḷil Itu Oru paṭi <persName>kōmāṟañcaṭaiyaṟku</persName> yāṇṭu <num>4</num> Āvatiṉ etir Oṉpat' āvatu Ā <gap reason="lost" extent="unknown" unit="character"/>
+             <lb n="5" break="no"/>rukkoṭikāvil <hi rend="grantha">mahāde</hi>varkku nontāviḷakkiṉukku <supplied reason="lost">vara</supplied> <gap reason="lost" extent="15" unit="character" cert="medium"/> <hi rend="grantha">ja</hi>r kuṭutta poṉ ṉūṟṟirupatiṉ <gap reason="lost" extent="3" unit="character" cert="medium"/> <supplied reason="lost">Ippo</supplied>ṉ <hi rend="grantha">mahendra</hi>koṭṭūr <hi rend="grantha">sabhai</hi>yoṅ <gap reason="lost" extent="unknown" unit="character"/>
+             <lb n="6" break="no"/>licaiyāl nicatam nāḻi ney <hi rend="grantha">rāja</hi>māttāṇṭaṉukku <hi rend="grantha">śrī</hi><unclear>kō</unclear> <gap reason="lost" extent="5" unit="character" cert="medium"/> <unclear>ko</unclear>ṇṭu ceṉṟu tirukkōyiluṭaiyār <gap reason="lost" extent="6" unit="character" cert="medium"/> kuṭuppōmāṉōm <hi rend="grantha">mahendra</hi>koṭṭūr <hi rend="grantha">sabhai</hi> <gap reason="lost" extent="unknown" unit="character"/>
+             <lb n="7"/><g/> Inta <hi rend="grantha">śrī</hi> vimāṉattilē Ēṟa veṭṭinamaiyil muṉṉivvā<hi rend="grantha">ja</hi>kam veṭṭi kiṭanta taṉik<unclear>kallāl</unclear> <hi rend="grantha"><supplied reason="lost">U</supplied>paiyogam</hi> Illāmaiyil Atu tavirntatu
             </p>
          </div>
 
@@ -139,6 +139,27 @@
                   <rdg source="bib:SrinivasaRao1967_01"><hi rend="grantha">śrī</hi> vimāṉam amaippi</rdg>
                    <note>this passage is no longer legible</note> 
                </app>
+               
+                <app loc="5">
+                  <lem><supplied reason="lost">vara</supplied></lem>
+                  <rdg source="bib:SrinivasaRao1967_01">vara</rdg>
+                   <note>this passage is no longer legible</note> 
+               </app>
+               
+               <app loc="5">
+                  <lem><supplied reason="lost">Ippo</supplied></lem>
+                  <rdg source="bib:SrinivasaRao1967_01">Ippo</rdg>
+                   <note>this passage is no longer legible</note> 
+               </app>
+               
+               <app loc="7">
+                  <lem><supplied reason="lost">U</supplied></lem>
+                  <rdg source="bib:SrinivasaRao1967_01">U</rdg>
+                   <note>this letter is no longer legible</note> 
+               </app>
+               
+               
+               
             </listApp>
             
          </div>
@@ -180,8 +201,8 @@
                
                <bibl>
                   <ptr target="bib:ARIE1930-1931"/>
-                  <citedRange unit="page">6</citedRange><!--Check/Update page-->
-                  <citedRange unit="appendix">B</citedRange><!--Check/Update page-->
+                  <citedRange unit="page">8</citedRange>
+                  <citedRange unit="appendix">B</citedRange>
                   <citedRange unit="item">36</citedRange>
                </bibl>
                
