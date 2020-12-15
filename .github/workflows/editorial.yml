@@ -20,10 +20,17 @@ jobs:
        - name: Build with Ant
          run: ant -noinput -buildfile build.xml
 
+       # create a package with the resulting html files.
+       - name: Archive HTML
+         uses: actions/upload-artifact@v2
+         with:
+           name: DHARMA_HTMLCollection
+           path: texts/edition-translation
+
        - name: Updating the edited texts in the repository
          run: |
           mv texts/editedxml/*.xml texts/xml
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add texts/
+          git add texts/xml
           git commit -m "XML files are edited regarding editorial conventions"
