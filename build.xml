@@ -33,6 +33,7 @@
 
     <fileset id="xmlFiles" dir="./texts/xml" includes="*.xml"/>
     <fileset id="htmlFiles" dir="./texts/editedxml" includes="*.xml"/>
+    
     <!-- Transformation XML vers XML -->
     <xslt force="true" style="./project-documentation/EditorialStylesheets/tpl-editorialConvention.xsl" destdir="./texts/editedxml" extension=".xml" useImplicitFileset="false" classpath="./project-documentation/EditorialStylesheets/pipelineTools/saxon9he.jar">
         <fileset refid="xmlFiles"/>
