@@ -85,7 +85,7 @@
       </encodingDesc>
       <revisionDesc>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
-         <change who="part:vagi" when="2020-10-29" status="draft">Creation of the file</change>
+         <change who="part:vagi" when="2020-12-10" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
@@ -96,7 +96,7 @@
                <lb n="1"/><hi rend="grantha">svasti śrī</hi>
             </p>
             <p>
-            <lb n="1"/>kōppa<supplied reason="lost">rakēcaripaṉ<hi rend="grantha">ma</hi>kku yāṇṭu <num>10 1</num></supplied> Āvatu vaṭakarai nallāṟṟūrnāṭṭu tirukkō<supplied reason="lost">ṭikāvil <hi rend="grantha">mahā</hi></supplied><hi rend="grantha">de</hi>varkku <hi rend="grantha">śrī</hi> Uttamacōḻa<hi rend="grantha">de</hi><supplied reason="lost">varai tiruvayiṟu vāytta ma</supplied>ḻavaraiyar makiḷār
+            <lb n="1"/>kōppa<supplied reason="lost">rakēcaripaṉ<hi rend="grantha">ma</hi>kku yāṇṭu <num value="11"><g type="numeral">10</g>1</num></supplied> Āvatu vaṭakarai nallāṟṟūrnāṭṭu tirukkō<supplied reason="lost">ṭikāvil <hi rend="grantha">mahā</hi></supplied><hi rend="grantha">de</hi>varkku <hi rend="grantha">śrī</hi> Uttamacōḻa<hi rend="grantha">de</hi><supplied reason="lost">varai tiruvayiṟu vāytta ma</supplied>ḻavaraiyar makiḷār
             <lb n="2"/><choice><sic>prā</sic><corr>pirā</corr></choice>ntaka<supplied reason="lost">ṉ <hi rend="grantha">mā</hi>tēvaṭikaḷār-āna cem</supplied>piyan <hi rend="grantha"><choice><sic>māha</sic><corr>mahā</corr></choice>de</hi>viyār I<hi rend="grantha">dde</hi>varkku muṉ<surplus>ṉ</surplus> iṭṭikai<supplied reason="lost">p paṭaiyāluḷḷa <hi rend="grantha">śrī</hi></supplied>kōyilait tavirttu kallālē <supplied reason="lost"><hi rend="grantha">śrī</hi> vimāṉam amaippi</supplied>tu I<hi rend="grantha">de</hi>varuṭaiya
              <lb n="3"/>paṭikaḷ muṉpu <hi rend="grantha">dharmma</hi>ttukku <unclear>v</unclear>ai<unclear>t</unclear>tu kaṟkaḷil veṭṭik kiṭanta Avai vevvēṟu kallāl palav iṭattilāyk kiṭanta Avai Ēllām Inta <hi rend="grantha">śrī</hi> vimāṉattiṉ mēl muṉ <gap reason="lost" extent="unknown" unit="character"/>
              <lb n="4"/>Ēṟa veṭṭikkoḷka Eṉṟu Aruḷicey veṭṭiṉapaṭi muṉ kiṭanta paṭikaḷil Itu Oru paṭi <persName>kōmāṟañcaṭaiyaṟku</persName> yāṇṭu <num>4</num> Āvatiṉ etir Oṉpat' āvatu Ā <gap reason="lost" extent="unknown" unit="character"/>
@@ -180,6 +180,8 @@
          <div type="bibliography">
 
             <p>
+<!--               First reported in ARIE 1930-1931/B/36 <ptr target="bib:ARIE1930-1931"/>; edited for the first time in SII 19, no. 292 <ptr target="bib:SrinivasaRao1967_01"/>; present edition by Valérie Gillet from autopsy and photographs. I COPIED THIS ONE FROM A PREVIOUS EDITION WE DID TOGETHER, BUT THE ONE UNDER HAS CHANGED. SO I DON'T KNOW WHICH ONE TO KEEP. OR PERHAPS IT DOES NOT MATTER ?-->
+               
                First edited in <bibl n="SII 19.292">
                   <ptr target="bib:SrinivasaRao1967_01"/>
                   <citedRange unit="page">144-145</citedRange>
