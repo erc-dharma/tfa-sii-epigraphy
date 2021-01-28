@@ -145,7 +145,7 @@
                <lb n="17" break="no"/>tu <hi rend="grantha">mahāde</hi>var <hi rend="grantha">śrī</hi> vimāṉam kallāl Eḻuṉtaruḷuvittu I<hi rend="grantha">de</hi>vark<unclear>ku</unclear>t ti
                <lb n="18" break="no"/>ruvamitukkum tiruviḷakkukkum <hi rend="grantha">śrī bali</hi>kkum tirumeypūccukkum tiruppūkaik
                <lb n="19" break="no"/>kum tirunaṉtavānappuṟattukkum tiruviḻāvukkum <hi rend="grantha">snapa</hi>ṉaṅkaḷukkum maṟṟum
-               <lb n="20"/>I<hi rend="grantha">de</hi>varkku veṇṭum Ārātiṉaikaḷ Eppēṟpaṭṭaṉa Avaiccukkum Uttama <unclear>I</unclear> <gap reason="illegible" extent="1" unit="character"/>
+               <lb n="20"/>I<hi rend="grantha">de</hi>varkku veṇṭum Ārātiṉaikaḷ Eppēṟpaṭṭaṉa Avaiccukkum Uttama <unclear>I</unclear> <gap reason="illegible" quantity="1" unit="character"/>
                <lb n="21"/>mākaṉāṉ kuṭutta Ū<unclear>r</unclear>āva<unclear>tu</unclear> Ipperiya <hi rend="grantha">śrī</hi> vānavaṉ-<hi rend="grantha">mahāde</hi>vi-<hi rend="grantha">ca</hi>tu<hi rend="grantha">rvvedi</hi>ma
             </p>
          </div>
@@ -153,10 +153,10 @@
             <div type="textpart" subtype="surface" n="B">
              <p>
             <lb n="22" break="no"/>ṅkalattu vaṭapiṭākai <placeName>neṭuvāyil</placeName>um
-             <lb n="23"/>Itu <gap reason="illegible" extent="2" unit="character"/> ppaṭum Ūrtāmaraiṉal
+             <lb n="23"/>Itu <gap reason="illegible" quantity="2" unit="character"/> ppaṭum Ūrtāmaraiṉal
               <lb n="24"/>Ārum tiruccen<unclear>i</unclear>valamum ma<unclear>ṇ</unclear>kulakku
               <lb n="25" break="no"/>ṟucciyum Uḷppaṭa Ineṭuvāyil vaḷai
-             <lb n="26" break="no"/>yilc cuṟṟumuṟṟum Ivūr ni<gap reason="illegible" extent="1" unit="character"/><unclear>i</unclear>la<gap reason="illegible" extent="1" unit="character"/>m paṉ
+             <lb n="26" break="no"/>yilc cuṟṟumuṟṟum Ivūr ni<gap reason="illegible" quantity="1" unit="character"/><unclear>i</unclear>la<gap reason="illegible" quantity="1" unit="character"/>m paṉ
               <lb n="27" break="no"/>ceyūm meṉceyum mēnōkk<supplied reason="lost">i</supplied>na maramum <supplied reason="lost">kī</supplied><unclear>ḻ</unclear>
                <lb n="28"/>ṉōkkina kiṇaṟum kuḷamum kōṭṭakamum paṟṟum teṟṟiyu<supplied reason="lost">m ma</supplied>
                 <lb n="29" break="no"/>ṟṟum Uṭump’ ōṭi Āmai tavaḻ<choice><orig>ṇ</orig><reg>n</reg></choice>tatu Eppēṟppaṭa
@@ -251,13 +251,11 @@
              <p rend="stanza" n="2">
                 <!--Reporter les explications en commentary?-->
                 <!--Check indentation policy-->
-                <lg>
                    <l>Les mendiants le considèrent comme la libéralité incarnée,</l>
                    <l>Ses ennemis comme possédant un corps fait d’héroïsme,</l>
                    <l>Les femmes <supplied reason="explanation">littéralement « celles qui ont  des yeux de biche  »</supplied>, comme Anaṅga (Kāma, littéralement « celui qui n’a pas de corps  »)
                       <supplied reason="subaudible">bien que</supplied> de lignée humaine <supplied reason="explanation">littéralement « qui a un corps  »</supplied></l>
-                   <l>Les sages comme le <foreign>dharma</foreign> incarné.</l>
-                </lg>
+                   <l>Les sages comme le <foreign>dharma</foreign> incarné.</l>              
             </p>
             <p n="6-13">
                <!--Update! This is verse! But how many stanzas? And which metres?-->
@@ -268,7 +266,7 @@
          </div>
 
          <div type="commentary">
-         	<p n="20">Uttama, at the end of the line, is written is smaller letters and seems to have been added later. It may be connected to the few lines added on the pilaster: yogi kalamupatu / Iccivayo<hi rend="grantha">gi</hi> / <hi rend="grantha">brāhma</hi>ṇāvo<gap reason="illegible" extent="1" unit="character"/> / vallor<unclear>i</unclear> A<unclear>puvi</unclear> / <gap reason="illegible" extent="unknown" unit="character"/> 
+         	<p n="20">Uttama, at the end of the line, is written is smaller letters and seems to have been added later. It may be connected to the few lines added on the pilaster: yogi kalamupatu / Iccivayo<hi rend="grantha">gi</hi> / <hi rend="grantha">brāhma</hi>ṇāvo<gap reason="illegible" quantity="1" unit="character"/> / vallor<unclear>i</unclear> A<unclear>puvi</unclear> / <gap reason="illegible" extent="unknown" unit="character"/> 
          	</p>
            <p n="21">A few words are added on the pilaster before the begining of the line but the letters are not very clear on my pictures. I think they were added later, as the ones on the other side (see commentary on the previous line). 
          	</p>
