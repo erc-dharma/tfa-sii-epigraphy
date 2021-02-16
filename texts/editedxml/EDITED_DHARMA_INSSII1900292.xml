@@ -8,8 +8,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tirukkōṭikkāval, Tirukkōṭīśvara Temple, time of Uttamacōḻa,
-					year 11 (1)</title>
+            <title>Tirukkōṭikkāval, Tirukkōṭīśvara Temple, time of Uttamacōḻa, year 11
+					(1)</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:vagi">
@@ -65,8 +65,8 @@
       <encodingDesc>
          <projectDesc>
             <p>This project DHARMA has received funding from the European Research Council (ERC)
-                        under the European Union’s Horizon 2020 research and innovation programme (grant
-                        agreement no 809994).</p>
+					under the European Union’s Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
          </projectDesc>
          <schemaRef type="guide"
                     key="EGDv01"
@@ -76,18 +76,19 @@
                        matchPattern="([a-zA-Z0-9\-\_]+)"
                        replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
-                            ERC-DHARMA whose data are open to the public.</p>
+						ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
             <prefixDef ident="part"
                        matchPattern="([a-z]+)"
                        replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
-                            <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+							<ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
+         <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding
+				template v03</change>
          <change who="part:vagi" when="2020-12-10" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
@@ -103,8 +104,8 @@
             <lb n="2"/><choice><sic>prā</sic><corr>pirā</corr></choice>ntaka<supplied reason="lost">ṉ <hi rend="grantha">mā</hi>tēvaṭikaḷār-āna cem</supplied>piyan <hi rend="grantha"><choice><sic>māha</sic><corr>mahā</corr></choice>de</hi>viyār I<hi rend="grantha">dde</hi>varkku muṉ<surplus>ṉ</surplus> iṭṭikai<supplied reason="lost">p paṭaiyāluḷḷa <hi rend="grantha">śrī</hi></supplied>kōyilait tavirttu kallālē <supplied reason="lost"><hi rend="grantha">śrī</hi> vimāṉam amaippi</supplied>tu I<hi rend="grantha">de</hi>varuṭaiya
              <lb n="3"/>paṭikaḷ muṉpu <hi rend="grantha">dharmma</hi>ttukku <unclear>v</unclear>ai<unclear>t</unclear>tu kaṟkaḷil veṭṭik kiṭanta Avai vevvēṟu kallāl palav iṭattilāyk kiṭanta Avai Ēllām Inta <hi rend="grantha">śrī</hi> vimāṉattiṉ mēl muṉ <gap reason="lost" extent="unknown" unit="character"/>
              <lb n="4"/>Ēṟa veṭṭikkoḷka Eṉṟu Aruḷicey veṭṭiṉapaṭi muṉ kiṭanta paṭikaḷil Itu Oru paṭi <persName>kōmāṟañcaṭaiyaṟku</persName> yāṇṭu <num>4</num> Āvatiṉ etir Oṉpat’ āvatu Ā <gap reason="lost" extent="unknown" unit="character"/>
-             <lb n="5" break="no"/>rukkoṭikāvil <hi rend="grantha">mahāde</hi>varkku nontāviḷakkiṉukku <supplied reason="lost">vara</supplied> <gap reason="lost" quantity="15" unit="character" cert="medium"/> <hi rend="grantha">ja</hi>r kuṭutta poṉ ṉūṟṟirupatiṉ <gap reason="lost" quantity="3" unit="character" cert="medium"/> <supplied reason="lost">Ippo</supplied>ṉ <hi rend="grantha">mahendra</hi>koṭṭūr <hi rend="grantha">sabhai</hi>yoṅ <gap reason="lost" extent="unknown" unit="character"/>
-             <lb n="6" break="no"/>licaiyāl nicatam nāḻi ney <hi rend="grantha">rāja</hi>māttāṇṭaṉukku <hi rend="grantha">śrī</hi><unclear>kō</unclear> <gap reason="lost" quantity="5" unit="character" cert="medium"/> <unclear>ko</unclear>ṇṭu ceṉṟu tirukkōyiluṭaiyār <gap reason="lost" quantity="6" unit="character" cert="medium"/> kuṭuppōmāṉōm <hi rend="grantha">mahendra</hi>koṭṭūr <hi rend="grantha">sabhai</hi> <gap reason="lost" extent="unknown" unit="character"/>
+             <lb n="5" break="no"/>rukkoṭikāvil <hi rend="grantha">mahāde</hi>varkku nontāviḷakkiṉukku <supplied reason="lost">vara</supplied> <gap reason="lost" quantity="15" unit="character" precision="low"/> <hi rend="grantha">ja</hi>r kuṭutta poṉ ṉūṟṟirupatiṉ <gap reason="lost" quantity="3" unit="character" precision="low"/> <supplied reason="lost">Ippo</supplied>ṉ <hi rend="grantha">mahendra</hi>koṭṭūr <hi rend="grantha">sabhai</hi>yoṅ <gap reason="lost" extent="unknown" unit="character"/>
+             <lb n="6" break="no"/>licaiyāl nicatam nāḻi ney <hi rend="grantha">rāja</hi>māttāṇṭaṉukku <hi rend="grantha">śrī</hi><unclear>kō</unclear> <gap reason="lost" quantity="5" unit="character" precision="low"/> <unclear>ko</unclear>ṇṭu ceṉṟu tirukkōyiluṭaiyār <gap reason="lost" quantity="6" unit="character" precision="low"/> kuṭuppōmāṉōm <hi rend="grantha">mahendra</hi>koṭṭūr <hi rend="grantha">sabhai</hi> <gap reason="lost" extent="unknown" unit="character"/>
              <lb n="7"/><g/> Inta <hi rend="grantha">śrī</hi> vimāṉattilē Ēṟa veṭṭinamaiyil muṉṉivvā<hi rend="grantha">ja</hi>kam veṭṭi kiṭanta taṉik<unclear>kallāl</unclear> <hi rend="grantha"><supplied reason="lost">U</supplied>paiyogam</hi> Illāmaiyil Atu tavirntatu
             </p>
          </div>
@@ -167,9 +168,9 @@
             
          </div>
 
-         <div type="translation">
+         <!--<div type="translation">
          	
-         </div>
+         </div>-->
 
          <div type="commentary">
          	<p n="20">
