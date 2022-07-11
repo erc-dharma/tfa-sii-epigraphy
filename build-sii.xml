@@ -31,7 +31,7 @@
     <!-- git clone then pull -->
     <git-clone-pull repository="https://github.com/erc-dharma/project-documentation.git" dest="project-documentation" />
 
-    <fileset id="xmlFiles" dir="./sii-corpus" includes="*.xml"/>
+    <fileset id="xmlFiles" dir="./sii-corpus" excludes="*_footnotes.xml *_tables*.xml"/>
 
     <!-- Transformation XML vers HTML -->
     <xslt force="true" style="./project-documentation/stylesheets/sii/sii-display.xsl" destdir="./workflow-output" extension=".html" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
