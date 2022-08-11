@@ -199,7 +199,8 @@
         let htmlString = '';
         for (let file of data.filter(filterFiles(filter)).sort(sortFiles(filter))) {
           const fileName = file.path.replace('.md', '');
-          const fileDisplayName = fileName.split('-').join(' ').replace('texts/htmloutput/', '').replace('.html', '');
+          let re = /\_[a-z0-9]+\.html/
+          var fileDisplayName = fileName.replace('metadata/DHARMA_mdt_', 'Metadata ').replace(re, '').replace('.html', '');
           htmlString += `<li class="list-group-item"><a href="${fileName}">${fileDisplayName}</a></li>`;
         }
         document.getElementById('list').innerHTML = htmlString;
@@ -215,7 +216,7 @@
       }
       (async () => {
         // Get GitHub repository file info
-        const response = await fetch('https://api.github.com/repos/erc-dharma/tfa-sii-epigraphy/contents/texts/htmloutput');
+        const response = await fetch('https://api.github.com/repos/erc-dharma/tfa-sii-epigraphy/contents/metadata');
         const data = await response.json();
         // Initialize search fields and results
         const search_form = document.getElementById('search_form');
