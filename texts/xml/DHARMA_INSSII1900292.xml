@@ -52,11 +52,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>Repha in conjunct is a dot above the letter.</p>
-							<!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
-						<summary><p><p/></summary>
-						<handNote xml:id="Pallava00001_hand1"></handNote>
-						<handNote xml:id="Pallava00001_hand2"></handNote>-->
+							<p>The <foreign>repha</foreign> in conjunct is a dot above the letter.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -181,13 +177,7 @@
          <div type="bibliography">
 
             <p>
-<!--               First reported in ARIE 1930-1931/B/36 <ptr target="bib:ARIE1930-1931"/>; edited for the first time in SII 19, no. 292 <ptr target="bib:SrinivasaRao1967_01"/>; present edition by Valérie Gillet from autopsy and photographs. I COPIED THIS ONE FROM A PREVIOUS EDITION WE DID TOGETHER, BUT THE ONE UNDER HAS CHANGED. SO I DON'T KNOW WHICH ONE TO KEEP. OR PERHAPS IT DOES NOT MATTER ?-->
-               
-               First edited in <bibl n="SII 19.292">
-                  <ptr target="bib:SrinivasaRao1967_01"/>
-                  <citedRange unit="page">144-145</citedRange>
-                  <citedRange unit="item">292</citedRange>
-               </bibl>; re-edited here for DHARMA (ERC n° 809994) by Valérie Gillet (2020), based on autopsy and photographs.
+               First reported <bibl><ptr target="bib:ARIE1930-1931"/></bibl> (ARIE 1930-1931/B/36); first edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19, no. 292); re-edited here for DHARMA (ERC n° 809994) by Valérie Gillet (2020), based on autopsy and photographs.
             </p>
             
             <listBibl type="primary">
@@ -205,7 +195,7 @@
                <bibl>
                   <ptr target="bib:ARIE1930-1931"/>
                   <citedRange unit="page">8</citedRange>
-                  <citedRange unit="appendix">B</citedRange>
+                  <citedRange unit="appendix">B/1930-31</citedRange>
                   <citedRange unit="item">36</citedRange>
                </bibl>
                
