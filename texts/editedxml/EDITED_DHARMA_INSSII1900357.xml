@@ -59,11 +59,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>Repha in conjunct is a dot above the letter.</p>
-                     <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
-						<summary><p><p/></summary>
-						<handNote xml:id="Pallava00001_hand1"></handNote>
-						<handNote xml:id="Pallava00001_hand2"></handNote>-->
+                     <p>The <foreign>repha</foreign> in conjunct is a dot above the letter.</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -277,29 +273,19 @@
          <div type="bibliography">
 
             <p>
-               First edited in <bibl n="SII 19.357"><!--Update: underscore-->
-                  <ptr target="bib:SrinivasaRao1967_01"/>
-                  <citedRange unit="page">183-186</citedRange>
-                  <citedRange unit="item">357</citedRange>
-                  <citedRange unit="plate">II-III</citedRange>
-               </bibl> = SII 19.357 and 32, part 2, n° 138 <!--Update--> with facsimiles; re-edited in <bibl n="SII 32.2.138"><!--Update: underscore-->
-                  <ptr target="bib:Swaminathan2012_01"/>
-                  <citedRange unit="page">183-186</citedRange>
-                  <citedRange unit="part">II</citedRange>
-                  <citedRange unit="item">357</citedRange>                  
-               </bibl>; re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis and Valérie Gillet (2020), based on photographs.
+               First edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl>, with facsimiles (SII 19, no. 357); re-edited in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32, part 2, no. 138); re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis and Valérie Gillet (2020), based on photographs.
             </p>
             
             <listBibl type="primary">
                
-               <bibl n="SII 19.357"><!--Update: underscore-->
+               <bibl n="SR">
                   <ptr target="bib:SrinivasaRao1967_01"/>
                   <citedRange unit="page">183-186</citedRange>
                   <citedRange unit="item">357</citedRange>
                   <citedRange unit="plate">II-III</citedRange>
                </bibl>
                
-               <bibl n="SII 32.2.138"><!--Update: underscore-->
+               <bibl n="S">
                   <ptr target="bib:Swaminathan2012_01"/>
                   <citedRange unit="part">II</citedRange>
                   <citedRange unit="page">183-186</citedRange>
@@ -312,7 +298,7 @@
                
                <bibl>
                   <ptr target="bib:ARIE1928-1929"/>
-                  <citedRange unit="page">6</citedRange><!--Check/Update page-->
+                  <citedRange unit="page">20</citedRange>
                   <citedRange unit="appendix">B</citedRange>
                   <citedRange unit="item">164</citedRange>
                </bibl>
