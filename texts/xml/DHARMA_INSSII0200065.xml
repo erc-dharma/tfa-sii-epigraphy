@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inscriptions bla bla bla</title>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSSII0200065</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>I'm trying to play with Oxygen. This is a trial.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:reda" when="2023-10-04">Creation of the file on therepository</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+    <body>
+       
+        
+<div type="edition" xml:lang="tam-Latn">
+          
+	<ab>
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+	</ab>
+    
+<!--    I forgot the difference between dividing each paragraph and actually putting a line break
+-->	
+	<p>
+	    
+		<lb n="2" break="no"/> tirumakaḷ polapperunilaccelvi<unclear>yu</unclear>ntaṉakkeyu<unclear>ri</unclear>mai pū<unclear>ṇ</unclear> <!--What happens if I give enter and 
+		start other line? Does it affect the final display?-->
+	    tamai maṉakko<unclear>ḷ</unclear>kkānta<unclear>ḷū</unclear>rccālai kalamṟuttaru <unclear>ḷi v</unclear>
+		eṅkai<unclear>nā</unclear>ṭu<unclear>ṅ</unclear>kaṅka-pāṭiyunta<unclear>ṭi</unclear>kaip<unclear>ā</unclear>ṭiyu<unclear>m nuḷa</unclear>
+		m<choice><sic>pa</sic><corr>pā</corr></choice>ṭiyu<unclear>ṅku</unclear>ṭamalaināṭuṅkollamuṅka<unclear>li</unclear>ṅ<unclear>ka</unclear>mum<!--[page 2:254] 
+		Imagine we do want to keep this reference. After command bib, I have to search for the shorttitle in zotero? I forgot :P--> muraṭṭeḻil ciṅkaḷar 
+		īḻama<unclear>ṇ</unclear>ṭalamu<unclear>m</unclear> iraṭṭapāṭi eḻarai ilakka<!--Why is there a dash here if it's only the um?--> muṉṉīrppaḻantīvu 
+		<unclear>pa</unclear>ṉṉīrāyiramunti<unclear>ṅ</unclear>ṭiṟa<unclear>l</unclear> veṉṟi<unclear>t</unclear>ta
+		
+		</p>
+	
+	<p>
+		
+	    
+		<lb n="3" break="no"/> ṇṭāṟkoṇṭa<unclear>ta</unclear>ṉṉeḻil vaḷa<unclear>rū</unclear>ḻiyuḷellāyā<unclear>ṇ</unclear>ṭuntoḻutaka viḷaṅkum yāṇṭe ceḻiyaraittecu 
+		k<unclear>oḷ</unclear>ko<hi rend="grantha">rā</hi>jake<hi rend="grantha">sari</hi><unclear>rmma</unclear>rāṉa 
+		<hi rend="grantha">śrīrā</hi>ja<hi rend="grantha">rā</hi>ja<unclear>de</unclear>varkku yāṇṭu irupattoṉpatāvatu
+		varai uṭai<unclear>y</unclear>ār <hi rend="grantha">śrīrā</hi>ja<hi rend="grantha">rā</hi>jī<hi rend="grantha">śv</hi>a<hi rend="grantha">ram</hi>
+		uṭaiyārk<unclear>kut</unclear>tiruppatiyam viṇ<unclear>ṇap</unclear> pañceyya uṭaiyār <hi rend="grantha">śrīrā</hi>ja<hi rend="grantha">rā</hi>ja
+		<hi rend="grantha">de</hi>var kuṭutta piṭ<unclear>ā</unclear>rarkaḷ nāṟpatteṇmarum ivarka<unclear>ḷi</unclear>le <unclear>ni</unclear>
+		laiyāy uṭukkai vācippā
+		<!--	  	Where there is a glide like -y- or -v-, do you put the word together or you separate it? When the words appear all together do I decide if they should go together or apart? 
+		What is the basis for deciding X or Y?
+-->	
+	
+ 		</p>
+	
+	<p>
+		<lb n="4" break="no"/> ṉ <unclear>oru</unclear>vaṉum ivarkaḷile nilaiyāykkoṭṭimatta<unclear>ḷa</unclear>m vācippāṉ oruvaṉum āka aimpatiṉmarkkupperāl nicatam nellu mukkuṟu
+		<unclear>ṇi niva</unclear>ntamāy <hi rend="grantha">rā</hi>ja-ke<hi rend="grantha">sari</hi>yoṭokkum āṭava<unclear>llāṉeṉ</unclear>ṉum marakkāl<unclear>ā</unclear>l u<unclear>ṭ</unclear>aiyār uḷḷūrppa
+		<unclear>ṇ</unclear>ṭā<unclear>rat</unclear> tey peṟavum ivar<unclear>ka</unclear>ḷil ce<unclear>t</unclear>tārkkum aṉātecam poṉārkku<unclear>n</unclear>
+		talaimāṟu avvavarkku aṭutta muṟai kaṭavār annelluppeṟṟu<unclear>t</unclear>tiruppatiya<unclear>m vi</unclear>ṇ
+		
+	</p>
+
+	  <p>
+	  	
+	  	<lb n="5" break="no"/> <unclear>ṇa</unclear>ppañc<unclear>e</unclear>y<unclear>yavum av</unclear>vavarkku aṭutta muṟai kaṭavār tāntām yo<hi rend="grantha">gyar</hi> a<unclear>l</unclear>lātu viṭil 
+	  	yo<hi rend="grantha">gyarā</hi><unclear>y i</unclear>rup<unclear>pā</unclear>rai āḷiṭṭuttiruppa<unclear>ti</unclear>yam viṇṇappañceyvittu annelluppeṟavum avvavark<unclear>ku aṭu</unclear> 
+	  	tta muṟai kaṭavāriṉṟiyoḻi<unclear>yi</unclear>l anta <unclear>niyā</unclear>yattāre yogyarā<unclear>yi</unclear>ruppārai<unclear>tti</unclear>ru<unclear>p</unclear>patiyam 
+	  	vi<unclear>ṇ</unclear>ṇappañceyya iṭṭu iṭṭa avaṉe avvavar peṟumpaṭi nellupp<unclear>e</unclear>ṟavum āka ippaṭi <unclear>u</unclear>ṭaiyār <hi rend="grantha">śrīrā</hi>
+	  		
+	</p>
+	  	
+	  	<p>
+	  		ja<unclear>rā</unclear>ja<unclear>de</unclear>var <unclear>tiruvāy</unclear>moḻintaruḷiṉapaṭi kallil veṭṭiyatu 
+	  	
+	  	</p>
+	  		
+	  	<p>	
+	  		
+		pālaṉ tiruvāñci<unclear>ya</unclear>ttaṭikaḷ<unclear>āṉa</unclear><hi rend="grantha">rā</hi>ja<hi rend="grantha">rā</hi>jappiccaṉāṉa <hi rend="grantha">ca</hi>tā<hi rend="grantha">śi
+		</hi>vaṉukku nicatam nellu mukkuṟuṇi 
+	
+	  	</p>
+  	
+	  	<p>	
+	  	tiruveṇāval cempoṟc<unclear>otiyā</unclear>ṉa <hi rend="grantha">dakṣi</hi>ṇa<hi rend="grantha">meru</hi>viṭaṅka<unclear>p</unclear>piccaṉāṉa ñāna<hi rend="grantha">śi</hi>vaṉukku 
+	  	nicatam nellu mukkuṟuṇi
+	  	
+	</p>
+	
+		<p>
+	    
+		paṭṭālakaṉ <unclear>am</unclear>palattāṭiyāṉa <hi rend="grantha">ma</hi>no<hi rend="grantha">tmaśi</hi>vaṉukku nica<unclear>ta</unclear>m nellu mukkuṟuṇi
+			
+			<!--But, technically, in this line we should have m in manottmaśi as being tamil script and all the others grantha, right? -->
+		
+	</p>
+	
+	<p>
+		paṭṭālakaṉ cīruṭ<unclear>ai</unclear>kkaḻalāṉa 
+		
+	</p>
+          
+	<p>
+	
+		<lb n="6" break="no"/> <unclear>pū</unclear><hi rend="grantha">rvvaś</hi>ivaṉukku <unclear>ni</unclear>catam nellu mukkuṟuṇi
+	
+	
+	</p>
+	
+	<p>          	
+	
+	poṟcuvaraṉ ti<unclear>ru</unclear>nāvukkaraiyaṉāṉa <hi rend="grantha">pūrvvaśi</hi>vaṉukku nicatam nellu mukkuṟuṇi 
+          </p>
+          
+	<p>
+		
+		māt<unclear>e</unclear>vaṉ tirunāṉacampantaṉāṉa ñāna<hi rend="grantha">śi</hi>vaṉu<unclear>kku nica</unclear>tam n<unclear>ellu mukkuṟuṇi</unclear>
+	</p>
+	
+	<p>             
+		kayilāyaṉ ārūrāṉa <hi rend="grantha">dharmmaśi</hi>vaṉukku <unclear>ni</unclear>catam n<unclear>e</unclear>llu mu<unclear>kku</unclear>ṟu<unclear>ṇi</unclear>
+		<!--The end of this paragraph is also added by Hultzsch. Should that be mentioned?-->
+		
+	</p>    
+	
+	<p>             
+		
+		c<unclear>eṭ</unclear>ṭi eṭuttap<unclear>ātamā</unclear> ṉa kava<hi rend="grantha">śa</hi><hi rend="grantha">śi</hi>vaṉukku nicatam nellu muk<unclear>kuṟu</unclear>ṇi
+		<!--I forgot what to do when there is a correction like in kavaca...-->
+		
+	</p>    
+	
+	<p>             
+		
+		irāmaṉ campantaṉāṉa <hi rend="grantha">satyaśi</hi>vaṉukku nicatam nel 
+		
+			lu mukkuṟuṇi 
+		
+	</p>    
+	
+
+	<p>             
+		<lb n="7" break="no"/> lu mukkuṟuṇi 
+	
+		
+	</p>    
+	
+	<p>       
+		
+		ampa<unclear>la</unclear>vaṉ <unclear>pa</unclear>t<unclear>ta</unclear>rka<unclear>ḷ</unclear>THREE SPACES <unclear>ṭa</unclear>ṉāṉa vā<hi rend="grantha">maśi</hi>vaṉukku 
+		nicatam nellu mukkuṟuṇi
+		
+		<!--<hi rend="grantha">FORGOT HOW TO ADD SPACES THAT APPEAR AFTER Ḷ</hi> -->
+
+		
+	</p>   
+	
+	<p>             
+
+	kam<unclear>pa</unclear>ṉ tirunāvukkaraiyaṉāṉa <hi rend="grantha">sa</hi>tā<hi rend="grantha">śi</hi>vaṉukku nicata<unclear>m nellu mukkuṟu</unclear>ṇi 
+		
+		
+	</p>    
+	
+	
+		<p>             
+
+		
+ 	nak-kaṉ cīrāḷaṉāṉa <hi rend="grantha">vāmaśi</hi>vaṉukku nicatam nellu mukkuṟuṇi 
+		
+		</p>    
+	
+         <p>      
+         
+         <unclear>a</unclear>ppi <unclear>ti</unclear>runāvukkaraiyaṉāṉa ne<hi rend="grantha">ttraśi</hi>vaṉukku nicatam nellu mukkuṟuṇi 
+         
+        
+         civakko<unclear>ḻu</unclear>ntu cīrāḷaṉāṉa <hi rend="grantha">dharmmaśi</hi>vaṉuk
+         
+          </p>     
+	
+	<p>      
+         
+         civakko<unclear>ḷu</unclear> cīrāḷaṉāṉa <hi rend="grantha">dharmmaśi</hi>vaṉuk
+         
+        
+      </p>     
+	
+	<p>  
+	
+	<lb n="8" break="no"/> ku nicatam n<unclear>e</unclear>llu mukkuṟuṇi 
+		
+		   </p>     
+         
+         <p>  
+         
+         aiññū<hi rend="grantha">ṟṟu</hi>vaṉ veṇkāṭaṉāṉa <hi rend="grantha">satyaśi</hi>vaṉukku nicatam nellu mukkuṟuṇi 
+         
+          </p>     
+          
+            
+         <p>  
+          
+         araiyaṉ a<unclear>ṇu</unclear>kkaṉāṉa tirumaṟaik<unclear>k</unclear><hi rend="grantha">FOUR SPACES</hi> <unclear>ṉāṉa dharmmaśi</unclear> vaṉukku nicatam nellu mukkuṟuṇi 
+         
+        </p>
+         
+         
+           <p>  
+         
+         araiyaṉ am<unclear>pala</unclear>kkū<unclear>t</unclear>taṉāṉa  <hi rend="grantha">oṃ</hi><unclear>gā</unclear><hi rend="grantha">ra</hi><unclear>śivaṉu</unclear>
+           	kku nicatam nellu mukkuṟuṇi 
+         </p>
+         
+            <p>  
+            	ārūraṉ tirunāvukkarai<unclear>ya</unclear>ṉāṉa ñāna<hi rend="grantha">śi</hi>vaṉukku nicatam ne
+         </p>    
+	
+	
+	
+	   <p>  
+	   	<lb n="9" break="no"/>llu mukku<unclear>ṟuṇi</unclear> 
+         </p> 
+	
+	
+	   <p> 
+	   	
+	   	kūttaṉ maḻalaiccilam<unclear>p</unclear>āṉa <hi rend="grantha">pūrvva</hi>śivaṉukku nicatam nellu mukkuṟuṇi
+	   	
+         </p>  
+	
+	   <p>  
+	   	aiññūṟṟuvaṉ cīy<unclear>ā</unclear>rūrāṉa ta<unclear>tpu</unclear><unclear>ru</unclear><hi rend="grantha">ṣa</hi>[śi]vaṉukku nicatam nellu 
+	   	mu<unclear>kku</unclear>ṟu<unclear>ṇi</unclear>
+	   	
+	   	<!--There is an asterisk in ru fr. tatpurusa, what is that?-->
+	   	
+         </p> 
+	
+	   <p>  
+	   	<unclear>campa</unclear>n<unclear>ta</unclear>ṉ ārūraṉāṉa <hi rend="grantha">vāmaśi</hi>vaṉukku nicata<unclear>m</unclear> 
+	   	nellu mu<unclear>k</unclear>kuṟu<unclear>ṇi</unclear>
+	   	
+         </p> 
+	
+	   <p>  
+	   	araiyaṉ pic<unclear>caṉā</unclear>ṉa <unclear>dharmmaśi</unclear>vaṉukku nicatam nellu mukkuṟuṇi 
+         </p>  
+	
+	   <p>  
+	   	kā<unclear>śyapa</unclear>n eṭutta<unclear>pā</unclear>tappiccaṉāṉ <hi rend="grantha">urudraśi</hi>vaṉukku <unclear>ni</unclear>catam
+         </p>  
+	
+	   <p>  
+	   	<lb n="10" break="no"/>nellu mukkuṟuṇi 
+         </p>    
+	
+	   <p>  
+	   	<hi rend="grantha">subrahmaṇya</hi>n <unclear>ā</unclear>ccaṉāṉa <hi rend="grantha">dharmma</hi><unclear>śi</unclear>vaṉukku nicatam nellu mukkuṟuṇi
+         </p>    
+	
+	   <p>  
+	   	kūttaṉ amara<hi rend="grantha">bhu</hi>jaṅkan āṉa <hi rend="grantha">satya</hi><unclear>śi</unclear>vaṉukku 
+	   	nicatam ne<unclear>llu muk</unclear>ku<unclear>ṟuṇi</unclear>
+         </p>    
+	
+	   <p>  
+	   	
+   		ONE SPACE veṇ<unclear>k</unclear>ā<unclear>ṭa</unclear>ṉāṉa <hi rend="grantha">a</hi>g<unclear>h</unclear>ora<hi rend="grantha">śi</hi>
+	   	<unclear>va</unclear>ṉukku nicatam nellu mukkuṟuṇi 
+         </p>    
+	
+	   <p>  
+	   	 mātevaṉ tirunāvukkar<unclear>aiyaṉā</unclear>ṉa vi<hi rend="grantha">jñā</hi>na<hi rend="grantha">śi</hi>vaṉukku nicatam nellu mukkuṟuṇi 
+         </p>    
+	
+	   <p>  
+	   	kūtta<unclear>ṉ</unclear> veṇkāṭa<unclear>ṉā</unclear>ṉa u<hi rend="grantha">ru</hi><unclear>dra</unclear><hi rend="grantha">śi</hi>vaṉuk
+	   	<unclear>ku</unclear> nicata<unclear>m</unclear>
+         </p>    
+	
+	   <p>  
+	   	<lb n="11" break="no"/> <unclear>ne</unclear>llu mukkuṟuṇi 
+         </p>    
+	
+	   <p>  
+	   	aiññūṟṟuvaṉ tiru<unclear>vā</unclear>y<unclear>mū</unclear>rāṉa <hi rend="grantha">agho</hi><unclear>raśivaṉu</unclear> kku 
+	   	nicata<unclear>m ne</unclear>llu mukkuṟuṇi 
+         </p>    
+	
+	   <p>  
+	   	tirumalai kūttaṉāṉa <hi rend="grantha">vāmaśi</hi>vaṉukku <unclear>nica</unclear>tam nellu <unclear>muk</unclear>kuṟuṇi
+         </p>    
+	
+	   <p>  
+	   	aiññūṟṟuvaṉ eṭuttapātamāṉa <hi rend="grantha">dharmmaśi</hi>vaṉukku nicatam nellu mukkuṟuṇi
+         </p>    
+	
+	<p>  
+		araiyaṉ ti<unclear>l</unclear>laikkaraicāṉa <hi rend="grantha">pūrvvaśi</hi><unclear>va</unclear>ṉukku nicatam 
+		nellu mukkuṟuṇi 
+         </p>    
+	
+	<p>  
+		kā<unclear>ḷi</unclear> campa<unclear>n</unclear>taṉā<unclear>ṉa</unclear> <hi rend="grantha">dharmmaśi</hi><unclear>vaṉu</unclear>kku nicatam 
+		nellu mukkuṟu<unclear>ṇi</unclear> 
+         </p>    
+	
+	
+	<p>  
+	kā<unclear>p</unclear>ā		
+         </p>    
+	
+	   <p>  
+	   	<lb n="11" break="no"/>likavāliyāṉa ñā<unclear>na</unclear><hi rend="grantha">śi</hi>vaṉukku nicatam nellu mukkuṟuṇi 
+         </p>    
+	
+	
+	<p>  
+		v<unclear>e</unclear>ṇkāṭaṉ <hi rend="grantha">namaśśi</hi>vā<unclear>yamā</unclear>ṉa <hi rend="grantha">uru</hi>dra<unclear>śi</unclear>vaṉukku 
+		nicatam nellu mukkuṟuṇi 
+		
+	<!--	Sanskrit sandhi? Why?-->
+		
+         </p>
+         <p>  
+         </p>
+         <p>  
+         </p>
+         <p>  
+         </p>
+         <p>  
+         </p>
+         <p>  
+         </p>
+         <p>  
+         </p>
+         <p>  
+         </p>
+         <p>  
+         </p>
+         <p>  
+         </p>
+         
+         
+         
+         
+         
+         
+       </div>
+       
+<div type="apparatus">
+    	   
+	<listApp>
+		
+		<app loc="3">
+			<lem>t<choice><sic>i</sic><corr>ī</corr></choice>kk<unclear>ā</unclear></lem>
+			<rdg source="bib:Hultzsch1899_01"/>
+		</app>
+		
+		<app loc="38">
+			<lem><hi rend="grantha">khaṇḍaspūṭi</hi>ta-na<unclear>va</unclear>ka
+				<lb n="39" break="no"/><hi rend="grantha">nm</hi><hi rend="grantha"><unclear>ā</unclear></hi>ti</lem>
+			<rdg source="bib:Hultzsch1899_01"/>
+			<note><ptr target="bib:Hultzsch1899_01"/> notes that this has to be read <foreign><hi rend="grantha">sphuṭita</hi>-nava<hi rend="grantha">karmādi</hi></foreign>.</note>
+		</app>
+		
+		<app loc="39">
+			<lem>p<unclear>o</unclear>ṉ</lem>
+			<note>In <foreign>o</foreign>, only the <foreign>kompu</foreign> element  is unclear.</note>
+		</app>
+		
+		<!--<app loc="0">
+			<lem></lem>
+			<rdg source="bib:Hultzsch1899_01"></rdg>
+		</app>-->
+	</listApp>    			
+    	
+</div>
+    	
+<div type="translation" resp="part:emfr">
+          
+	<p n="1">
+		Prosperity! Fortune!
+	</p>
+	
+	<p n="1-2">
+		<supplied reason="subaudible">This is a</supplied> copy of a stone-inscription<note>Literally: “according to <supplied reason="explanation"><foreign>paṭi</foreign></supplied> a stone-inscription”.</note> which existed before the reconstruction <supplied reason="explanation"><foreign>iḻicci-y eṭuppataṟku</foreign><note>Literally: "before constructing <supplied reason="subaudible">anew</supplied> having destroyed <supplied reason="subaudible">the old structure</supplied>".</note></supplied> of the glorious pillared hall <supplied reason="explanation"><foreign>tiru-maṇṭapam</foreign></supplied>.             
+	</p>
+	
+	<p n="3-4">
+		17th year of the victorious king Nantivikkiramapanmar<note>Sanskrit Nandivikramavarman.</note>.
+	</p>
+	
+	<p n="4-23">
+		For the great lord of Tīkkālivallam in the Mīyāṟunāṭu in the Paṭuvūrkompukōṭṭam,
+		in this <supplied reason="subaudible">same</supplied> <foreign>nāṭu</foreign>, <supplied reason="subaudible">in</supplied> <supplied reason="subaudible">the villages of</supplied> Aimpūṇi, Viḷattūr, and Amaruṉṟi-maṅgala, a <foreign>devadāna</foreign> of this <supplied reason="subaudible">same</supplied> god 
+		― <supplied reason="subaudible">now</supplied> as a single village, under the name <quote>Viṭēlviṭuku-vikkiramātitta-c-caturvedimaṅgala</quote> ―
+		having become a single village, at the request of Vikkkiramātittavānarāyaṉ<note>Sanskrit Vikramādityabāṇarāja.</note> alias Māvalivāṇarāyaṉ <note>Sanskrit Mahābalibāṇarāja</note> <supplied reason="subaudible">and</supplied> by execution <supplied reason="explanation"><foreign>āṇatti</foreign></supplied> of Kāṭupaṭṭi-t-tamiḻ-p-pērarayaṉ ―
+		 the members of the assembly of this Viṭēlviṭuku-vikkiramātitta-c-caturvedimaṅgala should pay as taxes <supplied reason="explanation"><foreign>iṟuppār ākavum</foreign></supplied> two thousands <foreign>kāṭi</foreign>s of paddy and twenty <foreign>kaḻañcu</foreign>s of gold
+		which used to come <supplied reason="explanation"><foreign>varukiṉṟa</foreign><note>Literally: "which come".</note></supplied> before <supplied reason="explanation"><foreign>muṉ</foreign></supplied> <supplied reason="subaudible">from</supplied> this Amaruṉṟi-maṅgala as tax payment <supplied reason="explanation"><foreign>iṟuttu </foreign><note>Literally: "having paid taxes".</note></supplied>
+		for this great lord of Tīkkālivallam in the Mīyāṟunāṭu.
+	</p>
+	
+	<p n="23-44">
+		So that there be <supplied reason="explanation"><foreign>āka</foreign><note>In line 39.</note></supplied> from this paddy		
+		
+		<list>		
+			<item>for sacred food offerings <supplied reason="explanation"><foreign>tiruvamirtukku</foreign></supplied>: six hundred <foreign>kāṭi</foreign>s of paddy</item>
+			<item>for the Śaiva Brahmins who offer worship <supplied reason="explanation"><foreign>ārātittu</foreign></supplied> and officiate <supplied reason="explanation"><foreign>upācarikkum</foreign></supplied> in the glorious innermost sanctuary <supplied reason="explanation"><foreign>tiru-v-uṇṇāḵikai</foreign></supplied>: five hundred <foreign>kāṭi</foreign>s of paddy</item>
+			<item>for those who beat <supplied reason="explanation"><foreign>koṭṭuvārkku</foreign></supplied> <supplied reason="subaudible">drums</supplied> <supplied reason="subaudible">at the time</supplied> of the glorious <foreign>pali</foreign> <supplied reason="subaudible">offering</supplied><note>Sanskrit <foreign>bali</foreign>.</note>: five hundred <foreign>kāṭi</foreign>s of paddy</item>
+			<item>for those who pick <supplied reason="explanation"><foreign>paṟippārkkum</foreign></supplied> <supplied reason="subaudible">flowers to make</supplied> the glorious flower-garlands <supplied reason="explanation"><foreign>tiru-p-paḷḷittāmam</foreign></supplied> and for those who do many services, including those who sing <supplied reason="explanation"><foreign>pāṭuvār</foreign></supplied> the glorious hymns <supplied reason="explanation"><foreign>tiru-p-pattiyam</foreign></supplied>: four hundred <foreign>kāṭi</foreign>s of paddy</item>
+		</list>
+		
+		and so that there be <supplied reason="explanation"><foreign>āka</foreign><note>In line 40.</note></supplied> twenty <foreign>kaḻañcu</foreign>s of gold
+		<list>			
+			<item>for glorious perpetual lamps</item>
+			<item>for anointing of the idol<note>Literally: "the anointing of the glorious body".</note></item>
+			<item>for incense <supplied reason="explanation"><foreign>citāri</foreign></supplied> and for repairing breaks and cracks</item>
+		</list>
+		this paddy and this gold, they<note>That is, the members of the assembly of this Viṭēlviṭuku-vikkiramātitta-c-caturvedimaṅgala.</note> should pay <supplied reason="subaudible">it</supplied> as tax <supplied reason="explanation"><foreign>iṟuppārkaḷ ākavum</foreign></supplied>
+to this god as long as the moon and the sun.
+	</p>          
+	
+	<p n="43-44">
+		In this manner, having made a <foreign>nibandha</foreign><note>That is, an endowment of property for temple-worship.</note>, we have given it.
+	</p>
+	
+	<p n="45-46">
+		This pious donation is <supplied reason="subaudible">under</supplied> the protection of the Panmāheśvaras.
+	</p>
+	
+</div>
+            
+    	<!--<div type="commentary">
+    		
+    		
+    	</div>-->
+            
+    	<div type="bibliography">
+    		
+<p>
+First edited and translated by <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> (SII 3, no. 43); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 132).</p>
+    		<p>Encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis, based on previous editions.
+</p>
+    		
+<listBibl type="primary">
+    	      
+	<bibl n="EH">
+		<ptr target="bib:Hultzsch1899_01"/>
+		<citedRange unit="page">92-94</citedRange>
+		<citedRange unit="item">43</citedRange>
+	</bibl>
+	
+	<bibl n="TVM">
+		<ptr target="bib:Mahalingam1988_01"/>
+		<citedRange unit="page">396</citedRange>
+		<citedRange unit="item">131</citedRange>
+	</bibl>
+	
+</listBibl>
+    		
+    		<listBibl type="secondary">
+    			<bibl n="ARIE">
+    				<ptr target="bib:ARIE1889-1890_01"/>
+    				<citedRange unit="page">5</citedRange>
+    				<citedRange unit="appendix">B/1890</citedRange>
+    				<citedRange unit="item">1a</citedRange>
+    				
+    			</bibl>
+    		</listBibl>
+    		
+            </div>
+        </body>
+    </text>
+</TEI>
