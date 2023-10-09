@@ -81,28 +81,30 @@
         
 <div type="edition" xml:lang="tam-Latn">
           
-	<!--<ab>
+	<ab>
 		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
 	</ab>
     
 	<lg n="1" met="āciriyappā">	    
-		<l n="1">tirumakaḷ polapperunilaccelvi<unclear>yu</unclear>n</l>
 		
-		<l n="2">taṉakke yu<unclear>ri</unclear>mai pū<unclear>ṇ</unclear>tamai maṉakko<unclear>ḷ</unclear>k</l>
+		<l n="1">tirumakaḷ pōlap perunilaccelvi<unclear>yu</unclear>n</l>
+		<l n="2">taṉakke yu<unclear>ri</unclear>mai pū<unclear>ṇ</unclear>tamai maṉakko<unclear>ḷa</unclear>k</l>
+		<l n="3">kānta<unclear>ḷū</unclear>rccālai kalamaṟuttaru<unclear>ḷi</unclear></l>
+		<l n="4"><unclear>v</unclear>eṅkai<unclear>nā</unclear>ṭu<unclear>ṅ</unclear> kaṅka-pāṭiyun</l>
+		<l n="5">ta<unclear>ṭi</unclear>kaip<unclear>ā</unclear>ṭiyu<unclear>m nuḷa</unclear>m<unclear>pa</unclear>pāṭiyu<unclear>ṅ</unclear></l>
+		<l n="6"><unclear>ku</unclear>ṭamalaināṭuṅ kollamuṅ ka<unclear>li</unclear>ṅ<unclear>ka</unclear>mum</l>
+		<l n="7">muraṭṭeḻil ciṅkaḷar Īḻama<unclear>ṇ</unclear>ṭalamu<unclear>m</unclear></l>
+		<l n="8">Iraṭṭapāṭi Ēḻ' arai Ilakka</l>
+		<l n="9">muṉṉīrppaḻantīvu <unclear>pa</unclear>ṉṉīrāyiramun</l>
+		<l n="10">ti<unclear>ṅ</unclear>ṭiṟa<unclear>l</unclear> veṉṟi<unclear>t</unclear> ta<lb n="2" break="no"/>ṇṭāṟ koṇṭa<unclear>ta</unclear>ṉṉ</l>
+		<l n="11">eḻil vaḷa<unclear>r ū</unclear>ḻiyuḷ ellā-yā<unclear>ṇ</unclear>ṭun</l>
+		<l n="12">toḻutaka viḷaṅkum yāṇṭē</l>
+		<l n="13">ceḻiyarait tēcu <unclear>koḷ</unclear></l>
 		
-		<l n="3">kānta<unclear>ḷū</unclear>rccālai kalamṟuttaru <unclear>ḷi v</unclear>
-		eṅkai<unclear>nā</unclear>ṭu<unclear>ṅ</unclear> kaṅka-pāṭiyun ta<unclear>ṭi</unclear>kaip<unclear>ā</unclear>ṭiyu<unclear>m nuḷa</unclear>
-		m<choice><sic>pa</sic><corr>pā</corr></choice>ṭiyu<unclear>ṅku</unclear>ṭamalaināṭuṅkollamuṅka<unclear>li</unclear>ṅ<unclear>ka</unclear>mum muraṭṭeḻil ciṅkaḷar 
-		īḻama<unclear>ṇ</unclear>ṭalamu<unclear>m</unclear> iraṭṭapāṭi eḻarai ilakka muṉṉīrppaḻantīvu 
-		<unclear>pa</unclear>ṉṉīrāyiramunti<unclear>ṅ</unclear>ṭiṟa<unclear>l</unclear> veṉṟi<unclear>t</unclear>ta
-		
-		<lb n="2" break="no"/>ṇṭāṟkoṇṭa<unclear>ta</unclear>ṉṉeḻil vaḷa<unclear>rū</unclear>ḻiyuḷellāyā<unclear>ṇ</unclear>ṭuntoḻutaka viḷaṅkum yāṇṭe ceḻiyaraittecu 
-		k<unclear>oḷ</unclear></l>-->
-	<!--	
-	</lg>-->
+	</lg>
 	
 	<p>
-		ko<hi rend="grantha">rāja</hi>ke<hi rend="grantha">sari</hi> var<hi rend="grantha"><unclear>mma</unclear></hi>rāṉa 
+		kō<hi rend="grantha">rāja</hi>ke<hi rend="grantha">sari</hi> var<hi rend="grantha"><unclear>mma</unclear></hi>rāṉa 
 		<hi rend="grantha">śrīrājarāja<unclear>d</unclear>e</hi>varkku yāṇṭu Irupatt’ Oṉpat-āvatu
 		varai Uṭai<unclear>y</unclear>ār <hi rend="grantha">śrīrājarājīśvaram</hi> Uṭaiyārk<unclear>ku-t</unclear> tiruppatiyam viṇ<unclear>ṇap</unclear>pañceyya Uṭaiyār <hi rend="grantha">
 		 śrīrājarājadevar</hi>var kuṭutta piṭ<unclear>ā</unclear>rarkaḷ nāṟpatt’ Eṇmarum Ivarka<unclear>ḷi</unclear>le <unclear>ni</unclear>laiyāy Uṭukkai vācippā
@@ -449,18 +451,18 @@
         
        </div>
        	
-<!--<div type="apparatus">
+<div type="apparatus">
     	   
 	<listApp>
 		
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:..."/>
+		<app loc="1">
+			<lem>maṉakko<unclear>ḷa</unclear>k</lem>
+			<rdg source="bib:Hultzsch1895_01">Hultzsch1895_01</rdg>
 		</app>	
 		
 	</listApp>    			
     	
-</div>-->
+</div>
     	
 <div type="translation" source="bib:Hultzsch1895_01">
 	
