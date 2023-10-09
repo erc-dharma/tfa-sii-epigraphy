@@ -72,7 +72,7 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:reda" when="2023-10-04">Creation of the file on therepository</change>
+			<change who="part:reda" when="2023-10-04">Creation of the file on the repository</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -81,7 +81,7 @@
         
 <div type="edition" xml:lang="tam-Latn">
           
-	<ab>
+	<!--<ab>
 		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
 	</ab>
 	
@@ -101,12 +101,12 @@
 		<l n="12">toḻutaka viḷaṅkum yāṇṭē</l>
 		<l n="13">ceḻiyarait tēcu <unclear>koḷ</unclear></l>
 		
-	</lg>
+	</lg>-->
 	
 	<p>
 		kō<hi rend="grantha">rāja</hi>ke<hi rend="grantha">sari</hi>var<hi rend="grantha"><unclear>mma</unclear></hi>r-āṉa <hi rend="grantha">śrī-rājarāja<unclear>d</unclear>e</hi>varkku yāṇṭu Irupatt’ oṉpat-āvatu varai Uṭai<unclear>y</unclear>ār <hi rend="grantha">śrī-rājarājīśvaram·</hi> Uṭaiyārk<unclear>ku-t</unclear> tiruppatiyam viṇ<unclear>ṇap</unclear>pañ ceyya Uṭaiyār <hi rend="grantha">śrī-rājarājade</hi>var kuṭutta piṭ<unclear>ā</unclear>rarkaḷ nāṟpatt’ eṇmarum Ivarka<unclear>ḷi</unclear>lē <unclear>ni</unclear>laiyāy Uṭukkai vācippā
 		
-		<lb n="3" break="no"/>ṉ <unclear>Oru</unclear>vaṉum Ivarkaḷilē nilaiyāy-k koṭṭimatta<unclear>ḷa</unclear>m vācippāṉ Oruvaṉum Āka Aimpatiṉmarkku-p pērāl nicatam nellu mukkuṟu<unclear>ṇi niva</unclear>ntamāy<hi rend="grantha"> rāja</hi>ke<hi rend="grantha">sari</hi>-y oṭokkum Āṭava<unclear>llāṉ Eṉ</unclear>ṉum marakkāl<unclear>ā</unclear>l U<unclear>ṭ</unclear>aiyār Uḷḷūr-p pa<unclear>ṇ</unclear>ṭā<unclear>rat</unclear>tēy peṟavum Ivar<unclear>ka</unclear>ḷil ce<unclear>t</unclear>tārkkum Aṉātēcam pōṉārkku<unclear>n</unclear> talaimāṟu Avvavarkku Aṭutta muṟai kaṭavār Anp peṟṟu-<unclear>t</unclear> tiruppatiya<unclear>m vi</unclear>ṇ
+		<lb n="3" break="no"/>ṉ <unclear>Oru</unclear>vaṉum Ivarkaḷilē nilaiyāy-k koṭṭimatta<unclear>ḷa</unclear>m vācippāṉ Oruvaṉum Āka Aimpatiṉmarkku-p pērāl nicatam nellu mukkuṟu<unclear>ṇi niva</unclear>ntamāy<hi rend="grantha"> rāja</hi>ke<hi rend="grantha">sari</hi>-y oṭokkum Āṭava<unclear>llāṉ Eṉ</unclear>ṉum marakkāl<unclear>ā</unclear>l U<unclear>ṭ</unclear>aiyār Uḷḷūr-p pa<unclear>ṇ</unclear>ṭā<unclear>rat</unclear>tēy peṟavum Ivar<unclear>ka</unclear>ḷil ce<unclear>t</unclear>tārkkum Aṉātēcam pōṉārkku<unclear>n</unclear> talaimāṟu Avvavarkku Aṭutta muṟai kaṭavār A-n nellu-p peṟṟu-<unclear>t</unclear> tiruppatiya<unclear>m vi</unclear>ṇ
 				
 		<lb n="4" break="no"/><unclear>ṇa</unclear>ppañc<unclear>e</unclear>y<unclear>yavum Av</unclear>vavarkku Aṭutta muṟai kaṭavār tāntām yo<hi rend="grantha">gyar·</hi> A<unclear>l</unclear>lātu viṭil yo<hi rend="grantha">gya</hi><unclear>rāy i</unclear>rup<unclear>pā</unclear>rai Āḷiṭṭu-t tiruppa<unclear>ti</unclear>yam viṇṇappañ ceyvittu Annellu-p peṟavum Avvavark<unclear>ku Aṭu</unclear>tta muṟai kaṭavār Iṉṟi-y oḻi<unclear>yi</unclear>l Anta <unclear>niyā</unclear>yattārē yo<hi rend="grantha">gya</hi>rā<unclear>y i</unclear>ruppārai<unclear>-t ti</unclear>ru<unclear>p</unclear>patiyam vi<unclear>ṇ</unclear>ṇappañ ceyya Iṭṭu Iṭṭa Avaṉē Avvavar peṟumpaṭi nellu-p p<unclear>e</unclear>ṟavum Āka Ippaṭi <unclear>U</unclear>ṭaiyār <hi rend="grantha">śrī-rā</hi>
 		
@@ -154,141 +154,141 @@
 	<p>       
 		<!--@ renato: start revising from here-->
 		Ampa<unclear>la</unclear>vaṉ <unclear>pa</unclear>t<unclear>ta</unclear>rka<unclear>ḷ</unclear>
-		<gap reason="undefined" quantity="3" unit="character"/><unclear>ṭa</unclear>ṉāṉa 
+		<gap reason="undefined" quantity="3" unit="character"/><unclear>ṭa</unclear>ṉ-āṉa 
 		vā<hi rend="grantha">maśi</hi>vaṉukku 
 		nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
 	</p>   
 	
 	<p>             
-		kam<unclear>pa</unclear>ṉ tirunāvukkaraiyaṉāṉa 
+		kam<unclear>pa</unclear>ṉ tirunāvukkaraiyaṉ-āṉa 
 		<hi rend="grantha">sa</hi>tā<hi rend="grantha">śi</hi>vaṉukku 
 		nicata<unclear>m nellu mukkuṟu</unclear>ṇi <g type="gomutra">.</g>
 	</p>    
 	
 	<p>             	
-		nakkaṉ cīrāḷaṉāṉa 
+		nakkaṉ cīrāḷaṉ-āṉa 
 		<hi rend="grantha">vāmaśi</hi>vaṉukku 
 		nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
 	</p>    
 	
 	<p>      		
-		<unclear>A</unclear>ppi <unclear>ti</unclear>runāvukkaraiyaṉāṉa 
+		<unclear>A</unclear>ppi <unclear>ti</unclear>runāvukkaraiyaṉ-āṉa 
 		ne<hi rend="grantha">ttraśi</hi>vaṉukku 
 		nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
 	</p>     
 	
 	<p>
-		civakko<unclear>ḻu</unclear>ntu cīrāḷaṉāṉa 
-		<hi rend="grantha">dharmmaśi</hi>vaṉuk civakko<unclear>ḷu</unclear> cīrāḷaṉāṉa 
-		<hi rend="grantha">dharmmaśi</hi>vaṉuk<lb n="8" break="no"/> ku 
+		civakko<unclear>ḻu</unclear>ntu cīrāḷaṉ-āṉa 
+		<hi rend="grantha">dharmmaśi</hi>vaṉukku 
 		nicatam n<unclear>e</unclear>llu mukkuṟuṇi <g type="gomutra">.</g>
 	</p>     
 	
 	<p>  		
-		Aiññū<hi rend="grantha">ṟṟu</hi>vaṉ veṇkāṭaṉāṉa 
+		Aiññū<hi rend="grantha">ṟṟu</hi>vaṉ veṇkāṭaṉ-āṉa 
 		<hi rend="grantha">satyaśi</hi>vaṉukku 
 		nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
 	</p>     
 	
 	<p>  
-		Araiyaṉ A<unclear>ṇu</unclear>kkaṉāṉa 
+		Araiyaṉ A<unclear>ṇu</unclear>kkaṉ-āṉa 
 		tirumaṟaik<unclear>k</unclear><hi rend="grantha"><gap reason="undefined" quantity="4" unit="character"/>
 		</hi><unclear>ṉāṉa</unclear> <hi rend="grantha"><unclear>dharmmaśi</unclear></hi>vaṉukku 
 		nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
 	</p>
 	
 	<p>  
-		Araiyaṉ Am<unclear>pala</unclear>kkū<unclear>t</unclear>taṉāṉa  
-		<hi rend="grantha">oṃ<unclear>gā</unclear>ra<unclear>śi</unclear></hi><unclear>vaṉu</unclear>kku 
+		Araiyaṉ Am<unclear>pala</unclear>kkū<unclear>t</unclear>taṉ-āṉa  
+		<hi rend="grantha">Oṃ<unclear>gā</unclear>ra<unclear>śi</unclear></hi><unclear>vaṉu</unclear>kku 
 		nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
 	</p>
 	
 	<p>  
-		Ārūraṉ tirunāvukkarai<unclear>ya</unclear>ṉāṉa 
+		Ārūraṉ tirunāvukkarai<unclear>ya</unclear>ṉ-āṉa 
 		ñāna<hi rend="grantha">śi</hi>vaṉukku 
 		nicatam ne<lb n="9" break="no"/>llu mukku<unclear>ṟuṇi</unclear> <g type="gomutra">.</g>
 	</p> 
 	
 	<p> 
-		kūttaṉ maḻalaiccilam<unclear>p</unclear>āṉa 
+		kūttaṉ maḻalaiccilam<unclear>p</unclear>-āṉa 
 		<hi rend="grantha">pūrvva</hi>śivaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
 	</p>  
 	
 	<p>  
-		Aiññūṟṟuvaṉ cīy<unclear>ā</unclear>rūrāṉa 
+		Aiññūṟṟuvaṉ cīy<unclear>ā</unclear>rūr-āṉa 
 		ta<hi rend="grantha"><unclear>tpu</unclear><supplied reason="omitted">ru</supplied>ṣaśi</hi><unclear>śi</unclear>vaṉukku 
 		nicatam nellu mu<unclear>kku</unclear>ṟu<unclear>ṇi</unclear> <g type="gomutra">.</g>
 	</p> 
 	
 	<p>  
-		<unclear>campa</unclear>n<unclear>ta</unclear>ṉ Ārūraṉāṉa 
+		<unclear>campa</unclear>n<unclear>ta</unclear>ṉ Ārūraṉ-āṉa 
 		<hi rend="grantha">vāmaśi</hi>vaṉukku 
 		nicata<unclear>m</unclear> nellu mu<unclear>k</unclear>kuṟu<unclear>ṇi</unclear> <g type="gomutra">.</g>
 	</p> 
 	
 	<p>  
-		Araiyaṉ pic<unclear>caṉā</unclear>ṉa 
+		Araiyaṉ pic<unclear>caṉ-ā</unclear>ṉa 
 		<hi rend="grantha"><unclear>dharmmaśi</unclear></hi>vaṉukku 
 		nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
 	</p>  
 	
 	<p>  
-		kā<hi rend="grantha"><unclear>śyapa</unclear></hi>n Eṭutta<unclear>pā</unclear>tappiccaṉāṉa 
+		kā<hi rend="grantha"><unclear>śyapan·</unclear></hi> Eṭutta<unclear>pā</unclear>ta-p piccaṉ-āṉa 
 		<hi rend="grantha">urudraśi</hi>vaṉukku 
 		<unclear>ni</unclear>catam<lb n="10" break="no"/> nellu mukkuṟuṇi <g type="gomutra">.</g>
 	</p>    
 	
 	<p>  
-		<hi rend="grantha">subrahmaṇya</hi>n <unclear>Ā</unclear>ccaṉāṉa 
+		<hi rend="grantha">subrahmaṇyan·</hi> <unclear>Ā</unclear>ccaṉ-āṉa 
 		<hi rend="grantha">dharmma<unclear>śi</unclear></hi>vaṉukku 
 		nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
 	</p>    
 	
 	<p>  
-		kūttaṉ Amara<hi rend="grantha">bhu</hi>jaṅkanāṉa 
+		kūttaṉ Amara<hi rend="grantha">bhu</hi>jaṅkan-āṉa 
 		<hi rend="grantha">satya<unclear>śi</unclear></hi>vaṉukku 
 		nicatam ne<unclear>llu muk</unclear>ku<unclear>ṟuṇi</unclear> <g type="gomutra">.</g>
 	</p>    
 	
 	<p>		
 		<gap reason="undefined" quantity="1" unit="character"/>
-		veṇ<unclear>k</unclear>ā<unclear>ṭa</unclear>ṉāṉa 
+		veṇ<unclear>k</unclear>ā<unclear>ṭa</unclear>ṉ-āṉa 
 		<hi rend="grantha">A<unclear>gho</unclear>raśi</hi><unclear>va</unclear>ṉukku 
 		nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
 	</p>    
 	
 	<p>  
-		mātevaṉ tirunāvukkar<unclear>aiyaṉā</unclear>ṉa 
+		mātevaṉ tirunāvukkar<unclear>aiyaṉ-ā</unclear>ṉa 
 		vi<hi rend="grantha">jñā</hi>na<hi rend="grantha">śi</hi>vaṉukku 
 		nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
 	</p>    
 	
 	<p>  
-		kūtta<unclear>ṉ</unclear> veṇkāṭa<unclear>ṉā</unclear>ṉa 
+		kūtta<unclear>ṉ</unclear> veṇkāṭa<unclear>ṉ-ā</unclear>ṉa 
 		U<hi rend="grantha">ru</hi><unclear>dra</unclear><hi rend="grantha">śi</hi>vaṉuk<unclear>ku</unclear> 
 		nicata<unclear>m</unclear><lb n="11" break="no"/> <unclear>ne</unclear>llu mukkuṟuṇi <g type="gomutra">.</g>
 	</p>    
 	
 	<p>  
-		Aiññūṟṟuvaṉ tiru<unclear>vā</unclear>y<unclear>mū</unclear>rāṉa 
+		Aiññūṟṟuvaṉ tiru<unclear>vā</unclear>y<unclear>mū</unclear>r-āṉa 
 		<hi rend="grantha">Agho<unclear>raśi</unclear></hi><unclear>vaṉu</unclear>kku 
 		nicata<unclear>m ne</unclear>llu mukkuṟuṇi <g type="gomutra">.</g>
 	</p>    
 	
 	<p>  
-		tirumalai kūttaṉāṉa 
+		tirumalai kūttaṉ-āṉa 
 		<hi rend="grantha">vāmaśi</hi>vaṉukku 
 		<unclear>nica</unclear>tam nellu <unclear>muk</unclear>kuṟuṇi <g type="gomutra">.</g>
 	</p>    
 	
 	<p>  
-		Aiññūṟṟuvaṉ Eṭuttapātamāṉa 
+		Aiññūṟṟuvaṉ Eṭuttapātam-āṉa 
 		<hi rend="grantha">dharmmaśi</hi>vaṉukku 
 		nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
 	</p>    
 	
 	<p>  
-		Araiyaṉ ti<unclear>l</unclear>laikkaraicāṉa 
+<!--		this is where i am
+-->		Araiyaṉ ti<unclear>l</unclear>lai-k karaic’-āṉa 
 		<hi rend="grantha">pūrvvaśi</hi><unclear>va</unclear>ṉukku 
 		nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
 	</p>    
