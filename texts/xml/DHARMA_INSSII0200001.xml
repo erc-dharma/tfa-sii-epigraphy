@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>This is the programmatic inscription of the Rājarājeśvara temple founded by Rājarāja I Cōḻa. It contains in its first part the royal order of the 20th day of his 26th regnal year, reported in the first person plural, enjoining that the donations by the king Rājarāja, his elder sister, his wives and other donors to Rājarājeśvara be engraved on the temple (<foreign>vimāna</foreign>). Then is a list of various items donated by Rājarāja, from the 312th day of his 25th regnal year up to the 319th day of his 26th regnal year. The second part provides a further list of items donated by Rājarāja between his 23rd and 29th regnal years. The donated items are mostly gold utensils and ornaments. Besides such items, noteworthy are the donation of golden images of Koḷkaideva (§3 in Hultzsch's translation) and Kṣetrapāladeva (§33 in Hultzsch's translation), the gilding of the temple pinnacle with copper and gold (§18 in Hultzsch's translation). The inscription explicitly states that the stone-temple (<foreign>tirukkaṟṟaḷi</foreign>) of Rājarājeśvara (<foreign>rājarājīśvaram uṭaiyār</foreign>, literally "the lord of [the <foreign>liṅga</foreign> named] Rājarājeśvara ("the lord of Rājarāja")) was founded by Rājarāja (line 1.6=6) and that the first part of the inscription is engraved on the <foreign>jagatippaṭai</foreign> of the temple (§51 in Hultzsch's translation).</summary>
+						<summary>This is the programmatic inscription of the Rājarājeśvara temple founded by Rājarāja I Cōḻa. It contains in its first part the royal order of the 20th day of his 26th regnal year, reported in the first person plural, enjoining that the donations by the king Rājarāja, his elder sister, his wives and other donors to Rājarājeśvara be engraved on the temple (<foreign>vimāna</foreign>). Then is a list of various items donated by Rājarāja, from the 312th day of his 25th regnal year up to the 319th day of his 26th regnal year. The second part provides a further list of items donated by Rājarāja between his 23rd and 29th regnal years. The donated items are mostly gold utensils and ornaments. Besides such items, noteworthy are the donation of golden images of Koḷkaideva (Hultzsch's §3) and Kṣetrapāladeva (Hultzsch's §33; the attributes of the deity are mentioned), the gilding of the temple pinnacle with copper and gold (Hultzsch's §18). The inscription explicitly states that the stone-temple (<foreign>tirukkaṟṟaḷi</foreign>) of Rājarājeśvara (<foreign>rājarājīśvaram uṭaiyār</foreign>, literally "the lord of [the <foreign>liṅga</foreign> named] Rājarājeśvara ("the lord of Rājarāja")) was founded by Rājarāja (line 1.6=6) and that the first part of the inscription is engraved on the <foreign>jagatippaṭai</foreign> of the temple (Hultzsch's §51).</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -59,9 +59,7 @@
 		</fileDesc>
 		<encodingDesc>
 			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union’s Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
+				<p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
 			</projectDesc>
 			<schemaRef type="guide" key="EGDv01"
 				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
@@ -119,6 +117,7 @@
          		<l n="11">toḻutaka viḷaṅkum yāṇṭē-y</l>
          		<l n="12">ceḻiyar<unclear>ai</unclear>-t tēcu koḷ</l>         		
          	</lg>
+         	
          	<p>
          		kō-<hi rend="grantha">rāja-kesari-varmma</hi>r-āṉa <hi rend="grantha">śrī-rājarāja-de</hi>varkku yāṇṭu I
          		<lb n="1.5=5" break="no"/>ruppatt' āṟ-āvatu nāḷ Iru-patiṉāl Uṭaiyār <hi rend="grantha">śrī-rājarāja-de</hi>var tañcāvūr-k kōyili<choice><orig>n</orig><reg>ṉ</reg></choice> uḷḷāl Iru-maṭicōḻa<choice><orig>n</orig><reg>ṉ</reg></choice>iṉ kīḻai-t tiru-ma
@@ -135,14 +134,12 @@
          		<lb n="2.3=10"/><hi rend="grantha">śrī-rājarājade</hi>var kuṭutta <hi rend="grantha">śrī-bali</hi> Eḻuntaruḷum poṉṉiṉ koḷkai<hi rend="grantha">de</hi>var
          		<lb n="2.4=11"/>Oruvar Āṭavallā<choice><sic>n</sic><corr>ṉ</corr></choice> eṉṉuṅ kallāl niṟai Eṇṇūṟṟ' irupatt' oṉpatiṉ ka
          		<lb n="2.5=12" break="no"/>ḻañcēy mukkālēy mūṉṟu mañcāṭi —
-         	</p>
-         	
+         	</p>         	
          	<p>
          		nāḷatiṉālē-y kuṭutta poṉṉiṉ <hi rend="grantha">pa
          		<lb n="2.6=13" break="no"/><choice><sic>t</sic><corr>d</corr></choice>māsa</hi>na-<hi rend="grantha">śrī-bali</hi>-t-tālam Oṉṟu mēṟpaṭi kallāl niṟai toḷāyirattu-t to
          		<lb n="2.7=14" break="no"/><unclear>ṇ</unclear>ṇūṟṟ' <choice><orig>aiy</orig><reg>ai</reg></choice>ṅ-kaḻañc' araiyē nālu mañcāṭi —
-         	</p>
-         	         	
+         	</p>         	         	
          	<p>     
          		yāṇṭu Irupatt' āṟ-āvatu nāḷ pati<choice><orig>n</orig><reg>ṉ</reg></choice>āli
          		
@@ -150,99 +147,123 @@
          		<label xml:lang="eng">Section 3</label>
          		<lb n="3.1=15"/>ṉāl Uṭaiyār <hi rend="grantha">śrī-rājarājade</hi>var kuṭutta poṉṉiṉ tiruppaṭṭam Oṉṟu Āṭavallāṉ eṉṉuṅ kallāl niṟai nāṉūṟṟu-t toṇṇūṟṟ' oṉpati
          		<lb n="3.2=16"/>ṉ kaḻañcu —
-         	</p>
-         	
+         	</p>         	
          	<p>         		
          		nāḷatiṉālēy kuṭutta poṉṉiṉ tiruppaṭṭam Oṉṟu mēṟpaṭi kallāl niṟai nāṉūṟṟu-t toṇṇūṟṟu nāṟ-kaḻañc' araiyēy Iraṇṭu
          		<lb n="3.3=17"/>mañcāṭi —
-         	</p>
-         	
+         	</p>         	
          	<p>
          		nālatiṉālēy kuṭutta poṉṉiṉ tiruppaṭṭam Oṉṟu mēṟpaṭi kallāl niṟai nāṉūṟṟ’ eṇpattu nāṟ-kaḻañcē kāl —
-         	</p>
-         	
+         	</p>         	
          	<p>
          		nāḷatiṉālē ku
          		<lb n="3.4=18" break="no"/>ṭutta poṉṉiṉ tiruppaṭṭam Oṉṟu mēṟpaṭi kallāl niṟai nāṉūṟṟu-t toṇṇūṟṟ’ eḻu kaḻañc’ arai —
-         	</p>
-         	
+         	</p>         	
          	<p>
          		nāḷatiṉālēy kuṭutta poṉṉiṉ tiruppa
          		<lb n="3.5=19" break="no"/>ṭṭam Oṉṟu mēṟpaṭi kallāl niṟai nāṉūṟṟu-t toṇṇūṟṟ’ eḻu kaḻañc’ arai —
+         	</p>         	
+         	<p>
+         		nāḷ Irupatt’ ēḻiṉāl Uṭaiyār <hi rend="grantha">śrī-rājarājade</hi>var ciṟu-ta<choice><orig>n</orig><reg>ṉ</reg></choice>at
+         		<lb n="3.6=20" break="no"/>tu-k kuṭutta poṉṉiṉ taḷikai Oṉṟu Āṭavallāṉ eṉṉum kallāl niṟai Aṟunūṟṟ’ <choice><orig>aiy</orig><reg>ai</reg></choice>mpatt’ iru-kaḻañcēy Eṭṭu mañcāṭi —
          	</p>
-         	
-         	 <p>
-         	 	nāḷ Irupatt’ ēḻiṉāl Uṭaiyār <hi rend="grantha">śrī-rājarājade</hi>var ciṟu-ta<choice><orig>n</orig><reg>ṉ</reg></choice>at
-         	 	<lb n="3.6=20" break="no"/>tu-k kuṭutta poṉṉiṉ taḷikai Oṉṟu Āṭavallāṉ eṉṉum kallāl niṟai Aṟunūṟṟ’ <choice><orig>aiy</orig><reg>ai</reg></choice>mpatt’ iru-kaḻañcēy Eṭṭu mañcāṭi —
-         	 </p>
          	<p>
          		nāḷati
          		<lb n="3.7=21" break="no"/>ṉālēy kuṭutta poṉṉiṉ taḷikai Oṉṟu mēṟpaṭi kallāl niṟai nāṉūṟṟu-t toṇṇūṟṟu mu-k-kaḻañcēy kāl —
-         	</p> 
-         	
+         	</p>         	
          	<p>
-         		nāḷatiṉālēy kuṭutta
-         	         	         		
+         		nāḷatiṉālēy kuṭutta         	         	         		
          		<milestone type="pagelike" unit="zone" n="4"/>
          		<label xml:lang="eng">Section 4</label> 
-         		  
          		<lb n="4.1=22"/>poṉṉiṉ maṇṭai Oṉṟu mēṟpaṭi kallāl niṟai muṉṉūṟṟu-t toṇṇūṟṟ’ ēḻu kaḻañcē Āṟu
          		<lb n="4.2=23"/>mañcāṭi —
-         	</p>
-         	
+         	</p>         	
          	<p>
          		nāḷatiṉālē kuṭutta poṉṉiṉ maṇṭai Oṉṟu mēṟpaṭi kallāl niṟai muṉṉūṟ
 <lb n="4.3=24" break="no"/>ṟu-t toṇṇūṟṟ’ mu-k-kaḻañcey mañcāṭi —
-         	</p> 
-         	
+         	</p>         	
          	<p>
          		nāḷatiṉālēy kuṭutta poṉṉiṉ maṇṭai Oṉṟu
          		<lb n="4.4=25"/>mēṟpaṭi kallāl niṟai muṉṉūṟṟu-t toṇṇūṟṟ’ eṇ-kaḻañcēy kuṉṟi —
-         	</p> 
-         	
+         	</p>         	
          	<p>
          		nāḷatiṉālēy kuṭu
          		<lb n="4.5=26" break="no"/>tta poṉṉiṉ maṇṭai Oṉṟu mēṟpaṭi kallāl niṟai muṉṉūṟṟu-t toṇṇūṟṟu Aṟu kaḻañcu —
-         	</p> 
-         	
+         	</p>         	
          	<p>
          		<lb n="4.6=27"/>nāḷatiṉālēy kuṭutta poṉṉiṉ keṇṭi Oṉṟu mēṟpaṭi kallāl niṟai Iru-nūṟṟ’ eṇpattu nā
-         		<lb n="4.7=28" break="no"/>ṟ-kaḻañc’ arai —</p>
-         	
+         		<lb n="4.7=28" break="no"/>ṟ-kaḻañc’ arai —
+         	</p>         	
          	<p>
-         		nāḷ muppattu nāliṉāl Uṭaiyār <hi rend="grantha">śrī-rājar<unclear>ā</unclear>jade</hi>var ciṟu-ta<choice><orig>n</orig><reg>ṉ</reg></choice>attu-k kuṭutta poṉṉi
-         		
-         		
-         		
+         		nāḷ muppattu nāliṉāl Uṭaiyār <hi rend="grantha">śrī-rājar<supplied reason="undefined">ā</supplied>jade</hi>var ciṟu-ta<choice><orig>n</orig><reg>ṉ</reg></choice>attu-k kuṭutta poṉṉi      
          		<milestone type="pagelike" unit="zone" n="5" break="no"/>
-         		<label xml:lang="eng">Section 5</label>
-         		
+         		<label xml:lang="eng">Section 5</label>         		
          		<lb n="5.1=29"/>ṉ taṭṭam Oṉṟu Āṭavallāṉ eṉṉuṅ kallāl niṟai nāṟ-patiṉ kaḻañcēy kāl —
          	</p>
-         	
          	<p>        		
          		yāṇṭu Irupatt’ aiñc-āvatu nāḷ Irunūṟṟ’ eḻu-patt’ aiñciṉāl Uṭaiyār <hi rend="grantha">śrī-rājarājade</hi>var <hi rend="grantha">śrī-rājarājīśvara</hi>m uṭaiyār <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">mā</hi>nattu-c cempiṉ <hi rend="grantha">stūpi</hi>ttaṟiyil vaikka-k kuṭutta ceppu-k-kuṭam Oṉṟu
          		<lb n="5.2=30"/>niṟai mūvāyirattu Eṇpattu muppalattil curukki<choice><orig>n</orig><reg>ṉ</reg></choice>a takaṭu pala poṉ Āṭavallāṉ eṉṉuṅ kallāl niṟai Iraṇṭ’ āyirattu-t toḷāyirattu Irupatt’ aṟu-kaḻañc’ arai —
-         	</p>
-         	
+         	</p>         	
          	<p>    	
          		yāṇṭu Irupatt’ āṟ-āvatu nāḷ nūṟṟu nāliṉāl Uṭaiyār <hi rend="grantha">śrī-rājarājade</hi>var <hi rend="grantha">śrī-rājarājīśvara</hi>m uṭaiyārkku-k kuṭutta po
          		<lb n="5.3=31" break="no"/>ṉṉiṉ kiṭāram Oṉṟu Āṭavallāṉ eṉṉum kallāl niṟai patiṉ ōr āyirattu eḻu-nūṟṟu nāṟ-pattu Iru_kaḻañcu —
-         	</p>
-         	
+         	</p>         	
          	<p>
          		nāḷatiṉālēy kuṭutta poṉṉiṉ Oṭṭuvaṭṭil Oṉṟu mēṟpaṭi kallāl niṟai nāṉūṟṟu Eṇpatt’ eṇ-kaḻañcu —
-         	</p>
-         	
+         	</p>         	
          	<p>
          		nāḷatiṉālēy kuṭutta poṉṉiṉ kala
          		<lb n="5.4=32" break="no"/>cam Oṉṟu mēṟpaṭi kallāl niṟai Aiñ-ñūṟṟu Eḻu kaḻañcu —         		
+         	</p>         	
+         	<p>
+         		nāḷatiṉālēy kuṭutta poṉṉiṉ kalacam Oṉṟu mēṟpaṭi kallāl niṟai nāṉūṟṟ’ eṇpattu mukkaḻañcu —
          	</p>
          	
          	<p>
-         		
+         		nāḷatiṉālēy kuṭutta poṉṉiṉ kalacam Oṉṟu mēṟpaṭi kallāl niṟai nāṉūṟṟu-t to
+         		<lb n="5.5=33" break="no"/>ṇṇūṟṟu Iru-kaḻañ<supplied reason="undefined">cu —</supplied>
+         	</p>         	
+         	<p>         		
+         		nāḷatiṉālēy kuṭutta poṉṉiṉ kalacam Oṉṟu mēṟpaṭi kallāl niṟai nāṉūṟṟu-t toṇṇūṟṟ’ iru-kaḻañcē kāl —
+         	</p>
+         	<p>
+         		nāḷatiṉālēy kuṭutta poṉṉiṉ kalacam Oṉṟu mēṟpaṭi kallāl niṟai Aiñ-ñūṟṟ’ oru patt’ iru-kaḻañc’ arai —
+         	</p>
+         	<p>
+         		nā
+         		<lb n="5.6=34" break="no"/>ḷatiṉālēy kuṭutta <supplied reason="undefined">po</supplied>ṉṉiṉ paṭikka<supplied reason="undefined">m</supplied> Oṉṟu kāl mūṉṟum vaḷaiyil Iraṇṭum Uḷppaṭa mēṟpaṭi kallāl niṟai eṇ-ṇūṟṟ’ iru-kaḻañc’ arai —
+         	</p>
+         	<p>
+         		nāḷatiṉālēy kuṭutta poṉṉiṉ taṭṭam Oṉṟu mēṟpaṭi kallāl niṟai nāṟ-patt’ oṉpatiṉ kaḻañcē mukkāl —
+         	</p>
+         	<p>
+         		nāḷatiṉā
+         		<lb n="5.47=35" break="no"/>lēy ku<supplied reason="undefined">ṭu</supplied>tta poṉṉiṉ taṭṭam Oṉṟu mēṟpaṭi kallāl niṟai nāṟ-patt’ oṉpatiṉ kaḻañcē mukkāl —
+         	</p>
+         	<p>
+         		nāḷatiṉālēy kuṭutta poṉṉiṉ taṭṭam Oṉṟu mēṟpaṭi kallāl niṟai <choice><orig>aiy</orig><reg>ai</reg></choice>mpatiṉ kaḻañcu —
+         	</p>
+         	<p>
+         		nāḷa-tiṉāley kuṭutta poṉṉiṉ taṭṭam Oṉṟu mēṟpaṭi kallāl niṟai
          		<milestone type="pagelike" unit="zone" n="6"/>
-         		<label xml:lang="eng">Section 6</label>  
+         		<label xml:lang="eng">Section 6</label>         		
+         		<lb n="6.1=36"/>nāṟ-patt’ oṉpatiṉ kaḻañcē mukkālē Iraṇṭu mañcāṭiyuṅ kuṉṟi —
+         	</p>
+         	<p>
+         		nāḷatiṉāle
+         		<lb n="6.2=37" break="no"/>y kuṭutta poṉṉiṉ kuṟumaṭal Oṉṟu mēṟpaṭi kallāl niṟai toṇ-ṇūṟ
+         		<lb n="6.3=38" break="no"/>ṟu Ēḻu kaḻañcu — 
+         	</p>
+         	<p>
+         		nāḷatiṉālēy kuṭutta poṉṉiṉ mānavaṭṭil Oṉṟu mēṟpaṭi
+         		<lb n="6.4=39"/>kallāl niṟai Irupatiṉ kaḻañcu —
+         	</p>
+         	<p>
+         		yāṇṭu Irupatt’ āṟ-āvatu nāḷ mu<choice><orig>ṉṉ</orig><reg>nn</reg></choice>ūṟṟ’ oru patt’ eṭṭiṉāl ku
+         		<lb n="6.5=40" break="no"/>ṭutta uṭaiyār kōyilil muḻattiṉ kīḻ veḷḷiyiṉ <hi rend="grantha">śrī-pādapīṭham·</hi> Āṟu torai Ucaramum nāl vi
+         		<lb n="6.6=41" break="no"/>ralē Āṟu torai-c cuṟṟum Uṭaiya poṉṉiṉ <hi rend="grantha">kṣetrapālade</hi>var <hi rend="grantha"><supplied reason="undefined">ā</supplied>dā-dikeśāntam·</hi> mū
+         		<lb n="6.7=42" break="no"/>viralē mūṉṟu torai Ucaramum nālu <hi rend="grantha">śrī-hasta</hi>ttilum piṭi<choice><orig>cc</orig><reg>tt</reg></choice>’ aruḷina <hi rend="grantha">śūla</hi>mum <hi rend="grantha">kapāla</hi>mu
+         		<lb n="6.8=43" break="no"/>m <hi rend="grantha">pāśa</hi>mum <hi rend="grantha">ḍamaruka</hi>mum veḷḷiyiṉ <hi rend="grantha">śrī-pādapīṭha</hi>mum Uḷpaṭa niṟai Ēḻu-patt’ iru-kaḻañc’ arai <supplied reason="omitted">—</supplied>
          		
          		<milestone type="pagelike" unit="zone" n="7"/>
          		<label xml:lang="eng">Section 7</label>  
@@ -283,19 +304,14 @@
 		<app loc="5">
 			<lem>kōyili<choice><orig>n</orig><reg>ṉ</reg></choice></lem>
 			<rdg source="bib:Hultzsch1891_01">kōyilin</rdg>
-			<note><ptr target="bib:Hultzsch1891_01"/> does not normalise the text here and hereafter, when <foreign>n</foreign> is used instead of <foreign>ṉ</foreign>.</note>
-			
-		</app>
-		
+			<note><ptr target="bib:Hultzsch1891_01"/> does not normalise the text here and hereafter, when <foreign>n</foreign> is used instead of <foreign>ṉ</foreign>.</note>			
+		</app>		
 				
 		<app loc="6">
 			<lem>Eṭuppi<choice><orig>cc</orig><reg>tt</reg></choice>a</lem>
 			<rdg source="bib:Hultzsch1891_01">Eṭuppicca</rdg>
-			<note><ptr target="bib:Hultzsch1891_01"/> does not normalise the text here.</note>
-			
+			<note><ptr target="bib:Hultzsch1891_01"/> does not normalise the text here.</note>			
 		</app>
-		
-		
 	</listApp>
 	
 </div>
@@ -310,21 +326,33 @@
       	
 <div type="translation" source="bib:Hultzsch1891_01">
          	
-         	<p n="1.1=s1">Hail! Prosperity! This <supplied reason="subaudible">is</supplied> the edict <supplied reason="explanation"><foreign>śāsana</foreign></supplied> of Rājarāja, <supplied reason="subaudible">alias</supplied> Rājakēsarivarman, which is cherished by the multitude of the diadems of <supplied reason="explanation"><hi rend="italic">i.e.</hi>, "which is obeyed by</supplied> the crowd of all princes<note>This <foreign>anuṣṭubh</foreign> verse is quoted, with three misreadings, in Dr. Burnell's <hi rend="italic">South-Indian Palaeography</hi>, second edition, p. 40, note 2. Similar verses are found on the seals of the two Leyden grants; see Dr. Burgess's <hi rend="italic">Archaeological Survey of Southern India</hi>, Vol. IV, pp. 204 and 224.</note>.</p>
+         	<p n="1.1=§1">Hail! Prosperity! This <supplied reason="subaudible">is</supplied> the edict <supplied reason="explanation"><foreign>śāsana</foreign></supplied> of Rājarāja, <supplied reason="subaudible">alias</supplied> Rājakēsarivarman, which is cherished by the multitude of the diadems of <supplied reason="explanation"><hi rend="italic">i.e.</hi>, "which is obeyed by</supplied> the crowd of all princes<note>This <foreign>anuṣṭubh</foreign> verse is quoted, with three misreadings, in Dr. Burnell's <hi rend="italic">South-Indian Palaeography</hi>, second edition, p. 40, note 2. Similar verses are found on the seals of the two Leyden grants; see Dr. Burgess's <hi rend="italic">Archaeological Survey of Southern India</hi>, Vol. IV, pp. 204 and 224.</note>.</p>
 	
-	<p n="1.2-2.1=s2">On the twentieth day of the twenty-sixth year <supplied reason="subaudible">of the reign</supplied> of Kō-Rājakēsarivarman, <foreign>alias</foreign> Śrī-Rājarājadēva, who,—while <supplied reason="subaudible">his</supplied> heart rejoiced, that, like the goddess of fortune, the goddess of the great earth had become his wife,—in his life of growing strength, during which, having been pleased to cut the vessel <supplied reason="explanation"><foreign>kalam</foreign></supplied> <supplied reason="subaudible">in</supplied> the hall <supplied reason="subaudible">at</supplied> Kāntaḷūr,<note>This expression, which was mistranslated in Vol. I [SII 1], seems to refer to some incident in the king's early life, perhaps to some feat, by which he showed the great strength of his arm. In an inscription of the 12th year of his reign, which was published in Vol. I (No. 146) [SII 1, no. 146], <foreign>kantaḷūrccālai kalamaṟutta</foreign> is the only epithet, which precedes the name of the king as a kind of <foreign>biruda</foreign>.</note> he conquered by his army, which was victorious in great battles, Vēṅkai-nāṭu, Kaṅka-pāṭi, Taṭikai-pāṭi, Nuḷampa-pāṭi, Kuṭamalai-nāṭu, Kollam, Kaliṅkam, Īḷa-maṇṭalam, <supplied reason="subaudible">the conquest of which</supplied> gave fame <supplied reason="explanation"><hi rend="italic">i.e.</hi>, made <supplied reason="subaudible">him</supplied> famous</supplied> <supplied reason="subaudible">in</supplied> the eight directions, and the seven and a half <foreign>lakṣa</foreign>s of Iraṭṭa-pāṭi,—deprived the Cēriyas <supplied reason="explanation"><hi rend="italic">i.e.</hi>, the Pāṇḍyas</supplied> of their splendour, while <supplied reason="subaudible">he</supplied> was resplendent <supplied reason="subaudible">to such a degree</supplied> that <supplied reason="subaudible">he</supplied> was worthy to be worshipped everywhere;—having been pleased to make gifts <supplied reason="subaudible">in</supplied> the royal bathing-hall <supplied reason="explanation"><foreign>tiru-mañcana-cālai</foreign></supplied> to the east <supplied reason="subaudible">of the hall</supplied> of Irumaṭi-Cōḻaṉ within the Tañcāvūr palace <supplied reason="explanation"><foreign>kōyil</foreign></supplied>, the lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied> Śrī-Rājarājadēva vouchsafed to say:—<quote>Let the gifts made by us, those made by <supplied reason="subaudible">our</supplied> elder sister,<note><foreign>akkaṉ</foreign> seems to be used for <foreign>akkai</foreign>, just <foreign>ammaṉ</foreign> for <foreign>ammai</foreign>. The elder sister referred to is Kuntavaiyār, the queen of Vallavaraiyar Vandyadevar; see the introduction to No. 6 [SII 2, no. 6]. The gifts, which were made by herself, the king's wives and others, are recorded in various other inscriptions of the Tañcāvūr temple.</note> those made by our wives, and those made by other donors to the lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied> of the sacred stone-temple <supplied reason="explanation"><foreign>tirukkaṟṟaḷi</foreign></supplied>, <supplied reason="subaudible">called</supplied> Śrī-Rājarājēśvara,—which we caused to be built <supplied reason="subaudible">at</supplied> Tañjāvūr, <supplied reason="subaudible">a city</supplied> in Tañcāvūr-kūṟṟam, <supplied reason="subaudible">a subdivision</supplied> of Pāṇḍyakulāśani-vaḷanāṭu,—be engraved on stone on the sacred shrine <supplied reason="explanation"><foreign>śrī-vimāna</foreign></supplied>!</quote> <supplied reason="subaudible">Accordingly, these gifts</supplied> were engraved <supplied reason="subaudible">as follows</supplied>:—</p>
+	<p n="1.2-2.1=§2">On the twentieth day of the twenty-sixth year <supplied reason="subaudible">of the reign</supplied> of Kō-Rājakēsarivarman, <foreign>alias</foreign> Śrī-Rājarājadēva, who,—while <supplied reason="subaudible">his</supplied> heart rejoiced, that, like the goddess of fortune, the goddess of the great earth had become his wife,—in his life of growing strength, during which, having been pleased to cut the vessel <supplied reason="explanation"><foreign>kalam</foreign></supplied> <supplied reason="subaudible">in</supplied> the hall <supplied reason="subaudible">at</supplied> Kāntaḷūr,<note>This expression, which was mistranslated in Vol. I [SII 1], seems to refer to some incident in the king's early life, perhaps to some feat, by which he showed the great strength of his arm. In an inscription of the 12th year of his reign, which was published in Vol. I (No. 146) [SII 1, no. 146], <foreign>kantaḷūrccālai kalamaṟutta</foreign> is the only epithet, which precedes the name of the king as a kind of <foreign>biruda</foreign>.</note> he conquered by his army, which was victorious in great battles, Vēṅkai-nāṭu, Kaṅka-pāṭi, Taṭikai-pāṭi, Nuḷampa-pāṭi, Kuṭamalai-nāṭu, Kollam, Kaliṅkam, Īḷa-maṇṭalam, <supplied reason="subaudible">the conquest of which</supplied> gave fame <supplied reason="explanation"><hi rend="italic">i.e.</hi>, made <supplied reason="subaudible">him</supplied> famous</supplied> <supplied reason="subaudible">in</supplied> the eight directions, and the seven and a half <foreign>lakṣa</foreign>s of Iraṭṭa-pāṭi,—deprived the Cēriyas <supplied reason="explanation"><hi rend="italic">i.e.</hi>, the Pāṇḍyas</supplied> of their splendour, while <supplied reason="subaudible">he</supplied> was resplendent <supplied reason="subaudible">to such a degree</supplied> that <supplied reason="subaudible">he</supplied> was worthy to be worshipped everywhere;—having been pleased to make gifts <supplied reason="subaudible">in</supplied> the royal bathing-hall <supplied reason="explanation"><foreign>tiru-mañcana-cālai</foreign></supplied> to the east <supplied reason="subaudible">of the hall</supplied> of Irumaṭi-Cōḻaṉ within the Tañcāvūr palace <supplied reason="explanation"><foreign>kōyil</foreign></supplied>, the lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied> Śrī-Rājarājadēva vouchsafed to say:—<quote>Let the gifts made by us, those made by <supplied reason="subaudible">our</supplied> elder sister,<note><foreign>akkaṉ</foreign> seems to be used for <foreign>akkai</foreign>, just <foreign>ammaṉ</foreign> for <foreign>ammai</foreign>. The elder sister referred to is Kuntavaiyār, the queen of Vallavaraiyar Vandyadevar; see the introduction to No. 6 [SII 2, no. 6]. The gifts, which were made by herself, the king's wives and others, are recorded in various other inscriptions of the Tañcāvūr temple.</note> those made by our wives, and those made by other donors to the lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied> of the sacred stone-temple <supplied reason="explanation"><foreign>tirukkaṟṟaḷi</foreign></supplied>, <supplied reason="subaudible">called</supplied> Śrī-Rājarājēśvara,—which we caused to be built <supplied reason="subaudible">at</supplied> Tañjāvūr, <supplied reason="subaudible">a city</supplied> in Tañcāvūr-kūṟṟam, <supplied reason="subaudible">a subdivision</supplied> of Pāṇḍyakulāśani-vaḷanāṭu,—be engraved on stone on the sacred shrine <supplied reason="explanation"><foreign>śrī-vimāna</foreign></supplied>!</quote> <supplied reason="subaudible">Accordingly, these gifts</supplied> were engraved <supplied reason="subaudible">as follows</supplied>:—</p>
 	
-	<p n="s3">...</p>
+	<p n="§3">On the three-hundred-and-twelfth day of the twenty-fifth year <supplied reason="subaudible">of his reign</supplied>, the lord Śrī-Rājarājadēva gave one gold <supplied reason="subaudible">image of</supplied> Koḷkaidevar,<note><hi rend="italic">I.e.</hi>, 'the god <supplied reason="subaudible">who is</supplied> to receive <supplied reason="subaudible">the offerings</supplied>.'</note> which is to be present <supplied reason="subaudible">at</supplied> the sacred offerings <supplied reason="explanation"><foreign>śrī-bali</foreign></supplied>,<note>A.ccording to Winslow, the secondary idol of a temple (<foreign>eḻuntaruḷum vikkirakam</foreign> or <foreign>utsava-vigraha</foreign>) is carried about in processions, while the chief idol (<foreign>mūla-vigraha</foreign>) remains stationary.</note> weighing eight hundred and twenty-nine <foreign>kaḻañcu</foreign><note>1 <foreign>kaḻañcu</foreign> consists of 20 <foreign>mañcāṭi</foreign> of 2 <foreign>kuṉṟi</foreign>, and 1 <foreign>kuṉṟi</foreign> weighs about 2 grains.</note> and three quarters and three <foreign>mañcāṭi</foreign> by the stone called <supplied reason="subaudible">after</supplied> Āṭavallāṉ.</p>
 	
-	<p n="s107"><supplied reason="subaudible">Finally, he</supplied> gave one sacred diadem <supplied reason="explanation"><foreign>tiruppaṭṭam</foreign></supplied>, <supplied reason="subaudible">consisting of</supplied> nine hundred and eighty-one <foreign>kaḻañcu</foreign>s and a quarter of gold, which was made of gold taken from the treasures, which he seized after having defeated the Cēra king and the Pāṇḍyas in Malaināṭu.</p>
+	<p n="§4">...</p>
+	
+	<p n="§18">...</p>
+	
+	<p n="§33">...</p>
+	
+	<p n="§51">...</p>
+	
+	<p n="§107"><supplied reason="subaudible">Finally, he</supplied> gave one sacred diadem <supplied reason="explanation"><foreign>tiruppaṭṭam</foreign></supplied>, <supplied reason="subaudible">consisting of</supplied> nine hundred and eighty-one <foreign>kaḻañcu</foreign>s and a quarter of gold, which was made of gold taken from the treasures, which he seized after having defeated the Cēra king and the Pāṇḍyas in Malaināṭu.</p>
 	
 </div>
 
 
 <div type="commentary">
          	
-	<p>Discussion on the date of the record and the status of both parts. According <bibl><ptr target="bib:Hultzsch1891_01"/></bibl> (p. 1), <quote>[t]he last set of paragraphs (51 to 107) [that is part 2 of the inscription] was incised at a later date than the preceding
-part of the inscription, to which it refers as previously engraved (paragraph 51).</quote> It is possible (and to be checked on the stone at the transition between both parts) that the inscription was engraved only in the 29th regnal year of Rājarāja.</p>
+	<p><bibl><ptr target="bib:Hultzsch1891_01"/></bibl> divides the inscription in two parts, in which, for the sake of convenience, he supplied paragraphs in his edition and in his translation: 
+		<list>
+			<item>§§1-50, with the programmatic order of the 20th day of the 26th regnal year Rājarāja I Cōḻa (§1) and the list of the donations the king himself made from the 312th day of his 25th regnal year up to the 319th day of his 26th regnal year, constitutes the first part.</item>
+			<item>§§ 51-107, with the list of further donations the king himself made between his 23rd and 29th regnal years, constitutes the second part.</item></list>
+	</p>
+	<p>The exact date of the record and the status of both parts is unclear. According <bibl><ptr target="bib:Hultzsch1891_01"/></bibl> (p. 1), <quote>[t]he last set of paragraphs (51 to 107) was incised at a later date than the preceding part of the inscription, to which it refers as previously engraved (paragraph 51).</quote> It is possible, but has to be checked on the stone at the transition between both parts, that the entire inscription was engraved only in the 29th regnal year of Rājarāja.</p>
 	
 	<p>
 		The initial stanza (a Sanskrit <foreign>anuṣṭubh</foreign>) is similar to those found on the seals of copper-plate grants of other Cōḻa kings.
