@@ -72,7 +72,8 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:reda" when="2023-10-04">Creation of the file on the repository</change>
+			<change who="part:reda" when="2023-10-04"
+				>Creation of the file on the repository</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -114,7 +115,7 @@
 	</p>
 	
 	<p>		
-		pālaṉ tiruvāñci<unclear>ya</unclear>ttaṭikaḷ-<unclear>āṉa</unclear> <hi rend="grantha">rājarāja</hi>ppiccaṉ-āṉa <choice><sic><hi rend="grantha">ca</hi></sic><corr><hi rend="grantha">sa</hi></corr></choice>tā<hi rend="grantha">śi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
+		pālaṉ tiruvāñci<unclear>ya</unclear>ttaṭikaḷ-<unclear>āṉa</unclear> <hi rend="grantha">rājarāja</hi>-p-piccaṉ-āṉa <choice><sic><hi rend="grantha">ca</hi></sic><corr><hi rend="grantha">sa</hi></corr></choice>tā<hi rend="grantha">śi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
 	</p>
 	
 	<p>	
@@ -347,12 +348,12 @@
 		</app>	
 		
 		<app loc="4">
-			<lem>nelluppeṟavum</lem>
-			<note>The <foreign>kompu</foreign> in <foreign>ne</foreign> is clear.</note>
+			<lem>nellup<unclear>pe</unclear>ṟavum</lem>
+			<note>The <foreign>kompu</foreign> in <foreign>pe</foreign> is clear.</note>
 		</app>	
 		
 		<app loc="5">
-			<lem>cempoṟcōti</lem>
+			<lem>cempoṟ<unclear>cōti-y-ā</unclear>ṉa</lem>
 			<note>The <foreign>kompu</foreign> in <foreign>cō</foreign> is clear.</note>
 		</app>	
 										
@@ -401,8 +402,12 @@
     	
 <div type="translation" source="bib:Hultzsch1895_01">
 	
-	<p n="1">
+	<p>
 		Hail! Prosperity! Until the twenty-ninth year <supplied reason="subaudible">of the reign</supplied> of Kō-Rājakesarivarman, <hi rend="italic">alias</hi> Śrī-Rājarājadeva, who, in his life of growing strength, during which, — ...
+	</p>
+	
+	<p>
+		...
 	</p>
 		
 	
