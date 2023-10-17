@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tirumālpuram, Ruined Viṣṇu Temple, time of Rājarāja I Cōḻa, year 10</title>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">DHARMA_INSSII2200333</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Endowment of 20 <foreign>kaḻañcu</foreign> of gold to <foreign>ūrār</foreign> of Vēḷkaḷa Veṇpākkam. Three <foreign>kaḻañcu</foreign>s of interest every year was to be used by trustees of temple for recitation of <foreign>tiruppatiyam</foreign> , beginning with the expression <quote><unclear>kōla</unclear>naṟkuḻal</quote> of a hymn now lost by (?) donor’s father Kāyavāṉ Arunilai.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:reda" when="2023-10-04"
+				>Creation of the file on the repository</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+    <body>
+       
+       
+<div type="edition" xml:lang="tam-Latn">
+          
+	<ab>
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+	</ab>
+	
+	<p>	  	
+		kā<hi rend="grantha">nta</hi>ḷūr cālai kalam aṟutta
+		<lb n="2"/>kō<hi rend="grantha">rājarāja</hi>ke<hi rend="grantha">sari</hi><hi rend="grantha">vanma</hi><supplied reason="omitted">ṟ</supplied>kku yāṇṭu <num value="10"><g type="numeral"> 10</g></num>ttāvatu	
+	</p>
+	
+	<p>	
+		tāma<gap reason="lost" quantity="7" unit="character"></gap><lb n="3"/>tu tāmar <choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu <hi rend="grantha">śrī go</hi>vi<hi rend="grantha">nta</hi>pāṭi puṟattu veḷkaḷa veṇpā<gap reason="lost" quantity="4" unit="character"></gap><lb n="4"/>roṅkai-y Eḻu<hi rend="grantha">ttu</hi> coḻaṉāṭṭu vaṭakarai-p piṭavūr-nāṭṭu-k kaṇakku<gap reason="lost" quantity="4" unit="character"></gap><lb n="5"></lb>ṭai yāṉ Arunilai <hi rend="grantha">śrī <unclear>tar</unclear>ṣaṇa</hi>ṉ-āṉa muve<hi rend="grantha">nta</hi>-p piṭavūr ve<lb n="6" break="no"/>ḷār kaiyāl yāṅkaḷkoṇṭu kaṭava cempoṉ ta<hi rend="grantha">nma</hi> ka<lb n="7" break="no"/>ṭṭaḷaiyāl tuḷai <num value="20"> 2 <g type="numeral">10</g></num> Ippoṉ koṇṭa paricāvatu Iv-āṭṭai<lb n="8"/>puraṭṭ’ Ātimutal kaḻañcinvā<supplied reason="omitted">y</supplied> tiṅkaḷ iraṇṭumā-p policaiyāl or-āṭ<lb n="9" break="no"/>ṭaikku venta pon <num value="30"> 3 <unclear><g type="numeral">10</g></unclear></num>
+	</p>
+	
+	<p>
+		I-p poṉṉil ivar tamappaṉār tāyāvā naruṉi<supplied reason="omitted">lai</supplied>-y-ā<lb n="10" break="no"/>ṉa muventappiṭavūr veḷār <hi rend="grantha">śrī go</hi>vi<hi rend="grantha">nta</hi>pāṭi āḻvāṉ viṇṇappam ce<lb n="11"/><!--there's something missing, how to put that it should be ceY?-->kolanaṟkuḻal Eṉum tiruppatiyam Ivāḷvār tiruviḻāviṉ Eḻāṉāḷāl<gap reason="lost" quantity="2" unit="character"></gap><lb n="12" break="no"/>ṭiyāṭiṉa pari<hi rend="grantha">dai</hi>nāyakaṉmārkku Irukaḻañcuṅ kēṭ-p picca kōyil nampimārkku<lb n="13"/>kaḻañcum āka policai mu-k-kaḻañcu po<supplied reason="omitted">ṉ</supplied>ṉum <hi rend="grantha">śastrāditta</hi>val āṭṭāṇṭu toḻumā<lb n="14" break="no"/>ḷvār <hi rend="grantha">śrī</hi> kāya<hi rend="grantha">m</hi>ñ ceykiṉṟa nampimārē taṇṭi iṭu-<unclear>v i</unclear>-p patāka<unclear>vum</unclear> iṭomākil<lb n="15"/>tiruvāṇai maṟaiyum paṭṭu tēvaka<hi rend="grantha">nima</hi>kaḷ tāṅkaḷ ve<gap reason="lost" quantity="4" unit="character"></gap>ttil tāṅkaḷ veṇ<unclear>ṭu</unclear><gap reason="lost" quantity="3" unit="character"></gap><lb n="16"/>taṇṭam iṭa-p peṟuvārkaḷ ākavum mivarkaḷ iṭṭa taṇṭam iṟuttum i-<choice><orig>ṉ ṉ</orig><reg>n n</reg></choice>ivantam ippaṭi<lb n="17"/>Iṭa-k kaṭavom ākavum I-pparicoṭṭi Iṭṭukk’ Uṭutto muventappiṭavūr veḷārkku<lb n="18"/>veḷka<supplied reason="omitted">ḷa</supplied> veṇpākka<hi rend="grantha">ttu</hi>rom 
+	</p>
+	
+	<p>
+		ūrār paṇikka i<hi rend="grantha">śilā</hi>lekai veṭṭiṉeṉ<lb n="19"/>āṟaiyāṉa <hi rend="grantha">śrī go</hi>vi<hi rend="grantha">nta</hi>pāṭi ācāriyaneṉ	
+	</p>
+	
+	<p>
+		ivai-y eṉ eḻuttu i<lb n="19" break="no"/>tu <hi rend="grantha">śrīvaiṣṇa</hi>var<hi rend="grantha"><unclear>ri</unclear>rakṣai</hi>	
+	</p>
+	
+	
+
+	
+</div>
+       	
+<div type="apparatus">
+    	   
+	<listApp>
+		
+		<!--<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:Hultzsch1895_01">...</rdg>
+		</app>	-->
+		
+		<app loc="1">
+			<lem>maṉakko<unclear>ḷa</unclear>k</lem>
+			<rdg source="bib:Hultzsch1895_01">maṉakko<unclear>ḷ</unclear>k</rdg>
+		</app>	
+		
+	
+	</listApp>    			
+    	
+</div>
+    	
+<div type="translation" source="bib:Hultzsch1895_01">
+	
+	<p>
+		Hail! Prosperity! Until the twenty-ninth year <supplied reason="subaudible">of the reign</supplied> of Kō-Rājakesarivarman, <hi rend="italic">alias</hi> Śrī-Rājarājadeva, who, in his life of growing strength, during which, — ...
+	</p>
+	
+	<p>
+		...
+	</p>
+		
+	
+</div>
+            
+<!--<div type="commentary">
+    		
+    		
+</div>-->
+    	
+<div type="bibliography">
+    		
+	<p>
+		First edited in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> with English translation; encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2023), based on <bibl><ptr target="bib:Hultzsch1891_01"/></bibl>.
+	</p>	
+	
+	<listBibl type="primary">
+		
+		<bibl n="EH">
+			<ptr target="bib:Hultzsch1895_01"/>
+			<citedRange unit="page">270-271</citedRange>
+			<citedRange unit="item">333</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+	<!--<listBibl type="secondary">
+				
+		
+	</listBibl>-->
+	
+</div>
+        </body>
+    </text>
+</TEI>
+
