@@ -86,9 +86,9 @@
 	<text xml:space="preserve">
       <body>
 
-         <div type="edition" xml:lang="tam"><!--Check milestones-->
+         <div type="edition" xml:lang="tam-Latn"><!--Check milestones-->
          	         	         	
-         	<p xml:lang="san">
+         	<p xml:lang="san-Latn">
          		<milestone unit="item" n="N"/>
          		<label xml:lang="eng">Northern plinth of the <foreign>vimāna</foreign></label>
          		<milestone type="pagelike" unit="zone" n="1"/>
@@ -96,7 +96,7 @@
          		<lb n="1.1=1"/><hi rend="grantha">svasti śrīḥ</hi>
          	</p>
          	
-         	<lg xml:lang="san" n="1" met="anuṣṭubh">
+         	<lg xml:lang="san-Latn" n="1" met="anuṣṭubh">
          		<l n="a" enjamb="yes" real="+++--++-">Etat viśva-nṛpa-śreṇi</l>
          		<l n="b" real="+-++-+-+">mauli-mālopalāḷitam<unclear>·</unclear></l> 
          		<l n="c" real="+-++-++-">śāsanaṃ rājarājasya</l>
@@ -263,12 +263,63 @@
          		<lb n="6.5=40" break="no"/>ṭutta uṭaiyār kōyilil muḻattiṉ kīḻ veḷḷiyiṉ <hi rend="grantha">śrī-pādapīṭham·</hi> Āṟu torai Ucaramum nāl vi
          		<lb n="6.6=41" break="no"/>ralē Āṟu torai-c cuṟṟum Uṭaiya poṉṉiṉ <hi rend="grantha">kṣetrapālade</hi>var <hi rend="grantha"><supplied reason="undefined">ā</supplied>dā-dikeśāntam·</hi> mū
          		<lb n="6.7=42" break="no"/>viralē mūṉṟu torai Ucaramum nālu <hi rend="grantha">śrī-hasta</hi>ttilum piṭi<choice><orig>cc</orig><reg>tt</reg></choice>’ aruḷina <hi rend="grantha">śūla</hi>mum <hi rend="grantha">kapāla</hi>mu
-         		<lb n="6.8=43" break="no"/>m <hi rend="grantha">pāśa</hi>mum <hi rend="grantha">ḍamaruka</hi>mum veḷḷiyiṉ <hi rend="grantha">śrī-pādapīṭha</hi>mum Uḷpaṭa niṟai Ēḻu-patt’ iru-kaḻañc’ arai <supplied reason="omitted">—</supplied>
+         		<lb n="6.8=43" break="no"/>m <hi rend="grantha">pāśa</hi>mum <hi rend="grantha">ḍamaruka</hi>mum veḷḷiyiṉ <hi rend="grantha">śrī-pādapīṭha</hi>mum Uḷpaṭa niṟai Ēḻu-patt’ iru-kaḻañc’ arai <supplied reason="omitted">—</supplied></p>
          		
-         		<milestone type="pagelike" unit="zone" n="7"/>
+         	<p><milestone type="pagelike" unit="zone" n="7"/>
          		<label xml:lang="eng">Section 7</label>  
+         		<lb n="7.1=44"/>Uṭaiyār śrī-rājarājadevar cēramāṉaiyum pāṇṭiyarkaḷaiyum malai-nāṭṭu Eṟintu koṇṭa paṇṭāraṅkaḷil yāṇṭu Iru-patt’ āṟ-āvatu nāḷ muṉ
+         		<lb n="7.2=44" break="no"/>ṉūṟṟu Orupatt’ oṉpatiṉāl śrī-rājarāja-Īśvaram uṭaiya paramasvāmikku-k kuṭutta (po)ṉṉiṉ [kompu is clear] ciṉṉaṅkaḷ Āṭavallāṉ Eṉṉum kallā
+         		<lb n="7.3=45" break="no"/>l niṟai-y eṭuttu kallil veṭṭiṉa paṭi <supplied reason="omitted">—</supplied></p>
+         	
+         	<p>
+         		kāḷāñci Oṉṟu poṉ aiñ-ñūṟṟu Eṇpattu Aṟu kaḻañcu —
+         	</p>
+         	
+         	<p>
+         		kāḷāñci Oṉṟu poṉ Aṟu nū
+         		<lb n="7.4=46" break="no"/>ṟṟu Irupattu Iru-kaḻañc’ arai —
+         	</p>
+         	
+         	<p>
+         		kuṭam Oṉṟu poṉ muṉṉūṟṟu Eṇpattu Iru-kaḻañc’ arai —
+         	</p>
+         	
+         	<p>         		
+         		kuṭam Oṉṟu poṉ muṉṉūṟṟu Aṟu pattu Ēḻu
+         		<lb n="7.5=47" break="no"/>-kaḻañcu —
+         	</p>
+         	
+         	<p>
+         		kuṭam Oṉṟu poṉ muṉṉūṟṟu Aim-pattu Iru-kaḻañcu —
+         	</p>
+         	
+         	<p>         		
+         		kuṭam Oṉṟu poṉ Iru-nūṟṟu-t toṇṇūṟṟu nāṟ-kaḻañcu —
+         	</p>
+         	
+         	<p>
+         		kaṟaṇṭikai-c
+         		<lb n="7.6=48" break="no"/>-ceppu Oṉṟu Aṭiyum mūḻalum Uṭpaṭa poṉ nūṟṟu Iru-pattu Oru kaḻañc’ arai —
+         	</p>
+         	
+         	<p>
+         		Ilaicceppu Oṉṟu yāḷikkāl nālum mūḻalum Uṭpaṭa po
+         		<lb n="7.7=49" break="no"/>ṉ nūṟṟu Eṇ-pattu Aiṅ-kaḻañcē mukkāl —
+         	</p>
+         	
+         	<p>
+         		Ilaicceppu Oṉṟu yāḷikkāl nālum <unclear>mū</unclear>ḻalum Uṭpaṭa poṉ nūṟṟu nāṟ-pattu Ēḻu kaḻañcu —
+         	</p>
+         	
+         	<p>
+         		<lb n="7.8=50"/>taḷikai Oṉṟu aṭi-y uṭpaṭa poṉ Āyirattu Oru nūṟṟu muppattu Aiṅ-kaḻañc’ arai —
+         	</p>
+         	
+         	<p>         		
+         		kala<unclear>cappā</unclear>ṉai Oṉṟu <unclear>mū</unclear>kkum Aṭiyum Uṭpaṭa poṉ nāṉūṟṟu Ē
+
          		
-         		<milestone type="pagelike" unit="zone" n="8"/>
+         		<milestone type="pagelike" unit="zone" n="8" break="no"/>
          		<label xml:lang="eng">Section 8</label>  
          		
          		<milestone type="pagelike" unit="zone" n="9"/>
@@ -332,15 +383,212 @@
 	
 	<p n="§3">On the three-hundred-and-twelfth day of the twenty-fifth year <supplied reason="subaudible">of his reign</supplied>, the lord Śrī-Rājarājadēva gave one gold <supplied reason="subaudible">image of</supplied> Koḷkaidevar,<note><hi rend="italic">I.e.</hi>, 'the god <supplied reason="subaudible">who is</supplied> to receive <supplied reason="subaudible">the offerings</supplied>.'</note> which is to be present <supplied reason="subaudible">at</supplied> the sacred offerings <supplied reason="explanation"><foreign>śrī-bali</foreign></supplied>,<note>A.ccording to Winslow, the secondary idol of a temple (<foreign>eḻuntaruḷum vikkirakam</foreign> or <foreign>utsava-vigraha</foreign>) is carried about in processions, while the chief idol (<foreign>mūla-vigraha</foreign>) remains stationary.</note> weighing eight hundred and twenty-nine <foreign>kaḻañcu</foreign><note>1 <foreign>kaḻañcu</foreign> consists of 20 <foreign>mañcāṭi</foreign> of 2 <foreign>kuṉṟi</foreign>, and 1 <foreign>kuṉṟi</foreign> weighs about 2 grains.</note> and three quarters and three <foreign>mañcāṭi</foreign> by the stone called <supplied reason="subaudible">after</supplied> Āṭavallāṉ.</p>
 	
-	<p n="§4">...</p>
+	<p n="§4">On the same day <supplied reason="subaudible">he</supplied> gave one dish <supplied reason="explanation"><foreign>tāla</foreign></supplied> of gold for the sacred offerings, sup-ported by a lotus <supplied reason="explanation"><foreign>padmāsana</foreign></supplied>, weighing nine hundred and ninety-five <foreign>kaḻañcu</foreign>s and a half and four <foreign>mañcāṭi</foreign>s by the same stone.</p>
 	
-	<p n="§18">...</p>
+<p n="§5">On the fourteenth day of the twenty-sixth year <supplied reason="subaudible">of his reign</supplied>, the lord Śrī-Rājarājadēva gave one sacred diadem <supplied reason="explanation"><foreign>tiruppaṭṭam</foreign></supplied> of gold, weighing four hundred and ninety-nine <foreign>kaḻañcu</foreign>s by the stone called <supplied reason="subaudible">after</supplied> Āṭavallāṉ.</p>
 	
-	<p n="§33">...</p>
+<p n="§6">On the same day <supplied reason="subaudible">he</supplied> gave one sacred diadem of gold, weighing four hundred and ninety-four <foreign>kaḻañcu</foreign>s and a half and two <foreign>mañcāṭi</foreign>s by the same stone.</p>
 	
-	<p n="§51">...</p>
+<p n="§7">On the same day <supplied reason="subaudible">he</supplied> gave one sacred diadem of gold, weighing four hundred and eighty-four <foreign>kaḻañcu</foreign>s and a quarter by the same stone.</p>
 	
-	<p n="§107"><supplied reason="subaudible">Finally, he</supplied> gave one sacred diadem <supplied reason="explanation"><foreign>tiruppaṭṭam</foreign></supplied>, <supplied reason="subaudible">consisting of</supplied> nine hundred and eighty-one <foreign>kaḻañcu</foreign>s and a quarter of gold, which was made of gold taken from the treasures, which he seized after having defeated the Cēra king and the Pāṇḍyas in Malaināṭu.</p>
+<p n="§8">On the same day <supplied reason="subaudible">he</supplied> gave one sacred diadem of gold, weighing four hundred and ninety-seven <foreign>kaḻañcu</foreign>s and a half by the same stone.</p>
+	
+<p n="§9">On the same day <supplied reason="subaudible">he</supplied> gave one sacred diadem of gold, weighing four hundred and ninety-one <foreign>kaḻañcu</foreign>s and a half by the same stone.</p>
+	
+<p n="§10">On the twenty-seventh day <supplied reason="subaudible">of his twenty-sixth year</supplied>, the lord Śrī-Rājarājadēva gave out of (his) minor treasure <supplied reason="explanation"><foreign>ciṟutanam</foreign></supplied> one gold plate <supplied reason="explanation"><foreign>taḷikai</foreign></supplied>, weighing six hundred and fifty-two <foreign>kaḻañcu</foreign>s and eight mañcāṭi by the stone called <supplied reason="subaudible">after</supplied> Āṭavallāṉ.</p>
+	
+<p n="§11">On the same day <supplied reason="subaudible">he</supplied> gave one gold plate, weighing four hundred and ninety-three <foreign>kaḻañcu</foreign>s and a quarter by the same stone.</p>
+	
+<p n="§12">On the same day <supplied reason="subaudible">he</supplied> gave one gold bowl <supplied reason="explanation"><foreign>maṇṭai</foreign></supplied>, weighing three hundred and ninety-seven <foreign>kaḻañcu</foreign>s and six <foreign>mañcāṭi</foreign>s by the same stone.</p>
+	
+<p n="§13">On the same day <supplied reason="subaudible">he</supplied> gave one gold bowl, weighing three hundred and ninety-three <foreign>kaḻañcu</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>mañcāṭi</foreign> by the same stone.</p>
+	
+<p n="§14">On the same day <supplied reason="subaudible">he</supplied> gave one gold bowl, weighing three hundred and ninety-eight <foreign>kaḻañcu</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>kuṉṟi</foreign> by the same stone.</p>
+	
+<p n="§15">On the same day <supplied reason="subaudible">he</supplied> gave one gold bowl, weighing three hundred and ninety-six <foreign>kaḻañcu</foreign>s by the same stone.</p>
+	
+<p n="§16">On the same day <supplied reason="subaudible">he</supplied> gave one gold pitcher <supplied reason="explanation"><foreign>keṇṭi</foreign></supplied>, weighing two hundred and eighty-four <foreign>kaḻañcu</foreign>s and a half by the same stone.</p>
+	
+<p n="§17">On the thirty-fourth day (of his twenty-sixth year), the lord Śrī-Rājarājadēva gave out of (his) minor treasure (śiṟudanam) one gold salver (taṭṭam), weighing forty <foreign>kaḻañcu</foreign>s and a quarter by the stone called (after) Āṭavallāṉ.
+</p>
+
+<p n="§18">On the two-hundred-and-seventy-fifth day of the twenty-fifth year (of his reign), the lord Śrī-Rājarājadēva gave one copper water-pot (kuṭa), to be placed on the copper pinnacle (stūpittaṟi)12 of the sacred shrine (śrī-vimāna) of the lord of the Śrī-Rāja-rājēśvara (temple), weighing three thousand and eighty-three pala.13 The various gold plates (tagaḍu), which were laid over it, weighed two thousand nine hundred and twenty-six <foreign>kaḻañcu</foreign>s and a half by the stone called (after) Āṭavallāṉ.</p>
+	
+<p n="§19">On the one-hundred-and-fourth day of the twenty-sixth year (of his reign), the lord Śrī-Rājarājadēva gave to the lord of the Śrī-Rājarājēśvara (temple) one gold kettle (kiḍāram), weighing eleven thousand seven hundred and forty-two <foreign>kaḻañcu</foreign>s by the stone called (after) Āṭavallāṉ.</p>
+	
+<p n="§20">On the same day <supplied reason="subaudible">he</supplied> gave one gold ōṭṭu-vaṭṭil,14 weighing four hundred and eighty-eight <foreign>kaḻañcu</foreign>s by the same stone.</p>
+	
+<p n="§21">On the same day <supplied reason="subaudible">he</supplied> gave one gold pot (kalaśa), weighing five hundred and seven <foreign>kaḻañcu</foreign>s by the same stone.</p>
+	
+<p n="§22">On the same day <supplied reason="subaudible">he</supplied> gave one gold pot, weighing four hundred and eighty-three <foreign>kaḻañcu</foreign>s by the same stone.</p>
+	
+<p n="§23">On the same day <supplied reason="subaudible">he</supplied> gave one gold pot, weighing four hundred and ninety-two <foreign>kaḻañcu</foreign>s by the same stone.</p>
+	
+<p n="§24">On the same day <supplied reason="subaudible">he</supplied> gave one gold pot, weighing four hundred and ninety-two <foreign>kaḻañcu</foreign>s and a quarter by the same stone.</p>	
+<p n="§25">On the same day <supplied reason="subaudible">he</supplied> gave one gold pot, weighing five hundred and twelve <foreign>kaḻañcu</foreign>s and a half by the same stone.</p>
+	
+<p n="§26">On the same day <supplied reason="subaudible">he</supplied> gave one gold spittoon (paḍikkam), weighing eight hundred and two <foreign>kaḻañcu</foreign>s and a half by the same stone,——including the three legs and the two rings (vaḷaiyil).</p>
+	
+<p n="§27">On the same day <supplied reason="subaudible">he</supplied> gave one gold salver (taṭṭam), weighing forty-nine <foreign>kaḻañcu</foreign>s and three quarters by the same stone.</p>
+	
+<p n="§28">On the same day <supplied reason="subaudible">he</supplied> gave one gold salver, weighing forty-nine <foreign>kaḻañcu</foreign>s and three quarters by the same stone.</p>
+	
+<p n="§29">On the same day <supplied reason="subaudible">he</supplied> gave one gold salver, weighing fifty <foreign>kaḻañcu</foreign>s by the same stone.</p>
+	
+<p n="§30">On the same day <supplied reason="subaudible">he</supplied> gave one gold salver, weighing forty-nine <foreign>kaḻañcu</foreign>s and three quarters, two <foreign>mañcāṭi</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>kuṉṟi</foreign> by the same stone.</p>
+	
+<p n="§31">On the same day <supplied reason="subaudible">he</supplied> gave one small receptacle for sacred ashes (kuṟu-maḍal) of gold, weighing ninety-seven <foreign>kaḻañcu</foreign>s by the same stone.</p>
+	
+<p n="§32">On the same day <supplied reason="subaudible">he</supplied> gave one gold measuring-cup (māna-vaṭṭil), weighing twenty <foreign>kaḻañcu</foreign>s by the same stone.</p>
+
+<p n="§33">On the three-hundred-and eighteenth day of the twenty-sixth year (of his reign), <supplied reason="subaudible">he</supplied> gave a gold (image of) Kshētrapāladēva, (which measured) by the cubit-measure (muṛam), (preserved) in the temple (kōyil) of the lord, three fingers (viral) and three tōrai15 in height from the feet to the hair, which had a sacred foot-stool (śrīpādapīṭha) of silver, (measuring) six tōrai in height and four fingers and six tōrai in circumference, and which weighed seventy-two <foreign>kaḻañcu</foreign>s and a half,——including the spear (śūla), the skull (kapāla), the noose (pāśa) and the drum (ḍamaruka), which (the image) held in its four divine hands, and the sacred foot-stool of silver.</p>
+	
+<p n="§34">Out of the treasures (bhaṇḍāra), which he seized after having defeated the Chēra king (Śēramān) and the Pāṇḍyas in Malaināḍu, the lord Śrī-Rājarājadēva gave on the three-hundred-and-nineteenth day of the twenty-sixth year (of his reign) to the supreme lord (paramasvāmin) of the Śrī-Rājarāja-Īśvara (temple) the following gold emblems (chihna), which were weighed by the stone called (after) Āṭavallāṉ and engraved on stone:——</p>
+	
+<p n="§35">One betel-pot (kāḷāñji), <supplied reason="subaudible">consisting of</supplied> five hundred and eighty-six <foreign>kaḻañcu</foreign>s of gold.</p>
+	
+<p n="§36">One betel-pot, <supplied reason="subaudible">consisting of</supplied> six hundred and twenty-two <foreign>kaḻañcu</foreign>s and a half of gold.</p>
+	
+<p n="§37">One water-pot (kuṭa), <supplied reason="subaudible">consisting of</supplied> three hundred and eighty-two <foreign>kaḻañcu</foreign>s and a half of gold.</p>
+	
+<p n="§38">One water-pot, <supplied reason="subaudible">consisting of</supplied> three hundred and sixty-seven <foreign>kaḻañcu</foreign>s of gold.</p>
+	
+<p n="§39">One water-pot, <supplied reason="subaudible">consisting of</supplied> three hundred and fifty-two <foreign>kaḻañcu</foreign>s of gold.</p>
+	
+<p n="§40">One water-pot, <supplied reason="subaudible">consisting of</supplied> two hundred and ninety-four <foreign>kaḻañcu</foreign>s of gold.</p>
+	
+<p n="§41">One chunnam box (kaṟaṇḍigaichcheppu), <supplied reason="subaudible">consisting of</supplied> one hundred and twenty-one <foreign>kaḻañcu</foreign>s and a half of gold,——including the stand (aḍi) and the lid.<note>16</note></p>
+	
+<p n="§42">One betel-leaf box (ilaichcheppu), <supplied reason="subaudible">consisting of</supplied> one hundred and eighty-five <foreign>kaḻañcu</foreign>s and three quarters of gold,——including four lion's feet (yāḷikkāl) and the lid.</p>
+	
+<p n="§43">One betel-leaf box, <supplied reason="subaudible">consisting of</supplied> one hundred and forty-seven <foreign>kaḻañcu</foreign>s of gold,—— including four lion's feet and the lid.</p>
+	
+<p n="§44">One plate (taḷigai), <supplied reason="subaudible">consisting of</supplied> one thousand one hundred and thirty-five <foreign>kaḻañcu</foreign>s and a half of gold,——including the stand.</p>
+	
+<p n="§45">One censer (kalaśappāṉai), <supplied reason="subaudible">consisting of</supplied> four hundred and seventy <foreign>kaḻañcu</foreign>s of gold, ——including the spout (mūkku) and the stand.</p>
+	
+<p n="§46">One censer, <supplied reason="subaudible">consisting of</supplied> four hundred and thirty-eight <foreign>kaḻañcu</foreign>s of gold,——includ-ing the spout and the stand.</p>
+	
+<p n="§47">Eight gold chains (koḍi), consisting of seventy-eight <foreign>kaḻañcu</foreign>s and three quarters of gold,——including sixteen flowers, (two of) which were attached to the hanging part (tūkkam) (and) to the top part (talai) (respectively, of each chain).</p>
+	
+<p n="§48">One tāraittāḷ-vaṭṭil, <supplied reason="subaudible">consisting of</supplied> four hundred and forty-eight <foreign>kaḻañcu</foreign>s of gold,—— including two bass-reliefs (karukku) and two lion's feet (siṁhapāda).</p>
+	
+<p n="§49">One sacred crown (tiru-muḍi), <supplied reason="subaudible">consisting of</supplied> two hundred and seventy-three <foreign>kaḻañcu</foreign>s of gold.</p>
+
+<p n="§33">50. One handle (kai) for a fly-whisk (īchchōppi), <supplied reason="subaudible">consisting of</supplied> two hundred and four <foreign>kaḻañcu</foreign>s of gold.</p>
+	
+<p n="§51">From the twenty-third year to the twenty-ninth year (of his reign), the lord Srī-Rājarājadēva gave to the supreme lord of the Śrī-Rājarājēśvara (temple) out of his own treasures and out of the treasures, which he seized after having defeated the Chēra king and the Pāṇḍyas in Malaināḍu, the following emblems (chihna) of gold, sacred ornaments (ābharaṇa) of gold, etc., which were weighed by the stone called (after) Āṭavallāṉ and engraved on stone,——excluding those (gifts of) the twenty-fifth year and the twenty-sixth year, which had been engraved on the adjacent stones before this (part of the inscription) on the east of this upper tier (jagatippaḍai):——17</p>
+
+<p n="§52">Out of the treasures, which he seized after having defeated the Chēra king and the Pāṇḍyas in Malaināḍu, <supplied reason="subaudible">he</supplied> gave:——</p>
+	
+<p n="§53">One handle for a fly-whisk, <supplied reason="subaudible">consisting of</supplied> thirty-four <foreign>kaḻañcu</foreign>s of gold.</p>
+	
+<p n="§54">One handle for a fly-whisk, <supplied reason="subaudible">consisting of</supplied> thirty-three <foreign>kaḻañcu</foreign>s of gold.</p>
+	
+<p n="§55">Having obtained the illustrious names of Śivapādaśēkhara18 and Śrī-Rāja-rāja,19 (he gave the following) gold trumpets (kāḷam), which had one kaṅgil (?), two pipes (kuṛal) and five rings (mōdiram):——</p>
+	
+<p n="§56">One trumpet, <supplied reason="subaudible">consisting of</supplied> two hundred and ninety-four <foreign>kaḻañcu</foreign>s and a half of gold.</p>
+	
+<p n="§57"> One trumpet, <supplied reason="subaudible">consisting of</supplied> two hundred and ninety-five <foreign>kaḻañcu</foreign>s and a quarter of gold.</p>
+	
+<p n="§58">One trumpet, <supplied reason="subaudible">consisting of</supplied> two hundred and ninety-six <foreign>kaḻañcu</foreign>s and three quarters and two <foreign>mañcāṭi</foreign>s of gold.</p>
+	
+<p n="§59">Two trumpets, consisting of five hundred and ninety-three <foreign>kaḻañcu</foreign>s of gold,——each <supplied reason="subaudible">consisting of</supplied> two hundred and ninety-six <foreign>kaḻañcu</foreign>s and a half of gold.</p>
+	
+<p n="§60">One trumpet, <supplied reason="subaudible">consisting of</supplied> two hundred and ninety-four <foreign>kaḻañcu</foreign>s nine <foreign>mañcāṭi</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>kuṉṟi</foreign> of gold.</p>
+	
+<p n="§61">One trumpet, <supplied reason="subaudible">consisting of</supplied> two hundred and ninety <foreign>kaḻañcu</foreign>s and three quarters of gold.</p>
+	
+<p n="§62">One trumpet, <supplied reason="subaudible">consisting of</supplied> two hundred and eighty-six <foreign>kaḻañcu</foreign>s three <foreign>mañcāṭi</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>kuṉṟi</foreign> of gold.</p>
+	
+<p n="§63">One trumpet, <supplied reason="subaudible">consisting of</supplied> two hundred and ninety-eight <foreign>kaḻañcu</foreign>s and a half and two <foreign>mañcāṭi</foreign>s of gold.</p>
+	
+<p n="§64">One trumpet, <supplied reason="subaudible">consisting of</supplied> two hundred and eighty-seven <foreign>kaḻañcu</foreign>s and three quar-ters, four <foreign>mañcāṭi</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>kuṉṟi</foreign> of gold.</p>
+	
+<p n="§65">Out of (his own) treasures <supplied reason="subaudible">he</supplied> gave:——</p>
+	
+<p n="§66">One trumpet, <supplied reason="subaudible">consisting of</supplied> one hundred and sixty-eight <foreign>kaḻañcu</foreign>s and a quarter of gold.</p>
+	
+<p n="§67">One trumpet, <supplied reason="subaudible">consisting of</supplied> one hundred and sixty-eight <foreign>kaḻañcu</foreign>s of gold.</p>
+	
+<p n="§68">A single (trumpet), <supplied reason="subaudible">consisting of</supplied> one hundred and forty-nine <foreign>kaḻañcu</foreign>s and a half and three <foreign>mañcāṭi</foreign>s of gold,——including one kaṅgil and one pipe (kuṛal).</p>
+	
+<p n="§69">(The following) tops (makuṭa) for temple-parasols (tiruppaḷḷittoṅgal), including a knob (moṭṭu) and a plate (paṟaḷai) soldered together:——</p>
+	
+<p n="§70">Three tops for temple-parasols, consisting of one hundred and forty-eight <foreign>kaḻañcu</foreign>s and three quarters, two <foreign>mañcāṭi</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>kuṉṟi</foreign> of gold,——each <supplied reason="subaudible">consisting of</supplied> forty-nine <foreign>kaḻañcu</foreign>s and a half, two <foreign>mañcāṭi</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>kuṉṟi</foreign> of gold.</p>
+	
+<p n="§71">Five tops for temple-parasols, consisting of two hundred and forty-eight <foreign>kaḻañcu</foreign>s and three quarters of gold,——each <supplied reason="subaudible">consisting of</supplied> forty-nine <foreign>kaḻañcu</foreign>s and three quarters of gold.</p>
+	
+<p n="§72">Two tops for temple-parasols, consisting of one hundred <foreign>kaḻañcu</foreign>s of gold,——each <supplied reason="subaudible">consisting of</supplied> fifty <foreign>kaḻañcu</foreign>s of gold.</p>
+	
+<p n="§73">Two tops for temple-parasols, consisting of ninety-eight <foreign>kaḻañcu</foreign>s of gold,——each <supplied reason="subaudible">consisting of</supplied> forty-nine <foreign>kaḻañcu</foreign>s of gold.</p>	
+	
+<p n="§74">One top for a temple-parasol, <supplied reason="subaudible">consisting of</supplied> fifty-one <foreign>kaḻañcu</foreign>s of gold.</p>
+	
+<p n="§75">Two tops for temple-parasols, consisting of ninety-eight <foreign>kaḻañcu</foreign>s and three quarters of gold,——each <supplied reason="subaudible">consisting of</supplied> forty-nine <foreign>kaḻañcu</foreign>s, seven <foreign>mañcāṭi</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>kuṉṟi</foreign> of gold.</p>
+	
+<p n="§76">One top for a temple-parasol, <supplied reason="subaudible">consisting of</supplied> fifty <foreign>kaḻañcu</foreign>s, two <foreign>mañcāṭi</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>kuṉṟi</foreign> of gold.</p>
+	
+<p n="§77">One top for a temple-parasol, <supplied reason="subaudible">consisting of</supplied> forty-eight <foreign>kaḻañcu</foreign>s and three quarters of gold.</p>
+	
+<p n="§78">One top for a temple-parasol, <supplied reason="subaudible">consisting of</supplied> fifty <foreign>kaḻañcu</foreign>s and three quarters, two <foreign>mañcāṭi</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>kuṉṟi</foreign> of gold.</p>
+	
+<p n="§79">Two tops for temple-parasols, consisting of one hundred and one <foreign>kaḻañcu</foreign>s and a half of gold,——each <supplied reason="subaudible">consisting of</supplied> fifty <foreign>kaḻañcu</foreign>s and three quarters of gold.</p>
+	
+<p n="§80">One top for a temple-parasol, <supplied reason="subaudible">consisting of</supplied> forty-nine <foreign>kaḻañcu</foreign>s and a half of gold.</p>
+	
+<p n="§81">One top for a temple-parasol, <supplied reason="subaudible">consisting of</supplied> forty-nine <foreign>kaḻañcu</foreign>s and six <foreign>mañcāṭi</foreign>s of gold.</p>
+	
+<p n="§82">One top for a temple-parasol, <supplied reason="subaudible">consisting of</supplied> forty-nine <foreign>kaḻañcu</foreign>s and a quarter of gold.</p>
+	
+<p n="§83">One top for a temple-parasol, <supplied reason="subaudible">consisting of</supplied> forty-eight <foreign>kaḻañcu</foreign>s and a half of gold.</p>
+	
+<p n="§84">One top for a temple-parasol, <supplied reason="subaudible">consisting of</supplied> forty-nine <foreign>kaḻañcu</foreign>s, two <foreign>mañcāṭi</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>kuṉṟi</foreign> of gold.</p>
+	
+<p n="§85">One top for a temple-parasol, <supplied reason="subaudible">consisting of</supplied> forty-eight <foreign>kaḻañcu</foreign>s and three quarters, two <foreign>mañcāṭi</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>kuṉṟi</foreign> of gold.</p>
+	
+<p n="§86">One top for a temple-parasol, <supplied reason="subaudible">consisting of</supplied> fifty <foreign>kaḻañcu</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>mañcāṭi</foreign> of gold.</p>
+	
+<p n="§87">Three tops for temple-parasols, consisting of one hundred and forty-nine <foreign>kaḻañcu</foreign>s and a half, two <foreign>mañcāṭi</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>kuṉṟi</foreign> of gold,——each <supplied reason="subaudible">consisting of</supplied> forty-nine <foreign>kaḻañcu</foreign>s and three quarters, two <foreign>mañcāṭi</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>kuṉṟi</foreign> of gold.</p>
+	
+<p n="§88">Five tops for white parasols (dhavalachchhattra), consisting of fifty <foreign>kaḻañcu</foreign>s of gold, ——including a plate (paṟaḷai) soldered together with the knob (moṭṭu).</p>
+	
+<p n="§89">One top for a coloured sacred parasol of victory (vaṇṇigai-tiru-koṟṟa-kuḍai), (consist-ing of) fifteen <foreign>kaḻañcu</foreign>s and a half, two <foreign>mañcāṭi</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>kuṉṟi</foreign> of gold,——including a plate soldered together with the knob.</p>
+	
+<p n="§90">One betel-leaf salver (ilaittaṭṭu), <supplied reason="subaudible">consisting of</supplied> nine hundred and ninety-five <foreign>kaḻañcu</foreign>s of gold.</p>
+	
+<p n="§91">One betel-leaf salver, <supplied reason="subaudible">consisting of</supplied> nine hundred and eighty-eight <foreign>kaḻañcu</foreign>s of gold.</p>
+	
+<p n="§92">Having returned from the conquest of Satyāśraya, <supplied reason="subaudible">he</supplied> poured out as flowers at the sacred feet (śrīpādapushpa) and worshipped the feet of the god (with the following gold flowers):——</p>
+	
+<p n="§93">Two sacred gold flowers (tiruppoṟpū), consisting of twenty <foreign>kaḻañcu</foreign>s of gold,——each <supplied reason="subaudible">consisting of</supplied> ten <foreign>kaḻañcu</foreign>s of gold.</p>
+	
+<p n="§94">Twelve sacred gold flowers, consisting of one hundred and nineteen <foreign>kaḻañcu</foreign>s and a half and four <foreign>mañcāṭi</foreign>s of gold,——each <supplied reason="subaudible">consisting of</supplied> nine <foreign>kaḻañcu</foreign>s and three quarters, four <foreign>mañcāṭi</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>kuṉṟi</foreign> of gold.</p>
+	
+<p n="§95">Ten sacred gold flowers, consisting of ninety-nine <foreign>kaḻañcu</foreign>s and a half of gold,—— each sacred gold flower <supplied reason="subaudible">consisting of</supplied> nine <foreign>kaḻañcu</foreign>s and three quarters and four <foreign>mañcāṭi</foreign>s of gold.</p>
+	
+<p n="§96">One sacred gold flower, <supplied reason="subaudible">consisting of</supplied> nine <foreign>kaḻañcu</foreign>s and three quarters, three <foreign>mañcāṭi</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>kuṉṟi</foreign> of gold.</p>
+	
+<p n="§97">One sacred gold flower, <supplied reason="subaudible">consisting of</supplied> <supplied reason="subaudible">one</supplied> <foreign>kaḻañcu</foreign>s and three quarters and <supplied reason="subaudible">one</supplied> <foreign>mañcāṭi</foreign> of gold.</p>
+	
+<p n="§98">One sacred gold flower, shaped like a lotus (tāmarai), <supplied reason="subaudible">consisting of</supplied> thirteen <foreign>kaḻañcu</foreign>s and six <foreign>mañcāṭi</foreign>s of gold.</p>
+	
+<p n="§99">To Dakshiṇa-Mēru-Viṭaṅkar <supplied reason="subaudible">he</supplied> gave (the following ornaments), to be worn (by this god):——</p>
+	
+<p n="§100">One string of round beads (tiraḷ-maṇi-vaḍam), <supplied reason="subaudible">consisting of</supplied> five (strings) soldered together, (and containing) forty-nine <foreign>kaḻañcu</foreign>s seven <foreign>mañcāṭi</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>kuṉṟi</foreign> of gold.</p>
+	
+<p n="§101">One polished20 ring for the arm of the god (tirukkaikkāṟai), <supplied reason="subaudible">consisting of</supplied> fifty-one <foreign>kaḻañcu</foreign>s and a half of gold.</p>
+<p n="§102">One polished ring for the arm of the god, <supplied reason="subaudible">consisting of</supplied> forty-five <foreign>kaḻañcu</foreign>s and a half and two <foreign>mañcāṭi</foreign>s of gold.</p>
+	
+<p n="§103">One polished ring for the arm of the god, <supplied reason="subaudible">consisting of</supplied> forty-nine <foreign>kaḻañcu</foreign>s and three quarters, two <foreign>mañcāṭi</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>kuṉṟi</foreign> of gold.</p>
+	
+<p n="§104">One polished ring for the arm of the god, <supplied reason="subaudible">consisting of</supplied> forty-five <foreign>kaḻañcu</foreign>s and three quarters of gold.</p>
+	
+<p n="§105">One pair of polished rings for the feet of the god (tiruvaḍikkāṟai), <supplied reason="subaudible">consisting of</supplied> ninety-six <foreign>kaḻañcu</foreign>s and a half of gold.</p>
+	
+<p n="§106">One sacred girdle (tiruppaṭṭigai), <supplied reason="subaudible">consisting of</supplied> one hundred and forty-nine <foreign>kaḻañcu</foreign>s and a quarter of gold.</p>	
+
+<p n="§107"><supplied reason="subaudible">Finally, he</supplied> gave one sacred diadem <supplied reason="explanation"><foreign>tiruppaṭṭam</foreign></supplied>, <supplied reason="subaudible">consisting of</supplied> nine hundred and eighty-one <foreign>kaḻañcu</foreign>s and a quarter of gold, which was made of gold taken from the treasures, which he seized after having defeated the Cēra king and the Pāṇḍyas in Malaināṭu.</p>
 	
 </div>
 
