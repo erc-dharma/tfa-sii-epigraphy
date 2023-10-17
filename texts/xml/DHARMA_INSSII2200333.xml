@@ -40,7 +40,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Endowment of 20 <foreign>kaḻañcu</foreign> of gold to <foreign>ūrār</foreign> of Vēḷkaḷa Veṇpākkam. Three <foreign>kaḻañcu</foreign>s of interest every year were to be used by trustees of temple for recitation of <foreign>tiruppatiyam</foreign> , beginning with the expression <quote><unclear>kōla</unclear>naṟkuḻal</quote> of a hymn now lost by (?) donor’s father Kāyavāṉ Arunilai.</summary>
+						<summary>Endowment of 20 <foreign>kaḻañcu</foreign>s of gold to <foreign>ūrār</foreign> of Vēḷkaḷa Veṇpākkam. Three <foreign>kaḻañcu</foreign>s of interest every year were to be used by trustees of temple for recitation of <foreign>tiruppatiyam</foreign>, beginning with the expression <foreign>kōlanaṟkuḻal</foreign> of a hymn now lost by (?) donor’s father Kāyavāṉ Arunilai.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -88,26 +88,33 @@
 	
 	<p>	  	
 		kā<hi rend="grantha">nta</hi>ḷūr cālai kalam aṟutta
-		<lb n="2"/>kō<hi rend="grantha">rājarāja</hi>ke<hi rend="grantha">sari</hi><hi rend="grantha">vanma</hi><supplied reason="omitted">ṟ</supplied>kku yāṇṭu <num value="10"><g type="numeral"> 10</g></num>ttāvatu	
+		<lb n="2"/><hi rend="grantha">korājarājakesarivanma</hi><supplied reason="omitted">ṟ</supplied>kku yāṇṭu <num value="10"><g type="numeral">10</g></num>-<!--this is apparently an hyphen which is on the stone; check original, if possible; update encoding if necessary-->tt-āvatu	
 	</p>
 	
 	<p>	
-		tāma<gap reason="lost" quantity="7" unit="character"></gap><lb n="3"/>tu tāmar <choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu <hi rend="grantha">śrī go</hi>vi<hi rend="grantha">nta</hi>pāṭi puṟattu veḷkaḷa veṇpā<gap reason="lost" quantity="4" unit="character"></gap><lb n="4"/>roṅkai-y Eḻu<hi rend="grantha">ttu</hi> coḻaṉāṭṭu vaṭakarai-p piṭavūr-nāṭṭu-k kaṇakku<gap reason="lost" quantity="4" unit="character"></gap><lb n="5"></lb>ṭai yāṉ Arunilai <hi rend="grantha">śrī <unclear>tar</unclear>ṣaṇa</hi>ṉ-āṉa muve<hi rend="grantha">nta</hi>-p piṭavūr ve<lb n="6" break="no"/>ḷār kaiyāl yāṅkaḷkoṇṭu kaṭava cempoṉ ta<hi rend="grantha">nma</hi> ka<lb n="7" break="no"/>ṭṭaḷaiyāl tuḷai <num value="20"> 2 <g type="numeral">10</g></num> Ippoṉ koṇṭa paricāvatu Iv-āṭṭai<lb n="8"/>puraṭṭ’ Ātimutal kaḻañcinvā<supplied reason="omitted">y</supplied> tiṅkaḷ iraṇṭumā-p policaiyāl or-āṭ<lb n="9" break="no"/>ṭaikku venta pon <num value="30"> 3 <unclear><g type="numeral">10</g></unclear></num>
+		tāma<gap reason="lost" quantity="7" unit="character"/><lb n="3" break="no"/>tu tāmar-<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu <hi rend="grantha">śrī-go</hi>vi<hi rend="grantha">nta</hi>pāṭi puṟattu veḷkaḷa veṇpā<gap reason="lost" quantity="4" unit="character"/><lb n="4"/>roṅkai-y Eḻu<hi rend="grantha">ttu</hi> cōḻa-<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu vaṭa-karai-p-piṭavūr-nāṭṭu-k kaṇakku<gap reason="lost" quantity="4" unit="character"/><lb n="5" break="no"/>ṭai yāṉ Arunilai <hi rend="grantha">śrī-<unclear>tar</unclear>ṣaṇa</hi>ṉ-āṉa muvē<hi rend="grantha">nta</hi>-p piṭavūr ve<lb n="6" break="no"/>ḷār kaiyāl yāṅkaḷ koṇṭu kaṭava cempoṉ ta<hi rend="grantha">nma</hi>-ka<lb n="7" break="no"/>ṭṭaḷaiyāl tuḷai <num value="20"> 2 <g type="numeral">10</g></num> Ip-poṉ koṇṭa paric' āvatu
+	</p>
+	<p>		
+		Iv-āṭṭai<lb n="8"/>puraṭṭāti mutal kaḻañci<choice><orig>n</orig><reg>ṉ</reg></choice> vā<supplied reason="omitted">y</supplied> tiṅkaḷ iraṇṭum-ā-p policaiyāl ōr āṭ<lb n="9" break="no"/>ṭaikku van=ta po<choice><orig>n</orig><reg>ṉ</reg></choice> <num value="30"> 3 <g type="numeral">10</g></num><!--the 10 is not clear in SII, could be l; could be a typo-->
 	</p>
 	
 	<p>
-		I-p poṉṉil ivar tamappaṉār tāyāvā naruṉi<supplied reason="omitted">lai</supplied>-y-ā<lb n="10" break="no"/>ṉa muventappiṭavūr veḷār <hi rend="grantha">śrī go</hi>vi<hi rend="grantha">nta</hi>pāṭi āḻvāṉ viṇṇappam ce<lb n="11"/><!--there's something missing, how to put that it should be ceY?-->kolanaṟkuḻal Eṉum tiruppatiyam Ivāḷvār tiruviḻāviṉ Eḻāṉāḷāl<gap reason="lost" quantity="2" unit="character"></gap><lb n="12" break="no"/>ṭiyāṭiṉa pari<hi rend="grantha">dai</hi>nāyakaṉmārkku Irukaḻañcuṅ kēṭ-p picca kōyil nampimārkku<lb n="13"/>kaḻañcum āka policai mu-k-kaḻañcu po<supplied reason="omitted">ṉ</supplied>ṉum <hi rend="grantha">śastrāditta</hi>val āṭṭāṇṭu toḻumā<lb n="14" break="no"/>ḷvār <hi rend="grantha">śrī</hi> kāya<hi rend="grantha">m</hi>ñ ceykiṉṟa nampimārē taṇṭi iṭu-<unclear>v i</unclear>-p patāka<unclear>vum</unclear> iṭomākil<lb n="15"/>tiruvāṇai maṟaiyum paṭṭu tēvaka<hi rend="grantha">nima</hi>kaḷ tāṅkaḷ ve<gap reason="lost" quantity="4" unit="character"></gap>ttil tāṅkaḷ veṇ<unclear>ṭu</unclear><gap reason="lost" quantity="3" unit="character"></gap><lb n="16"/>taṇṭam iṭa-p peṟuvārkaḷ ākavum mivarkaḷ iṭṭa taṇṭam iṟuttum i-<choice><orig>ṉ ṉ</orig><reg>n n</reg></choice>ivantam ippaṭi<lb n="17"/>Iṭa-k kaṭavom ākavum I-pparicoṭṭi Iṭṭukk’ Uṭutto muventappiṭavūr veḷārkku<lb n="18"/>veḷka<supplied reason="omitted">ḷa</supplied> veṇpākka<hi rend="grantha">ttu</hi>rom 
+		Ip-poṉṉil ivar tamappaṉār tāyāvānaruṉi<supplied reason="omitted">lai</supplied>-y-ā<lb n="10" break="no"/>ṉa muvēnta-p-piṭavūr veḷār <hi rend="grantha">śrī-go</hi>vin=tapāṭi Āḻvāṉ viṇṇappam ce<lb n="11"/><!--there's something missing, how to put that it should be ceY? we will add something in the apparatus fro the moment-->kōlanaṟkuḻal Eṉum tiruppatiyam Iv-āḷvār tiruviḻāviṉ Eḻā <choice><orig>ṉ</orig><reg>n</reg></choice>āḷāl<gap reason="lost" quantity="2" unit="character"/><lb n="12" break="no"/>ṭi-y āṭiṉa pari<hi rend="grantha">dai</hi>-nāyakaṉmārkku Iru-kaḻañcuṅ kēṭppi<choice><orig>cc</orig><reg>tt</reg></choice>a kōyil nampimārkku<lb n="13"/>kaḻañcum āka policai mu-k-kaḻañcu po<supplied reason="omitted">ṉ</supplied>ṉum <hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>antrāditta</hi>val āṭṭāṇṭu toḻum ā<lb n="14" break="no"/>ḷvār <hi rend="grantha">śrī-kārya</hi>ñ ceykiṉṟa nampimārē taṇṭi Iṭu<unclear>vi</unclear>ppat' āka<unclear>vum</unclear> Iṭōm ākil<lb n="15"/>tiruvāṇai maṟaiyum paṭṭu tēvaka<hi rend="grantha">nmi</hi>kaḷ tāṅkaḷ ve<gap reason="lost" quantity="4" unit="character"/>ttil tāṅkaḷ vēṇ<unclear>ṭu</unclear><gap reason="lost" quantity="3" unit="character"/><lb n="16"/>taṇṭam iṭa-p peṟuvārkaḷ ākavum
+	</p>
+	<p>
+		<surplus>m</surplus>ivarkaḷ iṭṭa taṇṭam iṟuttum i<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ivantam ippaṭi<lb n="17"/>Iṭa-k kaṭavōm ākavum
+	</p>
+	<p>
+		Ip-paric' oṭṭi Iṭṭukk’ Uṭuttō muvēnta-p-piṭavūr veḷārkku<lb n="18"/>veḷka<supplied reason="omitted">ḷa</supplied> veṇpākkat=tūrōm 
 	</p>
 	
 	<p>
-		ūrār paṇikka i<hi rend="grantha">śilā</hi>lekai veṭṭiṉeṉ<lb n="19"/>āṟaiyāṉa <hi rend="grantha">śrī go</hi>vi<hi rend="grantha">nta</hi>pāṭi ācāriyaneṉ	
+		Ūrār paṇikka I-<hi rend="grantha">śilā</hi>lēkai veṭṭiṉeṉ<lb n="19"/>Āṟaiyāṉa <hi rend="grantha">śrī-go</hi>vin=tapāṭi ācāriya<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ	
 	</p>
 	
 	<p>
-		ivai-y eṉ eḻuttu i<lb n="19" break="no"/>tu <hi rend="grantha">śrīvaiṣṇa</hi>var<hi rend="grantha"><unclear>ri</unclear>rakṣai</hi>	
+		Ivai-y eṉ eḻuttu i<lb n="19" break="no"/>tu <hi rend="grantha">śrīvaiṣṇa</hi>var<hi rend="grantha"><unclear>ri</unclear>rakṣai</hi>	
 	</p>
-	
-	
 
 	
 </div>
@@ -174,4 +181,3 @@
         </body>
     </text>
 </TEI>
-
