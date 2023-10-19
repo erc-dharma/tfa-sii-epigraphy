@@ -40,7 +40,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Endowment of 20 <foreign>kaḻañcu</foreign>s of gold to <foreign>ūrār</foreign> of Vēḷkaḷa Veṇpākkam. Three <foreign>kaḻañcu</foreign>s of interest every year were to be used by trustees of temple for recitation of <foreign>tiruppatiyam</foreign>, beginning with the expression <foreign>kōlanaṟkuḻal</foreign> of a hymn now lost by (?) donor’s father Kāyavāṉ Arunilai.</summary>
+						<summary>Endowment of 20 <foreign>kaḻañcu</foreign>s of gold by Muvēntappiṭavūr alias Arunilai Śrī-Kṛṣṇa with the <foreign>ūrar</foreign>s of Vēḷkaḷa Veṇpākkam. Out of the 3 <foreign>kaḻañcu</foreign>s of yearly interest from this gold, 2 are endowed for the recitation of the <foreign>tiruppatiyam</foreign> ("glorious verse"), beginning with the phrase <foreign>kōlanaṟkuḻal</foreign>, on the seventh day of the festival of the temple of Āḻvāṇ (Viṣṇu) in Śrī-Govindapāṭi. The <foreign>tiruppatiyam</foreign> appears to have been composed by Muvēntappiṭavūr alias Kāyavāṉ Arunilai, the donor’s father.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -87,31 +87,43 @@
 	</ab>
 	
 	<p>	  	
-		kā<hi rend="grantha">nta</hi>ḷūr cālai kalam aṟutta
-		<lb n="2"/><hi rend="grantha">ko-rājarājakesari-vanma</hi><supplied reason="omitted">ṟ</supplied>kku yāṇṭu <num value="10"><g type="numeral">10</g></num>~<!--update encoding-->tt-āvatu	
+		kāntaḷūr cālai kalam aṟutta
+		<lb n="2"/><hi rend="grantha">ko-rājarājakesari-panma</hi><supplied reason="omitted">ṟ</supplied>kku yāṇṭu <num value="10"><g type="numeral">10</g></num>~<!--update encoding of dash in the original-->tt-āvatu	
 	</p>
 	
 	<p>	
-		tāma<gap reason="lost" quantity="7" unit="character"/><lb n="3" break="no"/>tu tāmar-<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu <hi rend="grantha">śrī-go</hi>vi<hi rend="grantha">nta</hi>pāṭi-puṟattu vēḷkaḷa-veṇpā<supplied reason="lost">kkatt' ū</supplied>
+		tāma<gap reason="lost" quantity="7" unit="character"/>
+		<lb n="3" break="no"/>tu tāmar-<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu <hi rend="grantha">śrī-go</hi>vin=ta-pāṭi-puṟattu vēḷkaḷa-veṇpā<supplied reason="lost">kkatt' ū</supplied>
 		<lb n="4" break="no"/>rōṅ kai-y Eḻut=tu
 	</p>
 	<p>
 		cōḻa-<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu vaṭa-karai-p-piṭavūr-nāṭṭu-k kaṇakku <gap reason="lost" quantity="3" unit="character"/><supplied reason="lost">u</supplied>
-		<lb n="5" break="no"/>ṭaiyāṉ Arunilai <hi rend="grantha">śrī-<unclear>kṛ</unclear>ṣṇa</hi>ṉ-āṉa muvē<hi rend="grantha">nta</hi>-p-piṭavūr vē<lb n="6" break="no"/>ḷār kaiyāl yāṅkaḷ koṇṭu kaṭava cempoṉ ta<hi rend="grantha">nma</hi>-ka<lb n="7" break="no"/>ṭṭaḷaiyāl tuḷai <num value="20"> 2 <g type="numeral">10</g></num> Ip-poṉ koṇṭa paric' āvatu
+		<lb n="5" break="no"/>ṭaiyāṉ Arunilai <hi rend="grantha">śrī-<unclear>kṛ</unclear>ṣṇa</hi>ṉ-āṉa muvēn=ta-p-piṭavūr vē
+		<lb n="6" break="no"/>ḷār kaiyāl yāṅkaḷ koṇṭu kaṭava cempoṉ ta<hi rend="grantha">nma</hi>-ka
+		<lb n="7" break="no"/>ṭṭaḷaiyāl tuḷai <num value="20"> 2 <g type="numeral">10</g></num> Ip-poṉ koṇṭa paric' āvatu
 	</p>
 	<p>		
-		Iv-āṭṭai<lb n="8"/>puraṭṭāti mutal kaḻañci<choice><orig>n</orig><reg>ṉ</reg></choice> vā<supplied reason="omitted">y</supplied> tiṅkaḷ iraṇṭum-ā-p policaiyāl ōr āṭ<lb n="9" break="no"/>ṭaikku van=ta po<choice><orig>n</orig><reg>ṉ</reg></choice> 3 {kaḻañcu}<!--symmbol, update encoding-->
+		Iv-āṭṭai
+		<lb n="8"/>puraṭṭāti mutal kaḻañci<choice><orig>n</orig><reg>ṉ</reg></choice> vā<supplied reason="omitted">y</supplied> tiṅkaḷ iraṇṭum-ā-p policaiyāl ōr āṭ
+		<lb n="9" break="no"/>ṭaikku van=ta po<choice><orig>n</orig><reg>ṉ</reg></choice> 3 {kaḻañcu}<!--symbol, most probably for kaḻañcu; update encoding-->
 	</p>
 	
 	<p>
-		Ip-poṉṉil ivar tam appaṉār tāyāvā<choice><orig>n</orig><reg>ṉ</reg></choice> aru<choice><orig>ṉ</orig><reg>n</reg></choice>i<supplied reason="omitted">lai</supplied>-y-ā<lb n="10" break="no"/>ṉa muvēnta-p-piṭavūr vēḷār <hi rend="grantha">śrī-go</hi>vin=ta-pāṭi Āḻvāṉ viṇṇappam ce<lb n="11"/><!--there's something missing, how to put that it should be cey? we will add something in the apparatus fro the moment-->kōlanaṟkuḻal Eṉum tiruppatiyam Iv-āḷvār tiru-viḻāviṉ Eḻā <choice><orig>ṉ</orig><reg>n</reg></choice>āḷāl<gap reason="lost" quantity="2" unit="character"/><lb n="12" break="no"/>ṭi-y āṭiṉa pari<hi rend="grantha">dai</hi>-nāyakaṉmārkku Iru-kaḻañcuṅ kēṭppi<choice><orig>cc</orig><reg>tt</reg></choice>a kōyil nampimārkku
-		<lb n="13"/>kaḻañcum āka policai mu-k-kaḻañcu po<supplied reason="omitted">ṉ</supplied>ṉum <hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>antrāditta</hi>val āṭṭāṇṭu toṟum ā<lb n="14" break="no"/>ḷvār <hi rend="grantha">śrī-kārya</hi>ñ ceykiṉṟa nampimārē taṇṭi Iṭu<unclear>vi</unclear>ppat' āka<unclear>vum</unclear>
+		Ip-poṉṉil ivar tam appaṉār kāyāvā<choice><orig>n</orig><reg>ṉ</reg></choice> aru<choice><orig>ṉ</orig><reg>n</reg></choice>i<supplied reason="omitted">lai</supplied>-y-ā
+		<lb n="10" break="no"/>ṉa muvēn=ta-p-piṭavūr vēḷār <hi rend="grantha">śrī-go</hi>vin=ta-pāṭi Āḻvāṉ viṇṇappam ce
+		<lb n="11"/>kōlanaṟkuḻal E<choice><orig>ṉ</orig><reg>ṉṉ</reg></choice>um tiruppatiyam Iv-āḷvār tiru-viḻāviṉ Eḻā <choice><orig>ṉ</orig><reg>n</reg></choice>āḷāl<gap reason="lost" quantity="2" unit="character"/>
+		<lb n="12" break="no"/>ṭi-y āṭiṉa pari<hi rend="grantha">dai</hi>-nāyakaṉmārkku Iru-kaḻañcuṅ kēṭppi<choice><orig>cc</orig><reg>tt</reg></choice>a kōyil nampimārkku
+		<lb n="13"/>kaḻañcum Āka policai mu-k-kaḻañcu po<supplied reason="omitted">ṉ</supplied>ṉum <hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>antrāditta</hi>val Āṭṭāṇṭu toṟum ā
+		<lb n="14" break="no"/>ḷvār <hi rend="grantha">śrī-kārya</hi>ñ ceykiṉṟa nampimārē taṇṭi Iṭu<unclear>vi</unclear>ppat' āka<unclear>vum</unclear>
 		</p>
 	<p>
-		Iṭōm ākil<lb n="15"/>tiruvāṇai maṟaiyum paṭṭu tēvaka<hi rend="grantha">nmi</hi>kaḷ tāṅkaḷ ve<gap reason="lost" quantity="4" unit="character"/>ttil tāṅkaḷ vēṇ<unclear>ṭu</unclear><gap reason="lost" quantity="3" unit="character"/><lb n="16"/>taṇṭam iṭa-p peṟuvārkaḷ ākavu<choice><orig>mm</orig><reg>m</reg></choice>
+		Iṭōm ākil
+		<lb n="15"/>tiruvāṇai maṟaiyum paṭṭu tēvaka<hi rend="grantha">nmi</hi>kaḷ tāṅkaḷ ve<gap reason="lost" quantity="4" unit="character"/>ttil tāṅkaḷ vēṇ<unclear>ṭu</unclear><gap reason="lost" quantity="3" unit="character"/>
+		<lb n="16"/>taṇṭam iṭa-p peṟuvārkaḷ ākavu<choice><orig>mm</orig><reg>m</reg></choice>
 	</p>
 	<p>
-		ivarkaḷ iṭṭa taṇṭam iṟuttum i<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ivantam ip-paṭi<lb n="17"/>Iṭa-k kaṭavōm ākavum
+		ivarkaḷ iṭṭa taṇṭam iṟuttum I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ivantam ip-paṭi
+		<lb n="17"/>Iṭa-k kaṭavōm ākavum
 	</p>
 	<p>
 		Ip-paric' ōṭṭi Iṭṭu-k kuṭuttō muvēnta-p-piṭavūr veḷārkku
@@ -119,14 +131,16 @@
 	</p>
 	
 	<p>
-		Ūrār paṇikka I-<hi rend="grantha">śilā</hi>lēkai veṭṭiṉēṉ<lb n="19"/>Āṟaiyāṉa <hi rend="grantha">śrī-go</hi>vin=tapāṭi ācāriya<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ	
+		Ūrār paṇikka I-<hi rend="grantha">śilā</hi>-lēkai veṭṭiṉēṉ
+		<lb n="19"/>Āṟaiyāṉa <hi rend="grantha">śrī-go</hi>vin=ta-pāṭi ācāriya<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ	
 	</p>
 	
 	<p>
 		Ivai-y eṉ eḻuttu
 		</p>
 	<p>
-		I<lb n="20" break="no"/>tu <hi rend="grantha">śrī-vaiṣṇa</hi>var<hi rend="grantha"><surplus>r</surplus> irakṣai</hi>	
+		I
+		<lb n="20" break="no"/>tu <hi rend="grantha">śrī-vaiṣṇa</hi>var<hi rend="grantha"><surplus>r</surplus> irakṣai</hi>	
 	</p>
 
 	
@@ -146,6 +160,16 @@
 			<rdg source="bib:SrinivasaRao1997_01">veḷkaḷa veṇpā <gap reason="lost" quantity="4" unit="character"/><lb n="4" break="no"/>roṅ</rdg>
 		</app>	
 		
+		<app loc="4">
+			<lem><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost">u</supplied><lb n="5" break="no"/>ṭaiyāṉ</lem>
+			<rdg source="bib:SrinivasaRao1997_01"><gap reason="lost" quantity="4" unit="character"/><lb n="5" break="no"/>ṭaiyāṉ</rdg>
+		</app>	
+		
+		<app loc="10">
+			<lem>viṇṇappam ce<lb n="11"/>kōlanaṟkuḻal</lem>
+			<rdg source="bib:SrinivasaRao1997_01">viṇṇappam ce<lb n="11" break="no"/>kolanaṟkuḻal</rdg>
+			<note>Possibly restore to <foreign>viṇṇappam ceyta kōlanaṟkuḻal</foreign>.</note>
+		</app>	
 	
 	</listApp>    			
     	
@@ -193,10 +217,16 @@
 		
 	</listBibl>
 	
-	<!--<listBibl type="secondary">
+	<listBibl type="secondary">
 				
+		<bibl>
+			<ptr target="bib:ARIE1906-1907"/>
+			<citedRange unit="page">28</citedRange>
+			<citedRange unit="appendix">B/1906</citedRange>
+			<citedRange unit="item">333</citedRange>
+		</bibl>
 		
-	</listBibl>-->
+	</listBibl>
 	
 </div>
         </body>
