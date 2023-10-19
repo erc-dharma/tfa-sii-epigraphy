@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirumālpuram, Ruined Viṣṇu Temple, time of Rājarāja I Cōḻa, year 10</title>
+				<title>Tirumālpuram, ruined Viṣṇu temple, time of Rājarāja I Cōḻa, year 10</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:reda">
@@ -88,32 +88,45 @@
 	
 	<p>	  	
 		kā<hi rend="grantha">nta</hi>ḷūr cālai kalam aṟutta
-		<lb n="2"/><hi rend="grantha">korājarājakesarivanma</hi><supplied reason="omitted">ṟ</supplied>kku yāṇṭu <num value="10"><g type="numeral">10</g></num>-<!--this is apparently an hyphen which is on the stone; check original, if possible; update encoding if necessary-->tt-āvatu	
+		<lb n="2"/><hi rend="grantha">ko-rājarājakesari-vanma</hi><supplied reason="omitted">ṟ</supplied>kku yāṇṭu <num value="10"><g type="numeral">10</g></num>~<!--update encoding-->tt-āvatu	
 	</p>
 	
 	<p>	
-		tāma<gap reason="lost" quantity="7" unit="character"/><lb n="3" break="no"/>tu tāmar-<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu <hi rend="grantha">śrī-go</hi>vi<hi rend="grantha">nta</hi>pāṭi puṟattu veḷkaḷa veṇpā<gap reason="lost" quantity="4" unit="character"/><lb n="4"/>roṅkai-y Eḻu<hi rend="grantha">ttu</hi> cōḻa-<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu vaṭa-karai-p-piṭavūr-nāṭṭu-k kaṇakku<gap reason="lost" quantity="4" unit="character"/><lb n="5" break="no"/>ṭai yāṉ Arunilai <hi rend="grantha">śrī-<unclear>tar</unclear>ṣaṇa</hi>ṉ-āṉa muvē<hi rend="grantha">nta</hi>-p piṭavūr ve<lb n="6" break="no"/>ḷār kaiyāl yāṅkaḷ koṇṭu kaṭava cempoṉ ta<hi rend="grantha">nma</hi>-ka<lb n="7" break="no"/>ṭṭaḷaiyāl tuḷai <num value="20"> 2 <g type="numeral">10</g></num> Ip-poṉ koṇṭa paric' āvatu
+		tāma<gap reason="lost" quantity="7" unit="character"/><lb n="3" break="no"/>tu tāmar-<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu <hi rend="grantha">śrī-go</hi>vi<hi rend="grantha">nta</hi>pāṭi-puṟattu vēḷkaḷa-veṇpā<supplied reason="lost">kkatt' ū</supplied>
+		<lb n="4" break="no"/>rōṅ kai-y Eḻut=tu
+	</p>
+	<p>
+		cōḻa-<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu vaṭa-karai-p-piṭavūr-nāṭṭu-k kaṇakku <gap reason="lost" quantity="3" unit="character"/><supplied reason="lost">u</supplied>
+		<lb n="5" break="no"/>ṭaiyāṉ Arunilai <hi rend="grantha">śrī-<unclear>kṛ</unclear>ṣṇa</hi>ṉ-āṉa muvē<hi rend="grantha">nta</hi>-p-piṭavūr vē<lb n="6" break="no"/>ḷār kaiyāl yāṅkaḷ koṇṭu kaṭava cempoṉ ta<hi rend="grantha">nma</hi>-ka<lb n="7" break="no"/>ṭṭaḷaiyāl tuḷai <num value="20"> 2 <g type="numeral">10</g></num> Ip-poṉ koṇṭa paric' āvatu
 	</p>
 	<p>		
-		Iv-āṭṭai<lb n="8"/>puraṭṭāti mutal kaḻañci<choice><orig>n</orig><reg>ṉ</reg></choice> vā<supplied reason="omitted">y</supplied> tiṅkaḷ iraṇṭum-ā-p policaiyāl ōr āṭ<lb n="9" break="no"/>ṭaikku van=ta po<choice><orig>n</orig><reg>ṉ</reg></choice> <num value="30"> 3 <g type="numeral">10</g></num><!--the 10 is not clear in SII, could be l; could be a typo-->
+		Iv-āṭṭai<lb n="8"/>puraṭṭāti mutal kaḻañci<choice><orig>n</orig><reg>ṉ</reg></choice> vā<supplied reason="omitted">y</supplied> tiṅkaḷ iraṇṭum-ā-p policaiyāl ōr āṭ<lb n="9" break="no"/>ṭaikku van=ta po<choice><orig>n</orig><reg>ṉ</reg></choice> 3 {kaḻañcu}<!--symmbol, update encoding-->
 	</p>
 	
 	<p>
-		Ip-poṉṉil ivar tamappaṉār tāyāvānaruṉi<supplied reason="omitted">lai</supplied>-y-ā<lb n="10" break="no"/>ṉa muvēnta-p-piṭavūr veḷār <hi rend="grantha">śrī-go</hi>vin=tapāṭi Āḻvāṉ viṇṇappam ce<lb n="11"/><!--there's something missing, how to put that it should be ceY? we will add something in the apparatus fro the moment-->kōlanaṟkuḻal Eṉum tiruppatiyam Iv-āḷvār tiruviḻāviṉ Eḻā <choice><orig>ṉ</orig><reg>n</reg></choice>āḷāl<gap reason="lost" quantity="2" unit="character"/><lb n="12" break="no"/>ṭi-y āṭiṉa pari<hi rend="grantha">dai</hi>-nāyakaṉmārkku Iru-kaḻañcuṅ kēṭppi<choice><orig>cc</orig><reg>tt</reg></choice>a kōyil nampimārkku<lb n="13"/>kaḻañcum āka policai mu-k-kaḻañcu po<supplied reason="omitted">ṉ</supplied>ṉum <hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>antrāditta</hi>val āṭṭāṇṭu toḻum ā<lb n="14" break="no"/>ḷvār <hi rend="grantha">śrī-kārya</hi>ñ ceykiṉṟa nampimārē taṇṭi Iṭu<unclear>vi</unclear>ppat' āka<unclear>vum</unclear> Iṭōm ākil<lb n="15"/>tiruvāṇai maṟaiyum paṭṭu tēvaka<hi rend="grantha">nmi</hi>kaḷ tāṅkaḷ ve<gap reason="lost" quantity="4" unit="character"/>ttil tāṅkaḷ vēṇ<unclear>ṭu</unclear><gap reason="lost" quantity="3" unit="character"/><lb n="16"/>taṇṭam iṭa-p peṟuvārkaḷ ākavum
+		Ip-poṉṉil ivar tam appaṉār tāyāvā<choice><orig>n</orig><reg>ṉ</reg></choice> aru<choice><orig>ṉ</orig><reg>n</reg></choice>i<supplied reason="omitted">lai</supplied>-y-ā<lb n="10" break="no"/>ṉa muvēnta-p-piṭavūr vēḷār <hi rend="grantha">śrī-go</hi>vin=ta-pāṭi Āḻvāṉ viṇṇappam ce<lb n="11"/><!--there's something missing, how to put that it should be cey? we will add something in the apparatus fro the moment-->kōlanaṟkuḻal Eṉum tiruppatiyam Iv-āḷvār tiru-viḻāviṉ Eḻā <choice><orig>ṉ</orig><reg>n</reg></choice>āḷāl<gap reason="lost" quantity="2" unit="character"/><lb n="12" break="no"/>ṭi-y āṭiṉa pari<hi rend="grantha">dai</hi>-nāyakaṉmārkku Iru-kaḻañcuṅ kēṭppi<choice><orig>cc</orig><reg>tt</reg></choice>a kōyil nampimārkku
+		<lb n="13"/>kaḻañcum āka policai mu-k-kaḻañcu po<supplied reason="omitted">ṉ</supplied>ṉum <hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>antrāditta</hi>val āṭṭāṇṭu toṟum ā<lb n="14" break="no"/>ḷvār <hi rend="grantha">śrī-kārya</hi>ñ ceykiṉṟa nampimārē taṇṭi Iṭu<unclear>vi</unclear>ppat' āka<unclear>vum</unclear>
+		</p>
+	<p>
+		Iṭōm ākil<lb n="15"/>tiruvāṇai maṟaiyum paṭṭu tēvaka<hi rend="grantha">nmi</hi>kaḷ tāṅkaḷ ve<gap reason="lost" quantity="4" unit="character"/>ttil tāṅkaḷ vēṇ<unclear>ṭu</unclear><gap reason="lost" quantity="3" unit="character"/><lb n="16"/>taṇṭam iṭa-p peṟuvārkaḷ ākavu<choice><orig>mm</orig><reg>m</reg></choice>
 	</p>
 	<p>
-		<surplus>m</surplus>ivarkaḷ iṭṭa taṇṭam iṟuttum i<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ivantam ippaṭi<lb n="17"/>Iṭa-k kaṭavōm ākavum
+		ivarkaḷ iṭṭa taṇṭam iṟuttum i<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ivantam ip-paṭi<lb n="17"/>Iṭa-k kaṭavōm ākavum
 	</p>
 	<p>
-		Ip-paric' oṭṭi Iṭṭukk’ Uṭuttō muvēnta-p-piṭavūr veḷārkku<lb n="18"/>veḷka<supplied reason="omitted">ḷa</supplied> veṇpākkat=tūrōm 
+		Ip-paric' ōṭṭi Iṭṭu-k kuṭuttō muvēnta-p-piṭavūr veḷārkku
+		<lb n="18"/>vēḷka<supplied reason="omitted">ḷa</supplied>-veṇpākkat=t' ūrōm 
 	</p>
 	
 	<p>
-		Ūrār paṇikka I-<hi rend="grantha">śilā</hi>lēkai veṭṭiṉeṉ<lb n="19"/>Āṟaiyāṉa <hi rend="grantha">śrī-go</hi>vin=tapāṭi ācāriya<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ	
+		Ūrār paṇikka I-<hi rend="grantha">śilā</hi>lēkai veṭṭiṉēṉ<lb n="19"/>Āṟaiyāṉa <hi rend="grantha">śrī-go</hi>vin=tapāṭi ācāriya<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ	
 	</p>
 	
 	<p>
-		Ivai-y eṉ eḻuttu i<lb n="19" break="no"/>tu <hi rend="grantha">śrīvaiṣṇa</hi>var<hi rend="grantha"><unclear>ri</unclear>rakṣai</hi>	
+		Ivai-y eṉ eḻuttu
+		</p>
+	<p>
+		I<lb n="20" break="no"/>tu <hi rend="grantha">śrī-vaiṣṇa</hi>var<hi rend="grantha"><surplus>r</surplus> irakṣai</hi>	
 	</p>
 
 	
@@ -128,9 +141,9 @@
 			<rdg source="bib:Hultzsch1895_01">...</rdg>
 		</app>	-->
 		
-		<app loc="1">
-			<lem>maṉakko<unclear>ḷa</unclear>k</lem>
-			<rdg source="bib:Hultzsch1895_01">maṉakko<unclear>ḷ</unclear>k</rdg>
+		<app loc="3">
+			<lem>vēḷkaḷa-veṇpā<supplied reason="lost">kkatt' ū</supplied><lb n="4" break="no"/>rōṅ</lem>
+			<rdg source="bib:SrinivasaRao1997_01">veḷkaḷa veṇpā <gap reason="lost" quantity="4" unit="character"/><lb n="4" break="no"/>roṅ</rdg>
 		</app>	
 		
 	
@@ -138,13 +151,21 @@
     	
 </div>
     	
-<div type="translation" source="bib:Hultzsch1895_01">
+<div type="translation" resp="part:reda">
 	
-	<p>
-		Hail! Prosperity! Until the twenty-ninth year <supplied reason="subaudible">of the reign</supplied> of Kō-Rājakesarivarman, <hi rend="italic">alias</hi> Śrī-Rājarājadeva, who, in his life of growing strength, during which, — ...
+	<p n="1">
+		Prosperity! Fortune!
 	</p>
 	
-	<p>
+	<p n="1-2">
+		...
+	</p>
+		
+	<p n="2-4">
+		...
+	</p>
+		
+	<p n="19-20">
 		...
 	</p>
 		
@@ -159,13 +180,13 @@
 <div type="bibliography">
     		
 	<p>
-		First edited in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> with English translation; encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2023), based on <bibl><ptr target="bib:Hultzsch1891_01"/></bibl>.
+		First edited in <bibl><ptr target="bib:SrinivasaRao1997_01"/></bibl> (SII 22, no. 333); encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2023), based on <bibl><ptr target="bib:SrinivasaRao1997_01"/></bibl>.
 	</p>	
 	
 	<listBibl type="primary">
 		
-		<bibl n="EH">
-			<ptr target="bib:Hultzsch1895_01"/>
+		<bibl n="SR">
+			<ptr target="bib:SrinivasaRao1997_01"/>
 			<citedRange unit="page">270-271</citedRange>
 			<citedRange unit="item">333</citedRange>
 		</bibl>
