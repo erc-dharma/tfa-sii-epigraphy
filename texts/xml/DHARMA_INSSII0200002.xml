@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary><!--This is the programmatic inscription of the Rājarājeśvara temple founded by Rājarāja I Cōḻa. It contains in its first part the royal order of the 20th day of his 26th regnal year, reported in the first person plural, enjoining that the donations by the king Rājarāja, his elder sister, his wives and other donors to Rājarājeśvara be engraved on the temple (<foreign>vimāna</foreign>). Then is a list of various items donated by Rājarāja, from the 312th day of his 25th regnal year up to the 319th day of his 26th regnal year. The second part provides a further list of items donated by Rājarāja between his 23rd and 29th regnal years. The donated items are mostly gold utensils and ornaments. Besides such items, noteworthy are the donation of golden images of Koḷkaideva (Hultzsch's §3) and Kṣetrapāladeva (Hultzsch's §33; the attributes of the deity are mentioned), the gilding of the temple pinnacle with copper and gold (Hultzsch's §18). The inscription explicitly states that the stone-temple (<foreign>tirukkaṟṟaḷi</foreign>) of Rājarājeśvara (<foreign>rājarājīśvaram uṭaiyār</foreign>, literally "the lord of [the <foreign>liṅga</foreign> named] Rājarājeśvara ("the lord of Rājarāja")) was founded by Rājarāja (line 1.6=6) and that the first part of the inscription is engraved on the <foreign>jagatippaṭai</foreign> of the temple (Hultzsch's §51).--></summary>
+						<summary>Records the donations of Kuntavaiyār, the elder sister of Rājarāja I Cōḻa. It contains a list of donations made on the 310th day of his 25th regnal year followed by a list of donations made between his 25th and his 29th regnal years. The donated items are gold utensils and ornaments, offered to the Goddess.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -152,8 +152,7 @@
          	</p>
          	<p>
          		yāṇṭu Irupatt’ aiñc-<supplied reason="lost">āva</supplied>tu mutal yāṇṭu Irupatt’ oṉpat<supplied reason="lost">ā</supplied>vatu varai Āṭavallār <hi rend="grantha">dakṣ<choice><sic>a</sic><corr>i</corr></choice></hi>ṇa-mēru-viṭaṅkar nampirāṭṭiyār
-         		
-         		
+         		         		
          		<lb n="2.1=8"/>
          		<milestone type="pagelike" unit="zone" n="2"/>
          		<label xml:lang="eng">Section 2</label>
@@ -189,9 +188,18 @@
          	</p>
          	
          	<p>              		
-         		<lb n="3.1=n" break="no"/>
+         		<lb n="3.1=17" break="no"/>
          		<milestone type="pagelike" unit="zone" n="3" break="no"/>
          		<label xml:lang="eng">Section 3</label>
+         		kiḷi Oṉṟil kaṇṇil <unclear>taṭavi-k</unclear> kaṭṭiṉa kallu Iraṇṭ’ uṭpaṭa niṟai poṉ muppattu nāṟ-kaḻañcēy oṉpatu mañcāṭiyuṅ kuṉṟi —
+         	</p>
+         	<p>
+         		veṇ-cāmarai-k-kai-y O-
+         		<lb n="3.2=18" break="no"/>ṉṟu poṉ patt’ oṉ<unclear>pati</unclear>ṉ kaḻañcēy mukkāl —
+         		
+         		</p>
+         	<p>
+
          		...
          		
          		<lb n="4.1=n" break="no"/>
@@ -272,21 +280,19 @@
          	
          	<p n="1.1-1.3=§1">Hail! Prosperity! ...</p>
 	
-	
-
-
+	<p n="§59">...</p>
 	
 </div>
 
 
 <div type="commentary">
          	
-	<!--<p><bibl><ptr target="bib:Hultzsch1891_01"/></bibl> divides the inscription in two parts, in which, for the sake of convenience, he supplied paragraphs in his edition and in his translation: 
+	<p><bibl><ptr target="bib:Hultzsch1891_01"/></bibl> divides the inscription in two parts, in which, for the sake of convenience, he supplied paragraphs in his edition and in his translation: 
 		<list>
-			<item>§§1-50, with the programmatic order of the 20th day of the 26th regnal year Rājarāja I Cōḻa (§1) and the list of the donations the king himself made from the 312th day of his 25th regnal year up to the 319th day of his 26th regnal year, constitutes the first part.</item>
-			<item>§§ 51-107, with the list of further donations the king himself made between his 23rd and 29th regnal years, constitutes the second part.</item></list>
+			<item>§§1-11, with the list of the donations made by Kuntavaiyār, the elder sister of Rājarāja I Cōḻa on the 310th day of his 25th regnal year.</item>
+			<item>§§ 12-59, with the list of further donations made by Kuntavaiyār between his 25th and his 29th regnal years.</item></list>
 	</p>
-	<p>The exact date of the record and the status of both parts is unclear. According <bibl><ptr target="bib:Hultzsch1891_01"/></bibl> (p. 1), <quote>[t]he last set of paragraphs (51 to 107) was incised at a later date than the preceding part of the inscription, to which it refers as previously engraved (paragraph 51).</quote> It is possible, but has to be checked on the stone at the transition between both parts, that the entire inscription was engraved only in the 29th regnal year of Rājarāja.</p>-->
+	<p>The exact date of the record and the status of both parts is unclear. It is possible, but has to be checked on the stone at the transition between both parts, that the entire inscription was engraved only in the 29th regnal year of Rājarāja.</p>
 	
 	
 </div>
