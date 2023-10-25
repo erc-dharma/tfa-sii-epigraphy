@@ -61,16 +61,13 @@
 			<projectDesc>
 				<p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
 			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
 			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
 					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
 						ERC-DHARMA whose data are open to the public.</p>
 				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
 					<p>Internal URIs using the part prefix to point to person elements in the
 						<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
 				</prefixDef>
@@ -407,66 +404,120 @@
          	
          	<p n="1.1-1.3=§1">Hail! Prosperity! On the three-hundred-and-tenth day of the twenty-fifth year <supplied reason="subaudible">of the reign</supplied> of Kō-Rājakesarivarman, <foreign>alias</foreign> Śrī-Rājarājadeva, who,—while <supplied reason="subaudible">his</supplied> heart rejoiced, that, like the goddess of fortune, the goddess of the great earth had become his wife,—in his life of growing strength, during which, having been pleased to cut the vessel <supplied reason="subaudible">in</supplied> the hall <supplied reason="subaudible">at</supplied> Kāntaḷūr, he conquered by his army, which was victorious in great battles, Vēṅkaināṭu, Kaṅkaāṭi, Taṭikaipāṭi, Nuḷampapāṭi, Kuṭamalaināṭu, Kollam, Kaliṅkam, Īḻamaṇṭalam, <supplied reason="subaudible">the conquest of which</supplied> made <supplied reason="subaudible">him</supplied> famous <supplied reason="subaudible">in</supplied> the eight directions, and the seven and a half <foreign>lakṣa</foreign>s of Iraṭṭapāṭi,—deprived the Ceḻiyas of their splendour, while <supplied reason="subaudible">he</supplied> was resplendent <supplied reason="subaudible">to such a degree</supplied> that <supplied reason="subaudible">he</supplied> was worthy to be worshipped everywhere;—the venerable elder sister of Śrī-Rājarājadeva, <supplied reason="subaudible">who was</supplied> the great queen <supplied reason="explanation"><foreign>mahādevī</foreign></supplied> of Vallavaraiyar Vandyadevar, gave to <supplied reason="subaudible">the goddess</supplied> Umāparameśvarī, who is the consort of our lord Āṭavallār, one gold plate <supplied reason="explanation"><foreign>taḷikai</foreign></supplied>, weighing three hundred and ninety-eight <foreign>kaḻañcu</foreign>s and a half by the stone called <supplied reason="subaudible">after</supplied> Āṭavallāṉ.</p>
 	
-	<p n="§2">
-		2. On the same day <supplied reason="subaudible">she</supplied> gave one gold plate, weighing four hundred and ninety-six kaḻañcus by the same stone.
-3. On the same day (she) gave one gold bowl (maṇṭai), weighing one hundred and ninety-nine kaḻañcus by the same stone.
-4. On the same day (she) gave one gold bowl, weighing three hundred and ninety-nine kaḻañcus and three quarters by the same stone.
-5. On the same day (she) gave one gold water-pot (kuṭam), weighing one hundred and ninety-eight kaḻañcus and a half by the same stone.
-6. On the same day (she) gave one gold water-pot, weighing one hundred and ninety-nine kaḻañcus and three quarters by the same stone.
-7. On the same day (she) gave one gold water-pot, weighing one hundred and ninety-six kaḻañcus, seven mañcāṭi and (one) kuṉṟi by the same stone.
-8. On the same day (she) gave one gold water-pot, weighing one hundred and ninety-eight kaḻañcus by the same stone.
-9. On the same day (she) gave one gold cup (vaṭṭil), weighing ninety-seven kaḻañcus and a half by the same stone.
-10. On the same day (she) gave one golden receptacle for sacred ashes with lotus-ornaments (puṣkara-patti-maṭal), together with a stand (aṭi),—weighing eighty kaḻañcus by the same stone.
-11. On the same day (she) gave one golden chunnam box (kaṟaṇṭikaiccoppu),fn25 including ………. a bolt (ōṭāṇi) and a pin (nilaiyāṇi),—weighing one hundred and ninety-nine kaḻañcus by the same stone.
-12. From the twenty-fifth year to the twenty-ninth year (of the king's reign), the venerable elder sister of Śrī-Rājarājadeva, (who was) the great queen of Vallavaraiyar Vandyadevar, gave to (the goddess) Umāparameśvarī, who is the consort of our lord Āṭavallār Dakṣiṇa-Mēru-Viṭaṅkar, and to (the goddess) Umāparameśvarī, who is the consort of our lord Tañcai-Viṭaṅkar, the following sacred ornaments (ābharaṇa), emblems (cihna), etc., of gold, which were weighed by the stone called (after) Āṭavallāṉ and engraved on stone,—excluding those (gifts of) the twenty-fifth year, which had been engraved on the adjacent stones before this (part of the inscription) on the north of this upper tier (jagatippaṭai):—26
-13. To (the goddess) Umāparameśvarī, who is the consort of our lord Āṭavallār Dakṣiṇa-Mēru-Viṭaṅkar, (she) gave:—
-14. One ōṭṭu-vaṭṭil, (consisting of) one hundred and ninety-eight kaḻañcus and a half, two mañcāṭis and (one) kuṉṟi of gold.
-15. One ōṭṭu-vaṭṭil, (consisting of) one hundred and ninety-seven kaḻañcus and a half of gold.
-16. One tavukkai,fn27 (consisting of) one hundred and forty-seven kaḻañcus and six mañcāṭis of gold.
-17. One tavukkai, (consisting of) one hundred and forty-six kaḻañcus and three quarters, (one) mañcāṭi and (one) kuṉṟi of gold.
-18. One censer (kalacappāṉai), (consisting of) two hundred and ninety-five kaḻañcus and a quarter of gold.
-19. One swan (aṉṉam), (consisting of) ninety-eight kaḻañcus and a quarter of gold.
-20. One parrot (kiḷi), the gold of which weighed thirty-four kaḻañcus, nine mañcāṭis and (one) kuṉṟi,—including two precious stones set into the eyes.
-21. One handle for a white cāmara (veṇ-cāmarai), (consisting of) nineteen kaḻañcus and three quarters of gold.
-22. One handle for a white cāmara, (consisting of) nineteen kaḻañcus and a half and two mañcāṭis of gold.
-23. One handle for a fly-whisk (īccōppi), (consisting of) twenty kaḻañcus of gold.
-24. One handle for a fly-whisk, (consisting of) nineteen kaḻañcus and a half of gold.
-25. One sacred crown (makuṭam), (consisting of) two hundred and seventy-five kaḻañcus and a half of gold.
-26. One hundred and sixty-five sacred gold flowers (tiruppoṟpū), consisting of eight hundred and twenty-five kaḻañcus of gold,—each sacred gold flower (consisting of) five kaḻañcus of gold.
-27. Thirty-five sacred gold flowers, consisting of one hundred and seventy-four kaḻañcus, two mañcāṭis and (one) kuṉṟi of gold,—each sacred gold flower (consisting of) four kaḻañcus and three quarters, four mañcāṭis and (one) kuṉṟi of gold.
-28. One pendant (tūkkam), (consisting of) twenty-nine kaḻañcus and a half of gold.
-29. One pair of sacred ear-rings (tiru-vāḷi), consisting of six kaḻañcus, eight mañcāṭis and (one) kuṉṟi of gold.
-30. One pair of double sacred uṛuttu,fn28 consisting of ten kaḻañcus and (one) mañcāṭi of gold.
-31. One pair of sacred ear-rings (tirukkampi), consisting of fourteen kaḻañcus and three quarters, (one) mañcāṭi and (one) kuṉṟi of gold.
-32. One string (vaṭam) of beads for the marriage-badge (tāli-maṇi), set with diamonds (vayiram), consisting of eleven kaḻañcus and (one) mañcāṭi of gold,—including one hundred and fifty-seven beads for the marriage-badge, •••• four paṭukaṇs, four kaḷḷippūs, one kokkuvāy and two square diamonds (cavakkam).fn29
-33. One necklace (kaṇṭa-tuṭar) of three (chains) soldered into one, (consisting of) sixty-two kaḻañcus of gold.
-34. One outer chain (? puṟattuṭar), including (one) paṭukaṇ, (one) kaḷḷippū and (one) kokkuvāy,—(consisting of) twenty-four kaḻañcus and a half, two mañcāṭis and (one) kuṉṟi of gold.
-35. One cāyalam of diamonds (vayiram), (containing) one hundred and twenty-two kaḻañcus and three quarters of gold.
-36. One pair of poṭṭu fn3 for the arms of the goddess, (consisting of) ninety kaḻañcus and a half of gold.
-37. One pair of bracelets (kaṭakam) for the arms of the goddess, (consisting of) fifty-six kaḻañcus, two mañcāṭis and (one) kuṉṟi of gold.
-38. One pair of rings for the arms of the goddess (tirukkaikkāṟai),fn31 with clawsfn32 (engraved) on the outside (? ukirppuṟavaṉ), (consisting of) one hundred and fifty kaḻañcus and a half of gold.
-39. One wrought girdle (toḻil-paṭṭikai), (consisting of) three hundred and forty-four kaḻañcus of gold.
-40. One pair of rings for the feet of the goddess (tiruvaṭikkāṟai), with claws (engraved) on the outside, (consisting of) one hundred and fifty kaḻañcus and a quarter of gold.
-41. One pair of śāyala for the feet (pāda-śāyala),fn33 (consisting of) one hundred and nine kaḻañcus and a half of gold.
-42. Ten rings for the toes of the goddess (tirukkāl-mōtiram), consisting of fourteen kaḻañcus and three quarters, two mañcāṭis and (one) kuṉṟi of gold.
-43. To (the goddess) Umāparameśvarī, who is the consort of our lord Tañcai-Viṭaṅkar, (she) gave:—
-44. One plate (taḷikai), (consisting of) four hundred and forty-eight kaḻañcus and four mañcāṭis of gold.
-45. One bowl (maṇṭai), (consisting of) two hundred and ninety-six kaḻañcus and a half of gold.
-46. One ōṭṭu-vaṭṭil, (consisting of) one hundred and ninety-seven kaḻañcus and three quarters of gold.
-47. One tavukkai, (consisting of) one hundred and forty-eight kaḻañcus and nine mañcāṭis of gold.
-48. One censer (kalacappāṉai), (consisting of) two hundred and ninety-five kaḻañcus, seven mañcāṭis and (one) kuṉṟi of gold.
-49. One pot (kalacam), (consisting of) one hundred and ninety-six kaḻañcus and a half of gold.
-50. One pot, (consisting of) one hundred and ninety-seven kaḻañcus and a quarter of gold.
-51. One pot, (consisting of) one hundred and ninety-seven kaḻañcus and eight mañcāṭis of gold.
-52. One chunnam box (kaṟaṇṭikaicceppu), (consisting of) one hundred and ninety-eight kaḻañcus and a quarter of gold.
-53. One handle for a white cāmara (veṇ-cāmarai), (consisting of) nineteen kaḻañcus and a half and four mañcāṭis of gold.
-54. One handle for a fly-whisk (īccōppi), (consisting of) nineteen kaḻañcus and a half and (one) mañcāṭi of gold.
-55. Forty-eight sacred gold flowers (tiruppoṟpū), consisting of two hundred and forty kaḻañcus of gold,—each sacred gold flower (consisting of) five kaḻañcus of gold.
-56. Seventy-two sacred gold flowers, consisting of three hundred and fifty-eight kaḻañcus and four mañcāṭis of gold,—each sacred gold flower (consisting of) four kaḻañcus and three quarters, four mañcāṭis and (one) kuṉṟi of gold.
-57. Six sacred gold flowers, consisting of twenty-nine kaḻañcus and a half and four mañcāṭis of gold,—each sacred gold flower (consisting of) four kaḻañcus and three quarters and four mañcāṭis of gold.
-58. Three sacred gold flowers, consisting of fourteen kaḻañcus and three quarters and (one) kuṉṟi of gold,—each sacred gold flower (consisting of) four kaḻañcus and three quarters, three mañcāṭis and (one) kuṉṟi of gold.
+	<p n="§2">On the same day <supplied reason="subaudible">she</supplied> gave one gold plate, weighing four hundred and ninety-six <foreign>kaḻañcu</foreign>s by the same stone.</p>
+	
+	<p n="§3">On the same day <supplied reason="subaudible">she</supplied> gave one gold bowl (maṇṭai), weighing one hundred and ninety-nine <foreign>kaḻañcu</foreign>s by the same stone.</p>
+	
+	<p n="§4">On the same day <supplied reason="subaudible">she</supplied> gave one gold bowl, weighing three hundred and ninety-nine <foreign>kaḻañcu</foreign>s and three quarters by the same stone.</p>
+	
+	<p n="§5">On the same day <supplied reason="subaudible">she</supplied> gave one gold water-pot (kuṭam), weighing one hundred and ninety-eight <foreign>kaḻañcu</foreign>s and a half by the same stone.</p>
+	
+	<p n="§6">On the same day <supplied reason="subaudible">she</supplied> gave one gold water-pot, weighing one hundred and ninety-nine <foreign>kaḻañcu</foreign>s and three quarters by the same stone.</p>
 
-</p>
+	<p n="§7">On the same day <supplied reason="subaudible">she</supplied> gave one gold water-pot, weighing one hundred and ninety-six <foreign>kaḻañcu</foreign>s, seven <foreign>mañcāṭi</foreign>s and (one) <foreign>kuṉṟi</foreign> by the same stone.</p>
+
+	<p n="§8">On the same day <supplied reason="subaudible">she</supplied> gave one gold water-pot, weighing one hundred and ninety-eight <foreign>kaḻañcu</foreign>s by the same stone.</p>
+
+	<p n="§9">On the same day <supplied reason="subaudible">she</supplied> gave one gold cup (vaṭṭil), weighing ninety-seven <foreign>kaḻañcu</foreign>s and a half by the same stone.</p>
+
+	<p n="§10">On the same day <supplied reason="subaudible">she</supplied> gave one golden receptacle for sacred ashes with lotus-ornaments (puṣkara-patti-maṭal), together with a stand (aṭi),—weighing eighty <foreign>kaḻañcu</foreign>s by the same stone.</p>
+	
+	<p n="§11">On the same day <supplied reason="subaudible">she</supplied> gave one golden chunnam box (kaṟaṇṭikaiccoppu),fn25 including ………. a bolt (ōṭāṇi) and a pin (nilaiyāṇi),—weighing one hundred and ninety-nine <foreign>kaḻañcu</foreign>s by the same stone.</p>
+	
+	<p n="§12">From the twenty-fifth year to the twenty-ninth year (of the king's reign), the venerable elder sister of Śrī-Rājarājadeva, (who was) the great queen of Vallavaraiyar Vandyadevar, gave to (the goddess) Umāparameśvarī, who is the consort of our lord Āṭavallār Dakṣiṇa-Mēru-Viṭaṅkar, and to (the goddess) Umāparameśvarī, who is the consort of our lord Tañcai-Viṭaṅkar, the following sacred ornaments (ābharaṇa), emblems (cihna), etc., of gold, which were weighed by the stone called (after) Āṭavallāṉ and engraved on stone,—excluding those (gifts of) the twenty-fifth year, which had been engraved on the adjacent stones before this (part of the inscription) on the north of this upper tier (jagatippaṭai):—26</p>
+	
+	<p n="§13">To (the goddess) Umāparameśvarī, who is the consort of our lord Āṭavallār Dakṣiṇa-Mēru-Viṭaṅkar, <supplied reason="subaudible">she</supplied> gave:—</p>
+	
+	<p n="§14">One ōṭṭu-vaṭṭil, <supplied reason="subaudible">consisting of</supplied> one hundred and ninety-eight <foreign>kaḻañcu</foreign>s and a half, two <foreign>mañcāṭi</foreign>s and (one) <foreign>kuṉṟi</foreign> of gold.</p>
+	
+	<p n="§15">One ōṭṭu-vaṭṭil, <supplied reason="subaudible">consisting of</supplied> one hundred and ninety-seven <foreign>kaḻañcu</foreign>s and a half of gold.</p>
+	
+	<p n="§16">One tavukkai,<note>fn27</note> <supplied reason="subaudible">consisting of</supplied> one hundred and forty-seven <foreign>kaḻañcu</foreign>s and six <foreign>mañcāṭi</foreign>s of gold.</p>
+	
+	<p n="§17">One tavukkai, <supplied reason="subaudible">consisting of</supplied> one hundred and forty-six <foreign>kaḻañcu</foreign>s and three quarters, (one) <foreign>mañcāṭi</foreign> and (one) <foreign>kuṉṟi</foreign> of gold.</p>
+	
+	<p n="§18">One censer (kalacappāṉai), <supplied reason="subaudible">consisting of</supplied> two hundred and ninety-five <foreign>kaḻañcu</foreign>s and a quarter of gold.</p>
+	
+	<p n="§19">One swan (aṉṉam), <supplied reason="subaudible">consisting of</supplied> ninety-eight <foreign>kaḻañcu</foreign>s and a quarter of gold.</p>
+	
+	<p n="§20">One parrot (kiḷi), the gold of which weighed thirty-four <foreign>kaḻañcu</foreign>s, nine <foreign>mañcāṭi</foreign>s and (one) <foreign>kuṉṟi</foreign>,—including two precious stones set into the eyes.</p>
+	
+	<p n="§21">One handle for a white cāmara (veṇ-cāmarai), <supplied reason="subaudible">consisting of</supplied> nineteen <foreign>kaḻañcu</foreign>s and three quarters of gold.</p>
+	
+	<p n="§22">One handle for a white cāmara, <supplied reason="subaudible">consisting of</supplied> nineteen <foreign>kaḻañcu</foreign>s and a half and two <foreign>mañcāṭi</foreign>s of gold.</p>
+	
+	<p n="§23">One handle for a fly-whisk (īccōppi), <supplied reason="subaudible">consisting of</supplied> twenty <foreign>kaḻañcu</foreign>s of gold.</p>
+	
+	<p n="§24">One handle for a fly-whisk, <supplied reason="subaudible">consisting of</supplied> nineteen <foreign>kaḻañcu</foreign>s and a half of gold.</p>
+	
+	<p n="§25">One sacred crown (makuṭam), <supplied reason="subaudible">consisting of</supplied> two hundred and seventy-five <foreign>kaḻañcu</foreign>s and a half of gold.</p>
+	
+	<p n="§26">One hundred and sixty-five sacred gold flowers (tiruppoṟpū), consisting of eight hundred and twenty-five <foreign>kaḻañcu</foreign>s of gold,—each sacred gold flower <supplied reason="subaudible">consisting of</supplied> five <foreign>kaḻañcu</foreign>s of gold.</p>
+	
+	<p n="§27">Thirty-five sacred gold flowers, consisting of one hundred and seventy-four <foreign>kaḻañcu</foreign>s, two <foreign>mañcāṭi</foreign>s and (one) <foreign>kuṉṟi</foreign> of gold,—each sacred gold flower <supplied reason="subaudible">consisting of</supplied> four <foreign>kaḻañcu</foreign>s and three quarters, four <foreign>mañcāṭi</foreign>s and (one) <foreign>kuṉṟi</foreign> of gold.</p>
+	
+	<p n="§28">One pendant <supplied reason="explanation"><foreign>tūkkam</foreign></supplied>, <supplied reason="subaudible">consisting of</supplied> twenty-nine <foreign>kaḻañcu</foreign>s and a half of gold.</p>
+	
+	<p n="§29">One pair of sacred ear-rings <supplied reason="explanation"><foreign>tiru-vāḷi</foreign></supplied>, consisting of six <foreign>kaḻañcu</foreign>s, eight <foreign>mañcāṭi</foreign>s and (one) <foreign>kuṉṟi</foreign> of gold.</p>
+																				
+	<p n="§30"> One pair of double sacred uṛuttu,<note>fn28</note> consisting of ten <foreign>kaḻañcu</foreign>s and (one) <foreign>mañcāṭi</foreign> of gold.</p>
+	
+	<p n="§31">One pair of sacred ear-rings <supplied reason="explanation"><foreign>tirukkampi</foreign></supplied>, consisting of fourteen <foreign>kaḻañcu</foreign>s and three quarters, (one) <foreign>mañcāṭi</foreign> and (one) <foreign>kuṉṟi</foreign> of gold.</p>
+		
+	<p n="§32">One string <supplied reason="explanation"><foreign>vaṭam</foreign></supplied> of beads for the marriage-badge (tāli-maṇi), set with diamonds (vayiram), consisting of eleven <foreign>kaḻañcu</foreign>s and (one) <foreign>mañcāṭi</foreign> of gold,—including one hundred and fifty-seven beads for the marriage-badge, •••• four paṭukaṇs, four kaḷḷippūs, one kokkuvāy and two square diamonds (cavakkam).<note>fn29</note></p>
+		
+	<p n="§33">33. One necklace (kaṇṭa-tuṭar) of three (chains) soldered into one, <supplied reason="subaudible">consisting of</supplied> sixty-two <foreign>kaḻañcu</foreign>s of gold.</p>
+		
+	<p n="§34">One outer chain (? puṟattuṭar), including (one) paṭukaṇ, (one) kaḷḷippū and (one) kokkuvāy,—<supplied reason="subaudible">consisting of</supplied> twenty-four <foreign>kaḻañcu</foreign>s and a half, two <foreign>mañcāṭi</foreign>s and (one) <foreign>kuṉṟi</foreign> of gold.</p>
+		
+	<p n="§35">One cāyalam of diamonds <supplied reason="explanation"><foreign>vayiram</foreign></supplied>, <supplied reason="subaudible">containing</supplied> one hundred and twenty-two <foreign>kaḻañcu</foreign>s and three quarters of gold.</p>
+		
+	<p n="§36">One pair of poṭṭu <note>fn3</note> for the arms of the goddess, <supplied reason="subaudible">consisting of</supplied> ninety <foreign>kaḻañcu</foreign>s and a half of gold.</p>
+		
+	<p n="§37">One pair of bracelets <supplied reason="explanation"><foreign>kaṭaka</foreign></supplied> for the arms of the goddess, <supplied reason="subaudible">consisting of</supplied> fifty-six <foreign>kaḻañcu</foreign>s, two <foreign>mañcāṭi</foreign>s and (one) <foreign>kuṉṟi</foreign> of gold.</p>
+		
+	<p n="§38">One pair of rings for the arms of the goddess (tirukkaikkāṟai),fn31 with clawsfn32 (engraved) on the outside (? ukirppuṟavaṉ), <supplied reason="subaudible">consisting of</supplied> one hundred and fifty <foreign>kaḻañcu</foreign>s and a half of gold.</p>
+		
+	<p n="§39">One wrought girdle <supplied reason="explanation"><foreign>toḻil-paṭṭikai</foreign></supplied>, <supplied reason="subaudible">consisting of</supplied> three hundred and forty-four <foreign>kaḻañcu</foreign>s of gold.</p>
+		
+	<p n="§40">One pair of rings for the feet of the goddess (tiruvaṭikkāṟai), with claws (engraved) on the outside, <supplied reason="subaudible">consisting of</supplied> one hundred and fifty <foreign>kaḻañcu</foreign>s and a quarter of gold.</p>
+		
+	<p n="§41">One pair of śāyala for the feet (pāda-śāyala),fn33 <supplied reason="subaudible">consisting of</supplied> one hundred and nine <foreign>kaḻañcu</foreign>s and a half of gold.</p>
+		
+	<p n="§42">Ten rings for the toes of the goddess (tirukkāl-mōtiram), consisting of fourteen <foreign>kaḻañcu</foreign>s and three quarters, two <foreign>mañcāṭi</foreign>s and (one) <foreign>kuṉṟi</foreign> of gold.</p>
+		
+	<p n="§43">To (the goddess) Umāparameśvarī, who is the consort of our lord Tañcai-Viṭaṅkar, <supplied reason="subaudible">she</supplied> gave:—</p>
+		
+	<p n="§44">One plate (taḷikai), <supplied reason="subaudible">consisting of</supplied> four hundred and forty-eight <foreign>kaḻañcu</foreign>s and four <foreign>mañcāṭi</foreign>s of gold.</p>
+		
+	<p n="§45">One bowl (maṇṭai), <supplied reason="subaudible">consisting of</supplied> two hundred and ninety-six <foreign>kaḻañcu</foreign>s and a half of gold.</p>
+			
+	<p n="§46">One ōṭṭu-vaṭṭil, <supplied reason="subaudible">consisting of</supplied> one hundred and ninety-seven <foreign>kaḻañcu</foreign>s and three quarters of gold.</p>
+		
+	<p n="§47">One tavukkai, <supplied reason="subaudible">consisting of</supplied> one hundred and forty-eight <foreign>kaḻañcu</foreign>s and nine <foreign>mañcāṭi</foreign>s of gold.</p>
+		
+	<p n="§48">One censer (kalacappāṉai), <supplied reason="subaudible">consisting of</supplied> two hundred and ninety-five <foreign>kaḻañcu</foreign>s, seven <foreign>mañcāṭi</foreign>s and (one) <foreign>kuṉṟi</foreign> of gold.</p>
+		
+	<p n="§49">One pot (kalacam), <supplied reason="subaudible">consisting of</supplied> one hundred and ninety-six <foreign>kaḻañcu</foreign>s and a half of gold.</p>
+		
+	<p n="§50">One pot, <supplied reason="subaudible">consisting of</supplied> one hundred and ninety-seven <foreign>kaḻañcu</foreign>s and a quarter of gold.</p>
+		
+	<p n="§51">One pot, <supplied reason="subaudible">consisting of</supplied> one hundred and ninety-seven <foreign>kaḻañcu</foreign>s and eight <foreign>mañcāṭi</foreign>s of gold.</p>
+		
+	<p n="§52">One chunnam box (kaṟaṇṭikaicceppu), <supplied reason="subaudible">consisting of</supplied> one hundred and ninety-eight <foreign>kaḻañcu</foreign>s and a quarter of gold.</p>			
+		
+	<p n="§53">One handle for a white cāmara (veṇ-cāmarai), <supplied reason="subaudible">consisting of</supplied> nineteen <foreign>kaḻañcu</foreign>s and a half and four <foreign>mañcāṭi</foreign>s of gold.</p>
+		
+	<p n="§54">One handle for a fly-whisk (īccōppi), <supplied reason="subaudible">consisting of</supplied> nineteen <foreign>kaḻañcu</foreign>s and a half and (one) <foreign>mañcāṭi</foreign> of gold.</p>
+		
+	<p n="§55">Forty-eight sacred gold flowers (tiruppoṟpū), consisting of two hundred and forty <foreign>kaḻañcu</foreign>s of gold,—each sacred gold flower <supplied reason="subaudible">consisting of</supplied> five <foreign>kaḻañcu</foreign>s of gold.</p>
+	
+	<p n="§56">Seventy-two sacred gold flowers, consisting of three hundred and fifty-eight <foreign>kaḻañcu</foreign>s and four <foreign>mañcāṭi</foreign>s of gold,—each sacred gold flower <supplied reason="subaudible">consisting of</supplied> four <foreign>kaḻañcu</foreign>s and three quarters, four <foreign>mañcāṭi</foreign>s and (one) <foreign>kuṉṟi</foreign> of gold.</p>
+	
+	<p n="§57">Six sacred gold flowers, consisting of twenty-nine <foreign>kaḻañcu</foreign>s and a half and four <foreign>mañcāṭi</foreign>s of gold,—each sacred gold flower <supplied reason="subaudible">consisting of</supplied> four <foreign>kaḻañcu</foreign>s and three quarters and four <foreign>mañcāṭi</foreign>s of gold.</p>
+	
+	<p n="§58">Three sacred gold flowers, consisting of fourteen <foreign>kaḻañcu</foreign>s and three quarters and (one) <foreign>kuṉṟi</foreign> of gold,—each sacred gold flower <supplied reason="subaudible">consisting of</supplied> four <foreign>kaḻañcu</foreign>s and three quarters, three <foreign>mañcāṭi</foreign>s and (one) <foreign>kuṉṟi</foreign> of gold.</p>
+	
 	<p n="§59">One sacred gold flower, <supplied reason="subaudible">consisting of</supplied> four <foreign>kaḻañcu</foreign>s and three quarters of gold.</p>
 	
 </div>
