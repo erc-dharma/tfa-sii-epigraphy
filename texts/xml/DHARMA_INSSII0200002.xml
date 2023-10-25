@@ -61,13 +61,16 @@
 			<projectDesc>
 				<p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
 			</projectDesc>
-			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
 			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
 					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
 						ERC-DHARMA whose data are open to the public.</p>
 				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
 					<p>Internal URIs using the part prefix to point to person elements in the
 						<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
 				</prefixDef>
@@ -422,9 +425,9 @@
 
 	<p n="§10">On the same day <supplied reason="subaudible">she</supplied> gave one golden receptacle for sacred ashes with lotus-ornaments <supplied reason="explanation"><foreign>puṣkara-patti-maṭal</foreign></supplied>, together with a stand <supplied reason="explanation"><foreign>aṭi</foreign></supplied>,—weighing eighty <foreign>kaḻañcu</foreign>s by the same stone.</p>
 	
-	<p n="§11">On the same day <supplied reason="subaudible">she</supplied> gave one golden chunnam box <supplied reason="explanation"><foreign>kaṟaṇṭikaiccoppu</foreign></supplied>,<note>fn25</note> including <gap reason="lost"/> a bolt <supplied reason="explanation"><foreign>ōṭāṇi</foreign></supplied> and a pin <supplied reason="explanation"><foreign>nilaiyāṇi</foreign></supplied>,—weighing one hundred and ninety-nine <foreign>kaḻañcu</foreign>s by the same stone.</p>
+	<p n="§11">On the same day <supplied reason="subaudible">she</supplied> gave one golden chunnam box <supplied reason="explanation"><foreign>kaṟaṇṭikaiccoppu</foreign></supplied>,<note><foreign>coppu</foreign> is still used as a vulgar form of <foreign>ceppu</foreign>.</note> including <gap reason="lost"/> a bolt <supplied reason="explanation"><foreign>ōṭāṇi</foreign></supplied> and a pin <supplied reason="explanation"><foreign>nilaiyāṇi</foreign></supplied>,—weighing one hundred and ninety-nine <foreign>kaḻañcu</foreign>s by the same stone.</p>
 	
-	<p n="§12">From the twenty-fifth year to the twenty-ninth year <supplied reason="subaudible">of the king's reign</supplied>, the venerable elder sister of Śrī-Rājarājadeva, <supplied reason="subaudible">who was</supplied> the great queen of Vallavaraiyar Vandyadevar, gave to <supplied reason="subaudible">the goddess</supplied> Umāparameśvarī, who is the consort of our lord Āṭavallār Dakṣiṇa-Mēru-Viṭaṅkar, and to <supplied reason="subaudible">the goddess</supplied> Umāparameśvarī, who is the consort of our lord Tañcai-Viṭaṅkar, the following sacred ornaments <supplied reason="explanation"><foreign>ābharaṇa</foreign></supplied>, emblems <supplied reason="explanation"><foreign>cihna</foreign></supplied>, etc., of gold, which were weighed by the stone called <supplied reason="subaudible">after</supplied> Āṭavallāṉ and engraved on stone,—excluding those <supplied reason="subaudible">gifts of</supplied> the twenty-fifth year, which had been engraved on the adjacent stones before this <supplied reason="subaudible">part of the inscription</supplied> on the north of this upper tier <supplied reason="explanation"><foreign>jagatippaṭai</foreign></supplied>:—<note>fn26</note></p>
+	<p n="§12">From the twenty-fifth year to the twenty-ninth year <supplied reason="subaudible">of the king's reign</supplied>, the venerable elder sister of Śrī-Rājarājadeva, <supplied reason="subaudible">who was</supplied> the great queen of Vallavaraiyar Vandyadevar, gave to <supplied reason="subaudible">the goddess</supplied> Umāparameśvarī, who is the consort of our lord Āṭavallār Dakṣiṇa-Mēru-Viṭaṅkar, and to <supplied reason="subaudible">the goddess</supplied> Umāparameśvarī, who is the consort of our lord Tañcai-Viṭaṅkar, the following sacred ornaments <supplied reason="explanation"><foreign>ābharaṇa</foreign></supplied>, emblems <supplied reason="explanation"><foreign>cihna</foreign></supplied>, etc., of gold, which were weighed by the stone called <supplied reason="subaudible">after</supplied> Āṭavallāṉ and engraved on stone,—excluding those <supplied reason="subaudible">gifts of</supplied> the twenty-fifth year, which had been engraved on the adjacent stones before this <supplied reason="subaudible">part of the inscription</supplied> on the north of this upper tier <supplied reason="explanation"><foreign>jagatippaṭai</foreign></supplied>:—<note>This clause refers to the first part of the present inscription, which precedes the second part on the west wall and is consequently, with respect to it, situated in the north. Compare [SII 2,] page 11, note 2.</note></p>
 	
 	<p n="§13">To <supplied reason="subaudible">the goddess</supplied> Umāparameśvarī, who is the consort of our lord Āṭavallār Dakṣiṇa-Mēru-Viṭaṅkar, <supplied reason="subaudible">she</supplied> gave:—</p>
 	
@@ -432,7 +435,7 @@
 	
 	<p n="§15">One <foreign>ōṭṭu-vaṭṭil</foreign>, <supplied reason="subaudible">consisting of</supplied> one hundred and ninety-seven <foreign>kaḻañcu</foreign>s and a half of gold.</p>
 	
-	<p n="§16">One <foreign>tavukkai</foreign>,<note>fn27</note> <supplied reason="subaudible">consisting of</supplied> one hundred and forty-seven <foreign>kaḻañcu</foreign>s and six <foreign>mañcāṭi</foreign>s of gold.</p>
+	<p n="§16">One <foreign>tavukkai</foreign>,<note>This word might be connected twith the Kanarese <foreign>tavuku</foreign>, 'a salver, waiter.'</note> <supplied reason="subaudible">consisting of</supplied> one hundred and forty-seven <foreign>kaḻañcu</foreign>s and six <foreign>mañcāṭi</foreign>s of gold.</p>
 	
 	<p n="§17">One <foreign>tavukkai</foreign>, <supplied reason="subaudible">consisting of</supplied> one hundred and forty-six <foreign>kaḻañcu</foreign>s and three quarters, <supplied reason="subaudible">one</supplied> <foreign>mañcāṭi</foreign> and <supplied reason="subaudible">one</supplied> <foreign>kuṉṟi</foreign> of gold.</p>
 	
@@ -460,11 +463,11 @@
 	
 	<p n="§29">One pair of sacred ear-rings <supplied reason="explanation"><foreign>tiru-vāḷi</foreign></supplied>, consisting of six <foreign>kaḻañcu</foreign>s, eight <foreign>mañcāṭi</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>kuṉṟi</foreign> of gold.</p>
 																				
-	<p n="§30"> One pair of double sacred <foreign>uṛuttu</foreign>,<note>fn28</note> consisting of ten <foreign>kaḻañcu</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>mañcāṭi</foreign> of gold.</p>
+	<p n="§30"> One pair of double sacred <foreign>uṛuttu</foreign>,<note>Compare <foreign>iraṭṭai uḻuttu</foreign> in [SII 2,] No. 8, paragraph 12.</note> consisting of ten <foreign>kaḻañcu</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>mañcāṭi</foreign> of gold.</p>
 	
 	<p n="§31">One pair of sacred ear-rings <supplied reason="explanation"><foreign>tirukkampi</foreign></supplied>, consisting of fourteen <foreign>kaḻañcu</foreign>s and three quarters, <supplied reason="subaudible">one</supplied> <foreign>mañcāṭi</foreign> and <supplied reason="subaudible">one</supplied> <foreign>kuṉṟi</foreign> of gold.</p>
 		
-	<p n="§32">One string <supplied reason="explanation"><foreign>vaṭam</foreign></supplied> of beads for the marriage-badge <supplied reason="explanation"><foreign>tāli-maṇi</foreign></supplied>, set with diamonds <supplied reason="explanation"><foreign>vayiram</foreign></supplied>, consisting of eleven <foreign>kaḻañcu</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>mañcāṭi</foreign> of gold,—including one hundred and fifty-seven beads for the marriage-badge, <gap reason="lost"></gap> four <foreign>paṭukaṇ</foreign>s, four <foreign>kaḷḷippū</foreign>s, one <foreign>kokkuvāy</foreign> and two square diamonds <supplied reason="explanation"><foreign>cavakkam</foreign></supplied>.<note>fn29</note></p>
+	<p n="§32">One string <supplied reason="explanation"><foreign>vaṭam</foreign></supplied> of beads for the marriage-badge <supplied reason="explanation"><foreign>tāli-maṇi</foreign></supplied>, set with diamonds <supplied reason="explanation"><foreign>vayiram</foreign></supplied>, consisting of eleven <foreign>kaḻañcu</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>mañcāṭi</foreign> of gold,—including one hundred and fifty-seven beads for the marriage-badge, <gap reason="lost"/> four <foreign>paṭukaṇ</foreign>s, four <foreign>kaḷḷippū</foreign>s, one <foreign>kokkuvāy</foreign> and two square diamonds <supplied reason="explanation"><foreign>cavakkam</foreign></supplied>.<note>These names of precious stones are not found in the dictionaries. Among them, <foreign>patukaṇ</foreign> means 'the sharpen eye,' <foreign>kaḷḷippū</foreign> 'the flower of the milk-bush,' and <foreign>kokkuvāy</foreign> 'the mouth of the paddy bird;' <foreign>cavakkam</foreign> is probably the same as <foreign>cavukkam</foreign>, 'a square,' and occurs among various kinds of diamonds in [SII 2,] No. 7, paragraph 8.</note></p>
 		
 	<p n="§33">One necklace <supplied reason="explanation"><foreign>kaṇṭa-tuṭar</foreign></supplied> of three <supplied reason="subaudible">chains</supplied> soldered into one, <supplied reason="subaudible">consisting of</supplied> sixty-two <foreign>kaḻañcu</foreign>s of gold.</p>
 		
