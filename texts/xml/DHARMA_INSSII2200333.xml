@@ -40,7 +40,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Endowment of 20 <foreign>kaḻañcu</foreign>s of gold by Muvēntappiṭavūr alias Arunilai Śrī-Kṛṣṇa with the <foreign>ūrar</foreign>s of Vēḷkaḷa Veṇpākkam. Out of the 3 <foreign>kaḻañcu</foreign>s of yearly interest from this gold, 2 are endowed for the recitation of the <foreign>tiruppatiyam</foreign> ("glorious verse"), beginning with the phrase <foreign>kōlanaṟkuḻal</foreign>, on the seventh day of the festival of the temple of Āḻvāṇ (Viṣṇu) in Śrī-Govindapāṭi. The <foreign>tiruppatiyam</foreign> appears to have been composed by Muvēntappiṭavūr alias Kāyavāṉ Arunilai, the donor’s father.</summary>
+						<summary>Endowment of 20 <foreign>kaḻañcu</foreign>s of gold. Out of the 3 <foreign>kaḻañcu</foreign>s of yearly interest from this gold, 2 are endowed for the recitation of the <foreign>tiruppatiyam</foreign> beginning with the phrase <foreign>kōlanaṟkuḻal</foreign>, in Śrī-Govindapāṭi. The <foreign>tiruppatiyam</foreign> appears to have been composed by Muvēntappiṭavūr alias Kāyavāṉ Arunilai, the donor’s father.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -100,23 +100,24 @@
 		cōḻa-<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu vaṭa-karai-p-piṭavūr-nāṭṭu-k kaṇakku <gap reason="lost" quantity="3" unit="character"/><supplied reason="lost">u</supplied>
 		<lb n="5" break="no"/>ṭaiyāṉ Arunilai <hi rend="grantha">śrī-<unclear>kṛ</unclear>ṣṇa</hi>ṉ-āṉa muvēn=ta-p-piṭavūr vē
 		<lb n="6" break="no"/>ḷār kaiyāl yāṅkaḷ koṇṭu kaṭava cempoṉ ta<hi rend="grantha">nma</hi>-ka
-		<lb n="7" break="no"/>ṭṭaḷaiyāl tuḷai <num value="20"> 2 <g type="numeral">10</g></num> Ip-poṉ koṇṭa paric' āvatu
+		<lb n="7" break="no"/>ṭṭaḷaiyāl tuḷai <num value="20"> 2 <g type="numeral">10</g></num> Ip-poṉ koṇṭa paric' āvatu 
 	</p>
 	<p>		
-		Iv-āṭṭai
-		<lb n="8"/>puraṭṭāti mutal kaḻañci<choice><orig>n</orig><reg>ṉ</reg></choice> vā<supplied reason="omitted">y</supplied> tiṅkaḷ iraṇṭum-ā-p policaiyāl ōr āṭ
-		<lb n="9" break="no"/>ṭaikku van=ta po<choice><orig>n</orig><reg>ṉ</reg></choice> 3 {kaḻañcu}<!--symbol, most probably for kaḻañcu; update encoding-->
+		
+		<lb n="8"/>Iv-āṭṭai puraṭṭāti mutal kaḻañci<choice><orig>n</orig><reg>ṉ</reg></choice> vā<supplied reason="omitted">y</supplied> tiṅkaḷ iraṇṭum-ā-p policaiyāl ōr āṭ
+		<lb n="9" break="no"/>ṭaikku van=ta po<choice><orig>n</orig><reg>ṉ</reg></choice> 3 {kaḻañcu}<!--symbol, most probably for kaḻañcu; update encoding, although looks similar to mummākāṇi-->
 	</p>
 	
 	<p>
 		Ip-poṉṉil ivar tam appaṉār kāyāvā<choice><orig>n</orig><reg>ṉ</reg></choice> aru<choice><orig>ṉ</orig><reg>n</reg></choice>i<supplied reason="omitted">lai</supplied>-y-ā
-		<lb n="10" break="no"/>ṉa muvēn=ta-p-piṭavūr vēḷār <hi rend="grantha">śrī-go</hi>vin=ta-pāṭi Āḻvāṉ viṇṇappam ce
+		<lb n="10" break="no"/>ṉa muvēn=ta-p-piṭavūr vēḷār <hi rend="grantha">śrī-go</hi>vin=ta-pāṭi Āḻvāṉ viṇṇappam ce<supplied reason="omitted">yta</supplied>
 		<lb n="11"/>kōlanaṟkuḻal E<choice><orig>ṉ</orig><reg>ṉṉ</reg></choice>um tiruppatiyam Iv-āḷvār tiru-viḻāviṉ Eḻā <choice><orig>ṉ</orig><reg>n</reg></choice>āḷāl<gap reason="lost" quantity="2" unit="character"/>
 		<lb n="12" break="no"/>ṭi-y āṭiṉa pari<hi rend="grantha">dai</hi>-nāyakaṉmārkku Iru-kaḻañcuṅ kēṭppi<choice><orig>cc</orig><reg>tt</reg></choice>a kōyil nampimārkku
 		<lb n="13"/>kaḻañcum Āka policai mu-k-kaḻañcu po<supplied reason="omitted">ṉ</supplied>ṉum <hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>antrāditta</hi>val Āṭṭāṇṭu toṟum ā
 		<lb n="14" break="no"/>ḷvār <hi rend="grantha">śrī-kārya</hi>ñ ceykiṉṟa nampimārē taṇṭi Iṭu<unclear>vi</unclear>ppat' āka<unclear>vum</unclear>
 		</p>
-	<p>
+	
+		<p>
 		Iṭōm ākil
 		<lb n="15"/>tiruvāṇai maṟaiyum paṭṭu tēvaka<hi rend="grantha">nmi</hi>kaḷ tāṅkaḷ ve<gap reason="lost" quantity="4" unit="character"/>ttil tāṅkaḷ vēṇ<unclear>ṭu</unclear><gap reason="lost" quantity="3" unit="character"/>
 		<lb n="16"/>taṇṭam iṭa-p peṟuvārkaḷ ākavu<choice><orig>mm</orig><reg>m</reg></choice>
@@ -132,12 +133,9 @@
 	
 	<p>
 		Ūrār paṇikka I-<hi rend="grantha">śilā</hi>-lēkai veṭṭiṉēṉ
-		<lb n="19"/>Āṟaiyāṉa <hi rend="grantha">śrī-go</hi>vin=ta-pāṭi ācāriya<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ	
+		<lb n="19"/>Āṟaiyāṉa <hi rend="grantha">śrī-go</hi>vin=ta-pāṭi ācāriya<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ Ivai-y eṉ eḻuttu
 	</p>
 	
-	<p>
-		Ivai-y eṉ eḻuttu
-		</p>
 	<p>
 		I
 		<lb n="20" break="no"/>tu <hi rend="grantha">śrī-vaiṣṇa</hi>var<hi rend="grantha"><surplus>r</surplus> irakṣai</hi>	
@@ -182,18 +180,43 @@
 	</p>
 	
 	<p n="1-2">
-		...
+		In the tenth year of the king Rājarāja-kesasari-panma, who broke the vessel <supplied reason="subaudible">at the batlle</supplied> of Kāntaḷūr-cālai... 
 	</p>
 		
 	<p n="2-4">
-		...
+		This is the handwriting of the villagers from Vēḷkaḷa-veṇpākkam, next to  holy Govintapāṭi in Tāmar-nāṭu<gap unit="character" quantity="7" reason="lost"></gap>.The account regarding Piṭavūr-nāṭu, on the northern border of Cōḻa-nāṭu, <supplied reason="subaudible">is the following:</supplied>
 	</p>
-		
-	<p n="19-20">
-		...
-	</p>
-		
 	
+	<p n="4-7">
+		This year, the received gift was this 20 marked <supplied reason="explanation"><foreign>tuḷai</foreign></supplied> <!--are we talking about refined gold or 20 gold coins that have holes=coins?--> gold <supplied reason="subaudible">coins</supplied> because of the endowment order for <supplied reason="subaudible">this</supplied> quality gold under our responsability, fixed by <supplied reason="explanation"><foreign>kaiyāl</foreign></supplied> Arunilai Śrīkṛṣṇaṉ, <hi rend="italic">alias</hi> Muvēnta Piṭavūr, owner <gap unit="character" quantity="3" reason="lost"></gap>.
+	</p>	
+	
+	<p n="7-9">
+		Three <foreign>kaḻañcus</foreign> of gold came each year through interest, being that  one came through yearly interest, the second <supplied reason="subaudible">through</supplied> monthly <supplied reason="subaudible">interest</supplied> and the first <supplied reason="subaudible">of them came</supplied> in the month of Puraṭṭāti.
+	</p>
+	
+	<p n="9-12">	
+		Let the trustees <supplied reason="subaudible">of the temple</supplied>–performers of the holy service <supplied reason="explanation"><foreign>śrīkāryam</foreign></supplied> for the devotees who will gather as long as the sun and the moon last–be appointed as collectors <supplied reason="explanation"><foreign>taṇṭi</foreign></supplied> of the interest of three <foreign>kaḻañcu</foreign>s of gold so that one <foreign>kaḻañcu</foreign> is for the heads of the temple <supplied reason="explanation"><foreign>kōyil nampimār</foreign></supplied> to which they dedicated the holy hymn<supplied reason="explanation"><foreign>kēṭppitta</foreign></supplied> and two <foreign>kaḻañcu</foreign>s for the leaders of the assembly <supplied reason="explanation"><foreign>paridai nāyakaṉmār</foreign></supplied>, who performed <supplied reason="explanation"><foreign>āṭiṉa</foreign></supplied>–on the seventh day of the holy festival– the holy hymn <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied> that begins with <foreign>kōlanaṟkuḻal</foreign>. <supplied reason="subaudible">This holy hymn</supplied> <!--was sung is it sung or composed? Im inclined to think that it is actually composed... That would coincide with the summary of the inscription.  --><supplied reason="explanation"><foreign>viṇṇapam ceyta</foreign></supplied> by the devotee <supplied reason="explanation"><foreign>āḻvāṉ</foreign></supplied> of holy Govintapāṭi, Kāyāvāṉ Arunilai, alias Muvēnta Piṭavūr Vēḷār, also the donor <supplied reason="explanation"><foreign>appaṉār</foreign></supplied> of this gold.	
+	</p>	
+	
+	<p n="14-16">
+		If we appoint <supplied reason="subaudible">them</supplied>, let them be the chosen for receiving the tax<gap reason="lost" quantity="3" unit="character"></gap>, needed for You<gap unit="character" quantity="4" reason="lost"></gap>, the temple managers that, by royal order, keep them hidden. <!--Probably refers to the hiding of the earnings the temple receives. -->
+		</p>
+		
+	<p n="16-17">
+	May we become the designated duty bearers <supplied reason="explanation"><foreign>kaṭavōm</foreign></supplied> of this allowance <supplied reason="explanation"><foreign>nivantam</foreign></supplied> that covers the tax <supplied reason="explanation"><foreign>taṇṇtam</foreign></supplied> imposed by them.
+	</p>
+	
+		<p n="17-18">
+We, the villagers of Vēḷkaḷa-Veṇpākkam, gave to Muvēnta Piṭavūr Vēḷār <supplied reason="subaudible">this endowment</supplied> after agreeing in this way. 
+			I, master of Āṟaiyaṉ of holy Govintapāṭi, am the one who has handwritten in the stone, as indicated by the villagers. 
+	</p>
+		<p n="18-19">
+			I, master of Āṟaiyaṉ of holy Govintapāṭi, am the one who has handwritten in the stone, as indicated by the villagers. It is my writing.
+		</p>
+		<p n="19-20">
+		This is for the protection of the holy vaiṣṇavas.
+		</p>
 </div>
             
 <!--<div type="commentary">
