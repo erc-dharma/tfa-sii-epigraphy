@@ -44,6 +44,9 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
+							<p>
+								Only Fragment 1 refers to the singing as <foreign>tēciy pāṭu</foreign>, and only one instance we find <foreign>tēciya pāṭu</foreign>. Fragment 2 does not record this singing. 
+							</p>
 							<p/>
 						</handDesc>
 					</physDesc>
@@ -283,8 +286,8 @@
 	<div type="textpart" subtype="fragment" n="1">
 	<head xml:lang="eng">Fragment 1</head>
 		
-		<p n="1-6">
-			...
+		<p n="1-2">
+			 <gap reason="lost"/> I have given, so that for the <foreign>bhaṭṭa</foreign>s <supplied reason="explanation"><foreign>paṭṭarkaḷukkum</foreign></supplied>  ...
 		</p>
 		
 	</div>
