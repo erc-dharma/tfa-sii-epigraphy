@@ -102,18 +102,22 @@
 	</p>
 	
 	<p>
-		<lb n="3"/><gap reason="lost" unit="character" quantity="10"/><unclear>y</unclear>ār kōyilil <gap reason="lost" quantity="4" unit="character"/> k-kūṭattē-y Iruntu Uṭaiyār tiru-v-ōlakkam-āy Irukkat tēciy pāṭum kā<hi rend="grantha">śya</hi>paṉ kaṇṭa <unclear>ni</unclear> <gap reason="lost" unit="character" quantity="10"/>			
+		<lb n="3"/><gap reason="lost" unit="character" quantity="10"/><unclear>y</unclear>ār kōyilil <gap reason="lost" quantity="4" unit="character"/> k-kūṭattē-y Iruntu Uṭaiyār tiru-v-ōlakkam-āy Irukkat tēciy pāṭum kā<hi rend="grantha">śya</hi>paṉ kaṇṭa <unclear>ni</unclear> <gap reason="lost" unit="character" quantity="10"/> xEḻupaṇai-tēva<choice><orig>n</orig><reg>ṉ</reg></choice>ukku		
 	</p>
 		
 	<p>
-		<lb n="4"/>Eḻupaṇai-tēva<choice><orig>n</orig><reg>ṉ</reg></choice>ukku Ivaṉ tēciy <unclear>p p</unclear>āṭa tēciy pāṭuvaṟku muṉ kal-veṭṭiṉa nilam vēlipum Ivaṉ 
-				</p>
+		<lb n="4"/> Ivaṉ tēciy <unclear>p p</unclear>āṭa tēciy pāṭuvaṟku muṉ kal-veṭṭiṉa nilam vēli<choice><sic>p</sic><corr>y</corr></choice>um <!--Interesting "mistake": so, it seems that they are mixing the writing of p and y (it should be the case since there are other instances of veliyum in this inscription). What if...they are also confusing the p and the y in teciy patu? That could mean that what we have is nothing more than tēcip patu... -->
+			</p>
 	
 				<p>
-		Eḻupaṇai-tēvaṉukkum Ivaṉ <hi rend="grantha">Anva</hi>yattār<supplied reason="omitted">k</supplied>kum
-		<lb n="5"/>vaḻi vaḻi <hi rend="grantha">candrā</hi>dittaval Ivaṉukku vēli nilam nivan=tam ceytu kuṭukka-v eṉṟu velāl Ivaṉukku nivantañ ceyta nilam-āvatu Uṭaiyār tēvatā
+		Ivaṉ Eḻupaṇai-tēvaṉukkum Ivaṉ <hi rend="grantha">Anva</hi>yattār<supplied reason="omitted">k</supplied>kum
+		<lb n="5"/>vaḻi vaḻi <hi rend="grantha">candrā</hi>dittaval Ivaṉukku vēli nilam nivan=tam ceytu kuṭukka-v eṉṟu ēvalāl Ivaṉukku nivantañ ceyta nilam-āvatu Uṭaiyār tēvatā
 		
-		<lb n="6" break="no"/>ṉam vēṇṇāṭu <unclear>viḷa</unclear>ṅkuṭi-c cōṟ-uṭaiyāṉ patta<unclear>r</unclear> uḷ<unclear>ḷi</unclear>ṭṭa vēliyum In-nilam vēliyum Ivaṉ ātal Ivaṉ <hi rend="grantha">Anva</hi>yattār ātal oruvaṉē-y tēciy pāṭiyu
+		<lb n="6" break="no"/>ṉam vēṇṇāṭu <unclear>viḷa</unclear>ṅkuṭi-c cōṟ-uṭaiyāṉ patta<unclear>r</unclear> uḷ<unclear>ḷi</unclear>ṭṭa vēliyum  
+	</p>
+	
+	<p>				
+					In-nilam vēliyum Ivaṉ ātal Ivaṉ <hi rend="grantha">Anva</hi>yattār ātal oruvaṉē-y tēciy pāṭiyu
 	</p>
 	
 	<p>
@@ -305,11 +309,13 @@
 		</p>
 		
 		<p n="3">			
-			Kaśyapan Kaṇṭa, singer of folk songs <supplied reason="explanation"><foreign>tēciy pāṭum</foreign></supplied> while sitting at the assembly hall of the Lord dwelling in the shrine <gap reason="lost"/> in the temple of the Lord <supplied reason="lost">of Tiruviṭaimarutu</supplied><gap reason="lost"/>
+			For Eḻupaṇai Tēvaṉ<gap reason="lost"/> Kaśyapan Kaṇṭa, singer of folk songs <supplied reason="explanation"><foreign>tēciy pāṭum</foreign></supplied> while sitting at the assembly hall <supplied reason="explanation"><foreign>tiruvōlakkam</foreign></supplied> of the Lord dwelling in the shrine <gap reason="lost"/> in the temple of the Lord <supplied reason="lost">of Tiruviṭaimarutu</supplied><gap reason="lost"/>
 		</p>
 		
 		<p n="4">
-			<gap reason="ellipsis"/>
+			The <foreign>vēli</foreign> of land for Eḻupaṇai Tēvaṉ that was previously inscribed on stone for singing tēci <supplied reason="subaudible"><foreign>songs</foreign></supplied> performed <supplied reason="subaudible">during the dance</supplied> of tēci.
+			
+		<!--I take Palaniappan's reading 327 fn. 39: acc. to him, this style of dance is already present in a commentary on Cilappatikaram. It could be interpreted that the land was meant for the singer who sang these teci songs during the performance of the teci dance.  However, why giving endowments for the singer and omitting the performers altoghether?-->
 		</p>
 		
 		<p n="4-6">
@@ -322,7 +328,7 @@
 	<head xml:lang="eng">Fragment 2</head>
 			
 			<p n="1-2">
-			 <gap reason="lost"/> I have given, so that for the <foreign>bhaṭṭa</foreign>s <supplied reason="explanation"><foreign>paṭṭarkaḷukkum</foreign></supplied>  ...
+			 <gap reason="lost"/>  FRAGMENT II I have given, so that for the <foreign>bhaṭṭa</foreign>s <supplied reason="explanation"><foreign>paṭṭarkaḷukkum</foreign></supplied>  ...
 		</p>
 		
 		<p n="2-4">
@@ -331,14 +337,15 @@
 			this is the manner <supplied reason="explanation"><foreign>paricu āvatu</foreign></supplied> in which <gap reason="lost"/>
 		</p>
 		
-		<p n="4-5">
-			... 
-			
-			...
+		<p n="4">
+		....
+		
+		FRAGMENT II
+		. 
 		</p>
 		
 		<p n="5">
-			...
+			...FRAGMENT II
 		</p>
 		
 		<p n="5-6">
@@ -350,7 +357,7 @@
 		</p>
 		
 		<p n="6-7">
-			...
+			FRAGMENT II
 		</p>
 		
 		<p n="7">
