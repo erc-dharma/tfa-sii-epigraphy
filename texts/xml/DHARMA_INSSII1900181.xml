@@ -95,16 +95,17 @@
 	<p>
 		<lb n="1"/><gap reason="lost" unit="character" quantity="8"/> <supplied reason="lost">tiru</supplied>-viṭai-<unclear>marut-u</unclear>ṭaiyār <hi rend="grantha">śrī-kārya</hi>m <unclear>ceyyum A</unclear>tikārikaḷ maturānta<supplied reason="lost">ka-mu</supplied>vēnta-vēḷārum tiru-viṭaimarut-uṭaiyār tēvaka
 		<lb n="2" break="no"/><supplied reason="lost">ṉmi</supplied> <gap reason="lost" quantity="8" unit="character"/> 
-		</p>
+	</p>
 	
-		<p>
-		<hi rend="grantha">sabhai</hi><gap reason="lost" unit="character" quantity="10"/> <supplied reason="lost">na</supplied>mpirāṭtiyār <gap reason="lost" quantity="4" unit="character"/> <hi rend="grantha">mābha<choice><orig><unclear>ṭā</unclear></orig><reg>ṭṭa</reg></choice></hi><unclear>raki</unclear>yār<supplied reason="lost">k</supplied>kāy tiruviṭaimarut-uṭaiyā<unclear>rk</unclear>ku kaṇkāṇi-kaṇakku Uṭaiya nampi na<gap reason="lost" extent="unknown" unit="character"/> 
-		</p>
-		<p>
-		<lb n="3"/><gap reason="lost" unit="character" quantity="10"/><unclear>y</unclear>ār kōyilil <gap reason="lost" quantity="4" unit="character"/> k-kūṭattē-y Iruntu Uṭaiyār tiru-v-ōlakkam-āy Irukkat tēciy pāṭum kā<hi rend="grantha">śya</hi>paṉ kaṇṭa <unclear>ni</unclear> <gap reason="lost" unit="character" quantity="10"/>
-			</p>
+	<p>
+		<hi rend="grantha">sabhai</hi><gap reason="lost" unit="character" quantity="10"/> <supplied reason="lost">na</supplied>mpirāṭtiyār <gap reason="lost" quantity="4" unit="character"/> <hi rend="grantha">mā-bha<choice><orig><unclear>ṭ</unclear></orig><reg>ṭṭ</reg></choice>ā</hi><unclear>raki</unclear>yār<supplied reason="lost">k</supplied>k' āy tiruviṭaimarut-uṭaiyā<unclear>rk</unclear>ku kaṇkāṇi-kaṇakku Uṭaiya nampi na<gap reason="lost" extent="unknown" unit="character"/> 
+	</p>
 	
-			<p>
+	<p>
+		<lb n="3"/><gap reason="lost" unit="character" quantity="10"/><unclear>y</unclear>ār kōyilil <gap reason="lost" quantity="4" unit="character"/> k-kūṭattē-y Iruntu Uṭaiyār tiru-v-ōlakkam-āy Irukkat tēciy pāṭum kā<hi rend="grantha">śya</hi>paṉ kaṇṭa <unclear>ni</unclear> <gap reason="lost" unit="character" quantity="10"/>			
+	</p>
+		
+	<p>
 		<lb n="4"/>Eḻupaṇai-tēva<choice><orig>n</orig><reg>ṉ</reg></choice>ukku Ivaṉ tēciy <unclear>p p</unclear>āṭa tēciy pāṭuvaṟku muṉ kal-veṭṭiṉa nilam vēlipum Ivaṉ 
 				</p>
 	
@@ -296,11 +297,23 @@
 	<head xml:lang="eng">Fragment 1</head>
 		
 		<p n="1-2">
-			<gap reason="lost"/>manager of the temple of the Lord of Tiruviṭaimarutu, Maturāntaka Muvēnta Vēḷār, superintendent in charge of the temple <supplied reason="explanation"><foreign>śrīkāryam ceyyum</foreign></supplied> of the Lord of Tiruviṭaimarutu <gap reason="lost"/> the queen <gap reason="lost"/> assembly <gap reason="lost"/>
+			<gap reason="lost"/> Maturāntaka Muvēnta Vēḷār, the superintendent <supplied reason="explanation"><foreign>aṭikārikaḷ</foreign></supplied> who does the sacred service <supplied reason="explanation"><foreign>śrīkāryam ceyyum</foreign></supplied> <supplied reason="subaudible">for</supplied> the Lord of Tiruviṭaimarutu, and the manager <supplied reason="explanation"><foreign>tēvakaṉmi</foreign></supplied> <supplied reason="subaudible">of the temple</supplied> of the Lord of Tiruviṭaimarutu <gap reason="lost"/>
 		</p>
 		
 		<p n="2-3">
-			Kaśyapan Kaṇṭa, singer of folk songs <supplied reason="explanation"><foreign>tēciy pāṭum</foreign></supplied> while sitting at the assembly hall of the Lord dwelling in the shrine <gap reason="lost"/> in the temple of the Lord <supplied reason="lost">of Tiruviṭaimarutu</supplied><gap reason="lost"/> the accountant who oversees <supplied reason="subaudible">the temple of</supplied> Lord of Tiruviṭaimarutu <gap reason="lost"/>, accountant who oversees the temple of the Lord of Tiruviṭaimarutu for the goddess <supplied reason="explanation"><foreign>mā</foreign></supplied> Bhaṭṭaraki <gap reason="lost"/> queen of <gap reason="lost"/> assembly hall <gap reason="lost"/>.
+			the assembly <gap reason="lost"/> the queen, the great goddess <supplied reason="explanation"><foreign>mābhaṭṭārakiyar</foreign></supplied> <gap reason="lost"/>
+		</p>
+		
+		<p n="3">			
+			Kaśyapan Kaṇṭa, singer of folk songs <supplied reason="explanation"><foreign>tēciy pāṭum</foreign></supplied> while sitting at the assembly hall of the Lord dwelling in the shrine <gap reason="lost"/> in the temple of the Lord <supplied reason="lost">of Tiruviṭaimarutu</supplied><gap reason="lost"/>
+		</p>
+		
+		<p n="4">
+			<gap reason="ellipsis"/>
+		</p>
+		
+		<p n="4-6">
+			the accountant who oversees <supplied reason="subaudible">the temple of</supplied> Lord of Tiruviṭaimarutu <gap reason="lost"/>, accountant who oversees the temple of the Lord of Tiruviṭaimarutu for the goddess <supplied reason="explanation"><foreign>mā</foreign></supplied> Bhaṭṭaraki <gap reason="lost"/> queen of <gap reason="lost"/> assembly hall <gap reason="lost"/>.
 		</p>
 		
 	</div>
