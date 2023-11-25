@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruviṭaimarutūr, Māhaliṅgasvāmin temple, time of Kulottuṅga Cōḻa II, year 9, south wall, second prākāra</title>
+				<title>Tiruviṭaimarutūr, Māhaliṅgasvāmin temple, time of Kulottuṅga Cōḻa II, year 9</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:reda">
@@ -40,7 +40,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Kulottuṅga II Cōḻa gives endowment of one <foreign>kāṇi</foreign> to a <foreign>pāṇaṉ</foreign> (probably the head of a group of singers) so that he appoints other <foreign>pāṇar</foreign>s to sing, trains of temple-dancing girls and so that he sings to the Lord of Tiruviṭaimarutūr. For his services, he received as <foreign>tēvatāṉam</foreign> gold, paddy, a house, and a land precisely measured.</summary>
+						<summary>Endowment, by royal order (of Kulottuṅga II Cōḻa), of <foreign>pāṇa-p-peṟu</foreign> and <foreign>pāṇa-k-kāṇi</foreign> to a <foreign>pāṇaṉ</foreign> (probably the head of a group of singers) so that he sings to the Lord of Tiruviṭaimarutūr, appoints other <foreign>pāṇar</foreign>s to sing, and trains temple-dancing girls. The endowment consists in gold, paddy produced from a minutely measured land, and a house-site.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -91,7 +91,7 @@
 		<l n="2">tāmu<choice><orig>n</orig><reg>ñ</reg></choice> ce<unclear>y</unclear>tavattā<unclear>l</unclear> paruti-<unclear>va</unclear>ḻi-t tōṉṟi</l>
 		<l n="3">ne<unclear>ṭu</unclear>māl i<unclear>va</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> eṉa cuṭarmuṭi cūṭi</l>
 		<l n="4">Irunila makaḷai Urimaiyil puṇarn=tu</l>
-		<l n="5"> tirumakaḷ paṇaimulai ceñcān ta<choice><orig>ṇ</orig><reg>ḷ</reg></choice>aintu</l>
+		<l n="5">tirumakaḷ paṇaimulai ceñcān ta<choice><orig>ṇ</orig><reg>ḷ</reg></choice>aintu</l>
 		<l n="6">parumaṇi Āram pa<choice><orig>n</orig><reg>ṉ</reg></choice>ivarai nikaṟpa</l>
 		<l n="7"><hi rend="grantha">ja</hi>yamakaḷ ceḻu<choice><orig>m</orig><reg>ñ</reg></choice>-cantaṉa-c cuvaṭṭāl</l>
 		<l n="8">puyam irukaiyi<lb n="2" break="no"/>lai-p <unclear>p</unclear>orupp-eṉa-t tōṉṟi</l>
@@ -108,7 +108,7 @@
 		<l n="19">Umpar i-yānai Ōr-eṭṭiṉukkum</l>
 		<l n="20">tampam eṉ<choice><orig>n</orig><reg>ṉ</reg></choice>a-t ta<choice><orig>n</orig><reg>ṉ</reg></choice>itta<choice><orig>n</orig><reg>ṉ</reg></choice>i ticai-toṟum</l>
 		<l n="21">vicai<supplied reason="omitted">ya</supplied><hi rend="grantha">stambha</hi> niṟpa-p pacipa<unclear>k</unclear>ai</l>
-		<l n="22">ā<unclear>tiy</unclear>ākiya vīcu taṇ-puṉalum</l>
+		<l n="22">Ā<unclear>tiy</unclear>ākiya vīcu taṇ-puṉalum</l>
 		<l n="23"> mēti<choice><orig>n</orig><reg>ṉ</reg></choice>i vaḷaṉum <hi rend="grantha">jā</hi>ti-y oḻukkamum</l>
 		<l n="24">nīti-y aṟamuma piṟaḻātu nikaḻa</l>
 		<l n="25">pāvum paḻa-p parappum <lb n="4"/>paṇaikkai</l>
@@ -118,34 +118,34 @@
 		<l n="29">ciṟai-y e<choice><orig>n</orig><reg>ṉ</reg></choice>a-p-paṭutal iṉṟi pallavar teluṅkar</l>
 		<l n="30">māḷavar kaliṅkar teṉ<choice><orig>n</orig><reg>ṉ</reg></choice>ar kaṭārar coḷar </l>
 		<l n="31">ciṅkaḷar toṅkaṇar <hi rend="grantha"><unclear>srī</unclear>-hasta</hi>r aṅka<supplied reason="omitted">r</supplied></l>
-		<l n="32">vaṅka<unclear>ra</unclear>r mattam-attirar ka<unclear>ṅ</unclear>kar <hi rend="grantha">jō</hi><choice><orig>n</orig><reg>ṉ</reg></choice>a<lb n="5" break="no"/>kar</l>
-		<l n="33">kaikayar <hi rend="grantha">jī</hi><choice><orig>n</orig><reg>ṉ</reg></choice>ar eṉṟ-</l>
-		<l n="34">aṟaikaḻal vēntar mallāvar-acarum-</l>
-		<l n="35">uṟaimaiyil varinta tiṟaiku<unclear>ṇan</unclear> tiṟai=ñca</l>
-		<l n="36">ampo<choice><orig>n</orig><reg>ṉ</reg></choice> malaṟko<unclear>ṭi</unclear> cempiya<choice><orig>n</orig><reg>ṉ</reg></choice>kiḻā<unclear>naṭi</unclear>-y</l>
-		<l n="37">orumaruṅ kuṭa namar nat’ iruppa Aruḷpuri</l>
+		<l n="32">vaṅka<unclear>ra</unclear>r mattam-attirar ka<unclear>ṅ</unclear>kar <hi rend="grantha">jo</hi><choice><orig>n</orig><reg>ṉ</reg></choice>a<lb n="5" break="no"/>kar</l>
+		<l n="33">kaikayar <hi rend="grantha">jī</hi><choice><orig>n</orig><reg>ṉ</reg></choice>ar eṉṟ'</l>
+		<l n="34">aṟaikaḻal vēntar mallāva racarum</l>
+		<l n="35">uṟaimaiyil varinta tiṟaiku<unclear>ṇan</unclear> tiṟai<choice><sic>n=t</sic><corr>ñc</corr></choice>a</l>
+		<l n="36">Ampo<choice><orig>n</orig><reg>ṉ</reg></choice> malaṟko<unclear>ṭi</unclear> cempiya<choice><orig>n</orig><reg>ṉ</reg></choice> kiḻā<unclear>naṭi</unclear>-y</l>
+		<l n="37">orumaruṅ kuṭa namarnt’ iruppa Aruḷpuri</l>
 		<l n="38">camaiya-p poṟkōṭi-y imaiya-p-pāvaiyum</l>
 		<l n="39">civa<choice><orig>n</orig><reg>ṉ</reg></choice>um pōl puva<unclear>na</unclear> muḻut-uṭai-</l>
-		<l n="40">yā<unclear>ḷ</unclear>-ḷōṭum viṟṟiruntaruḷiya</l>
+		<l n="40">yā<unclear>ḷ</unclear>-ḷōṭum v<choice><orig>i</orig><reg>ī</reg></choice>ṟṟ-irunt-aruḷiya</l>
 	</lg>
 	
 	<p>
-		kō-v-i<hi rend="grantha">rāja</hi>kecaripa<hi rend="grantha">tma</hi>r-āna <hi rend="grantha">tribhuvanacakra</hi>var<hi rend="grantha">ti</hi>kaḷ <hi rend="grantha">śrī</hi>-kulottuṅ
+		kō-v-i<hi rend="grantha">rāja</hi>kecari-pa<hi rend="grantha">tma</hi>r-āna <hi rend="grantha">tribhuvana-cakra</hi>var<hi rend="grantha">ti</hi>kaḷ <hi rend="grantha">śrī</hi>-kulottuṅ
 		<lb n="6" break="no"/>ka-<hi rend="grantha">c<unclear>ō</unclear>ḷa-de</hi>vaṟku yāṇṭu 9		
 		Āvatu</p>
 	
 	<p>
-		mutal kāṇi peṟṟa paṭikku pāṇa<unclear>ṉ</unclear> Iru-muṭi-cōḻa<choice><orig>n</orig><reg>ṉ</reg></choice> pirā<choice><orig>n</orig><reg>ṉ</reg></choice>-āṉa Acañcala-p pēraya<unclear>ṅ</unclear><choice><orig>n</orig><reg>ṉ</reg></choice>ukku Uyyakkoṇṭ<supplied reason="omitted">ā</supplied>r<unclear>-va</unclear>ḷanāṭṭu tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu Uṭ<unclear>ai</unclear>yār tiruviṭaimarut-uṭaiyāṟku pāṭavum Ik-kōyilil taḷiyillār tēv<unclear>ā</unclear>raṭiyārai <unclear>p</unclear>āṭṭuvikkavum pāṇarai Iṭa-k kaṭava<unclear>n</unclear><choice><orig>n</orig><reg>ṉ</reg></choice>-āka Iva<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum iva<choice><orig>n</orig><reg>ṉ</reg></choice> va<unclear>ṅ</unclear>
-		<lb n="7" break="no"/><hi rend="grantha">śa</hi>ttāṟkum Ik-kōyil pāṇpeṟ-āka mu<choice><orig>n</orig><reg>ṉ</reg></choice>pu peṟṟu varum kācum nellum uḷpaṭa yāṇṭu Onpat-āvatu mutal nāḷ o<choice><orig>n</orig><reg>ṉ</reg></choice>ṟukku ūr-k-kā<unclear>l</unclear>lāl nel kalam-āka vanta nellu Ik-kōyilil pala-paṇi nivanta-<unclear>k</unclear>-kā<choice><orig>ṟ</orig><reg>r</reg></choice>arōṭuṅ kūṭa nivantaṅ kaṭṭi 
+		mutal kāṇi peṟṟa paṭikku pāṇa<unclear>ṉ</unclear> Iru-muṭi-cōḻa<choice><orig>n</orig><reg>ṉ</reg></choice> pirā<choice><orig>n</orig><reg>ṉ</reg></choice>-āṉa Acañcala-p pēraya<unclear>ṅ</unclear><choice><orig>n</orig><reg>ṉ</reg></choice>ukku Uyyakkoṇṭ<supplied reason="omitted">ā</supplied>r-<unclear>va</unclear>ḷanāṭṭu tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu Uṭ<unclear>ai</unclear>yār tiruviṭaimarut-uṭaiyāṟku pāṭavum Ik-kōyilil taḷiyillār tēv<unclear>ā</unclear>raṭiyārai <unclear>p</unclear>āṭṭuvikkavum pāṇarai Iṭa-k kaṭava<unclear>n</unclear><choice><orig>n</orig><reg>ṉ</reg></choice>-āka Iva<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum iva<choice><orig>n</orig><reg>ṉ</reg></choice> va<unclear>ṅ</unclear>
+		<lb n="7" break="no"/><hi rend="grantha">śa</hi>ttāṟkum Ik-kōyil pāṇapeṟ-āka mu<choice><orig>n</orig><reg>ṉ</reg></choice>pu peṟṟu varum kācum nellum uḷpaṭa yāṇṭu Onpat-āvatu mutal nāḷ O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟukku ūr-k-kā<unclear>l</unclear>lāl nel kalam-āka vanta nellu Ik-kōyilil pala-paṇi nivanta-<unclear>k</unclear>-kā<choice><orig>ṟ</orig><reg>r</reg></choice>arōṭuṅ kūṭa nivantaṅ kaṭṭi 
 	
-	In-nelukku vēṇṭum nilam mu<choice><orig>nn</orig><reg>ṉṉ</reg></choice>-uṭaiyārai tavirttu It-tēvar tēvatā<choice><orig>n</orig><reg>ṉ</reg></choice>am-āna
+	In-nelukku vēṇṭum nilam mu<choice><orig>nn</orig><reg>ṉṉ</reg></choice>-uṭaiyārai tavirttu It-tēvar tēvatā<choice><orig>n</orig><reg>ṉ</reg></choice>am-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a
 	
 		ūr
-		<lb n="8" break="no"/>ka<unclear>ḷ</unclear>ḷi<unclear>l</unclear>lē pāṇ-kāṇiyum  nila-<hi rend="grantha">j<choice><orig>i</orig><reg>ī</reg></choice></hi>vitamum<unclear>-āka A</unclear>ṭaittu mu<choice><orig>n</orig><reg>ṉ</reg></choice>pu pāṇar kuṭi-y-irupp-ā<choice><orig>n</orig><reg>ṉ</reg></choice> maṉaiyum Iva<choice><orig>n</orig><reg>ṉ</reg></choice>ukku viṭṭu Ippaṭikku kalv<unclear>e</unclear>ṭṭi koḷvat' āka Onpat-āvatu mutal <hi rend="grantha">prasāda</hi>m peṟṟamaikku <hi rend="grantha">prasā</hi>tañ ce<supplied reason="omitted">y</supplied>taruḷi<choice><orig>n</orig><reg>ṉ</reg></choice>a tiru-mukam
+		<lb n="8" break="no"/>ka<unclear>ḷ</unclear>ḷi<unclear>l</unclear>lē pāṇa-kāṇiyum  nila-<hi rend="grantha">j<choice><orig>i</orig><reg>ī</reg></choice></hi>vitamum<unclear>-āka A</unclear>ṭaittu mu<choice><orig>n</orig><reg>ṉ</reg></choice>pu pāṇar kuṭi-y-irupp-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a maṉaiyum Iva<choice><orig>n</orig><reg>ṉ</reg></choice>ukku viṭṭu Ip-paṭikku kalv<unclear>e</unclear>ṭṭi koḷvat' āka Onpat-āvatu mutal <hi rend="grantha">prasāda</hi>m peṟṟamaikku <hi rend="grantha">prasā</hi>tañ ce<supplied reason="omitted">y</supplied>taruḷi<choice><orig>n</orig><reg>ṉ</reg></choice>a tiru-mukam
 	</p>
 	
 	<p>
-		malaiya-p pirāyarum tiru-mantira-Ōlai putukkuṭaiyārum Eḻuttiṭṭa tirumuka-p paṭiyum
+		malaiya-p-pirāyarum tiru-mantira-Ōlai putukkuṭaiyārum Eḻuttiṭṭa tirumuka-p paṭiyum
 	</p>
 	
 		<p>			
@@ -154,14 +154,14 @@
 	</p>
 	
 	<p>
-		It-tēvar <unclear>tē</unclear>vatā<choice><orig>n</orig><reg>ṉ</reg></choice>am-āna Uyyakoṇṭār-va<unclear>ḷa</unclear>-nāṭṭu tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu cempiya<choice><orig>n</orig><reg>ṅ</reg></choice>-kuḷatt-ūril kulōttuṅka-cōḻa-vatikku kiḻakku mu<unclear>ñ</unclear>ci-k kaṇṇāṟṟukku teṟku kiṭāraṅ-koṇṭa-cōḻa-vatikku mēṟku ta<unclear>rā-p</unclear>-paḷḷa-k-kaṇṭattukku vaṭakku naṭuviṟ-kaṇṭattu nilam o<choice><orig>n</orig><reg>ṉ</reg></choice>ṟ-ē mu-k-kāl-ē Arai-k-kāṇi muntirikai k<choice><orig>i</orig><reg>ī</reg></choice>ḻ araiyum
+		It-tēvar <unclear>tē</unclear>vatā<choice><orig>n</orig><reg>ṉ</reg></choice>am-āna Uyyakoṇṭār-va<unclear>ḷa</unclear>-nāṭṭu tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu cempiya<choice><orig>n</orig><reg>ṉ</reg></choice> kuḷattūril kulōttuṅka-cōḻa-vatikku kiḻakku mu<unclear>ñ</unclear>ci-k kaṇṇāṟṟukku teṟku kiṭāraṅ-koṇṭa-cōḻa-vatikku mēṟku ta<unclear>rā-p</unclear>-paḷḷa-k-kaṇṭattukku vaṭakku naṭuviṟ-kaṇṭattu nilam o<choice><orig>n</orig><reg>ṉ</reg></choice>ṟ-ē mu-k-kāl-ē Arai-k-kāṇi muntirikai k<choice><orig>i</orig><reg>ī</reg></choice>ḻ araiyum
 	</p>
 	<p>
 		 Itan teṟku kiṭāraṅ-ko
 		<lb n="11" break="no"/>ṇṭa-cōḻa-vatikku mēṟku <hi rend="grantha">brahma</hi>tēyam tirai<unclear>m</unclear><choice><orig><unclear>u</unclear></orig><reg>ū</reg></choice><choice><orig><unclear>rr</unclear></orig><reg>r</reg></choice> <unclear>ellai</unclear>kku vaṭakku pāmpuṇi kiḻā<choice><orig>n</orig><reg>ṉ</reg></choice> nilattukku kiḻakku nilam mu-k-kāl-ē nālu-mā Arai-k-kāṇi muntirikaiyum Āka
 	</p>
 	<p>
-		nilam Iraṇṭ' araiyē nālu-mā-k kāṇi Arai-k-kāṇi kiḻ araikku nilav-ōpātiyāl<!--check meaning--> nel munnūṟṟu nāṟpa<unclear>t</unclear>t' o<choice><orig>n</orig><reg>ṉ</reg></choice><unclear>pa</unclear>ti<choice><orig>n</orig><reg>ṉ</reg></choice> kala<unclear>ttin</unclear>āl uṟai<unclear>n</unclear>ā<unclear>ḻi</unclear>-y eṟṟi nel munnūṟṟ' aṟu-pati<choice><orig>n</orig><reg>ṉ</reg></choice> kalattukkum		
+		nilam Iraṇṭ' araiyē nālu-mā-k kāṇi Arai-k-kāṇi k<choice><orig>i</orig><reg>ī</reg></choice>ḻ araikku nilav-ōpātiyāl<!--check meaning--> nel munnūṟṟu nāṟpa<unclear>t</unclear>t' o<choice><orig>n</orig><reg>ṉ</reg></choice><unclear>pa</unclear>ti<choice><orig>n</orig><reg>ṉ</reg></choice> kala<unclear>ttin</unclear>āl uṟai<unclear>n</unclear>ā<unclear>ḻi</unclear>-y eṟṟi nel munnūṟṟ' aṟu-pati<choice><orig>n</orig><reg>ṉ</reg></choice> kalattukkum		
 	</p>
 	
 	<p>
@@ -169,8 +169,8 @@
 	</p>
 	
 	<p>
-		yāṇṭu 6-vatu cempiya<choice><orig>n</orig><reg>ṅ</reg></choice>-kuḷatt-ūril tārā-p-paḷḷa-kaṇṭattu p<unclear>ā</unclear>mpuṇi <unclear>ki</unclear>ḻā<choice><orig>n</orig><reg>ṉ</reg></choice> nila<unclear>ttu</unclear>kku kiḻakku mu<choice><orig>n</orig><reg>ṉ</reg></choice><unclear>pu U</unclear>ṟ<unclear>ai</unclear>
-		<lb n="13" break="no"/>nāḻi nellukk-e<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu n<choice><orig>i</orig><reg>ī</reg></choice>kki pi<choice><orig>n</orig><reg>ṉ</reg></choice>pu pukunta ni<unclear>la</unclear>m {8 symbols = fractions}<!-- update encoding of fractions--> Āka
+		yāṇṭu 6-vatu cempiya<choice><orig>n</orig><reg>ṉ</reg></choice> kuḷattūril tārā-p-paḷḷa-kaṇṭattu p<unclear>ā</unclear>mpuṇi <unclear>ki</unclear>ḻā<choice><orig>n</orig><reg>ṉ</reg></choice> nila<unclear>ttu</unclear>kku kiḻakku mu<choice><orig>n</orig><reg>ṉ</reg></choice><unclear>pu U</unclear>ṟ<unclear>ai</unclear>
+		<lb n="13" break="no"/>nāḻi nellukk' e<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu n<choice><orig>i</orig><reg>ī</reg></choice>kki pi<choice><orig>n</orig><reg>ṉ</reg></choice>pu pukunta ni<unclear>la</unclear>m {8 symbols = fractions}<!-- update encoding of fractions--> Āka
 	</p>
 	<p>
 		nilam Iraṇ<unclear>ṭ-ē</unclear>  mu-k-kāl-ē Oru-mā-v arai Arai-k-kāṇiyi<choice><orig>n</orig><reg>ṉ</reg></choice>āl nel munnūṟṟ' aṟu-pati<choice><orig>n</orig><reg>ṅ</reg></choice> kalatt<unclear>ā</unclear>lum
@@ -198,13 +198,13 @@
 		</app>	
 		
 		<app loc="7">
-			<lem>pāṇpeṟ-āka</lem>
-			<rdg source="bib:KrishnaSastri1925_01">pāṇa-peṟāka</rdg>
-			<note>Palaniappan <!--update--> reads <foreign>pāṇpeṟāka</foreign>.</note>
+			<lem>pāṇapeṟ-āka</lem>
+			<rdg source="bib:KrishnaSastri1925_01">pāṇapeṟāka</rdg>
+			<note>Palaniappan <!--update--> reads <foreign>pāṇpeṟāka</foreign>, supposedly because he expects <foreign>pāṇa-p-peṟ-āka</foreign>, but we find below <foreign>tirucciṟṟampala-paṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice></foreign>, whereas <foreign>tirucciṟṟampala-p-paṭṭaṉ</foreign> is the standard expected form.</note>
 		</app>
 		
 		<app loc="8">
-			<lem>pāṇ-kāṇiyum</lem>
+			<lem>pāṇa-kāṇiyum</lem>
 			<rdg source="bib:KrishnaSastri1925_01">pāṇakāṇiyum</rdg>
 			<note>Palaniappan <!--update--> reads <foreign>pāṇkāṇiyum</foreign>.</note>
 		</app>
@@ -246,22 +246,22 @@
 			as one who takes charge <supplied reason="explanation"><foreign>kaṭavaṉ-āka</foreign></supplied> of appointing <supplied reason="explanation"><foreign>iṭa</foreign></supplied> singers <supplied reason="explanation"><foreign>pāṇarai</foreign></supplied>,
 			and for those in his lineage, 
 			after meeting <supplied reason="explanation"><foreign>kūṭa</foreign><note>That is, agreeing with.</note></supplied> with the temple servants <supplied reason="explanation"><foreign>nivantakkārar</foreign></supplied> who carry out different tasks in this temple,
-			an endowment <supplied reason="explanation"><foreign>nivantam</foreign></supplied> has been established <supplied reason="explanation"><foreign>kaṭṭi</foreign><note>Literally: having established a endowment.</note></supplied>,
+			an endowment <supplied reason="explanation"><foreign>nivantam</foreign><note>Sanskrit <foreign>nibandha</foreign>.</note></supplied> has been established <supplied reason="explanation"><foreign>kaṭṭi</foreign><note>Literally: having established a endowment.</note></supplied>,
 			from the ninth year onwards,
 			<supplied reason="subaudible">consisting in</supplied> paddy that comes <supplied reason="explanation"><foreign>vanta</foreign></supplied> as one pot of paddy <supplied reason="subaudible">measured</supplied> by the village stone <supplied reason="explanation"><foreign>ūr-k-kāl</foreign></supplied> per day <supplied reason="explanation"><foreign>nāḷ oṉṟukku</foreign></supplied>,
-			so as to include <supplied reason="explanation"><foreign>uḷpaṭa</foreign></supplied> the gold and the paddy formerly received <supplied reason="explanation"><foreign>muṉpu peṟṟu varum</foreign></supplied> as <foreign>pāṇpeṟu</foreign> <supplied reason="explanation"><foreign>pāṇpeṟ-āka</foreign><note>See Palaniappan on this term.<!--update--></note></supplied> in this temple;</item>	
+			so as to include <supplied reason="explanation"><foreign>uḷpaṭa</foreign></supplied> the gold and the paddy formerly received <supplied reason="explanation"><foreign>muṉpu peṟṟu varum</foreign></supplied> as <foreign>pāṇa-p-peṟu</foreign> <supplied reason="explanation"><foreign>pāṇa-p-peṟ-āka</foreign></supplied> in this temple;</item>	
 			
-			<item><supplied reason="subaudible">2</supplied> is given <supplied reason="explanation"><foreign>viṭṭu</foreign><note>Literally: having left, released</note></supplied> to him,
+			<item><supplied reason="subaudible">2</supplied> is given <supplied reason="explanation"><foreign>viṭṭu</foreign><note>Literally: having left, released.</note></supplied> to him,
 				<supplied reason="subaudible">as for</supplied> land needed for <supplied reason="subaudible">producing</supplied> this paddy, having removed <supplied reason="explanation"><foreign>tavirttu</foreign></supplied> the previous owners,
 				having obtained <supplied reason="explanation"><foreign>aṭaittu</foreign></supplied>
-				a <foreign>pāṇkāṇi</foreign><note>See Palaniappan on this term.</note> in the villages which are a <foreign>devadāna</foreign> of this god
+				a <foreign>pāṇa-k-kāṇi</foreign> in the villages which are a <foreign>devadāna</foreign> of this god
 				and a livelihood through land <supplied reason="explanation"><foreign>nila-<hi rend="grantha">jī</hi>vitam</foreign></supplied>,
 				a house-site <supplied reason="explanation"><foreign>maṉai</foreign></supplied> as dwelling place <supplied reason="explanation"><foreign>kuṭi-y-iruppu</foreign></supplied>, <supplied reason="subaudible">as it was to</supplied> previous singers <supplied reason="explanation"><foreign>pāṇar</foreign></supplied>.</item></list>
 		
 	</p>	
 	
 	<p n="8">
-		<supplied reason="subaudible">This is</supplied> according to the royal order that Malaiya Pirāyar and the <foreign>tirumantiravōlai</foreign><note>This term designates an office, that in charge of ...</note> Putukkuṭaiyar signed.
+		<supplied reason="subaudible">This is</supplied> according to the royal order that Malaiyappirāyar and the <foreign>tirumantiravōlai</foreign><note>This term designates an office, that in charge of royal orders.</note> Putukkuṭaiyar signed.
 	</p>
 	
 	<p n="8-10">
@@ -319,22 +319,16 @@
 			</item>
 		</list>
 		for three hundred sixty pots <supplied reason="explanation"><foreign>kalattukkum</foreign></supplied> of paddy ...
-		through three hundred fourty nine pots <supplied reason="explanation"><foreign>kalattiṉāl</foreign></supplied> of paddy ...
-				
+		through three hundred fourty nine pots <supplied reason="explanation"><foreign>kalattiṉāl</foreign></supplied> of paddy ...	
 	</p>
-	<!--<p n="10">
-		The <foreign>tēvatāṉam</foreign> for this god comprises three quarters <supplied reason="explanation"><foreign>mukkālē</foreign></supplied>, one one-hundred-and-sixtieth <supplied reason="explanation"><foreign>araikkāṇi</foreign></supplied>, one three-hundred-and-twentieth <supplied reason="explanation"><foreign>muntirikai</foreign></supplied>, one six-hundred-fortieth <supplied reason="explanation"><foreign>kīḻarai</foreign></supplied> of one land <supplied reason="explanation"><foreign>nilam oṉṟai</foreign></supplied> divided into two <supplied reason="explanation"><foreign>naṭuviṟ kaṇṭattu</foreign></supplied>; the northern portion enclosed by <supplied reason="explanation"><foreign>kaṇṇtattu</foreign></supplied> a ditch of land  <supplied reason="subaudible">for regulating water</supplied> <supplied reason="explanation"><foreign>tarāp paḷḷa</foreign></supplied>; to the west, <supplied reason="subaudible">the land of</supplied> Kiṭāraṅ-koṇṭa-cōḻa-vati; to the south, the branch cannal <supplied reason="explanation"><foreign>kaṇṇāṟu</foreign></supplied>, and the east facing <supplied reason="explanation">to the land of</supplied> Kulōttuṅka-cōḻa-vati, in the village with the tank <supplied reason="subaudible">belonging to</supplied> the king of Tiraimūr-nāṭu in Uyyakoṇṭār-vaḷa-nāṭu
-		<!-\-This seems to be very precise, although I ignore most of the used terminology here. First, I just separated the measurements with commas. Will deal with that in another time. Doubts: nilam onrai is it one land? It would be curious because next paragraph also mentions other measurements for another nilam. Maybe this is one half of the land that is divided into two (natuvir kantattu) but I'm not even sure if that is what they refer to. A land with an intermediate division? Then I understood this tara palla as tara being land and palla being a hole. So it would mean sth like the ditch hole used as the main drainage system, although I have absolutely no idea of how paddy fields worked back then. By the way, I have the impression that the branch cannal (kannaru) was coming from the pond itself. According to Google Maps, there is a pond in Tiruvitaimarutur with a perimeter of around 400m  so it would have made sense that the branch cannal that feeds the paddy field came directly from the pond (the kaveri river is 1,3 km fr. the pond, so depending on where the actual land was, it could have come from the river).  -\->
-		</p>-->
-	
+		
 	<p n="12">
 		<list>
 			<item>These is the signature of Kuṇṭaiyūr Kiḻavaṉ, the accountant of the temple;</item>
 			<item>in this manner, these is the signature of Tirucciṟṟampalapaṭṭaṉ, the temple official <supplied reason="explanation"><foreign>tēvarkaṉmi</foreign></supplied>;</item>
 			<item>in this manner, these is the signature of Mu<unclear>la</unclear>ṅkuṭaiyān, the temple official <supplied reason="explanation"><foreign><hi rend="grantha">śrī</hi>kāriyam</foreign></supplied>;</item>
 			<item>these is the signature of Tiruviti<note>Tiruvāti in line 13.</note> Aṉpaṟkaracu.</item>
-		</list>		
-		
+		</list>			
 	</p>
 	
 	<p n="12-13">
@@ -400,3 +394,13 @@
         </body>
     </text>
 </TEI>
+
+<!--
+	Metadata:
+	south wall, second prākāra
+-->
+
+<!--<p n="10">
+		The <foreign>tēvatāṉam</foreign> for this god comprises three quarters <supplied reason="explanation"><foreign>mukkālē</foreign></supplied>, one one-hundred-and-sixtieth <supplied reason="explanation"><foreign>araikkāṇi</foreign></supplied>, one three-hundred-and-twentieth <supplied reason="explanation"><foreign>muntirikai</foreign></supplied>, one six-hundred-fortieth <supplied reason="explanation"><foreign>kīḻarai</foreign></supplied> of one land <supplied reason="explanation"><foreign>nilam oṉṟai</foreign></supplied> divided into two <supplied reason="explanation"><foreign>naṭuviṟ kaṇṭattu</foreign></supplied>; the northern portion enclosed by <supplied reason="explanation"><foreign>kaṇṇtattu</foreign></supplied> a ditch of land  <supplied reason="subaudible">for regulating water</supplied> <supplied reason="explanation"><foreign>tarāp paḷḷa</foreign></supplied>; to the west, <supplied reason="subaudible">the land of</supplied> Kiṭāraṅ-koṇṭa-cōḻa-vati; to the south, the branch cannal <supplied reason="explanation"><foreign>kaṇṇāṟu</foreign></supplied>, and the east facing <supplied reason="explanation">to the land of</supplied> Kulōttuṅka-cōḻa-vati, in the village with the tank <supplied reason="subaudible">belonging to</supplied> the king of Tiraimūr-nāṭu in Uyyakoṇṭār-vaḷa-nāṭu
+		<!-\-This seems to be very precise, although I ignore most of the used terminology here. First, I just separated the measurements with commas. Will deal with that in another time. Doubts: nilam onrai is it one land? It would be curious because next paragraph also mentions other measurements for another nilam. Maybe this is one half of the land that is divided into two (natuvir kantattu) but I'm not even sure if that is what they refer to. A land with an intermediate division? Then I understood this tara palla as tara being land and palla being a hole. So it would mean sth like the ditch hole used as the main drainage system, although I have absolutely no idea of how paddy fields worked back then. By the way, I have the impression that the branch cannal (kannaru) was coming from the pond itself. According to Google Maps, there is a pond in Tiruvitaimarutur with a perimeter of around 400m  so it would have made sense that the branch cannal that feeds the paddy field came directly from the pond (the kaveri river is 1,3 km fr. the pond, so depending on where the actual land was, it could have come from the river).  -\->
+		</p>-->
