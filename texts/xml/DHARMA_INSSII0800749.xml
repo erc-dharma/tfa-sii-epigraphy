@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvāmattūr, Abhirāmeśvara temple, east wall of first <foreign>prākāra</foreign></title>
+				<title>Tiruvāmāttūr, Abhirāmeśvara temple, east wall of first <foreign>prākāra</foreign></title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:reda">
@@ -89,11 +89,23 @@
 	<p>	  	
 		pū-mēvu-vaḷar tiruppōn mārvu puṇara nām-ēvu kalaimakaḷ nilam peritu ciṟappa vi<supplied reason="lost">c</supplied>aiya-māmakaḷ <unclear>taṉ ṉiru</unclear>-puyatt-iruppa Icai
 		<lb n="2" break="no"/>yiṉcelvi Eṇṭicai viḷaṅka nirupar vant-iṟaiñca nīṇila-maṭantaiy<unclear>ai</unclear>t tirumaṇam puṇarntu cirvaḷar
-		<lb n="3" break="no"/>tarumaṇimuṭi kavitta<choice><orig>n</orig><reg>ṉ</reg></choice>-a<choice><orig>n</orig><reg>ṉ</reg></choice>a Aṇimuṭi-cūṭi mallai-ñāla<unclear>ttu</unclear>-p pal-l-uyir<supplied reason="lost">k</supplied>k-ellām Ellaiyil-iṉpam-y-iyalvi<choice><orig>n</orig><reg>ṉ</reg></choice>il-l e
-		<lb n="4" break="no"/>yta veṇkuṭai niḻaṟṟa-c ceṅkolocci vāḻi pallūḻi A<gap reason="lost" quantity="3" unit="character"></gap>ppa cempon v<choice><orig>i</orig><reg>ī</reg></choice><supplied reason="lost">ra</supplied>!) <hi rend="grantha">siṃhāsa</hi>nattu puva<choice><orig>n</orig><reg>ṉ</reg></choice>am-uḻut-uṭaiyā
-		<lb n="5" break="no"/>ḷoṭum v<choice><orig>i</orig><reg>ī</reg></choice>ṟṟiruntaruḷiya kō-v-irājakecaripa<choice><orig>n</orig><reg>ṉ</reg></choice>mar-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a tiripuva<choice><orig>n</orig><reg>ṉ</reg></choice>a-cakkaravarttikaḷ <hi rend="grantha">śrī</hi> k<choice><sic>o</sic><corr>u</corr></choice>lōttuṅka-cōḻa-tēvaṟku Iyāṇtu Iraṇ
-		<lb n="6" break="no"/>ṭ-āvatu Irājarāja-vaḷa-nāṭṭu-p paṉaiyūr-nāṭṭu vāvalūr-nāṭṭu-t tēvatāṉam tiruvāmāttūr Āḷuṭaiya <unclear>A</unclear>ḻakiyatēvar
+		<lb n="3" break="no"/>tarumaṇimuṭi kavitta<choice><orig>n</orig><reg>ṉ</reg></choice>-a<choice><orig>n</orig><reg>ṉ</reg></choice>a Aṇimuṭi-cūṭi mallai-ñāla<unclear>ttu</unclear>-p pall-uyir<supplied reason="lost">k</supplied>k-ellām Ellaiyil-iṉpam-y-iyalvi<choice><orig>n</orig><reg>ṉ</reg></choice>ill e
+		<lb n="4" break="no"/>yta veṇkuṭai niḻaṟṟa-c ceṅkolocci vāḻi pallūḻi A<gap reason="lost" quantity="3" unit="character"></gap>ppa cempon v<choice><orig>i</orig><reg>ī</reg></choice><supplied reason="lost">ra</supplied> <hi rend="grantha">siṃhāsa</hi><choice><orig>n</orig><reg>ṉ</reg></choice>attu puva<choice><orig>n</orig><reg>ṉ</reg></choice>am-uḻut-uṭaiyā
+		<lb n="5" break="no"/>ḷoṭum v<choice><sic>i</sic><corr>ī</corr></choice>ṟṟiruntaruḷiya kō-v-irā<hi rend="grantha">ja</hi>kecaripa<choice><orig>n</orig><reg>ṉ</reg></choice>mar-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a tiripuva<choice><orig>n</orig><reg>ṉ</reg></choice>a-cakkaravarttikaḷ <hi rend="grantha">śrī</hi>-k<choice><sic>o</sic><corr>u</corr></choice>lōttuṅka-cōḻa-tēvaṟku Iyāṇtu Iraṇ
+		<lb n="6" break="no"/>ṭ-āvatu I<hi rend="grantha">rājarāja</hi>-vaḷa-nāṭṭu-p paṉaiyūr-nāṭṭu vāvalūr-nāṭṭu-t tēvatāṉam tiruvāmāttūr Āḷuṭaiya <unclear>A</unclear>ḻakiyatēvar
 		<lb n="7" break="no"/>kōyilil tiruppatiyam pāṭivarum kuruṭa<unclear>r</unclear>kaḷai tavittu nam tēvārattu tiruppatiyam pāṭum poyyāta-cēvaṭi tēvakaṉāta<choice><orig>n</orig><reg>ṉ</reg></choice>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a
+	<lb n="8"/>Irā<hi rend="grantha">ja</hi><unclear>rā</unclear><hi rend="grantha">ja</hi>p-piccaṉukkum Iva<choice><orig>n</orig><reg>ṉ</reg></choice> vaṟkattārkkum Ik-kōyiṟ tiruppatiya-k-kāṇiyā<unclear>ṉ</unclear> Ivv-ūr mutal-kāṇiyāka kuṭuttōm
+	<lb n="9"/>Iva<choice><orig>n</orig><reg>ṉ</reg></choice> vaṟkattāraiyumē-y Iṭṭu-t tiruppatiyam pāṭu-vittukkoṇṭu muṉpilāṇṭukaḷ kuruṭa<supplied reason="lost">r</supplied>kaḷukku viṭṭuvarum nivanta
+	<lb n="10" break="no"/>-p-paṭi Ivarkaḷukkum viṭṭuk kalveṭṭuka-v enṟu tiruvāymoḻintu tirumukam pira<hi rend="grantha">sā</hi>tañ-ceytuvant-amaiyi<choice><sic>ṟ</sic><corr>ṉ</corr></choice> Ik-kuruṭar
+	<lb n="11" break="no"/>kaḷ muṉpilāṇṭukaḷ A<choice><orig>n</orig><reg>ṉ</reg></choice>upavattiṉ-paṭi pāṭivaruṅ kuruṭa<supplied reason="lost">r</supplied>kaḷ pēr-pati<choice><orig>n</orig><reg>ṉ</reg></choice>aṟuvarum Ivarkaḷukku kaṇkāṭṭuvār Iruvarum Ā
+	<lb n="12" break="no"/>kap pēr-pati<choice><orig>n</orig><reg>ṉ</reg></choice>eṇmarkku perāl nellu patakkāka nāḷ-oṉṟukku nellu mukkalamāka nāḷ mu<choice><orig>n</orig><reg>ṉ</reg></choice>ṉūṟṟaṟupatukku nellu Āyi
+	<lb n="13" break="no"/>ratt-eṇpatiṉ kalamum puṭavai-mutalukku perāl kācu Oṉṟāka kācu pati<choice><orig>n</orig><reg>ṉ</reg></choice>eṭṭukku kācu Oṉṟukku nellu Irupati<choice><orig>n</orig><reg>ṉ</reg></choice> kalamāka va
+	<lb n="14" break="no"/>nta nellu Āyirattu nānūṟṟu nāṟpatiṉ kalattukku veli Oṉṟukku nellu nāṟṟiru	
+	<lb n="15" break="no"/>patiṉ kalamāka It-tēvar tēvatānam kaṭuva<choice><orig>n</orig><reg>ṉ</reg></choice>-ūril viṭṭa nilam pa<choice><orig>nn</orig><reg>ṉṉ</reg></choice>iru-veli In-nilam pa<choice><orig>nn</orig><reg>ṉṉ</reg></choice>iru-veliyum kāṇiyāka Ivv-ūr nila	
+	<lb n="16" break="no"/>ṅ-kalanta-paṭiyē kaikkoṇṭu It-tiruppatiyam pāṭuvār pēr-pati<choice><orig>n</orig><reg>ṉ</reg></choice>eṇmarum muṉṟu <hi rend="grantha">sa</hi>ntiyum vantu tiruppatiyam	
+	<lb n="17" break="no"/>viṇṇappañ-ceytu mu<choice><orig>n</orig><reg>ṉ</reg></choice>pilāṇṭukaḷ Ik-kuruṭa<supplied reason="lost">r</supplied>kaḷ nilaṅ kaikkoṇṇtu ceytuvarum-paṭiyē It-tiruppatiyam	
+	<lb n="18"/>viṇṇappañ-ceyvārum ceytuvar-k-kaṭavarkaḷāka Ip-poyyāta-cevaṭi tēvar-kaṇāta<choice><orig>n</orig><reg>ṉ</reg></choice>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>-p piccaṉukkum Iva<choice><orig>n</orig><reg>ṉ</reg></choice> vaṟ	
+	<lb n="19" break="no"/>kattārkkuṅ kāṇiyāka kuṭuttōm.
 	</p>
 	
 	<p>
