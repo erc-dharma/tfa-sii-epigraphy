@@ -40,7 +40,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Endowment of 20 <foreign>kaḻañcu</foreign>s of gold. Out of the 3 <foreign>kaḻañcu</foreign>s of yearly interest from this gold, 2 are endowed for the recitation in Śrī-Govindapāṭi of the <foreign>tiruppatiyam</foreign> beginning with the phrase <foreign>kōlanaṟkuḻal</foreign>. This <foreign>tiruppatiyam</foreign> appears to have been composed by Muvēntappiṭavūr alias Kāyavāṉ Arunilai, the donor’s father.</summary>
+						<summary>Translation in progress</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -87,63 +87,17 @@
 	</ab>
 	
 	<p>	  	
-		kāntaḷūr cālai kalam aṟutta
-		<lb n="2"/><hi rend="grantha">ko-rājarājakesari-panma</hi><supplied reason="omitted">ṟ</supplied>kku yāṇṭu <num value="10"><g type="numeral">10</g></num>~<!--update encoding of dash in the original-->tt-āvatu	
-	</p>
-	
-	<p>	
-		tāma<gap reason="lost" quantity="7" unit="character"/>
-		<lb n="3" break="no"/>tu tāmar-<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu <hi rend="grantha">śrī-go</hi>vin=ta-pāṭi-puṟattu vēḷkaḷa-veṇpā<supplied reason="lost">kkatt' ū</supplied>
-		<lb n="4" break="no"/>rōṅ kai-y Eḻut=tu
-	</p>
-	<p>
-		cōḻa-<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu vaṭa-karai-p-piṭavūr-nāṭṭu-k kaṇakku <gap reason="lost" quantity="3" unit="character"/><supplied reason="lost">u</supplied>
-		<lb n="5" break="no"/>ṭaiyāṉ Arunilai <hi rend="grantha">śrī-<unclear>kṛ</unclear>ṣṇa</hi>ṉ-āṉa muvēn=ta-p-piṭavūr vē
-		<lb n="6" break="no"/>ḷār kaiyāl yāṅkaḷ koṇṭu kaṭava cempoṉ ta<hi rend="grantha">nma</hi>-ka
-		<lb n="7" break="no"/>ṭṭaḷaiyāl tuḷai <num value="20"> 2 <g type="numeral">10</g></num> Ip-poṉ koṇṭa paric' āvatu 
-	</p>
-	<p>		
-		
-		<lb n="8"/>Iv-āṭṭai puraṭṭāti mutal kaḻañci<choice><orig>n</orig><reg>ṉ</reg></choice> vā<supplied reason="omitted">y</supplied> tiṅkaḷ iraṇṭum-ā-p policaiyāl ōr āṭ
-		<lb n="9" break="no"/>ṭaikku van=ta po<choice><orig>n</orig><reg>ṉ</reg></choice> 3 {kaḻañcu}<!--symbol, most probably for kaḻañcu; update encoding, although looks similar to mummākāṇi-->
+		pū-mēvu-vaḷar tiruppōn mārvu puṇara nām-ēvu kalaimakaḷ nilam peritu ciṟappa vi<supplied reason="lost">c</supplied>aiya-māmakaḷ <unclear>taṉ ṉiru</unclear>-puyatt-iruppa Icai
+		<lb n="2" break="no"/>yiṉcelvi Eṇṭicai viḷaṅka nirupar vant-iṟaiñca nīṇila-maṭantaiy<unclear>ai</unclear>t tirumaṇam puṇarntu cirvaḷar
+		<lb n="3" break="no"/>tarumaṇimuṭi kavitta<choice><orig>n</orig><reg>ṉ</reg></choice>-a<choice><orig>n</orig><reg>ṉ</reg></choice>a Aṇimuṭi-cūṭi mallai-ñāla<unclear>ttu</unclear>-p pal-l-uyir<supplied reason="lost">k</supplied>k-ellām Ellaiyil-iṉpam-y-iyalvi<choice><orig>n</orig><reg>ṉ</reg></choice>il-l e
+		<lb n="4" break="no"/>yta veṇkuṭai niḻaṟṟa-c ceṅkolocci vāḻi pallūḻi A<gap reason="lost" quantity="3" unit="character"></gap>ppa cempon v<choice><orig>i</orig><reg>ī</reg></choice><supplied reason="lost">ra</supplied>!) <hi rend="grantha">siṃhāsa</hi>nattu puva<choice><orig>n</orig><reg>ṉ</reg></choice>am-uḻut-uṭaiyā
+		<lb n="5" break="no"/>ḷoṭum v<choice><orig>i</orig><reg>ī</reg></choice>ṟṟiruntaruḷiya kō-v-irājakecaripa<choice><orig>n</orig><reg>ṉ</reg></choice>mar-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a tiripuva<choice><orig>n</orig><reg>ṉ</reg></choice>a-cakkaravarttikaḷ <hi rend="grantha">śrī</hi> k<choice><sic>o</sic><corr>u</corr></choice>lōttuṅka-cōḻa-tēvaṟku Iyāṇtu Iraṇ
+		<lb n="6" break="no"/>ṭ-āvatu Irājarāja-vaḷa-nāṭṭu-p paṉaiyūr-nāṭṭu vāvalūr-nāṭṭu-t tēvatāṉam tiruvāmāttūr Āḷuṭaiya <unclear>A</unclear>ḻakiyatēvar
+		<lb n="7" break="no"/>kōyilil tiruppatiyam pāṭivarum kuruṭa<unclear>r</unclear>kaḷai tavittu nam tēvārattu tiruppatiyam pāṭum poyyāta-cēvaṭi tēvakaṉāta<choice><orig>n</orig><reg>ṉ</reg></choice>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a
 	</p>
 	
 	<p>
-		Ip-poṉṉil ivar tam appaṉār kāyāvā<choice><orig>n</orig><reg>ṉ</reg></choice> aru<choice><orig>ṉ</orig><reg>n</reg></choice>i<supplied reason="omitted">lai</supplied>-y-ā
-		<lb n="10" break="no"/>ṉa muvēn=ta-p-piṭavūr vēḷār <hi rend="grantha">śrī-go</hi>vin=ta-pāṭi Āḻvāṉ viṇṇappam ce<supplied reason="omitted">yta</supplied>
-		<lb n="11"/>kōlanaṟkuḻal E<choice><orig>ṉ</orig><reg>ṉṉ</reg></choice>um tiruppatiyam Iv-āḷvār tiru-viḻāviṉ Eḻā <choice><orig>ṉ</orig><reg>n</reg></choice>āḷāl<gap reason="lost" quantity="2" unit="character"/>
-		<lb n="12" break="no"/>ṭi-y āṭiṉa pari<hi rend="grantha">dai</hi>-nāyakaṉmārkku Iru-kaḻañcuṅ kēṭppi<choice><orig>cc</orig><reg>tt</reg></choice>a kōyil nampimārkku
-		<lb n="13"/>kaḻañcum Āka policai mu-k-kaḻañcu po<supplied reason="omitted">ṉ</supplied>ṉum <hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>antrāditta</hi>val Āṭṭāṇṭu toṟum ā
-		<lb n="14" break="no"/>ḷvār <hi rend="grantha">śrī-kārya</hi>ñ ceykiṉṟa nampimārē taṇṭi Iṭu<unclear>vi</unclear>ppat' āka<unclear>vum</unclear>
-		</p>
-	
-		<p>
-		Iṭōm ākil
-		<lb n="15"/>tiruvāṇai maṟaiyum paṭṭu tēvaka<hi rend="grantha">nmi</hi>kaḷ tāṅkaḷ ve<gap reason="lost" quantity="4" unit="character"/>ttil tāṅkaḷ vēṇ<unclear>ṭu</unclear><gap reason="lost" quantity="3" unit="character"/>
-		<lb n="16"/>taṇṭam iṭa-p peṟuvārkaḷ ākavu<choice><orig>mm</orig><reg>m</reg></choice>
 	</p>
-	<p>
-		ivarkaḷ iṭṭa taṇṭam iṟuttum I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ivantam ip-paṭi
-		<lb n="17"/>Iṭa-k kaṭavōm ākavum
-	</p>
-	<p>
-		Ip-paric' ōṭṭi Iṭṭu-k kuṭuttō muvēnta-p-piṭavūr veḷārkku
-		<lb n="18"/>vēḷka<supplied reason="omitted">ḷa</supplied>-veṇpākkat=t' ūrōm 
-	</p>
-	
-	<p>
-		Ūrār paṇikka I-<hi rend="grantha">śilā</hi>-lēkai veṭṭiṉēṉ
-		<lb n="19"/>Āṟaiyāṉ <hi rend="grantha">śrī-go</hi>vin=ta-pāṭi ācāriya<choice><orig>n</orig><reg>ṉ</reg></choice>-ēṉ
-	</p>
-	<p>		
-		Ivai-y eṉ eḻuttu
-	</p>
-	
-	<p>
-		I
-		<lb n="20" break="no"/>tu <hi rend="grantha">śrī-vaiṣṇa</hi>var<hi rend="grantha"><surplus>r</surplus> irakṣai</hi>	
-	</p>
-
 	
 </div>
        	
