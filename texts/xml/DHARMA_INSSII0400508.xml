@@ -84,52 +84,76 @@
 <div type="edition" xml:lang="tam-Latn">
           
 	<ab>
-		<lb n="1"/><supplied reason="lost"><hi rend="grantha">svasti śrī</hi></supplied>
+		<lb n="1"/><supplied reason="lost"><hi rend="grantha">svasti śrī <!--punctuation mark that looks like a 2--></hi></supplied>
 	</ab>
 	
 	<lg n="1" met="āciriyappā">
 		
-		<l n="1">2 pukaḻmātu viḷa<unclear>ṅ</unclear>ka <hi rend="grantha">ja</hi>yamātu virumpa nilamakaḷ vaḷara <unclear>ma</unclear>larmakaḷ</l>
-		<l n="2">puṇara Urimaiyiṟciṟan=ta? maṇimuṭi cūṭi mīṉavar nilaikeṭa</l>
-		<l n="3">villavar <lb n="2"/>kulaitara vikkala<unclear>ñ</unclear> ciṅkaṇan melkaṭal</l> 
-		<l n="4"><unclear>pāya</unclear>t tikkaṉaittil un=ta<choice><orig>n</orig><reg>ñ</reg></choice> cakkara<unclear>m na</unclear>ṭātti <unclear>vīra</unclear><hi rend="grantha"><unclear>siṃ</unclear>hāsa</hi><choice><orig>n</orig><reg>ṉ</reg></choice>attu</l>
-		<l n="5">puva<choice><orig>n</orig><reg>ṉ</reg></choice>amuḻutuṭaiyāḷoṭu <lb n="3"/>viṟṟiruttaruḷiya</l>
+		<l n="1">pukaḻmātu viḷa<unclear>ṅ</unclear>ka Aiyamātu virumpa nilamakaḷ vaḷara <unclear>ma</unclear>larmakaḷ</l>
+		<l n="2">puṇara Urimaiyiṟ ciṟan=ta? maṇimuṭi cūṭi mīṉavar nilaikeṭa</l>
+		<l n="3">villavar <lb n="2"/>kulaitara vikkala<unclear>ñ</unclear> ciṅkaṇa<choice><orig>n</orig><reg>ṉ</reg></choice> melkaṭal</l> 
+		<l n="4"><unclear>pāya</unclear>tt-ik-kaṉaittil un=ta<choice><orig>n</orig><reg>ñ</reg></choice> cakkara<unclear>m na</unclear>ṭātti <unclear>vīra</unclear><hi rend="grantha"><unclear>siṃ</unclear>hāsa</hi><choice><orig>n</orig><reg>ṉ</reg></choice>attu</l>
+		<l n="5">puva<choice><orig>n</orig><reg>ṉ</reg></choice>am uḻutuṭaiyāḷoṭu <lb n="3"/>viṟṟiruntaruḷiya</l>
 		
 	</lg>
 	
 	<p>	  	
-		 kōv-i<hi rend="grantha">rāja</hi>-ke<hi rend="grantha">sarivanmar-ā</hi><choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">cakra</hi>varttikaḷ <hi rend="grantha">śrī</hi> k<choice><sic>o</sic><corr>u</corr></choice>lōttuṅka<unclear>cōḻa</unclear> tēvaṟku yāṇṭu pati<choice><orig>n</orig><reg>ṉ</reg></choice><hi rend="grantha">ai</hi>ñcāvatu 2 pāṇṭi
-	<lb n="4"/>kulāca<choice><orig>n</orig><reg>ṉ</reg></choice>iviḷānāṭṭu tiruvaraṅkatt-āḻvā<choice><orig>n</orig><reg>ṉ</reg></choice>kōyilil nivantakkāṟaril <unclear>vaṅkippurattu</unclear> <gap reason="lost" quantity="4" unit="character"></gap> tiruvaraṅkattunampiyum
-	<lb n="5"/>iva<choice><orig>n</orig><reg>ṉ</reg></choice> maka<choice><orig>n</orig><reg>ṉ</reg></choice> ma<choice><orig>nn</orig><reg>ṉṉ</reg></choice>aṉ tiruvaraṅ<supplied reason="lost">ka</supplied>nampiyum ma<choice><orig>nn</orig><reg>ṉṉ</reg></choice>aṉ veṇ<unclear>ṇai</unclear>kkūttanāna tirukkaṇṇāpurattaraiyarum ma<choice><orig>nn</orig><reg>ṉṉ</reg></choice>aṉ tiruviṇṇakānampiyum
-	<lb n="6"/>ma<choice><orig>nn</orig><reg>ṉṉ</reg></choice>aṉ tirun<unclear>āṭṭu</unclear>nampiyum Āka Ivva<unclear>ṉai</unclear>v<unclear>ō</unclear>m aru<unclear>mo</unclear>ḻitēva-vaḷanāṭṭu ne<unclear>mmali</unclear>-nāṭṭu  koṭṭur koṭṭuruṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> āyarkoḻun
-		<!--anotar que el kompu es claro en vom y luego la a de arumozhi también es clara. Eso también es kompu?-->
-	<lb n="7" break="no"/>tu cakkara-pāṇiyā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">se</hi>nāpatikaḷ viracoḻa<unclear>mu</unclear>ṉaiyataraiyar<unclear>kku</unclear> nāṅkaḷ kaittiṭṭukkuṭutta paricāvatu Ik-kōyililē-y Āḻvā<choice><orig>n</orig><reg>ṉ</reg></choice>ukku tiru
-	<lb n="8" break="no"/>ppaḷḷi Elucci tiruvāymoḻi vi<unclear>ṇ</unclear>ṇappam ceyyakkaṭa<unclear>vō</unclear>māka Ivarpakkal nāṇkaḷ koṇṭa cempon aimpati<choice><orig>n</orig><reg>ṉ</reg></choice> kaḻañcu ippon ai
-	<lb n="9" break="no"/>mpatin kaḻañcu<unclear>ṅ</unclear> koṇṭu <gap reason="lost" unit="character" quantity="6"></gap> keraḷāntaka-vaḷanāṭṭu uṟaiyūrkk-ūṟṟattu <hi rend="grantha">bramha</hi>tēyam <!--is this right? am I crazy?-->  <hi rend="grantha">rājāśrī</hi>yaccaruppetimaṅkalattu nila
-	<lb n="10" break="no"/>ttilē pati<choice><orig>n</orig><reg>ṉ</reg></choice>ālān=tarattilē-y nilaṅ koṇṭu Irupatān tarattilē-y taram Iḻicci Iṟaiyiṟuttu Ittāl vanta virutti <gap quantity="10" unit="character" reason="lost"></gap>
-	<lb n="11"/>kavum cantirā <gap reason="lost" unit="character" quantity="11"></gap> tiruppaḷḷi Elucci-t tiruvāymoḻi viṇṇappañ ceyyakkāṭa<unclear>voyāka</unclear><gap quantity="9" unit="character" reason="lost"></gap>
-	<lb n="12"/>pañceyya <gap reason="lost" unit="character" quantity="6"></gap> pati<choice><orig>n</orig><reg>ṉ</reg></choice>eṭṭu nāṭṭu <hi rend="grantha">śrī</hi>vayi<hi rend="grantha">ṣṇa</hi>varkaḷē-y taṅaḷukkeṟi<choice><orig>n</orig><reg>ṉ</reg></choice>ataṇṭaṅ koṇṇtum viṇṇappam ceyvikka<unclear>kaṭavō</unclear>māka <hi rend="grantha">sa</hi><gap extent="unknown" unit="character" reason="lost"></gap>.
-
-	</p>
+		 k<unclear>ō</unclear>v-i<hi rend="grantha">rāja</hi>-ke<hi rend="grantha">sari-vanmar-ā</hi><choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">cakra</hi>varttikaḷ <hi rend="grantha">śrī</hi>-k<choice><sic>o</sic><corr>u</corr></choice>lōttuṅka<unclear>cōḻa</unclear>-tēvaṟku yāṇṭu pati<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">ai</hi>ñcāvatu. <!--Add punctuation mark.--> 
+		</p>
 	
-	<p>
-	</p>
+		<p>
+		pāṇṭi
+	<lb n="4"/>kulāca<choice><orig>n</orig><reg>ṉ</reg></choice>i viḷānāṭṭu tiruvaraṅkatt-āḻvā<choice><orig>n</orig><reg>ṉ</reg></choice> kōyilil nivantakkāṟaril <unclear>vaṅkippurattu</unclear> <gap reason="lost" quantity="4" unit="character"></gap> tiruvaraṅkattu nampiyum
+	<lb n="5"/>iva<choice><orig>n</orig><reg>ṉ</reg></choice> maka<choice><orig>n</orig><reg>ṉ</reg></choice> ma<choice><orig>nn</orig><reg>ṉṉ</reg></choice>aṉ tiruvaraṅ<supplied reason="lost">ka</supplied> nampiyum ma<choice><orig>nn</orig><reg>ṉṉ</reg></choice>aṉ veṇ<unclear>ṇai</unclear>kkūtta<choice><orig>n</orig><reg>ṉ</reg></choice>-āna tirukkaṇṇāpuratt araiyarum ma<choice><orig>nn</orig><reg>ṉṉ</reg></choice>aṉ tiruviṇṇakar nampiyum
+	<lb n="6"/>ma<choice><orig>nn</orig><reg>ṉṉ</reg></choice>a<choice><orig>ṉ</orig><reg>n</reg></choice> tirun<unclear>āṭṭu</unclear> nampiyum Āka Iv-va<unclear>ṉai</unclear><unclear>v</unclear>ōm 
+		</p>
+	
+		<p>
+			aru<unclear>mo</unclear>ḻi tēva-vaḷanāṭṭu ne<unclear>mmali</unclear>-nāṭṭu  koṭṭur koṭṭuruṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> āyarkoḻun
+	<lb n="7" break="no"/>tu cakkara-pāṇi-y-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">se</hi>nāpatikaḷ v<choice><sic>i</sic><corr>ī</corr></choice>racoḻa<unclear>mu</unclear>ṉaiyat-araiyar<unclear>kku</unclear> nāṅkaḷ kaittiṭṭu-k kuṭutta paric-āvatu Ik-kōyililē-y Āḻvā<choice><orig>n</orig><reg>ṉ</reg></choice>ukku tiru
+	<lb n="8" break="no"/>ppaḷḷi Elucci tiruvāymoḻi vi<unclear>ṇ</unclear>ṇappam ceyya-k kaṭa<unclear>vō</unclear>m āka 
+		</p>
+	
+		<p>
+			Ivarpakkal nāṇkaḷ koṇṭa cempon aimpati<choice><orig>n</orig><reg>ṅ</reg></choice> kaḻañcu ippon ai
+	<lb n="9" break="no"/>mpati<choice><orig>n</orig><reg>ṅ</reg></choice> kaḻañcu<unclear>ṅ</unclear> koṇṭu <gap reason="lost" unit="character" quantity="6"></gap> keraḷāntaka-vaḷanāṭṭu uṟaiyūrkkūṟṟattu <hi rend="grantha">bramha</hi>tēyam <!--is this right? bramha or brahma-->  <hi rend="grantha">rājāśrī</hi>ya-c caruppeti maṅkalattu nila
+	<lb n="10" break="no"/>ttilē pati nālān=tarattilē-y nilaṅ koṇṭu Irupatān tarattilē-y taram Iḻicci Iṟaiyiṟuttu Ittāl vanta virutti <gap quantity="10" unit="character" reason="lost"></gap>
+	<lb n="11"/>kavum cantirā <gap reason="lost" unit="character" quantity="11"></gap> tiruppaḷḷi Elucci-t tiruvāymoḻi viṇṇappañ ceyyakkāṭa<unclear>vōm āka</unclear><gap quantity="4" unit="character" reason="lost"></gap> 
+		</p>
+	
+		<p>
+			<supplied reason="lost" cert="low">viṇṇap</supplied>
+	<lb n="12"/>pañ ceyya <gap reason="lost" unit="character" quantity="6"></gap> pati<choice><orig>n</orig><reg>ṉ</reg></choice>eṭṭu nāṭṭu <hi rend="grantha">śrī</hi>vayi<hi rend="grantha">ṣṇa</hi>varkaḷē-y taṅkaḷukk-eṟi<choice><orig>n</orig><reg>ṉ</reg></choice>a-taṇṭaṅ koṇṇtum viṇṇappam ceyvikka<unclear>kaṭavō</unclear>māka <hi rend="grantha">sa</hi><gap extent="unknown" unit="character" reason="lost"></gap>.
+		</p>
+	
+	
+	
 	
 </div>
        	
 <div type="apparatus">
     	   
-	<!--<listApp>
+	<listApp>
 		
-		<!-\-<app loc="0">
+		<!--<app loc="0">
 			<lem>...</lem>
 			<rdg source="bib:bib:SrinivasaRao1997_01">...</rdg>
-		</app>	-\->
+		</app>	-->
 		
+		<app loc="3">
+			<lem>k<unclear>ō</unclear>v</lem>
+			<note>The <foreign>kompu</foreign> in <foreign>kōv-</foreign> is clear.</note>
+			</app>
 		
+			<app loc="6">
+			<lem>aru<unclear>mo</unclear>ḻi</lem>
+			<note>The <foreign>kompu</foreign> in <foreign>mo</foreign> is clear.</note> <!--It is not the kompu, but the other part of the compound vowel. -->
+			</app>
+		
+			
 		
 	
-	</listApp>    -->			
+	</listApp>    			
     	
 </div>
     	
@@ -156,13 +180,13 @@
 <div type="bibliography">
     		
 	<p>
-		First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8, no. 749); encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2023), based on <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl>.
+		First edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 8, no. 749); encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2023), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>.
 	</p>	
 	
 	<listBibl type="primary">
 		
 		<bibl n="SR">
-			<ptr target="bib:SubrahmanyaAiyer1937_01"/>
+			<ptr target="bib:KrishnaSastri1923_01"/>
 			<citedRange unit="page">381</citedRange>
 			<citedRange unit="item">749</citedRange>
 		</bibl>
