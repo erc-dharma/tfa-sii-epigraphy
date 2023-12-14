@@ -40,8 +40,12 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Grant of hereditary rights of land to Rārāja-Piccaṉ and his lineage to sing holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied> and appoint daily reciters <supplied reason="explanation"><foreign>viṇṇappam-ceyvār</foreign></supplied>. The land rights were taken from a group of blind men who were in charge of chanting the hymns. <!--Leslie Orr that it was the other way around: quote from her article: we learn that those who had earlier been responsible for singing tiruppatiyam during the three daily services in the temple had been replaced by someone who headed a group of singers consisting of 16 blind people-->
-				  </summary>
+						<summary>Grant of hereditary rights of land to Rājarāja-Piccaṉ and his lineage to sing holy hymns <supplied
+								reason="explanation"
+								><foreign>tiruppatiyam</foreign></supplied> and appoint daily reciters <supplied
+								reason="explanation"
+							><foreign>viṇṇappam-ceyvār</foreign></supplied>. The land rights were taken from a group of blind men who were in charge of chanting the hymns. <!--Leslie Orr that it was the other way around: quote from her article: we learn that those who had earlier been responsible for singing tiruppatiyam during the three daily services in the temple had been replaced by someone who headed a group of singers consisting of 16 blind people-->
+						</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -96,13 +100,13 @@
 	</lg>
 	
 	<p>	  	
-		 kō-v-irā<hi rend="grantha">ja</hi>kecaripa<choice><orig>n</orig><reg>ṉ</reg></choice>mar-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a tiripuva<choice><orig>n</orig><reg>ṉ</reg></choice>a-cakkaravarttikaḷ <hi rend="grantha">śrī</hi>-k<choice><sic>o</sic><corr>u</corr></choice>lōttuṅka-cōḻa-tēvaṟku Iyāṇtu Iraṇ
+		 kō-v-irā<hi rend="grantha">ja</hi>kecaripa<choice><orig>n</orig><reg>ṉ</reg></choice>mar-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a tiripuva<choice><orig>n</orig><reg>ṉ</reg></choice>a-cakkaravarttikaḷ <hi rend="grantha">śrī</hi>-k<choice><sic>o</sic><corr>u</corr></choice>lōttuṅka-cōḻa-tēvaṟku I-yāṇtu Iraṇ
 		<lb n="6" break="no"/>ṭ-āvatu 
 		</p>
 	
 		<p>	
 		I<hi rend="grantha">rājarāja</hi>-vaḷa-nāṭṭu-p paṉaiyūr-nāṭṭu vāvalūr-nāṭṭu-t tēvatāṉam tiruvāmāttūr Āḷuṭaiya <unclear>A</unclear>ḻakiyatēvar
-		<lb n="7" break="no"/>kōyilil tiruppatiyam pāṭivarum kuruṭa<unclear>r</unclear>kaḷai tavittu nam tēvārattu tiruppatiyam pāṭum poyyāta-cēvaṭi tēva-kaṇāta<choice><orig>n</orig><reg>ṉ</reg></choice>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a
+		<lb n="7" break="no"/>kōyilil tiruppatiyam pāṭivarum kuruṭa<unclear>r</unclear>kaḷai tavi<supplied reason="omitted">r</supplied>ttu nam tēvārattu tiruppatiyam pāṭum poyyāta-cēvaṭi tēva-kaṇāta<choice><orig>n</orig><reg>ṉ</reg></choice>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a
 	<lb n="8"/>Irā<hi rend="grantha">ja</hi><unclear>rā</unclear><hi rend="grantha">ja</hi>p-piccaṉukkum Iva<choice><orig>n</orig><reg>ṉ</reg></choice> vaṟkattārkkum Ik-kōyiṟ tiruppatiya-k-kāṇiyā<unclear>ṉ</unclear>a Ivv-ūr mutal-kāṇiyāka kuṭuttōm
 		</p>
 	
@@ -156,23 +160,24 @@
 	</ab>
 	
 	<p n="1-5">
-		Meykkīrtti of king Kulōttuṅka Cōḻa
+		[<foreign>meykkīrtti</foreign> of Kulōttuṅka II Cōḻa]
 	</p>
 		
 	<p n="5-6">
-		The date is the second year of the king Irājakecaripaṉmar, <foreign>alias</foreign> Tiripuvaṉa-cakkaravartti Śrī-Kulōttuṅka-cōḻa-tēvar.
+		Second year of the king Kulōttuṅka-cōḻa, emperor of the three worlds, <hi rend="italic">alias</hi> the king Rājakesarivarman.
 	</p>
 	
 	<p n="6-8">
-		We  previously gave the land rights <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> of this village so they be converted into land rights <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> <supplied reason="subaudible">for the recitation</supplied> of holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied> in the temple. <supplied reason="subaudible">It was given to</supplied> to Rājarāja Piccaṉ, <foreign>alias</foreign> Poyyāta-cevaṭi Tēvakaṉātaṉ, and his relatives <supplied reason="explanation"><foreign>vaṟkattār</foreign></supplied> so they sing the holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied> of our <foreign>Tēvāram</foreign> after excluding blind people <supplied reason="explanation"><foreign>kuruṭar</foreign></supplied> who utter <supplied reason="explanation"><foreign>pāṭivar</foreign></supplied> the holy hymns in the temple of <supplied reason="subaudible">god</supplied> Āḷuṭaiya-Aḻakiyatēvar of the <foreign>tēvatāṉam</foreign> Tiruvāmāttūr <supplied reason="subaudible">located</supplied> in Vāvalūr-nāṭu <supplied reason="subaudible">belonging to</supplied> Paṉaiyūr-nāṭu <supplied reason="subaudible">in the boundaries of</supplied> Irājarāja-vaḷa-nātu.
+		We have given as <gap reason="ellipsis"/> land rights <supplied reason="explanation"><foreign>mutal-kāṇi</foreign></supplied> in this village which are the land rights <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> rights <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> <supplied reason="subaudible">for the recitation</supplied> of holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied> in the temple 
+		to Rājarāja Piccaṉ, <foreign>alias</foreign> Poyyāta-cevaṭi Tēvakaṉātaṉ, and his relatives <supplied reason="explanation"><foreign>vaṟkattār</foreign></supplied>,
+		so that they sing the holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied> in our <foreign>Tēvāram</foreign><note>Note on the meaning of this term in this context. Ask U. Veluppillai.</note> after excluding blind people <supplied reason="explanation"><foreign>kuruṭar</foreign></supplied> who utter <supplied reason="explanation"><foreign>pāṭivar</foreign></supplied> the holy hymns in the temple of <supplied reason="subaudible">god</supplied> Āḷuṭaiya-Aḻakiyatēvar of the <foreign>tēvatāṉam</foreign> Tiruvāmāttūr <supplied reason="subaudible">located</supplied> in Vāvalūr-nāṭu <supplied reason="subaudible">belonging to</supplied> Paṉaiyūr-nāṭu <supplied reason="subaudible">in the boundaries of</supplied> Irājarāja-vaḷa-nātu.
 	</p>
-	
-	
+		
 	<p n="9-10">
-	The royal order gracefully grants the gift <supplied reason="explanation"><foreign>pirasātam-ceytuvantamai</foreign></supplied> <supplied reason="subaudible"><foreign>of the hereditary rights</foreign></supplied> by divinely proclaiming:
-	“Let it be written in stone that
-		he and his lineage are appointed <supplied reason="subaudible">the hereditary rights</supplied> for the singing of holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied>, which in previous years was appointed to the blind men;
-	according to the agreement <supplied reason="explanation"><foreign>nivantappaṭi</foreign></supplied>, <supplied reason="subaudible">the rights for the land</supplied> are taken from them”. 
+		Since it came <supplied reason="explanation"><foreign>vantaimaiyil</foreign></supplied> to make the grace of a royal order, gracefully proclaiming that:
+	<quote>Let it be written in stone that,
+		according to the agreement <supplied reason="explanation"><foreign>nivanta-p paṭi</foreign></supplied>, <supplied reason="subaudible">the rights for the land</supplied> are taken from them,
+		he and those from his lineage are appointed <supplied reason="subaudible">the hereditary rights</supplied> for the singing of holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied>, which in previous years was appointed to the blind men, <supplied reason="subaudible">thus follow</supplied>:</quote> 
 	</p>
 	
 	<p n="10-15">
@@ -180,10 +185,8 @@
 	</p>
 	
 	<p n="15-19">
-		We have given hereditary rights <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> to Rājarāja Piccaṉ, <foreign>alias</foreign> Ippoyyāta-cevaṭi-tēvar, and his lineage, so they become the ones who appoint <supplied reason="explanation"><foreign>ceytuvar kaṭavarkaḷ</foreign></supplied>  daily reciters <supplied reason="explanation"><foreign>viṇṇappam ceyvār</foreign></supplied> of holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied>, according to the way in which it was done when the land was managed <supplied reason="explanation"><foreign>kaikkoṇṭu</foreign></supplied> by the blind men. <supplied reason="subaudible">They</supplied> formerly made the daily recitation <supplied reason="explanation"><foreign>viṇṇappam ceytu</foreign></supplied> of holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied> on the three junctions of the day <supplied reason="explanation"><foreign>santi</foreign></supplied>. The eighteen great singers of these holy hymns managed <supplied reason="explanation"><foreign>kaikkoṇṭu</foreign></supplied> the land <supplied reason="explanation"><foreign>nilam</foreign></supplied> in accordance to how it was distributed <supplied reason="explanation"><foreign>kalanpaṭiyē</foreign></supplied>  in this village <supplied reason="explanation"><foreign>ūr</foreign></supplied>. 
-
-
-
+		We have given hereditary rights <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> to Rājarāja Piccaṉ, <hi rend="italic">alias</hi> this poyyāta-cevaṭi-tēvar, and those from his lineage, so that they become the ones who appoint <supplied reason="explanation"><foreign>ceytuvar kaṭavarkaḷ</foreign></supplied> daily reciters <supplied reason="explanation"><foreign>viṇṇappam ceyvār</foreign></supplied> of holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied>, according to the way in which it was done when the land was managed <supplied reason="explanation"><foreign>kaikkoṇṭu</foreign></supplied> by the blind men.
+		<supplied reason="subaudible">They</supplied> formerly made the daily recitation <supplied reason="explanation"><foreign>viṇṇappam ceytu</foreign></supplied> of holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied> on the three junctions of the day <supplied reason="explanation"><foreign>santi</foreign></supplied>. The eighteen great singers of these holy hymns managed <supplied reason="explanation"><foreign>kaikkoṇṭu</foreign></supplied> the land <supplied reason="explanation"><foreign>nilam</foreign></supplied> in accordance to how it was distributed <supplied reason="explanation"><foreign>kalanpaṭiyē</foreign></supplied>  in this village <supplied reason="explanation"><foreign>ūr</foreign></supplied>. 
 	</p>
 </div>
             
