@@ -109,7 +109,7 @@
 		</p>
 	
 		<p>
-			aru<unclear>mo</unclear>ḻi tēva-vaḷanāṭṭu ne<unclear>mmali</unclear>-nāṭṭu  koṭṭur koṭṭuruṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> āyarkoḻun
+			aru<unclear>mo</unclear>ḻitēva vaḷanāṭṭu ne<unclear>mmali</unclear>-nāṭṭu  koṭṭur koṭṭuruṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> āyarkoḻun
 	<lb n="7" break="no"/>tu cakkara-pāṇi-y-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">se</hi>nāpatikaḷ v<choice><sic>i</sic><corr>ī</corr></choice>racoḻa<unclear>mu</unclear>ṉaiyat-araiyar<unclear>kku</unclear> nāṅkaḷ kaittiṭṭu-k kuṭutta paric-āvatu Ik-kōyililē-y Āḻvā<choice><orig>n</orig><reg>ṉ</reg></choice>ukku tiru
 	<lb n="8" break="no"/>ppaḷḷi Elucci tiruvāymoḻi vi<unclear>ṇ</unclear>ṇappam ceyya-k kaṭa<unclear>vō</unclear>m āka 
 		</p>
@@ -118,12 +118,12 @@
 			Ivarpakkal nāṇkaḷ koṇṭa cempon aimpati<choice><orig>n</orig><reg>ṅ</reg></choice> kaḻañcu ippon ai
 	<lb n="9" break="no"/>mpati<choice><orig>n</orig><reg>ṅ</reg></choice> kaḻañcu<unclear>ṅ</unclear> koṇṭu <gap reason="lost" unit="character" quantity="6"></gap> keraḷāntaka-vaḷanāṭṭu uṟaiyūrkkūṟṟattu <hi rend="grantha">bramha</hi>tēyam <!--is this right? bramha or brahma-->  <hi rend="grantha">rājāśrī</hi>ya-c caruppeti maṅkalattu nila
 	<lb n="10" break="no"/>ttilē pati nālān=tarattilē-y nilaṅ koṇṭu Irupatān tarattilē-y taram Iḻicci Iṟaiyiṟuttu Ittāl vanta virutti <gap quantity="10" unit="character" reason="lost"></gap>
-	<lb n="11"/>kavum cantirā <gap reason="lost" unit="character" quantity="11"></gap> tiruppaḷḷi Elucci-t tiruvāymoḻi viṇṇappañ ceyyakkāṭa<unclear>vōm āka</unclear><gap quantity="4" unit="character" reason="lost"></gap> 
+	<lb n="11"/>kavum cantirā <gap reason="lost" unit="character" quantity="11"></gap> tiruppaḷḷi Elucci-t tiruvāymoḻi viṇṇappañ ceyyakkāṭa<unclear>vōm āka</unclear> 
 		</p>
 	
 		<p>
-			<supplied reason="lost" cert="low">viṇṇap</supplied>
-	<lb n="12"/>pañ ceyya <gap reason="lost" unit="character" quantity="6"></gap> pati<choice><orig>n</orig><reg>ṉ</reg></choice>eṭṭu nāṭṭu <hi rend="grantha">śrī</hi>vayi<hi rend="grantha">ṣṇa</hi>varkaḷē-y taṅkaḷukk-eṟi<choice><orig>n</orig><reg>ṉ</reg></choice>a-taṇṭaṅ koṇṇtum viṇṇappam ceyvikka<unclear>kaṭavō</unclear>māka <hi rend="grantha">sa</hi><gap extent="unknown" unit="character" reason="lost"></gap>.
+			<gap quantity="4" unit="character" reason="lost"></gap><supplied reason="lost" cert="low">viṇṇap</supplied>
+	<lb n="12"/>pañ ceyya <gap reason="lost" unit="character" quantity="6"></gap> pati<choice><orig>n</orig><reg>ṉ</reg></choice>eṭṭu nāṭṭu <hi rend="grantha">śrī</hi>-vayi<hi rend="grantha">ṣṇa</hi>varkaḷē-y taṅkaḷukk-eṟi<choice><orig>n</orig><reg>ṉ</reg></choice>a-taṇṭaṅ koṇṇtum viṇṇappam ceyvikka<unclear> kaṭavō</unclear>māka <hi rend="grantha">sa</hi><gap extent="unknown" unit="character" reason="lost"></gap>.
 		</p>
 	
 	
@@ -146,7 +146,7 @@
 			</app>
 		
 			<app loc="6">
-			<lem>aru<unclear>mo</unclear>ḻi</lem>
+			<lem>aru<unclear>mo</unclear>ḻitēva</lem>
 			<note>The <foreign>kompu</foreign> in <foreign>mo</foreign> is clear.</note> <!--It is not the kompu, but the other part of the compound vowel. -->
 			</app>
 		
