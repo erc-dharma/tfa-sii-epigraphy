@@ -84,7 +84,7 @@
 <div type="edition" xml:lang="tam-Latn">
           
 	<ab>
-		<lb n="1"/><supplied reason="lost"><hi rend="grantha">svasti śrī <!--punctuation mark that looks like a 2--></hi></supplied>
+		<lb n="1"/><supplied reason="lost"><hi rend="grantha">svasti śrī</hi> {pcs}<!--update encoding of punctuation mark--></supplied>
 	</ab>
 	
 	<lg n="1" met="āciriyappā">
@@ -98,12 +98,12 @@
 	</lg>
 	
 	<p>	  	
-		 k<unclear>ō</unclear>v-i<hi rend="grantha">rāja</hi>-ke<hi rend="grantha">sari-vanmar-ā</hi><choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">cakra</hi>varttikaḷ <hi rend="grantha">śrī</hi>-k<choice><sic>o</sic><corr>u</corr></choice>lōttuṅka<unclear>cōḻa</unclear>-tēvaṟku yāṇṭu pati<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">ai</hi>ñc-āvatu. <!--Add punctuation mark.--> 
+		 k<unclear>ō</unclear>v-i<hi rend="grantha">rāja</hi>-ke<hi rend="grantha">sari-vanmar-ā</hi><choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">cakra</hi>varttikaḷ <hi rend="grantha">śrī</hi>-k<choice><sic>o</sic><corr>u</corr></choice>lōttuṅka<unclear>cōḻa</unclear>-tēvaṟku yāṇṭu pati<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">ai</hi>ñc-āvatu {pcs}<!--update encoding of punctuation mark--> 
 		</p>
 	
 		<p>
 		pāṇṭi
-	<lb n="4"/>kulāca<choice><orig>n</orig><reg>ṉ</reg></choice>i viḷānāṭṭu tiruvaraṅkatt-āḻvā<choice><orig>n</orig><reg>ṉ</reg></choice> kōyilil nivantakkāṟaril <unclear>vaṅkippurattu</unclear> <gap reason="lost" quantity="4" unit="character"></gap> tiruvaraṅkattu nampiyum
+	<lb n="4"/>kulāca<choice><orig>n</orig><reg>ṉ</reg></choice>i viḷānāṭṭu tiruvaraṅkatt-āḻvā<choice><orig>n</orig><reg>ṉ</reg></choice> kōyilil nivantakkāṟaril <unclear>vaṅkippurattu</unclear> <gap reason="lost" quantity="4" unit="character"/> tiruvaraṅkattu nampiyum
 	<lb n="5"/>iva<choice><orig>n</orig><reg>ṉ</reg></choice> maka<choice><orig>n</orig><reg>ṉ</reg></choice> ma<choice><orig>nn</orig><reg>ṉṉ</reg></choice>aṉ tiruvaraṅ<supplied reason="lost">ka</supplied> nampiyum ma<choice><orig>nn</orig><reg>ṉṉ</reg></choice>aṉ veṇ<unclear>ṇai</unclear>kkūtta<choice><orig>n</orig><reg>ṉ</reg></choice>-āna tirukkaṇṇāpuratt araiyarum ma<choice><orig>nn</orig><reg>ṉṉ</reg></choice>aṉ tiruviṇṇakar nampiyum
 	<lb n="6"/>ma<choice><orig>nn</orig><reg>ṉṉ</reg></choice>a<choice><orig>ṉ</orig><reg>n</reg></choice> tirun<unclear>āṭṭu</unclear> nampiyum Āka Iv-va<unclear>ṉai</unclear><unclear>v</unclear>ōm 
 		</p>
@@ -116,14 +116,14 @@
 	
 		<p>
 			Ivarpakkal nāṇkaḷ koṇṭa cempon aimpati<choice><orig>n</orig><reg>ṅ</reg></choice> kaḻañcu ippon ai
-	<lb n="9" break="no"/>mpati<choice><orig>n</orig><reg>ṅ</reg></choice> kaḻañcu<unclear>ṅ</unclear> koṇṭu <gap reason="lost" unit="character" quantity="6"></gap> keraḷāntaka-vaḷanāṭṭu uṟaiyūrkkūṟṟattu <hi rend="grantha">bramha</hi>tēyam <!--is this right? bramha or brahma-->  <hi rend="grantha">rājāśrī</hi>ya-c caruppeti maṅkalattu nila
-	<lb n="10" break="no"/>ttilē pati nālān=tarattilē-y nilaṅ koṇṭu Irupatān tarattilē-y taram Iḻicci Iṟaiyiṟuttu Ittāl vanta virutti <gap quantity="10" unit="character" reason="lost"></gap>
-	<lb n="11"/>kavum cantirā <gap reason="lost" unit="character" quantity="11"></gap> tiruppaḷḷi Elucci-t tiruvāymoḻi viṇṇappañ ceyyakkāṭa<unclear>vōm āka</unclear> 
+	<lb n="9" break="no"/>mpati<choice><orig>n</orig><reg>ṅ</reg></choice> kaḻañcu<unclear>ṅ</unclear> koṇṭu <gap reason="lost" unit="character" quantity="6"/> keraḷāntaka-vaḷanāṭṭu uṟaiyūrkkūṟṟattu <hi rend="grantha">bramha</hi>tēyam <!--is this right? bramha or brahma-->  <hi rend="grantha">rājāśrī</hi>ya-c caruppeti maṅkalattu nila
+	<lb n="10" break="no"/>ttilē pati nālān=tarattilē-y nilaṅ koṇṭu Irupatān tarattilē-y taram Iḻicci Iṟaiyiṟuttu Ittāl vanta virutti <gap quantity="10" unit="character" reason="lost"/>
+	<lb n="11"/>kavum cantirā <gap reason="lost" unit="character" quantity="11"/> tiruppaḷḷi Elucci-t tiruvāymoḻi viṇṇappañ ceyyakkāṭa<unclear>vōm āka</unclear> 
 		</p>
 	
 		<p>
-			<gap quantity="4" unit="character" reason="lost"></gap><supplied reason="lost" cert="low">viṇṇap</supplied>
-	<lb n="12"/>pañ ceyya <gap reason="lost" unit="character" quantity="6"></gap> pati<choice><orig>n</orig><reg>ṉ</reg></choice>eṭṭu nāṭṭu <hi rend="grantha">śrī</hi>-vayi<hi rend="grantha">ṣṇa</hi>varkaḷē-y taṅkaḷukk-eṟi<choice><orig>n</orig><reg>ṉ</reg></choice>a-taṇṭaṅ koṇṇtum viṇṇappam ceyvikka<unclear> kaṭavō</unclear>māka <hi rend="grantha">sa</hi><gap extent="unknown" unit="character" reason="lost"></gap>.
+			<gap quantity="4" unit="character" reason="lost"/><supplied reason="lost" cert="low">viṇṇap</supplied>
+	<lb n="12"/>pañ ceyya <gap reason="lost" unit="character" quantity="6"/> pati<choice><orig>n</orig><reg>ṉ</reg></choice>eṭṭu nāṭṭu <hi rend="grantha">śrī</hi>-vayi<hi rend="grantha">ṣṇa</hi>varkaḷē-y taṅkaḷukk-eṟi<choice><orig>n</orig><reg>ṉ</reg></choice>a-taṇṭaṅ koṇṇtum viṇṇappam ceyvikka<unclear> kaṭavō</unclear>māka <hi rend="grantha">sa</hi><gap extent="unknown" unit="character" reason="lost"/>.
 		</p>
 	
 	
