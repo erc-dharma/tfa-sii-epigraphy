@@ -92,8 +92,8 @@
 	</ab>
 	
 	<lg n="1" met="āciriyappā">
-		<l n="1">pū-mēvu-vaḷar tiruppōn mārvu puṇara</l>
-		<l n="2">nām-ēvu kalaimakaḷ nilam peritu ciṟappa</l>
+		<l n="1">pū mēvu vaḷara tiruppo<choice><orig>n</orig><reg>ṉ</reg></choice> mār<choice><orig>v</orig><reg>p</reg></choice>u puṇara</l>
+		<l n="2">nā mēvu kalaimakaḷ nilam peritu ciṟappa</l>
 		<l n="3">vi<supplied reason="lost">c</supplied>aiya-māmakaḷ <unclear>taṉ ṉiru</unclear>-puyatt-iruppa</l>
 		<l n="4">Icai<lb n="2" break="no"/>yiṉcelvi Eṇṭicai viḷaṅka</l>
 		<l n="5">nirupar vant-iṟaiñca nīṇila-maṭantaiy<unclear>ai</unclear>-t</l>
@@ -116,7 +116,7 @@
 		<p>	
 		I<hi rend="grantha">rājarāja</hi>-vaḷa-nāṭṭu-p paṉaiyūr-nāṭṭu vāvalūr-nāṭṭu-t tēvatāṉam tiruvāmāttūr Āḷuṭaiya <unclear>A</unclear>ḻakiyatēvar
 		<lb n="7" break="no"/>kōyilil tiruppatiyam pāṭivarum kuruṭa<unclear>r</unclear>kaḷai tavi<supplied reason="omitted">r</supplied>ttu nam tēvārattu tiruppatiyam pāṭum poyyāta-cēvaṭi tēva-kaṇāta<choice><orig>n</orig><reg>ṉ</reg></choice>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a
-	<lb n="8"/>Irā<hi rend="grantha">ja</hi><unclear>rā</unclear><hi rend="grantha">ja</hi>p-piccaṉukkum Iva<choice><orig>n</orig><reg>ṉ</reg></choice> vaṟkattārkkum Ik-kōyiṟ tiruppatiya-k-kāṇiyā<unclear>ṉ</unclear>a Ivv-ūr mutal-kāṇiyāka kuṭuttōm
+	<lb n="8"/>Irā<hi rend="grantha">ja</hi><unclear>rā</unclear><hi rend="grantha">ja</hi>p-piccaṉukkum Iva<choice><orig>n</orig><reg>ṉ</reg></choice> vaṟkattārkkum Ik-kōyiṟ tiruppatiya-k-kāṇi-y-ā<unclear>ṉ</unclear>a Ivv-ūr mutal-kāṇiyāka kuṭuttōm
 		</p>
 	
 		<p>				
@@ -124,7 +124,7 @@
 			<lb n="10" break="no"/>-p-paṭi Ivarkaḷukkum viṭṭuk kalveṭṭuka-v enṟu tiruvāymoḻintu tirumukam pira<hi rend="grantha">sā</hi>tañ ceytu vant-amaiyi<choice><sic>ṟ</sic><corr>ṉ</corr></choice> 
 			
 			Ik-kuruṭar <lb n="11" break="no"/>kaḷ muṉpil āṇṭukaḷ A<choice><orig>n</orig><reg>ṉ</reg></choice>upavattiṉ paṭi pāṭi varuṅ kuruṭa<supplied reason="lost">r</supplied>kaḷ pēr pati<choice><orig>n</orig><reg>ṉ</reg></choice>aṟuvarum Ivarkaḷukku kaṇkāṭṭuvār Iruvarum Ā
-			<lb n="12" break="no"/>kap pēr pati<choice><orig>n</orig><reg>ṉ</reg></choice>eṇmarkku pērāl nellu patakk-āka nāḷ-oṉṟukku nellu mukkalam-āka nāḷ mu<choice><orig>n</orig><reg>ṉ</reg></choice>ṉūṟṟ' aṟupatukku nellu Āyi
+			<lb n="12" break="no"/>ka-p pēr pati<choice><orig>n</orig><reg>ṉ</reg></choice>eṇmarkku pērāl nellu patakk-āka nāḷ-oṉṟukku nellu mukkalam-āka nāḷ mu<choice><orig>n</orig><reg>ṉ</reg></choice>ṉūṟṟ' aṟupatukku nellu Āyi
 			<lb n="13" break="no"/>ratt' eṇpatiṉ kalamum puṭavai-mutalukku pērāl kācu Oṉṟ-āka kācu pati<choice><orig>n</orig><reg>ṉ</reg></choice>eṭṭukku kācu Oṉṟukku nellu Irupati<choice><orig>n</orig><reg>ṉ</reg></choice> kalamāka va
 			<lb n="14" break="no"/>nta nellu Āyirattu nānūṟṟu nāṟpatiṉ kalattukku vēli Oṉṟukku nellu nūṟṟ' iru	
 			<lb n="15" break="no"/>patiṉ kalamāka It-tēvar tēvatānam kaṭuva<choice><orig>n</orig><reg>ṉ</reg></choice>ūril viṭṭa nilam pa<choice><orig>nn</orig><reg>ṉṉ</reg></choice>iru vēli In-nilam pa<choice><orig>nn</orig><reg>ṉṉ</reg></choice>iru-vēliyum kāṇiyāka 
@@ -159,7 +159,7 @@
     	
 </div>
     	
-<div type="translation" resp="part:reda">
+<div type="translation" resp="part:reda part:emfr">
 	
 	<ab n="1">
 		Prosperity! Fortune!
@@ -176,23 +176,22 @@
 	<p n="6-8">
 		We have given — as <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>mutal</foreign></supplied> land rights <supplied reason="explanation"><foreign>kāṇi-y-āka</foreign></supplied> in this village, which are the land rights <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> rights <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> <supplied reason="subaudible">for the recitation</supplied> of holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied> in the temple —
 		to Rājarāja Piccaṉ, <foreign>alias</foreign> Poyyāta Cevaṭi Tēvakaṉātaṉ, and his relatives <supplied reason="explanation"><foreign>vaṟkattār</foreign></supplied>,
-		so that they sing the holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied> in our <foreign>Tēvāram</foreign><note>Note on the meaning of this term in this context. Ask U. Veluppillai.</note>, after excluding <supplied reason="explanation"><foreign>tavi<supplied reason="omitted">r</supplied>ttu</foreign></supplied> blind people <supplied reason="explanation"><foreign>kuruṭar</foreign></supplied> who utter <supplied reason="explanation"><foreign>pāṭivar</foreign></supplied> the holy hymns in the temple of <supplied reason="subaudible">god</supplied> Āḷuṭaiya-Aḻakiyatēvar of the <foreign>tēvatāṉam</foreign> Tiruvāmāttūr <supplied reason="subaudible">located</supplied> in Vāvalūr-nāṭu <supplied reason="subaudible">belonging to</supplied> Paṉaiyūr-nāṭu <supplied reason="subaudible">belonging to</supplied> Irājarāja-vaḷa-nātu.
+		so that they sing the holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied> in our <foreign>Tēvāram</foreign><note>Note on the meaning of this term in this context. Ask U. Veluppillai.</note>, after dicontinuing <supplied reason="explanation"><foreign>tavi<supplied reason="omitted">r</supplied>ttu</foreign></supplied> <supplied reason="subaudible">the arrangement concerning</supplied> the blind people <supplied reason="explanation"><foreign>kuruṭar</foreign></supplied> who utter <supplied reason="explanation"><foreign>pāṭivar</foreign></supplied> the holy hymns in the temple of <supplied reason="subaudible">god</supplied> Āḷuṭaiya-Aḻakiyatēvar of the <foreign>tēvatāṉam</foreign> Tiruvāmāttūr <supplied reason="subaudible">located</supplied> in Vāvalūr-nāṭu <supplied reason="subaudible">belonging to</supplied> Paṉaiyūr-nāṭu <supplied reason="subaudible">belonging to</supplied> Irājarāja-vaḷa-nātu.
 	</p>
 		
 	<p n="9-15">
-		Since it came <supplied reason="explanation"><foreign>vantaimaiyil</foreign></supplied> that he<note>That is, the ruling king.</note> made the grace <supplied reason="explanation"><foreign>pira<hi rend="grantha">sā</hi>tañ ceytu</foreign></supplied> of a royal order, gracefully proclaiming that:
+		Since it came <supplied reason="explanation"><foreign>vantaimaiyil</foreign></supplied> that he<note>That is, the ruling king.</note> made the grace <supplied reason="explanation"><foreign>pira<hi rend="grantha">sā</hi>tañ ceytu</foreign></supplied> <supplied reason="subaudible">of</supplied> a royal order, gracefully proclaiming that:
 	<quote>Let it be written on stone that,
-		having appointed <supplied reason="explanation"><foreign>iṭṭu</foreign><note>Literally, "having put."</note></supplied> those of his lineage 
-		according to the agreement <supplied reason="explanation"><foreign>nivanta-p paṭi</foreign></supplied>, which comes giving <supplied reason="explanation"><foreign>viṭṭu</foreign><note>Literally, "leaving."</note></supplied> to blind men in previous years, having them singing holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied></quote>,
-		
-		according to what these blind men enjoyed in the previous years,
+		having appointed <supplied reason="explanation"><foreign>iṭṭu</foreign><note>Literally, "having put."</note></supplied> those of his lineage,
+		it is given <supplied reason="explanation"><foreign>viṭṭu</foreign><note>Literally, "leaving."</note></supplied> to them,
+		according to the agreement <supplied reason="explanation"><foreign>nivanta-p paṭi</foreign></supplied>, which gives <supplied reason="explanation"><foreign>viṭṭu</foreign><note>Literally, "leaving."</note></supplied> to blind men in previous years, having them singing holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied></quote>,
 		<list>
-			<item>so that there be sixteen persons, <supplied reason="subaudible">that is</supplied>, the blind men who come to sing, and two persons <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>kaṇkāṭṭuvār</foreign></supplied> to them,</item>
+			<item>so that there be sixteen persons, <supplied reason="subaudible">that is</supplied>, the blind men who <supplied reason="subaudible">used to</supplied> come to sing according to what these blind enjoyed in the previous years, and two persons <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>kaṇkāṭṭuvār</foreign><note>See MTL:<foreign> kaṇ-kāṭṭuvāṉ</foreign>, n., one who leads the blind; referring to this very inscription.</note></supplied> to them,</item>
 			<item>so that there be a <foreign>patakku</foreign><note>That is, 2 <foreign>kuṟuṇi</foreign>s.</note> for the sake of <supplied reason="explanation"><foreign>pērāl</foreign><note>Literally, "in the name of."</note></supplied> eighteen persons,</item>
 			<item>so that there be three <foreign>kalam</foreign>s of paddy per day,</item>
 		</list>
 		
-		<supplied reason="subaudible">there are</supplied> one thousand eighty <foreign>kalam</foreign>s of paddy for thre hundred sixty days,
+		<supplied reason="subaudible">there are</supplied> one thousand eighty <foreign>kalam</foreign>s of paddy for three hundred sixty days,
 		
 		<list>
 			<item>so that there be one gold coin for the sake of <supplied reason="explanation"><foreign>pērāl</foreign><note>Literally, "in the name of."</note></supplied> capital for clothes <supplied reason="explanation"><foreign>puṭavai-mutal</foreign></supplied></item>
@@ -206,7 +205,7 @@
 		
 	<p n="15-19">
 		<supplied reason="subaudible">All of this</supplied>, we have given as land rights <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> to Rājarāja Piccaṉ, <hi rend="italic">alias</hi> this Poyyāta Cevaṭi Tēvar, and those from his lineage, 
-		so that they become the ones who have to come to appoint <supplied reason="explanation"><foreign>ceytu vara kaṭavarkaḷ</foreign></supplied> those who do recitation <supplied reason="explanation"><foreign>viṇṇappam ceyvār</foreign></supplied> of these holy hymns <supplied reason="explanation"><foreign>it-tiruppatiyam</foreign></supplied>,
+		so that they become the ones who have to come <supplied reason="explanation"><foreign>ceytu vara kaṭavarkaḷ</foreign></supplied> <supplied reason="subaudible">as</supplied> those who do recitation <supplied reason="explanation"><foreign>viṇṇappam ceyvār</foreign></supplied> of these holy hymns <supplied reason="explanation"><foreign>it-tiruppatiyam</foreign></supplied>,
 		in a manner that eighteen persons, singers of this <foreign>tiruppatiyam</foreign> come,
 		having taken in hands according to the way land of this village is distributed (?)  <supplied reason="explanation"><foreign>kalanta</foreign></supplied>	,	
 		coming for three <foreign>saṃdhyā</foreign>s,
