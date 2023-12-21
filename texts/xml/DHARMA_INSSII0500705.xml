@@ -219,7 +219,7 @@
     	
 </div>
     	
-<div type="translation" resp="part:reda">
+<div type="translation" resp="part:reda part:emfr">
 	
 	<p n="1">
 		Prosperity! Fortune!
@@ -292,9 +292,8 @@
 				and Vayanāṭṭāraiyar
 			</item>
 		</list>
-		have signed.
+		have signed.	
 		
-		<!--I have taken the official titles from the Glossary of Pondicherry Inscriptions, add in bibliography. I first thought that their names were not their actual names, but rather some kind of post within their organization. However, this does not seem to be the case, for example, with purovari srikarana nayakam cerruutaiyan which could could be interpreted as head of the revenue department, Lord/in charge/head of/leader of the village named Cerrur. I found a names Cerrur and no village... Look further?-->
 	</p>
 	
 	<p n="10-11">
@@ -302,10 +301,10 @@
 		
 		<list>
 			<item>a land in the middle portion <supplied reason="explanation"><foreign>naṭuviṟ kaṇṭattu</foreign></supplied>, which is a <foreign>devadāna</foreign> of this god, <supplied reason="subaudible">and which is situated</supplied>
-				east of Kulōttuṅka-cōḻa-vati, in Cempiyaṉ Kuḷattūr <!--<supplied reason="explanation">the village with the tank <supplied reason="subaudible">belonging to</supplied> the king</supplied>--> in Tiraimūrnāṭu in Uyyakoṇṭārvaḷanāṭu,
+				east of Kulōttuṅka-cōḻa-vati, in Cempiyaṉ Kuḷattūr in Tiraimūrnāṭu in Uyyakoṇṭārvaḷanāṭu,
 				south of the Muñci branch canal <supplied reason="explanation"><foreign>kaṇṇāṟu</foreign></supplied>,
 				west of Kiṭāraṅkoṇṭacōḻavati,
-				north of Tarāppaḷḷākkaṇṭam<note>Tārāppaḷḷākkaṇṭam in line 12.</note> <!--<supplied reason="explanation">the northern portion enclosed by <supplied reason="explanation"><foreign>kaṇṭam</foreign></supplied> a ditch of land <supplied reason="subaudible">for regulating water</supplied> <supplied reason="explanation"><foreign>tarāppaḷḷam</foreign></supplied></supplied>-->,
+				north of Tarāppaḷḷākkaṇṭam<note>Tārāppaḷḷākkaṇṭam in line 12.</note>,
 				<supplied reason="subaudible">and which consists in</supplied>
 				one <supplied reason="subaudible"><foreign>vēli</foreign></supplied>, three quarters <supplied reason="explanation"><foreign>mukkālē</foreign></supplied>, one hundred-and-sixtieth <supplied reason="explanation"><foreign>araikkāṇi</foreign></supplied>, one three-hundred-and-twentieth <supplied reason="explanation"><foreign>muntirikai</foreign></supplied>, one six-hundred-fortieth <supplied reason="explanation"><foreign>kīḻarai</foreign></supplied></item>
 			<item><supplied reason="subaudible">and</supplied> south of this, a land <supplied reason="subaudible">and which is situated</supplied>
@@ -373,7 +372,7 @@
 			<citedRange unit="item">705</citedRange>
 		</bibl>
 		
-		<!--Add Palaniappan-->
+		
 		
 	</listBibl>
 	
@@ -386,6 +385,7 @@
 			<citedRange unit="item">333</citedRange>-\->
 		<!-\-</bibl>-\->
 		
+		Add Palaniappan
 		There is a partial translation in Archeology of Bhakti. Hagiography vs History p. 331-332
 	</listBibl>-->
 	
@@ -397,7 +397,4 @@
 	Metadata:
 	south wall, second prākāra
 -->
-<!--<p n="10">
-		The <foreign>tēvatāṉam</foreign> for this god comprises three quarters <supplied reason="explanation"><foreign>mukkālē</foreign></supplied>, one one-hundred-and-sixtieth <supplied reason="explanation"><foreign>araikkāṇi</foreign></supplied>, one three-hundred-and-twentieth <supplied reason="explanation"><foreign>muntirikai</foreign></supplied>, one six-hundred-fortieth <supplied reason="explanation"><foreign>kīḻarai</foreign></supplied> of one land <supplied reason="explanation"><foreign>nilam oṉṟai</foreign></supplied> divided into two <supplied reason="explanation"><foreign>naṭuviṟ kaṇṭattu</foreign></supplied>; the northern portion enclosed by <supplied reason="explanation"><foreign>kaṇṇtattu</foreign></supplied> a ditch of land  <supplied reason="subaudible">for regulating water</supplied> <supplied reason="explanation"><foreign>tarāp paḷḷa</foreign></supplied>; to the west, <supplied reason="subaudible">the land of</supplied> Kiṭāraṅ-koṇṭa-cōḻa-vati; to the south, the branch cannal <supplied reason="explanation"><foreign>kaṇṇāṟu</foreign></supplied>, and the east facing <supplied reason="explanation">to the land of</supplied> Kulōttuṅka-cōḻa-vati, in the village with the tank <supplied reason="subaudible">belonging to</supplied> the king of Tiraimūr-nāṭu in Uyyakoṇṭār-vaḷa-nāṭu
-		<!-\-This seems to be very precise, although I ignore most of the used terminology here. First, I just separated the measurements with commas. Will deal with that in another time. Doubts: nilam onrai is it one land? It would be curious because next paragraph also mentions other measurements for another nilam. Maybe this is one half of the land that is divided into two (natuvir kantattu) but I'm not even sure if that is what they refer to. A land with an intermediate division? Then I understood this tara palla as tara being land and palla being a hole. So it would mean sth like the ditch hole used as the main drainage system, although I have absolutely no idea of how paddy fields worked back then. By the way, I have the impression that the branch cannal (kannaru) was coming from the pond itself. According to Google Maps, there is a pond in Tiruvitaimarutur with a perimeter of around 400m  so it would have made sense that the branch cannal that feeds the paddy field came directly from the pond (the kaveri river is 1,3 km fr. the pond, so depending on where the actual land was, it could have come from the river).  -\->
-		</p>-->
+

@@ -84,7 +84,7 @@
 <div type="edition" xml:lang="tam-Latn">
           
 	<ab>
-		<lb n="1"/><supplied reason="lost"><hi rend="grantha">svasti śrī</hi> {pcs}<!--update encoding of punctuation mark--></supplied>
+		<lb n="1"/><supplied reason="lost"><hi rend="grantha">svasti śrī</hi> <g type="pc">.</g></supplied>
 	</ab>
 	
 	<lg n="1" met="āciriyappā">
@@ -101,7 +101,7 @@
 	</lg>
 	
 	<p>	  	
-		k<unclear>ō</unclear>-v-i<hi rend="grantha">rāja</hi>-kē<hi rend="grantha">sari-vanmar-ā</hi><choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">cakra</hi>varttikaḷ <hi rend="grantha">śrī</hi>-k<choice><sic>o</sic><corr>u</corr></choice>lōttuṅka-<unclear>cōḻa</unclear>-tēvaṟku yāṇṭu pati<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">ai</hi>ñc-āvatu {pcs}<!--update encoding of punctuation mark--> 
+		k<unclear>ō</unclear>-v-i<hi rend="grantha">rāja</hi>-kē<hi rend="grantha">sari-vanmar-ā</hi><choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">cakra</hi>varttikaḷ <hi rend="grantha">śrī</hi>-k<choice><sic>o</sic><corr>u</corr></choice>lōttuṅka-<unclear>cōḻa</unclear>-tēvaṟku yāṇṭu pati<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">ai</hi>ñc-āvatu <g type="pc">.</g> 
 	</p>
 	
 	<p>
@@ -138,26 +138,27 @@
     	   
 	<listApp>
 		
-		<!--<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:bib:SrinivasaRao1997_01">...</rdg>
-		</app>	-->
+		<app loc="1">
+			<lem><supplied reason="lost"><hi rend="grantha">svasti śrī</hi> <g type="pc">.</g></supplied></lem>
+			<rdg source="bib:KrishnaSastri1923_01"/>
+			<note>Restoring these initial blessings seems unnecessary</note>
+		</app>	
 		
 		<app loc="3">
 			<lem>k<unclear>ō</unclear>°</lem>
 			<note>The <foreign>kompu</foreign> only is unclear.</note>
-			</app>
+		</app>
 		
-			<app loc="6">
+		<app loc="6">
 			<lem>aru<unclear>mo</unclear>ḻitēva</lem>
-			<note>The <foreign>kompu</foreign> in <foreign>mo</foreign> is clear.</note> <!--It is not the kompu, but the other part of the compound vowel. -->
-			</app>
-			
+			<note>The <foreign>kompu</foreign> in <foreign>mo</foreign> is clear.</note>
+		</app>
+		
 	</listApp>    			
     	
 </div>
     	
-<div type="translation" resp="part:reda">
+<div type="translation" resp="part:reda part=emfr">
 	
 	<ab n="1">
 		Prosperity! Fortune!
@@ -193,7 +194,7 @@
 <div type="bibliography">
     		
 	<p>
-		First edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4, no. 507); encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2023), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>.
+		First edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4, no. 508); encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2023), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>.
 	</p>	
 	
 	<listBibl type="primary">
@@ -201,7 +202,7 @@
 		<bibl n="SR">
 			<ptr target="bib:KrishnaSastri1923_01"/>
 			<citedRange unit="page">146-147</citedRange>
-			<citedRange unit="item">507</citedRange>
+			<citedRange unit="item">508</citedRange>
 		</bibl>
 		
 	</listBibl>
