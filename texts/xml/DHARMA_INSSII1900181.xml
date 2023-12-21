@@ -136,7 +136,7 @@
 	<p>	
 		<lb n="1"/>nalluḻān <gap reason="lost" quantity="6" unit="character"/> <unclear>vilai</unclear> koṇṭa mu<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu māvum i<supplied reason="omitted">v</supplied>-vūr Ivaṉai-c cukku <gap reason="lost" unit="character" quantity="5"/> m nāṉ vilai koṇṭ-uṭaiya Iru-vēli-c ceyyum tiru-viṭaimarutil <hi rend="grantha">śrī-mūlasthā</hi><supplied reason="lost">na</supplied> <gap reason="lost" extent="unknown" unit="character"/>
 		
-		<lb n="2"/>Iv-vūr nā<choice><orig>n</orig><reg>ṉ</reg></choice> Eṭuppitta <hi rend="grantha">śrī</hi>-kōyil <unclear>paṭṭar</unclear>kaḷukkum Āka-k kuṭuttē<choice><orig>n</orig><reg>ṉ</reg></choice> ~<!--update encoding punctuation-->
+		<lb n="2"/>Iv-vūr nā<choice><orig>n</orig><reg>ṉ</reg></choice> Eṭuppitta <hi rend="grantha">śrī</hi>-kōyil <unclear>paṭṭar</unclear>kaḷukkum Āka-k kuṭuttē<choice><orig>n</orig><reg>ṉ</reg></choice> <g type="hyphen">.</g>
 	</p>
 	
 	<p>
@@ -295,7 +295,7 @@
     	
 </div>
     	
-<div type="translation" resp="part:reda">
+<div type="translation" resp="part:reda part:emfr">
 	
 	<div type="textpart" subtype="fragment" n="1">
 	<head xml:lang="eng">Fragment 1</head>
