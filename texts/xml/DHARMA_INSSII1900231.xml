@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			   <title>On the wall of the second <foreign>gōpura</foreign> right of entrance of Grāmārdhanātha Temple, 17th year of king Vikrama Cōḻa.</title>
+			   <title>On the south wall of the central shrine, Kārkōṭakēśvara temple (Tirunallūr-Parameśvara temple), Kāmarasavalli, Tiruchirappali district.</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -27,7 +27,7 @@
 			<publicationStmt>
 				<authority>DHARMA</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSSII2200165</idno>
+				<idno type="filename">DHARMA_INSSII1900231</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -93,13 +93,53 @@
                <lb n="1"/><hi rend="grantha">svasti śrī</hi>
             </p>
             <p>
-            <lb n="1"/>vikramacōḻatēvaṟku yāṇṭu <g type="numeral">10</g><g type="numeral">7</g>-Āvatu milāṭākiya jaṉanātavaḷa nāṭṭu pānūṟkūṟṟattu <hi rend="grantha">brahmade</hi>ya<unclear>m</unclear> Iṟaiyāṉaraiyūrāṉa śrīcōḻakeraḷac catuvvetimaṅkalattu ūrpākaṅkoṇṭatēvar
-            <lb n="2"/>kōyilil tiruppaḷḷi Aṟai Āḷuṭaiyāḷ tirunāyaṟṟuk kiḻamaitōṟum puṟampē Eḻuntaruḷit tiruccāḻal keṭṭaruḷi Amutuce<unclear>y</unclear>taruḷi kōyililaic cuḻal Eḻuṉtaruḷi mēlē Eḻuntaruḷukaikku Aṟṟai nāḷaikku vēṇṭum Aḻivukku Uḷvari tiru
-            <lb n="3" break="no"/>nāyaṟṟuk kiḻamai Oṉṟukku ti 
-            <lb n="4" break="no"/>ruvamutu Arici mukkuṟuṇikku nellu Eḻukuṟuṇi nānāḻiyum kaṟi Amutukku nellu nānāḻiyum neyyamutu Uḻakkukku nellu kuṟuṇiyum taiyir Amutu Irunāḻikku nellu nānāḻiyum miḷa<unclear>k</unclear>ku  Amutu Oru paṭikku nellu muṉ nāḻiyum Uppamutu Urikku nellu Irunā<gap reason="lost" quantity="4" unit="character"></gap>
-            <lb n="5" break="no"/>yum tiruviḷakkeṇṇai nāḻikku nellut tūṇiyum Aka nāḷ Oṉṟukku nelluk kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē mukkuṟuṇi Aka Ippaṭi <hi rend="grantha">śantr</hi>ātittavaṟ cellak kaṭavatāka Iṉnimaṉtam celkaikku taṟai Uṭaiyāṉ viccātiraṉ cakāyanāna viñcirāyaṉ Ivvūr pā<gap unit="character" quantity="5" reason="lost"></gap>
-           <lb n="6"/>Ivviruvar pakka<unclear>l</unclear>lum vilaikoṇṭu viṭṭa cōḻakēraḷa nallūrkkuk kiḻpā<supplied reason="lost">ṟ</supplied>kkellai <hi rend="grantha">de</hi>vatāṉam nal Araicūr Ellai <supplied reason="lost">me</supplied>nakum <!--what is this?--> piṭākai ciṟupāttu Ellaikku me<supplied reason="lost">ṟ</supplied>kkum teṉpā<supplied reason="lost">ṟ</supplied>kke<supplied reason="lost">l</supplied>lai ūriniṉṟum kumaramaṇkala<supplied reason="lost">t</supplied>teṟappona vaḻikku vaṭakkum mēlpā<supplied reason="lost">ṟ</supplied>k<gap reason="lost" quantity="1" unit="character"></gap>e<gap reason="lost" unit="character" quantity="9"></gap>
-           <lb n="7"/>Āka Icaitta perunāṅke<unclear>llai</unclear> Uḷ Akappaṭṭa Eriyum naṉceyum puṉceyum A<supplied reason="lost">ka</supplied>Ittaṉaiyum Itt<supplied reason="lost">ē</supplied>var tirunāmattilē vilaikoṇṭu Ittanamam śantrātittavaṟ śrīkāriyañceyvār mutal Iṭṭuk koṇṭu śrīpaṇṭārattilē Aḷan=tu viṭṭu cella   
+           <lb n="1"/>kō-p parakē<hi rend="grantha">sa</hi>ripanra<unclear>rk</unclear>ku yāṇṭu <g type="numeral">9</g> Āvatu
+<!--No idea what comes after kesari-->           
+           <lb n="2" break="no"/>vaṭakarai <hi rend="grantha">brahma</hi>teyam <hi rend="grantha">śrī</hi>kāmaravallicatu<hi rend="grantha">r</hi>ve
+           <lb n="3" break="no"/>timaṅkalattu peruṅkuṟi perumakkaḷōm I
+           <lb n="4" break="no"/>vvāṭṭai <g type="numeral">10</g>ṉunāyaṟṟu  viyāḻa-<supplied reason="lost">k</supplied> kiḻamai pe
+            <!--	is it a number?-->
+           <lb n="5" break="no"/>ṟṟa kār<supplied reason="lost">t</supplied>tikaināṉṟu taṭṭaḻikoṭṭi peruṅ
+           <lb n="6" break="no"/>kuṟi cāṟṟi maṇṭakattē kūṭi Eḻu=ntaruḷi Iru
+           <lb n="7" break="no"/><unclear>n=tu</unclear> nam tirunallūr <hi rend="grantha">parameśva</hi><supplied reason="lost">r</supplied>kku can=trātit	
+           <lb n="8" break="no"/>tavaṟ <hi rend="grantha">śrī</hi>paliyum tiruppaḷḷi  Eḻucciyum koḷ
+           <lb n="9" break="no"/>vataṟku peruṅkuṟi perumakkaḷōm vaittu-k ku
+           <lb n="10" break="no"/>ṭutta <hi rend="grantha">ji</hi>vitam āvatu <hi rend="grantha">śrī</hi>kotaṇṭarāma-vāykkā
+           <lb n="11" break="no"/>l-k kiḻ nirpūci nel viḷaiyum nilam ellām 
+           <lb n="12"/>virivu māttāl tūṇi-p patakku nel Aṇaik
+           <lb n="13" break="no"/>ku vaitta nellilē māttāl kuṟuṇi nel
+           <lb n="14"/>pūttōṟum koḷḷa-<supplied reason="lost">p</supplied> peṟuvat’ āka Av Avva āṇ
+           <lb n="15" break="no"/>ṭu Ūrvāriyam ceyyum pe<unclear>rumak</unclear>kaḷē terica
+           <lb n="16"/>tt’ oppu puka Iṭa<supplied reason="lost">k</supplied>kaṭavarākavum<gap reason="lost" quantity="3" unit="character"></gap> 
+           <lb n="17"/><gap unit="character" quantity="2" reason="lost"></gap>rippiṉpaṭi tēvakaṉmikaḷ kaṉali<gap unit="character" reason="lost" quantity="1"></gap>
+           <lb n="18"/><gap unit="character" reason="lost" quantity="1"></gap>taṇṭikoḷḷa-<supplied reason="lost">p</supplied> peṟuvār ākavum I
+           <lb n="19" break="no"/>-p paricu Innel koṇṭu can=t<hi rend="grantha">rā</hi>tit
+           <lb n="20"/>tavaṟ <hi rend="grantha">śrība</hi>li koṭṭuvataṟk’ āka pa
+           <lb n="21" break="no"/>ṇi-p paṇiyāl nālu ceriyilum
+           <lb n="22"/>nallūr <hi rend="grantha">ha</hi>ṭṭaṉ nakkanākaṉ paṇi 
+           <lb n="23" break="no"/>yālum kaṭavūr nārāyaṇaṉ nārayaṇa
+           <lb n="24" break="no"/>ṉ paṇiyālum komaṭattu tiṟukkuṟuṅ 
+           <lb n="25" break="no"/>kuṭi-<hi rend="grantha">k kra</hi>malittaṉ paṇiyālum kirāñci
+           <lb n="26"/>kkam pattipoḻ nārāyaṇahaṭṭa
+           <lb n="27" break="no"/>ṉ paṇiyālum Ipparicu can=t<hi rend="grantha">rā</hi>ti-t tava
+           <lb n="28" break="no"/>ṟ niṟppat'āka <hi rend="grantha">śi</hi>lā<hi rend="grantha">levai</hi> ceytukuṭu<unclear>t</unclear>
+           <lb n="29" break="no"/>tōm peruṅkuṟi perumakkaḷōm <unclear>paṇi</unclear>
+           <lb n="30" break="no"/>yāl <hi rend="grantha">madhyasta</hi>ṉ A<unclear>ma</unclear>ṇa
+           <lb n="31"/>maṅka<hi rend="grantha">laya</hi>ṉāṉ<gap reason="lost" quantity="2" unit="character"></gap> nūṟṟu
+           <lb n="32" break="no"/>vaṉ muṉṉūṟṟuva
+           <lb n="33"/>ṉe<unclear>n</unclear> Ivai-y eṉne
+           <lb n="34" break="no"/>ḻuttu <!--two dandas follow, what is the code?--> Ippaṭi paṇi
+           <lb n="35" break="no"/>yāl <hi rend="grantha">madhyasta</hi>ṉ <hi rend="grantha">brahma</hi>pi<hi rend="grantha">ri</hi>
+           <lb n="36" break="no"/>ya<choice><orig>n</orig><reg>ṉ</reg></choice> eṉ<hi rend="grantha"> Ippaṭi</hi> paṇi
+           <lb n="37" break="no"/>yāl marutūr peruṇkāli 
+           <lb n="38" break="no"/>tiyāṉa pūtaṉ <hi rend="grantha">śrī</hi>kaṇṭa
+           <lb n="39" break="no"/>neṉ<!--two dandas follow and one horizontal line, what is the code?-->
+           <lb n="40"/>Ippaṭi paṇiyā<unclear>l</unclear> <hi rend="grantha">madhyasta</hi> 
+           <lb n="41" break="no"/>ṉ Ecu Ippaṭi <supplied reason="lost">Aṟi</supplied>veṉ<gap reason="lost" unit="character" quantity="2"></gap>
+           <lb n="42" break="no"/>neṉ<!--two dandas follow and one horizontal line, what is the code?--> Ippaṭi <supplied reason="lost">paṇi</supplied>]yāl <hi rend="grantha">ma</hi>
+           <lb n="43" break="no"/><hi rend="grantha">dhyasta</hi>ṉ <unclear>tiru</unclear>veḷḷarai pe
+           <lb n="44"/><unclear>ruṇ</unclear>kālitiyāna<gap reason="lost" quantity="6" unit="character"></gap>
+           
             </p>
          </div>
 
@@ -113,7 +153,7 @@
          	
          </div>-->
 
-         <div type="commentary">
+         <!--<div type="commentary">
          	<p n="20">
          	</p>
            <p n="21">
@@ -121,7 +161,7 @@
            <p n="36">
          	</p>
          </div>
-
+-->
          <div type="bibliography">
 
             <p>
@@ -131,9 +171,9 @@
             <listBibl type="primary">
                
                <bibl n="SII 22.165">
-                  <ptr target="bib:SrinivasaRao1983_01"/>
-                  <citedRange unit="page">135-136</citedRange>
-                  <citedRange unit="item">165</citedRange>
+                  <ptr target="bib:SrinivasaRao1967_01"/>
+                  <citedRange unit="page">116-117</citedRange>
+                  <citedRange unit="item">231</citedRange>
                </bibl>
                
             </listBibl>
