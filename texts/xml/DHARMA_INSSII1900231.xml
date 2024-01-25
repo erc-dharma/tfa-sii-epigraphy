@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			   <title>On the south wall of the central shrine, Kārkōṭakēśvara temple (Tirunallūr-Parameśvara temple), Kāmarasavalli, Tiruchirappali district.</title>
+				<title>On the south wall of the central shrine, Kārkōṭakēśvara temple (Tirunallūr-Parameśvara temple), Kāmarasavalli, Tiruchirappali district.</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -89,16 +89,14 @@
       <body>
 
          <div type="edition" xml:lang="tam-Latn">
+           
             <p>
-               <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+           <lb n="1"/>kō-p parakē<hi rend="grantha">sa</hi>ripa<hi rend="grantha">nma</hi><unclear>rk</unclear>ku yāṇṭu 9 Āvatu
             </p>
-            <p>
-           <lb n="1"/>kō-p parakē<hi rend="grantha">sa</hi>ripanra<unclear>rk</unclear>ku yāṇṭu <g type="numeral">9</g> Āvatu
-<!--No idea what comes after kesari-->           
+         	<p>          
            <lb n="2" break="no"/>vaṭakarai <hi rend="grantha">brahma</hi>teyam <hi rend="grantha">śrī</hi>kāmaravallicatu<hi rend="grantha">r</hi>ve
            <lb n="3" break="no"/>timaṅkalattu peruṅkuṟi perumakkaḷōm I
-           <lb n="4" break="no"/>vvāṭṭai <g type="numeral">10</g>ṉunāyaṟṟu  viyāḻa-<supplied reason="lost">k</supplied> kiḻamai pe
-            <!--	is it a number?-->
+           <lb n="4" break="no"/>vvāṭṭai <hi rend="grantha">dha</hi>ṉu-nāyaṟṟu viyāḻa-<supplied reason="lost">k</supplied> kiḻamai pe
            <lb n="5" break="no"/>ṟṟa kār<supplied reason="lost">t</supplied>tikaināṉṟu taṭṭaḻikoṭṭi peruṅ
            <lb n="6" break="no"/>kuṟi cāṟṟi maṇṭakattē kūṭi Eḻu=ntaruḷi Iru
            <lb n="7" break="no"/><unclear>n=tu</unclear> nam tirunallūr <hi rend="grantha">parameśva</hi><supplied reason="lost">r</supplied>kku can=trātit	
@@ -110,9 +108,9 @@
            <lb n="13" break="no"/>ku vaitta nellilē māttāl kuṟuṇi nel
            <lb n="14"/>pūttōṟum koḷḷa-<supplied reason="lost">p</supplied> peṟuvat’ āka Av Avva āṇ
            <lb n="15" break="no"/>ṭu Ūrvāriyam ceyyum pe<unclear>rumak</unclear>kaḷē terica
-           <lb n="16"/>tt’ oppu puka Iṭa<supplied reason="lost">k</supplied>kaṭavarākavum<gap reason="lost" quantity="3" unit="character"></gap> 
-           <lb n="17"/><gap unit="character" quantity="2" reason="lost"></gap>rippiṉpaṭi tēvakaṉmikaḷ kaṉali<gap unit="character" reason="lost" quantity="1"></gap>
-           <lb n="18"/><gap unit="character" reason="lost" quantity="1"></gap>taṇṭikoḷḷa-<supplied reason="lost">p</supplied> peṟuvār ākavum I
+           <lb n="16"/>tt’ oppu puka Iṭa<supplied reason="lost">k</supplied>kaṭavarākavum<gap reason="lost" quantity="3" unit="character"/> 
+           <lb n="17"/><gap unit="character" quantity="2" reason="lost"/>rippiṉpaṭi tēvakaṉmikaḷ kaṉali<gap unit="character" reason="lost" quantity="1"/>
+           <lb n="18"/><gap unit="character" reason="lost" quantity="1"/>taṇṭikoḷḷa-<supplied reason="lost">p</supplied> peṟuvār ākavum I
            <lb n="19" break="no"/>-p paricu Innel koṇṭu can=t<hi rend="grantha">rā</hi>tit
            <lb n="20"/>tavaṟ <hi rend="grantha">śrība</hi>li koṭṭuvataṟk’ āka pa
            <lb n="21" break="no"/>ṇi-p paṇiyāl nālu ceriyilum
@@ -125,7 +123,7 @@
            <lb n="28" break="no"/>ṟ niṟppat'āka <hi rend="grantha">śi</hi>lā<hi rend="grantha">levai</hi> ceytukuṭu<unclear>t</unclear>
            <lb n="29" break="no"/>tōm peruṅkuṟi perumakkaḷōm <unclear>paṇi</unclear>
            <lb n="30" break="no"/>yāl <hi rend="grantha">madhyasta</hi>ṉ A<unclear>ma</unclear>ṇa
-           <lb n="31"/>maṅka<hi rend="grantha">laya</hi>ṉāṉ<gap reason="lost" quantity="2" unit="character"></gap> nūṟṟu
+           <lb n="31"/>maṅka<hi rend="grantha">laya</hi>ṉāṉ<gap reason="lost" quantity="2" unit="character"/> nūṟṟu
            <lb n="32" break="no"/>vaṉ muṉṉūṟṟuva
            <lb n="33"/>ṉe<unclear>n</unclear> Ivai-y eṉne
            <lb n="34" break="no"/>ḻuttu <!--two dandas follow, what is the code?--> Ippaṭi paṇi
@@ -135,10 +133,10 @@
            <lb n="38" break="no"/>tiyāṉa pūtaṉ <hi rend="grantha">śrī</hi>kaṇṭa
            <lb n="39" break="no"/>neṉ<!--two dandas follow and one horizontal line, what is the code?-->
            <lb n="40"/>Ippaṭi paṇiyā<unclear>l</unclear> <hi rend="grantha">madhyasta</hi> 
-           <lb n="41" break="no"/>ṉ Ecu Ippaṭi <supplied reason="lost">Aṟi</supplied>veṉ<gap reason="lost" unit="character" quantity="2"></gap>
-           <lb n="42" break="no"/>neṉ<!--two dandas follow and one horizontal line, what is the code?--> Ippaṭi <supplied reason="lost">paṇi</supplied>]yāl <hi rend="grantha">ma</hi>
+           <lb n="41" break="no"/>ṉ Ecu Ippaṭi <supplied reason="lost">Aṟi</supplied>veṉ<gap reason="lost" unit="character" quantity="2"/>
+           <lb n="42" break="no"/>neṉ<!--two dandas follow and one horizontal line, what is the code?--> Ippaṭi <supplied reason="lost">paṇi</supplied>yāl <hi rend="grantha">ma</hi>
            <lb n="43" break="no"/><hi rend="grantha">dhyasta</hi>ṉ <unclear>tiru</unclear>veḷḷarai pe
-           <lb n="44"/><unclear>ruṇ</unclear>kālitiyāna<gap reason="lost" quantity="6" unit="character"></gap>
+           <lb n="44"/><unclear>ruṇ</unclear>kālitiyāna<gap reason="lost" quantity="6" unit="character"/>
            
             </p>
          </div>
