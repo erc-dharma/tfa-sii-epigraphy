@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>On the south wall of the central shrine, Kārkōṭakēśvara temple (Tirunallūr-Parameśvara temple), Kāmarasavalli, Tiruchirappali district.</title>
+				<title>Kāmaracavalli, Kārkōṭakēśvara temple, time of Parakesarivarman, year 9</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -79,10 +79,7 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:axja" when="2020-11-03" status="draft"
-				>Updating toward the encoding
-				template v03</change>
-			<change who="part:vagi" when="2020-12-10" status="draft">Creation of the file</change>
+			<change who="part:reda" when="2024-01-10" status="draft">Creation of the file.</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -94,7 +91,7 @@
            <lb n="1"/>kō-p parakē<hi rend="grantha">sa</hi>ripa<hi rend="grantha">nma</hi><unclear>rk</unclear>ku yāṇṭu 9 Āvatu
             </p>
          	<p>          
-           <lb n="2" break="no"/>vaṭakarai <hi rend="grantha">brahma</hi>tēyam <hi rend="grantha">śrī</hi>kāmaravalli-catu<hi rend="grantha">r</hi>ve
+           <lb n="2"/>vaṭakarai <hi rend="grantha">brahma</hi>tēyam <hi rend="grantha">śrī</hi>kāmaravalli-catu<hi rend="grantha">r</hi>ve
            <lb n="3" break="no"/>ti-maṅkalattu peruṅkuṟi perumakkaḷōm I
            <lb n="4" break="no"/>vv-āṭṭai <hi rend="grantha">dha</hi>ṉu-nāyaṟṟu viyāḻa-<supplied reason="lost">k</supplied>-kiḻamai pe
            <lb n="5" break="no"/>ṟṟa kār<supplied reason="lost">t</supplied>tikai nāṉṟu taṭṭaḻi koṭṭi peruṅ
@@ -102,12 +99,12 @@
            <lb n="7" break="no"/><unclear>n=tu</unclear> nam tirunallūr <hi rend="grantha">parameśva</hi><supplied reason="lost">r</supplied>kku 		can=trātit	
            <lb n="8" break="no"/>tavaṟ <hi rend="grantha">śrī</hi>paliyum tiruppaḷḷi  Eḻucciyum koḷ
            <lb n="9" break="no"/>vataṟku peruṅkuṟi perumakkaḷōm vaittu-k ku
-           <lb n="10" break="no"/>ṭutta <hi rend="grantha">ji</hi>vitam āvatu 
+           <lb n="10" break="no"/>ṭutta <hi rend="grantha">ji</hi>vitam āvatu
          		
          	</p>
          	<p> 	         		
          	<hi rend="grantha">śrī</hi>kotaṇṭarāma-vāykkā
-           <lb n="11" break="no"/>l-k kiḻ n<choice><orig>i</orig><reg>ī</reg></choice>r-pūci nel viḷaiyum nilam ellām 
+           <lb n="11" break="no"/>l-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ n<choice><orig>i</orig><reg>ī</reg></choice>r-pūci nel viḷaiyum nilam ellām 
            <lb n="12"/>virivu māttāl tūṇi-p patakku nel Aṇaik
            <lb n="13" break="no"/>ku vaitta nellilē māttāl kuṟuṇi nel
            <lb n="14"/>pūttōṟum koḷḷa-<supplied reason="lost">p</supplied> peṟuvat’ āka         		
@@ -180,7 +177,7 @@
          	<p> 
          	Ippaṭi <supplied reason="lost">paṇi</supplied>yāl <hi rend="grantha">ma</hi>
            <lb n="43" break="no"/><hi rend="grantha">dhyasta</hi>ṉ <unclear>tiru</unclear>veḷḷarai pe
-           <lb n="44"/><unclear>ruṇ</unclear>kāviti-y-āna<gap reason="lost" quantity="6" unit="character"/>
+           <lb n="44"/><unclear>ruṇ</unclear>kāviti-y-āna <gap reason="lost" quantity="6" unit="character"/>
            
            </p>
          </div>
@@ -198,20 +195,17 @@
          	</p>
          	
          	<p n="2-10">
-		We, the great people of the assembly <supplied reason="explanation"><foreign>peruṅkuṟi perumakkaḷōm</foreign></supplied> of the Śrī-Kāmaravalli-caturvetimaṅkalam, a brahmadēyam on the north <supplied reason="subaudible">of the river</supplied>. After having the drum beaten <supplied reason="explanation"><foreign>taṭṭaḻi-koṭṭi</foreign></supplied> on the auspicious day of Kārttikai–which this year happened on a Thursday of the Dhanu month– the assembly, for their own merit <supplied reason="explanation"><foreign>cāṟṟi</foreign></supplied>, gathered together in the <foreign>maṇṭapa</foreign> where we have granted an allowance <supplied reason="explanation"><foreign>jivitam</foreign></supplied> for the maintenance of the holy offering <supplied reason="explanation"><foreign>śrīpali</foreign></supplied> and the ritual of waking up of the Lord <supplied reason="explanation">tiruppaḷḷi eḻucci</supplied> –as long as the sun and the moon endure– for our god Tirunallūr Parameśvara, which has gracefully has taken abode, and it consists of<supplied reason="explanation"><foreign>āvatu</foreign></supplied>:
+		We, the great people of the assembly <supplied reason="explanation"><foreign>peruṅkuṟi perumakkaḷōm</foreign></supplied> of the Śrī-Kāmaravalli-caturvetimaṅkalam, a <foreign>brahmadeya</foreign> on the north <supplied reason="subaudible">of the river</supplied>. After having the drum beaten <supplied reason="explanation"><foreign>taṭṭaḻi koṭṭi</foreign></supplied> on the auspicious day of Kārttikai—which this year happened on a Thursday of the Dhanu month—the assembly, for the merit <supplied reason="explanation"><foreign>cāṟṟi</foreign></supplied> of the assembly, gathered together in the <foreign>maṇḍapa</foreign> where we have granted an allowance <supplied reason="explanation"><foreign>jivitam</foreign></supplied> for the maintenance of the holy offering <supplied reason="explanation"><foreign>śrīpali</foreign></supplied> and the ritual of waking up of the Lord <supplied reason="explanation"><foreign>tiruppaḷḷi eḻucci</foreign></supplied>—as long as the sun and the moon endure—for our god Tirunallūr Parameśvara, which has gracefully  taken abode, and it consists of <supplied reason="explanation"><foreign>āvatu</foreign></supplied>:
          	</p>
          	
          	<p n="10-14">
          		
-         		so that every harvest <supplied reason="explanation"><foreign>pūttōṟum</foreign></supplied> a tax collection  of:
-         		
-         		a daily <supplied reason="explanation"><foreign>tōṟum</foreign></supplied> supply <supplied reason="explanation"><foreign>koḷḷa-p peṟuvatāka</foreign></supplied>:
-         		
+         		so as to obtain <supplied reason="explanation"><foreign>koḷḷa-p peṟuvat' āka</foreign></supplied> on every harvest <supplied reason="explanation"><foreign>pūttōṟum</foreign></supplied>:    		
          		
 		<list>
-			<item>a <foreign>patakku</foreign> of paddy and a <foreign>tūṇi</foreign> for each <foreign>mā</foreign> extending <supplied reason="explanation"><foreign>virivu</foreign></supplied> to all land that grows rice with holy water? <supplied reason="explanation"><foreign>nirpūci</foreign></supplied> to the east of the holy <supplied reason="explanation"><foreign>śrī</foreign></supplied> Kotaṇṭarāma channel.</item>
+			<item>a <foreign>patakku</foreign> of paddy and a <foreign>tūṇi</foreign> for each <foreign>mā</foreign> extending <supplied reason="explanation"><foreign>virivu</foreign><!--@VVG--></supplied> to all land that grows <supplied reason="explanation"><foreign>viḷaiyum</foreign></supplied> rice irrigated <supplied reason="explanation"><foreign>pūci</foreign></supplied> with water <supplied reason="explanation"><foreign>nīr</foreign>?<!--@VVG--></supplied> below <supplied reason="explanation"><foreign>kīḻ</foreign><note>That is, "out of".</note></supplied> the holy <supplied reason="explanation"><foreign>śrī</foreign></supplied> Kōtaṇṭarāma channel, <supplied reason="subaudible">and</supplied></item>
          	
-			<item>a <foreign>kuṟuṇi</foreign> of paddy for each <foreign>mā</foreign> in case the paddy is attached to the embankment <supplied reason="explanation"><foreign>aṇai</foreign></supplied>. </item></list>
+			<item>a <foreign>kuṟuṇi</foreign> of paddy for each <foreign>mā</foreign> in case the paddy is attached to the embankment <supplied reason="explanation"><foreign>aṇai<!--@VVG--></foreign></supplied>. </item></list>
          	</p>
          	
          	<p n="14-16">
@@ -219,7 +213,7 @@
 			</p>
          	
          	<p n="17-18">
-				the temple administrators <supplied reason="explanation"><foreign>tēvakaṉmikaḷ</foreign></supplied>, according to <gap reason="undefined"></gap>, appoint people to collect taxes <gap reason="undefined"></gap>
+				the temple administrators <supplied reason="explanation"><foreign>tēvakaṉmikaḷ</foreign></supplied>, according to <gap reason="undefined"/>, appoint people to collect taxes <gap reason="undefined"/>
 			</p>
          	
          	<p n="18-20">
@@ -261,7 +255,7 @@
          	</p>
          	
          	<p n="42-44">
-         		Through the order <supplied reason="explanation"><foreign>paṇiyāl</foreign></supplied> of the village officer <supplied reason="explanation"><foreign>madhyastaṉ</foreign></supplied> Tiruveḷḷarai Peruṅkāviti<gap reason="undefined"></gap>.   		
+         		Through the order <supplied reason="explanation"><foreign>paṇiyāl</foreign></supplied> of the village officer <supplied reason="explanation"><foreign>madhyastaṉ</foreign></supplied> Tiruveḷḷarai Peruṅkāviti<gap reason="undefined"/>.   		
          	</p>
          	
          </div>
@@ -298,3 +292,14 @@
       </body>
   </text>
 </TEI>
+
+<!--
+	METADATA:
+	On the south wall of the central shrine, Kārkōṭakēśvara temple (Tirunallūr-Parameśvara temple), Kāmarasavalli, Tiruchirappali district.
+-->
+
+<!--QUESTIONS to VVG:
+...-->
+
+<!--ADDITIONS:
+...-->
