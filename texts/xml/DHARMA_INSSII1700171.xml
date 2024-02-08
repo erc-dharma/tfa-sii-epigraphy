@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>On the south wall of the <foreign>maṇḍapa</foreign> in front of central shrine in the temple of Naṭanapādeśvara at Tirukaṇṭheśvaram, Cuddalore taluk. Year 14 of king Jaṭāvarmaṉ Sundarapāṇḍya I: 1264 CE.  
+				<title>Tirukaṇṭheśvaram, Naṭanapādeśvara temple. Year 14 of king Jaṭāvarmaṉ Sundarapāṇḍya I: 1264 CE.  
 					
 			   </title>
 				<respStmt>
@@ -53,7 +53,6 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>The <foreign>repha</foreign> in conjunct is a dot above the letter.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -250,3 +249,4 @@
       </body>
   </text>
 </TEI>
+<!--METADATA: On the south wall of the <foreign>maṇḍapa</foreign> in front of central shrine in the cuddalore taluk -->
