@@ -166,7 +166,17 @@
                
             </listBibl>           
      
-
+         	<listBibl type="secondary">
+         		
+         		<bibl>
+         			<ptr target="bib:ARIE1902-1903"/>
+         			<citedRange unit="page">14</citedRange>
+         			<citedRange unit="appendix">A/1902</citedRange>
+         			<citedRange unit="item">572</citedRange>
+         		</bibl>	
+         		
+         	</listBibl>
+         	
          </div>
 
       </body>
