@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvaṇṇamālai, donation of Kumāra śrī-Viruppaṇṇa Uṭaiyar, śāka year 1310 (1389).  
+				<title>Tiruvaṇṇamālai, Aruṇācaleśvara temple, time of Viruppaṇṇa, Śāka year 1310.  
 					
 			   </title>
 				<respStmt>
@@ -53,7 +53,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>
+							<p/>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -90,28 +90,40 @@
          <div type="edition" xml:lang="tam-Latn">
          	
          	<ab>
-         		<lb n="1"/><hi rend="grantha">svasti</hi><g type="gomutra"></g>
+         		<lb n="1"/><hi rend="grantha">svasti</hi>
          	</ab>
          	
          	<p>          
-				<hi rend="grantha">śrīmanu-mahāmaṇḍalīśvaran harirāya</hi> vi<hi rend="grantha">bhāṭan bhaṣai</hi>kkutappumrāyarakaṇṭaṉ mūvarāyarakaṇṭaṉ <hi rend="grantha">catusamudrādipati śrīhari</hi>yaṇṇa Uṭaiyar kumārā <hi rend="grantha">śrī</hi>viruppaṇṇa Uṭaiyar
-         	<lb n="2"/><hi rend="grantha">pṛthivirājyam</hi> paṇṇiyaruḷā niṉṟa śakābdam 
-         		<num value="1310"><g type="numeral">1000</g> 3 <g type="numeral">100</g> 1 <g
-type="numeral">10</g></num>ṉ mēl cellāniṉṟa vi<hi rend="grantha">bha</hi>va<hi rend="grantha">saṃ</hi>va<hi rend="grantha">t<!--ka not sure @emfr-->sara</hi>ttu <hi rend="grantha">makara</hi>nāyaṟṟu <hi rend="grantha">pūrvvapakṣa</hi>ttu <hi rend="grantha">tri</hi>tiyai<hi rend="grantha">yum</hi> veḷḷikkiḻamaiyum peṟṟa <hi rend="grantha">śatai</hi>yattu nāḷ
-			<lb n="3"/>Uṭaiyār tiruvaṇṇāmalai-y-uṭaiya nāyināṟkku <choice><orig><hi rend="grantha">addhy<unclear>e</unclear></hi></orig><reg><hi rend="grantha">aya</hi></reg></choice>nam paṇṇumpaṭikku muṉṉāḷ nam aṇṇan <hi rend="grantha">ja<unclear>m</unclear></hi>maṇṇa Uṭaiyar kampaṇa 	uṭaiyaṟku <hi rend="grantha">śrāddha vṛddhi<unclear>tti</unclear></hi>-y-āka <hi rend="grantha">rāja</hi>vi<hi rend="grantha">bhāṭan</hi> cantiyilē Oru 
-         	<lb n="4" break="no"/>pēr <choice><orig><hi rend="grantha">addhy<unclear>e</unclear></hi></orig><reg><hi rend="grantha">aya</hi></reg></choice>nam paṇṇumpaṭikku viṭṭa Āṭaiyūr-nāṭu kiḻpaṟṟu Atikaiyāṉa puvanekavīra<hi rend="grantha"><supplied reason="omitted">cca</supplied>turvve</hi>timaṅkalam-āṉa kamparāya<hi rend="grantha">caturvvedi</hi>maṅkalam <hi rend="grantha">sarvvamānnya</hi> Iṟai Ili Āka kal veṭṭikkuṭutta Itu Innāḷava
-         	<lb n="5" break="no"/>raiyu<supplied reason="omitted">m</supplied> Akara<unclear>p</unclear>paṟṟu-k ko<unclear>r</unclear>vaiyilē kūṭi <hi rend="grantha">rakṣābhogam</hi> y-iṟuttu-p potukaiyil y-ic-ceyti nām keṭṭu Iṉṉāḷ mutalukku Akara<supplied reason="omitted">p</supplied>paṟṟu kovaiyil niṉṟum kaḻittu vak<supplied reason="omitted">ai</supplied>yilum niṟutti yiṉṉāḷ mutal tiruvaṇṇāma<unclear>lai</unclear>
-         	<lb n="6" break="no"/>nampi tirucciṟṟampala-nampi vīravetiya-nampi I<hi rend="grantha">rājagambhīranam</hi>pi <hi rend="grantha">kauśi</hi>ka<hi rend="grantha">n</hi> Aḻakiyār Irāmanā-<supplied reason="omitted">t</supplied>tẽvar Ivarkaḷ Añcu paṅkāka koṇṭu Irāyavi<hi rend="grantha">bhāṭan</hi>-canti Ilē nāḷ tōṟum Oruper <choice><orig><hi rend="grantha">Addhy<unclear>e</unclear></hi></orig><reg><hi rend="grantha">aya</hi></reg></choice>nam paṇṇumpaṭikku
-         	<lb n="7"/><hi rend="grantha">sarvvamānnya</hi> Iṟai Iliyāka <hi rend="grantha">candrāditya</hi>varaiyum cellakkaṭavat-āka kal veṭṭikkuṭuttōm <g type="gomutra"></g> Itu paḷ paṉ<hi rend="grantha">māheśvara rakṣai</hi> <g type="ac"></g>
+         		<hi rend="grantha">śrīmanu-mahāmaṇḍalīśvaran harirāya</hi> vi<hi rend="grantha">bhāṭan bhaṣai</hi>kkutappumrāyarakaṇṭaṉ mūvarāyarakaṇṭaṉ <hi rend="grantha">catusamudrādipati śrīhari</hi>yaṇṇa Uṭaiyar kumārar <hi rend="grantha">śrī</hi>viruppaṇṇa Uṭaiyar
+         		<lb n="2"/><hi rend="grantha">pṛthivirājyam</hi> paṇṇiyaruḷā niṉṟa śakābdam 
+         		<num value="1310"><g type="numeral">1000</g> 3 <g type="numeral">100</g> 1 <g type="numeral">10</g></num>ṉ mēl cellāniṉṟa vi<hi rend="grantha">bha</hi>va<hi rend="grantha">saṃ</hi>va<hi rend="grantha">t·sara</hi>ttu <hi rend="grantha">makara</hi>nāyaṟṟu <hi rend="grantha">pūrvvapakṣa</hi>ttu <hi rend="grantha">tri</hi>tiyai<hi rend="grantha">yum</hi> veḷḷikkiḻamaiyum peṟṟa <hi rend="grantha">śatai</hi>yattu nāḷ
+         	</p>
+         	<p>
+         		<lb n="3"/>Uṭaiyār tiruvaṇṇāmalai-y-uṭaiya nāyināṟkku <choice><orig><hi rend="grantha">addhy<unclear>e</unclear></hi></orig><reg><hi rend="grantha">aya</hi></reg></choice>nam paṇṇum paṭikku muṉṉāḷ nam aṇṇan <hi rend="grantha">ja<unclear>m</unclear></hi>maṇṇa Uṭaiyar kampaṇa uṭaiyaṟku <hi rend="grantha">śrāddha-vṛ<choice><orig>ddh</orig><reg>tt</reg></choice>i</hi>-y-āka <hi rend="grantha">rāja</hi>vi<hi rend="grantha">bhāṭan·</hi> cantiyilē Oru 
+         		<lb n="4" break="no"/>pēr <choice><orig><hi rend="grantha">addhy<unclear>e</unclear></hi></orig><reg><hi rend="grantha">aya</hi></reg></choice>nam paṇṇumpaṭikku viṭṭa Āṭaiyūr-nāṭu kiḻpaṟṟu Atikaiyāṉa puvanekavīra<hi rend="grantha"><supplied reason="omitted">cca</supplied>turvve</hi>timaṅkalam-āṉa kamparāya<hi rend="grantha">caturvvedi</hi>maṅkalam <hi rend="grantha">sarvvamānnya</hi> Iṟai Ili Āka kal veṭṭikkuṭutta Itu Innāḷava
+         		<lb n="5" break="no"/>raiyu<supplied reason="omitted">m</supplied> Akara<unclear>p</unclear>paṟṟu-k ko<unclear>r</unclear>vaiyilē kūṭi <hi rend="grantha">rakṣābhogam</hi> y-iṟuttu-p potukaiyil y-ic-ceyti nām keṭṭu Iṉṉāḷ mutalukku Akara<supplied reason="omitted">p</supplied>paṟṟu kovaiyil niṉṟum kaḻittu vak<supplied reason="omitted">ai</supplied>yilum niṟutti yiṉṉāḷ mutal tiruvaṇṇāma<unclear>lai</unclear>
+         		<lb n="6" break="no"/>nampi tirucciṟṟampala-nampi vīravetiya-nampi I<hi rend="grantha">rājagambhīranam</hi>pi <hi rend="grantha">kauśi</hi>ka<hi rend="grantha">n</hi> Aḻakiyār Irāmanā-<supplied reason="omitted">t</supplied>tẽvar Ivarkaḷ Añcu paṅkāka koṇṭu Irāyavi<hi rend="grantha">bhāṭan</hi>-canti-Ilē nāḷ tōṟum Oru pēr <choice><orig><hi rend="grantha">Addhy<unclear>e</unclear></hi></orig><reg><hi rend="grantha">aya</hi></reg></choice>na<hi rend="grantha">m·</hi> paṇṇum paṭikku
+         		<lb n="7"/><hi rend="grantha">sarvvamānnya</hi> Iṟai Iliyāka <hi rend="grantha">candrāditya</hi>varaiyum cellakkaṭavat-āka kal veṭṭi-k kuṭuttōm
+         	</p>
+         	<p>
+         		Itu paḷ paṉ-<hi rend="grantha">māheśvara-rakṣai</hi> {pc}<!--update encoding-->
          	</p>
          	
          </div>
 
-      <!--   <div type="apparatus">
+         <div type="apparatus">
             
-            
+            <listApp>
+               
+               <app loc="1">
+               	<lem>kumārar</lem>
+               	<rdg source="bib:Srinivasan+Reiniche1990_01"/>
+               	<rdg source="bib:SubrahmanyaAiyer1937_01">kumārā</rdg>
+               </app>
+                              
+            </listApp>
         
-         </div>-->
+         </div>
 
          <div type="translation" source="bib:Srinivasan+Reiniche1990_01">
          	<p n="1-5">
@@ -120,14 +132,7 @@ type="numeral">10</g></num>ṉ mēl cellāniṉṟa vi<hi rend="grantha">bha</hi
          	
          	<p n="5-7">
          		I <supplied reason="subaudible">now</supplied> order that from this day <supplied reason="subaudible">this village</supplied> should be removed from the group of Akaram lands and should be eliminated from the registers; that Tiruvaṇṇāmalainampi, Tirucciṟṟampalamnampi, Vīravētiyanampi, Irājagambhīranampi and Kauśikan Aḻakiyār Irāmanātatēvar should share the five shares amongst them; that one should perform <foreign>adhyayanam</foreign> daily at the service called Irāyavibhāṭan-canti; that for this it was made tax-free <foreign>sarvamānya</foreign> to last as long as the moon and the sun endure and <supplied reason="subaudible">that it was</supplied> given inscribed on stone. This is protected by the Paṉ Māhēśvaras.
-         	</p>
-         	
-         	
-         	
-         	
-         	
-         	                 	
-         	
+         	</p>            	
          </div>
 
         <!-- <div type="commentary">
@@ -142,22 +147,22 @@ type="numeral">10</g></num>ṉ mēl cellāniṉṟa vi<hi rend="grantha">bha</hi
          <div type="bibliography">
 
             <p>
-               First edited <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 08, no. 163) and translated in <bibl><ptr target="bib:Srinivasan+Reiniche1990_01"/></bibl> (no. 342); encoded here for DHARMA (ERC n° 809994) by Renato Dávalos.
+               First edited <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 08, no. 163); re-edited and translated in <bibl><ptr target="bib:Srinivasan+Reiniche1990_01"/></bibl> (no. 342); encoded here for DHARMA (ERC n° 809994) by Renato Dávalos based on previous editions.
             </p>
             
             <listBibl type="primary">
                
-               <bibl n="SII">
-                  <ptr target="bib:SubrahmanyaAiyer1937_01"/>
-                  <citedRange unit="page">73-74</citedRange>
-                  <citedRange unit="item">163</citedRange>
-               </bibl>
+            	<bibl n="SII">
+            		<ptr target="bib:SubrahmanyaAiyer1937_01"/>
+            		<citedRange unit="page">73-74</citedRange>
+            		<citedRange unit="item">163</citedRange>
+            	</bibl>
             	
-            	<bibl n="Tiruvaṇṇamalai">
-                  <ptr target="bib:Srinivasan+Reiniche1990_01"/>
-                  <citedRange unit="page">430-431</citedRange>
-                  <citedRange unit="item">342</citedRange>
-               </bibl>
+            	<bibl n="S">
+            		<ptr target="bib:Srinivasan+Reiniche1990_01"/>
+            		<citedRange unit="page">430-431</citedRange>
+            		<citedRange unit="item">342</citedRange>
+            	</bibl>
                
             </listBibl>           
      
@@ -167,5 +172,7 @@ type="numeral">10</g></num>ṉ mēl cellāniṉṟa vi<hi rend="grantha">bha</hi
       </body>
   </text>
 </TEI>
-<!--METADATA:Third prakāra, west wall, right of entrance
+<!--METADATA:
+	Third prakāra, west wall, right of entrance
+	Śāka year 1310 = 1389.
 -->
