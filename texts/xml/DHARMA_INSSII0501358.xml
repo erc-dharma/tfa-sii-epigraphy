@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tiruvōṟṟiyūr, Ādhipurīśvara temple, time of king Rājādhirājadeva, 9th year.  
+					
+			   </title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">DHARMA_INSSII0501358</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary/>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC)
+					under the European Union’s Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
+							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:reda" when="2024-02-08" status="draft">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+      <body>
+
+         <div type="edition" xml:lang="tam-Latn">
+         	
+         	<ab>
+         		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+         	</ab>
+         	
+         	<p>          
+         		v<hi rend="grantha">yakrī</hi>ṇā<hi rend="grantha">ccha</hi>tavi<hi rend="grantha">ṃśa</hi>ti <hi rend="grantha">kāśaissōmasya vṛṣalasya</hi> va<hi rend="grantha">ṭukamah<supplied reason="lost">ā</supplied></hi> <gap reason="lost" quantity="9" unit="character"></gap><hi rend="grantha">raśaḥ</hi> {pc} kōvi<hi rend="grantha">rā</hi>ca-kecaripaṉmar-āṉa  <hi rend="grantha">tribhu</hi>vaṉa-c-cakkaravart<unclear>ti</unclear>kaḷ <hi rend="grantha">śrīrājādhirājade</hi>varkku yāṇṭu Oṉpat’-āvatu Aiyaṅ koṇṭa cōḻamaṇṭalattu-p puḻaṟ koṭṭattu	
+         		<lb n="2"/>Uṭaiyār tiruvōṟṟiyūr-uṭaiyār kōyilil maṭam-uṭaiya caturāṉ-aṉa paṇṭitaṉum śrīmāhe<gap unit="character" quantity="9" reason="lost"></gap>ṭāṉum <hi rend="grantha">śrī</hi>kā<unclear>ri</unclear>yam Ariyapirāṉ-paṭṭaṉum coma-cittāntam vakkāṇikkum vā<hi rend="grantha">gīśvara</hi>paṇṭitaṉum kālum piṭāruñ  ceyaṅkoṇṭa cōḻamaṇṭala piṭā<unclear>ra</unclear>ṉu
+         		<lb n="3" break="no"/>n tiruvōṟṟiyūr-<unclear>p</unclear> piccaṉuṅ kōyil nāyakam paṭampakka-nāyaka-paṭṭaṉum kōyiliṟ kaṇakku-t tiru <gap reason="lost" unit="character" quantity="10"></gap>ṭaiyār tiru-p-paṅkūṉiyu-t- tirattu Āṟān tirunāḷāṉa putaṉ kiḻamai<unclear>yu</unclear>m Ekātaciyu<unclear>m</unclear> peṟṟa Āyilaiyattiṉaṉṟu paṭampakkanāyaka-tēvar tirumakiḻiṉkiṭ tiruvōlakkañ ceyt’-eḻuntaru
+         		<lb n="4" break="no"/>ḷi-y iruntu Āḷuṭaiya-nampi <hi rend="grantha">śrī</hi>purāṇaṅ k<unclear>e</unclear>ṭṭaruḷā niṟka Uṭaiyār tēvatāṉam vaṭuka-p perum-pākattu kāṇi <gap quantity="10" unit="character" reason="lost"></gap>-y-eṉṟu viṇṇappañ ceyya nammurkaḷil i<unclear>ra</unclear>ṇaiyūr Amutu<unclear>ṅ</unclear> kiḻavaṉ periyāṉ cōmaṉu?t <!--@emfr:is this a lu?-->taṇṭicaṉ vilai-y-āka viṟṟu-k kaṇi-y-ākaka <!--@emfr:this must be k plus pulli?--> koṭukka-v-eṉṟu tiruvāymoḻi	
+         		<lb n="5" break="no"/>ntaruḷa Iv-vūrkku-k kāṇi-vilai Aṉṟōṭu naṟkācu nūṟṟiru<unclear>pa</unclear>tum <hi rend="grantha">śrī</hi>paṇṭāra-t-toṭukkuk koṇṭu ivva <gap reason="lost" unit="character" quantity="9"></gap>ḻavaṉ periyāṉ cōma<choice><orig>n</orig><reg>ṉ</reg></choice>ukku <hi rend="grantha">śrī</hi>paṇṭāra-t tiṟai-y iṟukkavum Iva<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum-ivaṉ va<hi rend="grantha">ṃśa</hi>ttārkkum viṟṟōṟṟi vṛtikrayattu-k kurittāvat-āka viṟṟu-k koṭuttōm Ippaṭikku Ivai ma
+         		
+         		
+         		
+         		
+         	</p>
+         	
+         	
+         </div>
+
+         <!--<div type="apparatus">
+            
+            <!-\-<listApp>
+               
+               <app loc="1">
+               	<lem>kumārar</lem>
+               	<rdg source="bib:Srinivasan+Reiniche1990_01"/>
+               	<rdg source="bib:SubrahmanyaAiyer1937_01">kumārā</rdg>
+               </app>
+                              
+            </listApp>-\->
+        
+         </div>-->
+
+         <div type="translation" source="bib:Srinivasan+Reiniche1990_01">
+         	<p n="1-5">
+         		When I, the illustrious Mahāmaṇḍalīśvaran <supplied reason="explanation">lord of a large territory</supplied>, Arirāyavibhāṭan <supplied reason="explanation">destroyer of enemy kings</supplied>, Bhāṣaikkuttapumrāyakaṇṭaṉ <supplied reason="explanation">the punisher of kings who breaks their promise or disobey royal orders</supplied>, Mūvarāyarakaṇṭaṉ <supplied reason="explanation">the vanquisher of the three kings</supplied>, and Catusamudrādipati <supplied reason="explanation">the ruler over the four oceans</supplied>, śrī-Viruppaṇṇa uṭaiyar, the son of śrī-Hariyaṇṇa uṭaiyar, am pleased to rule over the earth, on Friday, the 3rd day of the bright fortnight of the month of Makara when the asterism Śataiyam was current, of the year Vibhava of the expired Śaka year 1310<note>January 1, 1389</note>, I learned the news that till this day, Atikai <foreign>alias</foreign> Puvanēkavīraccaturvvētimaṅkalam <foreign>alias</foreign> Kamparāyacaturvvētimaṅkalam in the eastern part of Āṭaiyūr-nāṭu which was a tax-free <foreign>sarvvamānya</foreign> given previously by means of a stone-record, as a <foreign>śrāddha-vṛtti</foreign> <supplied reason="explanation">land to provide for expenses of death anniversary</supplied> for Kampaṇa uṭaiyar to provide for the <foreign>addhyayana</foreign> <supplied reason="explanation">recitation of the Vedas</supplied> at the service called Rājavibhāṭan-canti to the god Tiruvaṇṇāmalai uṭaiya nāyinār, by my elder brother Jammaṇṇa uṭaiyar, was included in the group of Akarappaṟṟu <supplied reason="subaudible">lands</supplied> and <supplied reason="subaudible">so</supplied> was paying <foreign>rakṣābhōgam</foreign> levy.
+         		</p>
+         	
+         	<p n="5-7">
+         		I <supplied reason="subaudible">now</supplied> order that from this day <supplied reason="subaudible">this village</supplied> should be removed from the group of Akaram lands and should be eliminated from the registers; that Tiruvaṇṇāmalainampi, Tirucciṟṟampalamnampi, Vīravētiyanampi, Irājagambhīranampi and Kauśikan Aḻakiyār Irāmanātatēvar should share the five shares amongst them; that one should perform <foreign>adhyayanam</foreign> daily at the service called Irāyavibhāṭan-canti; that for this it was made tax-free <foreign>sarvamānya</foreign> to last as long as the moon and the sun endure and <supplied reason="subaudible">that it was</supplied> given inscribed on stone. This is protected by the Paṉ Māhēśvaras.
+         	</p>            	
+         </div>
+
+        <!-- <div type="commentary">
+         	<p n="20">
+         	</p>
+           <p n="21">
+         	</p>
+           <p n="36">
+         	</p>
+         </div>-->
+
+         <div type="bibliography">
+
+            <p>
+               First edited <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 05, no. 1358); encoded here for DHARMA (ERC n° 809994) by Renato Dávalos based on previous editions; translated by Renato Dávalos and Emmanuel Francis.
+            </p>
+            
+            <listBibl type="primary">
+               
+            	<bibl n="SII">
+            		<ptr target="bib:KrishnaSastri1925_01"/>
+            		<citedRange unit="page">494</citedRange>
+            		<citedRange unit="item">1358</citedRange>
+            	</bibl>
+            	
+            	
+               
+            </listBibl>           
+     
+         	<listBibl type="secondary">
+         		
+         		<bibl>
+         			<ptr target="bib:ARIE1896-1897"/>
+         			<citedRange unit="page">5</citedRange>
+         			<citedRange unit="appendix">A/1896</citedRange>
+         			<citedRange unit="item">403</citedRange>
+         		</bibl>	
+         		
+         	</listBibl>
+         	
+         </div>
+
+      </body>
+  </text>
+</TEI>
+<!--METADATA:
+	On the east wall of the second prākāra of the same temple, left of entrance.
+
+-->
