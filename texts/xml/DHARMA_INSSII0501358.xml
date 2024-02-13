@@ -10,7 +10,7 @@
 			<titleStmt>
 				<title>Tiruvōṟṟiyūr, Ādhipurīśvara temple, time of king Rājādhirājadeva, 9th year.  
 					
-			   </title>
+				</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -76,7 +76,7 @@
 				<prefixDef ident="part" matchPattern="([a-z]+)"
 					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
 					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+						<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
 				</prefixDef>
 			</listPrefixDef>
 		</encodingDesc>
@@ -85,122 +85,122 @@
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
-      <body>
-
-         <div type="edition" xml:lang="tam-Latn">
-         	
-         	<ab>
-         		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
-         	</ab>
-         	
-         	<p>          
-         		v<hi rend="grantha"><choice><orig>ri</orig><reg>ṛ</reg></choice>krī</hi>ṇā<hi rend="grantha">c-cha</hi>ta-vi<hi rend="grantha">ṃśa</hi>ti <hi rend="grantha">kāśais-sōmasya vṛṣalasya</hi> va<hi rend="grantha">ṭuka-mah</hi><gap reason="lost" quantity="10" unit="character"></gap><hi rend="grantha">raśaḥ</hi><g type="ddanda"></g><!--@emfr:After a double danda, do we also leave a paragraph space? Same problem in last lines-->
-         	</p>
-         	<p>
-         		{pc} kōvi<hi rend="grantha">rā</hi>ca-kecaripaṉmar-āṉa <hi rend="grantha">tribhu</hi>vaṉa-c-cakkaravart<unclear>ti</unclear>kaḷ <hi rend="grantha">śrī-rājādhirāja-de</hi>varkku yāṇṭu Oṉpat’ āvatu 
-         	</p>
-         	<p>
-         		Aiyaṅkoṇṭacōḻa-maṇṭalattu-p puḻaṟ koṭṭattu	
-         		<lb n="2"/>Uṭaiyār tiruvōṟṟiyūr-uṭaiyār kōyilil maṭamuṭaiya caturāṉ-aṉa paṇṭitaṉum śrīmāhe<gap unit="character" quantity="10" reason="lost"></gap>ṭāṉum <hi rend="grantha">śrī-</hi>kā<unclear>ri</unclear>yam Ariyapirāṉ-paṭṭaṉum cōmacittāntam vakkāṇikkum vā<hi rend="grantha">gīśvara</hi>paṇṭitaṉum kālum piṭāruñ ceyaṅkoṇṭacōḻa-maṇṭala piṭā<unclear>ra</unclear>ṉu
-         		<lb n="3" break="no"/>n tiruvōṟṟiyūr-<unclear>p</unclear> piccaṉuṅ kōyil nāyakam paṭampakka-nāyaka-paṭṭaṉum kōyiṟ-kaṇakku-t tiru<gap reason="lost" unit="character" quantity="10"></gap>ṭaiyār tiru-p-paṅkūṉiyu-t tirattu Āṟān tirunāḷ-āṉa putaṉ kiḻamai<unclear>yu</unclear>m Ekātaciyu<unclear>m</unclear> peṟṟa Āyil<choice><orig>ai</orig><reg>ē</reg></choice>yattiṉ-aṉṟu paṭampakka-nāyaka-tēvar tirumakiḻiṉkiṭ <!--@emfr:it does not make sense this kit. Maybe it's kita.-->  tiruvōlakka-ñ ceyt’ eḻuntaru
-         		<lb n="4" break="no"/>ḷi-y iruntu Āḷuṭaiya-nampi <hi rend="grantha">śr<choice><orig>i</orig><reg>ī</reg></choice></hi>purāṇaṅ k<unclear>e</unclear>ṭṭ’ aruḷā niṟka Uṭaiyār tēvatāṉam vaṭuka-p perum-pā<hi rend="grantha">ka</hi>ttu <hi rend="grantha">kā</hi>ṇi <gap quantity="10" unit="character" reason="lost"></gap>-y-eṉṟu viṇṇappañ ceyya namm<choice><orig>u</orig><reg>ū</reg></choice>rkaḷil I<unclear>ra</unclear>ṇaiyūr Amutu<unclear>ṅ</unclear> kiḻavaṉ periyāṉ cōmaṉu?t <!--@emfr:is this a lu?-->taṇṭicaṉ vilai-y-āka viṟṟu-k kaṇi-y-ākaka <!--@emfr:this must be k plus pulli?--> koṭukka-v-eṉṟu tiruvāymoḻi	
-         		<lb n="5" break="no"/>ntaruḷa Ivv-ūrkku-k kāṇi-vilai Aṉṟōṭu naṟkācu nūṟṟiru<unclear>pa</unclear>tum <hi rend="grantha">śrī</hi>-paṇṭāra-t-toṭukkuk koṇṭu Ivva<gap reason="lost" unit="character" quantity="9"></gap>ḻavaṉ periyāṉ cōma<choice><orig>n</orig><reg>ṉ</reg></choice>ukku <hi rend="grantha">śrī</hi>-paṇṭāra-t tiṟai-y-iṟukkavum Iva<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum-ivaṉ va<hi rend="grantha">ṃśa</hi>ttārkkum viṟṟōṟṟi<hi rend="grantha"><choice><orig>pri</orig><reg>vṛt</reg></choice>tikraya</hi> <!--@emfr: check this transliteration-->ttu-k kuritt’ āvat’ āka viṟṟu-k koṭuttōm 
-         	</p>
-         	<p>
-         		Ip-paṭikku Ivai ma
-         		<lb n="6" break="no"/>ṭamuṭaiya caturā<choice><orig>n-an</orig><reg>ṉ-aṉ</reg></choice>a-paṇṭitaṉ Eḻuttu <g type="gomutra"/>
-         	</p>
-         	<p>
-         		Ip-paṭikku Ivai tiruv<choice><orig>i</orig><reg>ī</reg></choice>tivē-y iṭaṅkoṇṭāṉ Eḻuttu <!--@emfr: shall I mark this as a gomutra? The previous one had three lines and the following two only two lines. same as item before. I don't understand if these are dandas, gomutras, and how to encode them.-->  
-         	</p>
-         	<p>
-         		<gap reason="lost" quantity="11" unit="character"></gap>ṉ Eḻuttu <g type="gomutra"/>
-         	</p>
-         	<p>
-         		Ip-paṭikku Ivai cōmacittāntam vakkāṇikkum vā<hi rend="grantha">gīśva</hi>ra-paṇṭitaṉ Eḻuttu<g type="gomutra"/>	
-         	</p>
-         	<p>	
-         		Ip-paṭikku Ivai kālum piṭārañ ceyaṅkoṇṭacōḻa-maṇṭala piṭāraṉ Eḻuttu <g type="gomutra"/>
-         	</p>
-         	<p>
-         		Ip-paṭi-k <lb n="7" break="no"/>ku Ivai tiruvōṟṟiyūr piccaṉ Eḻuttu <g type="gomutra"/>
-         	</p>
-         	<p>	
-         		Ip-paṭikku Ivai kōyil nāyakam paṭampakka-nāyaka-paṭṭaṉ Eḻuttu <g type="gomutra"/>
-         	</p>
-         	<p>
-         		<gap reason="lost" unit="character" quantity="10"></gap><unclear>ṉ U</unclear>ṟavākkiṉāṉ Eḻuttu <g type="gomutrafinal"/>	
-         	</p>
-         	
-         	
-         </div>
-
-         <!--<div type="apparatus">
-            
-            <!-\-<listApp>
-               
-               <app loc="1">
-               	<lem>kumārar</lem>
-               	<rdg source="bib:Srinivasan+Reiniche1990_01"/>
-               	<rdg source="bib:SubrahmanyaAiyer1937_01">kumārā</rdg>
-               </app>
-                              
-            </listApp>-\->
-        
-         </div>-->
-      	
-      	<div type="translation" resp="part:reda part:emfr">
-      		<p n="1-5">
-      			
-      		</p>
-      		
-      		
-      	</div>
-      	
-        <!-- <div type="commentary">
-         	<p n="20">
-         	</p>
-           <p n="21">
-         	</p>
-           <p n="36">
-         	</p>
-         </div>-->
-
-         <div type="bibliography">
-
-            <p>
-               First edited <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 05, no. 1358); encoded here for DHARMA (ERC n° 809994) by Renato Dávalos based on previous edition; translated by Renato Dávalos and Emmanuel Francis.
-            </p>
-            
-            <listBibl type="primary">
-               
-            	<bibl n="SII">
-            		<ptr target="bib:KrishnaSastri1925_01"/>
-            		<citedRange unit="page">494</citedRange>
-            		<citedRange unit="item">1358</citedRange>
-            	</bibl>
-            	
-            	
-               
-            </listBibl>           
-     
-         	<listBibl type="secondary">
-         		
-         		<bibl>
-         			<ptr target="bib:ARIE1896-1897"/>
-         			<citedRange unit="page">5</citedRange>
-         			<citedRange unit="appendix">A/1896</citedRange>
-         			<citedRange unit="item">403</citedRange>
-         		</bibl>	
-         		
-         	</listBibl>
-         	
-         </div>
-
-      </body>
-  </text>
+		<body>
+			
+			<div type="edition" xml:lang="tam-Latn">
+				
+				<ab>
+					<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+				</ab>
+				
+				<p>          
+					v<hi rend="grantha"><choice><orig>ri</orig><reg>ṛ</reg></choice>krī</hi>ṇā<hi rend="grantha">c-cha</hi>ta-vi<hi rend="grantha">ṃśa</hi>ti <hi rend="grantha">kāśais-sōmasya vṛṣalasya</hi> va<hi rend="grantha">ṭuka-mah</hi><gap reason="lost" quantity="10" unit="character"></gap><hi rend="grantha">raśaḥ</hi><g type="ddanda"></g><!--@emfr:After a double danda, do we also leave a paragraph space? Same problem in last lines-->
+				</p>
+				<p>
+					{pc} kōvi<hi rend="grantha">rā</hi>ca-kecaripaṉmar-āṉa <hi rend="grantha">tribhu</hi>vaṉa-c-cakkaravart<unclear>ti</unclear>kaḷ <hi rend="grantha">śrī-rājādhirāja-de</hi>varkku yāṇṭu Oṉpat’ āvatu 
+				</p>
+				<p>
+					Aiyaṅkoṇṭacōḻa-maṇṭalattu-p puḻaṟ kōṭṭattu	
+					<lb n="2"/>Uṭaiyār tiruvōṟṟiyūr-uṭaiyār kōyilil maṭamuṭaiya caturāṉ-aṉa paṇṭitaṉum śrīmāhe<gap unit="character" quantity="10" reason="lost"></gap>ṭāṉum <hi rend="grantha">śrī-</hi>kā<unclear>ri</unclear>yam Ariyapirāṉ-paṭṭaṉum cōmacittāntam vakkāṇikkum vā<hi rend="grantha">gīśvara</hi>paṇṭitaṉum kālum piṭāruñ ceyaṅkoṇṭacōḻa-maṇṭala piṭā<unclear>ra</unclear>ṉu
+					<lb n="3" break="no"/>n tiruvōṟṟiyūr-<unclear>p</unclear> piccaṉuṅ kōyil nāyakam paṭampakka-nāyaka-paṭṭaṉum kōyiṟ-kaṇakku-t tiru<gap reason="lost" unit="character" quantity="10"></gap>ṭaiyār tiru-p-paṅkūṉiyu-t tirattu Āṟān tirunāḷ-āṉa putaṉ kiḻamai<unclear>yu</unclear>m Ekātaciyu<unclear>m</unclear> peṟṟa Āyil<choice><orig>ai</orig><reg>ē</reg></choice>yattiṉ-aṉṟu paṭampakka-nāyaka-tēvar tirumakiḻiṉkiṭ <!--@emfr:it does not make sense this kit. Maybe it's kita.-->  tiruvōlakka-ñ ceyt’ eḻuntaru
+					<lb n="4" break="no"/>ḷi-y iruntu Āḷuṭaiya-nampi <hi rend="grantha">śr<choice><orig>i</orig><reg>ī</reg></choice></hi>purāṇaṅ k<unclear>e</unclear>ṭṭ’ aruḷā niṟka Uṭaiyār tēvatāṉam vaṭuka-p perum-pā<hi rend="grantha">ka</hi>ttu <hi rend="grantha">kā</hi>ṇi <gap quantity="10" unit="character" reason="lost"></gap>-y-eṉṟu viṇṇappañ ceyya namm<choice><orig>u</orig><reg>ū</reg></choice>rkaḷil I<unclear>ra</unclear>ṇaiyūr Amutu<unclear>ṅ</unclear> kiḻavaṉ periyāṉ cōmaṉu?t <!--@emfr:is this a lu?-->taṇṭicaṉ vilai-y-āka viṟṟu-k kaṇi-y-ākaka <!--@emfr:this must be k plus pulli?--> koṭukka-v-eṉṟu tiruvāymoḻi	
+					<lb n="5" break="no"/>ntaruḷa Ivv-ūrkku-k kāṇi-vilai Aṉṟōṭu naṟkācu nūṟṟiru<unclear>pa</unclear>tum <hi rend="grantha">śrī</hi>-paṇṭāra-t-toṭukkuk koṇṭu Ivva<gap reason="lost" unit="character" quantity="9"></gap>ḻavaṉ periyāṉ cōma<choice><orig>n</orig><reg>ṉ</reg></choice>ukku <hi rend="grantha">śrī</hi>-paṇṭāra-t tiṟai-y-iṟukkavum Iva<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum-ivaṉ va<hi rend="grantha">ṃśa</hi>ttārkkum viṟṟōṟṟi<hi rend="grantha"><choice><orig>pri</orig><reg>vṛt</reg></choice>tikraya</hi> <!--@emfr: check this transliteration-->ttu-k kuritt’ āvat’ āka viṟṟu-k koṭuttōm 
+				</p>
+				<p>
+					Ip-paṭikku Ivai ma
+					<lb n="6" break="no"/>ṭamuṭaiya caturā<choice><orig>n-an</orig><reg>ṉ-aṉ</reg></choice>a-paṇṭitaṉ Eḻuttu <g type="gomutra"/>
+				</p>
+				<p>
+					Ip-paṭikku Ivai tiruv<choice><orig>i</orig><reg>ī</reg></choice>tivē-y iṭaṅkoṇṭāṉ Eḻuttu <!--@emfr: shall I mark this as a gomutra? The previous one had three lines and the following two only two lines. same as item before. I don't understand if these are dandas, gomutras, and how to encode them.-->  
+				</p>
+				<p>
+					<gap reason="lost" quantity="11" unit="character"></gap>ṉ Eḻuttu <g type="gomutra"/>
+				</p>
+				<p>
+					Ip-paṭikku Ivai cōmacittāntam vakkāṇikkum vā<hi rend="grantha">gīśva</hi>ra-paṇṭitaṉ Eḻuttu<g type="gomutra"/>	
+				</p>
+				<p>	
+					Ip-paṭikku Ivai kālum piṭārañ ceyaṅkoṇṭacōḻa-maṇṭala piṭāraṉ Eḻuttu <g type="gomutra"/>
+				</p>
+				<p>
+					Ip-paṭi-k <lb n="7" break="no"/>ku Ivai tiruvōṟṟiyūr piccaṉ Eḻuttu <g type="gomutra"/>
+				</p>
+				<p>	
+					Ip-paṭikku Ivai kōyil nāyakam paṭampakka-nāyaka-paṭṭaṉ Eḻuttu <g type="gomutra"/>
+				</p>
+				<p>
+					<gap reason="lost" unit="character" quantity="10"></gap><unclear>ṉ U</unclear>ṟavākkiṉāṉ Eḻuttu <g type="gomutrafinal"/>	
+				</p>
+				
+				
+			</div>
+			
+			<!--<div type="apparatus">
+				
+				<!-\-<listApp>
+				
+				<app loc="1">
+				<lem>kumārar</lem>
+				<rdg source="bib:Srinivasan+Reiniche1990_01"/>
+				<rdg source="bib:SubrahmanyaAiyer1937_01">kumārā</rdg>
+				</app>
+				
+				</listApp>-\->
+				
+				</div>-->
+			
+			<div type="translation" resp="part:reda part:emfr">
+				<p n="1-5">
+					
+				</p>
+				
+				
+			</div>
+			
+			<!-- <div type="commentary">
+				<p n="20">
+				</p>
+				<p n="21">
+				</p>
+				<p n="36">
+				</p>
+				</div>-->
+			
+			<div type="bibliography">
+				
+				<p>
+					First edited <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 05, no. 1358); encoded here for DHARMA (ERC n° 809994) by Renato Dávalos based on previous edition; translated by Renato Dávalos and Emmanuel Francis.
+				</p>
+				
+				<listBibl type="primary">
+					
+					<bibl n="SII">
+						<ptr target="bib:KrishnaSastri1925_01"/>
+						<citedRange unit="page">494</citedRange>
+						<citedRange unit="item">1358</citedRange>
+					</bibl>
+					
+					
+					
+				</listBibl>           
+				
+				<listBibl type="secondary">
+					
+					<bibl>
+						<ptr target="bib:ARIE1896-1897"/>
+						<citedRange unit="page">5</citedRange>
+						<citedRange unit="appendix">A/1896</citedRange>
+						<citedRange unit="item">403</citedRange>
+					</bibl>	
+					
+				</listBibl>
+				
+			</div>
+			
+		</body>
+	</text>
 </TEI>
 <!--METADATA:
 	On the east wall of the second prākāra of the same temple, left of entrance <note>Another common term to refer to the Kāpālikas, followers of Atimārga III</note>.
-
+	
 -->
