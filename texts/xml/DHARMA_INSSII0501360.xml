@@ -96,7 +96,7 @@
 		
 		<lg met="śārdūlavikrīḍita" n="1">
 			
-			<l n="a">....</l>
+			<l n="a">kṣoṇī<unclear>m·</unclear> rakṣati bhūmipe kaliyuge rājādhirājāhvaye</l>
 			
 		</lg>
 		
@@ -146,12 +146,22 @@
 	
 	<div type="textpart" n="A">
 	<head xml:lang="eng">Sanskrit Portion</head>
+		
 		<p n="1">Prosperity! Fortune!</p>
+		
+		<p rend="stanza" n="1">...</p>
+		
 	</div>
 	
 	<div type="textpart" n="B">
 	<head xml:lang="eng">Tamil Portion</head>
+		
 		<p n="1">Prosperity! Fortune!</p>
+		
+		<p n="1">Ninth year of ...the glorious king Rājādhirāja, emperor of the three worlds.</p>
+		
+		<p n="2-5">...</p>
+		
 	</div>
 				
 </div>
