@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvōṟṟiyūr, Ādhipurīśvara temple, time of king Rājādhirājadeva, 9th year.  
+				<title>Tiruvoṟṟiyūr, Ādhipurīśvara temple, time of king Rājādhirājadeva, 9th year.  
 					
 				</title>
 				<respStmt>
@@ -102,12 +102,18 @@
 				<p>
 					Aiyaṅkoṇṭacōḻa-maṇṭalattu-p puḻaṟ kōṭṭattu	
 					<lb n="2"/>Uṭaiyār tiruvōṟṟiyūr-uṭaiyār kōyilil maṭamuṭaiya caturāṉ-aṉa paṇṭitaṉum śrīmāhe<gap unit="character" quantity="10" reason="lost"></gap>ṭāṉum <hi rend="grantha">śrī-</hi>kā<unclear>ri</unclear>yam Ariyapirāṉ-paṭṭaṉum cōmacittāntam vakkāṇikkum vā<hi rend="grantha">gīśvara</hi>paṇṭitaṉum kālum piṭāruñ ceyaṅkoṇṭacōḻa-maṇṭala piṭā<unclear>ra</unclear>ṉu
-					<lb n="3" break="no"/>n tiruvōṟṟiyūr-<unclear>p</unclear> piccaṉuṅ kōyil nāyakam paṭampakka-nāyaka-paṭṭaṉum kōyiṟ-kaṇakku-t tiru<gap reason="lost" unit="character" quantity="10"></gap>ṭaiyār tiru-p-paṅkūṉiyu-t tirattu Āṟān tirunāḷ-āṉa putaṉ-kiḻamai<unclear>yu</unclear>m Ēkātaciyu<unclear>m</unclear> peṟṟa Āyil<choice><orig>ai</orig><reg>ē</reg></choice>yattiṉ-aṉṟu paṭampakka-nāyaka-tēvar tirumakiḻiṉ kiṭ <!--@emfr:it does not make sense this kit. Maybe it's kita.-->  tiruvōlakka-ñ ceyt’ eḻuntaru
+					<lb n="3" break="no"/>n tiruvōṟṟiyūr-<unclear>p</unclear> piccaṉuṅ kōyil nāyakam paṭampakka-nāyaka-paṭṭaṉum kōyiṟ-kaṇakku-t tiru
+				</p>
+				<p>
+					<gap reason="lost" unit="character" quantity="10"></gap>ṭaiyār tiru-p-paṅkūṉiyu-t tirattu Āṟān tirunāḷ-āṉa putaṉ-kiḻamai<unclear>yu</unclear>m Ēkātaciyu<unclear>m</unclear> peṟṟa Āyil<choice><orig>ai</orig><reg>ē</reg></choice>yattiṉ-aṉṟu paṭampakka-nāyaka-tēvar tirumakiḻiṉ kiṭ <!--@emfr:it does not make sense this kit. Maybe it's kita.-->  tiruvōlakka-ñ ceyt’ eḻuntaru
 					<lb n="4" break="no"/>ḷi-y-iruntu Āḷuṭaiya-nampi <hi rend="grantha">śr<choice><orig>i</orig><reg>ī</reg></choice></hi>purāṇaṅ k<unclear>e</unclear>ṭṭ’ aruḷā niṟka Uṭaiyār tēvatāṉam vaṭuka-p perum-pā<hi rend="grantha">ka</hi>ttu <hi rend="grantha">kā</hi>ṇi 
 				</p>
 				<p>
-					<gap quantity="10" unit="character" reason="lost"></gap>-y-eṉṟu viṇṇappañ ceyya namm<choice><orig>u</orig><reg>ū</reg></choice>rkaḷil I<unclear>ra</unclear>ṇ<choice><orig>ai</orig><reg>i</reg></choice>yūr Amutu<unclear>ṅ</unclear> kiḻavaṉ periyāṉ cōmaṉuk=ku-t taṇṭicaṉ vilai-y-āka viṟṟu-k kāṇi-y-ākaka <!--@emfr:this must be k plus pulli?--> koṭukka-v-eṉṟu tiruvāymoḻi	
-					<lb n="5" break="no"/>ntaruḷa Ivv-ūrkku-k kāṇi-vilai Aṉṟōṭu naṟkācu nūṟṟiru<unclear>pa</unclear>tum <hi rend="grantha">śrī</hi>-paṇṭāra-t-toṭukkuk koṇṭu Ivva<gap reason="lost" unit="character" quantity="9"></gap>ḻavaṉ periyāṉ cōma<choice><orig>n</orig><reg>ṉ</reg></choice>ukku <hi rend="grantha">śrī</hi>-paṇṭāra-t tiṟai-y-iṟukkavum Iva<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum-ivaṉ va<hi rend="grantha">ṃśa</hi>ttārkkum viṟṟōṟṟi<hi rend="grantha"><choice><orig>pri</orig><reg>vṛ</reg></choice><supplied reason="omitted">t</supplied>tikraya</hi> <!--@emfr: check this transliteration. I think it could also be parikraya in the sense of purchasing the land back from them-->ttu-k ku<choice><orig>r</orig><reg>ṟ</reg></choice>itt’ āvat’ āka viṟṟu-k koṭuttōm 
+					<gap quantity="10" unit="character" reason="lost"></gap>-y-eṉṟu viṇṇappañ ceyya namm<choice><orig>u</orig><reg>ū</reg></choice>rkaḷil I<unclear>ra</unclear>ṇ<choice><orig>ai</orig><reg>i</reg></choice>yūr Amuta<unclear>ṅ</unclear> kiḻavaṉ periyāṉ cōmaṉuk=ku-t taṇṭicaṉ vilai-y-āka viṟṟu-k kāṇi-y-ākaka <!--@emfr:this must be k plus pulli?--> koṭukka-v-eṉṟu tiruvāymoḻi	
+					<lb n="5" break="no"/>ntaruḷa Ivv-ūrkku-k kāṇi-vilai Aṉṟ<choice><sic>ō</sic><corr>ā</corr></choice>ṭu naṟkācu nūṟṟiru<unclear>pa</unclear>tum <hi rend="grantha">śrī</hi>-paṇṭāra-t-toṭukkuk koṇṭu 
+				</p>
+				<p>
+					Ivva<gap reason="lost" unit="character" quantity="9"></gap>ḻavaṉ periyāṉ cōma<choice><orig>n</orig><reg>ṉ</reg></choice>ukku <hi rend="grantha">śrī</hi>-paṇṭāra-t tiṟai-y-iṟukkavum Iva<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum-ivaṉ va<hi rend="grantha">ṃśa</hi>ttārkkum viṟṟōṟṟi<hi rend="grantha"><choice><orig>pri</orig><reg>vṛ</reg></choice><supplied reason="omitted">t</supplied>tikraya</hi> <!--@emfr: check this transliteration. I think it could also be parikraya in the sense of purchasing the land back from them-->ttu-k ku<choice><orig>r</orig><reg>ṟ</reg></choice>itt’ āvat’ āka viṟṟu-k koṭuttōm 
 				</p>
 				<p>
 					Ip-paṭikku Ivai ma
@@ -154,8 +160,11 @@
 			
 			<div type="translation" resp="part:reda part:emfr">
 				<p n="2-4">
-				<gap reason="lost"/>Hereditary rights of land <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> from northern Perumpākam as <foreign>tēvatāṉam</foreign> for the god that gracefully dwells <supplied reason="subaudible">there</supplied> so that he hears the <foreign>Śrīpurāṇam</foreign> by Āḷuṭaiya-nampi after he gracefully recited it in the assembly hall <supplied reason="explanation"><foreign>tiruvōlakkam</foreign></supplied> that lies next <supplied reason="explanation"><foreign>kiṭa</foreign></supplied> to the holy Makiḻ tree <supplied reason="subaudible">in the shrine</supplied> the god Paṭampakka-nāyaka. <supplied reason="subaudible">This was done</supplied> on the day of the ninth star <supplied reason="explanation"><foreign>Āyilēyam</foreign></supplied>, which occurs on the Wednesday of  Ekātāci,that is, the sixth day of the holy festival of Paṅkūṉi for the Lord <gap reason="lost"/>. <gap reason="lost"/> accountant of the temple; Paṭampakka-nāyakka, head <supplied reason="explanation"><foreign>nāyakam</foreign></supplied> of the temple; Tiruvōṟṟiyūr-Piccaṉ; Piṭāraṉ, an official <supplied reason="explanation"><foreign>piṭār</foreign></supplied> from Ceyaṅkoṇṭacōḻa-maṇṭala; the scholar <supplied reason="explanation"><foreign>paṇṭitaṉ</foreign></supplied> Vāgīśvara, teacher of the Cōmacittāntam <supplied reason="explanation"><foreign>Somasiddhānta</foreign></supplied>, the Ariyapiraṉ-paṭṭaṉ, manager of the temple mutt, <gap reason="lost"/>ṭāṉ <gap reason="lost"/>śrīmāhe<gap reason="lost"/> Paṇṭitaṉ <foreign>alias</foreign> Caturāṉ, belonging to the monastery in the temple of the Lord Tiruvōṟṟiyūr-uṭaiyār, in the area of Puḻal within the Aiyaṅkoṇṭacōḻa-maṇṭalam. 
-				
+					<gap reason="lost"/>The temple accountant <supplied reason="explanation"><foreign>kōyil kāṇakku</foreign></supplied>; the priest <supplied reason="explanation"><foreign>paṭṭaṉ</foreign></supplied> <supplied reason="subaudible">of the shrine</supplied> of Paṭampakka-nāyakka, chief trustee <supplied reason="explanation"><foreign>kōyil nāyakkam</foreign></supplied>; Tiruvōṟṟiyūr-Piccaṉ; the temple official/musician <supplied reason="explanation"><foreign>piṭāraṉ</foreign></supplied> <note>SII.65 indicates that the <foreign>piṭārar</foreign> are entrusted with the singing of the holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied>. According to Karashima (Ancient to Medieval, 120), they were in fact “temple supervising officers”, which seems to be also in line with Pondicherry Inscriptions 8, so one of their important tasks for which they got lands and tax exemptions was the singing of hymns</note> from Ceyaṅkoṇṭacōḻa-maṇṭala, temple officiant <supplied reason="explanation"><foreign>piṭār</foreign></supplied> in the shrine <supplied reason="explanation"><foreign>kālum</foreign></supplied>; the scholar <supplied reason="explanation"><foreign>paṇṭitaṉ</foreign></supplied> Vāgīśvara, teacher of the Cōmacittāntam <supplied reason="explanation">Somasiddhānta</supplied> <note>This was the doctrine of the Kapālikas, which would mean that we are dealing with a transaction made by such group, further supported by the fact that the buyer's name has the initiatory name Cōma, one of the markers of the Kapālika communities.</note> 
+					
+					
+					the priest <supplied reason="explanation"><foreign>paṭṭaṉ</foreign></supplied> Ariyapiraṉ, supervisor of temple affairs <supplied reason="explanation"><foreign>śrīkāryam</foreign></supplied><gap reason="lost"/> śrīmāhe<gap reason="lost"/>, Cāturāṉaṉ Paṇṭitaṉ, manager <supplied reason="explanation"><foreign>maṭamuṭaiyār</foreign></supplied> in the temple of god Tiruvōṟṟiyūr-uṭaiyār <supplied reason="subaudible">located</supplied> in the Puḻal-kōṭṭam of the Aiyaṅkoṇṭacōla-maṇṭalam.
+					
 				</p>
 				<p n="4-5">
 					
