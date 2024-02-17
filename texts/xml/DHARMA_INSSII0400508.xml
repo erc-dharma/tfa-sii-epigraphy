@@ -199,7 +199,7 @@
 	
 	<listBibl type="primary">
 		
-		<bibl n="SR">
+		<bibl n="KS">
 			<ptr target="bib:KrishnaSastri1923_01"/>
 			<citedRange unit="page">146-147</citedRange>
 			<citedRange unit="item">508</citedRange>
