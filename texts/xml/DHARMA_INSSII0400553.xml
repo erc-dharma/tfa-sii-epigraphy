@@ -88,7 +88,7 @@
 <div type="edition" xml:lang="san-Latn">
 				
 	<ab>
-		<lb n="1"/><hi rend="grantha">svasti śrī</hi> <g type="gomutraFinal"></g>
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi> <g type="gomutraFinal">.</g>
 	</ab>
 	
 	<lg met="TBC" n="1">
@@ -124,7 +124,7 @@
 			
 <div type="bibliography">
 				
-	<p>First edited <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 04, no. 553).</p>
+	<p>First edited <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4, no. 553).</p>
 	<p>Encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>.</p>
 	
 	
@@ -132,8 +132,8 @@
 		
 		<bibl n="KS">
 			<ptr target="bib:KrishnaSastri1923_01"/>
-			<citedRange unit="page">146-147</citedRange>
-			<citedRange unit="item">508</citedRange>
+			<citedRange unit="page">185</citedRange>
+			<citedRange unit="item">553</citedRange>
 		</bibl>
 		
 	</listBibl>
@@ -142,7 +142,7 @@
 		
 		<bibl>
 			<ptr target="bib:ARIE1891-1892"/>
-			<citedRange unit="page">5</citedRange>
+			<citedRange unit="page">18</citedRange>
 			<citedRange unit="appendix">B/1892</citedRange>
 			<citedRange unit="item">105</citedRange>
 		</bibl>	
