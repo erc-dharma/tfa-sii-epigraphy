@@ -150,6 +150,13 @@
 	<listBibl type="secondary">
 		
 		<bibl>
+			<ptr target="bib:KrishnaSastri1923_01"/>
+			<citedRange unit="page">186</citedRange>
+			<citedRange unit="item">554</citedRange>
+			<note>Refers to SII 3, no. 64.</note>
+		</bibl>
+		
+		<bibl>
 			<ptr target="bib:ARIE1891-1892"/>
 			<citedRange unit="page">18</citedRange>
 			<citedRange unit="appendix">B/1892</citedRange>
