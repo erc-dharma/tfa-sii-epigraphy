@@ -87,22 +87,26 @@
 			
 <div type="edition" xml:lang="san-Latn">
 				
-	<div type="textpart" xml:lang="san-Latn" n="A">
+	<div type="textpart" xml:lang="san-Latn" n="A" rendition="class:38768 maturity:83213">
 		<head xml:lang="eng">Sanskrit Portion</head>
 		
 		<ab>
 			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
 		</ab>
 		
-		<lg met="TBC" n="1">
+		<lg met="śārdūlavikrīḍita" n="1">
 			
-			<l n="a">...</l>
+			<l n="a">śrīmān· coḷa-n<choice><sic>ra</sic><corr>ṟ</corr></choice>pātmaj<choice><sic>ā</sic><corr>aḥ</corr></choice> paṭumati<lb n="2" break="no"/>ś śrīvallabho vairiṇāṃ</l>
+			<l n="b">kālaś śilaguṇair u<lb n="3" break="no"/>petamahimāṟintikai-nāmā di<choice><sic>śvata</sic><corr>śat·</corr></choice></l>
+<l n="b">Ādhigr<supplied reason="undefined">ā</supplied>ma<lb n="4" break="no"/>ni<supplied reason="undefined">v</supplied>āsine purajite dīpasya dīptyai sadā</l>
+<l n="da">triṃśan-niṣkami<lb n="5" break="no"/>taṃ hiraṇyam a<supplied reason="omitted">pa</supplied>randaṇḍañ ca lauham mahat· <g type="gomutraFinal">.</g></l>
+
 			
 		</lg>
 		
 	</div>
 	
-	<div type="textpart" xml:lang="tam-Latn" n="B">
+	<div type="textpart" xml:lang="tam-Latn" n="B" rendition="class:57475 maturity:83215">
 		<head xml:lang="eng">Tamil Portion</head>
 				
 		<p>
