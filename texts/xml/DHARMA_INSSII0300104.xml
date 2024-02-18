@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvoṟṟiyūr, Ādhipurīśvara temple, time of Parakesarivarman, year 37</title>
+				<title>Tiruvoṟṟiyūr, Ādhipurīśvara temple, time of Parakesarivarman, year 30</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -85,7 +85,7 @@
 	<text xml:space="preserve">
 		<body>
 			
-<div type="edition" xml:lang="san-Latn">
+<div type="edition" xml:lang="tam-Latn">
 				
 	<div type="textpart" xml:lang="san-Latn" n="A" rendition="class:38768 maturity:83213">
 		<head xml:lang="eng">Sanskrit Portion</head>
