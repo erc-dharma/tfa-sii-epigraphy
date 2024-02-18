@@ -85,24 +85,26 @@
 	<text xml:space="preserve">
 		<body>
 			
-<div type="edition" xml:lang="san-Latn">
+<div type="edition" xml:lang="tam-Latn" >
 				
-	<div type="textpart" xml:lang="san-Latn" n="A">
+	<div type="textpart" xml:lang="san-Latn" n="A" rendition="class:38768 maturity:83213">
 		<head xml:lang="eng">Sanskrit Portion</head>
 		
 		<ab>
 			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
 		</ab>
 		
-		<lg met="TBC" n="1">
+		<lg met="uncertain" n="1">
 			
-			<l n="a">...</l>
+			<l n="ab">Ādhipurīśānāya <supplied reason="undefined">tri</supplied>ṃśanniṣkaṃ <choice><sic>sva</sic><corr>suva</corr></choice><lb n="2" break="no"/>rṇṇam anava<supplied reason="undefined">dya</supplied>m adā<choice><sic>ta</sic><corr>t</corr></choice></l>
+			<l n="cd">dīpā<supplied reason="omitted">r</supplied>tthaṃ khalu nīlī keraḷar<supplied reason="undefined">ā</supplied>jasya <lb n="3"/>vijaya-rāgasya sutā <g type="gomutraFinal">.</g> 
+</l>
 			
 		</lg>
 		
 	</div>
 	
-	<div type="textpart" xml:lang="tam-Latn" n="B">
+	<div type="textpart" xml:lang="tam-Latn" n="B" rendition="class:57475 maturity:83215">
 		<head xml:lang="eng">Tamil Portion</head>
 				
 		<p>
