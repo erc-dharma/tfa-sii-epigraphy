@@ -85,7 +85,7 @@
 	<text xml:space="preserve">
 		<body>
 			
-<div type="edition" xml:lang="san-Latn">
+<div type="edition" xml:lang="san-Latn" rendition="class:38768 maturity:83213">
 				
 	<ab>
 		<lb n="1"/><hi rend="grantha">svasti śrī</hi> <g type="gomutraFinal">.</g>
@@ -124,6 +124,7 @@
 			
 <div type="bibliography">
 				
+	<p>First reported as ARIE/1891-1892/B/1892/105</p>
 	<p>First edited <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4, no. 553).</p>
 	<p>Encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>.</p>
 	
