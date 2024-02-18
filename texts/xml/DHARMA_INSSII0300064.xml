@@ -85,7 +85,7 @@
 	<text xml:space="preserve">
 		<body>
 			
-<div type="edition" xml:lang="san-Latn">
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 				
 	<ab>
 		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
@@ -153,7 +153,7 @@
 			<ptr target="bib:KrishnaSastri1923_01"/>
 			<citedRange unit="page">186</citedRange>
 			<citedRange unit="item">554</citedRange>
-			<note>Refers to SII 3, no. 64.</note>
+			<!--No text edition; refers to SII 3, no. 64.-->
 		</bibl>
 		
 		<bibl>
