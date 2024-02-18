@@ -87,18 +87,18 @@
 			
 <div type="edition" xml:lang="san-Latn">
 				
-	<div type="textpart" xml:lang="san-Latn" n="A">
+	<div type="textpart" xml:lang="san-Latn" n="A" rendition="class:38768 maturity:83213">
 		<head xml:lang="eng">Sanskrit Portion</head>		
 		
-		<lg met="TBC" n="1">
+		<lg met="uncertain" n="1">
 			
-			<l n="a"><lb n="1"/>...</l>
+			<l n="abcd"><lb n="1"/>dī<supplied reason="undefined">pa</supplied>daṇḍau ca <gap reason="lost" quantity="6" unit="character"/> <lb n="2"/>pratidina<choice><sic>m· ni</sic><corr>m adi</corr></choice>śa<choice><sic>n</sic><corr>d</corr></choice> dīpadī<choice><sic>ṣ</sic><corr>p</corr></choice>tyai <gap reason="lost" quantity="5" unit="character"/></l>
 			
 		</lg>
 		
 	</div>
 	
-	<div type="textpart" xml:lang="tam-Latn" n="B">
+	<div type="textpart" xml:lang="tam-Latn" n="B" rendition="class:57475 maturity:83215">
 		<head xml:lang="eng">Tamil Portion</head>
 				
 		<p>
