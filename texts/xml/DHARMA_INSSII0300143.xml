@@ -86,16 +86,21 @@
 		<body>
 			
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
-					
 				
 	<ab>
-		<lb n="1"/><hi rend="grantha"><supplied reason="undefined">svasti</supplied> śrī</hi>
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
 	</ab>
 	
 	<p>
 		<hi rend="grantha">śri</hi>-U
-		<lb n="2" break="no"/>ttama ...
-		
+		<lb n="2" break="no"/>ttama-cōḻa-<hi rend="grantha">de</hi>var-k
+		<lb n="3" break="no"/>kō-p-parake<hi rend="grantha">sa</hi>riva<hi rend="grantha"><unclear>rmma</unclear></hi>
+		<lb n="4" break="no"/><unclear>ṟku</unclear> yāṇṭu patiṉ aint=-ā
+		<lb n="5" break="no"/>vatu		
+	</p>
+	
+	<p>
+		...
 	</p>
 	
 </div>
