@@ -102,26 +102,31 @@
 		<head xml:lang="eng">Tamil Portion</head>
 				
 		<p>
-			<lb n="3"/>matirai koṇṭa kō-p-parakēcari-va<hi rend="grantha">rmma</hi>ṟku yāṇṭu
-			<lb n="4"/>mu-p-patt-āvatu ...
-			
+			<lb n="3"/>matirai koṇṭa kō-p-parakēcari-va<hi rend="grantha">rmma</hi>ṟku yā<unclear>ṇṭu</unclear>
+			<lb n="4"/>mu-p-pat<supplied reason="omitted">t</supplied>-āvatu
+		</p>
+		
+		<p>
+			tiruvoṟṟiyūr <hi rend="grantha">mahāde</hi>vark=ku <unclear>cōḻa-p</unclear>
+			<lb n="5" break="no"/>-perumā<choice><orig>nn</orig><reg>ṉ</reg></choice>aṭikaḷ
+
 		</p>
 	</div>
 	
 </div>
 
-<!--<div type="apparatus">
+<div type="apparatus">
 				
 	<listApp>
 		
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:KrishnaSastri1925_01"/>
+		<app loc="4">
+			<lem>yā<unclear>ṇṭu</unclear></lem>
+			<rdg source="bib:Hultzsch1903_01">yā<supplied reason="undefined">ṇṭu</supplied> <gap reason="lost" quantity="1" unit="character"/></rdg>
 		</app>
 		
 	</listApp>
 	
-</div>-->
+</div>
 			
 <div type="translation" resp="part:emfr">
 				
@@ -134,7 +139,7 @@
 <div type="bibliography">
 				
 	<p>First edited <bibl><ptr target="bib:Hultzsch1903_01"/></bibl> (SII 3, no. 105).</p>
-	<p>Encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis based on <bibl><ptr target="bib:Hultzsch1903_01"/></bibl>.</p>
+	<p>Encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis based on <bibl><ptr target="bib:Hultzsch1903_01"/></bibl> and on photos (2019).</p>
 	
 	
 	<listBibl type="primary">
