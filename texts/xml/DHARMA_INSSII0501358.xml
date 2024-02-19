@@ -149,29 +149,25 @@
 	</p>
 	
 	<p>
-		Ip-paṭikku Ivai ma
-		<lb n="6" break="no"/>ṭam-uṭaiya caturā<choice><orig>nan</orig><reg>ṉaṉ</reg></choice>a-paṇṭitaṉ Eḻuttu <g type="gomutraFinal">.</g>
-	</p>
-	<p>
-		Ip-paṭikku Ivai tiruv<choice><orig>i</orig><reg>ī</reg></choice>tivē y-iṭaṅkoṇṭāṉ<!--@Renato: what is the base for this standardisation and split of this name?--> Eḻuttu <unclear><g type="gomutraFinal">.</g></unclear>
-	</p>
-	<p>
-		<supplied reason="lost"><hi rend="grantha">śrī-</hi>kā<unclear>ri</unclear>yam Ariyapirāṉ paṭṭa</supplied>ṉ Eḻuttu <g type="gomutraFinal">.</g>
-	</p>
-	<p>
-		Ip-paṭikku Ivai cōmacittāntam vakkāṇikkum vā<hi rend="grantha">gīśva</hi>ra-paṇṭitaṉ Eḻuttu <g type="gomutraFinal">.</g>
-	</p>
-	<p>	
-		Ip-paṭikku Ivai kālum piṭārañ ceyaṅ-koṇṭa-cōḻa-maṇṭala-piṭāraṉ Eḻuttu <g type="gomutraFinal">.</g>
-	</p>
-	<p>
-		Ip-paṭi-k<lb n="7" break="no"/>ku Ivai tiruvoṟṟiyūr piccaṉ Eḻuttu <g type="gomutraFinal">.</g>
-	</p>
-	<p>	
-		Ip-paṭikku Ivai kōyil nāyakam paṭampakka-nāyaka-paṭṭaṉ Eḻuttu <g type="gomutraFinal">.</g>
-	</p>
-	<p>
-		<gap reason="lost" unit="character" quantity="10"/><unclear>ṉ U</unclear>ṟavākkiṉāṉ Eḻuttu <g type="gomutraFinal">.</g>
+		<list>
+			<item>Ip-paṭikku Ivai ma
+				<lb n="6" break="no"/>ṭam-uṭaiya caturā<choice><orig>nan</orig><reg>ṉaṉ</reg></choice>a-paṇṭitaṉ Eḻuttu <g type="gomutraFinal">.</g></item>
+			
+			<item>Ip-paṭikku Ivai tiruv<choice><orig>i</orig><reg>ī</reg></choice>tivē y-iṭaṅkoṇṭāṉ<!--@Renato: what is the base for this standardisation and split of this name?--> Eḻuttu <unclear><g type="gomutraFinal">.</g></unclear></item>
+			
+			<item><supplied reason="lost"><hi rend="grantha">śrī-</hi>kā<unclear>ri</unclear>yam Ariyapirāṉ paṭṭa</supplied>ṉ Eḻuttu <g type="gomutraFinal">.</g></item>
+			
+			<item>Ip-paṭikku Ivai cōmacittāntam vakkāṇikkum vā<hi rend="grantha">gīśva</hi>ra-paṇṭitaṉ Eḻuttu <g type="gomutraFinal">.</g></item>
+			
+			<item>Ip-paṭikku Ivai kālum piṭārañ ceyaṅ-koṇṭa-cōḻa-maṇṭala-piṭāraṉ Eḻuttu <g type="gomutraFinal">.</g></item>
+			
+			<item>Ip-paṭi-k<lb n="7" break="no"/>ku Ivai tiruvoṟṟiyūr piccaṉ Eḻuttu <g type="gomutraFinal">.</g></item>
+			
+			<item>Ip-paṭikku Ivai kōyil nāyakam paṭampakka-nāyaka-paṭṭaṉ Eḻuttu <g type="gomutraFinal">.</g></item>
+			
+			<item><gap reason="lost" unit="character" quantity="10"/><unclear>ṉ U</unclear>ṟavākkiṉāṉ Eḻuttu <g type="gomutraFinal">.</g></item>
+			
+		</list>
 	</p>
 </div>
 	
