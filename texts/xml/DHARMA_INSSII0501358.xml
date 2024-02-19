@@ -8,13 +8,16 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvōṟṟiyūr, Ādhipurīśvara temple, time of Rājādhirāja Cōḻa, 9th year.  			
-				</title>
+				<title>Tiruvoṟṟiyūr, Ādhipurīśvara temple, time of Rājādhirāja Cōḻa, year 9</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
 						<forename>Renato</forename>
 						<surname>Dávalos</surname>
+					</persName>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
 					</persName>
 				</respStmt>
 				<respStmt>
@@ -22,6 +25,10 @@
 					<persName ref="part:reda">
 						<forename>Renato</forename>
 						<surname>Dávalos</surname>
+					</persName>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
 					</persName>
 				</respStmt>
 			</titleStmt>
@@ -83,100 +90,148 @@
 			<change who="part:reda" when="2024-02-08" status="draft">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
-<text xml:space="preserve">
+	<text xml:space="preserve">
 	<body>
 		
-<div type="edition" xml:lang="tam-Latn">
-				
+<div type="edition">
+	
+<div type="textpart" n="A" xml:lang="san-Latn" rendition="class:38768 maturity:83213">
+<head xml:lang="eng">Sanskrit Portion</head>
+	
 	<ab>
-		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+		<lb n="1"/>svasti śrī
 	</ab>
 	
-	<p>          
-		v<hi rend="grantha">yakīr</hi>ṇā<hi rend="grantha">c-cha</hi>ta-vi<hi rend="grantha">ṃśa</hi>ti <hi rend="grantha">kāśais-sōmasya vṛṣalasya</hi> va<hi rend="grantha">ṭuka-mah</hi><gap reason="lost" quantity="10" unit="character"></gap><hi rend="grantha">raśaḥ</hi><g type="ddanda"></g><!--@emfr:After a double danda, do we also leave a paragraph space? Same problem in last lines-->
-	</p>
-	<p>
-		{pc} kōvi<hi rend="grantha">rā</hi>ca-kecaripaṉmar-āṉa <hi rend="grantha">tribhu</hi>vaṉa-c-cakkaravart<unclear>ti</unclear>kaḷ <hi rend="grantha">śrī-rājādhirāja-de</hi>varkku yāṇṭu Oṉpat’ āvatu 
-	</p>
-	<p>
-		Aiyaṅkoṇṭacōḻa-maṇṭalattu-p puḻaṟ kōṭṭattu	
-		<lb n="2"/>Uṭaiyār tiruvōṟṟiyūr-uṭaiyār kōyilil maṭamuṭaiya caturāṉ-aṉa paṇṭitaṉum śrīmāhe<gap unit="character" quantity="10" reason="lost"></gap>ṭāṉum <hi rend="grantha">śrī-</hi>kā<unclear>ri</unclear>yam Ariyapirāṉ-paṭṭaṉum cōmacittāntam vakkāṇikkum vā<hi rend="grantha">gīśvara</hi>paṇṭitaṉum kālum piṭāruñ ceyaṅkoṇṭacōḻa-maṇṭala piṭā<unclear>ra</unclear>ṉu
-		<lb n="3" break="no"/>n tiruvōṟṟiyūr-<unclear>p</unclear> piccaṉuṅ kōyil nāyakam paṭampakka-nāyaka-paṭṭaṉum kōyiṟ-kaṇakku-t tiru
-	</p>
-	<p>
-		<gap reason="lost" unit="character" quantity="10"></gap>ṭaiyār tiru-p-paṅkūṉiyu-t tirattu Āṟān tirunāḷ-āṉa putaṉ-kiḻamai<unclear>yu</unclear>m Ēkātaciyu<unclear>m</unclear> peṟṟa Āyil<choice><orig>ai</orig><reg>ē</reg></choice>yattiṉ-aṉṟu paṭampakka-nāyaka-tēvar tirumakiḻiṉ kiṭ <!--@emfr:it does not make sense this kit. Maybe it's kita.-->  tiruvōlakka-ñ ceyt’ eḻuntaru
-		<lb n="4" break="no"/>ḷi-y-iruntu Āḷuṭaiya-nampi <hi rend="grantha">śr<choice><orig>i</orig><reg>ī</reg></choice></hi>purāṇaṅ k<unclear>e</unclear>ṭṭ’ aruḷā niṟka Uṭaiyār tēvatāṉam vaṭuka-p perum-pā<hi rend="grantha">ka</hi>ttu <hi rend="grantha">kā</hi>ṇi 
-	</p>
-	<p>
-		<gap quantity="10" unit="character" reason="lost"></gap>-y-eṉṟu viṇṇappañ ceyya namm<choice><orig>u</orig><reg>ū</reg></choice>rkaḷil I<unclear>ra</unclear>ṇ<choice><orig>ai</orig><reg>i</reg></choice>yūr Amuta<unclear>ṅ</unclear> kiḻavaṉ periyāṉ cōmaṉuk=ku-t taṇṭicaṉ vilai-y-āka viṟṟu-k kāṇi-y-ākaka <!--@emfr:this must be k plus pulli?--> koṭukka-v-eṉṟu tiruvāymoḻi	
-		<lb n="5" break="no"/>ntaruḷa Ivv-ūrkku-k kāṇi-vilai Aṉṟ<choice><sic>ō</sic><corr>ā</corr></choice>ṭu naṟkācu nūṟṟiru<unclear>pa</unclear>tum <hi rend="grantha">śrī</hi>-paṇṭāra-t-toṭukkuk koṇṭu 
-	</p>
-	<p>
-		Ivva<gap reason="lost" unit="character" quantity="9"></gap>ḻavaṉ periyāṉ cōma<choice><orig>n</orig><reg>ṉ</reg></choice>ukku <hi rend="grantha">śrī</hi>-paṇṭāra-t tiṟai-y-iṟukkavum Iva<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum-ivaṉ va<hi rend="grantha">ṃśa</hi>ttārkkum viṟṟōṟṟi<hi rend="grantha"><choice><orig>pri</orig><reg>vṛ</reg></choice><supplied reason="omitted">t</supplied>tikraya</hi> <!--@emfr: check this transliteration. I think it could also be parikraya in the sense of purchasing the land back from them-->ttu-k ku<choice><orig>r</orig><reg>ṟ</reg></choice>itt’ āvat’ āka viṟṟu-k koṭuttōm 
-	</p>
-	<p>
-		Ip-paṭikku Ivai ma
-		<lb n="6" break="no"/>ṭamuṭaiya caturā<choice><orig>n-an</orig><reg>ṉ-aṉ</reg></choice>a-paṇṭitaṉ Eḻuttu <g type="gomutra"/>
-	</p>
-	<p>
-		Ip-paṭikku Ivai tiruv<choice><orig>i</orig><reg>ī</reg></choice>tivē-y iṭaṅkoṇṭāṉ Eḻuttu <!--@emfr: shall I mark this as a gomutra? The previous one had three lines and the following two only two lines. same as item before. I don't understand if these are dandas, gomutras, and how to encode them.-->  
-	</p>
-	<p>
-		<gap reason="lost" quantity="11" unit="character"></gap>ṉ Eḻuttu <g type="gomutra"/>
-	</p>
-	<p>
-		Ip-paṭikku Ivai cōmacittāntam vakkāṇikkum vā<hi rend="grantha">gīśva</hi>ra-paṇṭitaṉ Eḻuttu<g type="gomutra"/>	
-	</p>
-	<p>	
-		Ip-paṭikku Ivai kālum piṭārañ ceyaṅkoṇṭacōḻa-maṇṭala piṭāraṉ Eḻuttu <g type="gomutra"/>
-	</p>
-	<p>
-		Ip-paṭi-k <lb n="7" break="no"/>ku Ivai tiruvōṟṟiyūr piccaṉ Eḻuttu <g type="gomutra"/>
-	</p>
-	<p>	
-		Ip-paṭikku Ivai kōyil nāyakam paṭampakka-nāyaka-paṭṭaṉ Eḻuttu <g type="gomutra"/>
-	</p>
-	<p>
-		<gap reason="lost" unit="character" quantity="10"></gap><unclear>ṉ U</unclear>ṟavākkiṉāṉ Eḻuttu <g type="gomutrafinal"/>	
-	</p>
+	<lg met="anuṣṭubh" n="1">          
+		<l n="a">vyakrīṇāc chata-viṃśati</l>
+		<l n="b">kāśais sōmasya vṛṣalasya</l>
+		<l n="c">vaṭuka-mah<gap reason="lost" quantity="4" unit="character"/></l>
+		<l n="d"><gap reason="lost" quantity="3" unit="character"/> <supplied reason="lost">vā</supplied>reśa<unclear>ḥ</unclear> <g type="gomutraFinal">.</g></l>
+	</lg>
 	
 </div>
 		
-
+<div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+<head xml:lang="eng">Tamil Portion</head>		
+		
+	<p>
+		kō-vi<hi rend="grantha">rā</hi>ca-kecaripaṉmar-āṉa <hi rend="grantha">tribhu</hi>vaṉa-c-cakkaravart<unclear>ti</unclear>kaḷ <hi rend="grantha">śrī-rājādhirāja-de</hi>varkku yāṇṭu Oṉpat-āvatu		
+	</p>
+	
+	<p>
+		<hi rend="grantha">ja</hi>yaṅ-koṇṭacōḻa-maṇṭalattu-p puḻaṟ-kōṭṭattu	
+		<lb n="2"/>Uṭaiyār tiruvoṟṟiyūr-uṭaiyār kōyilil maṭam-uṭaiya caturāṉaṉa-paṇṭitaṉum <hi rend="grantha">śrī</hi>mā<hi rend="grantha">he</hi><gap unit="character" quantity="10" reason="lost"/>ṭāṉum <hi rend="grantha">śrī-</hi>kā<unclear>ri</unclear>yam Ariyapirāṉ paṭṭaṉum cōmacittāntam vakkāṇikkum vā<hi rend="grantha">gīśvara</hi>-paṇṭitaṉum kālum piṭāruñ ceyaṅ-koṇṭa-cōḻa-maṇṭala-piṭā<unclear>ra</unclear>ṉu
+		<lb n="3" break="no"/>n tiruvoṟṟiyūr-<unclear>p</unclear> piccaṉuṅ kōyil nāyakam paṭampakka-nāyaka-paṭṭaṉum kōyiṟ-kaṇakku-t tiru<gap reason="lost" unit="character" quantity="10"/>ṭ<supplied reason="lost">ai</supplied>yār tiru-p-paṅkūṉi y-uttirattu Āṟān tirunāḷ-āṉa putaṉ-kiḻamai<unclear>yu</unclear>m Ēkātaciyu<unclear>m</unclear> peṟṟa Āyil<choice><orig>ai</orig><reg>ē</reg></choice>yattiṉaṉṟu paṭampakka-nāyaka-tēvar tirumakiḻiṉ kiṭ <!--@emfr:it does not make sense this kit. Maybe it's kita.--> tiruvōlakkañ ceyt' eḻuntaru
+		<lb n="4" break="no"/>ḷi y-iruntu Āḷuṭaiya-nampi <hi rend="grantha">śr<choice><orig>i</orig><reg>ī</reg></choice></hi>-purāṇaṅ k<unclear>ē</unclear>ṭṭ’ aruḷā niṟka Uṭaiyār tēvatāṉam vaṭuka-p perum-pāk=kattu-k= kāṇi 
+	</p>
+	<p>
+		<gap quantity="10" unit="character" reason="lost"/> y-eṉṟu viṇṇappañ ceyya namm-<choice><orig>u</orig><reg>ū</reg></choice>rkaḷil I<unclear>ra</unclear>ṇ<choice><orig>ai</orig><reg>i</reg></choice>yūr Amuta<unclear>ṅ</unclear> kiḻavaṉ periyāṉ cōmaṉuk=ku-t taṇṭicaṉ vilai-y-āka viṟṟu-k kāṇi-y-āka-k koṭukka v-eṉṟu tiruvāymoḻi	
+		<lb n="5" break="no"/>ntaruḷa Ivv-ūrkku-k kāṇi-vilai Aṉṟāṭu naṟ-kācu nūṟṟ' iru<unclear>pa</unclear>tum <hi rend="grantha">śrī</hi>-paṇṭāratt' oṭukku-k koṇṭu 
+	</p>	
+	<p>
+		Iv-va<gap reason="lost" unit="character" quantity="8"/> <supplied reason="lost">ki</supplied>ḻavaṉ periyāṉ cōma<choice><orig>n</orig><reg>ṉ</reg></choice>ukku <hi rend="grantha">śrī</hi>-paṇṭāratt' iṟai y-iṟukkavum
+	</p>
+	
+	<p>
+		Iva<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum ivaṉ va<hi rend="grantha">ṃśa</hi>ttārkkum viṟṟōṟṟi <hi rend="grantha">pr<choice><sic>i</sic><corr>a</corr></choice>kraya</hi>ttukku<choice><orig>r</orig><reg>ṟ</reg></choice>itt’ āvat’ āka viṟṟu-k koṭuttōm
+	</p>
+	<p>
+		Ip-paṭikku Ivai ma
+		<lb n="6" break="no"/>ṭam-uṭaiya caturā<choice><orig>nan</orig><reg>ṉaṉ</reg></choice>a-paṇṭitaṉ Eḻuttu <g type="gomutraFinal">.</g>
+	</p>
+	<p>
+		Ip-paṭikku Ivai tiruv<choice><orig>i</orig><reg>ī</reg></choice>tivē-y iṭaṅkoṇṭāṉ Eḻuttu <unclear><g type="gomutraFinal">.</g></unclear>
+	</p>
+	<p>
+		<gap reason="lost" quantity="11" unit="character"/>ṉ Eḻuttu <g type="gomutraFinal">.</g>
+	</p>
+	<p>
+		Ip-paṭikku Ivai cōmacittāntam vakkāṇikkum vā<hi rend="grantha">gīśva</hi>ra-paṇṭitaṉ Eḻuttu <g type="gomutraFinal">.</g>
+	</p>
+	<p>	
+		Ip-paṭikku Ivai kālum piṭārañ ceyaṅ-koṇṭa-cōḻa-maṇṭala-piṭāraṉ Eḻuttu <g type="gomutraFinal">.</g>
+	</p>
+	<p>
+		Ip-paṭi-k<lb n="7" break="no"/>ku Ivai tiruvoṟṟiyūr piccaṉ Eḻuttu <g type="gomutraFinal">.</g>
+	</p>
+	<p>	
+		Ip-paṭikku Ivai kōyil nāyakam paṭampakka-nāyaka-paṭṭaṉ Eḻuttu <g type="gomutraFinal">.</g>
+	</p>
+	<p>
+		<gap reason="lost" unit="character" quantity="10"/><unclear>ṉ U</unclear>ṟavākkiṉāṉ Eḻuttu <g type="gomutraFinal">.</g>
+	</p>
+</div>
+	
+	
+</div>
+		
+<div type="apparatus">
+	
+	<div type="textpart" n="A" xml:lang="san-Latn" rendition="class:38768 maturity:83213">
+	<head xml:lang="eng">Sanskrit Portion</head>
+		
+		<listApp>
+			
+			<app loc="1">
+				<lem><supplied reason="lost">vā</supplied>reśa<unclear>ḥ</unclear></lem>
+				<rdg source="bib:KrishnaSastri1925_01"><gap reason="lost" quantity="3" unit="character"/>raśaḥ</rdg>
+				<note>See <foreign>vāreśaś caturānano</foreign> in SII 5, no. 1360.</note>
+			</app>
+			
+		</listApp>
+	</div>
+	
+	<div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+	<head xml:lang="eng">Tamil Portion</head>
+		
+		<app loc="4">
+				<lem>kāṇi-y-āka-k</lem>
+				<rdg source="bib:KrishnaSastri1925_01">kāṇiyākaka</rdg>
+		</app>
+		
+	</div>
+					
+</div>
 				
-				<!--<div type="apparatus">
-					
-					<!-\-<listApp>
-					
-					<app loc="1">
-					<lem>kumārar</lem>
-					<rdg source="bib:Srinivasan+Reiniche1990_01"/>
-					<rdg source="bib:SubrahmanyaAiyer1937_01">kumārā</rdg>
-					</app>
-					
-					</listApp>-\->
-					
-					</div>-->
-				
-				<div type="translation" resp="part:reda part:emfr">
-					<p n="2-3">
-						<gap reason="lost"/>the temple accountant <supplied reason="explanation"><foreign>kōyil kāṇakku</foreign></supplied>; the priest <supplied reason="explanation"><foreign>paṭṭaṉ</foreign></supplied> <supplied reason="subaudible">of the shrine</supplied> of Paṭampakka-nāyakka, chief trustee <supplied reason="explanation"><foreign>kōyil nāyakkam</foreign></supplied>; Tiruvōṟṟiyūr-Piccaṉ; the temple official/musician <supplied reason="explanation"><foreign>piṭāraṉ</foreign><note>SII.65 indicates that the <foreign>piṭārar</foreign> are entrusted with the singing of the holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied>. According to Karashima (Ancient to Medieval, 120), they were in fact “temple supervising officers”, which seems to be also in line with Pondicherry Inscriptions 8, so one of their important tasks for which they got lands and tax exemptions was the singing of hymns</note></supplied> from Ceyaṅkoṇṭacōḻa-maṇṭala, temple officiant <supplied reason="explanation"><foreign>piṭār</foreign></supplied> in that place <supplied reason="explanation"><foreign>kālum</foreign></supplied>; the scholar <supplied reason="explanation"><foreign>paṇṭitaṉ</foreign></supplied> Vāgīśvara, who will explain in detail <supplied reason="subaudible">the doctrine</supplied> of Cōmacittāntam <supplied reason="explanation">Somasiddhānta<note>This was the doctrine of the Kapālikas, which would mean that we are dealing with a transaction made by such group, further supported by the fact that the buyer's name has the initiatory name Cōma, one of the markers of the Kapālika communities.</note></supplied>; the priest <supplied reason="explanation"><foreign>paṭṭaṉ</foreign></supplied> Ariyapiraṉ, supervisor of temple affairs <supplied reason="explanation"><foreign>śrīkāryam</foreign></supplied><gap reason="lost"/> śrīmāhe<gap reason="lost"/>; Cāturāṉaṉ Paṇṭitaṉ, manager <supplied reason="explanation"><foreign>maṭamuṭaiyār</foreign><note>An explanation of the types of responsibilities that the <foreign>maṭamuṭaiyār</foreign> could have had can be found in Folk, PhD Chapter Three xxxxxx</note></supplied> in the temple of god Tiruvōṟṟiyūr-uṭaiyār <supplied reason="subaudible">located</supplied> in  Puḻalkōṭṭam within the Aiyaṅkoṇṭacōla-maṇṭalam.
-					
-				</p>
-				<p n="3-4">
-					<gap reason="lost"/>hereditary rights of land tenure <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> in the northern <foreign>tēvatāṉam</foreign> <supplied reason="subaudible">called</supplied> Perumpākam <supplied reason="subaudible">dedicated</supplied> to the Lord that gracefully dwells there so that he hears the <foreign>Śrīpurāṇam</foreign> of Āḷuṭaiya-nampi Cuntarar, <supplied reason="subaudible">whose image</supplied> was gracefully installed <supplied reason="explanation"><foreign>ceyt’ eḻuntaruḷi</foreign></supplied> in the assembly hall <supplied reason="explanation"><foreign>tiruvōlakka</foreign></supplied> next to the holy Makiḻ tree <supplied reason="subaudible">of the shrine?</supplied> of god Paṭampakka-nāyaka<note>This was later named the shrine of god Gauliśa, which pertains to the Śaiva Atimārga I of Lakulīśa.</note>. <supplied reason="subaudible">This was done</supplied> on the day of Āyilēyam <supplied reason="explanation">ninth star</supplied>, which occurs on the Wednesday of <foreign>ēkātāci</foreign>, that is, the sixth day of the holy festival of Paṅkūṉi of Lord<gap reason="lost"/>
-				</p>
-					
-					<p n="4-5">
-						After despositing at the temple treasury <supplied reason="explanation"><foreign>śrīpaṇṭāra</foreign></supplied> 120 current coins <supplied reason="explanation"><foreign>aṉṟāṭu naṟkācu</foreign></supplied> as sell price price for the hereditary rights of land tenure <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> of this village, which was gracefully commanded <supplied reason="explanation"><foreign>tiruvāymoḻintaruḷa</foreign></supplied> thus: “Let it be granted that after selling the hereditary rights of land tenure <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> as as tax collection <supplied reason="explanation"><foreign>taṇṭicaṉ>>taṇṭitaṉ?</foreign></supplied>  to Iraṇaiyūr Amutaṅ Kiḻavaṉ Periyāṉ Cōmaṉ in our town so it is sung <supplied reason="explanation"><foreign>viṇṇappañ ceyya</foreign></supplied><gap reason="lost"/>”
-					</p>
-				
-					
-					<p n="5">
+<div type="translation" resp="part:reda part:emfr">
+	
+	<div type="textpart" n="A">
+	<head xml:lang="eng">Sanskrit Portion</head>
+		
+		<ab>
+			Prosperity! Fortune!
+		</ab>
+		
+		<p rend="stanza" n="1">
+			<gap reason="ellipsis"/> bought <supplied reason="explanation"><foreign>vyakrīṇāt</foreign></supplied> for one hundred twenty gold coins <supplied reason="explanation"><foreign>kāśais</foreign><note>Sanskrit <foreign>kāśa</foreign> is used here as equivalent to Tamil <foreign>kācu</foreign></note>.</supplied> ...
+		</p>
+	</div>
+	
+	<div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+	<head xml:lang="eng">Tamil Portion</head>
+		
+		<p n="1">
+			Ninth year of the king ...
+		</p>
+		
+		<p n="2-3">
+			<gap reason="lost"/>the temple accountant <supplied reason="explanation"><foreign>kōyil kāṇakku</foreign></supplied>; the priest <supplied reason="explanation"><foreign>paṭṭaṉ</foreign></supplied> <supplied reason="subaudible">of the shrine</supplied> of Paṭampakka-nāyakka, chief trustee <supplied reason="explanation"><foreign>kōyil nāyakkam</foreign></supplied>; Tiruvoṟṟiyūr-Piccaṉ; the temple official/musician <supplied reason="explanation"><foreign>piṭāraṉ</foreign><note>SII.65 indicates that the <foreign>piṭārar</foreign> are entrusted with the singing of the holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied>. According to Karashima (Ancient to Medieval, 120), they were in fact “temple supervising officers”, which seems to be also in line with Pondicherry Inscriptions 8, so one of their important tasks for which they got lands and tax exemptions was the singing of hymns</note></supplied> from Ceyaṅkoṇṭacōḻa-maṇṭala, temple officiant <supplied reason="explanation"><foreign>piṭār</foreign></supplied> in that place <supplied reason="explanation"><foreign>kālum</foreign></supplied>; the scholar <supplied reason="explanation"><foreign>paṇṭitaṉ</foreign></supplied> Vāgīśvara, who will explain in detail <supplied reason="subaudible">the doctrine</supplied> of Cōmacittāntam <supplied reason="explanation">Somasiddhānta<note>This was the doctrine of the Kapālikas, which would mean that we are dealing with a transaction made by such group, further supported by the fact that the buyer's name has the initiatory name Cōma, one of the markers of the Kapālika communities.</note></supplied>; the priest <supplied reason="explanation"><foreign>paṭṭaṉ</foreign></supplied> Ariyapiraṉ, supervisor of temple affairs <supplied reason="explanation"><foreign>śrīkāryam</foreign></supplied><gap reason="lost"/> śrīmāhe<gap reason="lost"/>; Cāturāṉaṉ Paṇṭitaṉ, manager <supplied reason="explanation"><foreign>maṭamuṭaiyār</foreign><note>An explanation of the types of responsibilities that the <foreign>maṭamuṭaiyār</foreign> could have had can be found in Folk, PhD Chapter Three xxxxxx</note></supplied> in the temple of god Tiruvoṟṟiyūr-uṭaiyār <supplied reason="subaudible">located</supplied> in  Puḻalkōṭṭam within the Aiyaṅkoṇṭacōla-maṇṭalam.			
+		</p>
+		
+		<p n="3-4">
+			<gap reason="lost"/>hereditary rights of land tenure <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> in the northern <foreign>tēvatāṉam</foreign> <supplied reason="subaudible">called</supplied> Perumpākam <supplied reason="subaudible">dedicated</supplied> to the Lord that gracefully dwells there so that he hears the <foreign>Śrīpurāṇam</foreign> of Āḷuṭaiya-nampi Cuntarar, <supplied reason="subaudible">whose image</supplied> was gracefully installed <supplied reason="explanation"><foreign>ceyt’ eḻuntaruḷi</foreign></supplied> in the assembly hall <supplied reason="explanation"><foreign>tiruvōlakka</foreign></supplied> next to the holy Makiḻ tree <supplied reason="subaudible">of the shrine?</supplied> of god Paṭampakka-nāyaka<note>This was later named the shrine of god Gauliśa, which pertains to the Śaiva Atimārga I of Lakulīśa.</note>. <supplied reason="subaudible">This was done</supplied> on the day of Āyilēyam <supplied reason="explanation">ninth star</supplied>, which occurs on the Wednesday of <foreign>ēkātāci</foreign>, that is, the sixth day of the holy festival of Paṅkūṉi of Lord<gap reason="lost"/>
+		</p>
+		
+		<p n="4-5">
+			After despositing at the temple treasury <supplied reason="explanation"><foreign>śrīpaṇṭāra</foreign></supplied> 120 current coins <supplied reason="explanation"><foreign>aṉṟāṭu naṟkācu</foreign></supplied> as sell price price for the hereditary rights of land tenure <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> of this village, which was gracefully commanded <supplied reason="explanation"><foreign>tiruvāymoḻintaruḷa</foreign></supplied> thus: “Let it be granted that after selling the hereditary rights of land tenure <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> as as tax collection <supplied reason="explanation"><foreign>taṇṭicaṉ>>taṇṭitaṉ?</foreign></supplied>  to Iraṇaiyūr Amutaṅ Kiḻavaṉ Periyāṉ Cōmaṉ in our town so it is sung <supplied reason="explanation"><foreign>viṇṇappañ ceyya</foreign></supplied><gap reason="lost"/>”
+		</p>
+		
+		
+		<p n="5">
 						
-						
-						</p>
-				</div>
+		</p>
+	</div>
+</div>
 		
 		
 		<!-- <div type="commentary">
@@ -190,33 +245,31 @@
 			
 <div type="bibliography">
 				
-				<p>
-					First edited <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 05, no. 1358); encoded here for DHARMA (ERC n° 809994) by Renato Dávalos based on previous edition; translated by Renato Dávalos and Emmanuel Francis.
-				</p>
-				
-				<listBibl type="primary">
-					
-					<bibl n="SII">
-						<ptr target="bib:KrishnaSastri1925_01"/>
-						<citedRange unit="page">494</citedRange>
-						<citedRange unit="item">1358</citedRange>
-					</bibl>
-					
-					
-					
-				</listBibl>           
-				
-				<listBibl type="secondary">
-					
-					<bibl>
-						<ptr target="bib:ARIE1896-1897"/>
-						<citedRange unit="page">5</citedRange>
-						<citedRange unit="appendix">A/1896</citedRange>
-						<citedRange unit="item">403</citedRange>
-					</bibl>	
-					
-				</listBibl>
-		</div>
+	<p>
+		First edited <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 05, no. 1358); encoded here for DHARMA (ERC n° 809994) by Renato Dávalos based on previous edition; translated by Renato Dávalos and Emmanuel Francis.
+	</p>
+	
+	<listBibl type="primary">
+		
+		<bibl n="SII">
+			<ptr target="bib:KrishnaSastri1925_01"/>
+			<citedRange unit="page">494</citedRange>
+			<citedRange unit="item">1358</citedRange>
+		</bibl>
+						
+	</listBibl>           
+	
+	<listBibl type="secondary">
+		
+		<bibl>
+			<ptr target="bib:ARIE1896-1897"/>
+			<citedRange unit="page">5</citedRange>
+			<citedRange unit="appendix">A/1896</citedRange>
+			<citedRange unit="item">403</citedRange>
+		</bibl>	
+		
+	</listBibl>
+</div>
         </body>
     </text>
 </TEI>
