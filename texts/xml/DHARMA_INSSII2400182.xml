@@ -99,18 +99,18 @@
                <head xml:lang="eng">First portion</head>
 	
 	<p>
-		<lb n="1"/>ḻaippaḻam <gap quantity="2" reason="lost" unit="character"></gap>ṉū<gap quantity="3" reason="lost" unit="character"></gap>
-		<lb n="2"/>cavarku nellu kala<gap quantity="3" reason="lost" unit="character"></gap>
+		<lb n="1"/><supplied reason="lost">va</supplied>ḻai-p-paḻam <gap quantity="2" reason="lost" unit="character"></gap>ṉū<gap quantity="3" reason="lost" unit="character"></gap>
+		<lb n="2"/>cavarku nellu kala<gap quantity="3" reason="lost" unit="character"></gap><supplied reason="lost" >ṉē</supplied>
 		<lb n="3"/>mukkuṟuṇiyum palaka<gap quantity="5" reason="lost" unit="character"></gap>
 		<lb n="4" break="no"/>yum tayir-amutu paliṅ<gap quantity="5" reason="lost" unit="character"></gap>
-		<lb n="5" break="no"/>llu  kalanē tūṇi pa<gap quantity="6" reason="lost" unit="character"></gap>
+		<lb n="5" break="no"/><supplied reason="lost">ne</supplied>llu  kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi pa<gap quantity="6" reason="lost" unit="character"></gap>
 		<lb n="6" break="no"/>mutu Aṭa viṟakiṭum<gap quantity="6" reason="lost" unit="character"></gap>
 		<lb n="7" break="no"/><unclear>m</unclear> Ilai Amutu pā<gap quantity="6" reason="lost" unit="character"></gap>
 		<lb n="8"/><unclear>I</unclear>raṇṭu mañcāṭiyum Amutu ceytaruḷi<choice><orig>n</orig><reg>ṉ</reg></choice>a pa–<!--@emfr:these dashes appear from here on. What do they mean? That the gap is unknown?-->
 		<lb n="9"/>Āṭiyaruḷa vāḻaippaḻam Aiñcukkup po–
 		<lb n="10" break="no"/>yum tiruppukaikku citārikku<unclear>m</unclear> pon Arai māvu–
 		<lb n="11" break="no"/>ku<choice><orig>n</orig><reg>ṉ</reg></choice>ṟiyum tiruvōlakkattukku Eriyum tiruviḷak–
-		<lb n="12" break="no"/>ṇṇappañ ceyyum paru<hi rend="grantha">ṣai</hi> nāyan
+		<lb n="12" break="no"/><supplied reason="lost">vi</supplied>ṇṇappañ ceyyum paru<hi rend="grantha">ṣai</hi> nāyan
 		<lb n="13" break="no"/>kkup pon kaḻañcum <hi rend="grantha">śrī</hi>purāṇam <!--@emfr: the text here is in bold, but don't know why. Maybe just to underline the text?--> vācippān– 
 		<lb n="14" break="no"/>ḻañcum Āka pon patin kaḻañcaraiyē I–
 		<lb n="15" break="no"/>nūṟṟaṟu kalanē tūṇi Arunāḻi<unclear>yum</unclear><gap quantity="4" reason="lost" unit="character"></gap>
@@ -174,7 +174,7 @@
 				<listApp>
 					
 					<app loc="7">
-						<lem>e</lem>
+						<lem><gap reason="lost"/>e<gap reason="lost"/></lem>
 						<note>The consonant attached to the <foreign>e</foreign> is no longer legible.</note>
 					</app>
 					
@@ -188,14 +188,54 @@
 		
 		
 		<div type="translation" resp="part:reda part:emfr">
-
-		
-	<p n="1">
-		
-	</p>
-	
-	
-	</div>	
+			
+			<div type="textpart" n="A" xml:lang="tam-Latn">
+				<head xml:lang="eng">First portion</head>
+			
+				<p n="1">
+				<gap reason="lost"/> plantain <gap reason="lost"/>
+			</p>
+			
+			<p n="2">
+				<gap reason="lost"/> pots of paddy for <gap reason="lost"/>
+			</p>
+			
+			<p n="3">
+				<gap reason="lost"/> three <foreign>kuṟuṇi </foreign><gap reason="lost"/>
+			</p>
+			
+			<p n="4">
+				<gap reason="lost"/> offering of curds <supplied reason="explanation"><foreign>tayir amutu</foreign></supplied><gap reason="lost"/>
+			</p>
+			
+				<p n="5">
+					<gap reason="lost"/><foreign> tūṇi </foreign> of <gap reason="lost"/> pots of paddy<gap reason="lost"/>
+				</p>
+				
+				<p n="7">
+					<gap reason="lost"/> betel leaves <supplied reason="explanation"><foreign>ilai amutu</foreign></supplied><gap reason="lost"/>
+				</p>	
+				
+				<p n="8">
+					<gap reason="lost"/> gracefully made, <gap reason="lost"/> offering of two <foreign>mañcāṭis</foreign> of <gap reason="lost"/>
+				</p>
+				
+				<p n="9">
+					<gap reason="lost"/> plantain to perform the holy bath <note>In SII 3.80 and SII 3.70, plantain, among a very long list of items, was used to perform the holy bath.</note> <supplied reason="explanation"><foreign>āṭiyaruḷa</foreign></supplied><gap reason="lost"/>
+				</p>
+				
+				<p n="10">
+					<gap reason="lost"/> gold <supplied reason="subaudible">for burning</supplied> incense <supplied reason="explanation"><foreign>citāri</foreign></supplied> in the holy vessel <supplied reason="explanation"><foreign>tiruppukai</foreign></supplied> <gap reason="lost"/>
+				</p>
+				
+				<p n="11">
+					<gap reason="lost"/> for burning the holy lamp at the assembly hall <supplied reason="explanation"><foreign>tiruvōlakkam</foreign></supplied> <gap reason="lost"/>
+				</p>
+				
+			</div>
+			
+			
+		</div>	
 		
 		<!-- <div type="commentary">
 			<p n="20">
