@@ -150,27 +150,35 @@
 		
 		<div type="apparatus">
 			
-	<div type="textpart" n="A" xml:lang="tam-Latn">
-		<head xml:lang="eng">First portion</head>
-		
-		<app loc="13">
-			<lem><hi rend="grantha">śrī</hi>purāṇam</lem>
-			<note>The edition marks the title of the work in bold without any further explanation.</note>
-		</app>
-		
-		<app loc="20">
-			<lem>āḻi-y-āka</lem>
-			<note>The consonant attached to the <foreign>ā</foreign> is no longer legible.</note>
-		</app>
-	</div>	
+			<div type="textpart" n="A" xml:lang="tam-Latn">
+				<head xml:lang="eng">First portion</head>
+				
+				<listApp>
+					
+					<app loc="13">
+						<lem><hi rend="grantha">śrī</hi>purāṇam</lem>
+						<note>The edition marks the title of the work in bold without any further explanation.</note>
+					</app>
+					
+					<app loc="20">
+						<lem>āḻi-y-āka</lem>
+						<note>The consonant attached to the <foreign>ā</foreign> is no longer legible.</note>
+					</app>
+					
+				</listApp>
+			</div>	
+			
 			<div type="textpart" n="B" xml:lang="tam-Latn">
 				<head xml:lang="eng">Second Portion</head>
 				
-			<app loc="7">
-			<lem>e</lem>
-			<note>The consonant attached to the <foreign>e</foreign> is no longer legible.</note>
-		</app>
-				
+				<listApp>
+					
+					<app loc="7">
+						<lem>e</lem>
+						<note>The consonant attached to the <foreign>e</foreign> is no longer legible.</note>
+					</app>
+					
+				</listApp>
 				
 				
 			</div>
