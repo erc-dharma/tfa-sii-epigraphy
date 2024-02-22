@@ -141,7 +141,7 @@
 		<lb n="5" break="no"/>ntaruḷa</item>
 		</list>
 		Ivv-ūrkku-k kāṇi-vilai Aṉṟāṭu naṟ-kācu nūṟṟ' iru<unclear>pa</unclear>tum <hi rend="grantha">śrī</hi>-paṇṭāratt' oṭukku-k koṇṭu
-		Ivv-a<gap quantity="6" unit="character" reason="lost"/><supplied reason="lost">mutaṅ ki</supplied>ḻavaṉ periyāṉ cōma<choice><orig>n</orig><reg>ṉ</reg></choice>ukku <hi rend="grantha">śrī</hi>-paṇṭāratt' iṟai y-iṟukkavum
+		Ivv-<supplied reason="lost">iraṇaiyūr amutaṅ ki</supplied>ḻavaṉ periyāṉ cōma<choice><orig>n</orig><reg>ṉ</reg></choice>ukku <hi rend="grantha">śrī</hi>-paṇṭāratt' iṟai y-iṟukkavum
 	</p>
 	
 	<p>
@@ -155,7 +155,7 @@
 			
 			<item>Ip-paṭikku Ivai tiru-v<choice><orig>i</orig><reg>ī</reg></choice>ti-vēyiṭaṅ-koṇṭāṉ Eḻuttu <unclear><g type="gomutraFinal">.</g></unclear></item>
 			
-			<item><supplied reason="lost"><hi rend="grantha">śrī-</hi>kā<unclear>ri</unclear>yam Ariyapirāṉ paṭṭa</supplied>ṉ Eḻuttu <g type="gomutraFinal">.</g></item>
+			<item><supplied reason="lost"><hi rend="grantha">śrī-</hi>kāriyam Ariyapirāṉ paṭṭa</supplied>ṉ Eḻuttu <g type="gomutraFinal">.</g></item>
 			
 			<item>Ip-paṭikku Ivai cōmacittāntam vakkāṇikkum vā<hi rend="grantha">gīśva</hi>ra-paṇṭitaṉ Eḻuttu <g type="gomutraFinal">.</g></item>
 			
@@ -212,7 +212,7 @@
 		
 		<app loc="3">
 			<lem>kīṭ</lem>
-			<rdg source="bib:KrishnaSastri1925_01">kiṭa</rdg>
+			<rdg source="bib:KrishnaSastri1925_01">kiṭ</rdg>
 			<note>This is possibly to be emended to <foreign>kīḻ</foreign>.</note>
 		</app>
 		
@@ -222,9 +222,9 @@
 		</app>		
 		
 		<app loc="5">
-			<lem>Ivv-a<gap quantity="6" unit="character" reason="lost"/><supplied reason="lost">mutaṅ ki</supplied>ḻavaṉ</lem>
-			<rdg source="bib:KrishnaSastri1925_01">Ivva<gap reason="lost" quantity="10" unit="character"/> ḻavaṉ</rdg>
-			<note>See the other occurrences of this personal name in the record.</note>
+			<lem>Ivv-<supplied reason="lost">iraṇaiyūr amutaṅ ki</supplied>ḻavaṉ periyāṉ</lem>
+			<rdg source="bib:KrishnaSastri1925_01">Ivva <gap reason="lost" quantity="10" unit="character"/> ḻavaṉ</rdg>
+			<note>See <foreign>I<unclear>ra</unclear>ṇaiyūr Amuta<unclear>ṅ</unclear> kiḻavaṉ periyāṉ</foreign> (line 4).</note>
 		</app>	
 		
 		<app loc="5">
@@ -234,7 +234,7 @@
 		</app>	
 		
 		<app loc="6">
-			<lem><supplied reason="lost"><hi rend="grantha">śrī-</hi>kā<unclear>ri</unclear>yam Ariyapirāṉ paṭṭa</supplied>ṉ</lem>
+			<lem><supplied reason="lost"><hi rend="grantha">śrī-</hi>kāriyam Ariyapirāṉ paṭṭa</supplied>ṉ</lem>
 			<rdg source="bib:KrishnaSastri1925_01"><gap reason="lost" quantity="11" unit="character"/>ṉ Eḻuttu</rdg>
 			<note>The lacuna here can be filled in from <foreign><hi rend="grantha">śrī-</hi>kā<unclear>ri</unclear>yam Ariyapirāṉ paṭṭaṉum</foreign> (line 2).</note>
 		</app>
@@ -253,7 +253,7 @@
 	</ab>
 	
 	<p rend="stanza" n="1">
-		The committee chief <supplied reason="explanation"><foreign>vāreśa</foreign></supplied> <gap reason="lost"/> bought <supplied reason="explanation"><foreign>vyakrīṇāt</foreign></supplied> for one hundred twenty gold coins <supplied reason="explanation"><foreign>kāśais</foreign><note>Sanskrit <foreign>kāśa</foreign> is used here as equivalent to Tamil <foreign>kācu</foreign>.</note></supplied> <supplied reason="lost">a land in</supplied> Vaṭukamah<gap reason="lost"/><note>Obviously the rendering in Sanskrit of the village name Vaṭukapperumpākkam mentioned in the Tamil portion of this inscription.</note> <supplied reason="subaudible">belonging to</supplied> the student <supplied reason="explanation"><foreign>vṛṣala</foreign></supplied> Soma.
+		The committee chief <supplied reason="explanation"><foreign>vāreśa</foreign></supplied> <gap reason="lost"/> bought <supplied reason="explanation"><foreign>vyakrīṇāt</foreign></supplied> for one hundred twenty gold coins <supplied reason="explanation"><foreign>kāśais</foreign><note>Sanskrit <foreign>kāśa</foreign> is used here as equivalent to Tamil <foreign>kācu</foreign>.</note></supplied> <supplied reason="lost">a land in</supplied> Vaṭukamah<gap reason="lost"/><note>Obviously the rendering in Sanskrit of the village name Vaṭukapperumpākkam mentioned in the Tamil portion of this inscription.</note> from the student <supplied reason="explanation"><foreign>vṛṣala</foreign></supplied> Soma.
 	</p>
 	
 </div>
@@ -280,12 +280,14 @@
 		</list>
 		<supplied reason="subaudible">these people<note>These eight persons reappear as signatories, in the same order, at the end of the record, which helps restoring the lacunae here above and there below.</note>,</supplied>
 		<list>
-			<item>while, at the time <supplied reason="explanation"><foreign>nāṉṟu</foreign></supplied> of <foreign>āyiliyam</foreign><note>That is, Sanskrit <foreign>āśleṣa</foreign>, the 9th <foreign>nakṣatra</foreign>.</note>, which coincides with <supplied reason="explanation"><foreign>peṟṟa</foreign><note>Literally, "which got".</note></supplied> a Wednesday and the eleventh day <supplied reason="explanation"><foreign>ēkātāci</foreign><note>That is, Sanskrit <foreign>ekādaśī</foreign>, the 11th <foreign>tithi</foreign> (lunar day).</note></supplied>, that is, the sixth day of the holy festival of Paṅkuṉi of the Lord of <supplied reason="lost">Tiruvoṟṟiyūr</supplied> <gap reason="lost"/>,		
-		holding a glorious assembly <supplied reason="explanation"><foreign>tiruvōlakkañ ceytu</foreign></supplied> to the east <supplied reason="explanation"><foreign>kīṭ</foreign><note>That is, <foreign>kīḻ</foreign>?</note></supplied> of the holy <foreign>makiḻ</foreign> tree <supplied reason="subaudible">of the temple?</supplied> of Paṭampakkanāyakam<note>This was later named the shrine of god Gaulīśa, which pertains to the Śaiva Atimārga I of Lakulīśa [add reference!].</note>, graciously appearing and sitting <supplied reason="explanation"><foreign>eḻuntaruḷi yiruntu</foreign></supplied>, they were graciously keeping listening <supplied reason="explanation"><foreign>kēṭṭu aruḷā niṟka</foreign></supplied> to <supplied reason="subaudible">the recitation</supplied> of the <foreign>Śrīpurāṇam</foreign> of Āḷuṭaiya Nampi<note>That is, Cuntarar, according to <bibl><ptr target="bib:Folk2013_01"/><citedRange unit="page">39</citedRange><citedRange unit="note">36</citedRange></bibl>. Contra, see <bibl><ptr target="bib:Veluppillai2013_01"/><citedRange unit="page">164</citedRange><citedRange unit="note">55</citedRange></bibl>.</note>,</item>
+			<item>while, at the time <supplied reason="explanation"><foreign>nāṉṟu</foreign></supplied> of <foreign>āyiliyam</foreign><note>That is, Sanskrit <foreign>āśleṣa</foreign>, the 9th <foreign>nakṣatra</foreign>.</note>, which coincides with <supplied reason="explanation"><foreign>peṟṟa</foreign><note>Literally, "which got".</note></supplied> a Wednesday and the eleventh day <supplied reason="explanation"><foreign>ēkātāci</foreign><note>That is, Sanskrit <foreign>ekādaśī</foreign>, the 11th <foreign>tithi</foreign> (lunar day).</note></supplied>, that is, the sixth day of the holy festival of Paṅkuṉi of the Lord of <supplied reason="lost">Tiruvoṟṟiyūr</supplied> <gap reason="lost"/>,holding a glorious assembly <supplied reason="explanation"><foreign>tiruvōlakkañ ceytu</foreign></supplied> to the east <supplied reason="explanation"><foreign>kīṭ</foreign><note>That is, <foreign>kīḻ</foreign>?</note></supplied> of the holy <foreign>makiḻ</foreign> tree <supplied reason="subaudible">of the temple?</supplied> of Paṭampakkanāyakam<note>This was later named the shrine of god Gaulīśa, which pertains to the Śaiva Atimārga I of Lakulīśa [add reference!].</note>, graciously appearing and sitting <supplied reason="explanation"><foreign>eḻuntaruḷi yiruntu</foreign></supplied>, they were graciously keeping listening <supplied reason="explanation"><foreign>kēṭṭu aruḷā niṟka</foreign></supplied> to <supplied reason="subaudible">the recitation</supplied> of the <foreign>Śrīpurāṇam</foreign> of Āḷuṭaiya Nampi<note>That is, Cuntarar, according to <bibl><ptr target="bib:Folk2013_01"/><citedRange unit="page">39</citedRange><citedRange unit="note">36</citedRange></bibl>. Contra, see <bibl><ptr target="bib:Veluppillai2013_01"/><citedRange unit="page">164</citedRange><citedRange unit="note">55</citedRange></bibl>.</note>,</item>
+			
 			<item>whereas they made a petition <supplied reason="explanation"><foreign>viṇṇappañ ceyya</foreign></supplied> asking <supplied reason="explanation"><foreign>eṉṟu</foreign></supplied> that a landed property <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> in Vaṭukapperumpākkam, a <foreign>devadāna</foreign> of this Lord, <supplied reason="lost">should be given</supplied>,</item>
-		<item>whereas Amutaṅ Kiḻavaṉ Periyāṉ of Iraṇaiyūr, <supplied reason="subaudible">one</supplied> among our villages, graciously uttered <supplied reason="explanation"><foreign>tiruvāymoḻintaruḷa</foreign></supplied> thus: “Let it be <supplied reason="subaudible">thus</supplied> given as a landed property <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> after purchasing it as a price <supplied reason="subaudible">got from</supplied> Taṇṭīcaṉ<note>That is, Caṇḍeśa.</note> for Cōmaṉ!”,</item></list>
+			
+			<item>whereas Amutaṅ Kiḻavaṉ Periyāṉ of Iraṇaiyūr, <supplied reason="subaudible">one</supplied> among our villages, graciously uttered <supplied reason="explanation"><foreign>tiruvāymoḻintaruḷa</foreign></supplied> thus: “Let it be <supplied reason="subaudible">thus</supplied> given as a landed property <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> after purchasing it as a price <supplied reason="subaudible">got from</supplied> Taṇṭīcaṉ<note>That is, Caṇḍeśa.</note> for Cōmaṉ!”,</item>
+		</list>
 		having taken <supplied reason="explanation"><foreign>koṇṭu</foreign></supplied> ... <supplied reason="explanation"><foreign>oṭukku</foreign></supplied> from the temple treasury <supplied reason="explanation"><foreign>paṇṭārattu</foreign></supplied> one hundred twenty current coins <supplied reason="explanation"><foreign>aṉṟāṭu naṟ-kācu</foreign></supplied> as the price for the landed property for this village,
-		let it be that this <supplied reason="lost">Amutaṅ Ki</supplied>ḻavaṉ Periyāṉ should pay taxes <supplied reason="explanation"><foreign>iṟai iṟukkavum</foreign></supplied> in the temple treasury for Cōmaṉ.		
+		let it be that this <supplied reason="lost">Amutaṅ Ki</supplied>ḻavaṉ Periyāṉ <supplied reason="lost">of Iraṇaiyūr</supplied> should pay taxes <supplied reason="explanation"><foreign>iṟai iṟukkavum</foreign></supplied> in the temple treasury for Cōmaṉ.		
 	</p>
 	
 	<p n="5">
@@ -308,16 +310,12 @@
 </div>
 </div>
 		
-		
-		<!-- <div type="commentary">
-			<p n="20">
-				</p>
-				<p n="21">
-				</p>
-				<p n="36">
-				</p>
-				</div>-->
+ <div type="commentary">
 			
+ 	<p>This inscription is engraved on the east wall of the second <foreign>prākāra</foreign>: its left portion is presently inside the <foreign>maṇḍapa</foreign> added later in front of the second <foreign>prākāra</foreign>; the next portion is covered by the south wall of the <foreign>maṇḍapa</foreign> added later in front of the second <foreign>prākāra</foreign>; the right portion is outside on the open air, as this portion of the east wall of the second <foreign>prākāra</foreign> is not encompassed in the <foreign>maṇḍapa</foreign> added later in front of the second <foreign>prākāra</foreign>.</p>
+ 	
+ </div>
+		
 <div type="bibliography">
 				
 	<p>First reported in <bibl><ptr target="bib:ARIE1896-1897"/></bibl> (ARIE/1896-1897/A/1896/403).</p>
@@ -358,11 +356,17 @@
         </body>
     </text>
 </TEI>
-<!--METADATA:
-	On the east wall of the second prākāra of the same temple, left of entrance <note>Another common term to refer to the Kāpālikas, followers of Atimārga III</note>.
-	
--->
-<!--hereditary rights of land tenure <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> in the northern <foreign>tēvatāṉam</foreign> <supplied reason="subaudible">called</supplied> Perumpākam <supplied reason="subaudible">dedicated</supplied> to the Lord that gracefully dwells there	so that he hears the <foreign>Śrīpurāṇam</foreign> of Āḷuṭaiya-nampi Cuntarar, <supplied reason="subaudible">whose image</supplied> was gracefully installed <supplied reason="explanation"><foreign>ceyt’ eḻuntaruḷi</foreign></supplied> in the assembly hall <supplied reason="explanation"><foreign>tiruvōlakka</foreign></supplied> next to the holy Makiḻ tree <supplied reason="subaudible">of the shrine?</supplied> of god Paṭampakka-nāyaka<note>This was later named the shrine of god Gauliśa, which pertains to the Śaiva Atimārga I of Lakulīśa.</note>. <supplied reason="subaudible">This was done</supplied> on the day of Āyilēyam <supplied reason="explanation">ninth star</supplied>, which occurs on the Wednesday of <foreign>ēkātāci</foreign>, that is, the sixth day of the holy festival of Paṅkūṉi of Lord<gap reason="lost"/>
 
-After despositing at the temple treasury <supplied reason="explanation"><foreign>śrīpaṇṭāra</foreign></supplied> 120 current coins <supplied reason="explanation"><foreign>aṉṟāṭu naṟkācu</foreign></supplied> as sell price price for the hereditary rights of land tenure <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> of this village, which was gracefully commanded <supplied reason="explanation"><foreign>tiruvāymoḻintaruḷa</foreign></supplied> thus: “Let it be granted that after selling the hereditary rights of land tenure <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> as as tax collection <supplied reason="explanation"><foreign>taṇṭicaṉ>>taṇṭitaṉ?</foreign></supplied>  to Iraṇaiyūr Amutaṅ Kiḻavaṉ Periyāṉ Cōmaṉ in our town so it is sung <supplied reason="explanation"><foreign>viṇṇappañ ceyya</foreign></supplied><gap reason="lost"/>”-->
-<!--<note><foreign>piṭāraṉ</foreign> = temple official or musician? SII.65 indicates that the <foreign>piṭārar</foreign> are entrusted with the singing of the holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied>. According to Karashima (Ancient to Medieval, p. 120), they were in fact “temple supervising officers”, which seems to be also in line with Pondicherry Inscription 8, so one of their important tasks for which they got lands and tax exemptions was the singing of hymns</note>-->
+<!--
+	METADATA:
+	On the east wall of the second prākāra of the same temple, left of entrance <note>Another common term to refer to the Kāpālikas, followers of Atimārga III</note>.
+-->
+
+<!--
+	next to the holy Makiḻ tree <supplied reason="subaudible">of the shrine?</supplied> of god Paṭampakka-nāyaka<note>This was later named the shrine of god Gauliśa, which pertains to the Śaiva Atimārga I of Lakulīśa.</note>. 
+	
+	After despositing at the temple treasury <supplied reason="explanation"><foreign>śrīpaṇṭāra</foreign></supplied> 120 current coins <supplied reason="explanation"><foreign>aṉṟāṭu naṟkācu</foreign></supplied>	
+-->
+<!--
+	<note><foreign>piṭāraṉ</foreign> = temple official or musician? SII.65 indicates that the <foreign>piṭārar</foreign> are entrusted with the singing of the holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied>. According to Karashima (Ancient to Medieval, p. 120), they were in fact “temple supervising officers”, which seems to be also in line with Pondicherry Inscription 8, so one of their important tasks for which they got lands and tax exemptions was the singing of hymns</note>
+-->
