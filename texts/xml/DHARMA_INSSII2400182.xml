@@ -55,7 +55,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>List of items utilized for the cult of local god.</summary>
+						<summary>List of provisions for worshipping an image of the deity, including the recitation of <foreign>Śrīpurāṇam</foreign>.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -111,18 +111,18 @@
 		<lb n="10" break="no"/>yum tiruppukaikku citārikku<unclear>m</unclear> pon Arai māvu–
 		<lb n="11" break="no"/>ku<choice><orig>n</orig><reg>ṉ</reg></choice>ṟiyum tiruvōlakkattukku Eriyum tiruviḷak–
 		<lb n="12" break="no"/><supplied reason="lost">vi</supplied>ṇṇappañ ceyyum paru<hi rend="grantha">ṣai</hi> nāyan
-		<lb n="13" break="no"/>kkup pon kaḻañcum <hi rend="grantha">śrī</hi>purāṇam <!--@emfr: the text here is in bold, but don't know why. Maybe just to underline the text?--> vācippān– 
-		<lb n="14" break="no"/>ḻañcum Āka pon patin kaḻañcaraiyē I–
-		<lb n="15" break="no"/>nūṟṟaṟu kalanē tūṇi Arunāḻi<unclear>yum</unclear><gap quantity="4" reason="lost" unit="character"></gap>
-		<lb n="16"/>Ākat tirumañcaṉam Iraṇṭukkum peru–
+		<lb n="13" break="no"/>kku-p pon kaḻañcum <hi rend="grantha">śrī</hi>purāṇam <!--@emfr: the text here is in bold, but don't know why. Maybe just to underline the text?--> vācippān– 
+		<lb n="14" break="no"/>ḻañcum Āka pon pati<choice><orig>n</orig><reg>ṉ</reg></choice> kaḻañc’ araiyē I–
+		<lb n="15" break="no"/>nūṟṟaṟu kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi Aṟu nāḻi<unclear>yum</unclear><gap quantity="4" reason="lost" unit="character"></gap>
+		<lb n="16"/>Āka-t tirumañcaṉam Iraṇṭukkum peru–
 		<lb n="17" break="no"/>ñcē kālē ku<choice><orig>n</orig><reg>ṉ</reg></choice>ṟiyināl nellu Irunā–
 		<lb n="18" break="no"/>nē kuṟuṇikku kiḻakkaṭaiya viṭṭa nilam<gap quantity="1" reason="lost" unit="character"></gap>
 		<lb n="19"/><gap quantity="1" reason="lost" unit="character"></gap>l vanta ceṅkaḻunir-t tiruppaḷḷi-t-tāma E–
-		<lb n="20" break="no"/>āḻiyāka nāḷ Oṉṟukku nellu Irunā–<!--@emfr:If I just put the first letter of the line ā, is it clear that it belongs to the previous lost consonant or shall I add that the consonant is no longer legible? I did the second...-->
-		<lb n="21"/>nellu Irunūṟṟōrupattaṟu kalamu–
+		<lb n="20" break="no"/>āḻiyāka nāḷ Oṉṟukku nellu Irunā<supplied reason="lost">ḻi</supplied>–<!--@emfr:If I just put the first letter of the line ā, is it clear that it belongs to the previous lost consonant or shall I add that the consonant is no longer legible? I did the second...-->
+		<lb n="21"/>nellu Irunūṟṟorupattaṟu kalamu–
 		<lb n="22" break="no"/>ṟṟu nāṟppattaṟu kalattukku kiḻa–
 		<lb n="23" break="no"/>ku viṭṭa nilam–
-		<lb n="24" break="no"/>yi<hi rend="grantha">ṣṇa</hi>va<hi rend="grantha"><hi rend="grantha">r</hi></hi><gap quantity="1" reason="lost" unit="character"></gap><hi rend="grantha">ai</hi>–
+		<lb n="24" break="no"/><supplied reason="lost">va</supplied>yi<hi rend="grantha">ṣṇa</hi>va<hi rend="grantha"><hi rend="grantha">ra</hi></hi><supplied reason="lost"><hi rend="grantha">kṣ</hi></supplied><hi rend="grantha">ai</hi>–
 	</p>
             </div>
 	
@@ -130,11 +130,11 @@
 		<head xml:lang="eng">Second portion</head>
 		<p>
 			<lb n="1"/><gap quantity="2" reason="lost" unit="character"></gap><unclear>kan</unclear> para<unclear>m</unclear>pu <unclear>na</unclear> nilamā
-			<lb n="2" break="no"/>ṭaiyān mātavan parama–
-			<lb n="3"/>Arai paṭṭan tiruvai–
-			<lb n="4" break="no"/>yan kaṟaikkaṇṭana ni–
+			<lb n="2" break="no"/>ṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> mātava<choice><orig>n</orig><reg>ṉ</reg></choice> parama–
+			<lb n="3"/>Arai paṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice> tiruvai–
+			<lb n="4" break="no"/>yan kaṟaikkaṇṭa<choice><orig>n</orig><reg>ṉ</reg></choice>a ni–
 			<lb n="5" break="no"/>ḷḷān Irā<hi rend="grantha">ja</hi>rā<supplied reason="omitted"><hi rend="grantha">ja</hi></supplied>n nila–
-			<lb n="6" break="no"/><gap quantity="1" reason="lost" unit="character"></gap>ḍeva coṟuṭaiyā–
+			<lb n="6" break="no"/><gap quantity="1" reason="lost" unit="character"></gap><hi rend="grantha">ḍe</hi>va coṟuṭaiyā–
 			<lb n="7" break="no"/>ṭukku Ivai e–
 	
 			
@@ -161,7 +161,7 @@
 					</app>
 					
 					<app loc="20">
-						<lem>āḻi-y-āka</lem>
+						<lem>āḻi-y</lem>
 						<note>The consonant attached to the <foreign>ā</foreign> is no longer legible.</note>
 					</app>
 					
@@ -191,23 +191,23 @@
 			
 			<div type="textpart" n="A" xml:lang="tam-Latn">
 				<head xml:lang="eng">First portion</head>
-			
+				
 				<p n="1">
-				<gap reason="lost"/> plantain <gap reason="lost"/>
-			</p>
-			
-			<p n="2">
-				<gap reason="lost"/> pots of paddy for <gap reason="lost"/>
-			</p>
-			
-			<p n="3">
-				<gap reason="lost"/> three <foreign>kuṟuṇi </foreign><gap reason="lost"/>
-			</p>
-			
-			<p n="4">
-				<gap reason="lost"/> offering of curds <supplied reason="explanation"><foreign>tayir amutu</foreign></supplied><gap reason="lost"/>
-			</p>
-			
+					<gap reason="lost"/> plantain <gap reason="lost"/>
+				</p>
+				
+				<p n="2">
+					<gap reason="lost"/> pots of paddy for <gap reason="lost"/>
+				</p>
+				
+				<p n="3">
+					<gap reason="lost"/> three <foreign>kuṟuṇi </foreign><gap reason="lost"/>
+				</p>
+				
+				<p n="4">
+					<gap reason="lost"/> offering of curds <supplied reason="explanation"><foreign>tayir amutu</foreign></supplied><gap reason="lost"/>
+				</p>
+				
 				<p n="5">
 					<gap reason="lost"/><foreign> tūṇi </foreign> of <gap reason="lost"/> pots of paddy<gap reason="lost"/>
 				</p>
@@ -221,7 +221,7 @@
 				</p>
 				
 				<p n="9">
-					<gap reason="lost"/> plantain to perform the holy bath <note>In SII 3.80 and SII 3.70, plantain, among a very long list of items, was used to perform the holy bath.</note> <supplied reason="explanation"><foreign>āṭiyaruḷa</foreign></supplied><gap reason="lost"/>
+					<gap reason="lost"/> plantain to perform the holy bath <supplied reason="explanation"><foreign>āṭiyaruḷa</foreign></supplied><gap reason="lost"/>
 				</p>
 				
 				<p n="10">
@@ -232,15 +232,62 @@
 					<gap reason="lost"/> for burning the holy lamp at the assembly hall <supplied reason="explanation"><foreign>tiruvōlakkam</foreign></supplied> <gap reason="lost"/>
 				</p>
 				
+				<p n="12">
+					<gap reason="lost"/>the village assembly <supplied reason="explanation"><foreign>paruṣai</foreign></supplied>, which will make the request <supplied reason="explanation"><foreign>viṇṇappam ceyyum</foreign></supplied> <gap reason="lost"/> 
+				</p>
+				
+				<p n="13-14">
+					<gap reason="lost"/> so that <gap reason="lost"/> <foreign>kaḻañcus</foreign> <supplied reason="subaudible">for</supplied> the reciter <supplied reason="explanation"><foreign>vācippān</foreign></supplied> of <foreign>Śrīpurāṇam</foreign>, a <foreign>kaḻañcu</foreign> of gold for <gap reason="lost"/>
+				</p>
+				
+				<p n="14">
+					<gap reason="lost"/> half <foreign>kaḻañcu</foreign> of <gap reason="lost"/> ten gold coins<gap reason="lost"/>
+				</p>
+				
+				<p n="15-16">
+					<gap reason="lost"/> so that six <gap reason="lost"/> <foreign>nāḻis</foreign> <gap reason="lost"/>, <foreign>tūṇi</foreign> of paddy <gap reason="lost"/>
+				</p>
+				
+				<p n="16">
+					<gap reason="lost"/> the holy bath <supplied reason="explanation"><foreign>tirumañcaṉam</foreign></supplied><gap reason="lost"/>
+				</p>
+				
+				<p n="18">
+					<gap reason="lost"/> the leased land borders to the east <gap reason="lost"/>
+				</p>
+				
+				<p n="19">
+					<gap reason="lost"/> a garland of purple water-lilies for the Lord <supplied reason="explanation"><foreign>ceṅkaḻunir tiruppaḷḷittāmam</foreign></supplied> <gap reason="lost"/>
+				</p>
+				
+				<p n="20">
+					<gap reason="lost"/> two <foreign>nāḻis</foreign> of daily paddy so that <gap reason="lost"/>
+				</p>
+				
+				<p n="21">
+					<gap reason="lost"/> two hundred and sixteen <foreign>kalam</foreign> of paddy<gap reason="lost"/>
+				</p>
+				
+				<p n="22">
+					<gap reason="lost"/> for forty-six <foreign>kalam</foreign> <gap reason="lost"/>
+				</p>
+				
+				<p n="23">
+					<gap reason="lost"/> the leased land <gap reason="lost"/>
+				</p>
+				
+				
+				<p n="24">
+					<gap reason="lost"/> for the protection of the vaiṣṇavas <gap reason="lost"/>
+				</p>
+				
 			</div>
 			
-			
 		</div>	
-		
 		<!-- <div type="commentary">
 			<p n="20">
-				</p>
-				<p n="21">
+			</p>
+			<p n="21">
 				</p>
 				<p n="36">
 				</p>
@@ -252,7 +299,7 @@
 	
 	<p>First edited in <bibl><ptr target="bib:Narasimhaswamy1982_01"/></bibl> (SII 24, no. 182).</p>
 
-	<p>Encoded and translated here for DHARMA (ERC n° 809994) by Renato Davalos and  Emmanuel Francis.</p>
+	<p>Reedited and translated here for DHARMA (ERC n° 809994) by Renato Davalos and  Emmanuel Francis.</p>
 		
 	<listBibl type="primary">
 		
