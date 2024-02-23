@@ -96,7 +96,7 @@
 <div type="edition">
 	 
             <div type="textpart" n="A" xml:lang="tam-Latn">
-               <head xml:lang="eng">First portion</head>
+               <head xml:lang="eng">First fragment</head>
 	
 	<p>
 		<lb n="1"/><supplied reason="lost">va</supplied>ḻai-p-paḻam <gap quantity="2" reason="lost" unit="character"></gap>ṉū<gap quantity="3" reason="lost" unit="character"></gap>
@@ -127,7 +127,7 @@
             </div>
 	
 	<div type="textpart" n="B" xml:lang="tam-Latn">
-		<head xml:lang="eng">Second portion</head>
+		<head xml:lang="eng">Second fragment</head>
 		<p>
 			<lb n="1"/><gap quantity="2" reason="lost" unit="character"></gap><unclear>kan</unclear> para<unclear>m</unclear>pu <unclear>na</unclear> nilamā
 			<lb n="2" break="no"/>ṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> mātava<choice><orig>n</orig><reg>ṉ</reg></choice> parama–
@@ -151,7 +151,7 @@
 		<div type="apparatus">
 			
 			<div type="textpart" n="A" xml:lang="tam-Latn">
-				<head xml:lang="eng">First portion</head>
+				<head xml:lang="eng">First fragment</head>
 				
 				<listApp>
 					
@@ -169,7 +169,7 @@
 			</div>	
 			
 			<div type="textpart" n="B" xml:lang="tam-Latn">
-				<head xml:lang="eng">Second Portion</head>
+				<head xml:lang="eng">Second fragment</head>
 				
 				<listApp>
 					
@@ -190,7 +190,7 @@
 		<div type="translation" resp="part:reda part:emfr">
 			
 			<div type="textpart" n="A" xml:lang="tam-Latn">
-				<head xml:lang="eng">First portion</head>
+				<head xml:lang="eng">First fragment</head>
 				
 				<p n="1">
 					<gap reason="lost"/> plantain <gap reason="lost"/>
