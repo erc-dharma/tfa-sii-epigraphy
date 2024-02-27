@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>On the wall of the second <foreign>gōpura</foreign> right of entrance of Grāmārdhanātha Temple, 17th year of king Vikrama Cōḻa.</title>
+				<title>Elavaṉācūr, Grāmārdhanātha Temple, Vikrama Cōḻa, year 17</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -79,10 +79,7 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:axja" when="2020-11-03" status="draft"
-				>Updating toward the encoding
-				template v03</change>
-			<change who="part:vagi" when="2020-12-10" status="draft">Creation of the file</change>
+			<change who="part:vagi" when="2024-01-23" status="draft">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -113,14 +110,9 @@
          	
          </div>-->
 
-         <div type="commentary">
-         	<p n="20">
-         	</p>
-           <p n="21">
-         	</p>
-           <p n="36">
-         	</p>
-         </div>
+         <!--<div type="commentary">
+         	
+         </div>-->
 
          <div type="bibliography">
 
@@ -136,12 +128,12 @@
                   <citedRange unit="item">165</citedRange>
                </bibl>
                
-            </listBibl>
-            
-     
-
+            </listBibl>   
          </div>
 
       </body>
   </text>
 </TEI>
+
+<!--METADATA:
+On the wall of the second <foreign>gōpura</foreign> right of entrance of Grāmārdhanātha Temple, 17th year of king Vikrama Cōḻa.-->
