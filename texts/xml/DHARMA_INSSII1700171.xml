@@ -8,9 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirukaṇṭēcuvaram, Naṭanapādeśvara temple. Year 14 of king Jaṭāvarmaṉ Sundarapāṇḍya I: 1264 CE.  
-					
-			   </title>
+				<title>Tirukaṇṭēcuvaram, Naṭanapādeśvara temple, time of Jaṭāvarman Sundarapāṇḍya I, year 14</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -53,7 +51,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>
+							<p/>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -241,12 +239,12 @@
                
             </listBibl>           
      
-
          </div>
 
       </body>
   </text>
 </TEI>
 <!--METADATA:
+	year 14 = 1264 CE.
 	On the south wall of the <foreign>maṇḍapa</foreign> in front of central shrine in the cuddalore taluk
 Tirukaṇṭheśvaram [Tirukaṇṭēcuvaram]-->
