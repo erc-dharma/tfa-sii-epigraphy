@@ -79,7 +79,7 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:vagi" when="2024-01-23" status="draft">Creation of the file</change>
+			<change who="part:reda" when="2024-01-23" status="draft">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -134,6 +134,5 @@
       </body>
   </text>
 </TEI>
-
 <!--METADATA:
 On the wall of the second <foreign>gōpura</foreign> right of entrance of Grāmārdhanātha Temple, 17th year of king Vikrama Cōḻa.-->
