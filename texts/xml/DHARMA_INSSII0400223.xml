@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Chidambaram, Nāṭarāja temple, time of Rajendra Cōḻa I, year 24</title>
+				<title>Citamparam, Nāṭarāja temple, time of Rajendra Cōḻa I, year 24</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -55,12 +55,16 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>List of expenses given for the Tiruvātirai festival celebrated in Chidambaram. The inscription includes donations of gold coins <supplied reason="explanation"><foreign>kācu</foreign></supplied> to śrīmaheśvaras, reciters of <foreign>Tiruttoṇṭattokai</foreign>, weavers, oil sellers, merchants, among others.</summary> 
+						<summary>List of expenses given for the Tiruvātirai festival celebrated in Chidambaram. The inscription includes donations of gold coins <supplied
+								reason="explanation"
+								><foreign>kācu</foreign></supplied> to śrīmaheśvaras, reciters of <foreign>Tiruttoṇṭattokai</foreign>, weavers, oil sellers, merchants, among others.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
 							<p>
-								According to epigraphist, from line 7 <supplied reason="explanation"><foreign>takkaṇalāṭamum</foreign></supplied>, “the wording is quite differente from that of the other published inscriptions”. <!--@emfr: no idea how to encode this.  -->
+								According to epigraphist, from line 7 <supplied
+									reason="explanation"
+									><foreign>takkaṇalāṭamum</foreign></supplied>, “the wording is quite differente from that of the other published inscriptions”. <!--@emfr: no idea how to encode this.  -->
 							</p>
 							<p/>
 						</handDesc>
@@ -214,10 +218,10 @@
 					<lb n="26" break="no"/><unclear>ka</unclear>ra-p pāṭiyārum cāliyarum paṭṭiṉavarum Uḷḷiṭṭa kuṭikaḷum  taccar kollar taṭṭār koliyar Uḷḷiṭṭa kiḻkalaṉaikaḷuṅ koṇṭu Inivantam cantiraāttitavaṟ celuttakkaṭavatākavum Ivarē Ivvūr vaitta cālai ciṅkaḷānatakaṉil U
 					<lb n="27" break="no"/>ṇṇum pirāmaṇar Irupattaivarkku nivantamāka Ivvūrppāl  koṇṭa nilaṉ p<unclear>ā</unclear>ḻāy caṅkoṭiyāṉa paravainaṅkainallūr-p pir<unclear>ā</unclear>m<supplied reason="omitted">ā</supplied>ṇappaṭi vilaikoṇṭuṭaiya nilaṉ patiṉaiñcarai Itil payir<unclear>c</unclear>ceyya Oṇṇātu niṅkum nilam Aiñ
 					<lb n="28" break="no"/>carai nikki nilaṉ patiṟṟuvali Itu marakkāl meṟpaṭikālāl nellu-p paṉṉiru kalaṉē mukkuṟuṇi-y-āka varicai Iṭṭa nellu Iraṇṭāyirattu nāṉūṟṟaimpatiṉ kalam Itil melvārattāl nellu Āyirattirunūṟṟirupattaiṅkalam Ivaiyiṟṟu
-					<lb n="29" break="no"/>kku-c celvāka cālaiyil Uṇṇum pirāmaṇar Irupattaivaṟku nāḷ Oṉṟukku Arici tuṇippata-k kirunāḻiyāḳa Aiñcu Iraṇṭu vaṇṇattāl nellu-k kalaṉē mukkuṟuṇi Aiññāḻiyum kaṟi<gap reason="lost" quantity="10" unit="character"></gap> nellu-t tūṇiyum maḷaku Āḻākkukku nellu Aiññāḻi Uriyu
-					<lb n="30" break="no"/>m puḷi Aimpalattukku nellu nāṉāḻiyum Uppu Irunāḻikku nellu Aiññāḻiyum mañcaḷ  kaiyacukku nellu Uriyum ney Uri Āḻākkukku nellu Aiṅkuṟuṇiyum tayir kuṟuṇiṉāṉāḻi Urikku nellu mukkuṟuṇi Orunāḻi<gap unit="character" quantity="5" reason="lost"></gap> veṟṟilaippaṟṟu Iraṇṭaraikkum pākku nūṟṟukku ne
-					<lb n="31" break="no"/>llu-k kuṟuṇi Aiññāḻiyum viṟaku kaṭṭu Oṉṟukku nellu mukkuṟuṇi nāṉāḻiyum caṉi Oṉṟukku Eṇṇai Uri Āḻākkukku nellu Aiṅkuṟuṇiyum cālaimaṭaiyaṉ Oruvaṉukku nellu Aṟunāḻiyum  meṟpaṭiyāṉukku-p puṭavai<gap reason="lost" quantity="3" unit="character"></gap> nellu Eṇkalamum kucavaṉ Oruvaṉukku nellu nāṉāḻiyum vāḻvā
-					<lb n="32" break="no"/>cci taṇṇīr kalam ko<supplied reason="lost">ṇ</supplied>ṭuvaruvāṉukku nellu nāṉaḻiyum paṇiceyya peṇṭukaḷ Aipavaṟku nellu kuṟuṇiyum meṟpaṭiyārukku puṭavaikku nellu patiṉ kalamum Aṟateyaṉ Oruvaṉukku puṭavai Mutalukku nellu-p patiṉkalamum <gap reason="lost" unit="character" quantity="6"></gap>vaṉ Oruvaṉukku nellu  kuṟuṇi nāṉāḻiyum Āka nāḷ <supplied reason="lost">Oṉṟukku ne</supplied>
+					<lb n="29" break="no"/>kku-c celvāka cālaiyil Uṇṇum pirāmaṇar Irupattaivaṟku nāḷ Oṉṟukku Arici tuṇippata-k kirunāḻiyāḳa Aiñcu Iraṇṭu vaṇṇattāl nellu-k kalaṉē mukkuṟuṇi Aiññāḻiyum kaṟi<gap reason="lost" quantity="10" unit="character"/> nellu-t tūṇiyum maḷaku Āḻākkukku nellu Aiññāḻi Uriyu
+					<lb n="30" break="no"/>m puḷi Aimpalattukku nellu nāṉāḻiyum Uppu Irunāḻikku nellu Aiññāḻiyum mañcaḷ  kaiyacukku nellu Uriyum ney Uri Āḻākkukku nellu Aiṅkuṟuṇiyum tayir kuṟuṇiṉāṉāḻi Urikku nellu mukkuṟuṇi Orunāḻi<gap unit="character" quantity="5" reason="lost"/> veṟṟilaippaṟṟu Iraṇṭaraikkum pākku nūṟṟukku ne
+					<lb n="31" break="no"/>llu-k kuṟuṇi Aiññāḻiyum viṟaku kaṭṭu Oṉṟukku nellu mukkuṟuṇi nāṉāḻiyum caṉi Oṉṟukku Eṇṇai Uri Āḻākkukku nellu Aiṅkuṟuṇiyum cālaimaṭaiyaṉ Oruvaṉukku nellu Aṟunāḻiyum  meṟpaṭiyāṉukku-p puṭavai<gap reason="lost" quantity="3" unit="character"/> nellu Eṇkalamum kucavaṉ Oruvaṉukku nellu nāṉāḻiyum vāḻvā
+					<lb n="32" break="no"/>cci taṇṇīr kalam ko<supplied reason="lost">ṇ</supplied>ṭuvaruvāṉukku nellu nāṉaḻiyum paṇiceyya peṇṭukaḷ Aipavaṟku nellu kuṟuṇiyum meṟpaṭiyārukku puṭavaikku nellu patiṉ kalamum Aṟateyaṉ Oruvaṉukku puṭavai Mutalukku nellu-p patiṉkalamum <gap reason="lost" unit="character" quantity="6"/>vaṉ Oruvaṉukku nellu  kuṟuṇi nāṉāḻiyum Āka nāḷ <supplied reason="lost">Oṉṟukku ne</supplied>
 					<lb n="33" break="no"/>llu mukkalanē mukkuṟuṇi-y-āka Orāṭṭaikku nellu Āyira-t tirunūṟṟirupattai taṇkalanē Eḻukuṟuṇi nāṉāḻi Uḷpaṭa kuṟitta nivantaṅkaḷ yāṇṭu Irupattu nālāvatu mutal cantirātittavaṟ nivantam cella-k kalveṭṭiyatu<g type="pc">.</g>
 				</p>	
 				
