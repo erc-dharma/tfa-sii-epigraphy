@@ -88,7 +88,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
                 	
          	<ab>
-         		<hi rend="grantha">svasti śrī</hi>
+         		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
          	</ab>
          	
          	<p>
@@ -134,7 +134,7 @@
 		First edited <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, no. 96).</p>
 	
 	<p>
-		Digitally encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>
+		Digitally encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>.
 	</p>
 	
 	<listBibl type="primary">
