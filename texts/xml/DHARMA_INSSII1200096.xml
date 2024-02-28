@@ -101,7 +101,7 @@
 	
 	<p>
 		namm-<choice><orig>u</orig><reg>ū</reg></choice>r Uṭaiyār tiru-p-pulivaṉam-uṭaiya nāyaṉārkku tiru-nuntā-vi
-		<lb n="3" break="no"/>ḷakku Erippat’ āka Eṅkaḷ <hi rend="grantha">pūrva</hi>kaḷ pala<supplied reason="omitted">r</supplied> pakkalum poṉ koṇṭu poli-y-ūṭṭukku Erikka-k kaṭavarkaḷ-āka muṉṉāḷil kalveṭṭiṉa tiru-nuntā-viḷakk’ ukaḷil irā<hi rend="grantha">ja</hi>māttāṇṭaṉ-ākiya Aparā<hi rend="grantha">ji</hi>ta-vi<hi rend="grantha">krama</hi>va<hi rend="grantha">nma</hi>rkku yāṇṭu <num value="14"><g type="numeral">10</g> 4</num>-Āvatu nāḷil <hi rend="grantha">sū<choice><orig>ri</orig><reg>r</reg></choice></hi>ya-<hi rend="grantha">graha</hi>ṉattukku <hi rend="grantha">rāja
+		<lb n="3" break="no"/>ḷakku Erippat-āka Eṅkaḷ <hi rend="grantha">pūrva</hi>kaḷ pala<supplied reason="omitted">r</supplied> pakkalum poṉ koṇṭu poli-y-ūṭṭukku Erikka-k kaṭavarkaḷ-āka muṉṉāḷil kalveṭṭiṉa tiru-nuntā-viḷakk’ ukaḷil irā<hi rend="grantha">ja</hi>māttāṇṭaṉ-ākiya Aparā<hi rend="grantha">ji</hi>ta-vi<hi rend="grantha">krama</hi>va<hi rend="grantha">nma</hi>rkku yāṇṭu <num value="14"><g type="numeral">10</g> 4</num>-Āvatu nāḷil <hi rend="grantha">sū<choice><orig>ri</orig><reg>r</reg></choice></hi>ya-<hi rend="grantha">graha</hi>ṉattukku <hi rend="grantha">rāja
 		<lb n="4" break="no"/>māttāṇḍa</hi>ṉ-ākiya <hi rend="grantha">Aparāji</hi>ta-vi<hi rend="grantha">kramapanma</hi>r pakkaḷ kai-k koṇṭa <supplied reason="undefined">pura</supplied>-niṟai cem poṉ <supplied reason="undefined"><num value="100"><g type="numeral">100</g></num></supplied> kaḻañcukku Erikka-k kaṭavat-āka tiru-p-pulivaṉamuṭaiyār kōyililum naṭuviṟ koyililuṅ kalveṭṭiṉa nilai-viḷakku nālum 
 	</p>
 	
@@ -116,18 +116,28 @@
 			<rdg source="bib:...">...</rdg>
 			<note>...</note>
 		</app>
-		
-		
+				
 	</listApp>
 	
 </div>         -->
       	
-<!--
-
-<div type="translation" xml:lang="fra" resp="part:emfr">
+<div type="translation" resp="part:emfr">
 		
-         </div>
-	-->
+	<p n="1">Prosperity! Fortune!</p>
+	
+	<p n="1-2">37th year of the king Tribhuvana Vīra, who graciously ...
+		on the day of <foreign>attam</foreign><note>Sanskrit <foreign>hasta</foreign>, the 13th <foreign>nakṣatra</foreign>.</note>, which coincides with <supplied reason="explanation"><foreign>peṟṟa</foreign></supplied> ...
+	</p>
+	
+	<p n="2">Writ of we the members of the assembly ...</p>
+	
+	<p n="2-4">So as to burn a glorious perpetual lamp for the Lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied> <supplied reason="explanation">of</supplied> our village, the Lord <supplied reason="explanation"><foreign>nāyaṉār</foreign></supplied>, who owns <supplied reason="explanation"><foreign>uṭaiya</foreign></supplied> Tiruppulivaṉanam, ...
+		that which has been inscribed:
+		four lamps with stand <supplied reason="explanation"><foreign>nilai-viḷakku</foreign></supplied>.
+	</p>
+	
+</div>
+	
       	
 <div type="commentary">
          	
@@ -144,7 +154,7 @@
 		First edited <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, no. 96).</p>
 	
 	<p>
-		Digitally encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>.
+		Digitally encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>. First translated by Emmanuel Francis (2024).
 	</p>
 	
 	<listBibl type="primary">
