@@ -51,7 +51,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p/>
+							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -76,24 +76,34 @@
 				</prefixDef>
 			</listPrefixDef>
 		</encodingDesc>
-		<revisionDesc>			
+		<revisionDesc>
 			<change who="part:emfr" when="2024-02-27" status="draft">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
 
-<text xml:space="preserve">
+	<text xml:space="preserve">
      
 <body>
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
                 	
-         	<ab>
-         		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
-         	</ab>
-         	
-         	<p>
-         		...
-         	</p>
+	<ab>
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+	</ab>
+	
+	<p>
+		tiruvā<supplied reason="undefined">y-k-kēḷvi-muṉ</supplied>ṉāka-t tiri<hi rend="grantha">bhu</hi>vaṉa-c-ca<hi rend="grantha">kra</hi>vattikaḷ maturaiyum Īḻamuṅ karuvūrum pāṇṭiyaṉ muṭi-t-talaiyuṅ koṇṭaruḷi v<choice><orig>i</orig><reg>ī</reg></choice>rar A<hi rend="grantha">bhiṣe</hi>kamum vicaiyar A<hi rend="grantha">bhiṣe</hi>kamum paṇṇiyaruḷiṉa tiri<hi rend="grantha">bhu</hi>vaṉa-vīra-tēvaṟku yāṇṭu <num value="37">3 <g type="numeral">10</g> 7</num>-Āvatu mi<hi rend="grantha">thu</hi>ṉa-nāyaṟṟu <hi rend="grantha">pūrva-pakṣa</hi>ttu
+		<lb n="2"/>navamiyum nāyaṟṟu-<supplied reason="undefined">k-kiḻa</supplied>m<supplied reason="undefined">ai</supplied>yum peṟṟa Attattu nāḷ
+	</p>
+	
+	<p>
+		<hi rend="grantha">ja</hi>yaṅ-koṇṭa-cōḻamaṇṭalattu-k kāliyūṟ-kōttaṭṭu taṉiyūr Uttaramēlūr-āṉa Irā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-coḻa-<hi rend="grantha">c-caturvedi</hi>-maṅkalattu <hi rend="grantha">mahāsabhai</hi>yōm Eḻuttu</p>
+	
+	<p>
+		namm-<choice><orig>u</orig><reg>ū</reg></choice>r Uṭaiyār tiru-p-pulivaṉam-uṭaiya nāyaṉārkku tiru-nuntā-vi
+		<lb n="3" break="no"/>ḷakku Erippat’ āka Eṅkaḷ <hi rend="grantha">pūrva</hi>kaḷ pala<supplied reason="omitted">r</supplied> pakkalum poṉ koṇṭu poli-y-ūṭṭukku Erikka-k kaṭavarkaḷ-āka muṉṉāḷil kalveṭṭiṉa tiru-nuntā-viḷakk’ ukaḷil irā<hi rend="grantha">ja</hi>māttāṇṭaṉ-ākiya Aparā<hi rend="grantha">ji</hi>ta-vi<hi rend="grantha">krama</hi>va<hi rend="grantha">nma</hi>rkku yāṇṭu <num value="14"><g type="numeral">10</g> 4</num>-Āvatu nāḷil <hi rend="grantha">sū<choice><orig>ri</orig><reg>r</reg></choice></hi>ya-<hi rend="grantha">graha</hi>ṉattukku <hi rend="grantha">rāja
+		<lb n="4" break="no"/>māttāṇḍa</hi>ṉ-ākiya <hi rend="grantha">Aparāji</hi>ta-vi<hi rend="grantha">kramapanma</hi>r pakkaḷ kai-k koṇṭa <supplied reason="undefined">pura</supplied>-niṟai cem poṉ <supplied reason="undefined"><num value="100"><g type="numeral">100</g></num></supplied> kaḻañcukku Erikka-k kaṭavat-āka tiru-p-pulivaṉamuṭaiyār kōyililum naṭuviṟ koyililuṅ kalveṭṭiṉa nilai-viḷakku nālum 
+	</p>
 	
 </div>
          		         	
