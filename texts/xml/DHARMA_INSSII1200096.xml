@@ -102,7 +102,7 @@
 	<p>
 		namm-<choice><orig>u</orig><reg>ū</reg></choice>r Uṭaiyār tiru-p-pulivaṉam-uṭaiya nāyaṉārkku tiru-nuntā-vi
 		<lb n="3" break="no"/>ḷakku Erippat-āka Eṅkaḷ <hi rend="grantha">pūrva</hi>kaḷ pala<supplied reason="omitted">r</supplied> pakkalum poṉ koṇṭu poli-y-ūṭṭukku Erikka-k kaṭavarkaḷ-āka muṉṉāḷil kalveṭṭiṉa tiru-nuntā-viḷakkukaḷil irā<hi rend="grantha">ja</hi>māttāṇṭaṉ-ākiya Aparā<hi rend="grantha">ji</hi>ta-vi<hi rend="grantha">krama</hi>va<hi rend="grantha">nma</hi>rkku yāṇṭu <num value="14"><g type="numeral">10</g> 4</num><g type="dash"/>Āvatu nāḷil <hi rend="grantha">sū<choice><orig>ri</orig><reg>r</reg></choice></hi>ya-<hi rend="grantha">graha</hi>ṉattukku <hi rend="grantha">rāja
-		<lb n="4" break="no"/>māttāṇḍa</hi>ṉ-ākiya <hi rend="grantha">Aparāji</hi>ta-vi<hi rend="grantha">kramapanma</hi>r pakkaḷ kai-k koṇṭa <supplied reason="undefined">pura</supplied>-niṟai cem poṉ <supplied reason="undefined"><num value="100"><g type="numeral">100</g></num></supplied> kaḻañcukku Erikka-k kaṭavat-āka tiru-p-pulivaṉam-uṭaiyār kōyililum naṭuviṟ koyililuṅ kalveṭṭiṉa nilai-viḷakku nālum 
+		<lb n="4" break="no"/>māttāṇḍa</hi>ṉ-ākiya <hi rend="grantha">Aparāji</hi>ta-vi<hi rend="grantha">kramapanma</hi>r pakkaḷ kai-k koṇṭa <supplied reason="undefined">poṉ</supplied> niṟai cem poṉ <supplied reason="undefined"><num value="100"><g type="numeral">100</g></num></supplied> kaḻañcukku Erikka-k kaṭavat-āka tiru-p-pulivaṉam-uṭaiyār kōyililum naṭuviṟ kōyililuṅ kalveṭṭiṉa nilai-viḷakku nālum 
 	</p>
 	
 	<p>
@@ -115,9 +115,15 @@
 	<listApp>
 		
 		<app loc="4">
+			<lem><supplied reason="undefined">poṉ</supplied> niṟai</lem>
+			<rdg source="bib:VenkatasubbaAyyar1943_01"><supplied reason="undefined">pura</supplied>niṟai</rdg>
+			<note>See <foreign><supplied reason="undefined">p</supplied>o<supplied reason="omitted">ṉ</supplied> niṟai</foreign> in the other copy of this inscription (SII 6, no. 350, line 5).</note>
+		</app>
+		
+		<app loc="4">
 			<lem><supplied reason="undefined"><num value="100"><g type="numeral">100</g></num></supplied></lem>
 			<rdg source="bib:VenkatasubbaAyyar1943_01"/>
-			<note>The figure "100" is legible in the other copy of this inscription (SII 6, no. 350).</note>
+			<note>The number <foreign>nūṟṟu</foreign> is legible in the other copy of this inscription (SII 6, no. 350, line 5).</note>
 		</app>
 				
 	</listApp>
@@ -138,13 +144,13 @@
 	<p n="2-4">
 		<list>
 			<item>So as to burn a glorious perpetual lamp for the Lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied> <supplied reason="explanation">of</supplied> our village, the Lord <supplied reason="explanation"><foreign>nāyaṉār</foreign></supplied>, who owns <supplied reason="explanation"><foreign>uṭaiya</foreign></supplied> Tiruppulivaṉanam,</item>
-			<item>so that to become those whose duty is to burn with <note>Literally, "for".</note> the earned interest from <supplied reason="explanation"><foreign>koṇṭu</foreign><note>Literally, "having taken", that is, "with".</note></supplied> the gold <supplied reason="subaudible">obtained</supplied> from many among our ancestors,</item>
+			<item>so that to become those whose duty is to burn with <note>Literally, "for".</note> the earned interest from <supplied reason="explanation"><foreign>koṇṭu</foreign><note>Literally, "having taken", that is, "with".</note></supplied> the gold <supplied reason="subaudible">obtained</supplied> from many among our predecessors <supplied reason="explanation"><foreign>eṅkaḷ <hi rend="grantha">pūrva</hi>kaḷ</foreign><note>That is, eṅkaḷ <hi rend="grantha">pūrva</hi>rkaḷ</note>.</supplied>,</item>
 		</list>
 		among the glorious perpetual lamps, that were inscribed<note>That is, the donation of which was recorded in an inscription.</note> in previous times,
 		<supplied reason="subaudible">there are</supplied>
 		four pedestal-lamps <supplied reason="explanation"><foreign>nilai-viḷakku</foreign></supplied>
 		that were inscribed in the temple of the Lord of Tiruppulivaṉam and in the temple in the middle <supplied reason="explanation"><foreign>naṭuvil</foreign><note>This must be the temple, or rather the <foreign>maṇḍapa</foreign>, in the middle of the village of Uttiramērūr, known as the Vaikuṇṭhaperumāḷ, which served as the meeting place for the local assembly. See <bibl><ptr target="bib:Gros+Nagaswamy1970_01"/><citedRange unit="page">17-18</citedRange><citedRange unit="note">1</citedRange></bibl>.</note></supplied>, 
-		so that there be dutiful burning for the <supplied reason="undefined">100</supplied> <foreign>kaḻañcu</foreign>s of refined gold <gap reason="ellipsis"/> <supplied reason="explanation"><foreign><supplied reason="undefined">pura</supplied>-niṟai</foreign></supplied> received <supplied reason="explanation"><foreign>kai-k koṇṭa</foreign><note>Literally, "got in hands".</note></supplied> from Aparājitavikramavarman, <hi rend="italic">alias</hi> Rājamārtāṇḍa, at the time of a solar eclipse at the time of the 14th year of Aparājitavikramavarman, <hi rend="italic">alias</hi> Rājamārtāṇḍa.
+		so that there be dutiful burning for the <supplied reason="undefined">100</supplied> <foreign>kaḻañcu</foreign>s of refined gold <gap reason="ellipsis"/> <supplied reason="explanation"><foreign><supplied reason="undefined">poṉ</supplied> niṟai</foreign></supplied> received <supplied reason="explanation"><foreign>kai-k koṇṭa</foreign><note>Literally, "got in hands".</note></supplied> from Aparājitavikramavarman, <hi rend="italic">alias</hi> Rājamārtāṇḍa, <supplied reason="subaudible">at the time of</supplied> a solar eclipse at the time of the 14th year of Aparājitavikramavarman, <hi rend="italic">alias</hi> Rājamārtāṇḍa.
 	</p>
 	
 	<p><gap reason="ellipsis" extent="unknown" unit="line"/><note>As there is another copy of this inscription (SII 6, no. 350) and as SII 12 concerns only the Pallava inscriptions, <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> did not provide the text of these lines, which record donations by Kṛṣṇa III Rāṣṭrakūṭa and Parāntaka I Cōḻa. See <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/><citedRange unit="page">43</citedRange><citedRange unit="note">1</citedRange></bibl>.</note></p>
@@ -155,7 +161,7 @@
 <div type="commentary">
 	
 	<p>
-		There is another copy of this inscription with variant spellings (SII 6, no. 350) in the Vaikuṇṭhaperumāḷ temple in Uttiramērūr.
+		There is another copy of this inscription with some variants and variant spellings (SII 6, no. 350) in the Vaikuṇṭhaperumāḷ temple in Uttiramērūr.
 	</p>
 	
 	<p>
