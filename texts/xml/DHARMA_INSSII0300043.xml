@@ -123,40 +123,16 @@
 					<lb n="34" break="no"/>ṭṭa palapaṇi ceyvār
 					<lb n="35" break="no"/>kku nellu nānūṟṟu
 					<lb n="36"/>-k kāṭiyum tiru<choice><sic>k</sic><corr>n</corr></choice>o<supplied reason="undefined">n=t</supplied>ā
-					<lb n="37"/>viḷakkukkum tirumēyppūccukkum
-					<lb n="38"/>
-					<lb n="1"/>
-					<lb n="1"/>
-					<lb n="1"/>
-					<lb n="1"/>
-					<lb n="1"/>
-					<lb n="1"/>
-					<lb n="1"/>
-					<lb n="1"/>
-					<lb n="1"/>
-					<lb n="1"/>
-					<lb n="1"/>
-					<lb n="1"/>
-					<lb n="1"/>
-					<lb n="1"/>
-					<lb n="1"/>
-
-
-
-34. 
-35. 
-36. 
-37. 
-38. citārikkumaṟṟum khaṇḍaspuḍitanavaka
-39. nmatikaḷuk=kummākappeoṉ Irupati
-40. ṉ kaḻañcum Āka Iṉṉellum
-41. Ippoṉṉum Ittēvaṟk=ku
-42. can=trātittavalliṟuppārkaḷā
-43. kavum Ipparicu nivan=tamāka
-44. cceytu kuṭuttōm
-45. Idhdamam panmāhe
-46. śvararakṣai gomutra pc
-
+					<lb n="37"/>viḷakkukkum tirumēyppūccuk<hi rend="grantha">kum</hi>
+					<lb n="38"/>citārik<supplied reason="undefined">ku</supplied> maṟṟum <hi rend="grantha">khaṇḍaspu<choice><orig>ḍ</orig><reg>ṭ</reg></choice>i</hi>tana<supplied reason="undefined">va</supplied>ka
+					<lb n="39"/><hi rend="grantha">nm<supplied reason="undefined">ā</supplied></hi>tikaḷuk=kum <surplus>m</surplus>āka-p p<supplied reason="undefined">o</supplied>ṉ Irupati <!--@reda: goes in the apparatus-->
+					<lb n="40"/>ṉ kaḻañcum Āka I<choice><orig>ṉ</orig><reg>n</reg></choice><supplied reason="undefined"><choice><orig>ṉ</orig><reg>n</reg></choice></supplied>ellum
+					<lb n="41"/>Ip-poṉṉu<supplied reason="undefined">m</supplied> It-tēvaṟk=ku
+					<lb n="42"/>can=t<hi rend="grantha">rā</hi>tittaval-l iṟuppārkaḷ ā
+					<lb n="43"/>kavum Ip-paricu nivan=tam āka
+					<lb n="1"/>c- ceytu kuṭuttō<supplied reason="undefined">m</supplied>
+					<lb n="1"/>I<hi rend="grantha"><choice><sic>dhd</sic><corr>ddh</corr></choice>amam</hi> <hi rend="grantha">panmāhe</hi>
+					<lb n="1"/><hi rend="grantha"><supplied reason="undefined">śva</supplied>ra-rakṣai</hi> <g type="gomutraFinal">.</g>{pc}
 				</p> 
 				
 				
@@ -184,9 +160,16 @@
     	
 <div type="translation" source="bib:Hultzsch1895_01">
 	
-	<p n="§1">
-		
+	<p n="1-2"> 
+		Hail! Prosperity! <supplied reason="subaudible">The following is</supplied> a copy of a stone inscription which existed before the <foreign>maṇḍapa</foreign> of the temple had been pulled down and re-erected.
 	</p>
+	
+	<p n="3"> In the 17th year <supplied reason="subaudible">of the reign</supplied> of king Vijaya-Nandivikramavarman.
+	</p>
+	
+	<p n="3"> Māvalivāṇarāya, <foreign>alias</foreign> Vikkiramādittavāṇarāya, <supplied reason="subaudible">had made</supplied>
+	</p>
+	
 </div>
             
 <!--<div type="commentary">
