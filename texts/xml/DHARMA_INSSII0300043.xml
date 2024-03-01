@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tanjore, Bṛhadīśvara, time of Pallava king Vijaya-Nandi Vikramavarman, year 17</title>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">DHARMA_INSSII0300043</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Rebuilding of a previous stone inscription granting three villages (which were clubbed together into one). The paddy from this land was given to śiva-brāhmaṇas, drummers, those who pluck flowers, and singers of <foreign>Tēvāram</foreign></summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:reda" when="2024-03-01"
+				>Creation of the file on the repository</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+		<body>
+			
+			
+			<div type="edition" xml:lang="tam-Latn">
+				
+				<ab>
+					<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+				</ab>
+				
+				<p>
+					ti<supplied reason="undefined">ruma</supplied>ṇṭapam iḻicci-y<supplied reason="undefined">eṭu</supplied>ppa
+					<lb n="2"/>taṟku muṉ puḷḷa cilā-lekai-p paṭi 
+					<lb n="3"/>kōvi<hi rend="grantha">ja</hi>yanan=ti vikkiramapa<hi rend="grantha">nma</hi>r<supplied reason="undefined">k</supplied>ku yā<supplied reason="undefined">ṇ</supplied>ṭu 17
+					<lb n="4"/>Āvatu paṭu<supplied reason="undefined">vūr</supplied>-k koṭṭattumīyāṟunāṭṭu-t tikk<supplied reason="undefined">ā</supplied>
+					<lb n="5"/>livallamu<supplied reason="undefined">ṭai</supplied>ya <hi rend="grantha">parameśvarar</hi>k=ku
+					<lb n="6"/>Iṉṉā<supplied reason="undefined">ṭṭu</supplied> <hi rend="grantha">ja</hi>m<supplied reason="undefined">pū</supplied>ṇiyum vi
+					<lb n="7"/>ḷattūrum It-tēvar tē<supplied reason="undefined">va</supplied>
+					<lb n="8"/>tā<supplied reason="undefined">ṉa</supplied>m Ama<supplied reason="undefined">ru</supplied>ṉṟimaṅka<supplied reason="undefined">lamu</supplied>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					<lb n="1"/>
+					
+				</p> 
+				
+				
+				
+			</div>
+			
+			<div type="apparatus">
+				
+				<listApp>
+    			
+    			<!--<app loc="0">
+    				<lem>...</lem>
+    				<rdg source="bib:Hultzsch1895_01">...</rdg>
+		</app>	-->
+		
+		<app loc="1">
+			<lem>maṉakko<unclear>ḷa</unclear>k</lem>
+			<rdg source="bib:KrishnaSastri1920_01">maṉakko<unclear>ḷ</unclear>k</rdg>
+		</app>	
+		
+		
+	</listApp>    			
+    	
+</div>
+    	
+<div type="translation" source="bib:Hultzsch1895_01">
+	
+	<p n="§1">
+		
+	</p>
+</div>
+            
+<!--<div type="commentary">
+    		
+    		
+</div>-->
+    	
+<div type="bibliography">
+    		
+	<p>
+		First edited in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> with English translation; encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2024), based on <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl>.
+	</p>	
+	
+	<listBibl type="primary">
+		
+		<bibl n="SII 3.43">
+			<ptr target="bib:KrishnaSastri1920_01"/>
+			<citedRange unit="page">92-94</citedRange>
+			<citedRange unit="item">43</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+	<!--<listBibl type="secondary">
+				
+		Add ARIE reference if any.
+		
+	</listBibl>-->
+	
+</div>
+        </body>
+    </text>
+</TEI>
