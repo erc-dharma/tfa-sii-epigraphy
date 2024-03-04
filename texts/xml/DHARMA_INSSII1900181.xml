@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruviṭaimarutūr, Mahāliṅgasvāmin temple, no king, no year</title>
+				<title>Tiruviṭaimarutūr, Mahāliṅgasvāmin temple, Uttama Cōḻa, 7th year</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:reda">
@@ -40,7 +40,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>A lacunose inscription, listing several endowments: an undated hereditary land endowment for singing (<foreign>tēci pāṭu</foreign>) before the lord Tiruviṭaimarutuṭaiyār at the time of <foreign>ōlakkam</foreign> and another land endowment dated to the seventh regnal year of Parakesarivarman to various gods at Tiruviṭaimarutu, including Viṣṇu of the Talaikkōliviṇṇakar.</summary>
+						<summary>A lacunose inscription, listing several endowments: an undated hereditary land endowment for singing (<foreign>tēci pāṭu</foreign>) before the Lord Tiruviṭaimarutuṭaiyār at the time assembly hall <foreign>tiruvōlakkam</foreign> and another land endowment dated to the seventh regnal year of Parakesarivarman to various gods at Tiruviṭaimarutu, including Viṣṇu of the Talaikkōliviṇṇakar.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -148,7 +148,7 @@
 	</p>
 	
 	<p>
-		tiru-viṭaimarutil talaikkōli<unclear>kkun</unclear> tiru-vi<unclear>ṭai</unclear>maruti<unclear>l</unclear> <hi rend="grantha">mahāde</hi>va<unclear>rkku</unclear>m tiru-viṭaimarutil talaikkōli-viṇṇakar vi<hi rend="grantha">ṣṇu</hi>kkaḷukkum <unclear>Āka</unclear> nakka<choice><orig>n</orig><reg>ṉ</reg></choice> talai <gap reason="lost" extent="unknown" unit="character"/>
+		tiru-viṭaimarutil talaikkōli<unclear>kkun</unclear> tiru-vi<unclear>ṭai</unclear>maruti<unclear>l</unclear> <hi rend="grantha">mahāde</hi>va<unclear>rkku</unclear>m tiru-viṭaimarutil talaikkōli-viṇṇakar vi<hi rend="grantha">ṣṇu</hi>kkaḷukkum <unclear>Āka</unclear> nakka<choice><orig>n</orig><reg>ṉ</reg></choice> talai<supplied reason="lost">kkōli</supplied><gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="5" break="no"/>m Iru-vēli <unclear>nilam</unclear> muppatām Āṇṭi<choice><orig>n</orig><reg>ṉ</reg></choice> ki<unclear>ḻ</unclear> <gap reason="lost" unit="character" quantity="6"/> ttāl Ivv-iru-vēli nilattukkum Iṟaiyum E-c-cōṟum kāttu-k kuṭuppōm āṉōm
 	</p>
@@ -328,7 +328,7 @@
 	<head xml:lang="eng">Fragment 2</head>
 	
 	<p n="1-2">
-		<gap reason="lost"/> I have given, so that for the <foreign>bhaṭṭa</foreign>s <supplied reason="explanation"><foreign>paṭṭarkaḷukkum</foreign></supplied> of the glorious temple that I have built in this village ...
+		<gap reason="lost"/> I have given this for the the Brahmans <supplied reason="explanation"><foreign>paṭṭarkaḷukkum</foreign></supplied> of the temple which I have built in this village ...
 	</p>
 	
 	<p n="2-4">
@@ -338,8 +338,8 @@
 	</p>
 	
 	<p n="4-5">
-		To the Talaikkōli in the glorious Tiruviṭaimarutu, to the Mahādeva in the glorious Tiruviṭaimarutu, to the venerable Viṣṇu of the Talaikkōliviṇṇakar in the glorious Tiruviṭaimarutu, Nakkaṉ <gap reason="lost"/> we have become those who give ...
-	</p>
+		We have become the donors for the obligatory supply of free food <supplied reason="explanation"><foreign>eccōṟu kāttu</foreign></supplied><note>Pondicherry Inscriptions 342.4 has the version <foreign>eccōṟu kūṟṟu</foreign>, but probably with the same meaning of observing <supplied reason="explanation">here, <foreign>kāttu</foreign></supplied>that free food <supplied reason="explanation"><foreign>eccōṟu</foreign></supplied> is given to devotees during the time of the festival.</note> and donors of the tax that came out of the two <foreign>vēlis</foreign> of land <gap reason="lost" extent="unknown" unit="character"></gap> <supplied reason="subaudible">given</supplied> in the 30th year. Two <foreign>vēlis</foreign> of land <gap reason="lost" extent="unknown" unit="character"></gap> Nakkaṉ <gap reason="lost" extent="unknown" unit="character"></gap> to a Viṇṇakar female dancer <supplied reason="explanation"><foreign>talaikkōli</foreign></supplied><note>Talaikkōli was a term, used mostly in the Cōḻa period, to refer to female dancers, according to Leslie Orr Donors, 61.</note>  of Tiruviṭaimarutu, to the great Lord in Tiruviṭaimarutu, and to Talaikkōli in Tiruviṭaimarutu. 
+	</p> 
 	
 	<p n="5">
 		<gap reason="lost"/> we have become those who give ...
@@ -391,9 +391,13 @@
 		
 		Fragment 2 first edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19, no. 181, lines 7-14). First two lines re-edited in <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl> (SII 23, no. 233, supplementary lines 1-2).
 	</p>
+	
+	<p>		
+		Reedited and translated here for DHARMA (ERC n° 809994) by Renato Dávalos (2023) and Emmanuel Francis.
+	</p>
 	<p>		
 		Encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2023), based on previous editions.
-	</p>	
+	</p>
 	
 	<listBibl type="primary">
 		
