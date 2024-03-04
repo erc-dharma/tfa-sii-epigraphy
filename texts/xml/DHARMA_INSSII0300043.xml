@@ -40,7 +40,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Rebuilding of a previous stone inscription granting three villages (which were clubbed together into one). The paddy from this land was given to śiva-brāhmaṇas, drummers, those who pluck flowers, and singers of <foreign>Tēvāram</foreign></summary>
+						<summary>Rebuilding of a previous stone inscription granting three villages (which were clubbed together into one). The paddy from this land was given to Śiva-brāhmaṇas, drummers, those who pluck flowers, and singers of <foreign>Tēvāram</foreign>.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -130,23 +130,23 @@
 					<lb n="41"/>Ip-poṉṉu<supplied reason="undefined">m</supplied> It-tēvaṟk=ku
 					<lb n="42"/>can=t<hi rend="grantha">rā</hi>tittaval-l iṟuppārkaḷ ā
 					<lb n="43"/>kavum Ip-paricu nivan=tam āka
-					<lb n="1"/>c- ceytu kuṭuttō<supplied reason="undefined">m</supplied>
-					<lb n="1"/>I<hi rend="grantha"><choice><sic>dhd</sic><corr>ddh</corr></choice>amam</hi> <hi rend="grantha">panmāhe</hi>
-					<lb n="1"/><hi rend="grantha"><supplied reason="undefined">śva</supplied>ra-rakṣai</hi> <g type="gomutraFinal">.</g>{pc}
+					<lb n="44"/>c- ceytu kuṭuttō<supplied reason="undefined">m</supplied>
+					<lb n="45"/>I<hi rend="grantha"><choice><sic>dhd</sic><corr>ddh</corr></choice>amam</hi> <hi rend="grantha">panmāhe</hi>
+					<lb n="46"/><hi rend="grantha"><supplied reason="undefined">śva</supplied>ra-rakṣai</hi> <g type="gomutraFinal">.</g>{pc}
 				</p> 
 				
 				
 				
 			</div>
 			
-			<div type="apparatus">
+			<!--<div type="apparatus">
 				
 				<listApp>
     			
-    			<!--<app loc="0">
+    			<!-\-<app loc="0">
     				<lem>...</lem>
     				<rdg source="bib:Hultzsch1895_01">...</rdg>
-		</app>	-->
+		</app>	-\->
 		
 		<app loc="1">
 			<lem>maṉakko<unclear>ḷa</unclear>k</lem>
@@ -156,50 +156,76 @@
 		
 	</listApp>    			
     	
-</div>
+</div>-->
     	
 <div type="translation" source="bib:Hultzsch1895_01">
 	
-	<p n="1-2"> 
+	<p n="1-2">
 		Hail! Prosperity! <supplied reason="subaudible">The following is</supplied> a copy of a stone inscription which existed before the <foreign>maṇḍapa</foreign> of the temple had been pulled down and re-erected.
 	</p>
 	
-	<p n="3"> In the 17th year <supplied reason="subaudible">of the reign</supplied> of king Vijaya-Nandivikramavarman.
+	<p n="3">
+		In the 17th year <supplied reason="subaudible">of the reign</supplied> of king Vijaya-Nandivikramavarman.
 	</p>
 	
-	<p n="3"> Māvalivāṇarāya, <foreign>alias</foreign> Vikkiramādittavāṇarāya, <supplied reason="subaudible">had made</supplied>
+	<p n="4-13">
+		Māvalivāṇarāya, <foreign>alias</foreign> Vikkiramādittavāṇarāya, <supplied reason="subaudible">had made</supplied> the request that <supplied reason="subaudible">to the temple of</supplied> Parameśvara <supplied reason="explanation">Śiva</supplied> at Tīkkāli-Vallam in Mīyāṟṟu-nāṭu, <supplied reason="explanation">a subdivision</supplied> of Paṭuvūr-kōṭṭam, <supplied reason="subaudible">should be given three villages</supplied> in the same <foreign>nāṭu</foreign> <supplied reason="subaudible"><foreign>viz.</foreign></supplied> Aim<supplied reason="undefined">pū</supplied>ṇi, Viḷattūr and Amaruṉṟimaṅkalam, a <foreign>devadāna</foreign> of this god, <supplied reason="subaudible">and that they should be clubbed together into</supplied> one village, named Viṭelviṭuku-Vikkiramāditta-caturvēdimaṅgalam. 
 	</p>
 	
+	<p n="14-16">
+		In conformity with <supplied reason="subaudible">this request</supplied>, and Kāṭupaṭṭi-Tamiḻa-Pērarayaṉ being the executor, <supplied reason="subaudible">the three villages</supplied> were made into one village.
+	</p>
+	
+	<p n="16-23">
+		The members of the assembly of this Viṭelviṭuku-Vikkiramāditta-caturvētimaṅgalam shall have to pay two thousand <foreign>kāṭi</foreign> of paddy and twenty <foreign>kalañcu</foreign> of gold, which were being paid before by this Amaruṉṟimaṅkalam to this <supplied reason="subaudible">temple of</supplied> Parameśvara at Tīkkāli-Vallam.
+	</p>
+	
+	
+	<p n="23-40">
+		Of this paddy, six hundred <foreign>kāṭi</foreign> of paddy <foreign>are allotted</foreign> for offerings; hundred <foreign>kāṭi</foreign> of paddy to the Śiva-Brāhmaṇas who desire to be fed, beginning with those in charge of the store-room of the temple; five hundred <foreign>kāṭi</foreign> of paddy to those who beat <supplied reason="subaudible">drums before</supplied> oblations; four hundred <foreign>kāṭi</foreign> of paddy to those who pick <supplied reason="subaudible">flowers for</supplied> temple garlands, and to those who perform various <supplied reason="subaudible">other</supplied> services, including the singers of the <foreign>Tiruppatiyam</foreign>; and twenty <foreign>kalañcu</foreign> of gold for the perpetual lamps, for anointing the idol, for bark, and for repairing breaks and cracks, etc.
+		<!--@reda: Check translation: are the singers part of the ones who do the service? If so, are they being put in the second rank among the servitors? What is the total of paddy being given, and what percentage is given to the servitors of the temple?-->
+	</p>
+	<p n="40-43">
+		<supplied reason="subaudible">The members of the assembly</supplied> shall have to pay this paddy and this gold to this god as long as the moon and the sun exist.
+	</p>
+	
+	<p n="43-45">
+		In this manner we have given <supplied reason="subaudible">the village</supplied> for <supplied reason="subaudible">providing</supplied> the necessaries.
+	</p>
+	
+	<p n="45-46">
+		This charity <supplied reason="subaudible">is placed under</supplied> the protection of all <foreign>Māheśvaras</foreign>. 
+	</p>
 </div>
-            
-<!--<div type="commentary">
-    		
-    		
-</div>-->
-    	
-<div type="bibliography">
-    		
-	<p>
-		First edited in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> with English translation; encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2024), based on <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl>.
-	</p>	
-	
-	<listBibl type="primary">
-		
-		<bibl n="SII 3.43">
-			<ptr target="bib:KrishnaSastri1920_01"/>
-			<citedRange unit="page">92-94</citedRange>
-			<citedRange unit="item">43</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-	<!--<listBibl type="secondary">
+			
+			<!--<div type="commentary">
 				
-		Add ARIE reference if any.
-		
-	</listBibl>-->
-	
-</div>
-        </body>
-    </text>
+				
+				</div>-->
+			
+			<div type="bibliography">
+				
+				<p>
+					First edited in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> with English translation; encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2024), based on <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl>.
+				</p>	
+				
+				<listBibl type="primary">
+					
+					<bibl n="SII 3.43">
+						<ptr target="bib:KrishnaSastri1920_01"/>
+						<citedRange unit="page">92-94</citedRange>
+						<citedRange unit="item">43</citedRange>
+					</bibl>
+					
+				</listBibl>
+				
+				<!--<listBibl type="secondary">
+					
+					Add ARIE reference if any.
+					
+					</listBibl>-->
+				
+			</div>
+		</body>
+	</text>
 </TEI>
