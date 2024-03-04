@@ -40,7 +40,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>A lacunose inscription, listing several endowments: an undated hereditary land endowment for singing (<foreign>tēci pāṭu</foreign>) before the Lord Tiruviṭaimarutuṭaiyār at the time assembly hall <foreign>tiruvōlakkam</foreign> and another land endowment dated to the seventh regnal year of Parakesarivarman to various gods at Tiruviṭaimarutu, including Viṣṇu of the Talaikkōliviṇṇakar.</summary>
+						<summary>A lacunose inscription, listing several endowments: an undated hereditary land endowment for singing (<foreign>tēci pāṭu</foreign>) before the Lord Tiruviṭaimarutuṭaiyār at the time assembly hall <supplied reason="explanation"><foreign>tiruvōlakkam</foreign></supplied> and another land endowment dated to the seventh regnal year of Parakesarivarman to various gods in  Tiruviṭaimarutūr.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -144,7 +144,7 @@
 		
 		<lb n="3" break="no"/><unclear>kuḷa</unclear>kkālil <unclear>aṭai</unclear> matirai-koṇṭa kō-p-parake<hi rend="grantha">sa</hi>ripaṉmaṟkki yāṇṭu <num value="30"> 3 <g type="numeral">10</g></num>t-āvatu veṇṇāṭṭu <hi rend="grantha">brahmade</hi>yam <hi rend="grantha">vai</hi><unclear>y</unclear>kalil <hi rend="grantha">sabhai</hi>yōm tiru-v<choice><sic>u</sic><corr>i</corr></choice>ṭaimarutil perumā<choice><orig>n</orig><reg>ṉ</reg></choice>-aṭikaḷukku O <gap reason="lost" extent="unknown" unit="character"/>
 		
-		<lb n="4" break="no"/><gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">pa</supplied>ric' āvatu
+		<lb n="4"/><gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">pa</supplied>ric' āvatu
 	</p>
 	
 	<p>
@@ -158,16 +158,16 @@
 	</p>
 	
 	<p>	
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<lb n="6" break="no"/>lattayalum vaikal <hi rend="grantha">sabhai</hi>yōm In-nilam<gap reason="lost" quantity="4" unit="character"/> Eppēṟppaṭṭa Ūr iṭu vari-p-pāṭum kāttu-k kuṭuppōm āṉōm
+		
+		<lb n="6" break="no"/><gap reason="lost" extent="unknown" unit="character"/>lattayalum vaikal <hi rend="grantha">sabhai</hi>yōm In-nilam<gap reason="lost" quantity="4" unit="character"/> Eppēṟppaṭṭa Ūr iṭu vari-p-pāṭum kāttu-k kuṭuppōm āṉōm
 	</p>
 	<p>
 		Ivv-ōlai mēl paṭṭa paricē kallil veṭṭi-k-koḷḷa-p peṟuvat' ā<supplied reason="lost">kavum</supplied>
 	</p>
 	
 	<p>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<lb n="7" break="no"/>ṇai-y aṟuttār paṭum taṇṭippaṭa Oṭṭi Iṭṭu-k kuṭuttōm <hi rend="grantha">sabhai</hi>yōm
+		
+		<lb n="7" break="no"/><gap reason="lost" extent="unknown" unit="character"/>ṇai-y aṟuttār paṭum taṇṭippaṭa Oṭṭi Iṭṭu-k kuṭuttōm <hi rend="grantha">sabhai</hi>yōm
 	</p>
 	<p>
 	<hi rend="grantha">sabhai</hi> paṇikka Eḻ<choice><sic>a</sic><corr>u</corr></choice>ti<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ <hi rend="grantha">maddhyasthan·</hi> nārāyaṇa<choice><orig>n</orig><reg>ṉ</reg></choice> nakka<choice><orig>n</orig><reg>ṉ</reg></choice>ē<choice><orig>n</orig><reg>ṉ</reg></choice>
@@ -319,7 +319,7 @@
 		</p>
 		
 		<p n="4-6">
-			the accountant who oversees <supplied reason="subaudible">the temple of</supplied> Lord of Tiruviṭaimarutu <gap reason="lost"/>, accountant who oversees the temple of the Lord of Tiruviṭaimarutu for the goddess <supplied reason="explanation"><foreign>mā</foreign></supplied> Bhaṭṭaraki <gap reason="lost"/> queen of <gap reason="lost"/> assembly hall <gap reason="lost"/>.
+			the accountant who oversees <supplied reason="subaudible">the temple of</supplied> the Mahādeva <supplied reason="subaudible">of the Mūlasthāṉam temple at</supplied> Tiruviṭaimarutūr <note>Tiruviṭaimarutil Mahādeva is the name of the deity in the shrine, which already appears in inscriptions from an earlier date, e.g., appears in SII 5, no. 719 (dated in 931 CE) or SII 23, no. 262 (dated in 925 CE).</note> <gap reason="lost"/>, accountant who oversees the temple of the Lord of Tiruviṭaimarutūr for the goddess <supplied reason="explanation"><foreign>mā</foreign></supplied> Bhaṭṭaraki <gap reason="lost"/> queen of <gap reason="lost"/> assembly hall <gap reason="lost"/>.
 		</p>
 		
 	</div>
@@ -333,36 +333,30 @@
 	
 	<p n="2-4">
 		Seventh year of the king Parakesarivarman, day <gap reason="omitted"/>
-		thirtieth year of the king Parakesarivarman, who took Maturai, <gap reason="ellipsis"/> <gap reason="lost"/>
-		this is the manner <supplied reason="explanation"><foreign>paricu āvatu</foreign></supplied> in which We, the members of the assembly of Vaikal, a <foreign>brahmadeya</foreign> in Veṇṇāṭu <gap reason="lost"/>
+		thirtieth year of the king Parakesarivarman, who took Maturai, <gap reason="undefined"/> <gap reason="lost"/> This is the manner in which we, the members of the assembly of Vaikal, a <foreign>brahmadeya</foreign> in Veṇṇāṭu <gap reason="lost"/>
 	</p>
 	
 	<p n="4-5">
-		We have become the donors for the obligatory supply of free food <supplied reason="explanation"><foreign>eccōṟu kāttu</foreign></supplied><note>Pondicherry Inscriptions 342.4 has the version <foreign>eccōṟu kūṟṟu</foreign>, but probably with the same meaning of observing <supplied reason="explanation">here, <foreign>kāttu</foreign></supplied>that free food <supplied reason="explanation"><foreign>eccōṟu</foreign></supplied> is given to devotees during the time of the festival.</note> and donors of the tax that came out of the two <foreign>vēlis</foreign> of land <gap reason="lost" extent="unknown" unit="character"></gap> <supplied reason="subaudible">given</supplied> in the 30th year. Two <foreign>vēlis</foreign> of land <gap reason="lost" extent="unknown" unit="character"></gap> Nakkaṉ <gap reason="lost" extent="unknown" unit="character"></gap> to a Viṇṇakar female dancer <supplied reason="explanation"><foreign>talaikkōli</foreign></supplied><note>Talaikkōli was a term, used mostly in the Cōḻa period, to refer to female dancers, according to Leslie Orr Donors, 61.</note>  of Tiruviṭaimarutu, to the great Lord in Tiruviṭaimarutu, and to Talaikkōli in Tiruviṭaimarutu. 
+		We have become the donors of the obligatory supply of free food <supplied reason="explanation"><foreign>eccōṟu kāttu</foreign></supplied><note>Pondicherry Inscriptions 342.4 has the version <foreign>eccōṟu kūṟṟu</foreign>, but probably with the same meaning of observing <supplied reason="explanation"><foreign>kāttu</foreign></supplied> that free food <supplied reason="explanation"><foreign>eccōṟu</foreign></supplied> is given to devotees during the time of the festival.</note> and the tax that came out of the two <foreign>vēlis</foreign> of land <gap reason="lost" extent="unknown" unit="character"></gap> <supplied reason="subaudible">which was given</supplied> in the 30th year <supplied reason="subaudible">of Parāntaka I</supplied><note>Probably refers to the endowment of two <foreign>vēlis</foreign> that is recorded in SII 23, no. 258. Here, the land was used <supplied reason="explanation"><foreign>āṉa</foreign>?</supplied> for a garden of vañci flowers <supplied reason="explanation"><foreign>vañcittōṭṭam</foreign></supplied></note>. Two <foreign>vēlis</foreign> of land <gap reason="lost" extent="unknown" unit="character"></gap> Nakkaṉ <gap reason="lost" extent="unknown" unit="character"></gap> <supplied reason="subaudible">the shrine called</supplied> Talaikkōli-Viṇṇakar at Tiruviṭaimarutūr, to the Mahādeva <supplied reason="subaudible">in the Mūlasthāṉam</supplied> at Tiruviṭaimarutūr, and to Talaikkōli<note>This title given to someone who stands out in music. Moreover, it appears already in an inscription dated in the year 907 (seventy years before), where a certain Taliccēri Tēvaṉār, was included in a donation of lands, from which she received nine <foreign>mās</foreign> of land, according to SII 23, no.233.</note> in Tiruviṭaimarutūr. 
 	</p> 
-	
-	<p n="5">
-		<gap reason="lost"/> we have become those who give ...
-	</p>
-	
-	<p n="5-6">
-		<gap reason="lost"/> we have become those who give ...
-	</p>
 	
 	<p n="6">
 		They should engrave <supplied reason="subaudible">this</supplied> on stone in the manner it is on this palm-leaf.
 	</p>
 	
 	<p n="6-7">
-		We the members of the assembly have given ...
+		We, members of the assembly of Vaikal, have agreed and issued<supplied reason="explanation"><foreign>oṭṭi iṭṭu-k kuṭuttōm</foreign></supplied> <supplied reason="subaudible">this order</supplied> so that collected taxes <supplied reason="explanation"><foreign>taṇṭippaṭa</foreign></supplied> are removed <supplied reason="explanation"><foreign>aṟuttār</foreign></supplied>.
+		
+		
+		<gap reason="undefined"></gap> the land so that it is 
 	</p>
 	
 	<p n="7">
-		While the assembly ordered, I, Nārāyaṇaṉ Nakkaṉ, the <foreign>madhyastha</foreign>, I have written <supplied reason="subaudible">this</supplied>.
+		While the assembly ordered, I, Nārāyaṇaṉ Nakkaṉ, the <foreign>madhyastha</foreign>, have written this as commanded by the assembly <supplied reason="explanation"><foreign>sabhai</foreign></supplied>.
 	</p>
 	
 	<p n="7">
-		These are my writing.
+		This is my writing.
 	</p>
 	
 	<p n="7-8">
