@@ -173,26 +173,28 @@
 	
 	
 </div>
-		
+
+
 <div type="apparatus">
 	
-	<div type="textpart" n="A" xml:lang="san-Latn" rendition="class:38768 maturity:83213">
-	<head xml:lang="eng">Sanskrit Portion</head>
+<div type="textpart" n="A" xml:lang="san-Latn" rendition="class:38768 maturity:83213">
+<head xml:lang="eng">Sanskrit Portion</head>
 		
-		<listApp>
-			
-			<app loc="1">
-				<lem><supplied reason="lost">vā</supplied>reśa<unclear>ḥ</unclear></lem>
-				<rdg source="bib:KrishnaSastri1925_01"><gap reason="lost" quantity="3" unit="character"/>raśaḥ</rdg>
-				<note>The medial <foreign>e</foreign> is clear on the photographic documentation. See <foreign>vāreśaś caturānano</foreign> in SII 5, no. 1360.</note>
-			</app>
-			
-		</listApp>
-	</div>
+	<listApp>
+		
+		<app loc="1">
+			<lem><supplied reason="lost">vā</supplied>reśa<unclear>ḥ</unclear></lem>
+			<rdg source="bib:KrishnaSastri1925_01"><gap reason="lost" quantity="3" unit="character"/>raśaḥ</rdg>
+			<note>The medial <foreign>e</foreign> is clear on the photographic documentation. See <foreign>vāreśaś caturānano</foreign> in SII 5, no. 1360.</note>
+		</app>
+		
+	</listApp>
+</div>
 	
-	<div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
-	<head xml:lang="eng">Tamil Portion</head>
-				
+<div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+<head xml:lang="eng">Tamil Portion</head>
+		
+	<listApp>
 		<app loc="2">
 			<lem><hi rend="grantha">śrī</hi>mā<hi rend="grantha">he</hi><gap unit="character" quantity="10" reason="lost"/>ṭāṉum</lem>
 			<rdg source="bib:KrishnaSastri1925_01"/>
@@ -239,7 +241,9 @@
 			<note>The lacuna here can be filled in from <foreign><hi rend="grantha">śrī-</hi>kā<unclear>ri</unclear>yam Ariyapirāṉ paṭṭaṉum</foreign> (line 2).</note>
 		</app>
 		
-	</div>
+	</listApp>
+	
+</div>
 					
 </div>
 				
