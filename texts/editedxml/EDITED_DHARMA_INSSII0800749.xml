@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tiruvāmāttūr, Abhirāmeśvara temple, time of Kulottuṅga II Cōḻa, year 2</title>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:reda">
+                  <forename>Renato</forename>
+                  <surname>Dávalos</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_INSSII0800749</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary>Grant of land rights (<foreign>kāṇi</foreign>) by royal order <foreign>tirumukam</foreign> to Rājarājappiccaṉ and his relatives to daily sing holy hymns (<foreign>tiruppatiyam</foreign>). It seems that Rājarāja-Piccaṉ and one of his relative join a group of 16 blind men, who were already in charge of singing hymns.					
+						</summary>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union’s Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:reda" when="2023-12-04">Creation of the file on the repository</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+    <body>
+       
+       
+<div type="edition" xml:lang="tam-Latn">
+          
+	<ab>
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+	</ab>
+	
+	<lg n="1" met="āciriyappā">
+		<l n="1">pū mēvu vaḷara tiru-p po<choice><orig>n</orig><reg>ṉ</reg></choice> mār<choice><orig>v</orig><reg>p</reg></choice>u puṇara</l>
+		<l n="2">nā mēvu kalaimakaḷ nilam peritu ciṟappa</l>
+		<l n="3">vi<supplied reason="lost">c</supplied>aiya-māmakaḷ <unclear>ta</unclear><choice><orig><unclear>ṉṉ</unclear></orig><reg>ṉ</reg></choice> <unclear>iru</unclear>-puyatt’ iruppa</l>
+		<l n="4">Icai<lb n="2" break="no"/>yiṉ celvi Eṇṭicai viḷaṅka</l>
+		<l n="5">niruparvan tiṟaiñca nīṇila-maṭantaiy<unclear>ai</unclear>-t</l>
+		<l n="6">tirumaṇam puṇarntu cirvaḷar <lb n="3" break="no"/>taru</l>
+		<l n="7">maṇi-muṭi kavitta<choice><orig>nn</orig><reg>ṉṉ</reg></choice> Aṇi-muṭi cūṭi</l>
+		<l n="8">mallai-ñāla<unclear>ttu</unclear>-p pa<choice><orig>ll</orig><reg>l</reg></choice>-uyir<supplied reason="omitted">k</supplied>k’ ellām</l>
+		<l n="9">Ellaiyil iṉpam y-iyalvi<choice><orig>n</orig><reg>ṉ</reg></choice>i<choice><orig>ll</orig><reg>l</reg></choice> e<lb n="4" break="no"/>yta</l>
+		<l n="10">veṇ-kuṭai niḻaṟṟa-c ceṅkol ōcci</l>
+		<l n="11">vāḻi pa<choice><orig>ll</orig><reg>l</reg></choice>-ūḻi A<gap reason="lost" quantity="3" unit="character"/>ppa</l>
+		<l n="13">cempo<choice><orig>n</orig><reg>ṉ</reg></choice> v<choice><orig>i</orig><reg>ī</reg></choice><supplied reason="omitted">ra</supplied>-<hi rend="grantha">siṁhāsa</hi><choice><orig>n</orig><reg>ṉ</reg></choice>attu</l>
+		<l n="14">puva<choice><orig>n</orig><reg>ṉ</reg></choice>amuḻut-uṭaiyā<lb n="5" break="no"/>ḷoṭum v<choice><sic>i</sic><corr>ī</corr></choice>ṟṟirun</l>
+		<l n="15">taruḷiya</l> 
+	</lg>
+	
+	<p>	  	
+		kō-v-irā<hi rend="grantha">ja</hi>kecari-pa<choice><orig>n</orig><reg>ṉ</reg></choice>mar-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a tiripuva<choice><orig>n</orig><reg>ṉ</reg></choice>a-cakkaravarttikaḷ <hi rend="grantha">śrī</hi>-k<choice><sic>o</sic><corr>u</corr></choice>lōttuṅka-cōḻa-tēvaṟku Iyāṇtu Iraṇ
+		<lb n="6" break="no"/>ṭ-āvatu 
+	</p>
+	
+	<p>	
+		I<hi rend="grantha">rājarāja</hi>-vaḷa-nāṭṭu-p paṉaiyūr-nāṭṭu vāvalūr-nāṭṭu-t tēvatāṉam tiruvāmāttūr Āḷuṭaiya <unclear>A</unclear>ḻakiya tēvar
+		<lb n="7"/>kōyilil tiru-p-patiyam pāṭivarum kuruṭa<unclear>r</unclear>kaḷai tavi<supplied reason="omitted">r</supplied>ttu nam tēvārattu tiru-p-patiyam pāṭum poyyāta cēvaṭi tēva-kaṇāta<choice><orig>n</orig><reg>ṉ</reg></choice>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a
+		<lb n="8"/>Irā<hi rend="grantha">ja</hi><unclear>rā</unclear><hi rend="grantha">ja</hi>-p-piccaṉukkum Iva<choice><orig>n</orig><reg>ṉ</reg></choice> vaṟkattārkkum Ik-kōyiṟ tiru-p-patiya-k-kāṇi-y-ā<unclear>ṉ</unclear>a Ivv-ūr mutal-kāṇi-y-āka kuṭuttōm
+	</p>
+	
+	<p>				
+		<lb n="9"/>Iva<choice><orig>n</orig><reg>ṉ</reg></choice> vaṟkattāraiyumē-y Iṭṭu-t tiru-p-patiyam pāṭu-vittu-k koṇṭu muṉpil āṇṭukaḷ kuruṭa<supplied reason="omitted">r</supplied>kaḷukku viṭṭu varum nivanta
+		<lb n="10" break="no"/>-p-paṭi Ivarkaḷukkum viṭṭu-k kalveṭṭuka-v enṟu tiruvāymoḻintu tirumukam pira<hi rend="grantha">sā</hi>tañ ceytu vantamaiyi<choice><sic>ṟ</sic><corr>ṉ</corr></choice>		
+		I<unclear>k-kuruṭa</unclear>r <lb n="11" break="no"/>kaḷ muṉpil āṇṭukaḷ A<choice><orig>n</orig><reg>ṉ</reg></choice>upavattiṉ paṭi pāṭi varuṅ kuruṭa<supplied reason="omitted">r</supplied>kaḷ pēr pati<choice><orig>n</orig><reg>ṉ</reg></choice>aṟuvarum Ivarkaḷukku kaṇkāṭṭuvār Iruvarum Ā
+		<lb n="12" break="no"/>ka-p pēr pati<choice><orig>n</orig><reg>ṉ</reg></choice>eṇmarkku pērāl nellu patakk’ āka nāḷ oṉṟukku nellu mu-k-kalam āka nāḷ mu<choice><orig>n</orig><reg>ṉ</reg></choice>ṉūṟṟ’ aṟupatukku nellu Āyi
+		<lb n="13" break="no"/>ratt’ eṇpatiṉ kalamum puṭavai-mutalukku pērāl kācu Oṉṟ’ āka kācu pati<choice><orig>n</orig><reg>ṉ</reg></choice>eṭṭukku kācu Oṉṟukku nellu Irupati<choice><orig>n</orig><reg>ṉ</reg></choice> kalam āka va
+		<lb n="14" break="no"/>nta nellu Āyirattu nānūṟṟu nāṟpatiṉ kalattukku vēli Oṉṟukku nellu nūṟṟ’ iru	
+		<lb n="15" break="no"/>patiṉ kalam āka It-tēvar tēvatānam kaṭuva<choice><orig>n</orig><reg>ṉ</reg></choice>ūril viṭṭa nilam pa<choice><orig>nn</orig><reg>ṉṉ</reg></choice>iru vēli
+	</p>
+	
+	<p>	
+		In-nilam pa<choice><orig>nn</orig><reg>ṉṉ</reg></choice>iru vēliyum kāṇiyāka 
+		Ivv-ūr nila	
+		<lb n="16" break="no"/>ṅ kalanta paṭiyē kai-k koṇṭu It-tiru-p-patiyam pāṭuvār pēr pati<choice><orig>n</orig><reg>ṉ</reg></choice>eṇmarum muṉṟu <hi rend="grantha">sa</hi>ntiyum vantu tiru-p-patiyam	
+		<lb n="17"/>viṇṇappañ ceytu mu<choice><orig>n</orig><reg>ṉ</reg></choice>pil āṇṭukaḷ Ik-kuruṭa<supplied reason="omitted">r</supplied>kaḷ nilaṅ kai-k koṇṭu ceytu varum paṭiyē It-tiru-p-patiyam	
+		<lb n="18"/>viṇṇappañ ceyvārum ceytu vara-k-kaṭavarkaḷ āka Ip-poyyāta cēvaṭi tēvar kaṇāta<choice><orig>n</orig><reg>ṉ</reg></choice>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>-p-piccaṉukkum Iva<choice><orig>n</orig><reg>ṉ</reg></choice> vaṟ	
+		<lb n="19" break="no"/><unclear>kattārkkuṅ kāṇiyāka kuṭuttōm</unclear>
+	</p>	
+</div>
+       	
+<div type="apparatus">
+    	   
+	<!--<listApp>
+		
+		<!-\-<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:bib:SrinivasaRao1997_01">...</rdg>
+		</app>	-\->
+	
+	</listApp>    -->			
+    	
+</div>
+    	
+<div type="translation" resp="part:reda part:emfr">
+	
+	<ab n="1">
+		Prosperity! Fortune!
+	</ab>
+	
+	<p n="1-5">
+		[<foreign>meykkīrtti</foreign> of Kulōttuṅga II Cōḻa]
+	</p>
+		
+	<p n="5-6">
+		Second year of the glorious Cōḻa king Kulōttuṅga, emperor of the three worlds, <hi rend="italic">alias</hi> the king Rājakesarivarman. 	</p>
+	
+	<p n="6-8">
+		After dicontinuing <supplied reason="explanation"><foreign>tavi<supplied reason="omitted">r</supplied>ttu</foreign></supplied> <supplied reason="subaudible">the arrangement concerning</supplied> the blind people <supplied reason="explanation"><foreign>kuruṭar-kaḷ-ai</foreign></supplied> who utter <supplied reason="explanation"><foreign>pāṭivar</foreign></supplied> the holy hymns in the temple of <supplied reason="subaudible">god</supplied> Āḷuṭaiya Aḻakiyatēvar <supplied reason="subaudible">of</supplied> Tiruvāmāttūr, <supplied reason="subaudible">which is</supplied> a <foreign>tēvatāṉam</foreign>  <supplied reason="subaudible">located</supplied> in Vāvalūr-nāṭu <supplied reason="subaudible">a subdivision of</supplied> Paṉaiyūr-nāṭu <supplied reason="subaudible">a subdivision of</supplied> Irājarāja-vaḷa-nātu,
+		we have given — as <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>mutal</foreign></supplied> land rights <supplied reason="explanation"><foreign>kāṇi-y-āka</foreign></supplied> in this village, which are the land rights <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> <supplied reason="subaudible">for the recitation</supplied> of holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied> in this temple —
+		to Rājarājappiccaṉ, <foreign>alias</foreign> Poyyāta Cēvaṭi Tēvakaṉātaṉ, and his relatives <supplied reason="explanation"><foreign>vaṟkattār</foreign></supplied>,
+		who sing the holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied> in our <foreign>tēvāram</foreign><note>Note on the meaning of this term in this context.</note>.
+	</p>
+		
+	<p n="9-15">
+		Since it happened <supplied reason="explanation"><foreign>vantaimaiyil</foreign><note>Literally, “in the coming of."</note></supplied> that he<note>That is, the ruling king.</note> made the grace <supplied reason="explanation"><foreign>pira<hi rend="grantha">sā</hi>tañ ceytu</foreign></supplied> <supplied reason="subaudible">of</supplied> a royal order, gracefully proclaiming that:
+	<quote>Let it be written on stone that,
+		having appointed <supplied reason="explanation"><foreign>iṭṭu</foreign><note>Literally, “having put."</note></supplied> his relatives,
+		it is given <supplied reason="explanation"><foreign>viṭṭu</foreign><note>Literally, “leaving."</note></supplied> to them,
+		according to the agreement <supplied reason="explanation"><foreign>nivanta-p paṭi</foreign></supplied>, which gives <supplied reason="explanation"><foreign>viṭṭu</foreign><note>Literally, “leaving."</note></supplied> to blind men in previous years, having them singing holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied></quote>,
+		<list>
+			<item>so that there be sixteen persons, <supplied reason="subaudible">that is</supplied>, the blind men who <supplied reason="subaudible">used to</supplied> come singing according to what these blind enjoyed in the previous years, and two persons <supplied reason="subaudible">as</supplied> supervisors <supplied reason="explanation"><foreign>kaṇkāṭṭuvār</foreign><note>See MTL, s.v. <foreign>kaṇ-kāṭṭuvāṉ</foreign>, n., “one who leads the blind," referring to this very inscription.</note></supplied> to them,</item>
+			<item>so that there be a <foreign>patakku</foreign><note>That is, 2 <foreign>kuṟuṇi</foreign>s.</note> for the sake of <supplied reason="explanation"><foreign>pērāl</foreign><note>Literally, “in the name of."</note></supplied> eighteen persons,</item>
+			<item>so that there be three <foreign>kalam</foreign>s of paddy per day,</item>
+		</list>
+			
+		<supplied reason="subaudible">there are</supplied> one thousand eighty <foreign>kalam</foreign>s of paddy for three hundred sixty days,		
+			<list>
+				<item>so that there be one gold coin for the sake of <supplied reason="explanation"><foreign>pērāl</foreign><note>Literally, “in the name of."</note></supplied> capital for clothes <supplied reason="explanation"><foreign>puṭavai-mutal</foreign></supplied>,</item>
+				<item>so that there be twenty <foreign>kalam</foreign>s of paddy for one gold coin, <supplied reason="subaudible">that is</supplied>, for <supplied reason="subaudible">a total of</supplied> eighteen gold coins,</item>
+				<item>so that there be one hundred twenty <foreign>kalam</foreign>s of paddy per <foreign>vēli</foreign> for one thousand four hundred pots of paddy which comes <supplied reason="subaudible">as such</supplied> <supplied reason="explanation"><foreign>vanta</foreign></supplied>,</item>
+		</list>
+		
+		<supplied reason="subaudible">there are</supplied> twelve <foreign>vēli</foreign>s of land given in Kaṭuvaṉūr, <supplied reason="subaudible">which is</supplied> a <foreign>devadāna</foreign> of this god.		
+		
+	</p>
+		
+	<p n="15-19">
+		So that there be these twelve <foreign>vēlis</foreign> of land,
+		so that they become the ones who have to come <supplied reason="explanation"><foreign>ceytu vara kaṭavarkaḷ</foreign></supplied> <supplied reason="subaudible">as</supplied> those who do recitation <supplied reason="explanation"><foreign>viṇṇappam ceyvār</foreign></supplied> of these holy hymns <supplied reason="explanation"><foreign>it-tiruppatiyam</foreign></supplied>,
+		in a manner that eighteen persons, singers of this <foreign>tiruppatiyam</foreign> come,
+		having taken in hands according to the way land of this village is distributed (?) <supplied reason="explanation"><foreign>kalanta</foreign></supplied>	,	
+		coming for three <foreign>saṁdhyā</foreign>s,
+		having taken in hands the land of these blind men of the previous years, who <supplied reason="subaudible">used to</supplied> do the recitation of <foreign>tiruppatiyam</foreign>
+		we have given as land rights <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> to Rājarājappiccaṉ, <hi rend="italic">alias</hi> this Poyyāta Cēvaṭi Tēvar, and his relatives.		
+	</p>
+</div>
+            
+<!--<div type="commentary">
+    		    		
+</div>-->
+    	
+<div type="bibliography">
+    		
+	<p>
+		First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8, no. 749); encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2023), based on <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl>.
+	</p>	
+	
+	<listBibl type="primary">
+		
+		<bibl n="SR">
+			<ptr target="bib:SubrahmanyaAiyer1937_01"/>
+			<citedRange unit="page">381</citedRange>
+			<citedRange unit="item">749</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+	<listBibl type="secondary">
+				
+		<bibl>
+			<ptr target="bib:ARIE1903-1904"/>
+			<citedRange unit="page">29</citedRange>
+			<citedRange unit="appendix">A/1903</citedRange>
+			<citedRange unit="item">433</citedRange>
+		</bibl>
+		
+		<bibl>
+			<ptr target="bib:Orr2000_01"/>
+			<citedRange unit="page">TBC</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+</div>
+        </body>
+    </text>
+</TEI>
+<!--
+	east wall of first <foreign>prākāra</foreign>
+-->

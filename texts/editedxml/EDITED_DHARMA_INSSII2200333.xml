@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tirumālpuram, ruined Viṣṇu temple, time of Rājarājakesarivarman, year 10</title>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:reda">
+                  <forename>Renato</forename>
+                  <surname>Dávalos</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_INSSII2200333</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary>Endowment of 20 <foreign>kaḻañcu</foreign>s of gold. Out of the 3 <foreign>kaḻañcu</foreign>s of yearly interest from this gold, 2 are endowed for the recitation in Śrī-Govindapāṭi of the <foreign>tiruppatiyam</foreign> beginning with the phrase <foreign>kōlanaṟkuḻal</foreign>. This <foreign>tiruppatiyam</foreign> appears to have been composed by Muvēntappiṭavūr alias Kāyavāṉ Arunilai, the donor’s father.</summary>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union’s Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:reda" when="2023-10-04">Creation of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+    <body>
+       
+       
+<div type="edition" xml:lang="tam-Latn">
+          
+	<ab>
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+	</ab>
+	
+	<p>	  	
+		kāntaḷūr cālai kalam aṟutta
+		<lb n="2"/><hi rend="grantha">ko-rājarājakesari-panma</hi><supplied reason="omitted">ṟ</supplied>kku yāṇṭu <num value="10"><g type="numeral">10</g></num>~<!--update encoding of dash in the original-->tt-āvatu	
+	</p>
+	
+	<p>	
+		tāma<gap reason="lost" quantity="7" unit="character"/>
+		<lb n="3" break="no"/>tu tāmar-<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu <hi rend="grantha">śrī-go</hi>vin=ta-pāṭi-puṟattu vēḷkaḷa-veṇpā<supplied reason="lost">kkatt’ ū</supplied>
+		<lb n="4" break="no"/>rōṅ kai-y Eḻut=tu
+	</p>
+	<p>
+		cōḻa-<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu vaṭa-karai-p-piṭavūr-nāṭṭu-k kaṇakku <gap reason="lost" quantity="3" unit="character"/><supplied reason="lost">u</supplied>
+		<lb n="5" break="no"/>ṭaiyāṉ Arunilai <hi rend="grantha">śrī-<unclear>kṛ</unclear>ṣṇa</hi>ṉ-āṉa muvēn=ta-p-piṭavūr vē
+		<lb n="6" break="no"/>ḷār kaiyāl yāṅkaḷ koṇṭu kaṭava cempoṉ ta<hi rend="grantha">nma</hi>-ka
+		<lb n="7" break="no"/>ṭṭaḷaiyāl tuḷai <num value="20"> 2 <g type="numeral">10</g></num> Ip-poṉ koṇṭa paric’ āvatu 
+	</p>
+	<p>		
+		
+		<lb n="8"/>Iv-āṭṭai puraṭṭāti mutal kaḻañci<choice><orig>n</orig><reg>ṉ</reg></choice> vā<supplied reason="omitted">y</supplied> tiṅkaḷ iraṇṭum-ā-p policaiyāl ōr āṭ
+		<lb n="9" break="no"/>ṭaikku van=ta po<choice><orig>n</orig><reg>ṉ</reg></choice> 3 {kaḻañcu}<!--symbol, most probably for kaḻañcu; update encoding, although looks similar to mummākāṇi-->
+	</p>
+	
+	<p>
+		Ip-poṉṉil ivar tam appaṉār kāyāvā<choice><orig>n</orig><reg>ṉ</reg></choice> aru<choice><orig>ṉ</orig><reg>n</reg></choice>i<supplied reason="omitted">lai</supplied>-y-ā
+		<lb n="10" break="no"/>ṉa muvēn=ta-p-piṭavūr vēḷār <hi rend="grantha">śrī-go</hi>vin=ta-pāṭi Āḻvāṉ viṇṇappam ce<supplied reason="omitted">yta</supplied>
+		<lb n="11"/>kōlanaṟkuḻal E<choice><orig>ṉ</orig><reg>ṉṉ</reg></choice>um tiruppatiyam Iv-āḷvār tiru-viḻāviṉ Eḻā <choice><orig>ṉ</orig><reg>n</reg></choice>āḷāl<gap reason="lost" quantity="2" unit="character"/>
+		<lb n="12" break="no"/>ṭi-y āṭiṉa pari<hi rend="grantha">dai</hi>-nāyakaṉmārkku Iru-kaḻañcuṅ kēṭppi<choice><orig>cc</orig><reg>tt</reg></choice>a kōyil nampimārkku
+		<lb n="13"/>kaḻañcum Āka policai mu-k-kaḻañcu po<supplied reason="omitted">ṉ</supplied>ṉum <hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>antrāditta</hi>val Āṭṭāṇṭu toṟum ā
+		<lb n="14" break="no"/>ḷvār <hi rend="grantha">śrī-kārya</hi>ñ ceykiṉṟa nampimārē taṇṭi Iṭu<unclear>vi</unclear>ppat’ āka<unclear>vum</unclear>
+		</p>
+	
+		<p>
+		Iṭōm ākil
+		<lb n="15"/>tiruvāṇai maṟaiyum paṭṭu tēvaka<hi rend="grantha">nmi</hi>kaḷ tāṅkaḷ ve<gap reason="lost" quantity="4" unit="character"/>ttil tāṅkaḷ vēṇ<unclear>ṭu</unclear><gap reason="lost" quantity="3" unit="character"/>
+		<lb n="16"/>taṇṭam iṭa-p peṟuvārkaḷ ākavu<choice><orig>mm</orig><reg>m</reg></choice>
+	</p>
+	<p>
+		ivarkaḷ iṭṭa taṇṭam iṟuttum I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ivantam ip-paṭi
+		<lb n="17"/>Iṭa-k kaṭavōm ākavum
+	</p>
+	<p>
+		Ip-paric’ ōṭṭi Iṭṭu-k kuṭuttō muvēnta-p-piṭavūr veḷārkku
+		<lb n="18"/>vēḷka<supplied reason="omitted">ḷa</supplied>-veṇpākkat=t’ ūrōm 
+	</p>
+	
+	<p>
+		Ūrār paṇikka I-<hi rend="grantha">śilā</hi>-lēkai veṭṭiṉēṉ
+		<lb n="19"/>Āṟaiyāṉ <hi rend="grantha">śrī-go</hi>vin=ta-pāṭi ācāriya<choice><orig>n</orig><reg>ṉ</reg></choice>-ēṉ
+	</p>
+	<p>		
+		Ivai-y eṉ eḻuttu
+	</p>
+	
+	<p>
+		I
+		<lb n="20" break="no"/>tu <hi rend="grantha">śrī-vaiṣṇa</hi>var<hi rend="grantha"><surplus>r</surplus> irakṣai</hi>	
+	</p>
+
+	
+</div>
+       	
+<div type="apparatus">
+    	   
+	<listApp>
+		
+		<!--<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:bib:SrinivasaRao1997_01">...</rdg>
+		</app>	-->
+		
+		<app loc="3">
+			<lem>vēḷkaḷa-veṇpā<supplied reason="lost">kkatt’ ū</supplied><lb n="4" break="no"/>rōṅ</lem>
+			<rdg source="bib:SrinivasaRao1997_01">veḷkaḷa veṇpā <gap reason="lost" quantity="4" unit="character"/><lb n="4" break="no"/>roṅ</rdg>
+		</app>	
+		
+		<app loc="4">
+			<lem><gap reason="lost" quantity="3" unit="character"/><supplied reason="lost">u</supplied><lb n="5" break="no"/>ṭaiyāṉ</lem>
+			<rdg source="bib:SrinivasaRao1997_01"><gap reason="lost" quantity="4" unit="character"/><lb n="5" break="no"/>ṭaiyāṉ</rdg>
+		</app>	
+		
+		<app loc="10">
+			<lem>viṇṇappam ce<supplied reason="omitted">yta</supplied><lb n="11"/>kōlanaṟkuḻal</lem>
+			<rdg source="bib:SrinivasaRao1997_01">viṇṇappam ce<lb n="11" break="no"/>kolanaṟkuḻal</rdg>
+		</app>	
+		
+		<app loc="19">
+			<lem>Āṟaiyāṉ</lem>
+			<rdg source="bib:SrinivasaRao1997_01">Āṟaiyāṉa</rdg>
+		</app>
+	
+	</listApp>    			
+    	
+</div>
+    	
+<div type="translation" resp="part:reda part:emfr">
+	
+	<ab n="1">
+		Prosperity! Fortune!
+	</ab>
+	
+	<p n="1-2">
+		10th year of the king Rājarājakesarivarman, who apportioned pots in Kāntaḷūr-cālai. 
+	</p>
+		
+	<p n="2-4">
+		<supplied reason="subaudible">This is</supplied> the hand-writing of We, the villagers from Vēḷkaḷa-veṇpākkam, in the vicinity <supplied reason="explanation"><foreign>puṟam</foreign><note>Alternatively: “from Vēḷkaḷa-veṇpākkam, in the tax-free land <supplied reason="explanation"><foreign>puṟam</foreign></supplied> of Govintapāṭi."</note></supplied> of the glorious Govintapāṭi in Tāmar-nāṭu.
+	</p>
+	
+	<p n="4-7">
+		This is the manner in which, we, having received <supplied reason="subaudible">it</supplied> from the hand <supplied reason="subaudible">of</supplied> Muvēnta Piṭavūr Vēḷār <hi rend="italic">alias</hi> <gap reason="lost"/>-uṭaiyaṉ Arunilai Śrīkṛṣṇaṉ, the accountant of Piṭavūr-nāṭu, on the northern bank, in the Cōḻa-nāṭu, received these 20 gold <supplied reason="subaudible">coins</supplied> of superior quality <supplied reason="explanation"><foreign>tuḷai</foreign></supplied> <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>kaṭava cempoṉ ta<hi rend="grantha">nma</hi>-kaṭṭaḷaiyāl</foreign></supplied>.
+	</p>	
+	
+	<p n="7-9">
+		From <supplied reason="subaudible">the month of</supplied> Puraṭṭāti of this year, <supplied reason="subaudible">there are</supplied> 3 <foreign>kaḻañcu</foreign>s of gold coming each year as interest, <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>kaḻañci<choice><orig>n</orig><reg>ṉ</reg></choice> vā<supplied reason="omitted">y</supplied> tiṅkaḷ iraṇṭum-ā</foreign></supplied>.	
+		
+	</p>
+	
+	<p n="9-12">	
+		Let the priests <supplied reason="explanation"><foreign>nampimār</foreign></supplied>, who do the daily sacred services <supplied reason="explanation"><foreign>śrīkāryam ceykiṉṟa</foreign></supplied> for the Lord  be appointed as collectors <supplied reason="explanation"><foreign>taṇṭi iṭuvippatu</foreign></supplied>. Every year, the interest of three <foreign>kaḻañcu</foreign>s of gold so that there be:
+		<list>
+			<item>two <foreign>kaḻañcu</foreign>s for the leaders of the assembly <supplied reason="explanation"><foreign>paridai nāyakaṉmār</foreign></supplied>, who sing <supplied reason="explanation"><foreign>āṭiṉa</foreign></supplied>, on the seventh day of the holy festival for this God, the holy hymn <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied> that begins with <foreign>kōlanaṟkuḻal</foreign> and that Muvēnta Piṭavūr Vēḷār <hi rend="italic">alias</hi> Kāyāvāṉ Arunilai, his father <supplied reason="explanation"><foreign>ivar tam appaṉār</foreign><note>That is, Kāyāvāṉ Arunilai is the father of the donor Arunilai Śrīkṛṣṇaṉ.</note></supplied>, composed <supplied reason="explanation"><foreign>viṇṇapam ceyta</foreign></supplied> <supplied reason="subaudible">in honour of</supplied> the Lord <supplied reason="explanation"><foreign>āḻvāṉ</foreign></supplied> of holy Govintapāṭi,</item> 
+		
+			<item>and a <foreign>kaḻañcu</foreign> for the priests of the temple <supplied reason="explanation"><foreign>kōyil nampimār</foreign></supplied>, who commissioned <supplied reason="explanation"><foreign>kēṭppitta</foreign></supplied> it.
+			</item>	
+		
+		</list>
+	</p>	
+	
+	<p n="14-16">
+		If we appoint <supplied reason="subaudible">them</supplied>, let them be entitled to impose a fine <supplied reason="explanation"><foreign>taṇṭam</foreign></supplied> <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>tiruvāṇai maṟaiyum paṭṭu tēvaka<hi rend="grantha">nmi</hi>kaḷ</foreign></supplied> <gap reason="ellipsis"/>.
+	</p>
+		
+	<p n="16-17">
+		Let us have the duty <supplied reason="explanation"><foreign>kaṭavōm</foreign></supplied> of enforcing in this manner this agreement   <supplied reason="explanation"><foreign>nivantam</foreign></supplied> that covers the fine <supplied reason="explanation"><foreign>taṇṭam</foreign></supplied> imposed by them.
+	</p>
+	
+	<p n="17-18">
+		Having agreed in this manner, We, the villagers of Vēḷkaḷa-Veṇpākkam, gave for the sake of Muvēnta Piṭavūr Vēḷār. 
+	</p>
+	
+	<p n="18-19">
+		I, Āṟaiyāṉ, the preceptor from holy Govintapāṭi, I have engraved this stone inscription, as enjoined by the villagers.
+	</p>
+	
+	<p n="19">
+		These are my writings.
+	</p>
+	
+	<p n="19-20">
+		This is <supplied reason="subaudible">under</supplied> the protection of the holy Vaiṣṇavas.
+	</p>
+</div>
+            
+<!--<div type="commentary">
+    		
+    		
+</div>-->
+    	
+<div type="bibliography">
+    		
+	<p>
+		First edited in <bibl><ptr target="bib:SrinivasaRao1997_01"/></bibl> (SII 22, no. 333); encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2023), based on <bibl><ptr target="bib:SrinivasaRao1997_01"/></bibl>.
+	</p>	
+	
+	<p>Translated here for DHARMA (ERC n° 809994) by Renato Davalos and  Emmanuel Francis.</p>
+	
+	<listBibl type="primary">
+		
+		<bibl n="SR">
+			<ptr target="bib:SrinivasaRao1997_01"/>
+			<citedRange unit="page">270-271</citedRange>
+			<citedRange unit="item">333</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+	<listBibl type="secondary">
+				
+		<bibl>
+			<ptr target="bib:ARIE1906-1907"/>
+			<citedRange unit="page">28</citedRange>
+			<citedRange unit="appendix">B/1906</citedRange>
+			<citedRange unit="item">333</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+</div>
+        </body>
+    </text>
+</TEI>
+<!--METADATA:
+Rājarājakesarivarman = Rājarāja I Cōḻa-->
+<!--
+	Translation (version 1 by Renato)
+	
+Prosperity! Fortune! 
+In the tenth year of the king Rājarāja-kesari-panmaṉ, who apportioned pots in Kāntaḷūr-cālai. 
+This is the handwriting of the villagers from Vēḷkaḷa-veṇpākkam, next to holy Govintapāṭi in Tāmar-nāṭu[…].The account regarding Piṭavūr-nāṭu, on the northern border of Cōḻa-nāṭu, [is the following:] 
+This year, the received gift was this 20 marked (tuḷai) gold [coins] because of the endowment order for [this] quality gold under our responsability, fixed by (kaiyāl) Arunilai Śrīkṛṣṇaṉ, alias Muvēnta Piṭavūr, owner of […]. 
+Three kaḻañcus of gold came each year through interest, being that the first [of them came] in the month of Puraṭṭāti, the second [through] monthly [interest], and one through annual interest. 
+Let the trustees–in charge of the temple (śrīkāryam ceykiṉṟa) of the Lord [which will] every year as long as the sun and the moon last–be appointed as collectors (taṇṭi) of the interest of three kaḻañcus of gold so that one kaḻañcu is for the heads of the temple (kōyil nampimār), to which they dedicated (kēṭppitta) the holy hymn, and two kaḻañcus for the leaders of the assembly (paridai nāyakaṉmār), who performed (āṭiṉa)–on the seventh day of the holy festival–the holy hymn (tiruppatiyam) that begins with kōlanaṟkuḻal, composed(viṇṇapam ceyta) by the devotee (āḻvāṉ) of holy Govintapāṭi, Kāyāvāṉ Arunilai, alias Muvēnta Piṭavūr Vēḷār, donor (appaṉār) of this gold. 
+If we appoint [them], let them be the chosen for receiving the tax[…], needed for You[…], the temple managers that, by royal order, keep them hidden. 
+May we become the designated duty bearers (kaṭavōm) of this allowance (nivantam) that covers the tax (taṇṇtam) imposed by them. 
+We, the villagers of Vēḷkaḷa-Veṇpākkam, gave to Muvēnta Piṭavūr Vēḷār [this endowment] after agreeing in this way. 
+I am the master of Āṟaiyaṉ of holy Govintapāṭi, the one who has handwritten in the stone, as indicated by the villagers. It is my writing. 
+This is for the protection of the holy vaiṣṇavas. 
+-->

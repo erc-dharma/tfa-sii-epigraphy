@@ -8,8 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tirukkōṭikkāval, Tirukkōṭīśvara Temple, time of Uttamacōḻa, year 11
-					(1)</title>
+            <title>Tirukkōṭikkāval, Tirukkōṭīśvara Temple, time of Uttamacōḻa, year 11 (1)</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:vagi">
@@ -96,13 +95,13 @@
                <lb n="1"/><hi rend="grantha">svasti śrī</hi>
             </p>
             <p>
-            <lb n="1"/>kōppa<supplied reason="lost">rakēcaripaṉ<hi rend="grantha">ma</hi>kku yāṇṭu <num value="11"><g type="numeral">10</g>1</num></supplied> Āvatu vaṭakarai nallāṟṟūrnāṭṭu tirukkō<supplied reason="lost">ṭikāvil <hi rend="grantha">mahā</hi></supplied><hi rend="grantha">de</hi>varkku <hi rend="grantha">śrī</hi> Uttamacōḻa<hi rend="grantha">de</hi><supplied reason="lost">varai tiruvayiṟu vāytta ma</supplied>ḻavaraiyar makiḷār
+            <lb n="1"/>kōppa<supplied reason="lost">rakēcaripaṉ<hi rend="grantha">ma</hi>kku yāṇṭu <num value="11">101</num></supplied> Āvatu vaṭakarai nallāṟṟūrnāṭṭu tirukkō<supplied reason="lost">ṭikāvil <hi rend="grantha">mahā</hi></supplied><hi rend="grantha">de</hi>varkku <hi rend="grantha">śrī</hi> Uttamacōḻa<hi rend="grantha">de</hi><supplied reason="lost">varai tiruvayiṟu vāytta ma</supplied>ḻavaraiyar makiḷār
             <lb n="2"/><choice><sic>prā</sic><corr>pirā</corr></choice>ntaka<supplied reason="lost">ṉ <hi rend="grantha">mā</hi>tēvaṭikaḷār-āna cem</supplied>piyan <hi rend="grantha"><choice><sic>māha</sic><corr>mahā</corr></choice>de</hi>viyār I<hi rend="grantha">dde</hi>varkku muṉ<surplus>ṉ</surplus> iṭṭikai<supplied reason="lost">p paṭaiyāluḷḷa <hi rend="grantha">śrī</hi></supplied>kōyilait tavirttu kallālē <supplied reason="lost"><hi rend="grantha">śrī</hi> vimāṉam amaippi</supplied>tu I<hi rend="grantha">de</hi>varuṭaiya
              <lb n="3"/>paṭikaḷ muṉpu <hi rend="grantha">dharmma</hi>ttukku <unclear>v</unclear>ai<unclear>t</unclear>tu kaṟkaḷil veṭṭik kiṭanta Avai vevvēṟu kallāl palav iṭattilāyk kiṭanta Avai Ēllām Inta <hi rend="grantha">śrī</hi> vimāṉattiṉ mēl muṉ <gap reason="lost" extent="unknown" unit="character"/>
              <lb n="4"/>Ēṟa veṭṭikkoḷka Eṉṟu Aruḷicey veṭṭiṉapaṭi muṉ kiṭanta paṭikaḷil Itu Oru paṭi <persName>kōmāṟañcaṭaiyaṟku</persName> yāṇṭu <num>4</num> Āvatiṉ etir Oṉpat’ āvatu Ā <gap reason="lost" extent="unknown" unit="character"/>
              <lb n="5" break="no"/>rukkoṭikāvil <hi rend="grantha">mahāde</hi>varkku nontāviḷakkiṉukku <supplied reason="lost">vara</supplied> <gap reason="lost" quantity="15" unit="character" precision="low"/> <hi rend="grantha">ja</hi>r kuṭutta poṉ ṉūṟṟirupatiṉ <gap reason="lost" quantity="3" unit="character" precision="low"/> <supplied reason="lost">Ippo</supplied>ṉ <hi rend="grantha">mahendra</hi>koṭṭūr <hi rend="grantha">sabhai</hi>yoṅ <gap reason="lost" extent="unknown" unit="character"/>
              <lb n="6" break="no"/>licaiyāl nicatam nāḻi ney <hi rend="grantha">rāja</hi>māttāṇṭaṉukku <hi rend="grantha">śrī</hi><unclear>kō</unclear> <gap reason="lost" quantity="5" unit="character" precision="low"/> <unclear>ko</unclear>ṇṭu ceṉṟu tirukkōyiluṭaiyār <gap reason="lost" quantity="6" unit="character" precision="low"/> kuṭuppōmāṉōm <hi rend="grantha">mahendra</hi>koṭṭūr <hi rend="grantha">sabhai</hi> <gap reason="lost" extent="unknown" unit="character"/>
-             <lb n="7"/><g/> Inta <hi rend="grantha">śrī</hi> vimāṉattilē Ēṟa veṭṭinamaiyil muṉṉivvā<hi rend="grantha">ja</hi>kam veṭṭi kiṭanta taṉik<unclear>kallāl</unclear> <hi rend="grantha"><supplied reason="lost">U</supplied>paiyogam</hi> Illāmaiyil Atu tavirntatu
+             <lb n="7"/>Inta <hi rend="grantha">śrī</hi> vimāṉattilē Ēṟa veṭṭinamaiyil muṉṉivvā<hi rend="grantha">ja</hi>kam veṭṭi kiṭanta taṉik<unclear>kallāl</unclear> <hi rend="grantha"><supplied reason="lost">U</supplied>paiyogam</hi> Illāmaiyil Atu tavirntatu
             </p>
          </div>
 
@@ -157,9 +156,7 @@
                   <rdg source="bib:SrinivasaRao1967_01">U</rdg>
                    <note>this letter is no longer legible</note> 
                </app>
-               
-               
-               
+                                            
             </listApp>
             
          </div>

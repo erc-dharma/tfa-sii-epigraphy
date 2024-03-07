@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Śrīraṅgam, Raṅganātha temple, time of Kulottuṅga Cōḻa, year 5</title>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:reda">
+                  <forename>Renato</forename>
+                  <surname>Dávalos</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_INSSII0400508</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary>Reciters of Tiruvāymoḻi
+				  </summary>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union’s Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:reda" when="2023-10-04">Creation of the file on the repository</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+    <body>
+       
+       
+<div type="edition" xml:lang="tam-Latn">
+          
+	<ab>
+		<lb n="1"/><supplied reason="lost"><hi rend="grantha">svasti śrī</hi> <g type="pc">.</g></supplied>
+	</ab>
+	
+	<lg n="1" met="āciriyappā">
+		
+		<l n="1">pukaḻmātu viḷa<unclear>ṅ</unclear>ka <hi rend="grantha">ja</hi>yamātu virumpa</l>
+		<l n="2"> nilamakaḷ vaḷara <unclear>ma</unclear>larmakaḷ puṇara</l>
+		<l n="3">Urimaiyiṟ ciṟan=ta maṇimuṭi cūṭi</l>
+		<l n="4">mīṉavar nilaikeṭa villavar kulaitara</l>
+		<l n="5">vikkala<unclear>ñ</unclear> ciṅkaṇa<choice><orig>n</orig><reg>ṉ</reg></choice> melkaṭal <unclear>pāya</unclear>-t</l>
+		<l n="6">tikkaṉaittil un=ta<choice><orig>n</orig><reg>ñ</reg></choice> cakkara<unclear>m na</unclear>ṭātti</l>
+		<l n="7"><unclear>vīra</unclear><hi rend="grantha">-<unclear>siṁ</unclear>hāsa</hi><choice><orig>n</orig><reg>ṉ</reg></choice>attu</l>
+		<l n="8">puva<choice><orig>n</orig><reg>ṉ</reg></choice>a-muḻutuṭaiyāḷoṭu <lb n="3"/>viṟṟirunt’ aruḷiya</l>
+		
+	</lg>
+	
+	<p>	  	
+		k<unclear>ō</unclear>-v-i<hi rend="grantha">rāja</hi>-kē<hi rend="grantha">sari-vanmar-ā</hi><choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">cakra</hi>varttikaḷ <hi rend="grantha">śrī</hi>-k<choice><sic>o</sic><corr>u</corr></choice>lōttuṅka-<unclear>cōḻa</unclear>-tēvaṟku yāṇṭu pati<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">ai</hi>ñc-āvatu <g type="pc">.</g> 
+	</p>
+	
+	<p>
+		pāṇṭi
+		<lb n="4"/>kulāca<choice><orig>n</orig><reg>ṉ</reg></choice>i-viḷānāṭṭu tiruvaraṅkatt-āḻvā<choice><orig>n</orig><reg>ṉ</reg></choice> kōyilil nivantakkāṟaril <unclear>vaṅkippurattu</unclear> <gap reason="lost" quantity="4" unit="character"/> tiruvaraṅkattu nampiyum
+		<lb n="5"/>iva<choice><orig>n</orig><reg>ṉ</reg></choice> maka<choice><orig>n</orig><reg>ṉ</reg></choice> ma<choice><orig>nn</orig><reg>ṉṉ</reg></choice>aṉ tiruvaraṅ<supplied reason="omitted">ka</supplied>-nampiyum ma<choice><orig>nn</orig><reg>ṉṉ</reg></choice>aṉ veṇ<unclear>ṇai</unclear>kkūtta<choice><orig>n</orig><reg>ṉ</reg></choice>-āna tirukkaṇṇāpuratt-araiyarum ma<choice><orig>nn</orig><reg>ṉṉ</reg></choice>aṉ tiruviṇṇakar nampiyum
+		<lb n="6"/>ma<choice><orig>nn</orig><reg>ṉṉ</reg></choice>a<choice><orig>ṉ</orig><reg>n</reg></choice> tirun<unclear>āṭṭu</unclear> nampiyum Āka Ivv-a<unclear>ṉai</unclear><unclear>v</unclear>ōm
+		Aru<unclear>mo</unclear>ḻitēva-vaḷanāṭṭu ne<unclear>mmali</unclear>-nāṭṭu koṭṭ<choice><orig>u</orig><reg>ū</reg></choice>r koṭṭ<choice><orig>u</orig><reg>ū</reg></choice>r-uṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> Āyarkoḻun
+		<lb n="7" break="no"/>tu cakkara-pāṇi-y-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">se</hi>nāpatikaḷ v<choice><sic>i</sic><corr>ī</corr></choice>racoḻa<unclear>mu</unclear>ṉaiyat-araiyar<unclear>kku</unclear> nāṅkaḷ kaitt<choice><orig>i</orig><reg>ī</reg></choice>ṭṭu-k kuṭutta paric-āvatu
+	</p>
+	
+	<p>
+		Ik-kōyililē-y Āḻvā<choice><orig>n</orig><reg>ṉ</reg></choice>ukku tiru	
+		<lb n="8" break="no"/>ppaḷḷi-Eḻucci tiruvāymoḻi vi<unclear>ṇ</unclear>ṇappam ceyya-k-kaṭa<unclear>vō</unclear>m āka 
+		
+		Ivar pakkal nāṇkaḷ koṇṭa cempon aimpati<choice><orig>n</orig><reg>ṅ</reg></choice> kaḻañcu 
+	</p>
+	<p>
+		Ip-pon ai
+		<lb n="9" break="no"/>mpati<choice><orig>n</orig><reg>ṅ</reg></choice> kaḻañcu<unclear>ṅ</unclear> koṇṭu <gap reason="lost" unit="character" quantity="6"/> keraḷāntaka-vaḷanāṭṭu Uṟaiyūr-k-kūṟṟattu <hi rend="grantha">bra</hi><choice><sic>m<hi rend="grantha">ha</hi></sic><corr><hi rend="grantha">h</hi>ma</corr></choice>tēyam <hi rend="grantha">rājāśrī</hi>ya-c-caruppēti-maṅkalattu nila
+		<lb n="10" break="no"/>ttilē patinālān= tarattilē-y nilaṅ koṇṭu Irupatā<choice><orig>n</orig><reg>ṉ</reg></choice> tarattilē-y taram Iḻicci Iṟai-y iṟuttu Ittāl vanta virutti <gap quantity="10" unit="character" reason="lost"/>
+		<lb n="11"/>kavum
+	</p>
+	<p>
+		cantirā <gap reason="lost" unit="character" quantity="11"/> tiruppaḷḷi-Eḻucci-t tiruvāymoḻi viṇṇappañ ceyya-k-kāṭa<unclear>vōm āka</unclear> 
+		<gap quantity="4" unit="character" reason="lost"/><supplied reason="lost" cert="low">viṇṇap</supplied>
+		<lb n="12"/>pañ <supplied reason="lost">ceyya-k-kāṭavōm āka</supplied>
+		pati<choice><orig>n</orig><reg>ṉ</reg></choice>eṭṭu nāṭṭu <hi rend="grantha">śrī</hi>-vayi<hi rend="grantha">ṣṇa</hi>varkaḷē-y taṅkaḷukk’ eṟi<choice><orig>n</orig><reg>ṉ</reg></choice>a taṇṭaṅ koṇṭum viṇṇappam ceyvikka <unclear>kaṭavō</unclear>m āka <hi rend="grantha">sa</hi><gap extent="unknown" unit="character" reason="lost"/>.
+	</p>		
+	
+</div>
+       	
+<div type="apparatus">
+    	   
+	<listApp>
+		
+		<app loc="1">
+			<lem><supplied reason="lost"><hi rend="grantha">svasti śrī</hi> <g type="pc">.</g></supplied></lem>
+			<rdg source="bib:KrishnaSastri1923_01"/>
+			<note>Restoring these initial blessings seems unnecessary</note>
+		</app>	
+		
+		<app loc="3">
+			<lem>k<unclear>ō</unclear>°</lem>
+			<note>The <foreign>kompu</foreign> only is unclear.</note>
+		</app>
+		
+		<app loc="6">
+			<lem>aru<unclear>mo</unclear>ḻitēva</lem>
+			<note>The <foreign>kompu</foreign> in <foreign>mo</foreign> is clear.</note>
+		</app>
+		
+	</listApp>    			
+    	
+</div>
+    	
+<div type="translation" resp="part:reda part=emfr">
+	
+	<ab n="1">
+		Prosperity! Fortune!
+	</ab>
+	
+	<p n="1-7">
+		This is the manner in which we have given a document  ...
+	</p>
+	
+	<p n="7-8">
+		So that we become ...
+		the fine gold that we took from him <supplied reason="subaudible">is</supplied> fifteen <foreign>kaḻañcu</foreign>s.
+		...
+	</p>
+		
+	<p n="8-11">
+		With this gold ...
+		with a land in the fourtheenth <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>taram</foreign></supplied> ...
+	</p>
+	
+	<p n="11-12">
+		...
+	</p>
+	
+	
+</div>
+            
+<!--<div type="commentary">
+    		
+    		
+</div>-->
+    	
+<div type="bibliography">
+    		
+	<p>
+		First edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4, no. 508); encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2023), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>.
+	</p>	
+	
+	<listBibl type="primary">
+		
+		<bibl n="KS">
+			<ptr target="bib:KrishnaSastri1923_01"/>
+			<citedRange unit="page">146-147</citedRange>
+			<citedRange unit="item">508</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+	<listBibl type="secondary">
+				
+		<bibl>
+			<ptr target="bib:ARIE1891-1892"/>
+			<citedRange unit="page">16</citedRange>
+			<citedRange unit="appendix">1892</citedRange>
+			<citedRange unit="item">61</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+</div>
+        </body>
+    </text>
+</TEI>
+<!--
+	METADATA:
+	east wall of third <foreign>prākāra</foreign></title>
+-->

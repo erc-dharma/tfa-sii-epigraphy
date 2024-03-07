@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kōvintaputtūr, Gaṅgājaṭādhara Temple, time of Uttamacōḻa, no year</title>
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <persName ref="part:reda">
+                  <forename>Renato</forename>
+                  <surname>Davalos</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:vagi">
+                  <forename>Valérie</forename>
+                  <surname>Gillet</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris, CEIAS</pubPlace>
+            <idno type="filename">DHARMA_INSSII1900357-2</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Emmanuel Francis &amp; Valérie Gillet.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC)
+					under the European Union’s Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the
+							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:emfr" when="2020-11-13" status="draft">Creation of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+      
+      
+      <body>
+         
+<div type="edition">
+	
+	<p>
+		<lb n="1"/><milestone type="pagelike" unit="zone" n="1"/>I-neṭuvāyilum neṭuvāyil cuṟṟiṉa paṭākai
+		<lb n="2" break="no"/>kaḷum mittevakku Iṟukka kaṭava Iṟai I<hi rend="grantha">śrī</hi> koyiṟkāl Ūrkkāl paḻuvūr nakkaṉṉāl
+		<lb n="3" break="no"/>tirumuṟṟattu Aḷakkakaṭa<unclear>va</unclear> nelluvālli ne<gap quantity="1" reason="lost" unit="character"/>kaṟ <gap unit="character" reason="lost" quantity="3"/><unclear>ṟ</unclear>cettal nikki kūṭṭal <unclear>vetu</unclear>m mā<choice><unclear>cu</unclear><unclear>ta</unclear></choice>
+		<lb n="4"/><unclear>ṉ</unclear> Aṭṭakava nellu Āyira-k kalammu tuḷai kaḻaiñ<unclear>cu</unclear> <gap quantity="1" reason="lost" unit="character"/><choice><unclear>po</unclear><unclear>ṉa</unclear></choice>tta poṉ kācu niṟaikkal<unclear>lā</unclear><supplied reason="lost">l</supplied>
+		<lb n="5"/>poṉ nuṟṟu-k kaḻaicum taṟippuṭavai Oṉṟu kāl-p poṉ peṟuvaṉa p<unclear>u</unclear>ṭavai paṉniraṇṭum
+		<lb n="6"/>neyi Eṇṇai mukkalam ko<unclear>llar</unclear> U<unclear>lai</unclear><unclear>p</unclear>pāṭṭam <choice><unclear>I</unclear><unclear>O</unclear></choice>rupu Āya<unclear>r</unclear>ppalam neṭuvāyil vata<gap reason="lost" unit="character" quantity="1"/> A<choice><unclear>ṭu</unclear><unclear>i</unclear></choice>ttu
+		<lb n="7" break="no"/>kku <unclear>ni</unclear><hi rend="grantha">bedha</hi> ceyitapaṭi civayogi <hi rend="grantha">brāhma</hi>ṇa<unclear>r</unclear> <unclear>mu</unclear>ppatiṉ<unclear>marum</unclear> <hi rend="grantha">brā</hi><supplied reason="lost"><hi rend="grantha">hma</hi></supplied><unclear>ṇar</unclear> I<unclear>ru</unclear>patiṉ marum Aka <unclear>Ai</unclear>ypatiṉma<unclear>ṟ</unclear>kku Oruvaṉukku nica
+		<lb n="8"/>tam Arici Irunāḻiyāka Irunāḻikku nellu Aināḻiyāka Aim<supplied reason="lost">p</supplied>patiṉmaṟku nicatam nellu <unclear>Iru</unclear>kalaṉe Eḻuku<supplied reason="lost">ṟuṇi</supplied> Iru nāḻi
+		<lb n="9" break="no"/>yum neyamuṉṉāḻi Āḻākkukku n<unclear>e</unclear>y nāḻikku <unclear>ne</unclear>llu tūṇiyā<supplied reason="lost">ka Im</supplied>muṉṉāḻi Āḻākkukku nicatam nellu <supplied reason="lost">kala</supplied>ṉē n<supplied reason="lost">ā</supplied>
+		<!--Add on apparatus:(9/49) The is a line engraved on the pilaster between the lines 50 and 51: brāmaṇar ˚irupatu. See photo “DSC_8999”.-->
+		<lb n="10"/>ṉāḻiyum ta<unclear>ṟi</unclear>kku nellu tūṇiyam <supplied reason="lost">puḷi</supplied><unclear>ṅkaṟi</unclear>yaṭa<unclear>mo</unclear>rukku nellu-k kuṟuṇiyu<unclear>m</unclear> Aṭṭiyu<unclear>ṇṇa</unclear>morukku nellu <supplied reason="lost">pa</supplied>takku
+		<lb n="11"/><milestone type="pagelike" unit="zone" n="2"/>U<supplied reason="lost">ppa</supplied> <unclear>nā</unclear>ḻikku nellu nāḻi Uḻakkāka Uppu Aiynāḻikku nellu Aṟunāḻi Uḻakkum veṟṟillaip paṟṟu Oṉṟiṉukku <unclear>ne</unclear>l
+		<!--I left this as a different zone since the docx seems to take this line written on the ledge as being in a diff. place from the following lines. -->
+		<lb n="12" break="no"/><milestone type="pagelike" unit="zone" n="3"/><supplied reason="lost">lu</supplied> Irunāḻi<unclear>yāka veṟṟillai</unclear>-p paṟṟu <supplied reason="lost">muṉ</supplied><unclear>ṟi</unclear><supplied reason="lost">ṉu</supplied>kku nellu Aṟu<supplied reason="lost">nā</supplied><unclear>ḻi</unclear><supplied reason="lost">yum</supplied><unclear>veṟuṅkkāy</unclear> nāḻi <unclear>nellu</unclear>kku patakāka veṟuṅkāy nāṟukku nel
+		<lb n="13" break="no"/>lu <unclear>patiṉ</unclear> nāḻiy<unclear>um</unclear> <supplied reason="lost">Āka nicatam</supplied> <unclear>nellu</unclear> <supplied reason="lost">nāṟkalaṉe nāṟkalaṉe Ai</supplied>y kuṟu<unclear>ṇi</unclear> <supplied reason="lost">nāṉāḻi Uḻakkāka Orāṭṭaināḷi</supplied>kku nellu Āyirattaṟu nūṟṟu Ai
+		<lb n="14"/><unclear>kalaṉē</unclear> Iru tūṇi mu<unclear>kku</unclear><supplied reason="lost">ṟu</supplied><unclear>ṇi</unclear> Irunāḻiya<unclear>m</unclear> viṟakiṭuvāṉ ṉoruva<supplied reason="lost">ṉu</supplied>kku nicatam ne<supplied reason="lost">l</supplied>lukku <supplied reason="lost">kuṟuṇiyum ˚aṭuvāṉ ṉoruvaṉukku</supplied> nicatam nelluk kuṟu<supplied reason="lost">ṇi</supplied>
+		<lb n="15" break="no"/>yum Āka nicatam nellu patakkāka Orāṭṭai nāḷaikku nellu Aṟupatiṉ kala<supplied reason="lost">mum</supplied> <unclear>Ivi</unclear><supplied reason="lost">ruvaṟ</supplied><unclear>ku</unclear><supplied reason="lost">m pu</supplied><unclear>ṭavai</unclear> mutal <unclear>Oruva</unclear>ṉukku Oru kācukku ne<unclear>llu</unclear>
+		<lb n="16"/><milestone type="pagelike" unit="zone" n="4"/>patiṉ kalammāka Iruvaṟkkum kāciraṇṭiṉ<unclear>āl</unclear> <supplied reason="lost">ne</supplied><unclear>l</unclear>lu I<supplied reason="lost">ru</supplied>patiṉ kalammu civa<hi rend="grantha">yogi</hi> <hi rend="grantha">brāhma</hi>ṇar mupatiṉmarum <hi rend="grantha">brahma</hi>ṇaṟ Irupatiṉmaru
+		<!--In the docx, it appears [[[ne]l]lu. I understood  ne as supplied, and the l as unclear. Not completely sure if it was a simple typo or if it indicates sth else.-->
+		<lb n="17"/>Āka Aippatiṉvaṟku caṉivāram <unclear>Eṇṇai</unclear> <supplied reason="lost">nāḻi u</supplied>]]riyum <unclear>A</unclear>yaṉavāram Eṇṇai nāḻi Uriyum Eṇṇai nāḻikku nellu tūṇiyāka
+		<lb n="18"/>Orāṭṭai nāḷaikku Eṇṇai kalaṉe Iru tūṇi <unclear>Iru</unclear><supplied reason="lost">nā</supplied>ḻikku nellu Aiyppattu nāṟkalamum nicatam payaṟu kuṟuṇi n<unclear>ā</unclear>ḻiḻiyā
+		<lb n="19"/><unclear>ka</unclear><gap reason="lost" quantity="2" unit="character"/> <unclear>nāḻi</unclear>kku nellu Irunāḻiyāka <gap unit="character" reason="lost" quantity="3"/> nā<unclear>ṉe</unclear>kku payaṟu <gap reason="lost" quantity="1" unit="character"/>la <gap unit="character" quantity="1" reason="lost"/>ta <gap reason="lost" quantity="2" unit="character"/>yak<gap unit="character" quantity="1" reason="lost"/> mamāka kācu Oṉṟukku yaṟu Aiy 
+		<lb n="20" break="no"/><milestone type="pagelike" unit="zone" n="5"/>kalammāka <unclear>payaṟu</unclear> <gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">kalanellu</supplied> <unclear>toṇṇū</unclear><supplied reason="lost">ṟṟu</supplied> kala kācu Oṉṟukku nellu <supplied reason="lost">patak</supplied> <gap reason="lost" unit="character" quantity="3"/> <unclear>mā</unclear>ka <supplied reason="lost">Iru</supplied><unclear>nellukku</unclear> <supplied reason="lost">kācu Oṉṟu</supplied><gap reason="lost" quantity="2" unit="character"/>
+		<lb n="21"/><milestone type="pagelike" unit="zone" n="6"/>caṟka<unclear>rai</unclear> nicatam <supplied reason="lost">Aim</supplied>palam Āka Orāṭṭai nāḷaikku niṟai patiṉṉeṭṭu <unclear>kācu</unclear> Oṉṟukku <supplied reason="lost">ni</supplied>ṟai paṉniraṇṭāka niṟai patiṉṉeṭ
+		<lb n="22"/><supplied reason="lost">ciṉ</supplied>nāl kācu O<unclear>ṉṟa</unclear>raiyu nicatam <unclear>puḷi</unclear> <supplied reason="lost">Irunāḻiyāka</supplied> Orāṭṭai <unclear>nāḷaikku</unclear> <unclear>E</unclear>ḻunūṟṟu <supplied reason="lost">Iru</supplied>patiṉ nāḻiyiṉāl kācu Oṉṟu<supplied reason="lost">m</supplied>
+		<lb n="23"/><milestone type="pagelike" unit="zone" n="7"/><unclear>nicatam</unclear> miḷaku <unclear>U</unclear>ḻakk<supplied reason="lost">aria</supplied> <unclear>kaṭuku</unclear> <gap reason="lost" quantity="7" unit="character"/><unclear>kkāka</unclear> Orāṭṭai nāḷaikku Irukalaṉē tūṇi <unclear>Oru</unclear>nāḻikku kācu mu<supplied reason="lost">ṉṟum</supplied> nicatam cirakam Orupiṭiyāka Orā
+		<lb n="24" break="no"/><milestone type="pagelike" unit="zone" n="8"/>ṭṭai nāḷaikku patakku Aṟunāḻi Uriyu peruṅkāyam nicatam <unclear>Arai</unclear><supplied reason="lost">kka</supplied><unclear>ḻai</unclear>ntāka orāṭṭai nāḷaikku <unclear>nū</unclear>ṟṟu <unclear>Eṇpa</unclear>ti ḻantiṉnāl kācu Onṟum Akā kā<unclear>cu</unclear>
+		<lb n="25"/>patiṉ ˚aintaraikkum kācu Oṉṟukku nellu patiṉ kalam Āka nel<supplied reason="lost">lu nūṟ</supplied>ṟu Aiypattu Aiy kalattāl n<unclear>ta</unclear>vā<unclear>ṉa</unclear>kaṭa<choice><unclear>ṉai</unclear><unclear>ḷai</unclear></choice> <unclear>kā</unclear>cil niṅku kācu patiṉ Ain<unclear>tu</unclear>
+		<!--Prob. it is Orattai instead of orattai. Could not confirm.Also, it appears as ntavanakatanai. maybe one vowel or syllable before?-->
+		<lb n="26"/>cālaitukuttu meḻuki piṇṭi Aṭṭuvāḷ ḷoruttikku ni<unclear>ca</unclear>tam nellu Iru nāḻiyāka Orāṭṭai nākku nellu <unclear>E</unclear>ḻukalane tūṇi putakku <unclear>E</unclear>ccil E
+		<lb n="27" break="no"/><milestone type="pagelike" unit="zone" n="9"/>ṭuttu Eccilama<unclear>ṇ</unclear>ṭalam ceytu kalam cāmpal <unclear>I</unclear><supplied reason="lost">ṭu</supplied>vāḷ Oruttikku nicatam nellu puṭavai mul Eṟṟi nāṉāyāl Orāṭṭai nā<supplied reason="lost">ḷai</supplied>kku <unclear>nel</unclear>
+		<lb n="28" break="no"/>lu pati<supplied reason="lost">ṅ</supplied>kalam ti<supplied reason="lost">ru</supplied>ppatiyam viṇappam ceyvār Oruvaṟku puṭavai mutal Uḷpaṭa nicatam nellu patakku nāṉāḻiyāka Orāṭṭai n<unclear>ā</unclear>ḷaikku ne
+		<lb n="29" break="no"/>llu Eḻupattaiṅkalam kopurattu meykāpp<unclear>ā</unclear>ṉ no<unclear>ru</unclear>vaṉ Ivaṉṉē cālai Uṇ veṇkalan<unclear>nū</unclear>ṟum Eṇṇi pukuvikkavu potavaippikkavu kaṭa
+		<lb n="30" break="no"/><unclear>vā</unclear> Āka puṭavai mutal Uḷpaṭa nicatam nellu kuṟuṇi Iru ḻiyāka Orāṭṭai nāḷaikku nellu mupattu Eḻu kalaṉe tūṇip <unclear>pa</unclear>takku cālaikku kalam I
+		<lb n="31" break="no"/>ṭu ku<unclear>ca</unclear>va<unclear>ṉ</unclear> noruvaṉuku nicatam nellu Iru nāḻiyāka Orāṭṭai nāḷaikku nellu Eḻukalaṉe tūṇip patakkum coti<unclear>vi</unclear> colluvāṉ Irupat<supplied reason="lost">t</supplied>e
+		<lb n="32" break="no"/>ḻu nāḷ<unclear>u</unclear>k k<unclear>ū</unclear>ṟṟu Ol<unclear>ai</unclear> karpurattu <supplied reason="lost">tūkka</supplied> <unclear>ni</unclear>catam nellu ku<supplied reason="lost">ṟuṇi</supplied>yāka Orāṭṭai nāḷai nellu mupati<supplied reason="lost">ṉ ka</supplied>lamum Uttamāgrattil Uṇṇu <hi rend="grantha">brahma</hi><unclear>ṇa</unclear>rkku
+		<lb n="33"/><unclear>Adhyayyam ceyvar</unclear> <gap reason="lost" unit="character" quantity="2"/> <unclear>koḷḷum</unclear> <hi rend="grantha"><unclear>brāhma</unclear></hi><unclear>ṇaṉ</unclear> Oruvaṉukku nicatam nellu kuṟuṇiyāka Orāṭ<supplied reason="lost">ṭai</supplied> <unclear>nā</unclear>kku nellu mupatiṉ <unclear>ka</unclear>lamum Ivaṉukkě<unclear>y</unclear> <supplied reason="lost">pu</supplied>
+		<lb n="34" break="no"/><unclear>ṭavai mul</unclear> kā<unclear>cu</unclear><supplied reason="lost">caraiyāl nellu Ai</supplied><unclear>ykalamu</unclear>m <supplied reason="lost">Uttamā</supplied><hi rend="grantha">gra</hi>ttu Uṇṇu<supplied reason="lost">m</supplied> <hi rend="grantha">brāhma</hi>ṇa civa<hi rend="grantha">yo<supplied reason="lost">gi</supplied></hi>kaḷum <hi rend="grantha">brāhma</hi>ṇakku<supplied reason="lost">ma<hi rend="grantha">gra</hi></supplied>ttu<supplied reason="lost">ku</supplied> <unclear>canta</unclear>ṉattukku
+		<lb n="35"/>kācu A<supplied reason="lost">raiyāl</supplied> <unclear>nellu</unclear> <supplied reason="lost">Aikalamum Iru śrī <hi rend="grantha">beli</hi>kku <hi rend="grantha">beli</hi> A</supplied>rici nāḻi<supplied reason="lost">yāl</supplied> nicatam <supplied reason="lost">nellu I</supplied>runāḻi<unclear>yā</unclear>ka Orāṭ<supplied reason="lost">ṭai nāḷaikku nellu E</supplied>
+		<lb n="36" break="no"/><milestone type="pagelike" unit="zone" n="10"/>ḻu<unclear>ka</unclear>laṉē <unclear>tū</unclear><supplied reason="lost">ṇip patakku</supplied><gap reason="lost" quantity="1" unit="character"/> 
+		<!--there is a change from the western face to the southern face from the next line onwards. I don't know if that is also a diff. zone or how to encode that.-->
+		<lb n="37"/><milestone type="pagelike" unit="face" n="south"/>I<hi rend="grantha">brahma</hi>teyam ceta periyat<unclear>e</unclear>var I<hi rend="grantha">śrī</hi> vi<hi rend="grantha">ja</hi>yamaṅkalatevarkku tiruvuṇṇaḻikaip puṟam Āka Iṟai Ili kuṭutta paṅ <!--this appears after pan //--> ku <unclear>E</unclear>ṭṭiṉa nāllu <hi rend="grantha">śrī</hi> ˚irā<hi rend="grantha">ja</hi>rā<hi rend="grantha"><supplied reason="lost">ja</supplied></hi>tevarku yāṇṭu Eḻāvatu mutal I<hi rend="grantha">śrī</hi> v<unclear>i</unclear>māṅ kal <gap reason="lost" unit="character" quantity="1"/><unclear>ā</unclear> Eḻuntaruḷuvitta Irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>-p palla A<unclear>rai</unclear><supplied reason="lost">ya</supplied>
+		<lb n="38" break="no"/><gap reason="lost"/>ṉṉe Ip-paṅku Eṭṭiṉnālu ceyyum paṭi māṟṟu kalli veṭṭiṉapaṭi tirutarici po<unclear>tu</unclear> nāṉāḻiyāka mūṉṟu potaikku nicatam Arici kuṟu nāṉā <!--again, no idea how to encode this or what does it actually mean //-->ḻi<unclear>yā</unclear><supplied reason="lost">l</supplied> <supplied reason="lost">A</supplied>ntiraṇṭu vaṇṇattāl nellu mukkuṟuṇi Aṟu nāḻiyum neyamutu potoru pi<unclear>ṭi</unclear>yāka muṉṟu potaikku neyamutu Āḻākke Orupiṭi
+		<lb n="39" break="no"/>kku nāḻikku nellu tūṇiyāka ney Aḻākkē Oru piṭikku nicatam nellu Aṟu nāḻiyam porikkaṟiyamutu muṉṟu <supplied reason="lost">po</supplied>taikku nicatam nel<unclear>lu</unclear> <!--// again--> I<unclear>ru</unclear> nāḻi <supplied reason="lost">Uriy Aṭaik</supplied>kāyamutu potu nālāka muṉṟu potaikku pākku paṉniraṇṭum veṟṟilaikku nicatam nellu muṉṉāḻiyum tayir Amutu po
+		<lb n="40" break="no"/>tu Uriyāka muṉṟu potukku tayir nāḻi Urikku nicatam nellu mūṉnāḻi muḻākkum nontāviḷakku Aintukku viḷakkoṉṟu<unclear>mū</unclear> <unclear>neyi Uk</unclear><supplied reason="lost">kāka</supplied> vi<!--//--><supplied reason="lost">ḷakku Ai</supplied>ntukku nicatam ney nāḻi <unclear>U</unclear>kkāka ney nāḻikku nellu tūṇiyāka ney nāḻi Uḻakuku nicatam nellu Aṅkuṟuṇiyum nilamā<unclear>li</unclear><gap reason="lost" quantity="1" unit="character"/>ni
+		<lb n="41" break="no"/>r poka Aṭṭuvāṉṉukku ni<unclear>ca</unclear>ta nellu Irunāḻiy uḻakkum <!--could be also initial vowel--> kaṇakk-eḻutuvāṉṉukku nicatam nellu nāṉāḻiyum Irā <hi rend="grantha"><unclear>śrī</unclear></hi><hi rend="grantha">be</hi><hi rend="grantha"><unclear>li</unclear></hi> viḷakku I<unclear>raṇ</unclear> // <unclear>ṭu</unclear>kku Eṇṇai Āḻ<unclear>āk</unclear>kē <unclear>Oru</unclear> piṭikku E<unclear>ṇṇai</unclear> nāḻikku nellu tūṇiyāka Eṇṇai Ā<unclear>ḻā</unclear>kkē Oru <supplied reason="lost">piṭi</supplied>kku nicatam nellu Aṟu nāḻiy<unclear>u</unclear>m Āka nicatam
+		<lb n="42"/><space/>nellun kalaṉē-y Oru nāḻi Uri<supplied reason="lost">yāka</supplied> O<supplied reason="lost">rā</supplied>ṭṭai nāḷaikku nellu muṉnūṟṟu Aṟupattu Aiykalaṉey Eḻu kuṟuṇi nāṉāḻiy<unclear>u</unclear>m Aṟama <!--//-->ṟa <supplied reason="lost">vel</supplied>kka <supplied reason="lost">Aṟammalla</supplied>tu tuṇaiyil<unclear>lai</unclear> Iv<unclear>ai</unclear> paṉ<hi rend="grantha">māhāheśvara</hi> ra<hi rend="grantha">kṣai</hi>
+	</p>
+		
+</div>
+         
+<!--<div type="apparatus">
+
+	<listApp>
+		
+		<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:SrinivasaRao1967_01">...</rdg>
+			<note>...</note>
+		</app>
+		
+	</listApp>
+	
+</div>-->
+         
+<div type="translation" resp="part:reda part:emfr">
+	
+	<p n="1-42">
+		<!--I think it would be better to  mention that there is a translation made by Leslie Orr (2000: 117-118) and avoid duplication of a translation that is actually not so important for my own purposes, since the portion I want to use is barely two or three lines long. Can I do that?-->
+	</p>
+	
+</div>
+         
+<div type="commentary">
+         	
+	<p>The record contains no internal date. It might be dated to the year 14 of Uttamacōḻa, which is the internal date of DHARMA_INSSII1900357-1<!--update with link-->, that <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> takes as the first part of the present record.
+	</p>
+	
+</div>
+      	
+<div type="bibliography">
+            
+	<p>
+		First edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19, no. 357, lines 41-82). For lines 1-41, that <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> takes as the first part of the present record, see DHARMA_INSSII1900357-1<!--update with link-->. Re-edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>.
+	</p>
+	<p>
+		Re-edited here for DHARMA (ERC n° 809994) by Valérie Gillet (2023), based on photographs.
+	</p>
+            
+            <listBibl type="primary">
+               
+            	<bibl n="SR">
+            		<ptr target="bib:SrinivasaRao1967_01"/>
+            		<citedRange unit="page">183-186</citedRange>
+            		<citedRange unit="item">357</citedRange>
+            	</bibl>
+            	
+            	<bibl n="VG">
+            		<ptr target="bib:Gillet2023_01"/>
+            		<citedRange unit="page">82-85</citedRange>
+            		<citedRange unit="item">12</citedRange>
+            	</bibl>
+                                             
+            </listBibl>
+            
+            <listBibl type="secondary">
+               
+               <bibl>
+                  <ptr target="bib:ARIE1928-1929"/>
+                  <citedRange unit="page">20</citedRange>
+                  <citedRange unit="appendix">B</citedRange>
+                  <citedRange unit="item">164</citedRange>
+               </bibl>
+               
+            </listBibl>
+            
+         </div>
+         
+      </body>
+  </text>
+</TEI>

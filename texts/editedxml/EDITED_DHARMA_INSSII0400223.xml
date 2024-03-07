@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Citamparam, Nāṭarāja temple, time of Rajendra Cōḻa I, year 24</title>
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <persName ref="part:reda">
+                  <forename>Renato</forename>
+                  <surname>Dávalos</surname>
+               </persName>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:reda">
+                  <forename>Renato</forename>
+                  <surname>Dávalos</surname>
+               </persName>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_INSSII0400223</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported 
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary>List of expenses given for the Tiruvātirai festival celebrated in Chidambaram. The inscription includes donations of gold coins <supplied reason="explanation">
+                        <foreign>kācu</foreign>
+                     </supplied> to śrīmaheśvaras, reciters of <foreign>Tiruttoṇṭattokai</foreign>, weavers, oil sellers, merchants, among others.</summary>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p>
+								According to epigraphist, from line 7 <supplied reason="explanation">
+                           <foreign>takkaṇalāṭamum</foreign>
+                        </supplied>, “the wording is quite differente from that of the other published inscriptions”. <!--@emfr: no idea how to encode this.  -->
+							</p>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union’s Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:reda" when="2024-02-19">Creation of the file on the repository</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+		<body>
+			
+			
+			<div type="edition" xml:lang="tam-Latn">
+				
+				<ab>
+					<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+				</ab>
+				
+				
+				<p>
+					tiru<unclear>ma</unclear>ṇṇi vaḷara Irunilamaṭantaiyum poṟcayappāvaiyum cirttaṉil celviyum taṉ peruntēviyarāki Iṉpuṟa neṭuntuyilūḻiyuḷ ḷiṭai<unclear>t</unclear>tuṟai nāṭu tuṭarvaṉveli	
+					<lb n="2" break="no"/>p paṭarvaṉavāciyum cuḷḷiccūḻmakiḷ koḷḷippākkamum naṇṇaṟkarumuraṇ maṇṇaikkaṭakkamum porukaṭa liḻattaracar tam muṭiyu māṅkavaṉ ṟeviya roṅkeḻil muṭiyum maṉṉava
+					<lb n="3" break="no"/>ṉ pakkal teṉṉavaṉ vaitta cuntaramuṭiyum Intiraṉ Āramum teṇṭirai Iḻamaṇṭalamuḻuvatu meṟipaṭai-k kēraḷa<unclear>ṉ</unclear> muṟaimayiṟ cūṭuṅ kulataṉam ākiya palar pukaḻ muṭiyum ceṅ
+					<lb n="4" break="no"/>katir mālaiyuñ caṅkatirvelai tol peruṅkāvaṟ paḻantivum ceruviṟ ciṉavi lirupattorukā laracukaḷai kaṭṭa paracurāmaṉ melvaruñ cā<choice><sic>ttāki</sic><corr>nti</corr></choice>ma<choice><sic>ṟṟivaṉe</sic><corr>ttivaraṇ</corr></choice> karutiyiruttiya cempoṟṟirutta
+					<lb n="5" break="no"/>ku muṭiyum payaṅkoṭu paḻimika muyaṅki mutukiṭṭoḷitta ceyaciṅka<unclear>ḷa</unclear>ṉa<unclear>ru</unclear>ḷa-p perumpukaḻoṭu piṭiyi liraṭṭaipātai Eḻarai Ilakkamum navaneti-k kulapperumalaikaḷum vikkiramavira cakkara
+					<lb n="6" break="no"/>koṭṭamum mutirpaṭavallai matura-maṇṭalamun <choice><sic>t</sic><corr>k</corr></choice>āmaṭaivaḷai<surplus>yamum</surplus> nāmaṇ<choice><sic>a</sic><corr>ai</corr></choice>kkoṇ<choice><sic>am</sic><corr>aiy</corr></choice>um veñciṉavira-p pañcappaḷḷiyum pācaṭaippaḻaṉa mācuṇitēcamum Ayarvil vaṇkir
+					<lb n="7" break="no"/>tti Ātiṉakaravaiyil cantiraṉ tol<choice><sic>nalattiru</sic><corr>kulattintirarataṉai</corr></choice>viḷai Amarkkaḷattu-k kiḷai Ōṭum paṭittu-p palataṉattoṭu <choice><sic>n</sic><corr>t</corr></choice>iṟaik<choice><sic>ala</sic><corr>ulataṉa</corr></choice>-k kuvaiyuñ ciṭṭaruñ ceṟipuṉa loṭṭavi<hi rend="grantha">ṣai</hi>yamum pūcurar ceru naṟko
+					<lb n="8" break="no"/>cala nāṭun taṉmapālaṉai vemmuṉai aḻittu vaṇṭamarcōlai taṇṭaputtiyu miraṇacūraṇai muraṇaṟa tākki-t tikkeṇkirtti-t takkaṇalāṭamum varākavelkoṭi Irācaparicciṉṉamum Iṉaiyaṉa
+					<lb n="9" break="no"/>palavu muṉaivai<unclear>yi</unclear>ṟ kavantu poṟkaḷavaṉattu-p  pārttiv<unclear>ā</unclear>rāṉār muṉṉaruñ ceytaṟiyātu piṉṉaruñ ceytu meṉṟeṇṇi-t tariyātu kaikalantaṉaṉōr paṭaiyārttaṉa tirumēṉiyil cempuṉal poḻiya
+					<lb n="10"/>vīramaṟkaḷattu vicaiyapi<hi rend="grantha">ṣe</hi>kañ ceytu vira<hi rend="grantha">siṃhāḷa</hi>ṉan tiriyaviṭṭaruḷi-k kaṅkāpuri pukuntaruḷi-t taṉ ṟirukkulattiyāvaruñ ceytaṟiyātatu vāḻiya Oḻukkan toṉṟi-t  taṉ ṟirukkātalaṉ ākiya veṉṟiṟ teriyaṟ kaṅ
+					<lb n="11" break="no"/>kaikoṇtacōḻaṉaiyu māṅkavaṉ ṟirumakaṉ ākiya virunilaṅ kāvalāḷavanta perumāḷaiyum Oṅkeḻilvaḷavaṉ mummuṭicōḻaṉaiyum Īṅkavaṉ ṟampi veṉṟiṟal mikupaṭai viracōḻaṉaiyum veḷ ma<unclear>tu</unclear>rāntakaṉai
+					<lb n="12" break="no"/>yun tarāpati tirumaka ṉi<hi rend="grantha">rāje</hi>ntiracōḻaṉaiyum Irumuṭicōḻaṉ <hi rend="grantha">rājarāja</hi>ṉ curuti naṉkuṇaruñ cōḻa-pāṇṭiyaṉaiyum varicilaittāṉai-k karikālacōḻaṉaiyum cōḻakaṅkaṉōṭu kaḻaluttamacōḻaneṉṟivar tamakku veṉṟa
+					<lb n="13"/>nāmaṅ kuṭuttU-t tirumuṭi cūṭṭi-t teṉṉavariruvā mutaliṉarkku-t taṉ kulamaḷittuttār-k-kaṭaLilaṅkaiyil poṟpuravi naṭātti <unclear>vi</unclear>ṟaṟpaṭaikka?kāmaṉ <!--@emfr: not very clear the printing here--> viracalāmekaṉai-k kaṭarkkaḷiṟṟōṭum akappaṭa-p  piṭittu-k  katirmuṭi-t	
+					<lb n="14" break="no"/>talai taṭintu muṉaivayiṟ pakaittu vantiḻi caḷukki yaṅkeyatiṉa paripava miṉṉanāḷi likalamar ceytu niṅkuvat’ eṉṟu kaṭal kiḷarntaṉa <unclear>ki</unclear>ḷarpaṭai parappi Ārkali muṭakkāṟṟil caḷukki keṭṭuṭaitara Āṅkavaṉai Irumuṭime<lb n="15" break="no"/>ṉ koṇṭa 
+				</p>
+				
+				<p>
+					kōvirā<hi rend="grantha">ca</hi>kecari<hi rend="grantha">panmar</hi>-āṉa Utaiyār <hi rend="grantha">śrīrāje</hi>ntira-cōḻa-tēvaṟku yāṇṭu <num value="24">2 <g type="numeral">10</g> 4</num> vatu
+				</p>
+				
+				<p>	
+					Uṭaiyār <hi rend="grantha">rāje</hi>ntira-cōḻa-tēvar Aṇukki nakkaṉ pāvai Uṭaiyār tirucciṟṟampalam-Uṭaiyār tiruvāṉi-t tirunāḷil Uṭaiyār-e
+					<lb n="16" break="no"/>ḻuntaruḷum Aṟṟaikku vēṇṭum 
+				</p>
+				
+				<p>	
+					Aḻikkum Uṭaiyārkku Amutupaṭikkum Amutu ceytaruḷum poḻutu <hi rend="grantha">śrīmāheśvara</hi>ṟku-c caṭṭicōṟu Āyiraṅ kuṭukkavum tiruviḻāvukku vēṇṭum 
+				</p>
+				
+				<p>	
+					Eṇṇaikkum Uṭaiyār vaḻaṅki A
+					<lb n="17" break="no"/>ruḷūm poṉṉukkum paricaṭṭam uḷḷiṭṭa Aḻivukaḷukkum kācu Iraṇṭukkum Ipparicu Ikkuṟitta nivantaṅ cantirātittavaṟ cella <hi rend="grantha">rāje</hi>ntiraciṅkavaḷanāṭṭu-t taṉiyūr perumpaṟṟappuliyūr-k kiḻpiṭākai-k kiṭāraṅkoṇṭa-cō
+					<lb n="18" break="no"/>ḻa-p periḷamai-nāṭṭu-p parākrama-cōḻa-nallūṟpāṟ kuṇame<choice><orig>n</orig><reg>ṉ</reg></choice>kaipurameṉ ṟeṟiṉa nakarattukku-p piramāṇappaṭi koṇṭa nilaṉ 
+				</p>
+				
+				<p>
+					nāṟpatteḻaraiyum tillai Aḻaka-nallūr nilattil vilai koṇṭuṭaiya tokkapāṭi
+					<lb n="19" break="no"/>nilaṉ 
+				</p>
+				
+				<p>	
+					Āṟaraiyum maturāntaka-p periḷamai-nāṭṭu <hi rend="grantha">rājarāja</hi>nallūr-p periyapulaṉ nilaṉ 
+				</p>
+				
+				<p>	
+					Oṉṟemukkālē muṉṟumā mukkaṇiyum kuntavai-nallūr māḷikaivāḻkkai-p pulaṉ Iraṇṭiṉāl nilaṉ 
+				</p>
+				
+				<p>	
+					Oṉpatē mākāṇiyum Arumo
+					<lb n="20" break="no"/>ḻi-tēva-nallūr ceṇpakakkāvuñ centapaṭṭaṉum nilaṉ 
+				</p>
+				
+				<p>	
+					oṉpataraiyē muṉṟumāvum Iṭai-p paḷḷam nilaṉ 
+				</p>
+				
+				<p>	
+					Eḻai Iraṇṭumā Araikkāṇi Itil pirāmaṇaṉ Uḻaiccāṇaṉ vātu tēvaṉ mātēvaṉukku vilai viṭakkaṭaiya-p pulaṉ Iraṇṭiṉāl nila
+					<lb n="21" break="no"/>ṉ 
+				</p>
+				
+				<p>	
+					muṉṟarai nikki nilaṉum Ākka kuṇamenakaipurattōṭum Eṟiṉa virivu nilaṉ 
+				</p>
+				
+				<p>	
+					Eḻuvatteṭṭekālē Araikkāṇi Itil Oṭaikaḷālum nāraikā?<!--@emfr:what is this? v or l or pc?-->āṟṟālum  kōllaikaḷālum nattaṅkaḷālum <!--@emfr: After this, there is a big space between these two lines, but maybe it does not mean anything else.-->
+					<lb n="22" break="no"/>niṅku nilaṉ 
+				</p>
+				
+				<p>	
+					muppattu nālē kālē Araikkāṇi nikki viḷai nilaṉ 
+				</p>
+				
+				<p>	
+					nāṟpattu nālveli Itu pala kiṭappiṉālum <hi rend="grantha">rājentra</hi>ciṅkaṉ marakkālukku-k kalattuvāy-t tūṇi Iḷaiyamaṟa<unclear>k</unclear>kkālāl varicai Iṭṭapaṭi 
+					nellu nālāyirattu Aiññūṟṟu-k-kalam Itil melvārattāluṭaiya
+				</p>
+				
+				<p>	
+					<lb n="23"/>nellu Iraṇṭāyira-t tirunūṟṟaimpatiṉkalum Ivai kācu Oṉṟukku 
+				</p>
+				
+				<p>	
+					nellu Eṇkalanē tūṇi-p patakkāka vanta kācu Irunūṟṟurupattun mukkālum kuṇamenakai purattu-k kālaḷavu kolcūvi Uḷḷiṭṭa Aṅkāṭi-p pā<supplied reason="omitted">ṭ</supplied>ṭattukku vaikka-k kaṭava 
+					
+				</p>
+				
+				<p>	
+					kācu nāṟpatiṉālum Ākka kācu muṉṉūṟ
+					<lb n="24" break="no"/><unclear>ṟ</unclear>ṟu nālē mukkālum Ivaiyiṟṟukku-c celavāka mārkaḻi-t tiruvātirai-t tirunāḷaikku vēṇṭum 
+				</p>
+				
+				<p>	
+					vaḻakkattukku paricaṭṭam Uḷḷiṭṭa Aḻivukaḷukku vēṇṭum 
+				</p>
+				
+				<p>	
+					kācu nūṟṟirupatum tiruvāṉi-t tirunāḷil Amutupaṭikkum <unclear>va</unclear>ḻak<unclear>ka</unclear>-p paricaṭṭattukkum tiruviḷakku Eṇṇai nānūṟ
+					<lb n="25" break="no"/>ṟunāḻi Uḷḷiṭṭa Aḻivukku-k kācu nūṟṟeṇpatum tirumāci-t tirunāḷil tiruttoṇṭattukai viṇṇappa-c ceyvāṟkku kācu Aiñcum Āka kācu munnūṟṟañcum koṇṭu Ikkuṟitta nimantam 
+				</p>
+				
+				<p>	
+					Inta-k kuṇa<supplied reason="omitted">me</supplied>nakaipurattu Eṟiṉa viyāpārikaḷum veḷḷāḷarum caṅka
+					<lb n="26" break="no"/><unclear>ka</unclear>ra-p pāṭiyārum cāliyarum paṭṭiṉavarum Uḷḷiṭṭa kuṭikaḷum  taccar kollar taṭṭār koliyar Uḷḷiṭṭa kiḻkalaṉaikaḷuṅ koṇṭu Inivantam cantiraāttitavaṟ celuttakkaṭavatākavum Ivarē Ivvūr vaitta cālai ciṅkaḷānatakaṉil U
+					<lb n="27" break="no"/>ṇṇum pirāmaṇar Irupattaivarkku nivantamāka Ivvūrppāl  koṇṭa nilaṉ p<unclear>ā</unclear>ḻāy caṅkoṭiyāṉa paravainaṅkainallūr-p pir<unclear>ā</unclear>m<supplied reason="omitted">ā</supplied>ṇappaṭi vilaikoṇṭuṭaiya nilaṉ patiṉaiñcarai Itil payir<unclear>c</unclear>ceyya Oṇṇātu niṅkum nilam Aiñ
+					<lb n="28" break="no"/>carai nikki nilaṉ patiṟṟuvali Itu marakkāl meṟpaṭikālāl nellu-p paṉṉiru kalaṉē mukkuṟuṇi-y-āka varicai Iṭṭa nellu Iraṇṭāyirattu nāṉūṟṟaimpatiṉ kalam Itil melvārattāl nellu Āyirattirunūṟṟirupattaiṅkalam Ivaiyiṟṟu
+					<lb n="29" break="no"/>kku-c celvāka cālaiyil Uṇṇum pirāmaṇar Irupattaivaṟku nāḷ Oṉṟukku Arici tuṇippata-k kirunāḻiyāḳa Aiñcu Iraṇṭu vaṇṇattāl nellu-k kalaṉē mukkuṟuṇi Aiññāḻiyum kaṟi<gap reason="lost" quantity="10" unit="character"/> nellu-t tūṇiyum maḷaku Āḻākkukku nellu Aiññāḻi Uriyu
+					<lb n="30" break="no"/>m puḷi Aimpalattukku nellu nāṉāḻiyum Uppu Irunāḻikku nellu Aiññāḻiyum mañcaḷ  kaiyacukku nellu Uriyum ney Uri Āḻākkukku nellu Aiṅkuṟuṇiyum tayir kuṟuṇiṉāṉāḻi Urikku nellu mukkuṟuṇi Orunāḻi<gap unit="character" quantity="5" reason="lost"/> veṟṟilaippaṟṟu Iraṇṭaraikkum pākku nūṟṟukku ne
+					<lb n="31" break="no"/>llu-k kuṟuṇi Aiññāḻiyum viṟaku kaṭṭu Oṉṟukku nellu mukkuṟuṇi nāṉāḻiyum caṉi Oṉṟukku Eṇṇai Uri Āḻākkukku nellu Aiṅkuṟuṇiyum cālaimaṭaiyaṉ Oruvaṉukku nellu Aṟunāḻiyum  meṟpaṭiyāṉukku-p puṭavai<gap reason="lost" quantity="3" unit="character"/> nellu Eṇkalamum kucavaṉ Oruvaṉukku nellu nāṉāḻiyum vāḻvā
+					<lb n="32" break="no"/>cci taṇṇīr kalam ko<supplied reason="lost">ṇ</supplied>ṭuvaruvāṉukku nellu nāṉaḻiyum paṇiceyya peṇṭukaḷ Aipavaṟku nellu kuṟuṇiyum meṟpaṭiyārukku puṭavaikku nellu patiṉ kalamum Aṟateyaṉ Oruvaṉukku puṭavai Mutalukku nellu-p patiṉkalamum <gap reason="lost" unit="character" quantity="6"/>vaṉ Oruvaṉukku nellu  kuṟuṇi nāṉāḻiyum Āka nāḷ <supplied reason="lost">Oṉṟukku ne</supplied>
+					<lb n="33" break="no"/>llu mukkalanē mukkuṟuṇi-y-āka Orāṭṭaikku nellu Āyira-t tirunūṟṟirupattai taṇkalanē Eḻukuṟuṇi nāṉāḻi Uḷpaṭa kuṟitta nivantaṅkaḷ yāṇṭu Irupattu nālāvatu mutal cantirātittavaṟ nivantam cella-k kalveṭṭiyatu<g type="pc">.</g>
+				</p>	
+				
+				
+			</div>
+			
+			<div type="apparatus">
+				
+					<!--<listApp>
+						
+						<!-\-<app loc="0">
+							<lem>...</lem>
+							<rdg source="bib:SrinivasaRao1967_01">...</rdg>
+							<rdg source="bib:SrinivasaRao1979_01">...</rdg>
+							</app>	-\->
+						
+					</listApp>-->
+					
+				
+			</div>
+			
+			<div type="translation" resp="part:reda part:emfr">
+				
+				
+	<p n="1-33">
+		Translation in progress...
+		<!--<note>Note on Tiruvātirai. Comes from the Skt. word Ārdra, which is Śiva's star. According to Richard Davis, Oscillating p. 146 fn. 260, the weekly festival <supplied reason="explanation"><foreign>vārotsava</foreign></supplied> was "linked to the day of the week on which Śiva's star, Ārdrā, may fall. The particular days on which this festival may occur are assigned their special results. Aghoraśiva does not provide any procedural recommendations for the weekly festival. Even in one of the biggest ritualists of the Śaiva Siddhānta school, Aghoraśiva, there appears to be not a mention on the festival. It should be noted also that this festivals seemed to be very popular during the Cōḻa times and that the singing of both Tiruppaḷḷi eḻucci and the Tiruvempāvai, both from the Tiruvācakam, might have been involved. This was a festival that already was sung by Appar (4.21). Also appears, for example, is Śiva's epithet in the invocatory of Muttoḷḷāyiram <supplied reason="explanation"><foreign>ātiraiyāṉ</foreign></supplied>
+		</note>-->
+	</p>
+	
+
+	
+</div>
+            
+<!--<div type="commentary">
+    		
+	
+</div>-->
+    	
+			<div type="bibliography">
+				
+				<p>		
+					Encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2024), based on previous edition; translated by Renato Dávalos and Emmanuel Francis.
+				</p>	
+				
+				<listBibl type="primary">
+					
+					<bibl n="SR1967">
+						<ptr target="bib:KrishnaSastri1923_01"/>
+						<citedRange unit="page">29-31</citedRange>
+						<citedRange unit="item">223</citedRange>
+						<note>33 epigraphic lines.</note>
+					</bibl>
+	</listBibl>
+	
+	<listBibl type="secondary">
+				
+		<bibl>
+			<ptr target="bib:ARIE1887-1888_01"/>
+			<citedRange unit="page">20</citedRange>
+			<citedRange unit="appendix">B/1907</citedRange>
+			<citedRange unit="item">118</citedRange>			
+		</bibl>
+		
+	
+		
+	</listBibl>
+	
+</div>
+        </body>
+    </text>
+</TEI>
+<!--METADATA: Outside of first prakara, north side, Chidambaram-->

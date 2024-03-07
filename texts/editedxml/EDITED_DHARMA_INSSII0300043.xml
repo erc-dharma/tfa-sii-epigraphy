@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tanjore, Bṛhadīśvara, time of Pallava king Vijaya-Nandi Vikramavarman, year 17</title>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:reda">
+                  <forename>Renato</forename>
+                  <surname>Dávalos</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_INSSII0300043</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary>Rebuilding of a previous stone inscription granting three villages (which were clubbed together into one). The paddy from this land was given to Śiva-brāhmaṇas, drummers, those who pluck flowers, and singers of <foreign>Tēvāram</foreign>.</summary>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union’s Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:reda" when="2024-03-01">Creation of the file on the repository</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+		<body>
+			
+			
+			<div type="edition" xml:lang="tam-Latn">
+				
+				<ab>
+					<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+				</ab>
+				
+				<p>
+					ti<supplied reason="undefined">ruma</supplied>ṇṭapam iḻicci y-<supplied reason="undefined">eṭu</supplied>ppa
+					<lb n="2" break="no"/>taṟku muṉ puḷḷa cilā-lekai-p paṭi 
+					<lb n="3"/>kōvi<hi rend="grantha">ja</hi>yanan=ti vikkiramapa<hi rend="grantha">nma</hi>r<supplied reason="undefined">k</supplied>ku yā<supplied reason="undefined">ṇ</supplied>ṭu 17
+					<lb n="4"/>Āvatu paṭu<supplied reason="undefined">vūr</supplied>-k koṭṭattumīyāṟunāṭṭu-t tikk<supplied reason="undefined">ā</supplied>
+					<lb n="5" break="no"/>livallamu<supplied reason="undefined">ṭai</supplied>ya <hi rend="grantha">parameśvarar</hi>k=ku
+					<lb n="6"/>I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ā<supplied reason="undefined">ṭṭu</supplied> <hi rend="grantha">ja</hi>m<supplied reason="undefined">pū</supplied>ṇiyum vi
+					<lb n="7" break="no"/>ḷattūrum It-tēvar tē<supplied reason="undefined">va</supplied>
+					<lb n="8"/>tā<supplied reason="undefined">ṉa</supplied>m Ama<supplied reason="undefined">ru</supplied>ṉṟimaṅka<supplied reason="undefined">lamu</supplied>
+					<lb n="9" break="no"/>m viṭelviṭukuvi-k kiramā
+					<lb n="10" break="no"/>titta-c catūrvvetimaṅ
+					<lb n="11" break="no"/>kalam eṉṉum perā
+					<lb n="12" break="no"/>l Ekkakirāmamāka māvali
+					<lb n="13" break="no"/>vāṇarāyaṉā<supplied reason="undefined">ṉa</supplied> vik<supplied reason="undefined">ki</supplied>ramā<supplied reason="undefined">tit</supplied>ta
+					<lb n="14" break="no"/>vāṇarāyaṉ viṇṇappa-t tālu
+					<lb n="15" break="no"/>m kāṭupaṭṭi-t tamiḻ ap-<supplied reason="undefined">p</supplied>era<supplied reason="lost">ra</supplied><supplied reason="undefined">ya</supplied>ṉ
+					<lb n="16"/>Āṇattiyālum  Ekakkirāmam ākki <supplied reason="undefined">I</supplied>v<supplied reason="undefined">va</supplied>
+					<lb n="17" break="no"/>maruṉ ṟimaṅkalamuṉṉi-t tī<supplied reason="omitted">k</supplied>karalivalla
+					<lb n="18" break="no"/>m uṭaiya <hi rend="grantha">parameśva</hi>rarkku Iṟuttu va
+					<lb n="19" break="no"/><supplied reason="undefined">ru</supplied>kiṉṟa <g type="nellu"/> Iraṇṭāyira-k kāṭiyum
+					<lb n="20"/><gap quantity="3" unit="character" reason="illegible"/>ṉirupatiṉ kaḻañcum iv-vi
+					<lb n="21" break="no"/>ṭelviṭuku vikkiramātittaccat<choice><sic>i</sic><corr>ū</corr></choice>r
+					<lb n="22" break="no"/>v- vetimaṅkalattu-c cavaiyār
+					<lb n="23"/>Iṟuppār ākavum iṉ-ṉellil-t <supplied reason="undefined">ti</supplied>
+					<lb n="24" break="no"/>ruvamirtukku nellu Aṟunūṟṟu
+					<lb n="25" break="no"/>-k kāṭiyum tiruvuṇṇāḻikai y-uḷḷārā
+					<lb n="26" break="no"/>ti<supplied reason="undefined">t</supplied>tu-p pācarikkum <hi rend="grantha"><supplied reason="undefined">śiva</supplied>brāhma</hi>ṇa
+					<lb n="27" break="no"/>rkku nellu Aiñ
+					<lb n="28" break="no"/>ñūṟṟu-k kāṭiyum <hi rend="grantha">śrī</hi>pa
+					<lb n="29" break="no"/>li koṭṭuvārk=ku nellu
+					<lb n="30"/>Aiññūṟṟu kā<supplied reason="undefined">ṭiyu</supplied>m
+					<lb n="31"/>tiruppaḷḷi-t-tāmam
+					<lb n="32"/>paṟippārkkum tirup
+					<lb n="33" break="no"/>patiyam pāṭuvār uḷḷi
+					<lb n="34" break="no"/>ṭṭa palapaṇi ceyvār
+					<lb n="35" break="no"/>kku nellu nānūṟṟu
+					<lb n="36"/>-k kāṭiyum tiru<choice><sic>k</sic><corr>n</corr></choice>o<supplied reason="undefined">n=t</supplied>ā
+					<lb n="37"/>viḷakkukkum tirumēyppūccuk<hi rend="grantha">kum</hi>
+					<lb n="38"/>citārik<supplied reason="undefined">ku</supplied> maṟṟum <hi rend="grantha">khaṇḍaspu<choice><orig>ḍ</orig><reg>ṭ</reg></choice>i</hi>tana<supplied reason="undefined">va</supplied>ka
+					<lb n="39"/><hi rend="grantha">nm<supplied reason="undefined">ā</supplied></hi>tikaḷuk=kum <surplus>m</surplus>āka-p p<supplied reason="undefined">o</supplied>ṉ Irupati <!--@reda: goes in the apparatus-->
+					<lb n="40"/>ṉ kaḻañcum Āka I<choice><orig>ṉ</orig><reg>n</reg></choice><supplied reason="undefined"><choice><orig>ṉ</orig><reg>n</reg></choice></supplied>ellum
+					<lb n="41"/>Ip-poṉṉu<supplied reason="undefined">m</supplied> It-tēvaṟk=ku
+					<lb n="42"/>can=t<hi rend="grantha">rā</hi>tittaval-l iṟuppārkaḷ ā
+					<lb n="43"/>kavum Ip-paricu nivan=tam āka
+					<lb n="44"/>c- ceytu kuṭuttō<supplied reason="undefined">m</supplied>
+					<lb n="45"/>I<hi rend="grantha"><choice><sic>dhd</sic><corr>ddh</corr></choice>amam</hi> <hi rend="grantha">panmāhe</hi>
+					<lb n="46"/><hi rend="grantha"><supplied reason="undefined">śva</supplied>ra-rakṣai</hi> <g type="gomutraFinal">.</g>{pc}
+				</p> 
+				
+				
+				
+			</div>
+			
+			<!--<div type="apparatus">
+				
+				<listApp>
+    			
+    			<!-\-<app loc="0">
+    				<lem>...</lem>
+    				<rdg source="bib:Hultzsch1895_01">...</rdg>
+		</app>	-\->
+		
+		<app loc="1">
+			<lem>maṉakko<unclear>ḷa</unclear>k</lem>
+			<rdg source="bib:KrishnaSastri1920_01">maṉakko<unclear>ḷ</unclear>k</rdg>
+		</app>	
+		
+		
+	</listApp>    			
+    	
+</div>-->
+    	
+<div type="translation" source="bib:Hultzsch1895_01">
+	
+	<p n="1-2">
+		Hail! Prosperity! <supplied reason="subaudible">The following is</supplied> a copy of a stone inscription which existed before the <foreign>maṇḍapa</foreign> of the temple had been pulled down and re-erected.
+	</p>
+	
+	<p n="3">
+		In the 17th year <supplied reason="subaudible">of the reign</supplied> of king Vijaya-Nandivikramavarman. 	</p>
+	
+	<p n="4-13">
+		Māvalivāṇarāya, <foreign>alias</foreign> Vikkiramādittavāṇarāya, <supplied reason="subaudible">had made</supplied> the request that <supplied reason="subaudible">to the temple of</supplied> Parameśvara <supplied reason="explanation">Śiva</supplied> at Tīkkāli-Vallam in Mīyāṟṟu-nāṭu, <supplied reason="explanation">a subdivision</supplied> of Paṭuvūr-kōṭṭam, <supplied reason="subaudible">should be given three villages</supplied> in the same <foreign>nāṭu</foreign> <supplied reason="subaudible"><foreign>viz.</foreign></supplied> Aim<supplied reason="undefined">pū</supplied>ṇi, Viḷattūr and Amaruṉṟimaṅkalam, a <foreign>devadāna</foreign> of this god, <supplied reason="subaudible">and that they should be clubbed together into</supplied> one village, named Viṭelviṭuku-Vikkiramāditta-caturvēdimaṅgalam. 
+	</p>
+	
+	<p n="14-16">
+		In conformity with <supplied reason="subaudible">this request</supplied>, and Kāṭupaṭṭi-Tamiḻa-Pērarayaṉ being the executor, <supplied reason="subaudible">the three villages</supplied> were made into one village.
+	</p>
+	
+	<p n="16-23">
+		The members of the assembly of this Viṭelviṭuku-Vikkiramāditta-caturvētimaṅgalam shall have to pay two thousand <foreign>kāṭi</foreign> of paddy and twenty <foreign>kalañcu</foreign> of gold, which were being paid before by this Amaruṉṟimaṅkalam to this <supplied reason="subaudible">temple of</supplied> Parameśvara at Tīkkāli-Vallam.
+	</p>
+	
+	
+	<p n="23-40">
+		Of this paddy, six hundred <foreign>kāṭi</foreign> of paddy <foreign>are allotted</foreign> for offerings; hundred <foreign>kāṭi</foreign> of paddy to the Śiva-Brāhmaṇas who desire to be fed, beginning with those in charge of the store-room of the temple; five hundred <foreign>kāṭi</foreign> of paddy to those who beat <supplied reason="subaudible">drums before</supplied> oblations; four hundred <foreign>kāṭi</foreign> of paddy to those who pick <supplied reason="subaudible">flowers for</supplied> temple garlands, and to those who perform various <supplied reason="subaudible">other</supplied> services, including the singers of the <foreign>Tiruppatiyam</foreign>; and twenty <foreign>kalañcu</foreign> of gold for the perpetual lamps, for anointing the idol, for bark, and for repairing breaks and cracks, etc.
+		<!--@reda: Check translation: are the singers part of the ones who do the service? If so, are they being put in the second rank among the servitors? What is the total of paddy being given, and what percentage is given to the servitors of the temple?-->
+	</p>
+	<p n="40-43">
+		<supplied reason="subaudible">The members of the assembly</supplied> shall have to pay this paddy and this gold to this god as long as the moon and the sun exist.
+	</p>
+	
+	<p n="43-45">
+		In this manner we have given <supplied reason="subaudible">the village</supplied> for <supplied reason="subaudible">providing</supplied> the necessaries.
+	</p>
+	
+	<p n="45-46">
+		This charity <supplied reason="subaudible">is placed under</supplied> the protection of all <foreign>Māheśvaras</foreign>. 
+	</p>
+</div>
+			
+			<!--<div type="commentary">
+				
+				
+				</div>-->
+			
+			<div type="bibliography">
+				
+				<p>
+					First edited in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> with English translation; encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2024), based on <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl>.
+				</p>	
+				
+				<listBibl type="primary">
+					
+					<bibl n="SII 3.43">
+						<ptr target="bib:KrishnaSastri1920_01"/>
+						<citedRange unit="page">92-94</citedRange>
+						<citedRange unit="item">43</citedRange>
+					</bibl>
+					
+				</listBibl>
+				
+				<!--<listBibl type="secondary">
+					
+					Add ARIE reference if any.
+					
+					</listBibl>-->
+				
+			</div>
+		</body>
+	</text>
+</TEI>

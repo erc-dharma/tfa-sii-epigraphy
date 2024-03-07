@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tiruviṭaimarutūr, Māhaliṅgasvāmin temple, time of Kulottuṅga Cōḻa II, year 9</title>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:reda">
+                  <forename>Renato</forename>
+                  <surname>Dávalos</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_INSSII0500705</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary>Endowment, by royal order (of Kulottuṅga II Cōḻa), of <foreign>pāṇa-p-peṟu</foreign> and <foreign>pāṇa-k-kāṇi</foreign> to a <foreign>pāṇaṉ</foreign> (probably the head of a group of singers) so that he sings to the Lord of Tiruviṭaimarutūr, appoints other <foreign>pāṇar</foreign>s to sing, and trains temple-dancing girls. The endowment consists in gold, paddy produced from a minutely measured land, and a house-site.</summary>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>. <foreign>n</foreign> is almost consistently used instead of <foreign>ṉ</foreign>.</p>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union’s Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:reda" when="2023-10-04">Creation of the file on the repository</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+    <body>
+       
+       
+<div type="edition" xml:lang="tam-Latn">
+          
+	<ab>
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+	</ab>
+	
+	<lg n="1" met="āciriyappā">
+		<l n="1">pūma<choice><orig>nn</orig><reg>ṉṉ</reg></choice>u patuma<unclear>m</unclear> pūtta <unclear>Ē</unclear>ḻu<unclear>la</unclear>kum</l>
+		<l n="2">tāmu<choice><orig>n</orig><reg>ñ</reg></choice> ce<unclear>y</unclear>tavattā<unclear>l</unclear> paruti-<unclear>va</unclear>ḻi-t tōṉṟi</l>
+		<l n="3">ne<unclear>ṭu</unclear>māl i<unclear>va</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> eṉa cuṭarmuṭi cūṭi</l>
+		<l n="4">Irunila makaḷai Urimaiyil puṇarn=tu</l>
+		<l n="5">tirumakaḷ paṇaimulai ceñcān ta<choice><orig>ṇ</orig><reg>ḷ</reg></choice>aintu</l>
+		<l n="6">parumaṇi Āram pa<choice><orig>n</orig><reg>ṉ</reg></choice>ivarai nikaṟpa</l>
+		<l n="7"><hi rend="grantha">ja</hi>yamakaḷ ceḻu<choice><orig>m</orig><reg>ñ</reg></choice>-cantaṉa-c cuvaṭṭāl</l>
+		<l n="8">puyam irukaiyi<lb n="2" break="no"/>lai-p <unclear>p</unclear>orupp-eṉa-t tōṉṟi</l>
+		<l n="9">nāmakaḷ tāṉum <choice><orig>c</orig><reg>k</reg></choice>ōmakaḷ cevvāy-p</l>
+		<l n="10">pavaḻa-c c<unclear>ē</unclear>yyōḷi paṭaittaṉa ni<unclear>y</unclear>ā<choice><orig>n</orig><reg>ṉ</reg></choice> eṉa</l>
+		<l n="11">tavaḷa naṉiṟa-t tanittuyai-y e<choice><orig>n</orig><reg>ṉ</reg></choice> eṉa-p</l>
+		<l n="12">pukaḻ-mati cintai makuḻu nāḷilum</l>
+		<l n="13">Oru kuṭai nilavu porupaṭai-t tikiri</l>
+		<l n="14">velēṉuṅ  karuṅkali-y iruḷi<choice><orig>n</orig><reg>ṉ</reg></choice>ai-t turappa</l>
+		<l n="15">nīṭu-pallūḻi Ēḻ-kaṭal-p puṟattiṉum</l>
+		<l n="16">kō<lb n="3" break="no"/>ṭā-t ta<choice><orig>n</orig><reg>ṉ</reg></choice>ikkōl i<choice><orig>n</orig><reg>ṉ</reg></choice>it’ ulāva</l>
+		<l n="17">mī<choice><orig>n</orig><reg>ṉ</reg></choice>amum citaittu vāṉ-uyar</l>
+		<l n="18">poṉ neṭu mēruviṟ puli vīṟṟiruppa</l>
+		<l n="19">Umpar i-yānai Ōr-eṭṭiṉukkum</l>
+		<l n="20">tampam eṉ<choice><orig>n</orig><reg>ṉ</reg></choice>a-t ta<choice><orig>n</orig><reg>ṉ</reg></choice>itta<choice><orig>n</orig><reg>ṉ</reg></choice>i ticai-toṟum</l>
+		<l n="21">vicai<supplied reason="omitted">ya</supplied><hi rend="grantha">stambha</hi> niṟpa-p pacipa<unclear>k</unclear>ai</l>
+		<l n="22">Ā<unclear>tiy</unclear>ākiya vīcu taṇ-puṉalum</l>
+		<l n="23"> mēti<choice><orig>n</orig><reg>ṉ</reg></choice>i vaḷaṉum <hi rend="grantha">jā</hi>ti-y oḻukkamum</l>
+		<l n="24">nīti-y aṟamuma piṟaḻātu nikaḻa</l>
+		<l n="25">pāvum paḻa-p parappum <lb n="4"/>paṇaikkai</l>
+		<l n="26">māvum allatu vaṉ-ṟalai-p paṭutal</l>
+		<l n="27">kaṉaviluṅ ka<unclear>ri</unclear>t-eṉa varun=ti</l>
+		<l n="28">pu<choice><orig>n</orig><reg>ṉ</reg></choice>alilum palvēṟu puḷḷilum allatu</l>
+		<l n="29">ciṟai-y e<choice><orig>n</orig><reg>ṉ</reg></choice>a-p-paṭutal iṉṟi pallavar teluṅkar</l>
+		<l n="30">māḷavar kaliṅkar teṉ<choice><orig>n</orig><reg>ṉ</reg></choice>ar kaṭārar coḷar </l>
+		<l n="31">ciṅkaḷar toṅkaṇar <hi rend="grantha"><unclear>srī</unclear>-hasta</hi>r aṅka<supplied reason="omitted">r</supplied></l>
+		<l n="32">vaṅka<unclear>ra</unclear>r mattam-attirar ka<unclear>ṅ</unclear>kar <hi rend="grantha">jo</hi><choice><orig>n</orig><reg>ṉ</reg></choice>a<lb n="5" break="no"/>kar</l>
+		<l n="33">kaikayar <hi rend="grantha">jī</hi><choice><orig>n</orig><reg>ṉ</reg></choice>ar eṉṟ’</l>
+		<l n="34">aṟaikaḻal vēntar mallāva racarum</l>
+		<l n="35">uṟaimaiyil varinta tiṟaiku<unclear>ṇan</unclear> tiṟai<choice><sic>n=t</sic><corr>ñc</corr></choice>a</l>
+		<l n="36">Ampo<choice><orig>n</orig><reg>ṉ</reg></choice> malaṟko<unclear>ṭi</unclear> cempiya<choice><orig>n</orig><reg>ṉ</reg></choice> kiḻā<unclear>naṭi</unclear>-y</l>
+		<l n="37">orumaruṅ kuṭa namarnt’ iruppa Aruḷpuri</l>
+		<l n="38">camaiya-p poṟkōṭi-y imaiya-p-pāvaiyum</l>
+		<l n="39">civa<choice><orig>n</orig><reg>ṉ</reg></choice>um pōl puva<unclear>na</unclear> muḻut-uṭai-</l>
+		<l n="40">yā<unclear>ḷ</unclear>-ḷōṭum v<choice><orig>i</orig><reg>ī</reg></choice>ṟṟ-irunt-aruḷiya</l>
+	</lg>
+	
+	<p>
+		kō-v-i<hi rend="grantha">rāja</hi>kecari-pa<hi rend="grantha">tma</hi>r-āna <hi rend="grantha">tribhuvana-cakra</hi>var<hi rend="grantha">ti</hi>kaḷ <hi rend="grantha">śrī</hi>-kulottuṅ
+		<lb n="6" break="no"/>ka-<hi rend="grantha">c<unclear>ō</unclear>ḷa-de</hi>vaṟku yāṇṭu 9		
+		Āvatu</p>
+	
+	<p>
+		mutal kāṇi peṟṟa paṭikku pāṇa<unclear>ṉ</unclear> Iru-muṭi-cōḻa<choice><orig>n</orig><reg>ṉ</reg></choice> pirā<choice><orig>n</orig><reg>ṉ</reg></choice>-āṉa Acañcala-p pēraya<unclear>ṅ</unclear><choice><orig>n</orig><reg>ṉ</reg></choice>ukku Uyyakkoṇṭ<supplied reason="omitted">ā</supplied>r-<unclear>va</unclear>ḷanāṭṭu tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu Uṭ<unclear>ai</unclear>yār tiruviṭaimarut-uṭaiyāṟku pāṭavum Ik-kōyilil taḷiyillār tēv<unclear>ā</unclear>raṭiyārai <unclear>p</unclear>āṭṭuvikkavum pāṇarai Iṭa-k kaṭava<unclear>n</unclear><choice><orig>n</orig><reg>ṉ</reg></choice>-āka Iva<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum iva<choice><orig>n</orig><reg>ṉ</reg></choice> va<unclear>ṅ</unclear>
+		<lb n="7" break="no"/><hi rend="grantha">śa</hi>ttāṟkum Ik-kōyil pāṇapeṟ-āka mu<choice><orig>n</orig><reg>ṉ</reg></choice>pu peṟṟu varum kācum nellum uḷpaṭa yāṇṭu Onpat-āvatu mutal nāḷ O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟukku ūr-k-kā<unclear>l</unclear>lāl nel kalam-āka vanta nellu Ik-kōyilil pala-paṇi nivanta-<unclear>k</unclear>-kā<choice><orig>ṟ</orig><reg>r</reg></choice>arōṭuṅ kūṭa nivantaṅ kaṭṭi 
+	
+	In-nelukku vēṇṭum nilam mu<choice><orig>nn</orig><reg>ṉṉ</reg></choice>-uṭaiyārai tavirttu It-tēvar tēvatā<choice><orig>n</orig><reg>ṉ</reg></choice>am-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a
+	
+		ūr
+		<lb n="8" break="no"/>ka<unclear>ḷ</unclear>ḷi<unclear>l</unclear>lē pāṇa-kāṇiyum  nila-<hi rend="grantha">j<choice><orig>i</orig><reg>ī</reg></choice></hi>vitamum<unclear>-āka A</unclear>ṭaittu mu<choice><orig>n</orig><reg>ṉ</reg></choice>pu pāṇar kuṭi-y-irupp-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a maṉaiyum Iva<choice><orig>n</orig><reg>ṉ</reg></choice>ukku viṭṭu Ip-paṭikku kalv<unclear>e</unclear>ṭṭi koḷvat’ āka Onpat-āvatu mutal <hi rend="grantha">prasāda</hi>m peṟṟamaikku <hi rend="grantha">prasā</hi>tañ ce<supplied reason="omitted">y</supplied>taruḷi<choice><orig>n</orig><reg>ṉ</reg></choice>a tiru-mukam
+	</p>
+	
+	<p>
+		malaiya-p-pirāyarum tiru-mantira-Ōlai putukkuṭaiyārum Eḻuttiṭṭa tirumuka-p paṭiyum
+	</p>
+	
+		<p>			
+			 puro<lb n="9" break="no"/>vari <hi rend="grantha">śrī</hi>-karaṇattu mukaveṭṭi neṭuma<unclear>ṇa</unclear>m-uṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice>u<supplied reason="omitted">m</supplied> purovari <hi rend="grantha">śrī</hi>kara<unclear>ṇa</unclear>-nāyakam po<choice><orig>n-n</orig><reg>ṉ-ṉ</reg></choice>-uḻā<choice><orig>n</orig><reg>ṉ</reg></choice>um purovari <hi rend="grantha">śrī</hi>karaṇa-mukaveṭṭi paṇṇai nallūr-uṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice>um purovari <hi rend="grantha">śrī</hi>-karaṇa-mukaveṭṭi vēḷār-kiḻava<choice><orig>n</orig><reg>ṉ</reg></choice>um purovari <hi rend="grantha">śrī</hi>-karaṇa-mukaveṭṭi Aracūr-uṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice>um purovari <hi rend="grantha">śrī</hi>-karaṇa-nāyakam ceṟṟūr-uṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice>um purovari-k kūṟu pa<unclear>ṅ</unclear>ka<unclear>ḷa</unclear>-rāyarum ciṅkaḷa-rā<unclear>yarum</unclear> <unclear>va</unclear>ya<unclear>nā</unclear>ṭṭ-araiya
+		<lb n="10" break="no"/>rum Eḻuttiṭṭa Uḷvari-p paṭi
+	</p>
+	
+	<p>
+		It-tēvar <unclear>tē</unclear>vatā<choice><orig>n</orig><reg>ṉ</reg></choice>am-āna Uyyakoṇṭār-va<unclear>ḷa</unclear>-nāṭṭu tiraim<choice><orig>u</orig><reg>ū</reg></choice>r-nāṭṭu cempiya<choice><orig>n</orig><reg>ṉ</reg></choice> kuḷattūril kulōttuṅka-cōḻa-vatikku kiḻakku mu<unclear>ñ</unclear>ci-k kaṇṇāṟṟukku teṟku kiṭāraṅ-koṇṭa-cōḻa-vatikku mēṟku ta<unclear>rā-p</unclear>-paḷḷa-k-kaṇṭattukku vaṭakku naṭuviṟ-kaṇṭattu nilam o<choice><orig>n</orig><reg>ṉ</reg></choice>ṟ-ē mu-k-kāl-ē Arai-k-kāṇi muntirikai k<choice><orig>i</orig><reg>ī</reg></choice>ḻ araiyum
+	</p>
+	<p>
+		 Itan teṟku kiṭāraṅ-ko
+		<lb n="11" break="no"/>ṇṭa-cōḻa-vatikku mēṟku <hi rend="grantha">brahma</hi>tēyam tirai<unclear>m</unclear><choice><orig><unclear>u</unclear></orig><reg>ū</reg></choice><choice><orig><unclear>rr</unclear></orig><reg>r</reg></choice> <unclear>ellai</unclear>kku vaṭakku pāmpuṇi kiḻā<choice><orig>n</orig><reg>ṉ</reg></choice> nilattukku kiḻakku nilam mu-k-kāl-ē nālu-mā Arai-k-kāṇi muntirikaiyum Āka
+	</p>
+	<p>
+		nilam Iraṇṭ’ araiyē nālu-mā-k kāṇi Arai-k-kāṇi k<choice><orig>i</orig><reg>ī</reg></choice>ḻ araikku nilav-ōpātiyāl<!--check meaning--> nel munnūṟṟu nāṟpa<unclear>t</unclear>t’ o<choice><orig>n</orig><reg>ṉ</reg></choice><unclear>pa</unclear>ti<choice><orig>n</orig><reg>ṉ</reg></choice> kala<unclear>ttin</unclear>āl uṟai<unclear>n</unclear>ā<unclear>ḻi</unclear>-y eṟṟi nel munnūṟṟ’ aṟu-pati<choice><orig>n</orig><reg>ṉ</reg></choice> kalattukkum		
+	</p>
+	
+	<p>
+		<lb n="12"/>Ivai kōyiṟ kaṇakku-k kuṇṭaiyūr kiḻava<choice><orig>n</orig><reg>ṉ</reg></choice> eḻuttu Ip-paṭikku Iv<unclear>ai</unclear> tēvarka<choice><orig>n</orig><reg>ṉ</reg></choice>mi tirucciṟṟampala-paṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice> Eḻuttu Ip-paṭikku Ivai <hi rend="grantha">śrī</hi>-kāriyam mu<unclear>la</unclear>ṅkuṭaiyān Eḻuttu I<unclear>v</unclear>ai tiruviti A<choice><orig>n</orig><reg>ṉ</reg></choice>paṟkaraci<choice><orig>n</orig><reg>ṉ</reg></choice> Eḻuttu
+	</p>
+	
+	<p>
+		yāṇṭu 6-vatu cempiya<choice><orig>n</orig><reg>ṉ</reg></choice> kuḷattūril tārā-p-paḷḷa-kaṇṭattu p<unclear>ā</unclear>mpuṇi <unclear>ki</unclear>ḻā<choice><orig>n</orig><reg>ṉ</reg></choice> nila<unclear>ttu</unclear>kku kiḻakku mu<choice><orig>n</orig><reg>ṉ</reg></choice><unclear>pu U</unclear>ṟ<unclear>ai</unclear>
+		<lb n="13" break="no"/>nāḻi nellukk’ e<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu n<choice><orig>i</orig><reg>ī</reg></choice>kki pi<choice><orig>n</orig><reg>ṉ</reg></choice>pu pukunta ni<unclear>la</unclear>m {8 symbols = fractions}<!-- update encoding of fractions--> Āka
+	</p>
+	<p>
+		nilam Iraṇ<unclear>ṭ-ē</unclear>  mu-k-kāl-ē Oru-mā-v arai Arai-k-kāṇiyi<choice><orig>n</orig><reg>ṉ</reg></choice>āl nel munnūṟṟ’ aṟu-pati<choice><orig>n</orig><reg>ṅ</reg></choice> kalatt<unclear>ā</unclear>lum
+	</p>
+	
+	<p>
+		I<unclear>v</unclear><hi rend="grantha">ai</hi> k<unclear>ō</unclear>yiṟ kaṇakku kuṇṭaiyūr kiḻava<unclear>n</unclear> eḻuttu Ip-paṭikku Iv<hi rend="grantha">ai</hi> tē<unclear>varkan</unclear>mi tirucciṟṟampala-pa<unclear>ṭṭan eḻuttu</unclear> Ip-paṭikku I<unclear>v</unclear>ai <hi rend="grantha">śrī</hi>-kāriyam mulaṅkuṭaiyā<unclear>n</unclear> eḻut<unclear>tu</unclear> Ip-paṭikku <unclear>I</unclear>
+		<lb n="14" break="no"/>vai <hi rend="grantha">śrī</hi>-mā<hi rend="grantha">heśva</hi>ra-kaṇkāṇi tiruvā<unclear>ti</unclear> Anpaṟkaraci<choice><orig>n</orig><reg>ṉ</reg></choice> eḻuttu
+	</p>
+	
+</div>
+       	
+<div type="apparatus">
+    	   
+	<listApp>
+		
+		<!--<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:Hultzsch1895_01">...</rdg>
+		</app>	-->
+		
+		<app loc="6">
+			<lem>°<hi rend="grantha">c<unclear>ō</unclear>ḷa</hi>°</lem>
+			<note>The <foreign>kompu</foreign> only is unclear in <hi rend="grantha">c<unclear>ō</unclear><choice><orig>ḷ</orig><reg>ḻ</reg></choice>a</hi>.</note>
+		</app>	
+		
+		<app loc="7">
+			<lem>pāṇapeṟ-āka</lem>
+			<rdg source="bib:KrishnaSastri1925_01">pāṇapeṟāka</rdg>
+			<note>Palaniappan <!--update--> reads <foreign>pāṇpeṟāka</foreign>, supposedly because he expects <foreign>pāṇa-p-peṟ-āka</foreign>, but we find below <foreign>tirucciṟṟampala-paṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice></foreign>, whereas <foreign>tirucciṟṟampala-p-paṭṭaṉ</foreign> is the standard expected form.</note>
+		</app>
+		
+		<app loc="8">
+			<lem>pāṇa-kāṇiyum</lem>
+			<rdg source="bib:KrishnaSastri1925_01">pāṇakāṇiyum</rdg>
+			<note>Palaniappan <!--update--> reads <foreign>pāṇkāṇiyum</foreign>.</note>
+		</app>
+		
+		<app loc="13">
+			<lem>k<unclear>ō</unclear>yiṟ-kaṇakku</lem>
+			<note>The <foreign>kompu</foreign> only is unclear in k<unclear>ō</unclear>yiṟ.</note>
+		</app>	
+		
+	
+	</listApp>    			
+    	
+</div>
+    	
+<div type="translation" resp="part:reda part:emfr">
+	
+	<p n="1">
+		Prosperity! Fortune!
+	</p>	
+	
+	<p n="5-6">
+		9th year of the glorious king Kulottuṅgacōḷa, empereur of the three worlds, <hi rend="italic">alias</hi> Kōpparakesarivarman. 	</p>
+	
+	<p n="1-5">
+		who graciously sat with ... [<foreign>meykkīrtti</foreign> of Kulottuṅga II Cōḻa]
+	</p>
+	
+	<p n="6-8">
+		<supplied reason="subaudible">There is</supplied>, from the ninth year onwards, a royal order that was graciously made as a grace <supplied reason="explanation"><foreign><hi rend="grantha">prasā</hi>tañ ceytaruḷiṉa</foreign></supplied> for the obtention <supplied reason="explanation"><foreign><hi rend="grantha">prasāda</hi>m peṟṟamaikku</foreign></supplied> of grace 
+		so that it should be engraved <supplied reason="explanation"><foreign>kalveṭṭi koḷvat’ āka</foreign></supplied> in this manner that:
+		
+		<list><item><supplied reason="subaudible">1</supplied> according to the manner <supplied reason="explanation"><foreign>paṭikku</foreign></supplied> of receiving <supplied reason="explanation"><foreign>peṟṟa</foreign></supplied> the <foreign>kāṇi</foreign>,
+			for the singer <supplied reason="explanation"><foreign>pāṇaṉ</foreign></supplied> Acañcala-p-perayaṉ, <hi rend="italic">alias</hi> Irumuṭi-cōḻaṉ,
+			so that he sings <supplied reason="explanation"><foreign>pāṭa-v-um</foreign><note>Discuss wether he sings or he has other sing.<!--update--></note></supplied> for the Lord of Tiruviṭaimarutu, Lord of Tiraimūrnāṭu in Uyyakoṇṭārvaḷanāṭu,
+			so that he has dancing girls <supplied reason="explanation"><foreign>tēvarāṭiyār</foreign></supplied>, attached to this temple <supplied reason="explanation"><foreign>taḷiyillār</foreign></supplied>, to sing,
+			for him <supplied reason="explanation"><foreign>ivaṉukku</foreign></supplied>,
+			as one who takes charge <supplied reason="explanation"><foreign>kaṭavaṉ-āka</foreign></supplied> of appointing <supplied reason="explanation"><foreign>iṭa</foreign></supplied> singers <supplied reason="explanation"><foreign>pāṇarai</foreign></supplied>,
+			and for those in his lineage, 
+			after meeting <supplied reason="explanation"><foreign>kūṭa</foreign><note>That is, agreeing with.</note></supplied> with the temple servants <supplied reason="explanation"><foreign>nivantakkārar</foreign></supplied> who carry out different tasks in this temple,
+			an endowment <supplied reason="explanation"><foreign>nivantam</foreign><note>Sanskrit <foreign>nibandha</foreign>.</note></supplied> has been established <supplied reason="explanation"><foreign>kaṭṭi</foreign><note>Literally: having established a endowment.</note></supplied>,
+			from the ninth year onwards,
+			<supplied reason="subaudible">consisting in</supplied> paddy that comes <supplied reason="explanation"><foreign>vanta</foreign></supplied> as one pot of paddy <supplied reason="subaudible">measured</supplied> by the village stone <supplied reason="explanation"><foreign>ūr-k-kāl</foreign></supplied> per day <supplied reason="explanation"><foreign>nāḷ oṉṟukku</foreign></supplied>,
+			so as to include <supplied reason="explanation"><foreign>uḷpaṭa</foreign></supplied> the gold and the paddy formerly received <supplied reason="explanation"><foreign>muṉpu peṟṟu varum</foreign></supplied> as <foreign>pāṇa-p-peṟu</foreign> <supplied reason="explanation"><foreign>pāṇa-p-peṟ-āka</foreign></supplied> in this temple;</item>	
+			
+			<item><supplied reason="subaudible">2</supplied> is given <supplied reason="explanation"><foreign>viṭṭu</foreign><note>Literally: having left, released.</note></supplied> to him,
+				<supplied reason="subaudible">as for</supplied> land needed for <supplied reason="subaudible">producing</supplied> this paddy, having removed <supplied reason="explanation"><foreign>tavirttu</foreign></supplied> the previous owners,
+				having obtained <supplied reason="explanation"><foreign>aṭaittu</foreign></supplied>
+				a <foreign>pāṇa-k-kāṇi</foreign> in the villages which are a <foreign>devadāna</foreign> of this god
+				and a livelihood through land <supplied reason="explanation"><foreign>nila-<hi rend="grantha">jī</hi>vitam</foreign></supplied>,
+				a house-site <supplied reason="explanation"><foreign>maṉai</foreign></supplied> as dwelling place <supplied reason="explanation"><foreign>kuṭi-y-iruppu</foreign></supplied>, <supplied reason="subaudible">as it was to</supplied> previous singers <supplied reason="explanation"><foreign>pāṇar</foreign></supplied>.</item></list>
+		
+	</p>	
+	
+	<p n="8">
+		<supplied reason="subaudible">This is</supplied> according to the royal order that Malaiyappirāyar and the <foreign>tirumantiravōlai</foreign><note>This term designates an office, that in charge of royal orders.</note> Putukkuṭaiyar signed.
+	</p>
+	
+	<p n="8-10">
+		<supplied reason="subaudible">This is</supplied> also according to the tax exemption <supplied reason="explanation"><foreign>uḷvari</foreign></supplied> that
+		<list>
+			<item>Neṭumaṇamuṭaiyāṉ, the official of the revenue department <supplied reason="explanation"><foreign>purovari <hi rend="grantha">śrī</hi>karaṇattu mukaveṭṭi</foreign></supplied>,
+			</item>
+			<item>Poṉṉuḻāṉ, the head of the revenue department <supplied reason="explanation"><foreign>purovari <hi rend="grantha">śrī</hi>karaṇa-nāyakam</foreign></supplied> Poṉṉuḻāṉ,
+			</item>
+			<item>
+				Paṇṇai Nallūruṭaiyāṉ, the official of the revenue department <supplied reason="explanation"><foreign>purovari <hi rend="grantha">śrī</hi>karaṇa-mukaveṭṭi</foreign></supplied>,
+			</item>
+			<item>
+				Vēḷār Kiḻavaṉ, the official of the revenue department <supplied reason="explanation"><foreign>purovari <hi rend="grantha">śrī</hi>karaṇa-mukaveṭṭi</foreign></supplied>,
+			</item>
+			<item>
+				Aracūruṭaiyāṉ, the official of the revenue department <supplied reason="explanation"><foreign>purovari <hi rend="grantha">śrī</hi>karaṇa-mukaveṭṭi</foreign></supplied>,
+			</item>
+			<item>
+				Ceṟṟūruṭaiyāṉ, the head of the revenue department <supplied reason="explanation"><foreign>purovari <hi rend="grantha">śrī</hi>karaṇa-nāyakam</foreign></supplied>,
+			</item>
+			<item>
+				Paṅkaḷarāyar, the land revenue official <supplied reason="explanation"><foreign>purovari</foreign></supplied> of the <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>kūṟu</foreign></supplied>,
+			</item>
+			<item>
+				Ciṅkaḷarāyar,
+			</item>
+			<item>
+				and Vayanāṭṭāraiyar
+			</item>
+		</list>
+		have signed.	
+		
+	</p>
+	
+	<p n="10-11">
+		<supplied reason="subaudible">Thus it is,</supplied> so that there be <supplied reason="explanation"><foreign>āka</foreign></supplied>
+		
+		<list>
+			<item>a land in the middle portion <supplied reason="explanation"><foreign>naṭuviṟ kaṇṭattu</foreign></supplied>, which is a <foreign>devadāna</foreign> of this god, <supplied reason="subaudible">and which is situated</supplied>
+				east of Kulōttuṅka-cōḻa-vati, in Cempiyaṉ Kuḷattūr in Tiraimūrnāṭu in Uyyakoṇṭārvaḷanāṭu,
+				south of the Muñci branch canal <supplied reason="explanation"><foreign>kaṇṇāṟu</foreign></supplied>,
+				west of Kiṭāraṅkoṇṭacōḻavati,
+				north of Tarāppaḷḷākkaṇṭam<note>Tārāppaḷḷākkaṇṭam in line 12.</note>,
+				<supplied reason="subaudible">and which consists in</supplied>
+				one <supplied reason="subaudible"><foreign>vēli</foreign></supplied>, three quarters <supplied reason="explanation"><foreign>mukkālē</foreign></supplied>, one hundred-and-sixtieth <supplied reason="explanation"><foreign>araikkāṇi</foreign></supplied>, one three-hundred-and-twentieth <supplied reason="explanation"><foreign>muntirikai</foreign></supplied>, one six-hundred-fortieth <supplied reason="explanation"><foreign>kīḻarai</foreign></supplied></item>
+			<item><supplied reason="subaudible">and</supplied> south of this, a land <supplied reason="subaudible">and which is situated</supplied>
+				west of ...
+				north of ...
+				west of ...
+				east of ...
+				<supplied reason="subaudible">and which consists in</supplied>
+				...
+			</item>
+		</list>
+		for three hundred sixty pots <supplied reason="explanation"><foreign>kalattukkum</foreign></supplied> of paddy ...
+		through three hundred fourty nine pots <supplied reason="explanation"><foreign>kalattiṉāl</foreign></supplied> of paddy ...	
+	</p>
+		
+	<p n="12">
+		<list>
+			<item>These is the signature of Kuṇṭaiyūr Kiḻavaṉ, the accountant of the temple;</item>
+			<item>in this manner, these is the signature of Tirucciṟṟampalapaṭṭaṉ, the temple official <supplied reason="explanation"><foreign>tēvarkaṉmi</foreign></supplied>;</item>
+			<item>in this manner, these is the signature of Mu<unclear>la</unclear>ṅkuṭaiyān, the temple official <supplied reason="explanation"><foreign><hi rend="grantha">śrī</hi>kāriyam</foreign></supplied>;</item>
+			<item>these is the signature of Tiruviti<note>Tiruvāti in line 13.</note> Aṉpaṟkaracu.</item>
+		</list>			
+	</p>
+	
+	<p n="12-13">
+		<supplied reason="subaudible">Thus it is,</supplied> so that there be <supplied reason="explanation"><foreign>āka</foreign></supplied>,
+		<supplied reason="subaudible">from</supplied> the 6th year,
+		a land ...
+	</p>
+	
+	<p n="13">
+		<supplied reason="subaudible">Thus it is,</supplied> 
+		through three hundred sixty pots <supplied reason="explanation"><foreign>kalattālum</foreign></supplied> of paddy
+		trough ... of land.
+	</p>
+	
+	<p n="13-14">
+		<list>
+			<item>These is the signature of Kuṇṭaiyūr Kiḻavaṉ, the accountant of the temple;</item>
+			<item>in this manner, these is the signature of Tirucciṟṟampalapaṭṭaṉ, the temple official <supplied reason="explanation"><foreign>tēvarkaṉmi</foreign></supplied>;</item>
+			<item>in this manner, these is the signature of Mu<unclear>la</unclear>ṅkuṭaiyān, the temple official <supplied reason="explanation"><foreign><hi rend="grantha">śrī</hi>kāriyam</foreign></supplied>;</item>
+			<item>in this manner, these is the signature of Tiruvāti<note>Tiruviti in line 12.</note> Aṉpaṟkaracu, the glorious <gap reason="ellipsis"/> <supplied reason="explanation"><foreign><hi rend="grantha">śrī</hi>-mā<hi rend="grantha">heśva</hi>ra-kaṇkāṇi</foreign></supplied>.</item>
+		</list>
+		
+	</p>		
+	
+</div>
+            
+<!--<div type="commentary">
+    		
+    		
+</div>-->
+    	
+<div type="bibliography">
+    		
+	<p>
+		First edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 05, no. 705); encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2023), based on <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl>.
+	</p>	
+	
+	<listBibl type="primary">
+		
+		<bibl n="SR">
+			<ptr target="bib:KrishnaSastri1925_01"/>
+			<citedRange unit="page">295-296</citedRange>
+			<citedRange unit="item">705</citedRange>
+		</bibl>
+		
+		
+		
+	</listBibl>
+	
+	<!--<listBibl type="secondary">
+				
+		<!-\-<bibl>
+			<ptr target="bib:ARIE1906-1907"/>
+			<citedRange unit="page">28</citedRange>
+			<citedRange unit="appendix">B/1906</citedRange>
+			<citedRange unit="item">333</citedRange>-\->
+		<!-\-</bibl>-\->
+		
+		Add Palaniappan
+		There is a partial translation in Archeology of Bhakti. Hagiography vs History p. 331-332
+	</listBibl>-->
+	
+</div>
+        </body>
+    </text>
+</TEI>
+<!--
+	Metadata:
+	south wall, second prākāra
+-->
