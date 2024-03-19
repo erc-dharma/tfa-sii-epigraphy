@@ -423,22 +423,27 @@ the land got, according to the document <supplied reason="explanation"><foreign>
 	
 	<div type="commentary">
 		
-		<p>According to epigraphist, from line 7 <supplied reason="explanation"><foreign>takkaṇalāṭamum</foreign></supplied>, “the wording is quite different from that of the other published inscriptions”. </p>
+		<p>The <foreign>meykkīrtti</foreign> is a mixing of that of Rājendra I Cōḻa and Rājendra II Cōḻa as found in <bibl>
+			<ptr target="bib:Cuppiramaniyam1983_01"/></bibl>. This is noted by <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (p. 29, fn. 5, at the word <foreign>takkaṇa-lāṭamum</foreign>, line 7): 
+			<quote>From here the wording is quite different from that of the other published inscriptions.</quote></p>
 </div>
     	
 <div type="bibliography">
 	
+	<p>First reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/118).</p>
+	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.223).</p>	
+	<p>First translated in <bibl><ptr target="bib:Orr2000_01"/></bibl> (pp. 121-122).</p>
+	
 	<p>		
-		Encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2024), based on previous edition; translated by Renato Dávalos and Emmanuel Francis.
+		Encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>; translated by Renato Dávalos and Emmanuel Francis.
 	</p>	
 	
 	<listBibl type="primary">
 		
-		<bibl n="SR1967">
+		<bibl n="SII">
 			<ptr target="bib:KrishnaSastri1923_01"/>
 			<citedRange unit="page">29-31</citedRange>
 			<citedRange unit="item">223</citedRange>
-			<note>33 epigraphic lines.</note>
 		</bibl>
 	</listBibl>
 	
@@ -446,9 +451,19 @@ the land got, according to the document <supplied reason="explanation"><foreign>
 				
 		<bibl>
 			<ptr target="bib:ARIE1887-1888_01"/>
-			<citedRange unit="page">20</citedRange>
-			<citedRange unit="appendix">B/1907</citedRange>
+			<citedRange unit="page">4</citedRange>
+			<citedRange unit="appendix">I/1887-1888</citedRange>
 			<citedRange unit="item">118</citedRange>			
+		</bibl>
+		
+		<bibl>
+			<ptr target="bib:Cuppiramaniyam1983_01"/>
+			<citedRange unit="page">TBC</citedRange>	
+		</bibl>
+		
+		<bibl>
+			<ptr target="bib:Orr2000_01"/>
+			<citedRange unit="page">121-122</citedRange>	
 		</bibl>
 		
 	</listBibl>
