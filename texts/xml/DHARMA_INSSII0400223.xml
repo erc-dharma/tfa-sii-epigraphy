@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Citamparam, Nāṭarāja temple, time of Rājendra Cōḻa I, year 24</title>
+				<title>Citamparam, Nāṭarāja temple, time of Rājendra Cōḻa, year 24</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -55,9 +55,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>List of expenses given for the Tiruvātirai festival celebrated in Cidambaram. The inscription includes donations of gold coins <supplied
-								reason="explanation"
-								><foreign>kācu</foreign></supplied> to Śrīmāheśvaras, reciters of <foreign>Tiruttoṇṭattokai</foreign>, weavers, oil sellers, merchants, among others.</summary>
+						<summary>Donation (<foreign>nibandha</foreign>) of gold (<foreign>kācu</foreign>) and paddy from a land bought for the purpose, in order to meet expenses at the time of the procession of the Lord of Tirucciṟṟampalam (Cidamabaram) during festival times (<foreign>tiruvāṉi</foreign>). The donees include Śrīmāheśvaras and 25 Brahmins who are fed, reciters of the <foreign>Tiruttoṇṭattokai</foreign>. Local communities (merchants, oil sellers, weavers, etc.) are demeed to maintain this donation.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -200,7 +198,7 @@
 			<item>paricaṭṭam uḷḷiṭṭa Aḻivukaḷukkum</item>
 		</list>
 		kācu Iraṇṭukkum Ip-paricu Ik-kuṟitta nivantaṅ cantirāti-t-tavaṟ cella <hi rend="grantha">rāje</hi>ntira-ciṅka-vaḷanāṭṭu-t taṉiyūr perum-paṟṟa-p-puliyūr-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-piṭākai-k kiṭāraṅ-koṇṭa-cō
-		<lb n="18" break="no"/>ḻa-p-periḷamai-nāṭṭu-p parākrama-cōḻa-nallūṟ-pāṟ kuṇame<choice><orig>n</orig><reg>ṉ</reg></choice>kaipuram eṉṟ' eṟiṉa nakarattukku-p piramāṇa-p paṭi koṇṭa nilaṉ 
+		<lb n="18" break="no"/>ḻa-p-periḷamai-nāṭṭu-p parākrama-cōḻa-nallūṟ-pāṟ kuṇamē<choice><orig>n</orig><reg>ṉ</reg></choice>akaipuram eṉṟ' eṟiṉa nakarattukku-p piramāṇa-p paṭi koṇṭa nilaṉ 
 	
 		<list>
 			<item>
@@ -323,15 +321,15 @@
 			
 <div type="apparatus">
 	
-	<!--<listApp>
+	<listApp>
 		
-		<!-\-<app loc="0">
-		<lem>...</lem>
-		<rdg source="bib:SrinivasaRao1967_01">...</rdg>
-		<rdg source="bib:SrinivasaRao1979_01">...</rdg>
-		</app>	-\->
+		<app loc="18">
+			<lem>kuṇamē<choice><orig>n</orig><reg>ṉ</reg></choice>akaipuram</lem>
+			<rdg source="bib:KrishnaSastri1923_01">kuṇamenkaipuram</rdg>
+			<note><ptr target="bib:KrishnaSastri1923_01"/></note>
+		</app>	
 		
-		</listApp>-->	
+	</listApp>	
 	
 </div>
 			
@@ -342,7 +340,7 @@
 	</p>
 	
 	<p n="15">
-		24th year of the glorious king Rājendra Cōḻa, the Lord, alias the king Rājakesarivarman,  
+		24th year of the glorious king Rājendra Cōḻa<note>Rājendra II Cōḻa? See mixed <foreign>meykkīrtti</foreign>.</note>, the Lord, alias the king Rājakesarivarman,  
 	</p>
 	
 	<p n="1-14">who ... [<foreign>meykkīrtti</foreign> of Rājendra I Cōḻa mixed the <foreign>meykkīrtti</foreign> of Rājendra II Cōḻa]</p>
@@ -350,12 +348,12 @@
 	<p n="15-22">
 		<list>
 			<item>For the expenses <supplied reason="explanation"><foreign>aḻivukkum</foreign></supplied> necessitated for the day <supplied reason="explanation"><foreign>aṟṟaikku</foreign></supplied> when the Lord, the Lord of Tirucciṟṟampalam, the Lord of Nakkaṉ<note>The name, which literally means "the dancer girl", already indicates the service she had at the temple.</note> Pāvai—the intimate of the king Rājendra Cōḻa, the Lord—graciously rises <supplied reason="explanation"><foreign>eḻunt-aruḷum</foreign><note>That is, "goes in procession".</note></supplied> on the glorious day <note>That is, "the festival day".</note> of the glorious <supplied reason="subaudible">month of</supplied> Āṉi,</item>
-		<item>for the oil <supplied reason="explanation"><foreign>eṇṇai</foreign><note>That is, <foreign>eṇṇay</foreign>.</note></supplied> necessited for the glorious festival, so as to give/when giving one thousand food offerings <supplied reason="explanation"><foreign>caṭṭi-c-cōṟu</foreign></supplied> to the glorious Māheśvaras at the time they feed food offerings to the Lord<!--[Orr: at the time when the rice offering is graciously [accepted by the Lord]]-->,</item>
+		<item>for the oil <supplied reason="explanation"><foreign>eṇṇai</foreign><note>That is, <foreign>eṇṇay</foreign>.</note></supplied> necessited for the glorious festival, so as to give/when giving <supplied reason="explanation"><foreign>kuṭukkavum</foreign></supplied> one thousand food offerings <supplied reason="explanation"><foreign>caṭṭi-c-cōṟu</foreign></supplied> to the glorious Māheśvaras at the time they feed the Lord food offerings<!--[Orr: "at the time when the rice offering is graciously [accepted by the Lord]"-->,</item>
 		<item>for the gold that the Lord graciously distribute <supplied reason="explanation"><foreign>vaḻaṅki aruḷum</foreign></supplied>,</item>
-		<item>for the expenses including … <supplied reason="explanation"><foreign>paricaṭṭam</foreign></supplied>,</item></list>
+		<item>for the expenses including garments <supplied reason="explanation"><foreign>paricaṭṭam</foreign></supplied>,</item></list>
 			
-so that a <foreign>nibandha</foreign>, so described <supplied reason="explanation"><foreign>ik-kuṟitta</foreign></supplied>, goes <supplied reason="explanation"><foreign>cella</foreign></supplied>, as long as the moon and the sun, for two <foreign>kācu</foreign>s in that manner<!--(that is, a nibandha consisting in two kācus for the above purposes)-->,
-the land got, according to the document <supplied reason="explanation"><foreign>piramāṇam</foreign></supplied>) <supplied reason="subaudible">meant for</supplied> for the <foreign>nakaram</foreign> settled <supplied reason="explanation"><foreign>ēṟiṉa</foreign></supplied><!--Orr: who reside--> … <supplied reason="explanation"><foreign>eṉṟu</foreign></supplied> Kuṇamenkaipuram, a section <supplied reason="explanation"><foreign>pāl</foreign></supplied> of Parākramacōḻanallūr in the Kiṭāraṅkoṇṭacōḻaperiḷamaināṭu<note>“The <foreign>uḻukuḍi</foreign> or the tenant-cultivators were otherwise called <foreign>pēriḷamai</foreign>”, according to Subbrayalu South India p. 153. It would mean that this is referring to a Brāhmaṇa settlement which was in fact a hamlet of an independent village <supplied reason="explanation"><foreign>taṉiyūr</foreign></supplied> inhabited by these <foreign>uḻukuṭi</foreign>. </note>, an eastern hamlet <supplied reason="explanation"><foreign>piṭākai</foreign></supplied> of Perumpaṟṟappuliyūr, an independent town <supplied reason="explanation"><foreign>taṉiyūr</foreign></supplied> in the Rājentiraciṅkaḷanāṭu
+so that a <foreign>nibandha</foreign>, so described <supplied reason="explanation"><foreign>ik-kuṟitta</foreign></supplied>, goes <supplied reason="explanation"><foreign>cella</foreign><note>That is, "is in force".</note></supplied>, as long as the moon and the sun, for two <foreign>kācu</foreign>s in that manner<!--That is, a nibandha consisting in two kācus for the above purposes-->,
+the land got, according to the document <supplied reason="explanation"><foreign>piramāṇam</foreign></supplied> <supplied reason="subaudible">meant for</supplied> for the <foreign>nakaram</foreign> settled <supplied reason="explanation"><foreign>ēṟiṉa</foreign></supplied><!--Orr: who reside--> under the name <supplied reason="explanation"><foreign>eṉṟu</foreign></supplied> Kuṇamēnakaipuram<note>This placename</note>, a section <supplied reason="explanation"><foreign>pāl</foreign></supplied> of Parākramacōḻanallūr in the Kiṭāraṅkoṇṭacōḻaperiḷamaināṭu<note>“The <foreign>uḻukuḍi</foreign> or the tenant-cultivators were otherwise called <foreign>pēriḷamai</foreign>”, according to Subbrayalu South India p. 153. It would mean that this is referring to a Brāhmaṇa settlement which was in fact a hamlet of an independent village <supplied reason="explanation"><foreign>taṉiyūr</foreign></supplied> inhabited by these <foreign>uḻukuṭi</foreign>. </note>, an eastern hamlet <supplied reason="explanation"><foreign>piṭākai</foreign></supplied> of Perumpaṟṟappuliyūr, an independent town <supplied reason="explanation"><foreign>taṉiyūr</foreign></supplied> in the Rājentiraciṅkaḷanāṭu
 	<supplied reason="subaudible">is as follows:</supplied> 
 		
 		<list>
@@ -425,7 +423,7 @@ the land got, according to the document <supplied reason="explanation"><foreign>
 	<p>First translated in <bibl><ptr target="bib:Orr2000_01"/></bibl> (pp. 121-122).</p>
 	
 	<p>		
-		Encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>; translated by Renato Dávalos and Emmanuel Francis.
+		Re-edited and re-translated here for DHARMA (ERC n° 809994) by Renato Dávalos and and Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>.
 	</p>	
 	
 	<listBibl type="primary">
