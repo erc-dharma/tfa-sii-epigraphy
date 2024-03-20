@@ -95,90 +95,98 @@
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
-<body>	
-
-<div type="edition" xml:lang="tam-Latn">
+		<body>	
+			
+			<div type="edition" xml:lang="tam-Latn">
 				
-	<ab>
-		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
-	</ab>
-	
-	
-	<p>
-		<hi rend="grantha">tribhu</hi>vanaccakkaravatti <hi rend="grantha">śrī</hi>ka<supplied reason="undefined">ri</supplied>kālac<supplied reason="undefined">ō</supplied>ḻa-tēvaṟkku-t tiruveḻuttiṭṭu-c<!--@reda: only kompu is clear in cola-->
-		
-		<lb n="2"/>cellāni<choice><orig>n</orig><reg>ṉ</reg></choice>ṟa tirunalliyāṇṭu 2 Āvati<choice><orig>n</orig><reg>ṉ</reg></choice>
-	</p> 
-	
-	<p>
-		Etir Etir Etir Etir kō<choice><orig>n</orig><reg>ṉ</reg></choice>eriṉmai<!--@emfr: the word is koneri but the editor has koneRRI. How to encode it?-->
-
-<lb n="3" break="no"/>koṇṭā<choice><orig>n</orig><reg>ṉ</reg></choice> pērūrnāṭṭu pērūr Āḷuṭaiyār tiruvānpaṭṭi-y āṇṭārk
-
-<lb n="4" break="no"/>ku nam Āḻvikku naṉṟāka nām kaṇṭa tirunāḷ-āvatu <choice><orig>Aṟpikai</orig><reg>Aippaci</reg></choice>-t tiṅkaḷ-t tirunāḷ 
-
-<lb n="5" break="no"/><supplied reason="undefined">E</supplied>ḻuntaruḷi Āḻvi piṟanta tirunāḷ Uttirāṭatti<choice><orig>n</orig><reg>ṉ</reg></choice> Anṟu t<choice><sic>i</sic><corr>ī</corr></choice><choice><sic><hi rend="grantha">rtdha</hi></sic><corr><hi rend="grantha">rtha</hi></corr></choice>m <hi rend="grantha">prasā</hi>ti-t taruḷu
-
-<lb n="6" break="no"/>kaikku viṭṭa nilam-āvatu tirunāḷ-p paṭiyil Amutupaṭikku-p paṭi-y iraṭṭiyum 
-
-<lb n="7"/>ciṟappukku kaṟiyamutum uppamutum miḷakamutum parupp’amutum naiyamutu
-
-<lb n="8" break="no"/>m tayiramutum caṟkaraiyamutum tiruviḷakke<supplied reason="undefined">ṇ</supplied>ṇaiyum Aṭaikkāyyamu
-
-<lb n="9" break="no"/>tum-y ilaiyamutum <hi rend="grantha">Aṣṭa</hi>paripāla<supplied reason="undefined">naṅa</supplied>kaḷukkum yā<hi rend="grantha">ga</hi>maṇṭapattukku Amutu<!--@reda: note  it should be paripalanankalukkum, not nana-->
-
-<lb n="10"/>ceyyum <hi rend="grantha">de</hi>va<supplied reason="omitted">r</supplied>kaḷukkum <hi rend="grantha">ho</hi>ma<hi rend="grantha">dravya</hi>ṅkaḷukkum paṭi-y iraṭṭi Amutu ce<!--@emfr:maybe a missing ya in ceyyakkatava?-->
-
-<lb n="11" break="no"/>yakkaṭava <hi rend="grantha">de</hi>va<supplied reason="omitted">r</supplied>kaḷukkum ciṟappamut’ā<choice><orig>n</orig><reg>ṉ</reg></choice>a peruntiru Amutukaḷukkum Ācāriya paricāraka
-
-<lb n="12" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>ukkum tirunāḷ cevikka vanta Āṇṭā<supplied reason="omitted">r</supplied>kaḷukkum tirunāḷ cevikkavun tiruppatiyam pāṭu
-
-<lb n="13" break="no"/>vārkaḷukkum cevikkavanta viccāttikaḷukkum palivitattāl Uḷḷa Aḻivum maṭatti<supplied reason="omitted">l</supplied> Ā
-
-<lb n="14" break="no"/>ṇtārka<supplied reason="undefined">ḷu</supplied><supplied reason="omitted">m</supplied> Amutum maṟṟum nel Ēṟṟi tirukkoṭimutal t<choice><sic>i</sic><corr>ī</corr></choice><choice><sic><hi rend="grantha">rtdha</hi></sic><corr><hi rend="grantha">rtha</hi></corr></choice>m <hi rend="grantha">prasā</hi>titt’ aruḷi<supplied reason="undefined"><choice><orig>n</orig><reg>ṉ</reg></choice>a</supplied> Āṉ
-
-<lb n="15" break="no"/>ṟu mutal ti<supplied reason="undefined">ru</supplied>nāḷ-p pattukkum veṇṭu<supplied reason="omitted">m</supplied> nel mu<choice><orig>ṉ</orig><reg>n</reg></choice>nūṟṟu Aṟupatiṅ kalattu<supplied reason="undefined">k</supplied>ku nām
-
-<lb n="16"/>viṭṭa nila<supplied reason="undefined">māvatu</supplied> pērūrnāṭṭu <gap reason="lost" quantity="5" unit="character"/>āl Amara-puyaṅka-nallūril It-tēvar <hi rend="grantha">śrī</hi>k
-
-<lb n="17" break="no"/>āriyam ceyvārkaḷ vacam viṭṭa <gap unit="character" quantity="6" reason="lost"/> Irupattunā<supplied reason="undefined">ṟ</supplied> kalaṉē Aṟunāḻikku nila
-
-<lb n="18" break="no"/>m nan=tipaṉma<choice><orig>ṉ</orig><reg>n</reg></choice>ukku nām kāṇiyāka <gap reason="lost" quantity="5" unit="character"/>ttil Amarapuyaṅkamaṉ naṟaiyil ni<supplied reason="undefined">la</supplied>m A<gap extent="unknown" reason="ellipsis"/><!--note that the inscription is incomplete-->
-	</p>
-	
-</div>
+				<ab>
+					<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+				</ab>
+				
+				
+				<p>
+					<hi rend="grantha">tribhu</hi>vanaccakkaravatti <hi rend="grantha">śrī</hi>ka<supplied reason="undefined">ri</supplied>kālac<supplied reason="undefined">ō</supplied>ḻa-tēvaṟkku-t tiruveḻuttiṭṭu-c<!--@reda: only kompu is clear in cola-->
+					
+					<lb n="2"/>cellāni<choice><orig>n</orig><reg>ṉ</reg></choice>ṟa tirunalliyāṇṭu 2 Āvati<choice><orig>n</orig><reg>ṉ</reg></choice>
+				</p> 
+				
+				<p>
+					Etir Etir Etir Etir kō<choice><orig>n</orig><reg>ṉ</reg></choice>eriṉmai<!--@emfr: the word is koneri but the editor has koneRRI. How to encode it?-->
+					
+					<lb n="3" break="no"/>koṇṭā<choice><orig>n</orig><reg>ṉ</reg></choice> pērūrnāṭṭu pērūr Āḷuṭaiyār tiruvānpaṭṭi-y āṇṭārk
+					
+					<lb n="4" break="no"/>ku nam Āḻvikku naṉṟāka nām kaṇṭa tirunāḷ-āvatu <choice><orig>Aṟpikai</orig><reg>Aippaci</reg></choice>-t tiṅkaḷ-t tirunāḷ 
+					
+					<lb n="5" break="no"/><supplied reason="undefined">E</supplied>ḻuntaruḷi Āḻvi piṟanta tirunāḷ Uttirāṭatti<choice><orig>n</orig><reg>ṉ</reg></choice> Anṟu t<choice><sic>i</sic><corr>ī</corr></choice><choice><sic><hi rend="grantha">rtdha</hi></sic><corr><hi rend="grantha">rtha</hi></corr></choice>m <hi rend="grantha">prasā</hi>ti-t taruḷu
+					
+					<lb n="6" break="no"/>kaikku viṭṭa nilam-āvatu 
+				</p> 
+				
+				<p>
+					
+					tirunāḷ-p paṭiyil Amutupaṭikku-p paṭi-y iraṭṭiyum 
+					
+					<lb n="7"/>ciṟappukku kaṟiyamutum uppamutum miḷakamutum parupp’amutum naiyamutu
+					
+					<lb n="8" break="no"/>m tayiramutum caṟkaraiyamutum tiruviḷakke<supplied reason="undefined">ṇ</supplied>ṇaiyum Aṭaikkāyyamu
+					
+					<lb n="9" break="no"/>tum-y ilaiyamutum <hi rend="grantha">Aṣṭa</hi>paripāla<supplied reason="undefined">naṅa</supplied>kaḷukkum yā<hi rend="grantha">ga</hi>maṇṭapattukku Amutu<!--@reda: note  it should be paripalanankalukkum, not nana-->
+					
+					<lb n="10"/>ceyyum <hi rend="grantha">de</hi>va<supplied reason="omitted">r</supplied>kaḷukkum <hi rend="grantha">ho</hi>ma<hi rend="grantha">dravya</hi>ṅkaḷukkum paṭi-y iraṭṭi Amutu ce<!--@emfr:maybe a missing ya in ceyyakkatava?-->
+					
+					<lb n="11" break="no"/>yakkaṭava <hi rend="grantha">de</hi>va<supplied reason="omitted">r</supplied>kaḷukkum ciṟappamut’ā<choice><orig>n</orig><reg>ṉ</reg></choice>a peruntiru Amutukaḷukkum Ācāriya paricāraka
+					
+					<lb n="12" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>ukkum tirunāḷ cevikka vanta Āṇṭā<supplied reason="omitted">r</supplied>kaḷukkum tirunāḷ cevikkavun tiruppatiyam pāṭu
+					
+					<lb n="13" break="no"/>vārkaḷukkum cevikkavanta viccāttikaḷukkum palivitattāl Uḷḷa Aḻivum maṭatti<supplied reason="omitted">l</supplied> Ā
+					
+					<lb n="14" break="no"/>ṇtārka<supplied reason="undefined">ḷu</supplied><supplied reason="omitted">m</supplied> Amutum maṟṟum nel Ēṟṟi tirukkoṭimutal t<choice><sic>i</sic><corr>ī</corr></choice><choice><sic><hi rend="grantha">rtdha</hi></sic><corr><hi rend="grantha">rtha</hi></corr></choice>m <hi rend="grantha">prasā</hi>titt’ aruḷi<supplied reason="undefined"><choice><orig>n</orig><reg>ṉ</reg></choice>a</supplied> Āṉ
+					
+					<lb n="15" break="no"/>ṟu mutal ti<supplied reason="undefined">ru</supplied>nāḷ-p pattukkum veṇṭu<supplied reason="omitted">m</supplied> nel mu<choice><orig>ṉ</orig><reg>n</reg></choice>nūṟṟu Aṟupatiṅ kalattu<supplied reason="undefined">k</supplied>ku nām
+					
+					<lb n="16"/>viṭṭa nila<supplied reason="undefined">māvatu</supplied> pērūrnāṭṭu <gap reason="lost" quantity="5" unit="character"/>āl Amara-puyaṅka-nallūril It-tēvar <hi rend="grantha">śrī</hi>k
+					
+					<lb n="17" break="no"/>āriyam ceyvārkaḷ vacam viṭṭa <gap unit="character" quantity="6" reason="lost"/> Irupattunā<supplied reason="undefined">ṟ</supplied> kalaṉē Aṟunāḻikku nila
+					
+					<lb n="18" break="no"/>m nan=tipaṉma<choice><orig>ṉ</orig><reg>n</reg></choice>ukku nām kāṇiyāka <gap reason="lost" quantity="5" unit="character"/>ttil Amarapuyaṅkamaṉ naṟaiyil ni<supplied reason="undefined">la</supplied>m A<gap extent="unknown" reason="ellipsis"/><!--note that the inscription is incomplete-->
+				</p>
+				
+			</div>
 			
-<div type="apparatus">
-	
-	<!--<listApp>
-		
-		<!-\-<app loc="0">
-		<lem>...</lem>
-		<rdg source="bib:SrinivasaRao1967_01">...</rdg>
-		<rdg source="bib:SrinivasaRao1979_01">...</rdg>
-		</app>	-\->
-		
-		</listApp>-->	
-	
-</div>
+			<div type="apparatus">
+				
+				<!--<listApp>
+					
+					<!-\-<app loc="0">
+					<lem>...</lem>
+					<rdg source="bib:SrinivasaRao1967_01">...</rdg>
+					<rdg source="bib:SrinivasaRao1979_01">...</rdg>
+					</app>	-\->
+					
+					</listApp>-->	
+				
+			</div>
 			
-<div type="translation" resp="part:reda part:emfr">
-	
-	<p n="1">
-		Prosperity! Fortune!		
-	</p>
-	
-	<p n="15">
-		In progress...	
-	</p>
-	
-	
-	
-	
-	
-	
-</div>
-	
+			<div type="translation" resp="part:reda part:emfr">
+				
+				<p n="1">
+					Prosperity! Fortune!		
+				</p>
+				
+				<p n="1-2">
+					Currently, the second year of the prosperous year signed by the king Tribhuvanac-cakkaravatti Śrīkarikāla-cōḻa. 
+					
+				</p>
+				
+				<p n="2-6">
+					This is the land that is bestowed for the graceful offering of sacred water on the day of the  Uttirāṭam festival, the birthday of the queen who gracefully established the festival in the month of Aṟpikai (Aippaci). That is, the holy festival that we have seen on the day of our queen dedicated to Āḷuṭaiyār Tiruvānpaṭṭiyāṇṭār of Pērūr, located in Pērūrnāṭu of Kōnēṟṟiṉmaikoṇṭāṉ who was against (etir etir) the opposition (etir etir?). 
+				</p>
+				
+				
+				
+				
+			</div>
+			
 	<div type="commentary">
 		
 		
