@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Pērūr, Gōshṭhīśvara temple, time of Karikāla Cōḻa, year 2	</title>
+            <title>Pērūr, Gōshṭhīśvara temple, time of Karikāla Cōḻa, year 2 </title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:reda">
@@ -38,11 +38,11 @@
             <idno type="filename">DHARMA_INSSII0500228</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
-                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported 
-                            Licence. To view a copy of the licence, visit
-                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
-                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-                            California, 94041, USA.</p>
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
                   <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
                </licence>
             </availability>
@@ -55,7 +55,9 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Gift of land to temple for the queen and for various services, including feeding ascetics and singing tiruppatiyam during festival.</summary>
+                  <summary>Gift of land to temple for the queen and for various services,
+							including feeding ascetics and singing tiruppatiyam during
+							festival.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -69,8 +71,8 @@
       <encodingDesc>
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC)
-                    under the European Union’s Horizon 2020 research and innovation programme (grant
-                    agreement no 809994).</p>
+					under the European Union’s Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
          </projectDesc>
          <schemaRef type="guide"
                     key="EGDv01"
@@ -80,18 +82,19 @@
                        matchPattern="([a-zA-Z0-9\-\_]+)"
                        replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
-                        ERC-DHARMA whose data are open to the public.</p>
+						ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
             <prefixDef ident="part"
                        matchPattern="([a-z]+)"
                        replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
-                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:reda" when="2024-03-19">Creation of the file on the repository</change>
+         <change who="part:reda" when="2024-03-19">Creation of the file on the
+				repository</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
@@ -126,9 +129,9 @@
 					
 					tirunāḷ-p paṭiyil Amutupaṭikku-p paṭi-y iraṭṭiyum 
 					
-					<lb n="7"/>ciṟappukku kaṟiyamutum uppamutum miḷakamutum parupp’amutum naiyamutu
+					<lb n="7"/>ciṟappukku kaṟiyamutum uppamutum miḷakamutum parupp’amutum n<choice><orig>ai</orig><reg>ey</reg></choice>yamutu
 					
-					<lb n="8" break="no"/>m tayiramutum caṟkaraiyamutum tiruviḷakke<supplied reason="undefined">ṇ</supplied>ṇaiyum Aṭaikkāyyamu
+					<lb n="8" break="no"/>m tayiramutum caṟkaraiyamutum tiruviḷakke<supplied reason="undefined">ṇ</supplied>ṇ<choice><orig>ai</orig><reg>ey</reg></choice>yum Aṭaikkāyyamu
 					
 					<lb n="9" break="no"/>tum-y ilaiyamutum <hi rend="grantha">Aṣṭa</hi>paripāla<supplied reason="undefined">naṅa</supplied>kaḷukkum yā<hi rend="grantha">ga</hi>maṇṭapattukku Amutu<!--@reda: note  it should be paripalanankalukkum, not nana-->
 					
@@ -144,7 +147,11 @@
 					
 					<lb n="15" break="no"/>ṟu mutal ti<supplied reason="undefined">ru</supplied>nāḷ-p pattukkum veṇṭu<supplied reason="omitted">m</supplied> nel mu<choice><orig>ṉ</orig><reg>n</reg></choice>nūṟṟu Aṟupatiṅ kalattu<supplied reason="undefined">k</supplied>ku nām
 					
-					<lb n="16"/>viṭṭa nila<supplied reason="undefined">māvatu</supplied> pērūrnāṭṭu <gap reason="lost" quantity="5" unit="character"/>āl Amara-puyaṅka-nallūril It-tēvar <hi rend="grantha">śrī</hi>k
+					<lb n="16"/>viṭṭa nila<supplied reason="undefined">māvatu</supplied> 
+				</p> 
+				
+				<p>
+					pērūrnāṭṭu <gap reason="lost" quantity="5" unit="character"/>āl Amara-puyaṅka-nallūril It-tēvar <hi rend="grantha">śrī</hi>k
 					
 					<lb n="17" break="no"/>āriyam ceyvārkaḷ vacam viṭṭa <gap unit="character" quantity="6" reason="lost"/> Irupattunā<supplied reason="undefined">ṟ</supplied> kalaṉē Aṟunāḻikku nila
 					
