@@ -35,14 +35,14 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSSII2400182</idno>
+            <idno type="filename">DHARMA_INSSII0800127</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
+					Licence. To view a copy of the licence, visit
+					https://creativecommons.org/licenses/by/4.0/ or send a letter to
+					Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+					California, 94041, USA.</p>
                   <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
                </licence>
             </availability>
@@ -68,8 +68,8 @@
       <encodingDesc>
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union’s Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
+				under the European Union’s Horizon 2020 research and innovation programme (grant
+				agreement no 809994).</p>
          </projectDesc>
          <schemaRef type="guide"
                     key="EGDv01"
@@ -79,76 +79,47 @@
                        matchPattern="([a-zA-Z0-9\-\_]+)"
                        replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
+					ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
             <prefixDef ident="part"
                        matchPattern="([a-z]+)"
                        replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
-						<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+					<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:reda" when="2024-02-20" status="draft">Creation of the file</change>
+         <change who="part:reda" when="2024-03-25" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
-	<body>
+<body>
+	
+	
+	
+<div type="textpart" xml:lang="tam-Latn">
 		
-<div type="edition">
-	 
-            <div type="textpart" n="A" xml:lang="tam-Latn">
-               <head xml:lang="eng">First fragment</head>
+	<ab>
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+	</ab>
 	
 	<p>
-		<lb n="1"/><supplied reason="lost">va</supplied>ḻai-p-paḻam <gap quantity="2" reason="lost" unit="character"/>ṉū<gap quantity="3" reason="lost" unit="character"/>
-		<lb n="2"/>cavarku nellu kala<gap quantity="3" reason="lost" unit="character"/><supplied reason="lost">ṉē</supplied>
-		<lb n="3"/>mukkuṟuṇiyum palaka<gap quantity="5" reason="lost" unit="character"/>
-		<lb n="4" break="no"/>yum tayir-amutu paliṅ<gap quantity="5" reason="lost" unit="character"/>
-		<lb n="5" break="no"/><supplied reason="lost">ne</supplied>llu  kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi pa<gap quantity="6" reason="lost" unit="character"/>
-		<lb n="6" break="no"/>mutu Aṭa viṟakiṭum<gap quantity="6" reason="lost" unit="character"/>
-		<lb n="7" break="no"/><unclear>m</unclear> Ilai Amutu pā<gap quantity="6" reason="lost" unit="character"/>
-		<lb n="8"/><unclear>I</unclear>raṇṭu mañcāṭiyum Amutu ceytaruḷi<choice><orig>n</orig><reg>ṉ</reg></choice>a pa–<!--@emfr:these dashes appear from here on. What do they mean? That the gap is unknown?-->
-		<lb n="9"/>Āṭiyaruḷa vāḻaippaḻam Aiñcukkup po–
-		<lb n="10" break="no"/>yum tiruppukaikku citārikku<unclear>m</unclear> pon Arai māvu–
-		<lb n="11" break="no"/>ku<choice><orig>n</orig><reg>ṉ</reg></choice>ṟiyum tiruvōlakkattukku Eriyum tiruviḷak–
-		<lb n="12" break="no"/><supplied reason="lost">vi</supplied>ṇṇappañ ceyyum paru<hi rend="grantha">ṣai</hi> nāyan
-		<lb n="13" break="no"/>kku-p pon kaḻañcum <hi rend="grantha">śrī</hi>purāṇam <!--@emfr: the text here is in bold, but don't know why. Maybe just to underline the text?--> vācippān– 
-		<lb n="14" break="no"/>ḻañcum Āka pon pati<choice><orig>n</orig><reg>ṉ</reg></choice> kaḻañc’ araiyē I–
-		<lb n="15" break="no"/>nūṟṟaṟu kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi Aṟu nāḻi<unclear>yum</unclear><gap quantity="4" reason="lost" unit="character"/>
-		<lb n="16"/>Āka-t tirumañcaṉam Iraṇṭukkum peru–
-		<lb n="17" break="no"/>ñcē kālē ku<choice><orig>n</orig><reg>ṉ</reg></choice>ṟiyināl nellu Irunā–
-		<lb n="18" break="no"/>nē kuṟuṇikku kiḻakkaṭaiya viṭṭa nilam<gap quantity="1" reason="lost" unit="character"/>
-		<lb n="19"/><gap quantity="1" reason="lost" unit="character"/>l vanta ceṅkaḻunir-t tiruppaḷḷi-t-tāma E–
-		<lb n="20" break="no"/>āḻiyāka nāḷ Oṉṟukku nellu Irunā<supplied reason="lost">ḻi</supplied>–<!--@emfr:If I just put the first letter of the line ā, is it clear that it belongs to the previous lost consonant or shall I add that the consonant is no longer legible? I did the second...-->
-		<lb n="21"/>nellu Irunūṟṟorupattaṟu kalamu–
-		<lb n="22" break="no"/>ṟṟu nāṟppattaṟu kalattukku kiḻa–
-		<lb n="23" break="no"/>ku viṭṭa nilam–
-		<lb n="24" break="no"/><supplied reason="lost">va</supplied>yi<hi rend="grantha">ṣṇa</hi>va<hi rend="grantha"><hi rend="grantha">ra</hi></hi><supplied reason="lost"><hi rend="grantha">kṣ</hi></supplied><hi rend="grantha">ai</hi>–
+		tiripuvaṉaccakkaravattikaḷ <hi rend="grantha">śrī</hi>kulottuṅkacōḻatevaṟku yāṇṭu 10 8-vatu			
 	</p>
-            </div>
 	
-	<div type="textpart" n="B" xml:lang="tam-Latn">
-		<head xml:lang="eng">Second fragment</head>
-		<p>
-			<lb n="1"/><gap quantity="2" reason="lost" unit="character"/><unclear>kan</unclear> para<unclear>m</unclear>pu <unclear>na</unclear> nilamā
-			<lb n="2" break="no"/>ṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> mātava<choice><orig>n</orig><reg>ṉ</reg></choice> parama–
-			<lb n="3"/>Arai paṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice> tiruvai–
-			<lb n="4" break="no"/>yan kaṟaikkaṇṭa<choice><orig>n</orig><reg>ṉ</reg></choice>a ni–
-			<lb n="5" break="no"/>ḷḷān Irā<hi rend="grantha">ja</hi>rā<supplied reason="omitted"><hi rend="grantha">ja</hi></supplied>n nila–
-			<lb n="6" break="no"/><gap quantity="1" reason="lost" unit="character"/><hi rend="grantha">ḍe</hi>va coṟuṭaiyā–
-			<lb n="7" break="no"/>ṭukku Ivai e–
-	
-			
-		</p>
-		
-		
-		
-	</div>
-	
+	<p>
+		<lb n="2"/>Uṭaiyār <supplied reason="undefined">tiruvaṇ</supplied>ṇāmalai Uṭaiya nāyaṉāṟku mātēvar makan<supplied reason="undefined">ār kali</supplied>tēvaṉāṉa <supplied reason="undefined">Imma</supplied>
+		<lb n="3" break="no"/>ṭi cerakkapperumāḷāṉa murai<supplied reason="undefined">y</supplied>ātarāyaneṉ tiruppaḷḷi Eḻucci-p puṟamāka viṭṭa muraicūr nāṭṭu
+		<lb n="4"/>kiḻcūṟṟi<supplied reason="omitted">l</supplied> cāliyūr-p paṟṟil me<supplied reason="undefined">r</supplied>āṉpaḷḷi nāṟpāl Ellaiyum tiruc<supplied reason="undefined">cū</supplied>lakkalalukku Ullu<supplied reason="omitted">m</supplied> cantirātittavarai celvatāka kal veṭṭikkuṭuttēṉ  muraiyā
+
+	</p>
 </div>
-		
+	
+	
+	
+	
+	
 		
 		
 		<div type="apparatus">
