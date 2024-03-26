@@ -94,10 +94,10 @@
          	
          	 <p>
          	 	<hi rend="grantha">śrī-sadā         	  	
-         	 	<lb n="2" break="no"/>śi</hi>va-<hi rend="grantha">de</hi>va-<hi rend="grantha">mahārā</hi>ya<hi rend="grantha">r· pri       	  	
-         	 	<lb n="3" break="no"/>thi</hi>vi-<hi rend="grantha">rājya</hi>m paṇṇi aruḷā         	  	
-         	 	<lb n="4" break="no"/>niṉṟa cakā<hi rend="grantha">bdam· <num value="1488"><g type="numeral">1000</g> 4 <g type="numeral">100</g> 8 <g type="numeral">10</g> 8</num>
-         	 	<lb n="5"/>n·</hi> mēṟ cellā niṉṟa
+         	 	<lb n="2" break="no"/>śi</hi>va-<hi rend="grantha">de</hi>va-<hi rend="grantha">mahārā</hi>ya<hi rend="grantha">r· <choice><orig>pri</orig><reg>pṛ</reg></choice>       	  	
+         	 	<lb n="3" break="no"/>thi</hi>vi-<hi rend="grantha">rājya</hi>m paṇṇi Aruḷā         	  	
+         	 	<lb n="4"/>niṉṟa cakā<hi rend="grantha">bdam·</hi> <num value="1488"><g type="numeral">1000</g> 4 <g type="numeral">100</g> 8 <g type="numeral">10</g> 8</num>
+         	 	<lb n="5" break="no"/>-<hi rend="grantha">n·</hi> mēṟ cellā niṉṟa
          	 	<lb n="6"/>A<hi rend="grantha">kṣa</hi>ya-<hi rend="grantha">sa<supplied reason="omitted">ṃ</supplied></hi>va<hi rend="grantha">t·ssa</hi>rattu ku
          	 	<lb n="7" break="no"/>mpa-nāyaṟṟu Apa<hi rend="grantha">ra-pakṣa</hi>         	 	
          	  	<lb n="8" break="no"/>ttu <hi rend="grantha">dvādaśi saumya</hi>-vā<hi rend="grantha">sa</hi>         	  	
@@ -105,26 +105,27 @@
          	 </p>
          	
          	<p>
-         	 	<hi rend="grantha">śrīman-mahā-ma</hi>         	  	
+         	 	<hi rend="grantha">śrīman·-mahā-ma</hi>         	  	
          	  	<lb n="10" break="no"/><hi rend="grantha">ṇḍa</hi>le<hi rend="grantha">śvara-rāma-rāja</hi>-tiru         	  	
-         	  	<lb n="11" break="no"/>-malaiya<hi rend="grantha">-deva-mahārājā</hi>         	  	
-         	  	<lb n="12" break="no"/>vukku velūr ciṉṉapo     	  	
-         	  	<lb n="13" break="no"/>mmu-nāyakkar viṇṇap      	  	
-         	  	<lb n="14" break="no"/>pañ ceykaiyil tiru-ma       	  	
-         	  	<lb n="15" break="no"/>lairājayaṉ <hi rend="grantha">sadā-śiva-deva</hi>         	  	
-         	  	<lb n="16" break="no"/><hi rend="grantha">mahārāyar pā</hi>tattilē      	  	
-         	  	<lb n="17"/>viṇṇappañ ceytu v        	  	
-         	  	<lb n="18" break="no"/>ēlūr <hi rend="grantha">jvara</hi>-ka<hi rend="grantha">ṇḍeśvara</hi>         	  	
-         	  	<lb n="19" break="no"/>-<hi rend="grantha">svāmi</hi>kku <hi rend="grantha">Aṃgaraṃga</hi>-vai         	  	
-         	  	<lb n="20" break="no"/><hi rend="grantha">bha</hi>vattukku v-iṭu-vitta <hi rend="grantha">grā</hi>         	  	
-         	  	<lb n="21" break="no"/>mam Aṟappakkam <g type="pc"/>
+         	  	<lb n="11" break="no"/>-malaiya<hi rend="grantha">-de</hi>va-<hi rend="grantha">mahārājā</hi>         	  	
+         	  	<lb n="12" break="no"/>vukku vēlūr ciṉṉa-po     	  	
+         	  	<lb n="13" break="no"/>mmu-nāyakkar viṇṇa 	  	
+         	  	<lb n="14" break="no"/>ppañ ceykaiyil ti       	  	
+         	  	<lb n="15" break="no"/>ru-malai<hi rend="grantha">r<choice><sic>a</sic><corr>ā</corr></choice>ja</hi>yaṉ <hi rend="grantha">sadā-śi</hi>         	  	
+         	  	<lb n="16" break="no"/>va-<hi rend="grantha">de</hi>va-<hi rend="grantha">mahārā</hi>ya<hi rend="grantha">r· pā</hi>ta      	  	
+         	  	<lb n="17" break="no"/>ttilē viṇṇappañ c        	  	
+         	  	<lb n="18" break="no"/>eytu<!--update: e at end of preceding line--> vēlūr <hi rend="grantha">jvara</hi>-ka<hi rend="grantha">ṇḍe</hi>         	  	
+         	  	<lb n="19" break="no"/><hi rend="grantha">śvara-svāmi</hi>kku <hi rend="grantha">Aṃgaraṃga</hi>         	  	
+         	  	<lb n="20" break="no"/>-vai<hi rend="grantha">bha</hi>vattukku v-iṭu-vitta         	  	
+         	  	<lb n="21" break="no"/><hi rend="grantha">grā</hi>mam Arukūrukkuḷ muru
+         		<lb n="22" break="no"/>kkericiṟṟeṟi <g type="pc">.</g>
          	 </p>
          	 	
          	<lg met="anuṣṭubh" n="1" xml:lang="san-Latn" rendition="class:38768 maturity:83213">
-         		<l n="a">dāna-p<lb n="22" break="no"/>ālanayor mmaddhye</l>
-         		<l n="b">dānā<lb n="23" break="no"/>c śreyo ’nupālanam</l>
-         		<l n="c">dā<lb n="24" break="no"/>nāt svarggam avāpnoti</l>
-         		<l n="d">p<lb n="25" break="no"/>ālanād accutam padam <g type="pc"/></l>
+         		<l n="a">dā<supplied reason="omitted">na</supplied>-pā<lb n="23" break="no"/>lanayor mmaddhye</l>
+         		<l n="b">dānā<lb n="24" break="no"/>c śreyo ’nupālanam· <g type="danda">.</g></l>
+         		<l n="c">dā<lb n="25" break="no"/>nāt· svarggam av<choice><sic>a</sic><corr>ā</corr></choice>pnoti</l>
+         		<l n="d">p<lb n="26" break="no"/>ālanād a<choice><sic>cc</sic><corr>cy</corr></choice>utam<!--final m=Tamil script--> pada<lb n="27" break="no"/>m· <g type="pc">.</g></l>
          	</lg>
          	           	
          </div>
