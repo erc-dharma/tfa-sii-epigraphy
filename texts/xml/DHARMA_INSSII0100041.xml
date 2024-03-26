@@ -29,7 +29,8 @@
 				<pubPlace>Paris, CEIAS</pubPlace>
 				<idno type="filename">DHARMA_INSSII0100041</idno>
 				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
+					<licence
+						target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
 							Licence. To view a copy of the licence, visit
 							https://creativecommons.org/licenses/by/4.0/ or send a letter to
@@ -77,7 +78,8 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:emfr" when="2024-03-22" status="draft">Creation of the file</change>
+			<change who="part:emfr" when="2024-03-22" status="draft"
+				>Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -89,9 +91,9 @@
          		<lb n="1"/>svasti śrī
          	</ab>
          	
-         	 <p>
-         	 	tirumakaḷ polapperu
-         	 	<lb n="2"/>nilaccelviyum taṉakke urimai pū-
+         	<lg n="1" met="āciriyappā">
+         	 	<l n="1">tiru-makaḷ pōla-p peru
+         	 	<lb n="2" break="no"/>nila-c-celviyum taṉakke urimai pū-
          	 	[3.]ṇṭamai maṉakkoḷakkā<hi rend="grantha">nta</hi>ḷurccā-
          	 	[4.]lai kalamaṟuttaruḷi veṅkaiñāṭuṅka-
          	 	[5.]ṅkapāṭiyum nuḷampapāṭiyu<hi rend="grantha">nta</hi>ṭikai-
@@ -101,9 +103,13 @@
          	 	[9.]mu<hi rend="grantha">nti</hi>ṇṭiṟal veṉṟittaṇṭāṟk[k]o-
          	 	[10.]ṇṭa taṉneḻil vaḷaruḻiyuḷḷel-
          	 	[11.]lāyāṇṭu<hi rend="grantha">nto</hi>ḻutaka viḷaṅkum yā-
-         	 	[12.]ṇṭe [c]eḻiyarai tecu koḷ śrī-
-         	 	[13.] <hi rend="grantha">korājarājarājakesarivarmma</hi>rā-
-         	 	[14.]ṉa
+         	 	[12.]ṇṭe [c]eḻiyarai tecu koḷ</l>
+         		</lg>
+         	
+         	<p>
+         		śrī-
+         	 	<lb n="13" break="no"/><hi rend="grantha">korājarājarājakesarivarmma</hi>rā-
+         	 	<lb n="14" break="no"/>ṉa
          	 	<hi rend="grantha">śrīrājarājarājade</hi>vaṟku yāṇ-
          	 	[15.]ṭu irupattāṟāvatu [|*] āmurkkoṭ-
          	 	[16.]ṭattāmurnāṭṭu nakaramāmallapurat-
@@ -118,17 +124,15 @@
          	 	<hi rend="grantha">de</hi>varum paḷḷi-
          	 	[22.]koṇṭaruḷiya
          	 	<hi rend="grantha">de</hi>varum uṭai-
-         	 	[23.]ya
-         	 	<hi rend="grantha">bha</hi>ṭṭārattu poṉṉil i[tta]-
-         	 	[24.]ḷikaḷil pati pa<hi rend="grantha">ñcācāryya</hi>pa..
-         	 	[25.]ṭṭai[cu]
-         	 	<hi rend="grantha">de</hi>vakaṉmikaḷ pa•
+         	 	<lb n="23" break="no"/>ya <hi rend="grantha">bha</hi>ṭṭārattu poṉṉil i[tta]-
+         	 	<lb n="24" break="no"/>ḷikaḷil pati pa<hi rend="grantha">ñcācāryya</hi>pa..
+         	 	<lb n="25" break="no"/>ṭṭai[cu]<hi rend="grantha">de</hi>vakaṉmikaḷ pa•
          	 	[26.]nā[ṅ]kaḷ koṇṭu kaṭava p[oṉ pa*]-
-         	 	[27.]ttoṉpatiṉ kaḻaiñ[cu*]..
+         	 	<lb n="27" break="no"/>ttoṉpatiṉ kaḻaiñ[cu*]..
          	 	[28.][i]t<hi rend="grantha">de</hi>varkaḷukkutti••
          	 	[29.][ṉa]māka uṭaiyār śrīra••
-         	 	[30.][va]r tirunāmattāl śrī•••
-         	 	[31.] <hi rend="grantha">de</hi>vaṉ eṉṟu ik[koṭṭam vakai*]
+         	 	<lb n="30" break="no"/>[va]r tirunāmattāl śrī•••
+         	 	<lb n="31" break="no"/><hi rend="grantha">de</hi>vaṉ eṉṟu ik[koṭṭam vakai*]
          	 	[32.]ceykiṉṟa putukku[ṭaiyaṉ*]
          	 	[33.]ekatiraṉ aimpatiṉ••
          	 	[34.] <hi rend="grantha">ñcavā</hi>ṉañceyvika••
@@ -149,24 +153,25 @@
          	 	[48.]nālāyi••••
          	 	[49.]cu kuḻiyi••••
          	 	[50.]poṉ••••
-         	 	[51.]e[ri]yum•••<pb n="1:68"/>
-         	 	[52.]akapaṭṭa••••
-         	 	[53.] [ <hi rend="grantha">vya</hi>mā]ka•••
-         	 	[54.]kavum ipa•••
-         	 	[55.]kaḻaiñ[cu*]•••
-         	 	[56.]lam viṟṟu••
-         	 	[57.]ma[mu]cce•••
+         	 	[51.]e[ri]yum•••
+         	 	
+         		<lb n="52" break="no"/>Akapaṭṭa••••
+         	 	<lb n="53"/>[<hi rend="grantha">vya</hi>mā]ka•••
+         	 	<lb n="54"/>kavum ipa•••
+         	 	<lb n="55" break="no"/>kaḻaiñ[cu*]•••
+         	 	<lb n="56" break="no"/>lam viṟṟu••
+         	 	<lb n="57" break="no"/>ma[mu]cce•••
          	 	[58 to 62.]•••••••••
-         	 	[63.]peri••••
-         	 	[64.]lla••••
-         	 	[65.]tta••••
-         	 	[66.]kaṟa••••
-         	 	[67.]mu••••
-         	 	[68.]•••••
-         	 	[69.]vitta••••
-         	 	[70.]m vita••••
-         	 	[71.]ṟṟuka••••
-         	 	[72.]ye••••         	 	
+         	 	<lb n="63"/>peri••••
+         	 	<lb n="64" break="no"/>lla••••
+         	 	<lb n="65" break="no"/>tta••••
+         	 	<lb n="66" break="no"/>kaṟa••••
+         	 	<lb n="67" break="no"/>mu••••
+         	 	<lb n="68"/>•••••
+         	 	<lb n="69"/>vitta••••
+         	 	<lb n="70" break="no"/>m vita••••
+         	 	<lb n="71" break="no"/>ṟṟuka••••
+         	 	<lb n="72" break="no"/>ye••••         	 	
          	 </p>
          	           	
          </div>
