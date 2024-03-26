@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Arappākkam, time of Sadāśiva Deva Mahārāya, Śaka year 1488</title>
+            <title>Mahābalipuram, time of Vīrarājendra, year 9</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris, CEIAS</pubPlace>
-            <idno type="filename">DHARMA_INSSII0100043</idno>
+            <idno type="filename">DHARMA_INSSII0100042</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -84,50 +84,52 @@
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
-      <body>
+<body>
 
-         <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
          	
-         	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
-         		<lb n="1"/>śubham astu svasti
-         	</ab>
-         	
-         	 <p>
-         	 	<hi rend="grantha">śrī-sadā         	  	
-         	 	<lb n="2" break="no"/>śiva-deva-mahārāyar pri       	  	
-         	 	<lb n="3" break="no"/>thivi-rājya</hi>m paṇṇi aru         	  	
-         	 	<lb n="4" break="no"/>ḷā niṉṟa cakā<hi rend="grantha">bdam 148
-         	 	<lb n="5"/>8-n</hi> mēṟ cellā ni<supplied reason="omitted">ṉ</supplied>ṟa
-         	 	<lb n="6"/>a<hi rend="grantha">kṣaya-sa<supplied reason="omitted">ṃ</supplied>vatssara</hi>ttu ku
-         	 	<lb n="7" break="no"/>mpa-nāyaṟṟu apa<hi rend="grantha">ra-pakṣa</hi>         	 	
-         	  	<lb n="8" break="no"/>ttu <hi rend="grantha">dvādaśi saumya-vāsa</hi>         	  	
-         	  	<lb n="9" break="no"/><hi rend="grantha">ra</hi>ttu nāḷ
-         	 </p>
-         	<p>
-         	 	<hi rend="grantha">śrīman-mahā-ma</hi>         	  	
-         	  	<lb n="10" break="no"/><hi rend="grantha">ṇḍa</hi>le<hi rend="grantha">śvara-rāma-rāja</hi>-tiru         	  	
-         	  	<lb n="11" break="no"/>-malaiya<hi rend="grantha">-deva-mahārājā</hi>         	  	
-         	  	<lb n="12" break="no"/>vukku velūr ciṉṉapo     	  	
-         	  	<lb n="13" break="no"/>mmu-nāyakkar viṇṇap      	  	
-         	  	<lb n="14" break="no"/>pañ ceykaiyil tiru-ma       	  	
-         	  	<lb n="15" break="no"/>lairājayaṉ <hi rend="grantha">sadā-śiva-deva</hi>         	  	
-         	  	<lb n="16" break="no"/><hi rend="grantha">mahārāyar pā</hi>tattilē      	  	
-         	  	<lb n="17"/>viṇṇappañ ceytu v        	  	
-         	  	<lb n="18" break="no"/>ēlūr <hi rend="grantha">jvara</hi>-ka<hi rend="grantha">ṇḍeśvara</hi>         	  	
-         	  	<lb n="19" break="no"/>-<hi rend="grantha">svāmi</hi>kku <hi rend="grantha">aṅgaraṅga</hi>-vai         	  	
-         	  	<lb n="20" break="no"/><hi rend="grantha">bha</hi>vattukku v-iṭu-vitta <hi rend="grantha">grā</hi>         	  	
-         	  	<lb n="21" break="no"/>mam aṟappakkam <g type="pc"/>
-         	 </p>
-         	 	
-         	<lg met="anuṣṭubh" n="1" xml:lang="san-Latn" rendition="class:38768 maturity:83213">
-         		<l n="a">dānap<lb n="22" break="no"/>ālanayor mmaddhye</l>
-         		<l n="b">dānā<lb n="23" break="no"/>c śreyo ’nupālanam</l>
-         		<l n="c">dā<lb n="24" break="no"/>nāt svarggam avāpnoti</l>
-         		<l n="d">p<lb n="25" break="no"/>ālanād accutam padam <g type="pc"/></l>
-         	</lg>
-         	           	
-         </div>
-
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
+		<lb n="1"/>svasti
+	</ab>
+	
+	<p>
+		
+		<hi rend="grantha">śrīvi[ra*]rājendra-</hi>
+		<lb n="2" break="no"/>coḻa<hi rend="grantha">de</hi>varku yāṇ-
+		[3.] ṭu o<hi rend="grantha">n</hi>patāvatu tiru-
+		[4.] kkaṭalmallai em p-
+		[5.] erumānu<hi rend="grantha">kku</hi>
+		ci[ṟi]tavūrā-
+		[6.] na nara<hi rend="grantha">si[ṃ*]ha</hi>maṅkala-
+		[7.] ttu
+		<hi rend="grantha">mahāsabhai-</hi>
+		[8.] yom tiruviṭaiyā-
+		[9.] ṭṭa<hi rend="grantha">māha</hi>
+		viṭṭa eṅkaḷ
+		[10.] ūr ukkāvirivāk-
+		[11.] kālu<hi rend="grantha">kku</hi>tte<hi rend="grantha">kku</hi>
+		maṅ-
+		[12.] kalacceṟum yi<hi rend="grantha">nta</hi>
+		ku-
+		[13.] ṟiyā<hi rend="grantha">n</hi>
+		niṉṟa nārāyaṇaṉ-
+		[14.] māṅkaḷurāṉa kūttāṭi-
+		[15.] [pa]ṭṭi āka taṭi
+		<hi rend="grantha">5</hi>
+		ṉā[l] ku-
+		[16.] ḻi
+		<hi rend="grantha">[2000]</hi>
+		iṉṉāyaṉārku<pb n="1:69"/>
+		[17.] tiruviṭaiyāṭṭamā<hi rend="grantha">ha</hi>
+		[18.] iṟai iḻicci[kkuṭu]-
+		[19.] [tt*]om ivūr
+		<hi rend="grantha">mah-</hi>
+		[20.] <hi rend="grantha">[āsa*]bhai</hi>yom
+		
+	</p>
+	
+</div>
+	
 <!--<div type="apparatus">
 
 	<listApp>
@@ -161,7 +163,7 @@
 	</p>-->
 	
 	<p>
-		First edited <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.43), with English translation.
+		First edited <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.42), with English translation.
 	</p>
 	
 	<p>
@@ -172,8 +174,8 @@
 		
 		<bibl n="SII">
 			<ptr target="bib:Hultzsch1890_01"/>
-			<citedRange unit="page">69-71</citedRange>
-			<citedRange unit="item">43</citedRange>
+			<citedRange unit="page">68-69</citedRange>
+			<citedRange unit="item">42</citedRange>
 		</bibl>
 		
 	</listBibl>

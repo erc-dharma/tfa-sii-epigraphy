@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mahābalipuram, time of Rājarāja, year 25</title>
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris, CEIAS</pubPlace>
+            <idno type="filename">DHARMA_INSSII0100040</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the
+						<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:emfr" when="2024-03-22" status="draft">Creation of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+      <body>
+
+         <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+         	
+         	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
+         		<lb n="1"/>svasti śrī
+         	</ab>
+         	
+         	 <lg n="1" met="āciriyappā">
+         	 	<l n="1">tirumakaḷ pō<lb n="2" break="no"/>la-p peru-nila-c-celvi[yu]n=</l>
+         	 	<l n="2">taṉakkē<lb n="3" break="no"/>yuri[m]ai pūṇ[ṭa]mai maṉa[kk]oḷak</l>
+         	 	<l n="3">kā<lb n="4" break="no"/><hi rend="grantha">nta</hi>ḷuṟcālai kalamaṟut[taruḷi]</l>
+         	 	<l n="4">veṅkai<lb n="5" break="no"/>nāṭuṅ[ka]ṅkapāṭiyu</l>
+         	 	<l n="5">[nuḷa]mpapāṭiyu<hi rend="grantha">[nta]</hi><lb n="6" break="no"/>ṭikaipāṭiyuṅ</l>
+         	 	<l n="6">kuṭama[lai]ñāṭuṅkol<lb n="7" break="no"/>lamuṅkaliṅkamum</l>
+         	 	<l n="7">eṇṭicai pukaḻ tara<lb n="8" break="no"/>īḻamaṇṭalamum</l>
+         	 	<l n="8">iraṭṭapāṭi eḻaraiyila<lb n="9" break="no"/>kkamun=</l>
+         	 	<l n="9">tiṇṭiṟal veṉṟit taṇṭāṟko<lb n="10" break="no"/>ṇṭa taṉn</l>
+         	 	<l n="10">eḻil vaḷa[ru]ḻiyuḷ ellā yā<lb n="11" break="no"/>ṇṭun=</l>
+         	 	<l n="11">toḻutaka viḷaṅkum yāṇṭē</l>
+         	 	<l n="12">ceḻi<lb n="12" break="no"/>yarai tecu koḷ</l>
+         	 </lg>
+         	<p>
+         	 	<hi rend="grantha">śrī-kōrājarājarāja</hi>
+         	 	<lb n="13" break="no"/><hi rend="grantha">kesarivarmmar-ā</hi>ṉa <hi rend="grantha">śrī-rājarāja-de</hi>vaṟku yā
+         	 	<lb n="14" break="no"/>ṇṭu iru-patt’ aiñcāvatu
+         	 </p>
+         	
+         	<p>
+         		āmu[rk]ko
+         	 	<lb n="15" break="no"/>ṭṭam vakai ceykiṉṟa [pu]tukkuṭai
+         	 	<lb n="16" break="no"/>yāṉ ekatiraṉ aiyampatiṉ maṉnakara
+         	 	<lb n="17" break="no"/>māmallapurattu <hi rend="grantha">jalaśa</hi>yaṉa<hi rend="grantha">de</hi>var te
+         	 	<lb n="18" break="no"/>ṟkkil tiruna<hi rend="grantha">ntā</hi>vaṉatte iruk[ka] iṉna
+         	 	<lb n="19" break="no"/>karattu nakarattōmum periḷamaiyō
+         		<lb n="20" break="no"/>mum Emmilicain=tu ceyta <hi rend="grantha">vya</hi>va<hi rend="grantha">stai</hi>
+         	 	<lb n="21" break="no"/>-y-āvatu
+         	</p>
+         	
+         	<p>
+         		Emm-ur nirnilamum veṇṇi
+         	 	<lb n="22" break="no"/>lamum toṭṭanilamum kollainilamu
+         	 	<lb n="23" break="no"/>m iṟainilamāmacceppeṟpaṭṭatu
+         	 	<lb n="24" break="no"/>m nūṟu ma[ṉai]kkiḻ nā[l kūṟā]ka aṭai
+         	 	<lb n="25" break="no"/>ppat’ ākavum
+         	</p>
+         	
+         	<p>
+         		Ip-pa[ri]cu aṭaiccu n[ā]
+         	 	<lb n="26" break="no"/>lu kūṟiṭṭa oru kūṟu innakarattu ka[ṭu]
+         	 	<lb n="27" break="no"/>mpiṭukucericcaṅkarappāṭiyā[rk]
+         	 	<lb n="28" break="no"/>ku irupattaiñcu maṉaikku kūṟāva
+         	 	<lb n="29" break="no"/>tākavum [|*] niṉṟa muṉṟu kūṟum eḻu
+         	 	<lb n="30" break="no"/>pattaiñcu maṉaikkiḻ [kū]ṟāvat’ ā
+         	 	<lb n="31" break="no"/>kavum
+         	</p>
+         	<p>
+         		kūṟiṭṭa parice maṉaiyum nilamu
+         	 	<lb n="32" break="no"/>m viṟkkavum oṟṟivaikkavum <hi rend="grantha">dharmma</hi>
+         	 	<lb n="33" break="no"/><hi rend="grantha">[d]ā</hi>ṉañceyya peṟuvat’ ākavum
+         	</p>
+         	
+         	<p>
+         		ni
+         	 	<lb n="34" break="no"/>lamum maṉaiyum kū[ṟaṭai]t[ta] pari[c]e
+         	 	<lb n="35" break="no"/><hi rend="grantha">[la]</hi>kṣaṇañ ceytu kuṭuppat’ ākavu
+         	 	<lb n="36" break="no"/>m
+         	</p>
+         	<p>
+         		muṉpuḷḷa <hi rend="grantha">lakṣa</hi>ṇañc[āṅkam ki]
+         	 	<lb n="37" break="no"/>ḻivatākavum [|*] kūṟaṭaitta nilaṅka
+         	 	<lb n="38" break="no"/>ḷil niṉṟa palluruvil pa[ḻa]maraṅka
+         	 	<lb n="39" break="no"/>ḷ avvavakūṟuṭaiyāṉe peṟu
+         	 	<lb n="40" break="no"/>vāṉ ākavum
+         	</p>
+         	
+         	<p>
+         		mañcikkattil niṉṟa
+         	 	<lb n="41" break="no"/>ṉa nūṟu maṉaikkuṅkū[ṟā]vat’ ākavum
+         	</p>
+         	
+         	<p>
+         	 	<lb n="42" break="no"/>nilam iṉṟiye patiṉ āṟu vaya<hi rend="grantha">si</hi>ṉ
+         	 	<lb n="43"/>mēl viyāpārañ ceyt-iruppārai
+         	 	<lb n="44"/>Arai-k kaḻañcu poṉṉum kūli
+         	 	<lb n="45" break="no"/>kkucceytiruppārai araikkā
+         	 	<lb n="46" break="no"/>l poṉṉum e
+         	 	<lb n="47" break="no"/>ruṭaiyarāy va
+         	 	<lb n="48" break="no"/>ricaikku muvārai
+         	 	<lb n="49" break="no"/>kkālppoṉṉu
+         	 	<lb n="50" break="no"/>m āṇṭu varai
+         	 	<lb n="51" break="no"/>-k koḷvat’ ākavum
+         	</p>
+         	
+         	<p>
+         		<lb n="52"/>Ip-paricu Aṉṟe
+         	 	<lb n="53" break="no"/>ṉṟārai me<supplied reason="undefined">l</supplied> ve
+         	 	<lb n="54" break="no"/>ṟu Irupatt’ aiṅ-kaḻañcu poṉ <hi rend="grantha">da</hi>ṇ-
+         	 	<lb n="55" break="no"/>ṭaṅ koḷvat’ ākavum
+         	</p>
+         	
+         	<p>
+         		Ip-paricu em
+         	 	<lb n="56" break="no"/>millicain=tu <hi rend="grantha">vya</hi>va<hi rend="grantha">stai</hi>
+         	 	ceytō
+         	 	<lb n="57" break="no"/>m nakarattōmum periḷamaiyō
+         	 	<lb n="58" break="no"/>mum
+         	</p>
+         	
+         	<p>
+         		Ip-paricu nakarattārum periḷa
+         	 	<lb n="59" break="no"/>maiyāruñcolla Eḻutiṉēṉ
+         	 	<lb n="60" break="no"/>I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>akarattu karaṇattāṉ tiruva
+         	 	<lb n="61" break="no"/>ṭikaḷ maṇi kaṇṭa ṉāṉ tiruveḷaṟai
+         	 	<lb n="62" break="no"/>muvāyirattu Eḻunūṟṟuvaṉēṉ
+         	</p>
+         	<p>
+         		I
+         	 	<lb n="63" break="no"/>vai Eṉṉ eḻuttu   	 	
+         	 </p>
+         	           	
+         </div>
+
+<!--<div type="apparatus">
+
+	<listApp>
+		<app loc="0">
+			<lem></lem>
+			<rdg source="bib:Hultzsch1890_01"></rdg>
+			<note>...</note>
+		</app>
+		
+	</listApp>
+	
+</div>               	-->
+         
+      	
+<div type="translation" source="bib:Hultzsch1891_01">
+         	
+         
+</div>
+
+
+<div type="commentary">
+         	
+	
+</div>
+
+
+<div type="bibliography">
+	
+	<!--<p>
+		First reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/65).
+	</p>-->
+	
+	<p>
+		First edited <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.40), with English translation.
+	</p>
+	
+	<p>
+		Digitally encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024).
+	</p>
+	
+	<listBibl type="primary">
+		
+		<bibl n="SII">
+			<ptr target="bib:Hultzsch1890_01"/>
+			<citedRange unit="page">63-66</citedRange>
+			<citedRange unit="item">40</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+	<!--<listBibl type="secondary">
+		
+		<bibl>
+			<ptr target="bib:ARIE1887-1888_01"/>
+			<citedRange unit="page">6</citedRange>
+			<citedRange unit="appendix">I</citedRange>
+			<citedRange unit="item">65</citedRange>
+		</bibl>	
+		
+	</listBibl>-->
+	
+</div>
+
+</body>
+</text>
+</TEI>
