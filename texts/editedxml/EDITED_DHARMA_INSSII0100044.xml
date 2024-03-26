@@ -80,7 +80,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:emfr" when="2024-03-22" status="draft">Creation of the file</change>
+         <change who="part:emfr" when="2024-03-26" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
@@ -95,7 +95,7 @@
          	 <p>
          	 	<hi rend="grantha">śrī-sadā         	  	
          	 	<lb n="2" break="no"/>śi</hi>va-<hi rend="grantha">de</hi>va-<hi rend="grantha">mahārā</hi>ya<hi rend="grantha">r· <choice><orig>pri</orig><reg>pṛ</reg></choice>       	  	
-         	 	<lb n="3" break="no"/>thi</hi>vi-<hi rend="grantha">rājya</hi>m paṇṇi Aruḷā         	  	
+         	 	<lb n="3" break="no"/>thi</hi>v<choice><orig>i</orig><reg>ī</reg></choice>-<hi rend="grantha">rājya</hi>m paṇṇi Aruḷā         	  	
          	 	<lb n="4"/>niṉṟa cakā<hi rend="grantha">bdam·</hi> <num value="1488"><g type="numeral">1000</g> 4 <g type="numeral">100</g> 8 <g type="numeral">10</g> 8</num>
          	 	<lb n="5" break="no"/>-<hi rend="grantha">n·</hi> mēṟ cellā niṉṟa
          	 	<lb n="6"/>A<hi rend="grantha">kṣa</hi>ya-<hi rend="grantha">sa<supplied reason="omitted">ṃ</supplied></hi>va<hi rend="grantha">t·ssa</hi>rattu ku
