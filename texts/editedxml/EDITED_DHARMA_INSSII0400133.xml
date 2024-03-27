@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kāñcīpuram, Vaikuṇṭhaperumāḷ, time of Kulottuṅga Cōḻa, year 46</title>
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_INSSII0400133</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported 
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary>...</summary>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p/>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union’s Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:reda" when="2024-03-27">Creation of the file on the repository</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+<body>	
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+				
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+	</ab>
+	
+	<p>		
+		pukaḻmātu viḷaṅka <hi rend="grantha">ja</hi>yamātu virumpa
+		nilamakaḷ nilava malarmakaḷ [pu]ṇara
+		Urimaiyiṟ ciṟan=ta maṇimuṭi cūṭi
+		minavar [nilai]keṭa vi[lla]var kulaitara
+		Eṉai ma<hi rend="grantha">nna</hi>var iriyaluṟ ṟiḻitarat
+		tikkaṉaittu<hi rend="grantha">nta</hi>n cakkara naṭātti
+		v<choice><orig>i</orig><reg>ī</reg></choice>ra<hi rend="grantha">siṃ</hi>hā<hi rend="grantha">sa</hi>[na]ttu 
+		Ulakuṭaiyāḷoṭum vīṟṟ-iru<hi rend="grantha">nt-a</hi>ruḷiya
+	</p>
+	<p>		
+		ko-v-ir[ā]jakē<hi rend="grantha">sa</hi>ri-pa<hi rend="grantha"><choice><sic>t</sic><corr>n</corr></choice>ma</hi>r-āna <hi rend="grantha">[cakrava]</hi>ttikaḷ
+		śrī-kulōttuṅka-cōḻa<hi rend="grantha">de</hi>varkku yāṇṭu nāṟpatt’ āṟāvatu
+		jayaṅ-koṇṭa-cōḻa-maṇṭalattu Ūṟṟu-k-kāṭṭu-k-kō[ṭ]ṭattu
+		Ūṟṟu-k-kāṭṭu-nāṭṭu śrī-kulōttuṅka-cōḻa-c-caruppēti-maṅkalattu Ivv-ūr
+		vānamar-cōḻa<hi rend="grantha">Īśva</hi>ram-uṭaiyār [k]ō[yi]lilēe nirampa-p peruṅkuṟi kū[ṭi]-c cavaikku-c camain=ta
+		Aṭṭām-puṟattu Uruttira-kumāra-<hi rend="grantha">bha</hi>ṭṭa<hi rend="grantha">so</hi>mājiyārum
+		Aṭṭām-puṟattu <hi rend="grantha">śrī-kr̥ṣṇabha</hi>ṭṭanum
+		kāṭṭukkuṟi veṇṇaya-k-kiramavittanum
+		iruṅkaṇṭi-t tiri-c-ciṟṟampalam-u[ṭai]yā[n]-kiramavittanum
+		<hi rend="grantha">su</hi>ra<hi rend="grantha">sā</hi>rampi <hi rend="grantha">śrī-kr̥ṣṇa-</hi>-k-ki[rama]vittanu
+		<gap reason="lost" quantity="9" unit="character"/>
+		[Irā]c[caḷūr]-t tillai-nāyaka-paṭṭanum
+		Irāccaḷūr tāmōtira-k-kiramavittanum
+		muṭṭiya[mparattu] <hi rend="grantha">so</hi>ma-tēva-k-ki[ra]mavittanum
+		ku[ñ]cap[pa]vil Iyañña<hi rend="grantha">svā</hi>mi-paṭṭanum
+		Irāccaḷūr-c civa-tēva-paṭṭanum
+		Irāccaḷūrc cīkāḻi-p-piḷḷai[yum]
+		Irāc[caḷūr]-c civa-tēva[r]-k-kiramavittanum
+		kirāñci-t toraṇa-cūra-k-kiramavittanum
+		neṭuṅ-kuntai [pu]ruṣottama-paṭṭanum
+		pāṭakattu nākkumāra-k-kiramavittanum
+		koṟukoṭṭi-k kēcuva-k-ki[rama]vittanum 
+		Uṟuppuṭṭūr Iravi-maṇṭala-<hi rend="grantha">bha</hi>ṭṭa-<hi rend="grantha">so</hi>mājiyārum
+		curasārampi [Iṣapa]-nārāyaṇa-k-kiramavittanum
+		kāñcai nārāyaṇa-k-kiramavittanum
+		ka<hi rend="grantha">ntā</hi>ṭai-c ci-rāma-k-kiramavittanum
+		māṅkaḷūr-t ti
+		<lb n="2" break="no"/>ru-vēṅkaṭa-k-kiramavittanum
+		kuñcappavil tāmōtira-k-kiramavit[tanu]m
+		kāma-k-kuṟu-c ci-rāma-k-kiramavittanum
+		kuñcappavil kocca-kumāra-paṭṭanum
+		kurapararimalaikiniyaninṟān-kiramavittanu[m]
+		tuvet[ai] kōvi<hi rend="grantha">nta</hi>-nārāyaṇa-kiramavittanum
+		Irā[yū]rā[ya] kumāra-k-kiramavittanum
+		muṭṭiyamparattu Utaiya-<hi rend="grantha">di</hi>vākara-k-kiramavittanum
+		Uḷḷiṭṭa mahā-sa<hi rend="grantha">bhai</hi>yōm
+		
+		<hi rend="grantha">bhū</hi>mi nila-vilai
+		Āvaṇa-k-kai y-eḻuttu Eyiṟ-kōṭṭattu nakaraṅ kāñci-purattu-k
+		kulottuṅka-cōḻa-viṇṇakarāḻvārkku-t tiru-nāḷ eḻun=t-aruḷu maṭattuc cevikka van=ta
+		śrī-vayi<hi rend="grantha">ṣṇa</hi>varkku
+		Amutu-ceykaik[ku] maṭa-[p]-puṟam-āka Ik-kōyilil
+		<hi rend="grantha">de</hi>varaṭiyāḷ
+		k[o]ḻivaḷa <gap reason="lost" quantity="9" unit="character"/> ṭayāḷ-āna tiru-v-araṅka-māṇikkam <gap reason="lost" quantity="3" unit="character"/> [Iv]v-āḻvārkku nāṅkaḷ
+		Iṟai-y-ili <gap reason="lost" quantity="8" unit="character"/> [Eṅ]kaḷūr mēl-[pi]ṭākai Uṭciṟupālai It-tēvar[k]ku Āṟ-āvatu mutal
+		nāṟpat[t’ a]ñc-āvatu varai tarattilum parappilum pervaḻi kūṭṭi[na] <gap reason="lost" quantity="9" unit="character"/> Eri
+		Uṭaintu kāṭu koḷāy-p pāḻ kiṭan=tamaiyil Ivv-ūr viḷai-nilamum
+		pu[ñcai]-nilamu[m] 
+		<gap reason="lost" quantity="6" unit="character"/> -t 
+		ten-pāṟk’ ellai mu-m-muṭi-cōḻa-p-per eri tenkaraiyē kāñcipuramēṟ-p pona peru-vaḻikku vaṭakkum
+		mēl-pāṟk’ ellai <gap reason="lost" quantity="10" unit="character"/> llaiyum
+		to[ṟu] vaṉkāraṇai <gap reason="lost" quantity="7" unit="character"/> In-nāṟ-pāṟk’ ellaikku naṭuvu-paṭṭa viḷai-nilamum
+		puncai-nilamuṅ kāṭum mēṭum Ēriyuṅ karaiyum Ūr-nattamum viṟṟu-k kuṭuttu
+		Itukku-k kirayam-āka Emmil Icainta vilai-p
+		<lb n="3" break="no"/>-poruḷ Āvaṇa-k-kaḷiyē kiḻikai-c cela-k koṇṭu viṟṟu vilai-y-āvaṇañ ceytu kuṭut[tōm]
+	</p>
+	<p>
+		mēṟ-colla-p-paṭṭa Aṭṭāmpuṟattu Uruttira-kumāra-<hi rend="grantha">bha</hi>ṭṭa-somayājiyāru[m
+		Aṭ]ṭām-puṟattu <hi rend="grantha">śrī-kr̥ṣṇa</hi>paṭṭanum
+		kāṭṭu-k-kuṟi veṇṇayak<hi rend="grantha">kra</hi>mavittaṉum
+		Iruṅkaṇṭi-t tiru-c-ciṟṟampalam-uṭaiyān kiramavittanum
+		s<hi rend="grantha">u</hi>rasārampi <hi rend="grantha">śrī-kr̥ṣṇa</hi>k-<hi rend="grantha">kra</hi>mavittanum
+		Irāccaḷūr <hi rend="grantha">r̥ṣa</hi>pa-vāhana-paṭṭanum
+		Irāccaḷūr-t tillai-nāyaka-<hi rend="grantha">bha</hi>ṭṭaṉum
+		Aḷḷur-t tāmotira-k-<hi rend="grantha">kra</hi>mavittanum
+		mu[ṭṭi]y(ā)mparattu  soma<hi rend="grantha">de</hi>vak<hi rend="grantha">kra</hi>mavittanum
+		kuñcappavil ya<hi rend="grantha">jasvā</hi>mi-paṭṭanum
+		Irāccaḷūr civa-<hi rend="grantha">de</hi>va-paṭṭanum
+		Irāccaḷūr cīkāḻi-[p]-piḷḷaiyum
+		Irāccaḷūr ci[va-tē]va-k-<hi rend="grantha">kra</hi>mavittanum
+		kirāñci-t toraṇa-cūra-k<hi rend="grantha">kra</hi>mavittanum
+		neṭuṅ-kuntai-p puruṣottamapaṭṭa <gap reason="lost" quantity="10" unit="character"/> mavittanum
+		koṟukoṭṭi-k kēcuva-k<hi rend="grantha">kra</hi>mavittanum
+		Uṟuppaṭṭūr Iravi-maṇṭala-paṭṭa-somayājiyārum
+		s<hi rend="grantha">u</hi>rasārampi I<hi rend="grantha">ṣa</hi>pa-nārāyaṇa-k-<hi rend="grantha">kra</hi>mavittanum
+		kāñcai nārāyaṇa-k-<hi rend="grantha">kra</hi>mavittanum
+		ka<hi rend="grantha">nt[ā]</hi>ṭai-c ci-rāma-k<hi rend="grantha">kra</hi>mavittanum
+		[m]ā[ṅ]kaḷūr-t tiru-vēṅkaṭa-k<hi rend="grantha">kra</hi>mavittanum
+		kuñcappavil tāmotira-k-<hi rend="grantha">kra</hi>mavittanum
+		kuñcappavil kau[cika]-kumāra-paṭṭanum
+		kurava-ciri [malaikiniya] ni[ṉṟān] paṭṭanum
+	</p>
+			
+</div>
+			
+<!--<div type="apparatus">
+	
+	<listApp>
+		
+		<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:KrishnaSastri1923_01">...</rdg>
+			<note>...</note>
+		</app>	
+		
+	</listApp>	
+	
+</div>-->
+			
+<div type="translation" resp="part:emfr">
+								
+	<p n="1">Prosperity! Fortune!</p>
+	
+</div>
+	
+<!--<div type="commentary">
+		
+</div>-->
+	
+<div type="bibliography">
+	
+	<p>First reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/35).</p>
+	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.133).</p>
+	
+	<p>Encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> and on photos (Emmanuel Francis, 2007).
+	</p>	
+	
+	<listBibl type="primary">
+		
+		<bibl n="SII">
+			<ptr target="bib:KrishnaSastri1923_01"/>
+			<citedRange unit="page">8-9</citedRange>
+			<citedRange unit="item">133</citedRange>
+		</bibl>
+	</listBibl>
+	
+	<listBibl type="secondary">
+				
+		<bibl>
+			<ptr target="bib:ARIE1887-1888_01"/>
+			<citedRange unit="page">5</citedRange>
+			<citedRange unit="appendix">I/1887-1888</citedRange>
+			<citedRange unit="item">35</citedRange>			
+		</bibl>		
+		
+	</listBibl>
+	
+</div>
+        </body>
+    </text>
+</TEI>
