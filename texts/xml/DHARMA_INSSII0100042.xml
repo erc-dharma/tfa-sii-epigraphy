@@ -146,9 +146,9 @@
 
 <div type="bibliography">
 	
-	<!--<p>
-		First reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/65).
-	</p>-->
+	<p>
+		First reported in <bibl><ptr target="bib:ARIE1886-1887"/></bibl> (ARIE/1886-1887/II/1886-1887/1).
+	</p>
 	
 	<p>
 		First edited <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.42), with English translation.
@@ -168,16 +168,16 @@
 		
 	</listBibl>
 	
-	<!--<listBibl type="secondary">
+	<listBibl type="secondary">
 		
 		<bibl>
-			<ptr target="bib:ARIE1887-1888_01"/>
-			<citedRange unit="page">6</citedRange>
-			<citedRange unit="appendix">I</citedRange>
-			<citedRange unit="item">65</citedRange>
+			<ptr target="bib:ARIE1886-1887"/>
+			<citedRange unit="page">5</citedRange>
+			<citedRange unit="appendix">II</citedRange>
+			<citedRange unit="item">1</citedRange>
 		</bibl>	
 		
-	</listBibl>-->
+	</listBibl>
 	
 </div>
 
