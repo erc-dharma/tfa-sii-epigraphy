@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Kāñcīpuram, Vaikuṇṭhaperumāḷ, time of Kulottuṅga Cōḻa, year 48</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">DHARMA_INSSII0400134</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported 
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>...</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:reda" when="2024-03-27"
+				>Creation of the file on the repository</change>
+		</revisionDesc>
+	</teiHeader>
+
+	<text xml:space="preserve">
+<body>	
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+				
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+	</ab>
+	
+	<p>		
+		pukaḻmātu viḷaṅka jayamātu virumpa
+		nilamakaḷ nilava malarmakaḷ puṇara
+		Urimaiyiṟ ciṟan=ta maṇimuṭi cūṭi
+		mīṉavar nilaikeṭa villavar kulaitara
+		Eṉai maṉṉavar iriyaluṟ ṟiḻitarat
+		tikkaṉait tun=taṉ cakkara na[ṭ]ātti
+		vijay[ā*]<hi rend="grantha">bhiṣe</hi>kam paṇṇi 
+		v<choice><orig>i</orig><reg>ī</reg></choice>ṟṟ-irunt-aruḷiya		
+	</p>
+	<p>
+		kō-v-irāja-kēsariva<hi rend="grantha">tma</hi>r-āna
+		<hi rend="grantha">cakra</hi>varttikaḷ śrī-kulōttuṅka-cōoḻa-
+		<hi rend="grantha">de</hi>vaṟku yāṇṭu ṉāṟpatt' eṭṭāvatu
+	</p>
+	<p>
+		jayaṅ-koṇṭa-cōḻa-maṇṭalattu Ūṟṟu-k-kāṭṭu-k-kōṭṭattu
+		Ūṟṟu-k-kāṭṭu-ṉāṭṭu śrī-kulōttuṅka-cōḻa-c-catu<hi rend="grantha">rvvedi</hi>-maṅkalattu-p peruṅ-kuṟi<hi rend="grantha">mahā-sabhai</hi>yōm
+		<hi rend="grantha">bhūmi</hi>-ni[la-vi*]lai-y-āvaṇa-k kai Eḻuttu Eyiṟ-kōṭṭattu nakaraṅ kāñci-purattu
+		śrī-kulōttuṅka-cōḻa-viṇṇakarāḻvā[ṉ] kōyiliṟ tiru-maṭa-viḷākattu-[t] teṟkil
+		mēṟk' aṭaiya puravu'va[ri]māṇikkam eṉṉu maṭattukku Avv-āḻvāṉaṭiyāḷ
+		cāttaṅkai t[o]ḻi-y-āṉa puravari-māṇikkam Ava <gap reason="lost" quantity="2" unit="character"/> tiru-ṉāṭ pattum tiru-vati paṇi-ceyvārum
+		śrī-vayi<hi rend="grantha">ṣṇa</hi>varum Amutu-ceykaikku
+		<hi rend="grantha">bhū</hi>mi koḷḷa Iṭṭa kācu Añcu
+	</p>
+	<p>		
+		Ik-kāc' añcuṅ koṇṭu nāṅkaḷ Im-maṭa-p-puṟam
+		<hi rend="grantha">candrāditta</hi>-vaṟ Iṟai-Ili-y-āka viṟṟu-k kuṭutta nilam āva[tu]
+	</p>
+	<p>
+		E[ṅ]kaḷūṟ ki-piṭākai tiyaṉ-kāraṇaiyilum t[e]lkkolamaṅkalattiluṅ
+		kuṉṟa-pākkattilum ellai poruttāṉ nilam pañcavaṉ-viḻupparayaṉ Ērikku-k kiḻakkiṟ
+		caṇpaṅkuḻiyiṉ mēl-karai mēl-pāṟko <gap reason="lost" quantity="1" unit="character"/>
+		<lb n="2" break="no"/>m peṟavum 
+		Atuvē kiḻakku nōkki nāṟpatiṉ ko[l] taṟai peṟavum
+		Atuvē teṟku nōkki [nū]ṟṟu-k kol taṟai peṟavum
+		Atuvē meṟku nōkki ka[ṭa]ppaṅkuḻiyiṉ teṉkaraiyilē Uṟavum
+		Atuvē teṟku nōkki nir-nilai Uṟavum kuṉṟapākkatt' ēri-nilaiyē
+		teṉ-pāṟk' ellai y-ākavē v-ellaikkuḷ<!--EF--> naṭuvu-pa[ṭṭa] ṉilam Aṉeka<!--EF-->-kālam viḻaluṅ
+		kāṭukoḷumā(mā)y-p payir-ceyyātum kūṟupāṭum parappun=taramum
+		Iṟai Eṟṟu[m i]ṉṟi sa<hi rend="grantha">bhai</hi>-p-potu-vāy-k ki[ṭan=ta]maiyil Ivv-āḻvāṟku maṭa-p-puṟam-āka viṟṟu-k kuṭuttōm 
+		In-nilam <hi rend="grantha">de</hi>vaka<hi rend="grantha">nmi</hi>kaḷum śrī-vai<hi rend="grantha">ṣṇa</hi>va-k-kaṇkāṇi 	ceyvārkaḷuṅ kai-k koṇṭu kāṭuveṭṭiyum viḻalveṭṭiyum Ucarvaṉa Ucarttiyum
+		kuḻippaṉa kuḻittun=tiruttit tām <gap reason="lost" quantity="9" unit="character"/> m viṭṭu
+		<hi rend="grantha">svāmi</hi>vāra[ṅ]-koṇṭum Amutu ceyvikka-k kaṭava<supplied reason="omitted">r</supplied><!--EF-->kaḷ ākavum [kā]ṭum	viḻalum veṭṭi tirutti <gap reason="lost" quantity="4" unit="character"/> melor <gap reason="lost" quantity="4" unit="character"/>
+	</p>
+			
+</div>
+			
+<!--<div type="apparatus">
+	
+	<listApp>
+		
+		<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:KrishnaSastri1923_01">...</rdg>
+			<note>...</note>
+		</app>	
+		
+	</listApp>	
+	
+</div>-->
+			
+<div type="translation" resp="part:emfr">
+								
+	<p n="1">Prosperity! Fortune!</p>
+	
+</div>
+	
+<!--<div type="commentary">
+		
+</div>-->
+	
+<div type="bibliography">
+	
+	<p>First reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/36).</p>
+	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.134).</p>
+	
+	<p>Encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> and on photos (Emmanuel Francis, 2007).
+	</p>	
+	
+	<listBibl type="primary">
+		
+		<bibl n="SII">
+			<ptr target="bib:KrishnaSastri1923_01"/>
+			<citedRange unit="page">9-10</citedRange>
+			<citedRange unit="item">134</citedRange>
+		</bibl>
+	</listBibl>
+	
+	<listBibl type="secondary">
+				
+		<bibl>
+			<ptr target="bib:ARIE1887-1888_01"/>
+			<citedRange unit="page">5</citedRange>
+			<citedRange unit="appendix">I/1887-1888</citedRange>
+			<citedRange unit="item">36</citedRange>			
+		</bibl>		
+		
+	</listBibl>
+	
+</div>
+        </body>
+    </text>
+</TEI>
