@@ -8,7 +8,8 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvoṟṟiyūr, Ādhipurīśvara temple, time of Rājādhirāja Cōḻa, 11th year</title>
+				<title>Tiruvoṟṟiyūr, Ādhipurīśvara temple, time of Rājādhirāja Cōḻa, 11th
+					year</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -51,7 +52,8 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+								nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -74,7 +76,7 @@
 				<prefixDef ident="part" matchPattern="([a-z]+)"
 					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
 					<p>Internal URIs using the part prefix to point to person elements in the
-						<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
 				</prefixDef>
 			</listPrefixDef>
 		</encodingDesc>
@@ -86,84 +88,63 @@
 		<body>
 			
 <div type="edition">
-				
-	<div type="textpart" xml:lang="san-Latn" n="A">
-		<head xml:lang="eng">Sanskrit Portion</head>
-		
-		<ab>
+			
+	
+		<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
 			<lb n="1"/><hi rend="grantha">svasti śrīḥ </hi> <g type="gomutraFinal">.</g>
 		</ab>
 		
-		<lg met="śārdūlavikrīḍita" n="1">
+		<lg met="śārdūlavikrīḍita" n="1" xml:lang="san-Latn" rendition="class:38768 maturity:83213">
 			
 			<l n="a">kṣoṇī<unclear>m·</unclear> rakṣati bhūmipe kaliyuge rājādhirājāhvaye</l>
 			
 		</lg>
 		
-	</div>
 	
-	<div type="textpart" xml:lang="tam-Latn" n="B">
-		<head xml:lang="eng">Tamil Portion</head>
-		
-		<ab>
+	
+		<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
 			<hi rend="grantha">svasti śrī</hi>
 		</ab>
 		
-		<p>
+		<p xml:lang="tam-Latn">
 			tiripuvaṉa-
 			<lb n="3"/>jayaṅ-koṇṭa-cōḻamaṇṭalattu
 		</p>
-	</div>
+	
 				
 </div>
 
 <div type="apparatus">
 				
-	<div type="textpart" xml:lang="san-Latn" n="A">
-	<head xml:lang="eng">Sanskrit Portion</head><listApp>
-		
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:KrishnaSastri1925_01"/>
-		</app>
-		
-	</listApp>
-	</div>
 	
-	<div type="textpart" xml:lang="tam-Latn" n="B">
-	<head xml:lang="eng">Tamil Portion</head><listApp>
+		
+		<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:KrishnaSastri1925_01"/>
+		</app>
+			
+	
 		
 		<app loc="0">
 			<lem>...</lem>
 			<rdg source="bib:KrishnaSastri1925_01"/>
 		</app>
 		
-	</listApp>
-	</div>
 </div>
 			
 <div type="translation" resp="part:emfr">
 	
-	<div type="textpart" n="A">
-	<head xml:lang="eng">Sanskrit Portion</head>
-		
-		<p n="1">Prosperity! Fortune!</p>
-		
-		<p rend="stanza" n="1">...</p>
-		
-	</div>
+	<p n="1">Prosperity! Fortune!</p>
 	
-	<div type="textpart" n="B">
-	<head xml:lang="eng">Tamil Portion</head>
-		
-		<p n="1">Prosperity! Fortune!</p>
-		
-		<p n="1">Ninth year of ...the glorious king Rājādhirāja, emperor of the three worlds.</p>
-		
-		<p n="2-5">...</p>
-		
-	</div>
-				
+	<p rend="stanza" n="1">...</p>
+	
+	
+	<p n="1">Prosperity! Fortune!</p>
+	
+	<p n="1">Ninth year of ...the glorious king Rājādhirāja, emperor of the three worlds.</p>
+	
+	<p n="2-5">...</p>
+					
 </div>
 			
 <div type="commentary">
