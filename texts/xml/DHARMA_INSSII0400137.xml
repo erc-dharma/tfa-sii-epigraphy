@@ -94,34 +94,40 @@
 		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
 	</ab>
 	
+	<lg n="1" met="āciriyappā">		
+		<l n="1">tiru-maka[ḷ] <choice><sic>k</sic><corr>p</corr></choice>ōla-p peru-nila-c-celvi<lb n="2" break="no"/>yun</l>
+		<l n="2">taṉakkē y-[urimai] pūṇṭa[m]ai maṉa<lb n="3" break="no"/>-k-koḷa</l>
+		<l n="3">kāntaḷūr-c [cālai-k] kalam aṟutt-aruḷi</l>
+		<l n="4">vē<lb n="4" break="no"/>ṅkai-nāṭuṅ kaṅka-pāṭiyun</l>
+		<l n="5">nuḷampa-pāṭi<lb n="5" break="no"/>yun taṭikai-vaḻi[yuṅ</l>
+		<l n="6">ku]ṭamalai-nāṭuṅ kol<lb n="6" break="no"/>lamuṅ kaliṅkamun</l>
+		<l n="7">tiṇ-ṭiṟal veṉṟi taṇ<lb n="7" break="no"/>ṭāṟ koṇṭa ta<choice><orig>ṇṇ</orig><reg>ṉ</reg></choice></l>
+		<l n="8">eḻil vaḷa[va] Ūḻi<lb n="8" break="no"/>yuḷ ellā yāṇṭum</l>
+		<l n="9">toḻutakai viḷa[ṅ*]kum yāṇ<lb n="9" break="no"/>ṭē</l>
+		<l n="10">ceḻiyarai-t tēcukkoḷ</l>
+	</lg>
 	<p>
-		tiru-maka[ḷ] <choice><sic>k</sic><corr>p</corr></choice>ōla-p peru-nila-c-celvi<lb n="2" break="no"/>yun
-		taṉakkē y-[urimai] pūṇṭa[m]ai maṉa<lb n="3" break="no"/>kkoḷa
-		kāntaḷūr-c [cālai-k] kalam aṟutt-aruḷi
-		vē<lb n="4" break="no"/>ṅkai-nāṭuṅ kaṅka-pāṭiyun
-		nuḷampa-pāṭi<lb n="5" break="no"/>yun taṭikai-vaḻi[yuṅ
-		ku]ṭamalai-nāṭuṅ kol<lb n="6" break="no"/>lamuṅ kaliṅkamun
-		tiṇ-ṭiṟal veṉṟi taṇ<lb n="7" break="no"/>ṭāṟ koṇṭa taṇṇ
-		eḻil vaḷa[va] ūḻi<lb n="8" break="no"/>yuḷ ellā yāṇṭum
-		toḻutakai viḷa[ṅ*]kum yāṇ<lb n="9" break="no"/>ṭē
-		ceḻiyarai-t tēcukkoḷ
-	</p>
-	<p>
-		śrī-kō-v-irācarācarā
-		<lb n="10" break="no"/>cakē-caripa<hi rend="grantha">nma</hi>kki yāṇṭu <num value="16"><g type="numeral">10</g> 6</num>-Āvatu
+		śrī-kō-v-irāca-rāca-rā
+		<lb n="10" break="no"/>ca-kēcari-pa<hi rend="grantha">nma</hi>kki yāṇṭu <num value="16"><g type="numeral">10</g> 6</num>-Āvatu
 	</p>
 	
 	<p>		
-		kāliyūr-k-kō-
-		<lb n="11" break="no"/>ṭṭattu cittira-mēka-taṭākattiṉ kiḻ tiru-v-ekampa
-		<lb n="12" break="no"/>ttuḷ uttama-cōḻa<hi rend="grantha">īśvara</hi>(p)piṟattu naraciṅ[ka]maṅ
-		<lb n="13" break="no"/>kalattu <hi rend="grantha">urudravālīśvara</hi>m-uṭaiya<hi rend="grantha">ma</hi>h<choice><sic>a</sic><corr>ā</corr></choice><hi rend="grantha">de</hi>varkku ti
-		<lb n="14" break="no"/>yaṅkuṭaiyā ṉampaṉirāmaṉ vaicca viḷakku
-		<lb n="15"/>Araikkum 	cāvā-muvā-p pēr-āṭu nāppatt' āṟu
+		kāliyūr-k-kō
+		<lb n="11" break="no"/>ṭṭattu cittira-mēka-taṭākattiṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻ tiru-v-ēkampa
+		<lb n="12" break="no"/>ttuḷ uttama-cōḻa-<hi rend="grantha">Īśvara</hi>-<choice><orig>pp</orig><reg>p</reg></choice>iṟattu naraciṅ[ka]maṅ
+		<lb n="13" break="no"/>kalattu U<hi rend="grantha">rudravālīśvara</hi>m-uṭaiya <hi rend="grantha">mah<choice><sic>a</sic><corr>ā</corr></choice>de</hi>varkku ti
+		<lb n="14" break="no"/>yaṅkuṭaiyāṉampaṉirāmaṉ vaicca viḷakku
+		<lb n="15"/>Araikkum cāvā-muvā-p pēr-āṭu nā-p-patt' āṟu
 	</p>
 	<p>
-		<lb n="16"/>Ivai paṉ<hi rend="grantha">māyeśvara-rakṣai</hi> (Iv-viḷakku) [I]
-		<lb n="17" break="no"/>[vvi]ḷakk' erippatākavum Ivv-āṭu tiṅku niṉai
+		<lb n="16"/>Ivai paṉ<hi rend="grantha">mā</hi>ye<hi rend="grantha">śvara-rakṣai</hi>
+	</p>
+		<p>
+		<surplus>Iv-viḷakku</surplus> [I]
+		<lb n="17" break="no"/>[vvi]ḷakk' erippat' ākavum
+	</p>
+	<p>
+		Ivv-āṭu tiṅku niṉai
 		<lb n="18" break="no"/>ttāṉ keṅkai y-iṭai-k kumari-[y-i]ṭai-c cey
 		<lb n="19" break="no"/>ta pāvaṅ koḷvār
 	</p>
@@ -146,17 +152,19 @@
 								
 	<p n="1">Prosperity! Fortune!</p>
 	
-	<p n="1-2">15th year of the king Parakesarivarman<!--[5]th year in ARIE--></p>
-	<p n="2-9">So that there be <supplied reason="explanation"><foreign>āka</foreign></supplied>, for the Mahādeva, Lord of the Vālīśvara <supplied reason="subaudible">temple</supplied> in Naraciṅkamaṇkalam, east of the Cittiramēkam tank,	 
-	<list>
-		<item>one quarter <supplied reason="explanation"><foreign>kāl</foreign></supplied> lamp that Nāṭṭaṭiyaṉ, son of Ātipucaṅkaceṭṭi, a merchant <supplied reason="subaudible">from</supplied> Tiruvaṇṇāmali, <supplied reason="subaudible">on</supplied> the northern bank of the Peṇṇai <supplied reason="subaudible">river</supplied> <supplied reason="subaudible">in</supplied> the Vāṇakappāṭi, gave <supplied reason="explanation"><foreign>vaitta</foreign></supplied>, and</item>
-		<item>one quarter lamp that the shepherd Cāttakuṭṭi Vīraṉ gave <supplied reason="explanation"><foreign>vaicca</foreign></supplied>,</item>
-	</list>
-		the great undying and unaging goats given <supplied reason="explanation"><foreign>vaicca</foreign></supplied> for half a lamp <supplied reason="subaudible">are</supplied> fourty-five and a half<note>Or "fourty-five for the half lamp"? But, since the lamp is divided into quarters, a goat could as well be divided into halves.</note>.
+	<p n="9-10">16th year of the glorious king Rājarājakesarivarman </p>
+	<p n="2-9">who, ...</p>
+	<p n="10-15">...
+		for the Mahādeva, Lord of the Rudravālīśvara <supplied reason="subaudible">temple</supplied> in Naraciṅkamaṇkalam,
+		..., 
+		east of the Cittiramēkam tank, in the Kāliyūrkkōṭṭam,
+		for half a lamp that
+		... 
+		the great undying and unaging goats <supplied reason="subaudible">are</supplied> fourty-six.
 	</p>
-	<p n="9-10">These <supplied reason="subaudible">are under</supplied> the protection of the Paṉmāheśvaras.</p>
-	<p n="10-11">These half lamps should burn in day time.</p>
-	<p n="11-13">He who think/does harm/evil <supplied reason="explanation"><foreign>tīṅku</foreign></supplied> to/about these goats obtains a sin made between the Ganges and Kumari.</p>
+	<p n="16">These <supplied reason="subaudible">are under</supplied> the protection of the Paṉmāheśvaras.</p>
+	<p n="16-17">These half lamps should burn.</p>
+	<p n="17-19">He who think/does harm/evil <supplied reason="explanation"><foreign>tīṅku</foreign></supplied> to/about these goats obtains a sin made between the Ganges and Kumari.</p>
 	
 </div>
 	
