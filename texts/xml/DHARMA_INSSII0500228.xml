@@ -5,160 +5,160 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-<teiHeader>
-	<fileDesc>
-<titleStmt>
-<title>Pērūr, Gōshṭhīśvara temple, time of Karikāla Cōḻa, year 2 </title>
-	<respStmt>
-		<resp>EpiDoc encoding</resp>
-		<persName ref="part:reda">
-			<forename>Renato</forename>
-			<surname>Dávalos</surname>
-		</persName>
-		<persName ref="part:emfr">
-			<forename>Emmanuel</forename>
-			<surname>Francis</surname>
-		</persName>
-	</respStmt>
-	<respStmt>
-		<resp>intellectual authorship of edition</resp>
-		<persName ref="part:reda">
-			<forename>Renato</forename>
-			<surname>Dávalos</surname>
-		</persName>
-		<persName ref="part:emfr">
-			<forename>Emmanuel</forename>
-			<surname>Francis</surname>
-		</persName>
-	</respStmt>
-</titleStmt>
-<publicationStmt>
-	<authority>DHARMA</authority>
-	<pubPlace>Paris</pubPlace>
-	<idno type="filename">DHARMA_INSSII0500228</idno>
-	<availability>
-		<licence target="https://creativecommons.org/licenses/by/4.0/">
-			<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Pērūr, Gōshṭhīśvara temple, time of Karikāla Cōḻa, year 2 </title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
+					</persName>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
+					</persName>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">DHARMA_INSSII0500228</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
 				Licence. To view a copy of the licence, visit
 				https://creativecommons.org/licenses/by/4.0/ or send a letter to
 				Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 				California, 94041, USA.</p>
-			<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-		</licence>
-	</availability>
-	<date from="2019" to="2025">2019-2025</date>
-</publicationStmt>
-<sourceDesc>
-	<msDesc>
-		<msIdentifier>
-			<repository>DHARMAbase</repository>
-			<idno/>
-		</msIdentifier>
-		<msContents>
-			<summary>Gift of land to temple for the queen and for various services,
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Gift of land to temple for the queen and for various services,
 				including feeding ascetics and singing tiruppatiyam during
 				festival.</summary>
-		</msContents>
-		<physDesc>
-			<handDesc>
-				<p/>
-				<p/>
-			</handDesc>
-		</physDesc>
-	</msDesc>
-</sourceDesc>
-</fileDesc>
-	<encodingDesc>
-		<projectDesc>
-			<p>The project DHARMA has received funding from the European Research Council (ERC)
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC)
 				under the European Union's Horizon 2020 research and innovation programme (grant
 				agreement no 809994).</p>
-		</projectDesc>
-		<schemaRef type="guide" key="EGDv01"
-			url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-		<listPrefixDef>
-			<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-				replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-				<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
 					ERC-DHARMA whose data are open to the public.</p>
-			</prefixDef>
-			<prefixDef ident="part" matchPattern="([a-z]+)"
-				replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-				<p>Internal URIs using the part prefix to point to person elements in the
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
 					<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-			</prefixDef>
-		</listPrefixDef>
-	</encodingDesc>
-	<revisionDesc>
-		<change who="part:reda" when="2024-03-19">Creation of the file on the
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:reda" when="2024-03-19"
+				>Creation of the file on the
 			repository</change>
-	</revisionDesc>
-</teiHeader>
+		</revisionDesc>
+	</teiHeader>
+
+
+<text xml:space="preserve">
+<body>	
+			
+<div type="edition" xml:lang="tam-Latn">
+				
+	<ab>
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+	</ab>
 	
 	
-	<text xml:space="preserve">
-		<body>	
-			
-			<div type="edition" xml:lang="tam-Latn">
-				
-				<ab>
-					<lb n="1"/><hi rend="grantha">svasti śrī</hi>
-				</ab>
-				
-				
-				<p>
-					<hi rend="grantha">tribhu</hi>vana-c-cakkara-vatti <hi rend="grantha">śrī-</hi>ka<supplied reason="undefined">ri</supplied>kāla-c<supplied reason="undefined">ō</supplied>ḻa-tēvaṟkku-t tiruveḻutt’ iṭṭu-c
-					
-					<lb n="2"/>cellā ni<choice><orig>n</orig><reg>ṉ</reg></choice>ṟa tirunalliyāṇṭu 2 Āvati<choice><orig>n</orig><reg>ṉ</reg></choice>
-				</p> 
-				
-				<p>
-					Etir Etir Etir Etir kō<choice><orig>n</orig><reg>ṉ</reg></choice>eriṉmai-<!--@emfr: the word is koneri but the editor has koneRRI. How to encode it?-->
-					
-					<lb n="3" break="no"/>koṇṭā<choice><orig>n</orig><reg>ṉ</reg></choice> pērūr-nāṭṭu pērūr Āḷuṭaiyār tiruvānpaṭṭi-y-āṇṭārk
-					
-					<lb n="4" break="no"/>ku nam Āḻvikku naṉṟāka nām kaṇṭa tirunāḷ-āvatu <choice><orig>Aṟpikai</orig><reg>Aippaci</reg></choice>-t tiṅkaḷ-t tirunā<supplied reason="undefined">ḷ</supplied> 
-					
-					<lb n="5"/><supplied reason="undefined">E</supplied>ḻuntaruḷi Āḻvi piṟanta tirunāḷ Uttirāṭatti<choice><orig>n</orig><reg>ṉ</reg></choice> A<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu t<choice><sic>i</sic><corr>ī</corr></choice><choice><sic><hi rend="grantha">rtdha</hi></sic><corr><hi rend="grantha">rtha</hi></corr></choice>m <hi rend="grantha">prasā</hi>ti-t taruḷu
-					
-					<lb n="6" break="no"/>kaikku viṭṭa nilam-āvatu 
-				</p> 
-				
-				<p>
-					
-					tirunāḷ-p paṭiyil Amutupaṭikku-p paṭi-y iraṭṭiyum 
-					
-					<lb n="7"/>ciṟappukku kaṟiyamutum uppamutum miḷakamutum parupp’amutum n<choice><orig>ai</orig><reg>ey</reg></choice>yamutu
-					
-					<lb n="8" break="no"/>m tayiramutum caṟkaraiyamutum tiruviḷakke<supplied reason="undefined">ṇ</supplied>ṇ<choice><orig>ai</orig><reg>ey</reg></choice>yum Aṭaikkāyyamu
-					
-					<lb n="9" break="no"/>tum-y ilaiyamutum <hi rend="grantha">Aṣṭa</hi>paripāla<supplied reason="undefined">naṅa</supplied>kaḷukkum yā<hi rend="grantha">ga</hi>maṇṭapattukku Amutu<!--@reda: note  it should be paripalanankalukkum, not nana-->
-					
-					<lb n="10"/>ceyyum <hi rend="grantha">de</hi>va<supplied reason="omitted">r</supplied>kaḷukkum <hi rend="grantha">ho</hi>ma<hi rend="grantha">dravya</hi>ṅkaḷukkum paṭi-y iraṭṭi Amutu ce<!--@emfr:maybe a missing ya in ceyyakkatava?-->
-					
-					<lb n="11" break="no"/>yakkaṭava <hi rend="grantha">de</hi>va<supplied reason="omitted">r</supplied>kaḷukkum ciṟappamut’ā<choice><orig>n</orig><reg>ṉ</reg></choice>a peruntiru Amutukaḷukkum Ācāriya paricāraka
-					
-					<lb n="12" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>ukkum tirunāḷ cevikka vanta Āṇṭā<supplied reason="omitted">r</supplied>kaḷukkum tirunāḷ cevikkavun tiruppatiyam pāṭu
-					
-					<lb n="13" break="no"/>vārkaḷukkum cevikkavanta viccāttikaḷukkum palivitattāl Uḷḷa Aḻivum maṭatti<supplied reason="omitted">l</supplied> Ā
-					
-					<lb n="14" break="no"/>ṇtārka<supplied reason="undefined">ḷu</supplied><supplied reason="omitted">m</supplied> Amutum maṟṟum nel Ēṟṟi tirukkoṭimutal t<choice><sic>i</sic><corr>ī</corr></choice><choice><sic><hi rend="grantha">rtdha</hi></sic><corr><hi rend="grantha">rtha</hi></corr></choice>m <hi rend="grantha">prasā</hi>titt’ aruḷi<supplied reason="undefined"><choice><orig>n</orig><reg>ṉ</reg></choice>a</supplied> Āṉ
-					
-					<lb n="15" break="no"/>ṟu mutal ti<supplied reason="undefined">ru</supplied>nāḷ-p pattukkum veṇṭu<supplied reason="omitted">m</supplied> nel mu<choice><orig>ṉ</orig><reg>n</reg></choice>nūṟṟu Aṟupatiṅ kalattu<supplied reason="undefined">k</supplied>ku nām
-					
-					<lb n="16"/>viṭṭa nila<supplied reason="undefined">māvatu</supplied> 
-				</p> 
-				
-				<p>
-					pērūrnāṭṭu <gap reason="lost" quantity="5" unit="character"/>āl Amara-puyaṅka-nallūril It-tēvar <hi rend="grantha">śrī</hi>k
-					
-					<lb n="17" break="no"/>āriyam ceyvārkaḷ vacam viṭṭa <gap unit="character" quantity="6" reason="lost"/> Irupattunā<supplied reason="undefined">ṟ</supplied> kalaṉē Aṟunāḻikku nila
-					
-					<lb n="18" break="no"/>m nan=tipaṉma<choice><orig>ṉ</orig><reg>n</reg></choice>ukku nām kāṇiyāka <gap reason="lost" quantity="5" unit="character"/>ttil Amarapuyaṅkamaṉ naṟaiyil ni<supplied reason="undefined">la</supplied>m A<gap extent="unknown" reason="ellipsis"/><!--note that the inscription is incomplete-->
-				</p>
-				
-			</div>
-			
+	<p>
+		<hi rend="grantha">tribhu</hi>vana-c-cakkara-vatti <hi rend="grantha">śrī-</hi>ka<supplied reason="undefined">ri</supplied>kāla-c<supplied reason="undefined">ō</supplied>ḻa-tēvaṟkku-t tiru-v-eḻutt’ iṭṭu-c
+		
+		<lb n="2"/>cellā ni<choice><orig>n</orig><reg>ṉ</reg></choice>ṟa tiru-nall-iyāṇṭu 2 Āvati<choice><orig>n</orig><reg>ṉ</reg></choice> Etir Etir Etir Etir
+	</p> 
+	
+	<p>
+		kō<choice><orig>n</orig><reg>ṉ</reg></choice>e<surplus>r</surplus>riṉmai
+		
+		<lb n="3" break="no"/>koṇṭā<choice><orig>n</orig><reg>ṉ</reg></choice> pērūr-nāṭṭu pērūr Āḷuṭaiyār tiruvānpaṭṭi-y-āṇṭārk
+		
+		<lb n="4" break="no"/>ku nam Āḻvikku naṉṟāka nām kaṇṭa tirunāḷ-āvatu <choice><orig>Aṟpikai</orig><reg>Aippaci</reg></choice>-t tiṅkaḷ-t tirunā<supplied reason="undefined">ḷ</supplied> 
+		
+		<lb n="5"/><supplied reason="undefined">E</supplied>ḻuntaruḷi Āḻvi piṟanta tirunāḷ Uttirāṭatti<choice><orig>n</orig><reg>ṉ</reg></choice> A<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu t<choice><sic>i</sic><corr>ī</corr></choice><hi rend="grantha">rt<choice><orig>d</orig><reg>t</reg></choice>ha</hi>m <hi rend="grantha">prasā</hi>ti-t taruḷu
+		
+		<lb n="6" break="no"/>kaikku v-iṭṭa nilam āvatu 
+	</p> 
+	
+	<p>
+		
+		tirunāḷ-p paṭiyil Amutupaṭikku-p paṭi-y iraṭṭiyum 
+		
+		<lb n="7"/>ciṟappukku kaṟi-y-amutum upp-amutum miḷak-amutum parupp-amutum n<choice><orig>ai</orig><reg>ey</reg></choice>y-amutu
+		
+		<lb n="8" break="no"/>m tayir-amutum caṟkarai-y-amutum tiru-viḷakk-e<supplied reason="undefined">ṇ</supplied>ṇ<choice><orig>ai</orig><reg>ey</reg></choice>yum Aṭai-k-kāyy-amu
+		
+		<lb n="9" break="no"/>tum-y ilai-y-amutum <hi rend="grantha">Aṣṭa</hi>-paripāla<supplied reason="undefined">naṅ</supplied>kaḷukkum yā<hi rend="grantha">ga</hi>-maṇṭapattukku Amutu
+		
+		<lb n="10"/>ceyyum <hi rend="grantha">de</hi>va<supplied reason="omitted">r</supplied>kaḷukkum <hi rend="grantha">ho</hi>ma-<hi rend="grantha">dravya</hi>ṅkaḷukkum paṭi-y iraṭṭi Amutu ce
+		
+		<lb n="11" break="no"/><choice><orig>y</orig><reg>yy</reg></choice>a-k-kaṭava <hi rend="grantha">de</hi>va<supplied reason="omitted">r</supplied>kaḷukkum ciṟapp-amut-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a perun-tiru-Amutukaḷukkum Ācāriya-paricāraka
+		
+		<lb n="12" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>ukkum tirunāḷ cevikka vanta Āṇṭā<supplied reason="omitted">r</supplied>kaḷukkum tiru-nāḷ cevikkavun tiru-p-patiyam pāṭu
+		
+		<lb n="13" break="no"/>vārkaḷukkum cevikka vanta viccāttikaḷukkum palivitattāl Uḷḷa Aḻivum maṭatti<supplied reason="omitted">l</supplied> Ā
+		
+		<lb n="14" break="no"/>ṇtārka<supplied reason="undefined">ḷu</supplied><supplied reason="omitted">m</supplied> Amutum maṟṟum nel Ēṟṟi tiru-k-koṭi mutal t<choice><sic>i</sic><corr>ī</corr></choice><choice><sic><hi rend="grantha">rtdha</hi></sic><corr><hi rend="grantha">rtha</hi></corr></choice>m <hi rend="grantha">prasā</hi>titt’ aruḷi<supplied reason="undefined"><choice><orig>n</orig><reg>ṉ</reg></choice>a</supplied> Āṉ
+		
+		<lb n="15" break="no"/>ṟu mutal ti<supplied reason="undefined">ru</supplied>-nāḷ-p pattukkum vēṇṭu<supplied reason="omitted">m</supplied> nel mu<choice><orig>ṉ</orig><reg>n</reg></choice>nūṟṟu Aṟupatiṅ kalattu<supplied reason="undefined">k</supplied>ku nām
+		
+		<lb n="16"/>v-iṭṭa nila<supplied reason="undefined">m āvatu</supplied> 
+	</p> 
+	
+	<p>
+		pērūr-nāṭṭu <gap reason="lost" quantity="5" unit="character"/>āl Amara-puyaṅka-nallūril It-tēvar <hi rend="grantha">śrī</hi>-k
+		
+		<lb n="17" break="no"/>āriyam ceyvārkaḷ vacam viṭṭa <gap unit="character" quantity="6" reason="lost"/> Irupattu nā<supplied reason="undefined">ṟ</supplied> kalaṉē Aṟu-nāḻikku nila
+		
+		<lb n="18" break="no"/>m nan=tipaṉma<choice><orig>ṉ</orig><reg>n</reg></choice>ukku nām kāṇi-y-āka <gap reason="lost" quantity="5" unit="character"/>ttil Amara-puyaṅkamaṉ naṟaiyil ni<supplied reason="undefined">la</supplied>m A
+	</p>
+</div>
+	
 			<div type="apparatus">
 				
 				<listApp>
@@ -179,12 +179,12 @@
 				</p>
 				
 				<p n="1-2">
-					Currently, the second year of the prosperous year signed by the king Tribhuvanac-cakkaravatti Śrīkarikāla-cōḻa. 
+					Currently, the second year <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>etir etir etir etir</foreign></supplied> of the prosperous year signed by the king Tribhuvanac-cakkaravatti Śrīkarikāla-cōḻa. 
 					
 				</p>
 				
 				<p n="2-6">
-					This is the land that is bestowed for the graceful offering of sacred water on the day of the  Uttirāṭam festival, the birthday of the queen who gracefully established the festival in the month of Aṟpikai (Aippaci). That is, the holy festival that we have seen on the day of our queen dedicated to Āḷuṭaiyār Tiruvānpaṭṭiyāṇṭār of Pērūr, located in Pērūrnāṭu of Kōnēṟṟiṉmaikoṇṭāṉ who was against (etir etir) the opposition (etir etir?). 
+					This is the land that is bestowed for the graceful offering of sacred water on the day of the  Uttirāṭam festival, the birthday of the queen who gracefully established the festival in the month of Aṟpikai (Aippaci). That is, the holy festival that we have seen on the day of our queen dedicated to Āḷuṭaiyār Tiruvānpaṭṭiyāṇṭār of Pērūr, located in Pērūrnāṭu of Kōnēṟṟiṉmaikoṇṭāṉ. 
 				</p>
 				
 				
@@ -192,9 +192,9 @@
 				
 			</div>
 			
-	<div type="commentary">
+<div type="commentary">
 		
-		
+	<p>The inscription stops short abruptly.</p>	
 </div>
     	
 <div type="bibliography">
