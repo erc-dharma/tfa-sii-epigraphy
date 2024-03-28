@@ -108,19 +108,19 @@
 				
 				
 				<p>
-					<hi rend="grantha">tribhu</hi>vanaccakkaravatti <hi rend="grantha">śrī</hi>ka<supplied reason="undefined">ri</supplied>kālac<supplied reason="undefined">ō</supplied>ḻa-tēvaṟkku-t tiruveḻuttiṭṭu-c<!--@reda: only kompu is clear in cola-->
+					<hi rend="grantha">tribhu</hi>vana-c-cakkara-vatti <hi rend="grantha">śrī-</hi>ka<supplied reason="undefined">ri</supplied>kāla-c<supplied reason="undefined">ō</supplied>ḻa-tēvaṟkku-t tiruveḻutt’ iṭṭu-c
 					
-					<lb n="2"/>cellāni<choice><orig>n</orig><reg>ṉ</reg></choice>ṟa tirunalliyāṇṭu 2 Āvati<choice><orig>n</orig><reg>ṉ</reg></choice>
+					<lb n="2"/>cellā ni<choice><orig>n</orig><reg>ṉ</reg></choice>ṟa tirunalliyāṇṭu 2 Āvati<choice><orig>n</orig><reg>ṉ</reg></choice>
 				</p> 
 				
 				<p>
-					Etir Etir Etir Etir kō<choice><orig>n</orig><reg>ṉ</reg></choice>eriṉmai<!--@emfr: the word is koneri but the editor has koneRRI. How to encode it?-->
+					Etir Etir Etir Etir kō<choice><orig>n</orig><reg>ṉ</reg></choice>eriṉmai-<!--@emfr: the word is koneri but the editor has koneRRI. How to encode it?-->
 					
-					<lb n="3" break="no"/>koṇṭā<choice><orig>n</orig><reg>ṉ</reg></choice> pērūrnāṭṭu pērūr Āḷuṭaiyār tiruvānpaṭṭi-y āṇṭārk
+					<lb n="3" break="no"/>koṇṭā<choice><orig>n</orig><reg>ṉ</reg></choice> pērūr-nāṭṭu pērūr Āḷuṭaiyār tiruvānpaṭṭi-y-āṇṭārk
 					
-					<lb n="4" break="no"/>ku nam Āḻvikku naṉṟāka nām kaṇṭa tirunāḷ-āvatu <choice><orig>Aṟpikai</orig><reg>Aippaci</reg></choice>-t tiṅkaḷ-t tirunāḷ 
+					<lb n="4" break="no"/>ku nam Āḻvikku naṉṟāka nām kaṇṭa tirunāḷ-āvatu <choice><orig>Aṟpikai</orig><reg>Aippaci</reg></choice>-t tiṅkaḷ-t tirunā<supplied reason="undefined">ḷ</supplied> 
 					
-					<lb n="5" break="no"/><supplied reason="undefined">E</supplied>ḻuntaruḷi Āḻvi piṟanta tirunāḷ Uttirāṭatti<choice><orig>n</orig><reg>ṉ</reg></choice> Anṟu t<choice><sic>i</sic><corr>ī</corr></choice><choice><sic><hi rend="grantha">rtdha</hi></sic><corr><hi rend="grantha">rtha</hi></corr></choice>m <hi rend="grantha">prasā</hi>ti-t taruḷu
+					<lb n="5"/><supplied reason="undefined">E</supplied>ḻuntaruḷi Āḻvi piṟanta tirunāḷ Uttirāṭatti<choice><orig>n</orig><reg>ṉ</reg></choice> A<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu t<choice><sic>i</sic><corr>ī</corr></choice><choice><sic><hi rend="grantha">rtdha</hi></sic><corr><hi rend="grantha">rtha</hi></corr></choice>m <hi rend="grantha">prasā</hi>ti-t taruḷu
 					
 					<lb n="6" break="no"/>kaikku viṭṭa nilam-āvatu 
 				</p> 
@@ -162,15 +162,14 @@
 			
 			<div type="apparatus">
 				
-				<!--<listApp>
+				<listApp>
 					
-					<!-\-<app loc="0">
-					<lem>...</lem>
-					<rdg source="bib:SrinivasaRao1967_01">...</rdg>
-					<rdg source="bib:SrinivasaRao1979_01">...</rdg>
-					</app>	-\->
+					<app loc="1">
+					<lem>c<supplied reason="undefined">ō</supplied>ḻa</lem>
+					<note>Only the <foreign>kompu</foreign> is clear.</note>
+					</app>	
 					
-					</listApp>-->	
+					</listApp>	
 				
 			</div>
 			
