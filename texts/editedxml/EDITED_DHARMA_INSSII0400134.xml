@@ -95,20 +95,19 @@
 		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
 	</ab>
 	
-	<p>		
-		pukaḻmātu viḷaṅka jayamātu virumpa
-		nilamakaḷ nilava malarmakaḷ puṇara
-		Urimaiyiṟ ciṟan=ta maṇimuṭi cūṭi
-		mīṉavar nilaikeṭa villavar kulaitara
-		Eṉai maṉṉavar iriyaluṟ ṟiḻitarat
-		tikkaṉait tun=taṉ cakkara na[ṭ]ātti
-		vijay[ā*]<hi rend="grantha">bhiṣe</hi>kam paṇṇi 
-		v<choice><orig>i</orig><reg>ī</reg></choice>ṟṟ-irunt-aruḷiya		
-	</p>
+	<lg n="1" met="āciriyappā">		
+		<l n="1">pukaḻmātu viḷaṅka jayamātu virumpa</l>
+		<l n="2">nilamakaḷ nilava malarmakaḷ puṇara</l>
+		<l n="3">Urimaiyiṟ ciṟan=ta maṇimuṭi cūṭi</l>
+		<l n="4">mīṉavar nilaikeṭa villavar kulaitara</l>
+		<l n="5">Eṉai maṉṉavar iriyaluṟ ṟiḻitarat</l>
+		<l n="6">tikkaṉait tun=taṉ cakkara na[ṭ]ātti</l>
+		<l n="7">vijay[ā*]<hi rend="grantha">bhiṣe</hi>kam paṇṇi</l> 
+		<l n="8">v<choice><orig>i</orig><reg>ī</reg></choice>ṟṟ-irunt-aruḷiya</l>		
+	</lg>
 	<p>
 		kō-v-irāja-kēsariva<hi rend="grantha">tma</hi>r-āna
-		<hi rend="grantha">cakra</hi>varttikaḷ śrī-kulōttuṅka-cōoḻa-
-		<hi rend="grantha">de</hi>vaṟku yāṇṭu ṉāṟpatt’ eṭṭāvatu
+		<hi rend="grantha">cakra</hi>varttikaḷ śrī-kulōttuṅka-cōḻa-<hi rend="grantha">de</hi>vaṟku yāṇṭu ṉāṟpatt’ eṭṭāvatu
 	</p>
 	<p>
 		jayaṅ-koṇṭa-cōḻa-maṇṭalattu Ūṟṟu-k-kāṭṭu-k-kōṭṭattu
@@ -160,6 +159,11 @@
 <div type="translation" resp="part:emfr">
 								
 	<p n="1">Prosperity! Fortune!</p>
+	<p n="1">Fourty-eighth year of the glorious king Kulottuṅga Cōḻa, the emperor of the three worlds, alias the king Rājakesarivarman,</p>
+	<p n="1">who ... [<foreign>meykkīrtti</foreign> of Kulottuṅga I Cōḻa].</p>
+	<p n="1"><supplied reason="subaudible">There are</supplied> five <foreign>kācu</foreign>s ...</p>
+	<p n="1">With these five <foreign>kācu</foreign>s, we ...</p>
+	<p n="1-2">...</p>
 	
 </div>
 	
