@@ -80,12 +80,11 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:reda" when="2024-03-27"
-				>Creation of the file on the repository</change>
+			<change who="part:emfr" when="2024-03-27">Creation of the file on the repository</change>
 		</revisionDesc>
 	</teiHeader>
-	
-<text xml:space="preserve">
+
+	<text xml:space="preserve">
 <body>	
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
