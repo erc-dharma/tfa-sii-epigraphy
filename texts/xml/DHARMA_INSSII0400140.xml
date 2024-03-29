@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cēlam, Cukavaṉēśvara, time of ?, year 5</title>
+				<title>Cēlam, Cukavaṉēśvara, time of Parakesarivarman (?), year 5</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -120,7 +120,7 @@
 		<lb n="17" break="no"/>k' oṉṟu
 	</p>
 	<p>
-		paṉmā<choice><orig>y</orig><reg><hi rend="grantha">h</hi></reg></choice>e
+		paṉmā<choice><orig>yē</orig><reg><hi rend="grantha">he</hi></reg></choice>
 		<lb n="18" break="no"/><hi rend="grantha">śvarar· rakṣai</hi>
 	</p>
 	
@@ -142,10 +142,10 @@
 <div type="translation" resp="part:emfr">
 								
 	<p n="1">Prosperity! Fortune!</p>
-	<p n="2-3">Fifth year.</p>
+	<p n="2-3">Fifth year/In this fifth year <supplied reason="explanation"><foreign>iyāṇṭu</foreign><note>It is not clear whether the <foreign>i</foreign> prefixed to <foreign>yāṇṭu</foreign> is epenthetic or deictic. In the latter case it would refer to the year, similarly the fifth, of Parakesarivarmn, in which another record (SII 4.141) nearby is dated to. The present inscription is found right of entrance into the <foreign>garbagṛha</foreign> of the Cukavaṉēśvara, whereas SII 4.141 is found left of entrance.</note></supplied>.</p>
 	<p n="3-11">The gold given for one perpetual lamp ... <supplied reason="subaudible">is</supplied> five <foreign>kaḻañcu</foreign>s.</p>
-	<p n="11-14">One lamp given ...</p>
-	<p n="14-17">One lamp given ...</p>
+	<p n="11-14">One lamp given for ...</p>
+	<p n="14-17">One lamp given for ...</p>
 	<p n="17-18">This is under the protection of the Paṉmāheśvaras.</p>
 	
 </div>
