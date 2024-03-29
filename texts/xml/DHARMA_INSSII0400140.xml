@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>...</summary>
+						<summary>Donation of gold for one perpetual lamp and donation of two other lamps.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -89,7 +89,9 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 				
-	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213"><lb n="1"/>svasti śrī</ab>
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
+		<lb n="1"/>svasti śrī
+	</ab>
 	
 	<p>
 		<lb n="2"/>Iyāṇṭu Aiñ
@@ -111,9 +113,10 @@
 		tēvi
 		<lb n="12" break="no"/>yār muri A<supplied reason="undefined">mu</supplied>tiṉā
 		<lb n="13" break="no"/>r tamakku vaitta vi
-		</p>
-	<p>
+		
 		<lb n="14" break="no"/>ḷakk' oṉṟu
+	</p>
+	<p>
 		Ēkav<choice><orig>i</orig><reg>ī</reg></choice>
 		<lb n="15" break="no"/>raṉ ko<supplied reason="undefined">la</supplied>kka-p-pāvai 
 		<lb n="16" break="no"/>kku vaitta viḷak
