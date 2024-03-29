@@ -99,7 +99,7 @@
 		ko<lb n="2" break="no"/>-p-para-kēcari-paṉ
 		<lb n="3" break="no"/>maṟku-t tiru-v-e
 		<lb n="4" break="no"/>ḻutt-iṭṭu cel
-		<lb n="5" break="no"/>lāniṉṟa yā
+		<lb n="5" break="no"/>lā niṉṟa yā
 		<lb n="6" break="no"/>ṇṭu Aiñc-āva
 		<lb n="7" break="no"/>tu
 	</p>
@@ -109,11 +109,11 @@
 		<lb n="9" break="no"/>ṉ ṉānāṭṭā
 		<lb n="10" break="no"/>ṉ cittavaṭava
 		<lb n="11" break="no"/>ṉ tē<hi rend="grantha">vya</hi>-malai
-		<lb n="12" break="no"/>yya<supplied reason="undefined">mā</supplied>peru
-		<lb n="13" break="no"/><hi rend="grantha">nde⌉</hi><surplus>e</surplus>viyār kaviran
-		<lb n="14" break="no"/>ā<hi rend="grantha">di</hi>caṅkari-y-ē
-		<lb n="15" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice> cela<supplied reason="omitted">t</supplied>til ki
-		<lb n="16" break="no"/>ḷivaṇa k<choice><sic>e</sic><corr>ō</corr></choice><supplied reason="omitted">yi</supplied>l
+		<lb n="12" break="no"/>yya(<supplied reason="undefined">mā</supplied>(peru
+		<lb n="13" break="no"/><hi rend="grantha">n(de⌉</hi><surplus>e</surplus>viyār kaviran
+		<lb n="14" break="no"/>ā<hi rend="grantha">di</hi>(caṅkari-y-ē
+		<lb n="15" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice> cēla<supplied reason="omitted">t</supplied>til ki
+		<lb n="16" break="no"/>ḷivaṇa-k<choice><sic>e</sic><corr>ō</corr></choice><supplied reason="omitted">yi</supplied>l
 		<lb n="17"/>perumāṉaṭi
 		<lb n="18" break="no"/>ka<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice>ukku no
 		<lb n="19" break="no"/><supplied reason="undefined">n=t</supplied>ā-vi<supplied reason="omitted">ḷa</supplied>kku<supplied reason="omitted">kku</supplied> cēla<supplied reason="undefined">m-ā</supplied>
@@ -126,8 +126,8 @@
 	</p>
 	<p>
 		I
-		<lb n="26" break="no"/>ṟakkuvāṉ tan
-		<lb n="27" break="no"/>mamu<supplied reason="omitted">m</supplied> pāvaṉ tā
+		<lb n="26" break="no"/>ṟakkuvāṉ ta<choice><orig>n</orig><reg>ṉ</reg></choice>
+		<lb n="27" break="no"/>mam<surplus>u</surplus> pāvaṉ tā
 		<lb n="28" break="no"/>ṉē yaṟiyum <g type="gomutraFinal">.</g>
 	</p>
 	
@@ -137,15 +137,16 @@
 	
 	<listApp>
 		
-		<app loc="16">
-			<lem>vaca<lb n="24" break="no"/><supplied reason="undefined">m</supplied></lem>
-			<rdg source="bib:KrishnaSastri1923_01">vaca<supplied reason="omitted">m</supplied><lb n="24" break="no"/><supplied reason="undefined">m</supplied></rdg>
-		</app>	
-		
 		<app loc="23">
 			<lem>vaca<lb n="24" break="no"/><supplied reason="undefined">m</supplied></lem>
 			<rdg source="bib:KrishnaSastri1923_01">vaca<supplied reason="omitted">m</supplied><lb n="24" break="no"/><supplied reason="undefined">m</supplied></rdg>
 		</app>	
+		
+		<app loc="26">
+			<lem>ta<choice><orig>n</orig><reg>ṉ</reg></choice>
+		<lb n="27" break="no"/>mam<surplus>u</surplus></lem>
+			<rdg source="bib:KrishnaSastri1923_01">tan<lb n="27" break="no"/>mamu<supplied reason="omitted">m</supplied></rdg>
+		</app>
 		
 	</listApp>	
 	
@@ -154,11 +155,9 @@
 <div type="translation" resp="part:emfr">
 								
 	<p n="1">Prosperity! Fortune!</p>
-	<p n="2-3">Fifth year.</p>
-	<p n="3-11">The gold given for one perpetual lamp ... <supplied reason="subaudible">is</supplied> five <foreign>kaḻañcu</foreign>s.</p>
-	<p n="11-14">One lamp given for ...</p>
-	<p n="14-17">One lamp given for ...</p>
-	<p n="17-18">This is under the protection of the Paṉmāheśvaras.</p>
+	<p n="1-7">Fifth year, current <supplied reason="explanation"><foreign>cellā niṉṟa</foreign></supplied>, <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>tiru-v-eḻutt-iṭṭu</foreign></supplied>, of the king Parakesarivarman.</p>
+	<p n="7-25">The gold that I, ..., gave, in the custody <supplied reason="explanation"><foreign>vacam</foreign></supplied> of the members of the assembly, for one perpetual lamp for the great Lord of the temple of ... in Cēlam <supplied reason="subaudible">is</supplied> five <foreign>kaḻañcu</foreign>s.</p>
+	<p n="25-28">He who injures this pious donation <supplied reason="explanation"><foreign>taṉmam</foreign><note>Sanskrit <foreign>dharma</foreign>.</note></supplied> will know sin.</p>
 	
 </div>
 	
