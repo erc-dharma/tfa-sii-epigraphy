@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Cēlam, Cukavaṉēśvara, pillar inscription</title>
+            <title>Cēlam, Cukavaṉēśvara, window sill inscription</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSSII0400142</idno>
+            <idno type="filename">DHARMA_INSSII0400146</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Donation of a pillar.</summary>
+                  <summary>Donation of a stone window.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -91,16 +91,17 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 				
-		
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
+		<lb n="1"/>svasti śrī
+	</ab>
+	
 	<p>
-		<lb n="1"/>mala-maṇṭalattu ma
-		<lb n="2" break="no"/>laiyāḷaril tā
-		<lb n="3" break="no"/>vaikkuṟicci cātta
-		<lb n="4"/><choice><orig>n</orig><reg>ṉ</reg></choice> tiṟai<supplied reason="omitted">ya</supplied><choice><orig>n</orig><reg>ṉ</reg></choice> ta<choice><orig>n</orig><reg>ṉ</reg></choice>ma<supplied reason="omitted">m</supplied> I
-		<lb n="5" break="no"/>-k-kāl
+		It-tiru-c cālakam
+		<lb n="2"/>kañcamalai-p periya-piḷḷai
+		<lb n="3"/>Āḻvār maka<choice><orig>n</orig><reg>ṉ</reg></choice> ciṟu-p-pe
+		<lb n="4" break="no"/>rumāḷ <supplied reason="undefined">ta<choice><orig>n</orig><reg>ṉ</reg></choice>mam</supplied>
 	</p>
-	
-	
+		
 </div>
 			
 <!--<div type="apparatus">
@@ -118,7 +119,8 @@
 			
 <div type="translation" resp="part:emfr">
 								
-	<p n="1-5">This stone<note>That is, the pillar on which the inscription is engraved.</note> <supplied reason="subaudible">is</supplied> the pious donation <supplied reason="explanation"><foreign>taṉmam</foreign><note>Sanskrit <foreign>dharma</foreign>.</note></supplied> of Cāttaṉ Tiṟaiyaṉ <supplied reason="subaudible">from</supplied> Tāvaikuṟicci, among the <foreign>malaiyāḷar</foreign>s of the Malamaṇṭalam.</p>
+	<p n="1">Prosperity! Fortune!</p>
+	<p n="2-4">This window <supplied reason="explanation"><foreign>cālakam</foreign></supplied> <supplied reason="subaudible">is</supplied> the pious donation <supplied reason="explanation"><foreign>taṉmam</foreign><note>Sanskrit <foreign>dharma</foreign>.</note></supplied> of Ciṟupperumāḷ, son of Periyapiḷḷai Āḻvār <supplied reason="subaudible">of</supplied> Kañcamalai.</p>
 	
 </div>
 	
@@ -128,8 +130,8 @@
 	
 <div type="bibliography">
 	
-	<p>First reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/44).</p>
-	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.142).</p>
+	<p>First reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/46).</p>
+	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.145, where it is bifurcated as ARIE/1887-1888/I/1887-1888/46B).</p>
 	
 	<p>Encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>.
 	</p>	
@@ -138,8 +140,8 @@
 		
 		<bibl n="SII">
 			<ptr target="bib:KrishnaSastri1923_01"/>
-			<citedRange unit="page">14</citedRange>
-			<citedRange unit="item">142</citedRange>
+			<citedRange unit="page">15</citedRange>
+			<citedRange unit="item">146</citedRange>
 		</bibl>
 	</listBibl>
 	
@@ -149,7 +151,7 @@
 			<ptr target="bib:ARIE1887-1888_01"/>
 			<citedRange unit="page">5</citedRange>
 			<citedRange unit="appendix">I/1887-1888</citedRange>
-			<citedRange unit="item">44</citedRange>			
+			<citedRange unit="item">46</citedRange>			
 		</bibl>		
 		
 	</listBibl>
