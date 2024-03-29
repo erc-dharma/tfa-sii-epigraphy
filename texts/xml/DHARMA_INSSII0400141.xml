@@ -141,8 +141,7 @@
 		</app>	
 		
 		<app loc="26">
-			<lem>ta<choice><orig>n</orig><reg>ṉ</reg></choice>
-		<lb n="27" break="no"/>mam<surplus>u</surplus></lem>
+			<lem>ta<choice><orig>n</orig><reg>ṉ</reg></choice><lb n="27" break="no"/>mam<surplus>u</surplus></lem>
 			<rdg source="bib:KrishnaSastri1923_01">tan<lb n="27" break="no"/>mamu<supplied reason="omitted">m</supplied></rdg>
 		</app>
 		
