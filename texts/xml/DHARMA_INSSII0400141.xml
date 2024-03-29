@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Cēlam, Cukavaṉēśvara, time of Parakesarivarman, year 5</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">DHARMA_INSSII0400141</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>...</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC)
+					under the European Union's Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
+							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2024-03-27">Creation of the file on the
+				repository</change>
+		</revisionDesc>
+	</teiHeader>
+
+	<text xml:space="preserve">
+<body>	
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+				
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
+		<lb n="1"/>svasti śrī
+	</ab>
+	
+	<p>
+		ko<lb n="2" break="no"/>-p-para-kēcari-paṉ
+		<lb n="3" break="no"/>maṟku-t tiru-v-e
+		<lb n="4" break="no"/>ḻutt-iṭṭu cel
+		<lb n="5" break="no"/>lāniṉṟa yā
+		<lb n="6" break="no"/>ṇṭu Aiñc-āva
+		<lb n="7" break="no"/>tu
+	</p>
+	<p>
+		v<choice><orig>i</orig><reg>ī</reg></choice>ra<surplus>c</surplus>cōḻa-mi
+		<lb n="8" break="no"/>lā<supplied reason="omitted">ṭu</supplied> Uṭaiyā
+		<lb n="9" break="no"/>ṉ ṉānāṭṭā
+		<lb n="10" break="no"/>ṉ cittavaṭava
+		<lb n="11" break="no"/>ṉ tē<hi rend="grantha">vya</hi>-malai
+		<lb n="12" break="no"/>yya<supplied reason="undefined">mā</supplied>peru
+		<lb n="13" break="no"/><hi rend="grantha">nde⌉</hi><surplus>e</surplus>viyār kaviran
+		<lb n="14" break="no"/>ā<hi rend="grantha">di</hi>caṅkari-y-ē
+		<lb n="15" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice> cela<supplied reason="omitted">t</supplied>til ki
+		<lb n="16" break="no"/>ḷivaṇa k<choice><sic>e</sic><corr>ō</corr></choice><supplied reason="omitted">yi</supplied>l
+		<lb n="17"/>perumāṉaṭi
+		<lb n="18" break="no"/>ka<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice>ukku no
+		<lb n="19" break="no"/><supplied reason="undefined">n=t</supplied>ā-vi<supplied reason="omitted">ḷa</supplied>kku<supplied reason="omitted">kku</supplied> cēla<supplied reason="undefined">m-ā</supplied>
+		<lb n="20" break="no"/><supplied reason="undefined">kiya I</supplied><hi rend="grantha">rājāśra</hi>
+		<lb n="21" break="no"/><supplied reason="undefined">ya</supplied>-c-catu<hi rend="grantha"><supplied reason="undefined">rvve</supplied></hi>ti 
+		<lb n="22" break="no"/><supplied reason="undefined">maṅ</supplied>kalattu <hi rend="grantha"><supplied reason="undefined">sa</supplied></hi>
+		<lb n="23" break="no"/><hi rend="grantha">bhai</hi><choice><orig>yy</orig><reg>y</reg></choice>ār vaca
+		<lb n="24" break="no"/><supplied reason="undefined">m</supplied> vaitta po<choice><orig>n</orig><reg>ṉ</reg></choice>
+		<lb n="25"/>A<choice><orig>y</orig><reg>i</reg></choice><supplied reason="omitted">ṅ</supplied>-kaḻañcu
+	</p>
+	<p>
+		I
+		<lb n="26" break="no"/>ṟakkuvāṉ tan
+		<lb n="27" break="no"/>mamu<supplied reason="omitted">m</supplied> pāvaṉ tā
+		<lb n="28" break="no"/>ṉē yaṟiyum <g type="gomutraFinal">.</g>
+	</p>
+	
+</div>
+			
+<div type="apparatus">
+	
+	<listApp>
+		
+		<app loc="16">
+			<lem>vaca<lb n="24" break="no"/><supplied reason="undefined">m</supplied></lem>
+			<rdg source="bib:KrishnaSastri1923_01">vaca<supplied reason="omitted">m</supplied><lb n="24" break="no"/><supplied reason="undefined">m</supplied></rdg>
+		</app>	
+		
+		<app loc="23">
+			<lem>vaca<lb n="24" break="no"/><supplied reason="undefined">m</supplied></lem>
+			<rdg source="bib:KrishnaSastri1923_01">vaca<supplied reason="omitted">m</supplied><lb n="24" break="no"/><supplied reason="undefined">m</supplied></rdg>
+		</app>	
+		
+	</listApp>	
+	
+</div>
+			
+<div type="translation" resp="part:emfr">
+								
+	<p n="1">Prosperity! Fortune!</p>
+	<p n="2-3">Fifth year.</p>
+	<p n="3-11">The gold given for one perpetual lamp ... <supplied reason="subaudible">is</supplied> five <foreign>kaḻañcu</foreign>s.</p>
+	<p n="11-14">One lamp given for ...</p>
+	<p n="14-17">One lamp given for ...</p>
+	<p n="17-18">This is under the protection of the Paṉmāheśvaras.</p>
+	
+</div>
+	
+<!--<div type="commentary">
+		
+</div>-->
+	
+<div type="bibliography">
+	
+	<p>First reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/43).</p>
+	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.141).</p>
+	
+	<p>Encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>.
+	</p>	
+	
+	<listBibl type="primary">
+		
+		<bibl n="SII">
+			<ptr target="bib:KrishnaSastri1923_01"/>
+			<citedRange unit="page">14</citedRange>
+			<citedRange unit="item">141</citedRange>
+		</bibl>
+	</listBibl>
+	
+	<listBibl type="secondary">
+				
+		<bibl>
+			<ptr target="bib:ARIE1887-1888_01"/>
+			<citedRange unit="page">5</citedRange>
+			<citedRange unit="appendix">I/1887-1888</citedRange>
+			<citedRange unit="item">43</citedRange>			
+		</bibl>		
+		
+	</listBibl>
+	
+</div>
+        </body>
+    </text>
+</TEI>
