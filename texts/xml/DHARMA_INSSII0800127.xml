@@ -102,17 +102,19 @@
 	</ab>
 	
 	<p>
-		tiripuvaṉaccakkaravattikaḷ <hi rend="grantha">śrī</hi>kulottuṅkacōḻatevaṟku yāṇṭu 10 8-vatu			
+		tiripuvaṉa-c cakkara-vattikaḷ <hi rend="grantha">śrī</hi>kulottuṅka-cōḻa-tevaṟku yāṇṭu 10 8-vatu			
 	</p>
 	
 	<p>
 		<lb n="2"/>Uṭaiyār <supplied reason="undefined">tiruvaṇ</supplied>ṇāmalai Uṭaiya nāyaṉāṟku mātēvar makan<supplied reason="undefined">ār kali</supplied>tēvaṉāṉa <supplied reason="undefined">Imma</supplied>
 		<lb n="3" break="no"/>ṭi cerakkapperumāḷāṉa murai<supplied reason="undefined">y</supplied>ātarāyaneṉ tiruppaḷḷi Eḻucci-p puṟamāka viṭṭa muraicūr nāṭṭu
 		<lb n="4"/>kiḻcūṟṟi<supplied reason="omitted">l</supplied> cāliyūr-p paṟṟil me<supplied reason="undefined">r</supplied>āṉpaḷḷi nāṟpāl Ellaiyum tiruc<supplied reason="undefined">cū</supplied>lakkalalukku Ullu<supplied reason="omitted">m</supplied> cantirātittavarai celvatāka kal veṭṭikkuṭuttēṉ muraiyā
+		<lb n="5"/>tarāyanēṉ Itil Oru mācciṉanam koḷvāṉ keṅkai-k karaiyil kurāl pacu-k koṉṟāṉ pāvam koḷvāṉ Itu viṭuvittāṉ Aṇṭār Amarapuyaṅkara-p perumā<supplied reason="undefined">ḷ</supplied> paṉmā<hi rend="grantha">heśvarar rakṣai</hi>
 	</p>
+	
 </div>
 	
-<div type="apparatus">		
+<!--<div type="apparatus">		
 				
 	<listApp>
 		
@@ -123,9 +125,11 @@
 		
 	</listApp>
 		
-</div>
+</div>-->
 	
-<div type="translation" resp="part:reda part:emfr">
+<div type="translation" source="bib:SubrahmanyaAiyer1937_01">
+			
+	<p>Hail! Prosperity! (It is) the year 18 (of the reign) of (the king) Tiripuvaṉaccakkaravattikaḷ (emperor over the three worlds) śrī-Kulōttuṅkacōḻatēvar. I, Kalitēvaṉ, alias Cokkapperumāḷ alias Muraiyātarāyaṉ, the son of Mātēvar, gave as <foreign>tiruppaḷḷi eḻuccipuṟam</foreign> (i.e., provision for the service of waking up for the god Tiruvaṇṇāmalai uṭaiya nāyaṉār, Mērāṉpaḷḷi, situated in Cāliyūr-paṟṟu on the eastern side of the Muraicūr-nāṭu with all the lands within its four boundaries where stones marked with trident symbol were put, to last as long as the moon and the sun endure, by engraving (the document) on the stone. If any one took away <foreign>oru mācciṉam</foreign> (an iota) of this gift, he would be considered to have committed the sin of one who had killed a tawny cow on the bank of the Gaṅgā. This was released by Āṇṭār Amarapuyaṅkapperumāḷ. (This is) protected by the <foreign>Paṉ-Māheśvaras</foreign>.</p>
 			
 </div>	
 			
@@ -141,16 +145,17 @@
 			
 <div type="bibliography"><!--TO BE UPDATED: copied from another file-->
 				
-	<p>First reported in <bibl><ptr target="bib:ARIE1951-1952"/></bibl>.</p>	
-	<p>First edited in <bibl><ptr target="bib:Narasimhaswamy1982_01"/></bibl> (SII 24, no. 182).</p>
-	<p>Reedited and translated here for DHARMA (ERC n° 809994) by Renato Davalos and  Emmanuel Francis.</p>
+	<p>First reported in <bibl><ptr target="bib:ARIE1902-1903"/></bibl>.</p>	
+	<p>First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.127).</p>
+	<p>Translated in <bibl><ptr target="bib:Srinivasan+Reiniche1990_01"/></bibl> (102).</p>
+	<p>Encoded here for DHARMA (ERC n° 809994) by Renato Davalos.</p>
 		
 	<listBibl type="primary">
 		
 		<bibl n="SII">
-			<ptr target="bib:Narasimhaswamy1982_01"/>
-			<citedRange unit="page">494</citedRange>
-			<citedRange unit="item">182</citedRange>
+			<ptr target="bib:SubrahmanyaAiyer1937_01"/>
+			<citedRange unit="page">102</citedRange>
+			<citedRange unit="item">247</citedRange>
 		</bibl>
 						
 	</listBibl>           
@@ -159,9 +164,14 @@
 		
 		<bibl>
 			<ptr target="bib:ARIE1951-1952"/>
-			<citedRange unit="page">26</citedRange>
-			<citedRange unit="appendix">B</citedRange>
-			<citedRange unit="item">178</citedRange>
+			<citedRange unit="page">12</citedRange>
+			<citedRange unit="appendix">A</citedRange>
+			<citedRange unit="item">537</citedRange>
+		</bibl>	
+		<bibl>
+			<ptr target="bib:SubrahmanyaAiyer1937_01"/>
+			<citedRange unit="page">61</citedRange>
+			<citedRange unit="item">127</citedRange>
 		</bibl>	
 		
 	</listBibl>
