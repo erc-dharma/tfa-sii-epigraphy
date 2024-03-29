@@ -55,8 +55,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Gift of land to temple for the queen and for various services,
-				including feeding ascetics and singing tiruppatiyam during
+                  <summary>Gift of land to temple for a festival celebrated on the queen’s birthday. The land was used for feeding students, servants, and for the singers of holy hymns (<foreign>tiruppatiyam</foreign>).
 				festival.</summary>
                </msContents>
                <physDesc>
@@ -101,12 +100,12 @@
 <body>	
 			
 <div type="edition" xml:lang="tam-Latn">
-				
+		
 	<ab>
-		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
 	</ab>
-	
-	
+		
+		
 	<p>
 		<hi rend="grantha">tribhu</hi>vana-c-cakkara-vatti <hi rend="grantha">śrī-</hi>ka<supplied reason="undefined">ri</supplied>kāla-c<supplied reason="undefined">ō</supplied>ḻa-tēvaṟkku-t tiru-v-eḻutt’ iṭṭu-c
 		
@@ -137,11 +136,11 @@
 		
 		<lb n="10"/>ceyyum <hi rend="grantha">de</hi>va<supplied reason="omitted">r</supplied>kaḷukkum <hi rend="grantha">ho</hi>ma-<hi rend="grantha">dravya</hi>ṅkaḷukkum paṭi-y iraṭṭi Amutu ce
 		
-		<lb n="11" break="no"/><choice><orig>y</orig><reg>yy</reg></choice>a-k-kaṭava <hi rend="grantha">de</hi>va<supplied reason="omitted">r</supplied>kaḷukkum ciṟapp-amut-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a perun-tiru-Amutukaḷukkum Ācāriya-paricāraka
+		<lb n="11" break="no"/><choice><orig>y</orig><reg>yy</reg></choice>a-k-ckaṭava <hi rend="grantha">de</hi>va<supplied reason="omitted">r</supplied>kaḷukkum ciṟapp-amut-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a perun-tiru-Amutukaḷukkum Ācāriya-paricāraka
 		
-		<lb n="12" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>ukkum tirunāḷ cevikka vanta Āṇṭā<supplied reason="omitted">r</supplied>kaḷukkum tiru-nāḷ cevikkavun tiru-p-patiyam pāṭu
+		<lb n="12" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>ukkum tirunāḷ cēvikka vanta Āṇṭā<supplied reason="omitted">r</supplied>kaḷukkum tiru-nāḷ cēvikkavun tiru-p-patiyam pāṭu
 		
-		<lb n="13" break="no"/>vārkaḷukkum cevikka vanta viccāttikaḷukkum palivitattāl Uḷḷa Aḻivum maṭatti<supplied reason="omitted">l</supplied> Ā
+		<lb n="13" break="no"/>vārkaḷukkum cēvikka vanta viccāttikaḷukkum palivitattāl Uḷḷa Aḻivum maṭatti<supplied reason="omitted">l</supplied> Ā
 		
 		<lb n="14" break="no"/>ṇtārka<supplied reason="undefined">ḷu</supplied><supplied reason="omitted">m</supplied> Amutum maṟṟum nel Ēṟṟi tiru-k-koṭi mutal t<choice><sic>i</sic><corr>ī</corr></choice><choice><sic><hi rend="grantha">rtdha</hi></sic><corr><hi rend="grantha">rtha</hi></corr></choice>m <hi rend="grantha">prasā</hi>titt’ aruḷi<supplied reason="undefined"><choice><orig>n</orig><reg>ṉ</reg></choice>a</supplied> Āṉ
 		
@@ -187,6 +186,9 @@
 					This is the land that is bestowed for the graceful offering of sacred water on the day of the  Uttirāṭam festival, the birthday of the queen who gracefully established the festival in the month of Aṟpikai (Aippaci). That is, the holy festival that we have seen on the day of our queen dedicated to Āḷuṭaiyār Tiruvānpaṭṭiyāṇṭār of Pērūr, located in Pērūrnāṭu of Kōnēṟṟiṉmaikoṇṭāṉ. 
 				</p>
 				
+				<p n="6-10">
+					The allowance (<foreign>paṭi</foreign>) for rice (<foreign>amutupaṭi</foreign>) is doubled for feeding [devotees] during the festival <foreign>tirunāḷ paṭiyil</foreign>. The offerings of food made (<foreign>amutuceyyum</foreign>) for the guardians of the eight directions (<foreign>aṣṭaparipālaṉam</foreign>) [which are seated] at the sacrificial hall <foreign>yāgamaṇṭapa</foreign> [is the following]: betel-leaves, areca-nut, oil lamp, sugar, curds, butter, lentils, pepper, salt, curry.	
+				</p>
 				
 				
 				
@@ -194,7 +196,7 @@
 			
 <div type="commentary">
 		
-	<p>The inscription stops short abruptly.</p>	
+	<p>The inscription stops abruptly.</p>	
 </div>
     	
 <div type="bibliography">
