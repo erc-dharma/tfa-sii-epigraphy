@@ -135,11 +135,6 @@
 	
 	<listApp>
 		
-		<app loc="16">
-			<lem>vaca<lb n="24" break="no"/><supplied reason="undefined">m</supplied></lem>
-			<rdg source="bib:KrishnaSastri1923_01">vaca<supplied reason="omitted">m</supplied><lb n="24" break="no"/><supplied reason="undefined">m</supplied></rdg>
-		</app>	
-		
 		<app loc="23">
 			<lem>vaca<lb n="24" break="no"/><supplied reason="undefined">m</supplied></lem>
 			<rdg source="bib:KrishnaSastri1923_01">vaca<supplied reason="omitted">m</supplied><lb n="24" break="no"/><supplied reason="undefined">m</supplied></rdg>
