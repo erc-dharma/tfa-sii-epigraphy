@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Vēlūr, time of <supplied reason="subaudible">Rājādhirāja</supplied>, year lost</title>
+            <title>Cēlam, Cukavaṉēśvara, time of ?, year 5</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSSII0400139</idno>
+            <idno type="filename">DHARMA_INSSII0400140</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Portion of the <foreign>meykkīrtti</foreign> of Rājādhirāja I Cōḻa.</summary>
+                  <summary>...</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -91,31 +91,27 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 				
-	<gap reason="lost" extent="unknown" unit="line"/>
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213"><lb n="1"/>&gt;svasti śrī</ab>
 	
-	<lg n="1" met="āciriyappā">
-		<l n="1"><lb n="1"/><supplied reason="lost">kaṉṉi kāvalar</supplied> <supplied reason="undefined">teṉṉa</supplied>var mūvaruḷ</l>
-		<l n="2">va <gap reason="lost" quantity="5" unit="character"/> Iruvarukka<lb n="2" break="no"/><supplied reason="undefined">ru</supplied>ḷi-k kāṉakam</l>
-		<l n="3">Oruvaṉukkaḷittu-p porucilai <lb n="3"/><supplied reason="undefined">ci</supplied>rccilaic cēralaṉ</l>
-		<l n="4">vēlaikeḻu kāntaḷūr-<supplied reason="undefined">cā</supplied><lb n="4" break="no"/>lai kalam aṟuppitt’</l>
-		<l n="5">ilaṅkai-k-karaicai<supplied reason="undefined">yu</supplied>m a<lb n="5" break="no"/>laṅkal vallavaṉaiyuṅ</l>
-		<l n="6">kaṉṉakucci <lb n="6"/>kāvalaṉaiyum poṉṉaṇi</l>
-		<l n="7">muṭi-t-ta<lb n="7" break="no"/>lai taṭintu taṉ koṭippa<supplied reason="undefined">ṭ</supplied>ai y-ēvi-k</l>
-		<l n="8">ka<lb n="8" break="no"/>ṉṉāṭakar viṭu kaṭakari puraḷat</l>
-		<l n="9">taṉṉāṭaiyi<lb n="9" break="no"/>ṟ tamiḻpparaṇikoṇ ṭoṉṉār</l>
-		<l n="10">vacci<supplied reason="undefined">ra</supplied><lb n="10" break="no"/>neṭuvāḷ vicciyaṉ veruneḷitt’</l>
-		<l n="11">añ<supplied reason="undefined">ci</supplied><lb n="11" break="no"/>yoṭi vañciyampaṭaiyāl</l>
-		<l n="12">āṅkavaṉ <supplied reason="undefined">pi</supplied><lb n="12" break="no"/>tāvai mātāvoṭum catāmali</l>
-		<l n="13">v<choice><orig>i</orig><reg>ī</reg></choice>ṅku n<choice><orig>i</orig><reg>ī</reg></choice>rppū<lb n="13" break="no"/>ṇṭ<choice><orig>ui</orig><reg>ū</reg></choice>r veñcamatt’ akappa<supplied reason="undefined">ṭu</supplied>tt’</l>
-		<l n="14">am<surplus>p</surplus>paṭai <lb n="14"/>Ā<hi rend="grantha">ha</hi>vamallaṉ payattoṭum</l>
-		<l n="15">varaviṭum O<lb n="15"/>ṟṟarai veru<supplied reason="undefined">va</supplied>rappiṭippitt’</l>
-		<l n="16">āṅkavar mā<hi rend="grantha"><supplied reason="undefined">na</supplied></hi><lb n="16" break="no"/>vil Ā<hi rend="grantha">ha</hi>vamallaṉ</l>
-		<l n="17">yāṅṅaṇam Aiñci<lb n="17" break="no"/>ṉaneṉṉa naṉkeḻuti-c</l>
-		<l n="18">celuttiya <supplied reason="undefined">pi</supplied>ṉ<lb n="18" break="no"/>taṉ puli-k-koṭi-p paṭaiñar</l>
-		<l n="19">oṭṭalari vāraṇa <supplied reason="lost">varacaik kaṭalpuraic</supplied></l>
-	</lg>
-	
-	<gap reason="lost" extent="unknown" unit="line"/>
+	<p>
+		<lb n="2"/>Iyāṇṭu Aiñ
+		<lb n="3" break="no"/>c-āvatu vāṭaṉ <gap reason="lost" quantity="1" unit="character"/> te
+		<lb n="4" break="no"/><gap reason="lost" quantity="4" unit="character"/> yiraṉuk<supplied reason="undefined">ku</supplied>
+		<lb n="5" break="no"/>-t-teviyār <supplied reason="undefined">muri A</supplied>
+		<lb n="6" break="no"/>mutaṉār kiḷivaṇ
+		<lb n="7" break="no"/>ṇa-tēvarkku no
+		<lb n="8" break="no"/>⌉ntā-viḷakk’ o
+		<lb n="9" break="no"/>ṉṟukku vait
+		<lb n="10" break="no"/>ta poṉṉ ai
+		<lb n="11" break="no"/>ṅ-kaḻañcu tēvi
+		<lb n="12" break="no"/>yār muri A<supplied reason="undefined">mu</supplied>tiṉā
+		<lb n="13" break="no"/>r tamakku vaitta vi
+		<lb n="14" break="no"/>ḷakk’ oṉṟu Ēkav<choice><orig>i</orig><reg>ī</reg></choice>
+		<lb n="15" break="no"/>raṉ ko<supplied reason="undefined">la</supplied>kka-p-pāvai 
+		<lb n="16" break="no"/>kku vaitta viḷak
+		<lb n="17" break="no"/>k’ oṉṟu paṉmā<choice><orig>y</orig><reg><hi rend="grantha">h</hi></reg></choice>e
+		<lb n="18" break="no"/><hi rend="grantha">śvarar· rakṣai</hi>
+	</p>
 	
 </div>
 			
@@ -134,7 +130,8 @@
 			
 <div type="translation" resp="part:emfr">
 								
-	<p n="1-18">... [portion of the <foreign>meykkīrtti</foreign> of Rājādhirāja I Cōḻa]</p>
+	<p n="1">Prosperity! Fortune!</p>
+	<p n="1-18">...</p>
 	
 </div>
 	
@@ -144,8 +141,8 @@
 	
 <div type="bibliography">
 	
-	<p>First reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/41).</p>
-	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.139).</p>
+	<p>First reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/42).</p>
+	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.140).</p>
 	
 	<p>Encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>.
 	</p>	
@@ -154,8 +151,8 @@
 		
 		<bibl n="SII">
 			<ptr target="bib:KrishnaSastri1923_01"/>
-			<citedRange unit="page">13-14</citedRange>
-			<citedRange unit="item">139</citedRange>
+			<citedRange unit="page">14</citedRange>
+			<citedRange unit="item">140</citedRange>
 		</bibl>
 	</listBibl>
 	
@@ -165,7 +162,7 @@
 			<ptr target="bib:ARIE1887-1888_01"/>
 			<citedRange unit="page">5</citedRange>
 			<citedRange unit="appendix">I/1887-1888</citedRange>
-			<citedRange unit="item">41</citedRange>			
+			<citedRange unit="item">42</citedRange>			
 		</bibl>		
 		
 	</listBibl>
