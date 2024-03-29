@@ -117,10 +117,10 @@
 		<lb n="12" break="no"/>ttuḷ uttama-cōḻa-<hi rend="grantha">Īśvara</hi>-<choice><orig>pp</orig><reg>p</reg></choice>iṟattu naraciṅ<supplied reason="undefined">ka</supplied>maṅ
 		<lb n="13" break="no"/>kalattu U<hi rend="grantha">rudravālīśvara</hi>m-uṭaiya <hi rend="grantha">mah<choice><sic>a</sic><corr>ā</corr></choice>de</hi>varkku ti
 		<lb n="14" break="no"/>yaṅkuṭaiyāṉampaṉi-rāmaṉ vai<choice><orig>cc</orig><reg>tt</reg></choice>a viḷakku
-		<lb n="15"/>Araikkum cāvā-muvā-p pēr-āṭu nā-p-patt' āṟu
+		<lb n="15"/>Araikkum cāvā-m<choice><orig>u</orig><reg>ū</reg></choice>vā-p pēr-āṭu nā-p-patt' āṟu
 	</p>
 	<p>
-		<lb n="16"/>Ivai paṉ<hi rend="grantha">mā</hi>ye<hi rend="grantha">śvara-rakṣai</hi>
+		<lb n="16"/>Ivai paṉ<hi rend="grantha">mā</hi><choice><orig>y</orig><reg><hi rend="grantha">h</hi></reg></choice>e<hi rend="grantha">śvara-rakṣai</hi>
 	</p>
 		<p>
 		<surplus>Iv-viḷakku</surplus> <supplied reason="undefined">I</supplied>
@@ -128,25 +128,25 @@
 	</p>
 	<p>
 		Ivv-āṭu tiṅku niṉai
-		<lb n="18" break="no"/>ttāṉ keṅkai y-iṭai-k kumari-[y-i]ṭai-c cey
+		<lb n="18" break="no"/>ttāṉ keṅkai y-iṭai-k kumari-<supplied reason="lost">y-i</supplied>ṭai-c cey
 		<lb n="19" break="no"/>ta pāvaṅ koḷvār
 	</p>
 	
 </div>
 			
-<!--<div type="apparatus">
+<div type="apparatus">
 	
 	<listApp>
 		
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:KrishnaSastri1923_01">...</rdg>
-			<note>...</note>
+		<app loc="10">
+			<lem><num value="16"><g type="numeral">10</g> 6</num></lem>
+			<rdg source="bib:KrishnaSastri1923_01"/>
+			<note>The ARIE reads <num value="16"><g type="numeral">10</g> <supplied reason="undefined">6</supplied></num>.</note>
 		</app>	
 		
 	</listApp>	
 	
-</div>-->
+</div>
 			
 <div type="translation" resp="part:emfr">
 								
@@ -175,7 +175,7 @@
 	<p>First reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/39).</p>
 	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.137).</p>
 	
-	<p>Encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>.
+	<p>Encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> and and on photos (<ref target="https://didomena.ehess.fr/concern/data_sets/r781wq96v">Emmanuel Francis, 2004</ref>).
 	</p>	
 	
 	<listBibl type="primary">
