@@ -91,25 +91,38 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 				
-	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213"><lb n="1"/>&gt;svasti śrī</ab>
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213"><lb n="1"/>svasti śrī</ab>
 	
 	<p>
 		<lb n="2"/>Iyāṇṭu Aiñ
-		<lb n="3" break="no"/>c-āvatu vāṭaṉ <gap reason="lost" quantity="1" unit="character"/> te
+		<lb n="3" break="no"/>c-āvatu
+	</p>
+	
+	<p>
+		vāṭaṉ <gap reason="lost" quantity="1" unit="character"/> te
 		<lb n="4" break="no"/><gap reason="lost" quantity="4" unit="character"/> yiraṉuk<supplied reason="undefined">ku</supplied>
-		<lb n="5" break="no"/>-t-teviyār <supplied reason="undefined">muri A</supplied>
+		<lb n="5" break="no"/>-t teviyār <supplied reason="undefined">muri A</supplied>
 		<lb n="6" break="no"/>mutaṉār kiḷivaṇ
 		<lb n="7" break="no"/>ṇa-tēvarkku no
 		<lb n="8" break="no"/>⌉ntā-viḷakk’ o
 		<lb n="9" break="no"/>ṉṟukku vait
-		<lb n="10" break="no"/>ta poṉṉ ai
-		<lb n="11" break="no"/>ṅ-kaḻañcu tēvi
+		<lb n="10" break="no"/>ta po<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> ai
+		<lb n="11" break="no"/>ṅ-kaḻañcu
+	</p>
+	<p>
+		tēvi
 		<lb n="12" break="no"/>yār muri A<supplied reason="undefined">mu</supplied>tiṉā
 		<lb n="13" break="no"/>r tamakku vaitta vi
-		<lb n="14" break="no"/>ḷakk’ oṉṟu Ēkav<choice><orig>i</orig><reg>ī</reg></choice>
+		</p>
+	<p>
+		<lb n="14" break="no"/>ḷakk’ oṉṟu
+		Ēkav<choice><orig>i</orig><reg>ī</reg></choice>
 		<lb n="15" break="no"/>raṉ ko<supplied reason="undefined">la</supplied>kka-p-pāvai 
 		<lb n="16" break="no"/>kku vaitta viḷak
-		<lb n="17" break="no"/>k’ oṉṟu paṉmā<choice><orig>y</orig><reg><hi rend="grantha">h</hi></reg></choice>e
+		<lb n="17" break="no"/>k’ oṉṟu
+	</p>
+	<p>
+		paṉmā<choice><orig>y</orig><reg><hi rend="grantha">h</hi></reg></choice>e
 		<lb n="18" break="no"/><hi rend="grantha">śvarar· rakṣai</hi>
 	</p>
 	
@@ -131,7 +144,11 @@
 <div type="translation" resp="part:emfr">
 								
 	<p n="1">Prosperity! Fortune!</p>
-	<p n="1-18">...</p>
+	<p n="2-3">Fifth year.</p>
+	<p n="3-11">The gold given for one perpetual lamp ... <supplied reason="subaudible">is</supplied> five <foreign>kaḻañcu</foreign>s.</p>
+	<p n="11-14">One lamp given ...</p>
+	<p n="14-17">One lamp given ...</p>
+	<p n="17-18">This is under the protection of the Paṉmāheśvaras.</p>
 	
 </div>
 	
