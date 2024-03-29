@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Vēlūr, time of Rājādhirāja I, year lost</title>
+				<title>Vēlūr, time of <supplied reason="subaudible">Rājādhirāja</supplied>, year lost</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,11 +47,10 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>...</summary>
+						<summary>Portion of the <foreign>meykkīrtti</foreign> of Rājādhirāja I Cōḻa.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p/>
 							<p/>
 						</handDesc>
 					</physDesc>
@@ -92,27 +91,27 @@
 				
 	<gap reason="lost" extent="unknown" unit="line"/>
 	
-	<p>
-		<lb n="1"/>[teṉṉa]var mūvaruḷ
-		va ••• iruvarukka<lb n="2" break="no"/>[ru]ḷi-k kāṉakam
-		Oruvaṉukkaḷittu-p porucilai <lb n="3"/>[ci]rccilaic ceralaṉ
-		velaikeḻu kāntaḷūr[cā]<lb n="4" break="no"/>lai kalamaṟuppitt'
-		ilaṅkaikkaraicai[yu]ma<lb n="5" break="no"/>laṅkal vallavaṉaiyuṅ
-		kaṉṉakucci <lb n="6"/>kāvalaṉaiyum poṉṉaṇi
-		muṭitta<lb n="7" break="no"/>lai taṭintu taṉ koṭippaṭ[ai] yevi-k
-		ka<lb n="8" break="no"/>ṉṉāṭakar viṭu kaṭakari puraḷat
-		taṉṉāṭaiyi<lb n="9" break="no"/>ṟ tamiḻpparaṇikoṇ ṭoṉṉār
-		vacci[ra]<lb n="10" break="no"/>neṭuvāḷ vicciyaṉ veruneḷitt'
-		añ[ci]<lb n="11" break="no"/>yoṭi vañciyampaṭaiyāl
-		āṅkavaṉ [pi]<lb n="12" break="no"/>tāvai mātāvoṭum catāmali
-		viṅku nirppū<lb n="13" break="no"/>ṇṭura veñcamattakappa[ṭu]tt'
-		am(p)paṭai <lb n="14"/>āhavamallaṉ payattoṭum
-		varaviṭum O<lb n="15"/>ṟṟarai veru[va]rappiṭippitt'
-		āṅkavar mā<hi rend="grantha">[na]</hi><lb n="16" break="no"/>vil āhavamallaṉ
-		yāṅṅaṇam aiñci<lb n="17" break="no"/>ṉaneṉṉa naṉkeḻutic
-		celuttiya [pi]ṉ<lb n="18" break="no"/>taṉ pulikkoṭip paṭaiñar
-		oṭṭalari vāraṇa
-	</p>
+	<lg n="1" met="āciriyappā">
+		<l n="1"><lb n="1"/><supplied reason="lost">kaṉṉi kāvalar</supplied> <supplied reason="undefined">teṉṉa</supplied>var mūvaruḷ</l>
+		<l n="2">va <gap reason="undefined" quantity="5" unit="character"/> Iruvarukka<lb n="2" break="no"/><supplied reason="undefined">ru</supplied>ḷi-k kāṉakam</l>
+		<l n="3">Oruvaṉukkaḷittu-p porucilai <lb n="3"/><supplied reason="undefined">ci</supplied>rccilaic cēralaṉ</l>
+		<l n="4">vēlaikeḻu kāntaḷūr-<supplied reason="undefined">cā</supplied><lb n="4" break="no"/>lai kalam aṟuppitt'</l>
+		<l n="5">ilaṅkai-k-karaicai<supplied reason="undefined">yu</supplied>m a<lb n="5" break="no"/>laṅkal vallavaṉaiyuṅ</l>
+		<l n="6">kaṉṉakucci <lb n="6"/>kāvalaṉaiyum poṉṉaṇi</l>
+		<l n="7">muṭi-t-ta<lb n="7" break="no"/>lai taṭintu taṉ koṭippa<supplied reason="undefined">ṭ</supplied>ai y-ēvi-k</l>
+		<l n="8">ka<lb n="8" break="no"/>ṉṉāṭakar viṭu kaṭakari puraḷat</l>
+		<l n="9">taṉṉāṭaiyi<lb n="9" break="no"/>ṟ tamiḻpparaṇikoṇ ṭoṉṉār</l>
+		<l n="10">vacci<supplied reason="undefined">ra</supplied><lb n="10" break="no"/>neṭuvāḷ vicciyaṉ veruneḷitt'</l>
+		<l n="11">añ<supplied reason="undefined">ci</supplied><lb n="11" break="no"/>yoṭi vañciyampaṭaiyāl</l>
+		<l n="12">āṅkavaṉ <supplied reason="undefined">pi</supplied><lb n="12" break="no"/>tāvai mātāvoṭum catāmali</l>
+		<l n="13">v<choice><orig>i</orig><reg>ī</reg></choice>ṅku n<choice><orig>i</orig><reg>ī</reg></choice>rppū<lb n="13" break="no"/>ṇṭ<choice><orig>ui</orig><reg>ū</reg></choice>r veñcamatt' akappa<supplied reason="undefined">ṭu</supplied>tt'</l>
+		<l n="14">am<surplus>p</surplus>paṭai <lb n="14"/>Ā<hi rend="grantha">ha</hi>vamallaṉ payattoṭum</l>
+		<l n="15">varaviṭum O<lb n="15"/>ṟṟarai veru<supplied reason="undefined">va</supplied>rappiṭippitt'</l>
+		<l n="16">āṅkavar mā<hi rend="grantha"><supplied reason="undefined">na</supplied></hi><lb n="16" break="no"/>vil Ā<hi rend="grantha">ha</hi>vamallaṉ</l>
+		<l n="17">yāṅṅaṇam Aiñci<lb n="17" break="no"/>ṉaneṉṉa naṉkeḻuti-c</l>
+		<l n="18">celuttiya <supplied reason="undefined">pi</supplied>ṉ<lb n="18" break="no"/>taṉ puli-k-koṭi-p paṭaiñar</l>
+		<l n="19">oṭṭalari vāraṇa <supplied reason="lost">varacaik kaṭalpuraic</supplied></l>
+	</lg>
 	
 	<gap reason="lost" extent="unknown" unit="line"/>
 	
