@@ -126,25 +126,25 @@
 	
 </div>
 			
-<!--<div type="apparatus">
+<div type="apparatus">
 	
 	<listApp>
 		
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:KrishnaSastri1923_01">...</rdg>
-			<note>...</note>
+		<app loc="2">
+			<lem><supplied reason="undefined"><num value="15"><g type="numeral">10</g> 5</num></supplied></lem>
+			<rdg source="bib:KrishnaSastri1923_01"/>
+			<note>The ARIE reads <supplied reason="undefined">5</supplied>.</note>
 		</app>	
 		
 	</listApp>	
 	
-</div>-->
+</div>
 			
 <div type="translation" resp="part:emfr">
 								
 	<p n="1">Prosperity! Fortune!</p>
 	
-	<p n="1-2">15th year of the king Parakesarivarman<!--[5]th year in ARIE--></p>
+	<p n="1-2">15th year of the king Parakesarivarman.</p>
 	<p n="2-9">So that there be <supplied reason="explanation"><foreign>āka</foreign></supplied>, for the Mahādeva, Lord of the Vālīśvara <supplied reason="subaudible">temple</supplied> in Naraciṅkamaṇkalam, east of the Cittiramēkam tank,	 
 	<list>
 		<item>one quarter <supplied reason="explanation"><foreign>kāl</foreign></supplied> lamp that Nāṭṭaṭiyaṉ, son of Ātipucaṅkaceṭṭi, a merchant <supplied reason="subaudible">from</supplied> Tiruvaṇṇāmalai, <supplied reason="subaudible">on</supplied> the northern bank of the Peṇṇai <supplied reason="subaudible">river</supplied> <supplied reason="subaudible">in</supplied> the Vāṇakappāṭi, gave <supplied reason="explanation"><foreign>vaitta</foreign></supplied>, and</item>
