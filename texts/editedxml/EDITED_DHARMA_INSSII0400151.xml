@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Cēlam, Cukavaṉēśvara, time of Parakesarivarman, year 2</title>
+            <title>Cēlam, Cukavaṉēśvara, time of Sundara Pāṇḍya, year 29</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSSII0400150</idno>
+            <idno type="filename">DHARMA_INSSII0400151</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -96,38 +96,20 @@
 	</ab>
 	
 	<p>
-		<lb n="2"/>kō-p-parakē
-		<lb n="3" break="no"/>cari-paṉmakku yā-
-		<lb n="4" break="no"/>ṇṭu <supplied reason="undefined">raṇ<hi rend="grantha">ṭ</hi></supplied>-āva
-		<lb n="5" break="no"/>tu
+		<hi rend="grantha">su
+		<lb n="2" break="no"/>ndara</hi>-pāṇṭiya
+		<lb n="3" break="no"/>tevaṟk=ku yāṇ
+		<lb n="4" break="no"/>ṭu <num value="29">2 <g type="numeral">10</g> 9</num>-vatu
 	</p>
 	<p>
-		kiḷiva<supplied reason="omitted">ṇ</supplied>ṇa- 
-		<lb n="6" break="no"/>m-uṭaiyārkku 
-		<lb n="7"/>Ōru naṉtā-vi
-		<lb n="8" break="no"/>ḷakku mu<supplied reason="undefined">ra</supplied>māyi- 
-		<lb n="9" break="no"/>l eṭṭikk-āka mu
-		<lb n="10" break="no"/>rikuya<supplied reason="undefined">va</supplied>ṉ
-		<lb n="11"/>vaitta poṉ 
-		<lb n="12"/>Aiṅ-kaḻañcu
-	</p>
-	<p>
-		<lb n="13"/>caṉtirātitta
-		<lb n="14" break="no"/>varaiyil eriya 
-		<lb n="15"/><gap reason="lost" quantity="3" unit="character"/> ḻampa <gap reason="lost" quantity="1" unit="character"/>
-		<lb n="16"/>yaṭ <gap reason="lost" quantity="3" unit="character"/> A
-		<lb n="17" break="no"/><gap reason="lost" quantity="8" unit="character"/> 
-		<lb n="18"/><gap reason="lost" quantity="9" unit="character"/>
-		<lb n="19"/><gap reason="lost" quantity="7" unit="character"/> ṭiṉa 
-		<lb n="20"/><gap reason="lost" quantity="10" unit="character"/>
-		<lb n="21"/>ā <gap reason="lost" quantity="7" unit="character"/> ḻaca 
-		<lb n="22"/><gap reason="lost" quantity="9" unit="character"/>
-	</p>
-	<p>
-		<hi rend="grantha">pa
-		<lb n="23" break="no"/><choice><orig>t</orig><reg>n</reg></choice>māhe
-		<lb n="24" break="no"/>śvarar· Ira
-		<lb n="25" break="no"/>kṣai</hi> <g type="ddanda">.</g>
+		cēla
+		<lb n="5" break="no"/>m-āṉa <hi rend="grantha">irājā
+		<lb n="6" break="no"/>śraya-<choice><orig>śc</orig><reg>c</reg></choice>a</hi>tu<hi rend="grantha">rvvedi</hi>
+		<lb n="7" break="no"/>maṅkalattu veḷ
+		<lb n="8" break="no"/>ḷāḷa-vaḷḷimanta
+		<lb n="9" break="no"/>m-uṭaiyāṉ nilai
+		<lb n="10" break="no"/>yiṭṭāṉ cokki <hi rend="grantha">dha
+		<lb n="11" break="no"/><supplied reason="omitted">r</supplied>mmam</hi> Ik-kāl
 	</p>
 	
 </div>
@@ -148,11 +130,8 @@
 <div type="translation" resp="part:emfr">
 								
 	<p n="1">Prosperity! Fortune!</p>
-	<p n="2-5">Second year of the king Parakesarivarman.</p>
-	<p n="5-12">...</p>
-	<p n="13-22">...</p>
-	<p n="22-25">...</p>	
-	
+	<p n="1-4">29th year of the king Sundara Pāṇḍya.</p>
+	<p n="4-11">This stone<note>That is, the pillar on which this inscription is engraved.</note> is the pious donation <supplied reason="explanation"><foreign>dharma</foreign></supplied> of the Veḷḷāḷar Nilaiyiṭṭāṉ Cokki, magnate of/at Vaḷḷimantam, from Rājāśrayacaturvedimaṅgala, <hi rend="italic">alias</hi> Cēlam.</p>
 </div>
 	
 <!--<div type="commentary">
@@ -161,8 +140,8 @@
 	
 <div type="bibliography">
 	
-	<p>First reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/50).</p>
-	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.150).</p>
+	<p>First reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/51).</p>
+	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.151).</p>
 	
 	<p>Encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>.
 	</p>	
@@ -172,7 +151,7 @@
 		<bibl n="SII">
 			<ptr target="bib:KrishnaSastri1923_01"/>
 			<citedRange unit="page">16</citedRange>
-			<citedRange unit="item">150</citedRange>
+			<citedRange unit="item">151</citedRange>
 		</bibl>
 	</listBibl>
 	
@@ -182,7 +161,7 @@
 			<ptr target="bib:ARIE1887-1888_01"/>
 			<citedRange unit="page">5</citedRange>
 			<citedRange unit="appendix">I/1887-1888</citedRange>
-			<citedRange unit="item">50</citedRange>			
+			<citedRange unit="item">51</citedRange>			
 		</bibl>		
 		
 	</listBibl>
