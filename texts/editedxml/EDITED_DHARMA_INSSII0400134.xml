@@ -51,7 +51,8 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p/>
+                     <p>
+                        <foreign>ṉ</foreign> regularly found instead of expected/standard <foreign>n</foreign>.</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -95,74 +96,165 @@
 	</ab>
 	
 	<lg n="1" met="āciriyappā">		
-		<l n="1">pukaḻ-mātu viḷaṅka jaya-mātu virumpa</l>
+		<l n="1">pukaḻ-mātu viḷaṅka <hi rend="grantha">ja</hi>ya-mātu virumpa</l>
 		<l n="2">nila-makaḷ nilava malar-makaḷ puṇara</l>
 		<l n="3">Urimaiyiṟ ciṟan=ta maṇi-muṭi cūṭi</l>
 		<l n="4">mīṉavar nilaikeṭa villavar kulaitara</l>
 		<l n="5">Ēṉai maṉṉavar iriyaluṟ ṟiḻitarat</l>
-		<l n="6">tikkaṉait tun=taṉ cakkara na[ṭ]ātti</l>
-		<l n="7">vijay[ā*]<hi rend="grantha">bhiṣe</hi>kam paṇṇi</l> 
-		<l n="8">v<choice><orig>i</orig><reg>ī</reg></choice>ṟṟ-irunt-aruḷiya</l>		
+		<l n="6">tikkaṉait tun=taṉ cakkara naṭā<surplus>r</surplus>tti</l>
+		<l n="7">vi<hi rend="grantha">ja</hi><unclear>yā</unclear><hi rend="grantha">bhiṣe</hi>kam paṇṇi</l> 
+		<l n="8">v<choice><orig>i</orig><reg>ī</reg></choice>ṟṟ-irun=t-aruḷiya</l>		
 	</lg>
 	<p>
-		kō-v-irāja-kēsariva<hi rend="grantha">tma</hi>r-āna
-		<hi rend="grantha">cakra</hi>varttikaḷ <hi rend="grantha">śrī</hi>-kulōttuṅka-cōḻa-<hi rend="grantha">de</hi>vaṟku yāṇṭu ṉāṟpatt’ eṭṭāvatu
+		kō-v-irā<hi rend="grantha">ja</hi>-kē<hi rend="grantha">sa</hi>riva<hi rend="grantha"><choice><sic>t</sic><corr>n</corr></choice>ma</hi>r-āṉna
+		<hi rend="grantha">cakra</hi>va<choice><orig>tti</orig><reg>rtti</reg></choice>kaḷ <hi rend="grantha">śrī</hi>-kulōttuṅka-cōḻa-<hi rend="grantha">de</hi>vaṟku yāṇṭu <choice><orig>ṉ</orig><reg>n</reg></choice>āṟ-patt’ eṭṭ-āvatu
 	</p>
 	<p>
-		jayaṅ-koṇṭa-cōḻa-maṇṭalattu Ūṟṟu-k-kāṭṭu-k-kōṭṭattu
-		Ūṟṟu-k-kāṭṭu-ṉāṭṭu śrī-kulōttuṅka-cōḻa-c-catu<hi rend="grantha">rvvedi</hi>-maṅkalattu-p peruṅ-kuṟi<hi rend="grantha">mahā-sabhai</hi>yōm
-		<hi rend="grantha">bhūmi</hi>-ni[la-vi*]lai-y-āvaṇa-k kai Eḻuttu Eyiṟ-kōṭṭattu nakaraṅ kāñci-purattu
-		śrī-kulōttuṅka-cōḻa-viṇṇakarāḻvā[ṉ] kōyiliṟ tiru-maṭa-viḷākattu-[t] teṟkil
-		mēṟk’ aṭaiya puravu’va[ri]māṇikkam eṉṉu maṭattukku Avv-āḻvāṉaṭiyāḷ
-		cāttaṅkai t[o]ḻi-y-āṉa puravari-māṇikkam Ava <gap reason="lost" quantity="2" unit="character"/> tiru-ṉāṭ pattum tiru-vati paṇi-ceyvārum
-		śrī-vayi<hi rend="grantha">ṣṇa</hi>varum Amutu-ceykaikku
+		<hi rend="grantha">ja</hi>yaṅ-koṇṭa-cōḻa-maṇṭalattu Ūṟṟu-k-kāṭṭu-k-kōṭṭattu
+		Ūṟṟu-k-kāṭṭu-<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu <hi rend="grantha">śrī</hi>-kulōttuṅka-cōḻa-c-catu<hi rend="grantha">rvvedi</hi>-maṅkalattu-p peruṅ-kuṟi <hi rend="grantha">mahā-sabhai</hi>yōm
+		<hi rend="grantha">bhūmi</hi>-nilai-y-āvaṇa-k kai Eḻuttu
+	</p>
+	<p>
+		
+		Eyiṟ-kōṭṭattu nakaraṅ kāñci-purattu
+		<hi rend="grantha">śrī</hi>-kulōttuṅka-cōḻa-v<unclear>i</unclear>ṇṇakar-āḻvāṉ kōyil<unclear>i</unclear>ṟ tiru-maṭa-viḷākattu-<supplied reason="lost">t</supplied> <unclear>teṟkil</unclear>
+		mēṟk’ aṭaiya puravu-vari-māṇikkam eṉṉu maṭattukku Avv-āḻvāṉ-aṭiyāḷ<!--EF photos up to here-->
+		cāttaṅkai <supplied reason="undefined">t</supplied>oḻi-y-āṉa puravari-māṇikkam Av<supplied reason="lost">v-āḷvār</supplied>-tiru-<choice><orig>ṉ</orig><reg>n</reg></choice>āṭ pattum tiru-vati paṇi-ceyvārum
+		<hi rend="grantha">śrī</hi>-vayi<hi rend="grantha">ṣṇa</hi>varum Amutu-ceykaikku
 		<hi rend="grantha">bhū</hi>mi koḷḷa Iṭṭa kācu Añcu
 	</p>
 	<p>		
 		Ik-kāc’ añcuṅ koṇṭu nāṅkaḷ Im-maṭa-p-puṟam
-		<hi rend="grantha">candrāditta</hi>-vaṟ Iṟai-Ili-y-āka viṟṟu-k kuṭutta nilam āva[tu]
+		<hi rend="grantha">candrādi</hi>t=ta-vaṟ Iṟai-Ili-y-āka viṟṟu-k kuṭutta nilam āva<supplied reason="undefined">tu</supplied>
 	</p>
 	<p>
-		E[ṅ]kaḷūṟ ki-piṭākai tiyaṉ-kāraṇaiyilum t[e]lkkolamaṅkalattiluṅ
-		kuṉṟa-pākkattilum ellai poruttāṉ nilam pañcavaṉ-viḻupparayaṉ Ērikku-k kiḻakkiṟ
+		E<supplied reason="undefined">ṅ</supplied>kaḷūṟ ki-piṭākai tiyaṉ-kāraṇaiyilum <supplied reason="undefined">t</supplied>elkkola-maṅkalattiluṅ kuṉṟa-pākkattilum Ellai poruttāṉ nilam pañcavaṉ-viḻupparayaṉ Ērikku-k kiḻakkiṟ
 		caṇpaṅkuḻiyiṉ mēl-karai mēl-pāṟko <gap reason="lost" quantity="1" unit="character"/>
-		<lb n="2" break="no"/>m peṟavum 
-		Atuvē kiḻakku nōkki nāṟpatiṉ ko[l] taṟai peṟavum
-		Atuvē teṟku nōkki [nū]ṟṟu-k kol taṟai peṟavum
-		Atuvē meṟku nōkki ka[ṭa]ppaṅkuḻiyiṉ teṉkaraiyilē Uṟavum
-		Atuvē teṟku nōkki nir-nilai Uṟavum kuṉṟapākkatt’ ēri-nilaiyē
-		teṉ-pāṟk’ ellai y-ākavē v-ellaikkuḷ<!--EF--> naṭuvu-pa[ṭṭa] ṉilam Aṉeka<!--EF-->-kālam viḻaluṅ
-		kāṭukoḷumā(mā)y-p payir-ceyyātum kūṟupāṭum parappun=taramum
-		Iṟai Eṟṟu[m i]ṉṟi sa<hi rend="grantha">bhai</hi>-p-potu-vāy-k ki[ṭan=ta]maiyil Ivv-āḻvāṟku maṭa-p-puṟam-āka viṟṟu-k kuṭuttōm 
-		In-nilam <hi rend="grantha">de</hi>vaka<hi rend="grantha">nmi</hi>kaḷum śrī-vai<hi rend="grantha">ṣṇa</hi>va-k-kaṇkāṇi 	ceyvārkaḷuṅ kai-k koṇṭu kāṭuveṭṭiyum viḻalveṭṭiyum Ucarvaṉa Ucarttiyum
-		kuḻippaṉa kuḻittun=tiruttit tām <gap reason="lost" quantity="9" unit="character"/> m viṭṭu
-		<hi rend="grantha">svāmi</hi>vāra[ṅ]-koṇṭum Amutu ceyvikka-k kaṭava<supplied reason="omitted">r</supplied><!--EF-->kaḷ ākavum [kā]ṭum	viḻalum veṭṭi tirutti <gap reason="lost" quantity="4" unit="character"/> melor <gap reason="lost" quantity="4" unit="character"/>
+		<lb n="2" break="no"/>m pe<gap reason="illegible" quantity="1" unit="character"/>ṟavum 
+		
+		Atuvē kiḻakku nōkki nāṟpatiṉ kōl taṟai peṟavum
+		Atuvē teṟku nōkki nūṟṟu-k kōl taṟai peṟavum
+		Atuvē meṟku nōkki ka<supplied reason="lost">ṭa</supplied>ppaṅkuḻiyiṉ teṉ-karaiyilē Uṟavum
+		Atuvē teṟku nōkki n<choice><orig>i</orig><reg>ī</reg></choice>r-nilai Uṟavum kuṉṟa-pākkatt’ ēri-nilaiyē
+		
+		teṉ-pāṟk’ ellai y-ākavē 
+		
+		<supplied reason="lost">v</supplied>-ellaikkuḷ naṭuvu-pa<supplied reason="omitted">ṭ</supplied>ṭa <choice><orig>ṉ</orig><reg>n</reg></choice>ilam Aṉeka-k-kālam viḻaluṅ
+		kāṭu-koḷu<surplus>mā</surplus>m-āy-p payir-ceyyātum kūṟupāṭum parappun=taramum
+		Iṟai Eṟṟum iṉṟi <hi rend="grantha">sabhai</hi>-p-potu-vāy-k kiṭa<unclear>n=ta</unclear>maiyil Ivv-āḻvāṟku maṭa-p-puṟam-āka viṟṟu-k kuṭuttōm
+	</p>
+	<p>
+		In-nilam <hi rend="grantha">de</hi>vaka<hi rend="grantha">nmi</hi>kaḷum <hi rend="grantha">śrī</hi>-vai<hi rend="grantha">ṣṇa</hi>va-k-kaṇkāṇi ceyvārkaḷuṅ kai-k koṇṭu kāṭu veṭṭiyum viḻal veṭṭiyum Ucarvaṉa Ucarttiyum kuḻippaṉa kuḻittun= tirutti-t t<unclear>ām</unclear> <gap reason="lost" quantity="15" unit="character" precision="low"/> m viṭṭu
+		<hi rend="grantha">svāmi</hi>-vāraṅ-koṇṭu maṭam amutu ceyvikka-k kaṭava<supplied reason="omitted">r</supplied>kaḷ ākavum
+	</p>
+	<p>
+		kāṭum viḻalum veṭṭi tirutti <gap reason="lost" quantity="4" unit="character"/> mēl oru nā <gap reason="lost" quantity="18" unit="character" precision="low"/>
 	</p>
 			
 </div>
 			
-<!--<div type="apparatus">
+<div type="apparatus">
 	
 	<listApp>
 		
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:KrishnaSastri1923_01">...</rdg>
-			<note>...</note>
+		<app loc="1">
+			<lem>naṭā<surplus>r</surplus>tti</lem>
+			<rdg source="bib:KrishnaSastri1923_01">na<supplied reason="undefined">ṭ</supplied>ātti</rdg>
 		</app>	
+						
+		<app loc="1">
+			<lem>vi<hi rend="grantha">ja</hi><unclear>yā</unclear></lem>
+			<rdg source="bib:KrishnaSastri1923_01">vi<hi rend="grantha">ja</hi>y<supplied reason="undefined">ā</supplied></rdg>
+		</app>
+								
+		<app loc="1">
+			<lem><hi rend="grantha">bhūmi</hi>-nilai-y-āvaṇa-k</lem>
+			<rdg source="bib:KrishnaSastri1923_01"><hi rend="grantha">bhūmi</hi>ni<supplied reason="omitted">lavi</supplied>laiyāvaṇak</rdg>
+			<note><ptr target="bib:KrishnaSastri1923_01"/> restoration based on parallel in SII 4.133.</note>
+		</app>
+		
+								
+		<app loc="1">
+			<lem><unclear>teṟkil</unclear></lem>
+			<rdg source="bib:KrishnaSastri1923_01">teṟkil</rdg>
+		</app>
+		
+								
+		<app loc="1">
+			<lem>Av<supplied reason="lost">v-āḷvār</supplied>-tiru-<choice><orig>ṉ</orig><reg>n</reg></choice>āṭ pattum</lem>
+			<rdg source="bib:KrishnaSastri1923_01">Ava <gap reason="lost" quantity="2" unit="character"/> tiruṉāṭpattum</rdg>
+		</app>
+		
+								
+		<app loc="2">
+			<lem>pe<gap reason="illegible" quantity="1" unit="character"/>ṟavum </lem>
+			<rdg source="bib:KrishnaSastri1923_01">peṟavum </rdg>
+			<note>The illegible character looks like <foreign>vu</foreign> crossed-out.</note>
+		</app>
+		
+								
+		<app loc="2">
+			<lem><supplied reason="lost">v</supplied>-ellaikkuḷ naṭuvu-pa<supplied reason="omitted">ṭ</supplied>ṭa <choice><orig>ṉ</orig><reg>n</reg></choice>ilam Aṉeka-k-kālam</lem>
+			<rdg source="bib:KrishnaSastri1923_01">vellaikkuḷa naṭuvu-pa<supplied reason="omitted">ṭṭa</supplied> ṉilam Aṉekakālam</rdg>
+		</app>
+		
+								
+		<app loc="2">
+			<lem>kūṟupāṭum</lem>
+			<rdg source="bib:KrishnaSastri1923_01"/>
+			<note>Looks like <foreign>kūṟum Īṭum</foreign>.</note>
+		</app>
+		
+								
+		<app loc="2">
+			<lem>t<unclear>ām</unclear> <gap reason="lost" quantity="15" unit="character" precision="low"/> m viṭṭu</lem>
+			<rdg source="bib:KrishnaSastri1923_01">tām <gap reason="lost" quantity="9" unit="character" precision="low"/> m viṭṭu</rdg>
+			<note>It is not clear if the characters are lost or have never been engraved. It appears also that the hand is different for the few characters before the gap and for all the characters that follow the gap.</note>
+		</app>
+		
+								
+		<app loc="2">
+			<lem>°koṇṭu maṭam amutu ceyvikka-k kaṭava<supplied reason="omitted">r</supplied>kaḷ</lem>
+			<rdg source="bib:KrishnaSastri1923_01">°koṇṭum Amutu ceyvikkakaṭavakaḷ</rdg>
+		</app>
+		
+								
+		<app loc="2">
+			<lem>mēl oru nā <gap reason="lost" quantity="18" unit="character" precision="low"/></lem>
+			<rdg source="bib:KrishnaSastri1923_01">mēlor <gap reason="lost" quantity="6" unit="character"/></rdg>
+		</app>
 		
 	</listApp>	
 	
-</div>-->
+</div>
 			
 <div type="translation" resp="part:emfr">
 								
 	<p n="1">Prosperity! Fortune!</p>
 	<p n="1">Fourty-eighth year of the glorious king Kulottuṅga Cōḻa, the emperor of the three worlds, alias the king Rājakesarivarman,</p>
 	<p n="1">who ... [<foreign>meykkīrtti</foreign> of Kulottuṅga I Cōḻa].</p>
-	<p n="1"><supplied reason="subaudible">There are</supplied> five <foreign>kācu</foreign>s ...</p>
-	<p n="1">With these five <foreign>kācu</foreign>s, we ...</p>
-	<p n="1-2">...</p>
+	<p n="1">Hand-written writ of land-sale-deed <supplied reason="subaudible">of</supplied> We, the members of the great assembly,
+		...
+		of the glorious Kulottuṅgacōḻacaturvedimaṅgala in the Ūṟṟukkāṭṭunāṭu, <supplied reason="subaudible">itself</supplied> in the Ūṟṟukkāṭṭukōṭṭam, <supplied reason="subaudible">itself</supplied> in the Jayaṅkoṇṭacōḻamaṇḍala.</p>
+	<p n="1"><supplied reason="subaudible">There are</supplied> five <foreign>kācu</foreign>s
+		...
+		for feeding the Śrīvaiṣṇavars who do service
+		...</p>
+	<p n="1">With these five <foreign>kācu</foreign>s,
+		the land that we have given
+		...
+		is <supplied reason="subaudible">as follows</supplied>.</p>
+	<p n="1-2">Whereas <supplied reason="subaudible">the boundaries</supplied> are <supplied reason="explanation"><foreign>ākavē</foreign></supplied>
+		...
+		the land comprised inside <supplied reason="subaudible">these</supplied> boundaries
+		...
+		we have given it as a <foreign>maṭappuṟam</foreign> for the Lord.</p>
+	<p n="2">With this land, the temple officers and those who do ...
+		having taken it, having cut the forest, having cut the grass <supplied reason="explanation"><foreign>viḻal</foreign></supplied>,
+		...
+		should be assigned to provide food-offerings
+		...</p>
+	<p n="2">Having cut the forest and the grass <gap reason="lost"/></p>
 	
 </div>
 	
@@ -175,7 +267,7 @@
 	<p>First reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/36).</p>
 	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.134).</p>
 	
-	<p>Encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> and on photos (<ref target="https://didomena.ehess.fr/concern/data_sets/7p88cr353">Emmanuel Francis, 2009</ref>).
+	<p>Encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (only major variant readings recorded in the apparatus) and on photos (<ref target="https://didomena.ehess.fr/concern/data_sets/7p88cr353">Emmanuel Francis, 2009</ref>) covering most, but not the whole, of the inscription.
 	</p>	
 	
 	<listBibl type="primary">
