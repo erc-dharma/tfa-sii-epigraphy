@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>...</summary>
+						<summary>Donation of land for food-offerings and of gold for a lamp.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -94,10 +94,10 @@
 	</ab>
 	
 	<p>
-		Ic-ca<supplied reason="undefined">t</supplied>tape
-		<lb n="2" break="no"/>rumāṉārkku maticūta-<hi rend="grantha">bha</hi>
+		Ic-ca<supplied reason="undefined">t</supplied>ta-pe
+		<lb n="2" break="no"/>rumāṉārkku mati-cūta-<hi rend="grantha">bha</hi>
 		<lb n="3" break="no"/>ṭṭar kumārapaṭṭiyil tiru
-		<lb n="4" break="no"/>-v-amitikku oru mā nilamum
+		<lb n="4" break="no"/>-v-am<choice><orig>i</orig><reg>u</reg></choice>t<choice><orig>i</orig><reg>u</reg></choice>kku Oru mā nilamum
 		<lb n="5"/>tiru-viḷakkukku kaḻañcu poṉ
 		<lb n="6" break="no"/>ṉum kuṭutta<supplied reason="undefined">tu</supplied>
 	</p>
@@ -120,7 +120,13 @@
 <div type="translation" resp="part:emfr">
 								
 	<p n="1">Prosperity! Fortune!</p>
-	<p n="1-6"></p>	
+	<p n="1-6">For this Cattaperumāṉ<note>That is, "the Lord of sound" (?) (<foreign>cattam</foreign> = Sanskrit <foreign>śabda</foreign>).</note>,
+	what Maticūtabhaṭṭar gave <supplied reason="subaudible">is</supplied>:
+	<list>
+		<item>one <foreign>mā</foreign> of land, in Kumārapaṭṭi, for sacred food-offerings,</item>
+		<item>and one <foreign>kaḻañcu</foreign> of gold for a glorious lamp.</item>
+	</list>
+	</p>	
 	
 </div>
 	
