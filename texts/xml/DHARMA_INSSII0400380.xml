@@ -96,7 +96,7 @@
 	<p>
 		Ic-ca<supplied reason="undefined">t</supplied>ta-pe
 		<lb n="2" break="no"/>rumāṉārkku mati-cūta-<hi rend="grantha">bha</hi>
-		<lb n="3" break="no"/>ṭṭar kumārapaṭṭiyil tiru
+		<lb n="3" break="no"/>ṭṭar kumāra-paṭṭiyil tiru
 		<lb n="4" break="no"/>-v-am<choice><orig>i</orig><reg>u</reg></choice>t<choice><orig>i</orig><reg>u</reg></choice>kku Oru mā nilamum
 		<lb n="5"/>tiru-viḷakkukku kaḻañcu poṉ
 		<lb n="6" break="no"/>ṉum kuṭutta<supplied reason="undefined">tu</supplied>
@@ -120,7 +120,7 @@
 <div type="translation" resp="part:emfr">
 								
 	<p n="1">Prosperity! Fortune!</p>
-	<p n="1-6">For this Cattaperumāṉ<note>That is, "the Lord of sound" (?) (<foreign>cattam</foreign> = Sanskrit <foreign>śabda</foreign>).</note>,
+	<p n="1-6">For this Cattaperumāṉ<note>That is, most probably, a form of Śiva. See MTL, s.v. <foreign>cattaṉ</foreign>: <quote>2. (Śaiva.) The formless Šiva, as the embodiment of energy</quote>.</note>,
 	what Maticūtabhaṭṭar gave <supplied reason="subaudible">is</supplied>:
 	<list>
 		<item>one <foreign>mā</foreign> of land, in Kumārapaṭṭi, for sacred food-offerings,</item>
@@ -136,10 +136,10 @@
 	
 <div type="bibliography">
 	
-	<p>First reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1889-1890/1890/56).</p>
-	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.380).</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1889-1890/1890/56).</p>
+	<p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.380).</p>
 	
-	<p>Encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>.
+	<p>Encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>, on photos (<ref target="https://didomena.ehess.fr/concern/data_sets/qn59qc80m">Emmanuel Francis, 2011</ref>) and the estampage online on <ref target="https://www.tnarch.gov.in/inscription">TNSDA website</ref> (accessed 2021-07-26).
 	</p>	
 	
 	<listBibl type="primary">
@@ -149,6 +149,9 @@
 			<citedRange unit="page">115</citedRange>
 			<citedRange unit="item">380</citedRange>
 		</bibl>
+		
+		<!--Edited by Elliot in his supplement to Braddock-Mahon in Carr 1869 (ed.), p. 120.-->
+		
 	</listBibl>
 	
 	<listBibl type="secondary">
@@ -166,3 +169,7 @@
         </body>
     </text>
 </TEI>
+
+<!--
+METADATA:
+Sur une portion d’un long rocher plat affleurant à quelques dizaines de mètres au sud-ouest du temple de Subrahmaṇya, à une centaine de mètres au nord de la grotte d’Atiraṇacaṇḍeśvara.-->
