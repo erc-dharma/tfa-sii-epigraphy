@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Cāḷuvaṉ Kuppam, rock</title>
+            <title>Tiruvallam, time of ..., year 17</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSSII0400380</idno>
+            <idno type="filename">DHARMA_INSSII0400309</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -96,12 +96,25 @@
 	</ab>
 	
 	<p>
-		Ic-ca<supplied reason="undefined">t</supplied>ta-pe
-		<lb n="2" break="no"/>rumāṉārkku mati-cūta-<hi rend="grantha">bha</hi>
-		<lb n="3" break="no"/>ṭṭar kumāra-paṭṭiyil tiru
-		<lb n="4" break="no"/>-v-am<choice><orig>i</orig><reg>u</reg></choice>t<choice><orig>i</orig><reg>u</reg></choice>kku Oru mā nilamum
-		<lb n="5"/>tiru-viḷakkukku kaḻañcu poṉ
-		<lb n="6" break="no"/>ṉum kuṭutta<supplied reason="undefined">tu</supplied>
+		<hi rend="grantha">sa</hi>kala-lōka-c-cakkarava<choice><orig>tti</orig><reg>rtti</reg></choice> veṉṟumaṇkoṇṭārkku yāṇṭu <num value="17"><g type="numeral">10</g> 7</num>-Āvatu
+	</p>
+	
+	<p>
+		Uṭaiyār tiruvallam-uṭaiya nāyaṉā<supplied reason="omitted">r</supplied>kku tiru-veṇṇainallūril mā
+		<lb n="2" break="no"/><hi rend="grantha">he</hi>curaril perumāṉ Irācākkaḷ-nayaṉār kāṅkēyar cāttiṉa paṭṭam Oṉṟiṉāl poṉ Eṭai Iru-kaḻañcu nārācattukku va<supplied reason="undefined">ṭa</supplied>kku maṉaikku
+		kuṭutta paṇam Iru-patu
+	</p>
+	<p>
+		Ip-poṉ Iru-kaḻañ
+		<lb n="3" break="no"/>cukkum paṇam Iru-patukkum tiru-p-pāṭṭu-p paṇiyum Im-maṉaiyum Ivaṟku <supplied reason="undefined">ca</supplied>ntirā<choice><sic>k</sic><corr>t</corr></choice>itta-varaiyum kāṇi Ākavum
+	</p>
+	<p>
+		Im-maṉai ṉāṟkolum tiru-k-kai-koṭṭi paṇiyum kā
+		<lb n="4" break="no"/>ṇi y-ākavum
+	</p>
+	<p>
+		paṇi
+		O<supplied reason="undefined">ṉ</supplied>ṟukku tūṇi nellum Iru-pattu ṉālu paṇamum Iṭuvat-āka kāṇi-y-āka kuṭuttōm tiru-vallattil tāṉattārōm
 	</p>
 	
 </div>
@@ -122,13 +135,15 @@
 <div type="translation" resp="part:emfr">
 								
 	<p n="1">Prosperity! Fortune!</p>
-	<p n="1-6">For this Cattaperumāṉ<note>That is, most probably, a form of Śiva. See MTL, s.v. <foreign>cattaṉ</foreign>: <quote>2. (Śaiva.) The formless Šiva, as the embodiment of energy</quote>.</note>,
-	what Maticūtabhaṭṭar gave <supplied reason="subaudible">is</supplied>:
-	<list>
-		<item>one <foreign>mā</foreign> of land, in Kumārapaṭṭi, for sacred food-offerings,</item>
-		<item>and one <foreign>kaḻañcu</foreign> of gold for a glorious lamp.</item>
-	</list>
-	</p>	
+	<p n="1">17th year of ...</p>
+	<p n="1-2">The coins <supplied reason="explanation"><foreign>paṇam</foreign></supplied> that
+		...
+		has given <supplied reason="subaudible">is</supplied> twenty.</p>
+	<p n="2-3">There should be a <foreign>kāṇi</foreign> ...</p>
+	<p n="3-4">There should be a <foreign>kāṇi</foreign> ...</p>
+	<p n="4">So that there be
+		...
+		We, the trustees in Tiruvallam, have given <supplied reason="subaudible">this</supplied> as <foreign>kāṇi</foreign>.</p>	
 	
 </div>
 	
@@ -138,31 +153,28 @@
 	
 <div type="bibliography">
 	
-	<p>Reported in <bibl><ptr target="bib:ARIE1889-1890_02"/></bibl> (ARIE/1889-1890/1890/56).</p>
-	<p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.380).</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1889-1890_01"/></bibl> (ARIE/1889-1890/A/1889/80).</p>
+	<p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.309).</p>
 	
-	<p>Encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>, on photos (<ref target="https://didomena.ehess.fr/concern/data_sets/qn59qc80m">Emmanuel Francis, 2011</ref>) and the estampage online on <ref target="https://www.tnarch.gov.in/inscription">TNSDA website</ref> (accessed 2021-07-26).
-	</p>	
+	<p>Encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>.</p>	
 	
 	<listBibl type="primary">
 		
 		<bibl n="SII">
 			<ptr target="bib:KrishnaSastri1923_01"/>
-			<citedRange unit="page">115</citedRange>
-			<citedRange unit="item">380</citedRange>
+			<citedRange unit="page">86</citedRange>
+			<citedRange unit="item">309</citedRange>
 		</bibl>
-		
-		<!--Edited by Elliot in his supplement to Braddock-Mahon in Carr 1869 (ed.), p. 120.-->
 		
 	</listBibl>
 	
 	<listBibl type="secondary">
 				
 		<bibl>
-			<ptr target="bib:ARIE1889-1890_02"/>
-			<citedRange unit="page">6</citedRange>
-			<citedRange unit="appendix">1890</citedRange>
-			<citedRange unit="item">56</citedRange>			
+			<ptr target="bib:ARIE1889-1890_01"/>
+			<citedRange unit="page">5</citedRange>
+			<citedRange unit="appendix">A/1889</citedRange>
+			<citedRange unit="item">80</citedRange>			
 		</bibl>		
 		
 	</listBibl>
