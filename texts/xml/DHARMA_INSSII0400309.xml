@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tiruvallam, time of ..., year 17</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">DHARMA_INSSII0400309</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Donation of land for food-offerings and of gold for a lamp.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC)
+					under the European Union's Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
+							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2024-03-30">Creation of the file on the
+				repository</change>
+		</revisionDesc>
+	</teiHeader>
+
+	<text xml:space="preserve">
+<body>	
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+				
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
+		<lb n="1"/>svasti śrī
+	</ab>
+	
+	<p>
+		<hi rend="grantha">sa</hi>kala-lōka-c-cakkarava<choice><orig>tti</orig><reg>rtti</reg></choice> veṉṟumaṇkoṇṭārkku yāṇṭu <num value="17"><g type="numeral">10</g> 7</num>-Āvatu
+	</p>
+	
+	<p>
+		Uṭaiyār tiruvallam-uṭaiya nāyaṉā<supplied reason="omitted">r</supplied>kku tiru-veṇṇainallūril mā
+		<lb n="2" break="no"/><hi rend="grantha">he</hi>curaril perumāṉ Irācākkaḷ-nayaṉār kāṅkēyar cāttiṉa paṭṭam Oṉṟiṉāl poṉ Eṭai Iru-kaḻañcu nārācattukku va<supplied reason="undefined">ṭa</supplied>kku maṉaikku
+		kuṭutta paṇam Iru-patu
+	</p>
+	<p>
+		Ip-poṉ Iru-kaḻañ
+		<lb n="3" break="no"/>cukkum paṇam Iru-patukkum tiru-p-pāṭṭu-p paṇiyum Im-maṉaiyum Ivaṟku <supplied reason="undefined">ca</supplied>ntirā<choice><sic>k</sic><corr>t</corr></choice>itta-varaiyum kāṇi Ākavum
+	</p>
+	<p>
+		Im-maṉai ṉāṟkolum tiru-k-kai-koṭṭi paṇiyum kā
+		<lb n="4" break="no"/>ṇi y-ākavum
+	</p>
+	<p>
+		paṇi
+		O<supplied reason="undefined">ṉ</supplied>ṟukku tūṇi nellum Iru-pattu ṉālu paṇamum Iṭuvat-āka kāṇi-y-āka kuṭuttōm tiru-vallattil tāṉattārōm
+	</p>
+	
+</div>
+			
+<!--<div type="apparatus">
+	
+	<listApp>
+		
+		<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:KrishnaSastri1923_01">...</rdg>
+		</app>	
+		
+	</listApp>	
+	
+</div>-->
+			
+<div type="translation" resp="part:emfr">
+								
+	<p n="1">Prosperity! Fortune!</p>
+	<p n="1">17th year of ...</p>
+	<p n="1-2">The coins <supplied reason="explanation"><foreign>paṇam</foreign></supplied> that
+		...
+		has given <supplied reason="subaudible">is</supplied> twenty.</p>
+	<p n="2-3">There should be a <foreign>kāṇi</foreign> ...</p>
+	<p n="3-4">There should be a <foreign>kāṇi</foreign> ...</p>
+	<p n="4">So that there be
+		...
+		We, the trustees in Tiruvallam, have given <supplied reason="subaudible">this</supplied> as <foreign>kāṇi</foreign>.</p>	
+	
+</div>
+	
+<!--<div type="commentary">
+		
+</div>-->
+	
+<div type="bibliography">
+	
+	<p>Reported in <bibl><ptr target="bib:ARIE1889-1890_01"/></bibl> (ARIE/1889-1890/A/1889/80).</p>
+	<p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.309).</p>
+	
+	<p>Encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>.</p>	
+	
+	<listBibl type="primary">
+		
+		<bibl n="SII">
+			<ptr target="bib:KrishnaSastri1923_01"/>
+			<citedRange unit="page">86</citedRange>
+			<citedRange unit="item">309</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+	<listBibl type="secondary">
+				
+		<bibl>
+			<ptr target="bib:ARIE1889-1890_01"/>
+			<citedRange unit="page">5</citedRange>
+			<citedRange unit="appendix">A/1889</citedRange>
+			<citedRange unit="item">80</citedRange>			
+		</bibl>		
+		
+	</listBibl>
+	
+</div>
+        </body>
+    </text>
+</TEI>
+
+<!--
+METADATA:
+Sur une portion d’un long rocher plat affleurant à quelques dizaines de mètres au sud-ouest du temple de Subrahmaṇya, à une centaine de mètres au nord de la grotte d’Atiraṇacaṇḍeśvara.-->
