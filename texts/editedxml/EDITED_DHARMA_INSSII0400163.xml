@@ -99,7 +99,7 @@
 		<hi rend="grantha">śrī</hi>-maṉu-ma<hi rend="grantha">hā-pradhā</hi>ṉa-rākuttarāya
 		<gap reason="lost" quantity="4" unit="character"/>
 		cā<hi rend="grantha">de</hi>va-<hi rend="grantha">daṇḍa</hi>-ṉāyakkaṉeṉ ce
-		<gap reason="lost" quantity="10" unit="character"/><hi rend="grantha">kara</hi>-nāyaṟṟu
+		<gap reason="lost" quantity="10" unit="character"/> <hi rend="grantha">kara</hi>-nāyaṟṟu
 		Apara-pa<hi rend="grantha">kṣa</hi>ttu <hi rend="grantha">dvādaśi</hi>yu
 		<gap reason="lost" quantity="5" unit="character"/>
 		yum peṟṟa keṭ
@@ -108,7 +108,7 @@
 	<p>
 		<gap reason="lost" quantity="3" unit="character"/>
 		ṅkalattu
-		<hi rend="grantha">bha</hi>ṭṭakaḷ nūṟṟu Aṟupatiṉvaṟkum <hi rend="grantha">dānapramā</hi>ṇam paṇṇi-k
+		<hi rend="grantha">bha</hi>ṭṭakaḷ nūṟṟu Aṟupatiṉvaṟkum <hi rend="grantha">dāna-pramā</hi>ṇam paṇṇi-k
 		kuṭutta paric’ āvatu
 	</p>
 	<p>
@@ -121,7 +121,7 @@
 		<supplied reason="lost">u</supplied>ḷ-p-paṭṭa
 		nilaṅkaḷum Ivv-akarattukkuṭa
 		<gap reason="lost" quantity="4" unit="character"/>
-		<supplied reason="lost">i</supplied>ṟai-y-li-y-āka uta
+		<supplied reason="lost">i</supplied>ṟai-y-ili-y-āka uta
 		<gap reason="lost" quantity="5" unit="character"/>
 		maraṅkaḷum k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-nōkkiṉa
 		kiṇaṟukaḷum maṟṟum Eppērppaṭṭa Urimaikaḷum Aṉaittāyaṅkaḷum Uḷppaṭa na<supplied reason="undefined">m</supplied>
@@ -134,16 +134,41 @@
 		paṇṇi tantōm
 	</p>
 	<p>
-		Ip-paṭikku kallilu•••• veṭṭik-koṇ••••• yamācciyateṇṭanāyakkaṉeṉ
-		eḻuttu srī-gopīnātha<!--EF: tag this word as nāgarī--> Itu oppam ittaṉmam <hi rend="grantha">rakṣi</hi>ttavaṉ
-		<hi rend="grantha">śrīpādam</hi> iraṇṭum eṉtalaimele [|*] <hi rend="grantha">svasti śrī</hi> [||*]
-		iṟṟaināḷile iccelanāṭuṭaiyap poṉ parappi•••••
-		<lb n="4"/>rkaḷukku muṉpuḷḷa
-		aṇaikaḷum kālkaḷum erikaḷum kuṭṭaikaḷum me•••ṅkalamum ivvūrkaḷil naṉcey•••
-		nāṟpāṟkellai•••ppeṟpaṭṭa urimaikaḷum ivvakarattukku kuṭi iruppākak kuṭutta
-		nattattukkukiḻpāṟkellai kiṭārattaraiyaṉpaṭṭi kiḻaipoḻikku meṟkum
-		teṉpāṟkellaipañcantāṅki iṭṭalukku
+		Ip-paṭikku kallilu
 		<gap reason="lost" quantity="7" unit="character"/>
+		veṭṭik-koṇ
+		<gap reason="lost" quantity="10" unit="character"/>
+	</p>
+	<p>
+		yamācciya-teṇṭa-nāyakkaṉ-ēṉ Eḻuttu
+	</p>
+	<p>
+		srī-gopīnātha<!--EF: tag this word as nāgarī--> Itu Oppam
+	</p>
+	<p>
+		It-taṉmam <hi rend="grantha">rakṣi</hi>ttavaṉ <hi rend="grantha">śrī-pādam·</hi> Iraṇṭum eṉ talai mēlē
+	</p>
+	
+	<!--This is another inscription, which should be edited in a separate file-->
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
+		<lb n="1"/>svasti śrī
+	</ab>
+	<p>
+		Iṟṟaināḷilē Ic-cēla-nāṭ-uṭaiya-p poṉ parappi
+		<gap reason="lost" quantity="8" unit="character"/>		
+		<lb n="4"/>rkaḷukku muṉp-uḷḷa
+		Aṇaikaḷum kālkaḷum Ērikaḷum kuṭṭaikaḷum me
+		<gap reason="lost" quantity="5" unit="character"/>
+		ṅkalamum Ivv-ūrkaḷil naṉ-cey
+		<gap reason="lost" quantity="5" unit="character"/>
+		nāṟ-pāṟk’ ellai
+		<gap reason="lost" quantity="6" unit="character"/>
+		<supplied reason="undefined">e</supplied>ppē<choice><orig>ṟ</orig><reg>r</reg></choice>paṭṭa Urimaikaḷum Ivv-akarattukku kuṭi Irupp-āka-k kuṭutta
+		nattattukku 
+		k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pāṟk’ ellai kiṭārattaraiyaṉ-paṭṭi kiḻai poḻikku mēṟkum
+		teṉ-pāṟk’ ellai pañcantāṅki Iṭṭalukku <gap reason="lost" quantity="7" unit="character"/>
+		<!--<note n="4:20-1">The inscribed stones are not in their proper order; and some of them are also
+missing.</note>-->
 	</p>
 	
 </div>
@@ -159,8 +184,8 @@
 			
 		<app loc="2">
 			<lem><gap reason="lost" quantity="4" unit="character"/>
-		<supplied reason="lost">i</supplied>ṟai-y-li-y-āka</lem>
-			<rdg source="bib:KrishnaSastri1923_01"><gap reason="lost" quantity="4" unit="character"/> ṟaiyliyāka</rdg>
+		<supplied reason="lost">i</supplied>ṟai-y-ili-y-āka</lem>
+			<rdg source="bib:KrishnaSastri1923_01"><gap reason="lost" quantity="4" unit="character"/> ṟaiyiliyāka</rdg>
 		</app>		
 		
 		
@@ -173,6 +198,15 @@
 	<p n="1">Prosperity!</p>
 	
 	<p n="1">...</p>	
+	<p n="1">This is the manner in which
+	...
+	have given, after making a donation document.</p>	
+	<p n="1-4">We have given
+		...</p>	
+	<p n="4">In this manner ...</p>	
+	<p n="4"><supplied reason="lost">These</supplied> are the signature <supplied reason="explanation"><foreign>eḻuttu</foreign><note>Literally, the letters.</note> </supplied>of I, ...</p>	
+	<p n="4">The glorious Gopīnātha, this <supplied reason="subaudible">is his</supplied> signature <supplied reason="explanation"><foreign>oppam</foreign></supplied>.</p>	
+	<p n="4">He who protects this pious donation <supplied reason="explanation"><foreign>taṉmam</foreign></supplied>, <supplied reason="subaudible">his</supplied> glorious two feet are on my head.</p>	
 	
 </div>
 	
