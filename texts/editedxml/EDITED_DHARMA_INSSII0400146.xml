@@ -130,8 +130,8 @@
 	
 <div type="bibliography">
 	
-	<p>First reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/46).</p>
-	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.145, where it is bifurcated as ARIE/1887-1888/I/1887-1888/46B).</p>
+	<p>First reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/46, bifurcated as 46B in SII 4.145).</p>
+	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.145).</p>
 	
 	<p>Encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>.
 	</p>	
