@@ -98,28 +98,28 @@
 		cēlattil ka
 		<lb n="4" break="no"/>ṇmāḷaril Aṇṇāmalai-t-taṭṭā
 		<lb n="5" break="no"/>ṉ cūriya<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice>-āṉa nūṟṟ-e[ṇ*]ma-t-tāṭ
-		<lb n="6" break="no"/>ṭāṉ ce<supplied reason="undefined">v</supplied>vitta pōtikai
+		<lb n="6" break="no"/>ṭāṉ c<choice><orig>e<supplied reason="undefined">v</supplied></orig><reg>ey</reg></choice>vitta pōtikai
 	</p>
 	
 </div>
 			
-<!--<div type="apparatus">
+<div type="apparatus">
 	
 	<listApp>
 		
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:KrishnaSastri1923_01">...</rdg>
+		<app loc="6">
+			<lem>c<choice><orig>e<supplied reason="undefined">v</supplied></orig><reg>ey</reg></choice>vitta</lem>
+			<rdg source="bib:KrishnaSastri1923_01">ce<supplied reason="undefined">v</supplied>vitta</rdg>
 		</app>	
 		
 	</listApp>	
 	
-</div>-->
+</div>
 			
 <div type="translation" resp="part:emfr">
 	
 	<p n="1-3">24th year the glorious Sundara Pāṇḍya, the emperor of the three worlds, <hi rend="italic">alias</hi> the king Caṭaivarman <supplied reason="explanation"><foreign>kōccaṭaiparmar</foreign></supplied>.</p>
-	<p n="3-6">This is the pillar-capital <supplied reason="explanation"><foreign>pōtikai</foreign></supplied> that Nūṟṟeṇmattāṭṭāṉ <hi rend="italic">alias</hi> Aṇṇāmalaittāṭṭāṉ Cūriyāṉ, <supplied reason="subaudible">one</supplied> among the smiths/artisans <supplied reason="explanation"><foreign>kaṇmāḷar</foreign><note>See MTL, s.v. <foreign>pañca-kammāḷar</foreign>: <quote>n. <foreign>pañcan</foreign> +. The five castes of artisans, viz., <foreign>taṭṭāṉ</foreign>, <foreign>kaṉṉāṉ</foreign>, <foreign>ciṟpaṉ</foreign>, <foreign>taccaṉ</foreign>, <foreign>kollaṉ</foreign></quote>. By his name, we know that the donor is a gold or silver smith. See MTL, s.v. <foreign>taṭṭāṉ</foreign><hi rend="superscript">1</hi>: <quote>n. Gold or silver smith, one of 18 <foreign>kuṭi-makkaḷ</foreign>.</quote></note></supplied> of Cēlam, had made.</p>
+	<p n="3-6">This is the pillar-capital <supplied reason="explanation"><foreign>pōtikai</foreign></supplied> that Nūṟṟeṇmattāṭṭāṉ <hi rend="italic">alias</hi> Aṇṇāmalaittāṭṭāṉ Cūriyāṉ, <supplied reason="subaudible">one</supplied> among the smiths/artisans <supplied reason="explanation"><foreign>kaṇmāḷar</foreign><note>See MTL, s.v. <foreign>pañca-kammāḷar</foreign>: <quote>n. <foreign>pañcan</foreign> +. The five castes of artisans, viz., <foreign>taṭṭāṉ</foreign>, <foreign>kaṉṉāṉ</foreign>, <foreign>ciṟpaṉ</foreign>, <foreign>taccaṉ</foreign>, <foreign>kollaṉ</foreign></quote>. By his name, we know that the donor is a gold or silver smith. See MTL, s.v. <foreign>taṭṭāṉ</foreign><hi rend="superscript">1</hi>: <quote>n. Gold or silver smith, one of 18 <foreign>kuṭi-makkaḷ</foreign>.</quote></note></supplied> of Cēlam, had made<note>That is, has offered.</note>.</p>
 	
 </div>
 	
