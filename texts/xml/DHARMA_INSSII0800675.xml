@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvaṇṇamālai, Aruṇācaleśvara temple, time of Viruppaṇṇa, Śaka year 1310</title>
+				<title>Allūr, Pañcanadeśvara temple, time of Rājādhirāja, year 27</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -93,43 +93,58 @@
          	<lg n="1" met="āciriyappā">
          		<l n="1">tiṅka<supplied reason="undefined">ḷēr taru taṉ</supplied>toṅkal veṇ kuṭaikk<choice><sic>i</sic><corr>ī</corr></choice><supplied reason="undefined">ḻ</supplied></l>
          		<l n="2"><supplied reason="lost">nilamakaḷ nilava malar</supplied> makaṭ p<supplied reason="undefined">pu</supplied>ṇara</l>
-         		<l n="3"><supplied  cert="low" reason="lost">ceṅkol</supplied><gap reason="undefined" quantity="1" unit="character"></gap></l>
-         		<l n="4">lōccik karuṅkali kaṭint<supplied cert="low" reason="lost">uṭaṉ</supplied></l>
-         		<l n="5">maṉ<supplied reason="undefined">ṉupa</supplied>l l-ūḻiyuḷ t-teṉ<supplied reason="undefined">ṉavar</supplied><lb n="2"/>muvaruḷ</l>
-         		<l n="6"><gap reason="undefined" unit="character" quantity="6"></gap>ṟ</l>
-         		<l n="7">parumatiṭ p-pacu<supplied reason="undefined">n</supplied>talai <gap reason="undefined" quantity="8" unit="character"></gap></l>
-         		<l n="8">ṉa Āṉai k-ki<gap unit="character" quantity="8" reason="undefined"></gap></l>
-         		<l n="9">cuntarapāṇṭiyaṉai <supplied reason="undefined">t</supplied>-ticai <gap reason="undefined" quantity="4" unit="character"></gap></l>
-         		<l n="10">t<supplied reason="undefined">o</supplied>llaiyil <supplied reason="undefined">mu</supplied>llai <gap reason="undefined" unit="character" quantity="2"></gap> t-t<choice><sic>ūr</sic><corr>ura</corr></choice>tti Olkalil</l>
-         		<l n="11">vē<supplied reason="lost">ṇā c-cō</supplied>ṇāṭṭ’ ot<choice><sic>u</sic><corr>i</corr></choice>kki</l>
-         		<l n="12"></l>
-         		<l n="13"></l>
-         		<l n="14"></l>
-         		<l n="15"></l>
-         		<l n="16"></l>
-         		<l n="17"></l>
-         		<l n="18"></l><l n="3"></l>
-         		<l n="19"></l>
-         		<l n="20"></l>
-         		<l n="21"></l>
-         		<l n="3"></l>
-         		<l n="3"></l>
-         		<l n="3"></l>
-         		<l n="3"></l><l n="3"></l>
-         		<l n="3"></l>
-         		
-         		
-         		
-         		
+         		<l n="3"><supplied  cert="low" reason="lost">ceṅkol</supplied><gap reason="undefined" quantity="1" unit="character"></gap>lōccik karuṅkali kaṭint<supplied cert="low" reason="lost">uṭaṉ</supplied></l>
+       
+         		<l n="4">maṉ<supplied reason="undefined">ṉupa</supplied>l l-ūḻiyuḷ t-teṉ<supplied reason="undefined">ṉavar</supplied><lb n="2"/>muvaruḷ</l>
+         		<l n="5"><gap reason="undefined" unit="character" quantity="6"></gap>ṟ</l>
+         		<l n="6">parumatiṭ p-pacu<supplied reason="undefined">n</supplied>talai <gap reason="undefined" quantity="8" unit="character"></gap></l>
+         		<l n="7">ṉa Āṉai k-ki<gap unit="character" quantity="8" reason="undefined"></gap></l>
+         		<l n="8">cuntarapāṇṭiyaṉai <supplied reason="undefined">t</supplied>-ticai <gap reason="undefined" quantity="4" unit="character"></gap></l>
+         		<l n="9">t<supplied reason="undefined">ō</supplied>llaiyil <supplied reason="undefined">mu</supplied>llai <gap reason="undefined" unit="character" quantity="2"></gap> <lb n="3" break="no"/>t-t<choice><sic>ūr</sic><corr>ura</corr></choice>tti Olkalil</l>
+         		<l n="10">vē<supplied reason="lost">ṇā c-cō</supplied>ṇāṭṭ’ ot<choice><sic>u</sic><corr>i</corr></choice>kki</l>
+         		<l n="11"><gap reason="undefined" quantity="10" unit="character"></gap>muṉi<supplied reason="undefined">ntu</supplied></l>
+         		<l n="12"><surplus>tu</surplus>vēlai <supplied reason="undefined">keḻukā</supplied>n=taḷū<supplied reason="undefined">r c</supplied>-cālai kala<supplied reason="undefined">ma</supplied>ṟutt’</l>
+         		<l n="13">ā<hi rend="grantha">bha</hi>va mallanum Añca <supplied reason="undefined">k</supplied>-kēvutaṉ</l>
+         		<l n="14">ṟāṅka <lb n="4"/>rum paṭaiyāl Āṅ<supplied reason="undefined">ka</supplied>vaṉ kē<gap reason="undefined" unit="character" quantity="9"></gap></l>
+         		<l n="15"><gap quantity="9" unit="character" reason="undefined"></gap><supplied reason="undefined">ma</supplied>ṭiya t-tiṇ<supplied reason="undefined">ṭiṟal</supplied></l>
+         		<l n="16">vi<supplied reason="undefined">ri</supplied>taru vikkiyam vicaiyā titta<choice><orig>n</orig><reg>ṉ</reg></choice>um</l>
+         		<l n="17">tarumuraṭ c<choice><sic>a</sic><corr>ā</corr></choice>ṅka ma<surplus>i</surplus>yyanu mutali<lb n="5"/>ṉar </l>
+         		<l n="18"><hi rend="grantha">samara bhī</hi>ruvo t-<supplied reason="undefined">tuṭ</supplied>ai<supplied reason="lost">ya nimicuṭar</supplied></l>
+         		<l n="19"><supplied reason="undefined">ta</supplied>ṉṉāṭai yiṟ<choice><sic><hi rend="grantha">ja</hi></sic><corr>ca</corr></choice>yaṅ koṇṭu tuṉṉār</l>
+         		<l n="20">koḷḷi p-pākkai Oḷḷeri maṭuttu</l>
+         		<l n="21">villavar miṉa<lb n="6" break="no"/>var veñciṉa c<choice><sic>ā</sic><corr>a</corr></choice>ḷ<choice><sic>ū</sic><corr>u</corr></choice>kkiyar</l>
+         		<l n="22">valla<supplied reason="undefined">va</supplied>r mutaleṉa <supplied reason="undefined">viḷaṅka</supplied> v<choice><sic>i</sic><corr>ī</corr></choice>ṟṟirunta</l><!--@emfr: differing verse fr. critical edition-->
+         		<l n="23"><hi rend="grantha">j<choice><sic>e</sic><corr>a</corr></choice></hi>yaṅkoṇṭa cō<supplied reason="undefined">ḻa</supplied>ṉ Uyarn=ta perumpukaḻ</l>
+         	
          	</lg> 
          	<p>          
-         		  <gap reason="undefined" unit="character" quantity="7"></gap>loccik karuṅkali kaṭintu maṉ<supplied reason="undefined">ṉupa</supplied>llūḻiyuḷ-t teṉ<supplied reason="undefined">ṉavar</supplied>
-         		<lb n="2" break="no"/>
+         	k-kōvirā<hi rend="grantha">ja</hi> kēcari-pa<hi rend="grantha">ṉma</hi>rāṉa Uṭaiyār śrī<supplied reason="undefined"><surplus>r</surplus>i</supplied><hi rend="grantha">rāj<supplied reason="undefined">ā</supplied>dhi</hi>rāja<lb n="7" break="no"/><hi rend="grantha">deva</hi>ṟk’ iyāṇṭu <supplied reason="undefined"><num value="20">2 <g type="numeral">10</g></num></supplied> 7<supplied reason="undefined">Ā</supplied>vatu	  
          	</p>
-         	
-         	
+         	<p>
+         		koṉerimaikoṇṇtāṉ nantamar Eppe<surplus><supplied reason="undefined">r</supplied></surplus>ṟpaṭṭāṟkum kēraḷāntaka-vaḷanāṭṭu Uṟaiyūr k-kūṟṟattu tiruvaṭakuṭi ma<supplied reason="undefined">h</supplied>
+         		<lb n="8" break="no"/>ā <hi rend="grantha">de</hi>vaṟ <hi rend="grantha">stā</hi>ṉa<supplied reason="undefined">maṭa</supplied>m tēvārattukku tiruppa<supplied reason="undefined">tiyam vi</supplied>ṇṇappam ceyum Ampalattāṭi tirunāvukkaraiyaṉukkum Ivaṉ vaṟkkatārkkum tāṉa
+         		<lb n="9"/><supplied reason="undefined">nimi</supplied>ta<hi rend="grantha">dhya</hi>māka kuṭuttōm <supplied reason="undefined">E</supplied>ṉṟum It-tēvar paṇṭarattē maṭapōkamāka nittam tūṇi nel koḷḷa(c!)coṉṉām Eṉṟum Aiyyariṭaiyil I
+         		<lb n="10" break="no"/>vaṉ muṉpu peṟṟuṭaiya tirumukappaṭiyē nāmum kuṭuttōm
+         	</p>
+         	<p>
+         		
+         		palapaṇi nivantakkāṟaraiyum nivantaṅkaḷum Iva<supplied reason="undefined">ṉ</supplied> coṉṉavaṇṇamey ceyyavum It-tēvar ci 
+         		<lb n="11" break="no"/>va-<hi rend="grantha">bra<surplus><supplied reason="undefined">ra</supplied></surplus>āma</hi>ṇar Uḷḷiṭṭa palapaṇi<hi rend="grantha">ya</hi> nivantakkāṟaraiyum nivantaṅkaḷum Ivanē I<hi rend="grantha">ṭa</hi>vum māṟ<supplied reason="undefined">ṟa</supplied>vum peṟuvāṉ ākavum coṉṉōm
+         	</p>
+         	<p>
+         		Ivaṉ Aiyya 
+         		<lb n="12" break="no"/><gap reason="undefined" unit="character" quantity="8"></gap>ka p-paṭiyē <gap quantity="4" unit="character" reason="undefined"></gap>
+         		<lb n="13"/><gap reason="undefined" unit="character" quantity="8"></gap>ṟuvaṉāka coṉ <gap reason="undefined" unit="character" quantity="7"></gap>
+         		<lb n="14"/><gap reason="undefined" unit="character" quantity="8"></gap> Eḻuttu
+         	</p>
+         	<p>	
+         		yāṇṭu <num value="37">3 <g type="numeral">10</g> 7</num>-ḷ 3(100 3)10 1
+         		</p>
+         	<p>	
+         		va<hi rend="grantha">nma</hi><supplied reason="lost">heśvara ra</supplied><hi rend="grantha">kṣai</hi>
+         	</p>	
          </div>
-
+      	
          <!--<div type="apparatus">
             
             <listApp>
@@ -172,25 +187,20 @@
                
             	<bibl n="SII">
             		<ptr target="bib:SubrahmanyaAiyer1937_01"/>
-            		<citedRange unit="page">73-74</citedRange>
-            		<citedRange unit="item">163</citedRange>
+            		<citedRange unit="page">339-340</citedRange>
+            		<citedRange unit="item">675</citedRange>
             	</bibl>
-            	
-            	<bibl n="S">
-            		<ptr target="bib:Srinivasan+Reiniche1990_01"/>
-            		<citedRange unit="page">430-431</citedRange>
-            		<citedRange unit="item">342</citedRange>
-            	</bibl>
+            
                
             </listBibl>           
      
          	<listBibl type="secondary">
          		
          		<bibl>
-         			<ptr target="bib:ARIE1902-1903"/>
-         			<citedRange unit="page">14</citedRange>
-         			<citedRange unit="appendix">A/1902</citedRange>
-         			<citedRange unit="item">572</citedRange>
+         			<ptr target="bib:ARIE1903-1904"/>
+         			<citedRange unit="page">27</citedRange>
+         			<citedRange unit="appendix">A/1903</citedRange>
+         			<citedRange unit="item">365</citedRange>
          		</bibl>	
          		
          	</listBibl>
@@ -201,6 +211,5 @@
   </text>
 </TEI>
 <!--METADATA:
-	Third prakāra, west wall, right of entrance
-	Śāka year 1310 = 1389.
+	On the west and south bases of the central shrine.
 -->
