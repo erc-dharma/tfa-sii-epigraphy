@@ -130,7 +130,7 @@
 	</p>
 	
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">		
-		<hi rend="grantha">svasti śrī</hi> <g type="gomutraFinal">.</g>
+		svasti śrī <g type="gomutraFinal">.</g>
 	</ab>
 		
 </div>
@@ -150,14 +150,14 @@
     	
 <div type="translation" source="bib:Hultzsch1895_01">
 	
-	<p n="1">Hail ! Prosperity ! In the twenty-third year <supplied reason="subaudible">of the reign</supplied> of king Rājakēsarivarman. The writing of us, the assembly of Śivachūḷāmaṇimaṅgalam, <hi rend="italic">alias</hi>Aparā[ji]ta-chaturvēdimaṅgalam, <supplied reason="subaudible">a village</supplied> in Pāgūr-nāḍu, <supplied reason="subaudible">a subdivision</supplied> of Kāliyūr-kōṭṭam.</p>
+	<p n="1">Hail! Prosperity! In the twenty-third year <supplied reason="subaudible">of the reign</supplied> of king Rājakēsarivarman. The writing of us, the assembly of Śivachūḷāmaṇimaṅgalam, <hi rend="italic">alias</hi>Aparā[ji]ta-chaturvēdimaṅgalam, <supplied reason="subaudible">a village</supplied> in Pāgūr-nāḍu, <supplied reason="subaudible">a subdivision</supplied> of Kāliyūr-kōṭṭam.</p>
 	
 	<p n="3"><supplied reason="subaudible">We</supplied> have received two hundred <foreign>kaḻañju</foreign> of gold from Tiruvikrama-Bhaṭṭar,<hi rend="italic">alias</hi> Brahmādhirājar, of Śedi[ṟū]r, <supplied reason="subaudible">one</supplied> among the commissioners <supplied reason="subaudible">gaṇattār</supplied> ruling over Uttaramēru-chaturvēdimaṅgalam, <supplied reason="subaudible">a village</supplied> in its own subdivision <foreign>kūṟu</foreign> of the same <foreign>kōṭṭam</foreign>.</p>
 	<p n="5">From the interest of this gold, twelve Brāhmaṇas who know the Vēda, have tobe fed daily, before the god <supplied reason="subaudible">perumāṉ-aḍigaḷ</supplied> of the Puvanimāṇikka-Vishṇugr̥ham inour village receives offerings at noon-time.</p>
 	<p n="7">We have received these two hundred <foreign>kaḻañcu</foreign>s, in order to supply, as long as the moon and the stars exist, to each of these twelve (Brāhmaṇas), (one) <foreign>āḻākku</foreign> of ghee, five dishes of curry, five <foreign>uḻakku</foreign>s of curds, two areca-nuts, and betel-leaves until they are satisfied,<supplied reason="subaudible">and</supplied> in order to supply everything else to these twelve Brāhmaṇas, to the cooks, and to those who fetch firewood.</p>
 	<p n="9">Those who do not feed <supplied reason="subaudible">them</supplied> thus and cause obstruction, shall incur all the sins committed between the Gaṅgā and Kumari.<note>3:3-8</note></p>
 	<p n="10">If <supplied reason="subaudible">any persons</supplied> hinder this, the sacrifices and charitable deeds <supplied reason="subaudible"><foreign>iṣṭāpūrta</foreign></supplied>which they have performed themselves before, shall devolve on Brahmādhirājaṉ.<note>3:3-9</note></p>
-	<p n="11">Having agreed thus, we, the assembly, engraved <supplied reason="subaudible">this</supplied> on stone. Hail ! Prosperity !<pb n="3:4"/></p>
+	<p n="11">Having agreed thus, we, the assembly, engraved <supplied reason="subaudible">this</supplied> on stone. Hail! Prosperity!</p>
 </div>
 			
 <!--<div type="commentary">
@@ -166,7 +166,8 @@
 			
 <div type="bibliography">
 				
-	<p>Edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>, with English translation and facsimile.</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1892-1893"/></bibl> (ARIE/1892-1893/B/1893/19).</p>
+	<p>Edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>, with English translation and facsimile (SII 3.1).</p>
 	<p>Encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> and published visual documentation.</p>	
 	
 	<listBibl type="primary">
@@ -179,11 +180,16 @@
 		
 	</listBibl>
 	
-	<!--<listBibl type="secondary">
+	<listBibl type="secondary">
+				
+		<bibl>
+			<ptr target="bib:ARIE1892-1893"/>
+			<citedRange unit="page">13</citedRange>
+			<citedRange unit="appendix">B/1893</citedRange>
+			<citedRange unit="item">19</citedRange>			
+		</bibl>		
 		
-		Add ARIE reference if any.
-		
-		</listBibl>-->
+	</listBibl>
 	
 </div>
 </body>
