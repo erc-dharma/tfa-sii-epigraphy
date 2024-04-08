@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ukkal, Perumāḷ temple, time of Rājakesarivarman, year 29</title>
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:emfr">
+                  <forename>Eugen</forename>
+                  <surname>Hultzsch</surname>
+               </persName>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_INSSII0300004</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary>...</summary>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union’s Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:reda" when="2024-04-08">Creation of the file on the repository</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+<body>
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+				
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+		<lb n="1"/><supplied reason="undefined">sva</supplied>sti śrī
+	</ab>
+	
+	<p>
+		[ti]rumakaḷ pol perunilacce[lvi]yun taṉakkē Urimaip<choice><orig>u</orig><reg>ū</reg></choice>ṇṭamai maṉakk[o]ḷkkā[nta]ḷ<choice><orig>u</orig><reg>ū</reg></choice>rccā[lai ka]la[m aṟu]tta[ru]ḷi [v]eṅk[ai]-nāṭum kaṅka-[pā]ṭi[yum] nuḷampa-pāṭiyu[n=ta]ṭi[k]aip[ā]-
+		<lb n="2" break="no"/>ṭiyum kuṭa-malai-nāṭum kollamum kaliṅkamum muraṭṭoḻil ciṅkaḷar īḻa-[ma]ṇṭalamum [i]raṭṭa-[pā]ṭi eḻarai Ilakkamum muṉ[ṉī]rppa[ḻa]n[tīvu] paṉ[ṉī]rāyira[mum tiṇṭi]ṟal ve[ṉ]ṟittaṇṭāṟ
+		<lb n="3" break="no"/>-k koṇṭa taṉṉeḻil vaḷar<choice><orig>u</orig><reg>ū</reg></choice>ḻiyuḷellāy[ā]ṇṭuntoḻutakai viḷaṅkum yāṇṭe ceḻiyarai[tt*]ecu koḷa śrī-kō-rājake<hi rend="grantha">sarivanma</hi>rāṉa śrīrājarāja<hi rend="grantha">de</hi>varkku yāṇ-
+		<lb n="4" break="no"/>ṭu <hi rend="grantha">29</hi>-Āvatu
+	</p>
+	<p>		
+		jayaṅkoṇṭacoḷamaṇṭala[t]tukkāliyūrkkoṭṭattuttaṉiyūrukkalākiya śrī-vikkiramāpa[ra*]ṇaccatu<hi rend="grantha">[r]vve</hi>timaṅkalattu<surplus>ṉ</surplus> melai
+		<lb n="5" break="no"/>-p-peruvaḻiyil śrī-rājarāja<hi rend="grantha">de</hi>var tiru[n]āmattālkkiṇaṟuntoṭṭiyum camaippittāṉ uṭaiyār śrī-rā[ja]rāja<hi rend="grantha">de</hi>var paṇimakaṉ coḷa[ma]ṇṭalattu t[e]ṉkar[ai]nā[ṭ]ṭu nitt(ā)
+		<lb n="6" break="no"/>viṉo[ta]-vaḷanāṭṭu Āvūr-k-kūṟṟattu [ā]vūruṭaiyāṉ kaṇṇaṉār<choice><orig>u</orig><reg>ū</reg></choice>raṉ
+	</p>
+	<p>
+		Ivaṉē śrī-rājarāja-ki[ṇaṟ]ṟil[t]toṭṭikku nīr-<choice><sic>a</sic><corr>ni</corr></choice>ṟai[p]pārkku [a]rumoḻi-tevaṉ-marakkā[l]āl nicatam ne[l] <g type="nellu"/> 2 <g type="kuṟuṇi"/> [Ā]-
+		<lb n="7"/>kattiṅkaḷ 6-kku nel <g type="nellu"/> <num value="30">3 <g type="numeral">10</g></num> <g type="kalam"/>-mum <hi rend="grantha">śrī-rājarāja</hi>[ṉ] taṇṇīraṭṭuvārkku nicata[m] nel <g type="nellu"/> [2 <g type="kuṟuṇi"/>] Āka tiṅkaḷ 6-kku nellu <num value="30">3 <g type="numeral">10</g></num> <g type="kalam"/>-m Ip-pantalukku kucakkalam I[ṭu]
+		<lb n="8" break="no"/>v[ā]rkku tiṅkaḷ 1-kku nellu <hi rend="grantha">vta</hi><!--fraction--> Āka tiṅkaḷ 6-kku nellu [4 <g type="kalam"/>]-mum śrī-rājarājaṉ kiṇaṟ[ṟu]kku[m] t[o]ṭṭik[ku]m c[e]tattukkum Āṭṭāṇṭu toṟu[m] pu[tu]kku-p-puṟam-āka [v]aicca
+		<lb n="9"/>nellu 2 <g type="kalam"/> vta<!--fraction--> Āka <g type="nellu"/> <num value="66">6 10 6</num> [<g type="kalam"/>] vta<!--fraction-->
+	</p>
+	<p>		
+		I[n*]-nellukku Ivaṉ pakkal [Ivv-ū]r <hi rend="grantha">sa[bh]ai</hi>[yōm I]ṟ[ai-<hi rend="grantha">dra</hi>]<hi rend="grantha">vya</hi>[mu]m <hi rend="grantha">[kraya-dra]vya</hi>[mu]m koṇṭu Iṟai Iḻiycci <gap reason="lost" quantity="9" unit="character"/></p>
+	
+</div>
+			
+<!--<div type="apparatus">
+				
+	<listApp>
+		
+		<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:Hultzsch1899_01">...</rdg>
+		</app>	
+		
+	</listApp>    			
+	
+</div>-->
+    	
+<div type="translation" source="bib:Hultzsch1895_01">
+	
+	<p n="1">Hail! Prosperity! In the 29th year <supplied reason="subaudible">of the reign</supplied> of the glorious king Rājakēsarivarman, <hi rend="italic">alias</hi> Śrī-Rājarājadēva, who, in his life of growing strength, during which,——<supplied reason="subaudible">in</supplied> the belief that, as well as the goddess of fortune, the goddess of the great earth had become his wife,——he was pleased to destroy the ships <supplied reason="subaudible">at</supplied> Kāndaḷūr Śālai, and conquered by <supplied reason="subaudible">his</supplied> army, which was victorious in great battles, Vēṅgai-nāḍu, Gaṅga-pāḍi, Nuḷamba-pāḍi, Taḍigai-pāḍi, Kuḍamalai-nāḍu, Kollam, Kaliṅgam, Īḻa-maṇḍalam, <supplied reason="subaudible">which was the country</supplied> of the warlike<note>3: 7-12</note> Śiṅgaḷas, the seven and a half <foreign>lakṣa</foreign>s of Iraṭṭa-pāḍi, and twelve thousand ancient islands of the sea,——deprived the Śeḻiyas of <supplied reason="subaudible">their</supplied> splendour at the very moment when Udagai,<note>3: 8-1</note> which is worshipped everywhere, was <supplied reason="subaudible">most</supplied> resplendent;——Kaṇṇaṉ Ārūraṉ, a native of Āvūr, <supplied reason="subaudible">a village</supplied> in Āvūr-kūṟṟam, <supplied reason="subaudible">a subdivision</supplied> of Nittaviṉōda-vaḷanāḍu, <supplied reason="subaudible">a district</supplied> of the country on the southern bank <supplied reason="subaudible">of the Kāvērī</supplied> in Śōḷa-maṇḍalam, <supplied reason="subaudible">and</supplied> a servant <supplied reason="explanation">paṇimagaṉ</supplied> of the lord Śrī-Rājarājadēva, caused to be constructed, in the royal name of Śrī-Rājarājadēva, a well <supplied reason="explanation">kiṇaṟu</supplied> and a cistern <supplied reason="explanation">toṭṭi</supplied> on the high-road to the west of Ukkal, <hi rend="italic">alias</hi>Śrī-Vikramābharaṇa-chaturvēdimaṅgalam, a village forming its own subdivision<note>3: 8-2</note> of Kāliyūr-kōṭṭam, <supplied reason="subaudible">a district</supplied> of Jayaṅkoṇḍa-Śōḷa-maṇḍalam.</p>
+	
+	<p n="6">The same person assigned to those who draw water for the cistern from the wellof Śrī-Rājarāja, 2 <foreign>kuṟuṇi</foreign>s of paddy per day, <supplied reason="subaudible">measured</supplied> by the <foreign>marakkāl</foreign> (called after) Arumoḻidēvaṉ,<ref t="3:8-3"/> <hi rend="italic">i.e.</hi> 30 <foreign>kalam</foreign>s of paddy for 6 months; to those who distribute water <supplied reason="subaudible">in the name of</supplied> Śrī-Rājarāja, 2 <foreign>kuṟuṇi</foreign>s of paddy per day, <hi rend="italic">i.e</hi>. 30 <foreign>kalam</foreign>s for 6  months; to those who supply earthen pots for this water-shed <supplied reason="eplanation">pantal</supplied>, 2 <foreign>tūṇi</foreign>s of paddy per month, <hi rend="italic">i.e.</hi> 4 <foreign>kalam</foreign>s of paddy for 6 months; and for the repair of cracks in the well of Śrī-Rājarāja and in the cistern, 2 <foreign>kalam</foreign>s and 2 <foreign>tūṇi</foreign>s of paddy per year; altogether, 66 <foreign>kalam</foreign>s and 2<foreign>tūṇi</foreign>s of paddy.</p>
+	
+	<p n="9">In order to <supplied reason="subaudible">supply</supplied> this paddy, we, the assembly of this village, having received from him the revenue and the purchase-money, having exempted <supplied reason="subaudible">the land granted</supplied> from taxes <gap reason="lost" quantity="9" unit="character"/></p>
+</div>
+			
+<!--<div type="commentary">
+				
+</div>-->
+			
+<div type="bibliography">
+				
+	<p>Reported in <bibl><ptr target="bib:ARIE1892-1893"/></bibl> (ARIE/1892-1893/B/1893/22).</p>
+	<p>Edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>, with English translation and facsimile (SII 3.4).</p>
+	<p>Encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> and published visual documentation.</p>	
+	
+	<listBibl type="primary">
+		
+		<bibl n="SII ">
+			<ptr target="bib:Hultzsch1899_01"/>
+			<citedRange unit="page">6-8</citedRange>
+			<citedRange unit="item">4</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+	<listBibl type="secondary">
+				
+		<bibl>
+			<ptr target="bib:ARIE1892-1893"/>
+			<citedRange unit="page">13</citedRange>
+			<citedRange unit="appendix">B/1893</citedRange>
+			<citedRange unit="item">21</citedRange>			
+		</bibl>		
+		
+	</listBibl>
+	
+</div>
+</body>
+</text>
+</TEI>
