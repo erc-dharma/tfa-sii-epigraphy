@@ -79,69 +79,64 @@
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
-		<body>
+<body>
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+				
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+		<lb n="1"/>svasti śrī <g type="gomutraFinal">.</g>
+	</ab>
+	
+	<p>
+		ti<supplied reason="undefined">ruma</supplied>ṇṭapam iḻicci y-<supplied reason="undefined">eṭu</supplied>ppa
+		<lb n="2" break="no"/>taṟku muṉ puḷḷa cilā-lekai-p paṭi 
+		<lb n="3"/>kōvi<hi rend="grantha">ja</hi>yanan=ti vikkiramapa<hi rend="grantha">nma</hi>r<supplied reason="undefined">k</supplied>ku yā<supplied reason="undefined">ṇ</supplied>ṭu 17
+		<lb n="4"/>Āvatu paṭu<supplied reason="undefined">vūr</supplied>-k koṭṭattumīyāṟunāṭṭu-t tikk<supplied reason="undefined">ā</supplied>
+		<lb n="5" break="no"/>livallamu<supplied reason="undefined">ṭai</supplied>ya <hi rend="grantha">parameśvarar</hi>k=ku
+		<lb n="6"/>I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ā<supplied reason="undefined">ṭṭu</supplied> <hi rend="grantha">ja</hi>m<supplied reason="undefined">pū</supplied>ṇiyum vi
+		<lb n="7" break="no"/>ḷattūrum It-tēvar tē<supplied reason="undefined">va</supplied>
+		<lb n="8"/>tā<supplied reason="undefined">ṉa</supplied>m Ama<supplied reason="undefined">ru</supplied>ṉṟimaṅka<supplied reason="undefined">lamu</supplied>
+		<lb n="9" break="no"/>m viṭelviṭukuvi-k kiramā
+		<lb n="10" break="no"/>titta-c catūrvvetimaṅ
+		<lb n="11" break="no"/>kalam eṉṉum perā
+		<lb n="12" break="no"/>l Ekkakirāmamāka māvali
+		<lb n="13" break="no"/>vāṇarāyaṉā<supplied reason="undefined">ṉa</supplied> vik<supplied reason="undefined">ki</supplied>ramā<supplied reason="undefined">tit</supplied>ta
+		<lb n="14" break="no"/>vāṇarāyaṉ viṇṇappa-t tālu
+		<lb n="15" break="no"/>m kāṭupaṭṭi-t tamiḻ ap-<supplied reason="undefined">p</supplied>era<supplied reason="lost">ra</supplied><supplied reason="undefined">ya</supplied>ṉ
+		<lb n="16"/>Āṇattiyālum  Ekakkirāmam ākki <supplied reason="undefined">I</supplied>v<supplied reason="undefined">va</supplied>
+		<lb n="17" break="no"/>maruṉ ṟimaṅkalamuṉṉi-t tī<supplied reason="omitted">k</supplied>karalivalla
+		<lb n="18" break="no"/>m uṭaiya <hi rend="grantha">parameśva</hi>rarkku Iṟuttu va
+		<lb n="19" break="no"/><supplied reason="undefined">ru</supplied>kiṉṟa <g type="nellu"/> Iraṇṭāyira-k kāṭiyum
+		<lb n="20"/><gap quantity="3" unit="character" reason="illegible"/>ṉirupatiṉ kaḻañcum iv-vi
+		<lb n="21" break="no"/>ṭelviṭuku vikkiramātittaccat<choice><sic>i</sic><corr>ū</corr></choice>r
+		<lb n="22" break="no"/>v- vetimaṅkalattu-c cavaiyār
+		<lb n="23"/>Iṟuppār ākavum iṉ-ṉellil-t <supplied reason="undefined">ti</supplied>
+		<lb n="24" break="no"/>ruvamirtukku nellu Aṟunūṟṟu
+		<lb n="25" break="no"/>-k kāṭiyum tiruvuṇṇāḻikai y-uḷḷārā
+		<lb n="26" break="no"/>ti<supplied reason="undefined">t</supplied>tu-p pācarikkum <hi rend="grantha"><supplied reason="undefined">śiva</supplied>brāhma</hi>ṇa
+		<lb n="27" break="no"/>rkku nellu Aiñ
+		<lb n="28" break="no"/>ñūṟṟu-k kāṭiyum <hi rend="grantha">śrī</hi>pa
+		<lb n="29" break="no"/>li koṭṭuvārk=ku nellu
+		<lb n="30"/>Aiññūṟṟu kā<supplied reason="undefined">ṭiyu</supplied>m
+		<lb n="31"/>tiruppaḷḷi-t-tāmam
+		<lb n="32"/>paṟippārkkum tirup
+		<lb n="33" break="no"/>patiyam pāṭuvār uḷḷi
+		<lb n="34" break="no"/>ṭṭa palapaṇi ceyvār
+		<lb n="35" break="no"/>kku nellu nānūṟṟu
+		<lb n="36"/>-k kāṭiyum tiru<choice><sic>k</sic><corr>n</corr></choice>o<supplied reason="undefined">n=t</supplied>ā
+		<lb n="37"/>viḷakkukkum tirumēyppūccuk<hi rend="grantha">kum</hi>
+		<lb n="38"/>citārik<supplied reason="undefined">ku</supplied> maṟṟum <hi rend="grantha">khaṇḍaspu<choice><orig>ḍ</orig><reg>ṭ</reg></choice>i</hi>tana<supplied reason="undefined">va</supplied>ka
+		<lb n="39"/><hi rend="grantha">nm<supplied reason="undefined">ā</supplied></hi>tikaḷuk=kum <surplus>m</surplus>āka-p p<supplied reason="undefined">o</supplied>ṉ Irupati <!--@reda: goes in the apparatus-->
+		<lb n="40"/>ṉ kaḻañcum Āka I<choice><orig>ṉ</orig><reg>n</reg></choice><supplied reason="undefined"><choice><orig>ṉ</orig><reg>n</reg></choice></supplied>ellum
+		<lb n="41"/>Ip-poṉṉu<supplied reason="undefined">m</supplied> It-tēvaṟk=ku
+		<lb n="42"/>can=t<hi rend="grantha">rā</hi>tittaval-l iṟuppārkaḷ ā
+		<lb n="43"/>kavum Ip-paricu nivan=tam āka
+		<lb n="44"/>c- ceytu kuṭuttō<supplied reason="undefined">m</supplied>
+		<lb n="45"/>I<hi rend="grantha"><choice><sic>dhd</sic><corr>ddh</corr></choice>amam</hi> <hi rend="grantha">panmāhe</hi>
+		<lb n="46"/><hi rend="grantha"><supplied reason="undefined">śva</supplied>ra-rakṣai</hi> <g type="gomutraFinal">.</g>{pc}	</p> 
+</div>
 			
-			
-			<div type="edition" xml:lang="tam-Latn">
-				
-				<ab>
-					<lb n="1"/><hi rend="grantha">svasti śrī</hi>
-				</ab>
-				
-				<p>
-					ti<supplied reason="undefined">ruma</supplied>ṇṭapam iḻicci y-<supplied reason="undefined">eṭu</supplied>ppa
-					<lb n="2" break="no"/>taṟku muṉ puḷḷa cilā-lekai-p paṭi 
-					<lb n="3"/>kōvi<hi rend="grantha">ja</hi>yanan=ti vikkiramapa<hi rend="grantha">nma</hi>r<supplied reason="undefined">k</supplied>ku yā<supplied reason="undefined">ṇ</supplied>ṭu 17
-					<lb n="4"/>Āvatu paṭu<supplied reason="undefined">vūr</supplied>-k koṭṭattumīyāṟunāṭṭu-t tikk<supplied reason="undefined">ā</supplied>
-					<lb n="5" break="no"/>livallamu<supplied reason="undefined">ṭai</supplied>ya <hi rend="grantha">parameśvarar</hi>k=ku
-					<lb n="6"/>I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ā<supplied reason="undefined">ṭṭu</supplied> <hi rend="grantha">ja</hi>m<supplied reason="undefined">pū</supplied>ṇiyum vi
-					<lb n="7" break="no"/>ḷattūrum It-tēvar tē<supplied reason="undefined">va</supplied>
-					<lb n="8"/>tā<supplied reason="undefined">ṉa</supplied>m Ama<supplied reason="undefined">ru</supplied>ṉṟimaṅka<supplied reason="undefined">lamu</supplied>
-					<lb n="9" break="no"/>m viṭelviṭukuvi-k kiramā
-					<lb n="10" break="no"/>titta-c catūrvvetimaṅ
-					<lb n="11" break="no"/>kalam eṉṉum perā
-					<lb n="12" break="no"/>l Ekkakirāmamāka māvali
-					<lb n="13" break="no"/>vāṇarāyaṉā<supplied reason="undefined">ṉa</supplied> vik<supplied reason="undefined">ki</supplied>ramā<supplied reason="undefined">tit</supplied>ta
-					<lb n="14" break="no"/>vāṇarāyaṉ viṇṇappa-t tālu
-					<lb n="15" break="no"/>m kāṭupaṭṭi-t tamiḻ ap-<supplied reason="undefined">p</supplied>era<supplied reason="lost">ra</supplied><supplied reason="undefined">ya</supplied>ṉ
-					<lb n="16"/>Āṇattiyālum  Ekakkirāmam ākki <supplied reason="undefined">I</supplied>v<supplied reason="undefined">va</supplied>
-					<lb n="17" break="no"/>maruṉ ṟimaṅkalamuṉṉi-t tī<supplied reason="omitted">k</supplied>karalivalla
-					<lb n="18" break="no"/>m uṭaiya <hi rend="grantha">parameśva</hi>rarkku Iṟuttu va
-					<lb n="19" break="no"/><supplied reason="undefined">ru</supplied>kiṉṟa <g type="nellu"/> Iraṇṭāyira-k kāṭiyum
-					<lb n="20"/><gap quantity="3" unit="character" reason="illegible"/>ṉirupatiṉ kaḻañcum iv-vi
-					<lb n="21" break="no"/>ṭelviṭuku vikkiramātittaccat<choice><sic>i</sic><corr>ū</corr></choice>r
-					<lb n="22" break="no"/>v- vetimaṅkalattu-c cavaiyār
-					<lb n="23"/>Iṟuppār ākavum iṉ-ṉellil-t <supplied reason="undefined">ti</supplied>
-					<lb n="24" break="no"/>ruvamirtukku nellu Aṟunūṟṟu
-					<lb n="25" break="no"/>-k kāṭiyum tiruvuṇṇāḻikai y-uḷḷārā
-					<lb n="26" break="no"/>ti<supplied reason="undefined">t</supplied>tu-p pācarikkum <hi rend="grantha"><supplied reason="undefined">śiva</supplied>brāhma</hi>ṇa
-					<lb n="27" break="no"/>rkku nellu Aiñ
-					<lb n="28" break="no"/>ñūṟṟu-k kāṭiyum <hi rend="grantha">śrī</hi>pa
-					<lb n="29" break="no"/>li koṭṭuvārk=ku nellu
-					<lb n="30"/>Aiññūṟṟu kā<supplied reason="undefined">ṭiyu</supplied>m
-					<lb n="31"/>tiruppaḷḷi-t-tāmam
-					<lb n="32"/>paṟippārkkum tirup
-					<lb n="33" break="no"/>patiyam pāṭuvār uḷḷi
-					<lb n="34" break="no"/>ṭṭa palapaṇi ceyvār
-					<lb n="35" break="no"/>kku nellu nānūṟṟu
-					<lb n="36"/>-k kāṭiyum tiru<choice><sic>k</sic><corr>n</corr></choice>o<supplied reason="undefined">n=t</supplied>ā
-					<lb n="37"/>viḷakkukkum tirumēyppūccuk<hi rend="grantha">kum</hi>
-					<lb n="38"/>citārik<supplied reason="undefined">ku</supplied> maṟṟum <hi rend="grantha">khaṇḍaspu<choice><orig>ḍ</orig><reg>ṭ</reg></choice>i</hi>tana<supplied reason="undefined">va</supplied>ka
-					<lb n="39"/><hi rend="grantha">nm<supplied reason="undefined">ā</supplied></hi>tikaḷuk=kum <surplus>m</surplus>āka-p p<supplied reason="undefined">o</supplied>ṉ Irupati <!--@reda: goes in the apparatus-->
-					<lb n="40"/>ṉ kaḻañcum Āka I<choice><orig>ṉ</orig><reg>n</reg></choice><supplied reason="undefined"><choice><orig>ṉ</orig><reg>n</reg></choice></supplied>ellum
-					<lb n="41"/>Ip-poṉṉu<supplied reason="undefined">m</supplied> It-tēvaṟk=ku
-					<lb n="42"/>can=t<hi rend="grantha">rā</hi>tittaval-l iṟuppārkaḷ ā
-					<lb n="43"/>kavum Ip-paricu nivan=tam āka
-					<lb n="44"/>c- ceytu kuṭuttō<supplied reason="undefined">m</supplied>
-					<lb n="45"/>I<hi rend="grantha"><choice><sic>dhd</sic><corr>ddh</corr></choice>amam</hi> <hi rend="grantha">panmāhe</hi>
-					<lb n="46"/><hi rend="grantha"><supplied reason="undefined">śva</supplied>ra-rakṣai</hi> <g type="gomutraFinal">.</g>{pc}
-				</p> 
-				
-				
-				
-			</div>
-			
-			<!--<div type="apparatus">
+<!--<div type="apparatus">
 				
 				<listApp>
     			
@@ -160,7 +155,7 @@
     	
 </div>-->
     	
-<div type="translation" source="bib:Hultzsch1895_01">
+<div type="translation" source="bib:Hultzsch1899_01">
 	
 	<p n="1-2">
 		Hail! Prosperity! <supplied reason="subaudible">The following is</supplied> a copy of a stone inscription which existed before the <foreign>maṇḍapa</foreign> of the temple had been pulled down and re-erected.
@@ -198,35 +193,34 @@
 		This charity <supplied reason="subaudible">is placed under</supplied> the protection of all <foreign>Māheśvaras</foreign>. 
 	</p>
 </div>
+	
+<!--<div type="commentary">
+				
+</div>-->
 			
-			<!--<div type="commentary">
+<div type="bibliography">
 				
-				
-				</div>-->
-			
-			<div type="bibliography">
-				
-				<p>
-					First edited in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> with English translation; encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2024), based on <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl>.
-				</p>	
-				
-				<listBibl type="primary">
-					
-					<bibl n="SII 3.43">
-						<ptr target="bib:KrishnaSastri1920_01"/>
-						<citedRange unit="page">92-94</citedRange>
-						<citedRange unit="item">43</citedRange>
-					</bibl>
-					
-				</listBibl>
-				
-				<!--<listBibl type="secondary">
-					
-					Add ARIE reference if any.
-					
-					</listBibl>-->
-				
-			</div>
-		</body>
+	<p>
+		First edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> with English translation (SII 3.43); encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2024), based on <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>.
+	</p>	
+	
+	<listBibl type="primary">
+		
+		<bibl n="SII ">
+			<ptr target="bib:Hultzsch1899_01"/>
+			<citedRange unit="page">92-94</citedRange>
+			<citedRange unit="item">43</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+	<!--<listBibl type="secondary">
+		
+		Add ARIE reference if any.
+		
+		</listBibl>-->
+	
+</div>
+</body>
 	</text>
 </TEI>

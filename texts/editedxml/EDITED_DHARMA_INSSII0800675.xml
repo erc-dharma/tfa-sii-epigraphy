@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Allūr, Pañcanadeśvara temple, time of Rājādhirāja, year 27</title>
+            <title>Allūr, Pañcanadeśvara temple, time of Rājādhirāja I, year 27</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:reda">
@@ -91,7 +91,7 @@
          <div type="edition" xml:lang="tam-Latn">
          	
          	<ab>
-         		<lb n="1"/><hi rend="grantha">svasti</hi>
+         		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
          	</ab>
          	<lg n="1" met="āciriyappā">
          		<l n="1">tiṅka<supplied reason="undefined">ḷēr taru taṉ</supplied>toṅkal veṇ kuṭaikk<choice><sic>i</sic><corr>ī</corr></choice><supplied reason="undefined">ḻ</supplied></l>
@@ -124,19 +124,18 @@
          	k-kōvirā<hi rend="grantha">ja</hi> kēcari-pa<hi rend="grantha">ṉma</hi>rāṉa Uṭaiyār śrī<supplied reason="undefined"><surplus>r</surplus>i</supplied><hi rend="grantha">rāj<supplied reason="undefined">ā</supplied>dhi</hi>rāja<lb n="7" break="no"/><hi rend="grantha">deva</hi>ṟk’ iyāṇṭu <supplied reason="undefined"><num value="20">2 <g type="numeral">10</g></num></supplied> 7<supplied reason="undefined">Ā</supplied>vatu	  
          	</p>
          	<p>
-         		koṉerimaikoṇṇtāṉ nantamar Eppe<surplus><supplied reason="undefined">r</supplied></surplus>ṟpaṭṭāṟkum kēraḷāntaka-vaḷanāṭṭu Uṟaiyūr k-kūṟṟattu tiruvaṭakuṭi ma<supplied reason="undefined">h</supplied>
+         		koṉerimaikoṇtāṉ nantamar Eppe<surplus><supplied reason="undefined">r</supplied></surplus>ṟpaṭṭāṟkum kēraḷāntaka-vaḷanāṭṭu Uṟaiyūr k-kūṟṟattu tiruvaṭakuṭi ma<supplied reason="undefined">h</supplied><!--@emfr:here an example of how to split aksara-->
          		<lb n="8" break="no"/>ā <hi rend="grantha">de</hi>vaṟ <hi rend="grantha">stā</hi>ṉa<supplied reason="undefined">maṭa</supplied>m tēvārattukku tiruppa<supplied reason="undefined">tiyam vi</supplied>ṇṇappam ceyum Ampalattāṭi tirunāvukkaraiyaṉukkum Ivaṉ vaṟkkatārkkum tāṉa
-         		<lb n="9"/><supplied reason="undefined">nimi</supplied>ta<hi rend="grantha">dhya</hi>māka kuṭuttōm <supplied reason="undefined">E</supplied>ṉṟum It-tēvar paṇṭarattē maṭapōkamāka nittam tūṇi nel koḷḷa(c!)coṉṉām Eṉṟum Aiyyariṭaiyil I
+         		<lb n="9"/><supplied reason="undefined">nimi</supplied>t<hi rend="grantha">tya</hi>māka kuṭuttōm <supplied reason="undefined">E</supplied>ṉṟum It-tēvar paṇṭarattē maṭapōkamāka nittam tūṇi nel koḷḷa(c!)coṉṉām Eṉṟum Aiyyariṭaiyil I
          		<lb n="10" break="no"/>vaṉ muṉpu peṟṟuṭaiya tirumukappaṭiyē nāmum kuṭuttōm
          	</p>
          	<p>
-         		
-         		palapaṇi nivantakkāṟaraiyum nivantaṅkaḷum Iva<supplied reason="undefined">ṉ</supplied> coṉṉavaṇṇamey ceyyavum It-tēvar ci 
+         		palapaṇi nivantakkāṟaraiyum nivantaṅkaḷum Iva<supplied reason="undefined">ṉ</supplied> coṉṉavaṇṇamē-y ceyyavum It-tēvar ci
          		<lb n="11" break="no"/>va-<hi rend="grantha">bra<surplus><supplied reason="undefined">ra</supplied></surplus>āma</hi>ṇar Uḷḷiṭṭa palapaṇi<hi rend="grantha">ya</hi> nivantakkāṟaraiyum nivantaṅkaḷum Ivanē I<hi rend="grantha">ṭa</hi>vum māṟ<supplied reason="undefined">ṟa</supplied>vum peṟuvāṉ ākavum coṉṉōm
          	</p>
          	<p>
          		Ivaṉ Aiyya 
-         		<lb n="12" break="no"/><gap reason="undefined" unit="character" quantity="8"/>ka p-paṭiyē <gap quantity="4" unit="character" reason="undefined"/>
+         		<lb n="12" break="no"/><gap reason="undefined" unit="character" quantity="5"/><supplied reason="lost">tirumu</supplied>ka p-paṭiyē <gap quantity="4" unit="character" reason="undefined"/>
          		<lb n="13"/><gap reason="undefined" unit="character" quantity="8"/>ṟuvaṉāka coṉ <gap reason="undefined" unit="character" quantity="7"/>
          		<lb n="14"/><gap reason="undefined" unit="character" quantity="8"/> Eḻuttu
          	</p>
@@ -148,29 +147,52 @@
          	</p>	
          </div>
       	
-         <!--<div type="apparatus">
+      <!--   <div type="apparatus">
             
             <listApp>
                
                <app loc="1">
                	<lem>kumārar</lem>
-               	<rdg source="bib:Srinivasan+Reiniche1990_01"/>
-               	<rdg source="bib:SubrahmanyaAiyer1937_01">kumārā</rdg>
+               	<rdg source="bib:SubrahmanyaAiyer1937_01"/>
+           
                </app>
                               
             </listApp>
         
-         </div>
-
-         <div type="translation" source="bib:Srinivasan+Reiniche1990_01">
-         	<p n="1-5">
-         		
-         		</p>
-         	
-
-         	
          </div>-->
-
+      	
+      	<div type="translation" resp="part:reda part:emfr">
+      		<p n="1">
+      			Prosperity! Fortune!
+      		</p>
+      		
+      		<p n="1-6">
+      			Meykkīrtti of king Rājādhirāja I...
+      		</p>
+      		
+      		<p n="6-7">
+      			This is the year 27 of the glorious Lord Rājādhirāja, alias king Rāja-kēcari-paṉma.      		
+      		</p>
+      		
+      		<p n="7-10">
+      			We have given, as per the royal command (<foreign>tirumukappaṭi</foreign>), which previously had him, along with [other] respected men/brahmins, as the recipient (<foreign>peṟṟuṭaiya</foreign>) [of this endowment], which said:
+      			<list>
+      				<item>“As provisions (<foreign>tāṉa</foreign>) for rituals (<foreign>nimittya</foreign>), we have given, for [the benefit] of all our people, Ampalattāṭi Tirunāvukkaraiyaṉ and his lineage, reciters the holy hymns (<foreign>tiruppatiyam viṇṇappam ceyum</foreign>) at the <foreign>tēvāram</foreign> of the monastery of the temple [dedicated to] Mahādevar in Tiruvaṭakuṭi within the Uraiyūr-kūṟṟam in Kēraḷāntaka-vaḷa-ṇāṭu [that belongs to] Kōnerimaikoṇṭāṉ”;</item>
+      				<item>saying also “I commanded (<foreign>coṉṉām</foreign>) to take (<foreign>koḷḷa</foreign>) one tūṇi of paddy daily for the maintenance (<foreign>pōkam-āka</foreign>) of the monastery (<foreign>maṭam</foreign>) from the treasury of this god.</item>
+      			</list>
+      		</p>
+      		
+      		<p n="10-11">
+      			We said “He, the recipient, shall
+      			<list>
+      				<item>give the endowment (<foreign>nivantaṅkaḷ ceyyavum</foreign>) to the temple servants, who perform various services, at the aforementioned rate (<foreign>coṉṉa-vaṇṇamē</foreign>),</item>
+      				<item>rotate (<foreign>māṟṟavum</foreign>) and appoint (<foreign>iṭavum</foreign>) the endowments and the temple servants who perform different services, including the śaiva brahmins of this god.”</item>
+      			</list>
+      			
+      		</p>
+      		
+      	</div>
+      	
         <!-- <div type="commentary">
          	<p n="20">
          	</p>
@@ -180,7 +202,7 @@
          	</p>
          </div>-->
 
-         <div type="bibliography">
+         <!--<div type="bibliography">
 
             <p>
                Encoded and re-edited here for DHARMA (ERC n° 809994) by Renato Dávalos, based on previous edition; translated by Renato Dávalos and and Emmanuel Francis (2024).
@@ -208,7 +230,7 @@
          		
          	</listBibl>
          	
-         </div>
+         </div>-->
 
       </body>
   </text>
