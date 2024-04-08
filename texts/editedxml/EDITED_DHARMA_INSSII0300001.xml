@@ -93,12 +93,16 @@
 <body>
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
-				
+		
+<!--
+		Check from estampage
+		Check VG photos if any
+-->
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
 		<lb n="1"/>svasti śrī <g type="gomutraFinal">.</g>
 	</ab>
 	<p>
-		 kō-<hi rend="grantha">rāja</hi>ke<hi rend="grantha">sa-riva<supplied reason="undefined">r</supplied>mma</hi>ṟku yāṇṭu Irupattu muṉṟ-āvatu
+		 kō-<hi rend="grantha">rāja</hi>ke<hi rend="grantha">sa-riva<supplied reason="undefined">r</supplied>mma</hi>ṟku yāṇṭu Irupattu m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟ-āvatu
 	</p>
 	<p>
 		kāliyūr-k-kōṭṭattu-p pākū
@@ -111,7 +115,7 @@
 		<lb n="5" break="no"/>ṟu-k kaḻañcu
 	</p>
 	<p>
-		Ip-poṉṉiṉ <hi rend="grantha">pra<supplied reason="undefined">ddha</supplied></hi>yālu<supplied reason="undefined">mē</supplied><!--SII note--> Emm<choice><orig>u</orig><reg>ū</reg></choice>r-p puvani-māṇikka-vi<hi rend="grantha">ṣṇu-gr̥ha</hi>ttu perumāṉ-aṭika
+		Ip-poṉṉiṉ <choice><orig><hi rend="grantha">pra<supplied reason="undefined">ddha</supplied></hi></orig><reg>vṛddhi</reg></choice>yālu<supplied reason="undefined">mē</supplied><!--SII note--> Emm<choice><orig>u</orig><reg>ū</reg></choice>r-p puvani-māṇikka-vi<hi rend="grantha">ṣṇu-gr̥ha</hi>ttu perumāṉ-aṭika
 		<lb n="6" break="no"/>ḷ Uccam p<supplied reason="undefined">o</supplied>ḻ<supplied reason="undefined">tu</supplied> tiru-v-amirtu ceyvataṉ mu<supplied reason="undefined">ṉ</supplied>ṉam nicati paṉṉiruvar <hi rend="grantha">brāhma</hi>ṇar ve<hi rend="grantha">da</hi>m vallār Uṇpa<supplied reason="undefined">t’ ā</supplied>
 		<lb n="7" break="no"/>kavum
 	</p>
@@ -154,8 +158,8 @@
     	
 <div type="translation" source="bib:Hultzsch1895_01">
 	
-	<p n="1">Hail! Prosperity! In the twenty-third year <supplied reason="subaudible">of the reign</supplied> of king Rājakesarivarman. The writing of us, the assembly of Śivacūḷāmaṇimaṅkalam, <hi rend="italic">alias</hi>Aparā<supplied reason="undefined">ji</supplied>ta-caturvedimaṅkalam, <supplied reason="subaudible">a village</supplied> in Pākūr-nāṭu, <supplied reason="subaudible">a subdivision</supplied> of Kāliyūr-kōṭṭam.</p>	
-	<p n="3"><supplied reason="subaudible">We</supplied> have received two hundred <foreign>kaḻañcu</foreign>s of gold from Tiruvikrama-Bhaṭṭar,<hi rend="italic">alias</hi> Brahmādhirājar, of Ceti<supplied reason="undefined">ṟū</supplied>r, <supplied reason="subaudible">one</supplied> among the commissioners <supplied reason="explanation"><foreign>kaṇattār</foreign></supplied> ruling over Uttaramēru-caturvedimaṅkalam,<note>This is the modern Uttaraṉmērūr in the Madurāntakam tāluka of the Chingleput district.</note> <supplied reason="subaudible">a village</supplied> in its own subdivision <supplied reason="explanation"><foreign>kūṟu</foreign></supplied><note>This expression implies that the village by itself formed an independent subdivision of a district (<foreign>kōṭṭam</foreign>), just as Tiruvottūr in Vol. I. No. 85 (where <foreign>taṉ kūṟṟu</foreign> must be read instead of <foreign>taṉakūṟṟu</foreign>), and as Tirukkaḻukkuṉṟam in <hi rend="italic">Ep. Ind</hi>. Vol. III. p. 279. The technical designation of such a village was <foreign>taṉiyūr</foreign>, for which see the Index to Vol. II. of the present work.</note> of the same <foreign>kōṭṭam</foreign>.</p>
+	<p n="1">Hail! Prosperity! In the twenty-third year <supplied reason="subaudible">of the reign</supplied> of king Rājakesarivarman. The writing of us, the assembly of Śivacūḷāmaṇimaṅgala, <hi rend="italic">alias</hi>Aparā<supplied reason="undefined">ji</supplied>ta-caturvedimaṅgala, <supplied reason="subaudible">a village</supplied> in Pākūr-nāṭu, <supplied reason="subaudible">a subdivision</supplied> of Kāliyūr-kōṭṭam.</p>	
+	<p n="3"><supplied reason="subaudible">We</supplied> have received two hundred <foreign>kaḻañcu</foreign>s of gold from Tiruvikrama-Bhaṭṭar,<hi rend="italic">alias</hi> Brahmādhirājar, of Ceti<supplied reason="undefined">ṟū</supplied>r, <supplied reason="subaudible">one</supplied> among the commissioners <supplied reason="explanation"><foreign>kaṇattār</foreign></supplied> ruling over Uttaramēru-caturvedimaṅgala,<note>This is the modern Uttaraṉmērūr in the Madurāntakam tāluka of the Chingleput district.</note> <supplied reason="subaudible">a village</supplied> in its own subdivision <supplied reason="explanation"><foreign>kūṟu</foreign></supplied><note>This expression implies that the village by itself formed an independent subdivision of a district (<foreign>kōṭṭam</foreign>), just as Tiruvottūr in Vol. I. No. 85 (where <foreign>taṉ kūṟṟu</foreign> must be read instead of <foreign>taṉakūṟṟu</foreign>), and as Tirukkaḻukkuṉṟam in <hi rend="italic">Ep. Ind</hi>. Vol. III. p. 279. The technical designation of such a village was <foreign>taṉiyūr</foreign>, for which see the Index to Vol. II. of the present work.</note> of the same <foreign>kōṭṭam</foreign>.</p>
 	<p n="5">From the interest of this gold, twelve Brāhmaṇas who know the Veda, have to be fed daily, before the god <supplied reason="subaudible">perumāṉ-aṭikaḷ</supplied> of the Puvanimāṇikka-Viṣṇugr̥ham in our village receives offerings at noon-time.</p>
 	<p n="7">We have received these two hundred <foreign>kaḻañcu</foreign>s, in order to supply, as long as the moon and the stars exist, to each of these twelve <supplied reason="subaudible">Brāhmaṇas</supplied>, <supplied reason="subaudible">one</supplied> <foreign>āḻākku</foreign> of ghee, five dishes of curry, five <foreign>uḻakku</foreign>s of curds, two areca-nuts, and betel-leaves until they are satisfied, <supplied reason="subaudible">and</supplied> in order to supply everything else to these twelve Brāhmaṇas, to the cooks, and to those who fetch firewood.</p>
 	<p n="9">Those who do not feed <supplied reason="subaudible">them</supplied> thus and cause obstruction, shall incur all the sins committed between the Gaṅgā and Kumari.<note>Compare <hi rend="italic">Ep. Ind.</hi> Vol. IV. p. 140, note 3.</note></p>
