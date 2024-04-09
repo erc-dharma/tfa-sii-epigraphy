@@ -8,8 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Ukkal, Perumāḷ temple, time of Kaṇṇaradeva, year 16<supplied reason="undefined">7</supplied>
-            </title>
+            <title>Ukkal, Perumāḷ temple, time of Kaṇṇaradeva, year 16</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -95,7 +94,9 @@
 <body>
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
-				
+			
+	<!--More readable on VG photos-->
+	
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
 		<lb n="1"/>svasti śrī
 	</ab>

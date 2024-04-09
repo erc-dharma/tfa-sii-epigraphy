@@ -164,7 +164,8 @@
 		<bibl n="SII ">
 			<ptr target="bib:Hultzsch1899_01"/>
 			<citedRange unit="page">4-5</citedRange>
-			<citedRange unit="item">2</citedRange>
+			<citedRange unit="item">2</citedRange>			
+			<citedRange unit="plate">II</citedRange>
 		</bibl>
 		
 	</listBibl>
