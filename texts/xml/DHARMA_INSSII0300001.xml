@@ -182,6 +182,7 @@
 			<ptr target="bib:Hultzsch1899_01"/>
 			<citedRange unit="page">2-3</citedRange>
 			<citedRange unit="item">1</citedRange>
+			<citedRange unit="plate">I</citedRange>
 		</bibl>
 		
 	</listBibl>
