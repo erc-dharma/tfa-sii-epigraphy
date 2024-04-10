@@ -95,7 +95,34 @@
 				
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
 		<lb n="1"/>svasti śrī
-	</ab>		
+	</ab>
+	<p>
+		kō-[p]-para-kēcari-pa<hi rend="grantha">nma</hi>rāṉa śrī-rāje<hi rend="grantha">nti</hi>ra[c]oḻa<hi rend="grantha">de</hi>vaṟku yāṇṭu 4-Āvatu
+	</p>
+	<p>
+		jayaṅkoṇṭacoḻamaṇṭalattu-k kāliyūrkkoṭṭattutta
+		<lb n="2" break="no"/>[ṉ] kūṟṟu ukkalākiya vikkira[m]āparaṇacca[tu]rvetimaṅkalattu <hi rend="grantha">mahāsabhai</hi>yomnilavilaiyāvaṇakkaiyyeḻuttu [|*] uṭaiyār <hi rend="grantha">śrīrā</hi>
+		<lb n="3" break="no"/><hi rend="grantha">j[e*]nti</hi>racoḻatevar paṇi-makaṉ veṇkuṉṟa-k-kōṭṭa[t]tuk[ku]vaḷaikoṭunāṭṭuk kuvaḷaikoṭāṉa Aṉavara[ta*]cu<hi rend="grantha">nta</hi>ra[nal]lūr[k]komuḻāṉ ar[ai]
+		<lb n="4" break="no"/>[ya*]ṉ palatevaṉ Emm-<choice><orig>u</orig><reg>ū</reg></choice>r Ērikku <hi rend="grantha">vai</hi>tta o(ō)ṭam<!--<ref t="3:16-2"/>--> Ira<add place="unspecified">ṇ</add>ṭiṉukkum pokamāka viṟṟukkuṭutta nilam āvatu
+	</p>
+	<p>
+		paṉa<hi rend="grantha">n</hi>tūmpin kālvaḻi śrī[y]ār<choice><orig>u</orig><reg>ū</reg></choice>r kaḻaṉiyil <hi rend="grantha">sa[bh]ai</hi>
+		<lb n="5" break="no"/>ppotuvāy-k kiṭa<hi rend="grantha">nta</hi> nilamaṇalīṭṭukku vaṭakkum mēl-pāṟk' ellai kuṭi-makkaḷ[pū]mikku kiḻakku vaṭapāṟkellai kuṭimakkaḷ iṟaippūmikkum <hi rend="grantha">subrahmaṇya</hi>
+		<lb n="6" break="no"/>-[v]āykkālukku teṟku naṭuvu paṭṭa nilameṟku niṉṟu a[ṭ]aiyappatiṉaṟucāṇkolāl m<choice><orig>u</orig><reg>ū</reg></choice>-v-āyiraṅkuḻiyum melai [e]ri etirvāyiṟkaḻumparuṭaiyār [mu]ṉo(ō)
+		<lb n="7" break="no"/>ṭattukku koṇṭu vaitta ettanīkki itaṉukku kiḻakku añcettamum viṟṟuvilaiyāvaṇañceytu kuṭuttom
+	</p>
+	<p>
+		Irukālāvatu mukkālāvatu
+		<lb n="8" break="no"/>m paṉa<hi rend="grantha">n</hi>tūmpiṉ kālvaḻi śrīyār<choice><orig>u</orig><reg>ū</reg></choice>rkkaḻaṉiyil maṇalīṭṭukku vaṭakku mē[l]-pāṟk' ellai kuṭi-makkaḷ Iṟaippūmikku kiḻakku va[ṭa]-pāṟk' ellai kuṭimak
+		<lb n="9" break="no"/>kaḷ pūmikkum <hi rend="grantha">subr<choice><sic>i</sic><corr>a</corr></choice>hmaṇya</hi>vāykkālukku teṟkum meṟku [ni]ṉṟu a[ṭaiya]patiṉaṟucāṇ kolāl m<choice><orig>u</orig><reg>ū</reg></choice>-v-āyiraṅ kuḻiyum melai Ēri Eetirvāyiṟkaḻumpa[ruṭ]aiyār muṉ O
+		<lb n="10" break="no"/>ṭattukku koṇṭu vaitta etta n<choice><orig>i</orig><reg>ī</reg></choice>kki Itaṉukku kiḻakku añcettamum viṟṟu [vilai]-y-āvaṇañ cey[tu] kuṭuttu iṉnilattukku v<choice><orig>ī</orig><reg>i</reg></choice>lai<hi rend="grantha">dravya</hi>mum iṟai<hi rend="grantha">dravya</hi>mum Aṟa-k ko
+		<lb n="11" break="no"/>ṇṭu Iṟai-y-ili-y-āka viṟṟu vilai-y-āvaṇañ ceytu kuṭuttō[m*] <hi rend="grantha">ma</hi>hā<hi rend="grantha">sa[bhai*]</hi>yōm
+	</p>
+	<p>kuṟiyuḷḷ iru<hi rend="grantha">n</hi>tu paṇi keṭṭ' eḻutiṉēṉ Iv[v-ū]r-k-karaṇattāṉ <hi rend="grantha">madhyas<choice><orig>t</orig><reg>th</reg></choice>a</hi>ṉ
+		<lb n="12"/>poṟṟikkuṟi kāḷi-tēvaṭi-y-āna I[ra*]ṇṭāyirattunā[nū]ṟṟuva<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ
+	</p>
+	<p>
+		Ivai En eḻuttu</p>
 	
 </div>
 			
@@ -119,7 +146,13 @@
 	
 <div type="translation" resp="part:emfr">
 								
-	<p n="1">Prosperity! Fortune!</p>
+	<p n="1">Prosperity! Fortune! In the 4th year <supplied reason="subaudible">of the reign</supplied> of king Parakēsarivarman,<hi rend="italic">alias</hi> Śrī-Rājēndra-Śōḻadēva. The hand-writing, <supplied reason="subaudible">referring to</supplied> a deed of sale <supplied reason="explanation"><foreign>vilaiyāvaṇam</foreign></supplied> of land, of us, the great assembly of Ukkal, <hi rend="italic">alias</hi> Vikramābharaṇa-caturvedimaṅgalam, <supplied reason="subaudible">a village</supplied> in its own subdivision of Kāliyūr-kōṭṭam, <supplied reason="subaudible">a district</supplied> of Jayaṅkoṇḍa-Śōḻa-maṇḍalam.</p>
+	<p n="2">The following land was sold for the maintenance of two boats <supplied reason="explanation"><foreign>ōṭam</foreign></supplied> which hadbeen assigned to the tank in our village by Kōmuḻāṉ Arai[ya]ṉ Baladēvaṉ, a servant ofthe lord Śrī-Rājēndra-Cōḻadeēva <supplied reason="subaudible">and a native</supplied> of Kuvaḷaikōṭu, <hi rend="italic">alias</hi> Anavara[ta]sundaranallūr, <supplied reason="subaudible">a village</supplied> in Kuvaḷaikōṭu-nāṭu, <supplied reason="subaudible">a subdivision</supplied> of Veṇkuṉṟakōṭṭam.</p>
+	<p n="4">We have sold, and executed a deed of sale for, (1) three thousand <foreign>kuḻi</foreign>s,——<supplied reason="subaudible">measured</supplied> by a rod of sixteen spans <supplied reason="subaudible">śāṇ</supplied>, beginning <supplied reason="subaudible">to measure</supplied> from the west,——of land,which was the common property of the assembly, <supplied reason="subaudible">which belonged</supplied> to the field <supplied reason="explanation"><foreign>kaḻaṉi</foreign></supplied> of Śrīyārūr on the channel of the ‘Palmyra sluice’ <supplied reason="subaudible">Paṉan-dūmbu, and</supplied> which was situated to the north of a heap of sand, to the east of the land of the villagers, and to the south of the land <supplied reason="subaudible">paying</supplied> taxes to the villagers and of the Subrahmaṇya channel, and (2) five levers<supplied reason="explanation"><foreign>ēttam</foreign></supplied> to the east of this <supplied reason="subaudible">land</supplied>, excluding a lever on the open side<note><hi rend="italic">I.e.</hi> that side (<foreign>vāy</foreign>) of the tank which is at a higher level, and opposite (<foreign>etdir</foreign>) to the artificial embankment which stops the natural flow of water and thus forms the tank.</note> of the tank in the west, which Kaḻumpar-uṭaiyār had previously purchased and assigned for <supplied reason="subaudible">the maintenance of</supplied> a boat.</p>
+	<p n="7">Twice as follows, and three times as follows.<note>Apparently the description of the land sold had to be repeated in words three times. The second repetition is omitted in writing; but after the word <foreign>mukkālāvatum</foreign>, ‘and three times,’ the whole of the preceding description of the land (ll. 4 to 7) is repeated with slight variations in ll. 8 to 10.</note></p>
+	<p n="10">Having received in full the purchase-money and the revenue of this land, we, the great assembly, sold <supplied reason="subaudible">it</supplied> free of taxes and executed a deed of sale.</p>
+	<p n="11">Having been present in the assembly<note>This translation of <foreign>kuṟi</foreign> is based on the parallel passages in No. 2, l. 6, No. 3, l. 11, No. 6, l. 22, and No. 12, l. 11, where the corresponding word is 
+<foreign>sabhai</foreign>.</note> and having heard <supplied reason="subaudible">their</supplied> order, I, the accountant <supplied reason="subaudible">and</supplied> arbitrator of this village, Poṟṟikkuṟi Kāḷidēvaṭi, <hi rend="italic">alias</hi> Iraṇṭāyirattunāṉūṟṟuvaṉ, wrote <supplied reason="subaudible">this</supplied>. This is my writing.</p>
 		
 </div>
 <!--<div type="commentary">
