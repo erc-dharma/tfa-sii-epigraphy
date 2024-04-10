@@ -98,9 +98,25 @@
 	<!--More readable on VG photos-->
 	
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
-		<lb n="1"/>svasti śrī
+		<lb n="1"/>svasti śrī <!--<ref t="3:12-1"/>-->
 	</ab>
 	
+	<p>
+		kacciyun ta[ñ]caiyuṅ koṇṭa śrī ka<hi rend="grantha">ṇṇarade</hi>vaṟku yāṇṭu patiṉā[ṟā]vatu kāliyūrkkoṭṭattuttaṉ
+		kūṟṟucci[va]cū<!--<ref t="3:12-2"/>-->••••• 
+		<lb n="2"/><hi rend="grantha">bhara</hi>ṇaccutu<hi rend="grantha">[rvve]</hi>timaṅkalattu<!--<ref t="3:12-3"/>-->
+	<hi rend="grantha">sabhai</hi>yom emmūrppuvaṉimāṇikkavi<hi rend="grantha">ṣṇugr̥</hi>hattu
+	mukamaṇṭakattey kū[ṭi]yirun[tu]••••• <lb n="3"/>yāvatu [|*] em[mū]rkkuṭikaḷ <!--<ref t="3:12-4"/>-->emmurppaṭākaivaṭṭattu ku[ṭu]ppolai m(o)ṟpaṭṭa nilaṅkaḷumaṟṟumepperppaṭṭaṉavum<ref t="3:12-5"/>
+	<hi rend="grantha">sabhai madhya</hi>[ma]•••••• <lb n="4"/>cu<ref t="3:12-6"/>
+	<hi rend="grantha">madhya</hi>mmāykkiṭanta<ref t="3:12-7"/> nilaṅkaḷ kuḻiva[ri]yeṟṟi [i]ṟai
+	[i]ṟuppomeṉṟaku[ṭi]kaḷukku viṟṟukkuṭuppomākavum [|*] ivviṟṟukkuṭutta <hi rend="grantha">bhū</hi>mikaḷ emmuteṉṟu epperppaṭṭāruṅkuṭuppolaiyum āvaṇamuṅkāṭṭa[p]peṟā[t]ārākavum[|*]
+	ipparicu kāṭṭiṉa kuṭima[kkaḷai] ta••••• <lb n="5"/>[cu]<ref t="3:12-8"/> poṉ <hi rend="grantha">sabhai</hi>yome <hi rend="grantha">daṇḍi</hi>ppomākavum [|*] ittaṭu[t]ta kuṭimakkaḷai<ref t="3:12-9"/>
+	<hi rend="grantha">dha[r]mmāsa</hi>ṉattu nicati mey ve[ṟu nū]ṟṟeṭṭukkāṇam <hi rend="grantha">daṇḍa</hi>miṭappe[ṟu]vārākavum [|*] <ref t="3:12-10"/>i<hi rend="grantha">daṇḍa</hi>miṭapp[o]ṅkuṭimakkaḷukku avapavvāṇṭu<ref t="3:12-11"/> vāriyañceyyum perumakkaḷey
+	perāl nicataṅkuṉṟippo[ṉ]••••• <lb n="6"/>[i]pparicu <hi rend="grantha">śraddhā</hi>ma[n]tar<ref t="3:12-12"/>
+	<hi rend="grantha">daṇḍa</hi>miṭṭārkku vārppal kuṭuttum tāṅkaḷey <hi rend="grantha">daṇḍi</hi>ttum āṭciyiṭaiyūṟu [tī]rttukkuṭārākila[v*][vā]ṇṭu
+		vāriyañ[ce]yyumperumakkaḷaiyumey<ref t="3:12-13"/> veṟṟu vakai irupattunālu kāṇam <hi rend="grantha">daṇḍa</hi>miṭappeṟuvārākavu[m] [|*] itta<hi rend="grantha">ṇḍa</hi>ppaṭṭum
+	avva āṇṭu<ref t="3:12-14"/> vāri[ya]ñce[y]••••••
+	</p>	
 		
 </div>
 			
@@ -119,7 +135,30 @@
     	
 <div type="translation" source="bib:Hultzsch1899_01">
 	
-	<p n="1">Hail! Prosperity! ...</p>
+	<p n="1">Hail! Prosperity! Hail! Prosperity! In the sixteenth year <supplied reason="subaudible">of the
+		reign</supplied> of the gloriousKaṇṇaradēva who conquered Kachchi and Tañjai,——we, the
+		assembly of Śivachū-[ḷāmaṇimaṅgalam, <hi rend="italic">alias</hi>
+		Śrī-Vikramā]bharaṇa-chaturvēdimaṅgalam, <supplied reason="subaudible">a village</supplied>in
+		its own subdivision of Kāliyūr-kōṭṭam, being assembled in the front hall<ref t="3:12-15"/>
+		of the Puvaṉimāṇikka-Vishṇugr̥ham in our village, [ordered] as follows:——</p>
+	<p n="3">The inhabitants of our village••••• the land and everything else that is not the
+		object of deeds of gift,<ref t="3:12-16"/> in the environs<ref t="3:12-17"/> of our
+		village•••••• the common property <supplied reason="subaudible">madhyama</supplied> of the
+		assembly.</p>
+	<p n="4">We shall sell the land which has thus become the common property <supplied reason="subaudible">of theassembly</supplied>, to those inhabitants who promise to pay
+		taxes on each <foreign>kuḻi</foreign>. No persons shall beallowed to produce deeds of gift
+		or deeds of sale <supplied reason="subaudible">āvaṇam</supplied> in order to show that the
+		landthus sold belongs to themselves. We, the assembly, shall levy a fine
+			of•••<i>[kaḻañju]</i> of gold••••• from those inhabitants who produce such<supplied reason="subaudible">deeds</supplied>.<pb n="3:13"/></p>
+	<p n="5">Those inhabitants who do not submit to this, shall be liable to pay into
+			court<supplied reason="subaudible">dharmāsana</supplied> a fine of one hundred and eight
+			<foreign>kāṇam</foreign>•••<ref t="3:13-1"/>per day. To each ofthe inhabitants who have
+		to pay this fine, the great men elected for that year•••••• (one) <foreign>kuṉṟi</foreign>
+		of gold per day.</p>
+	<p n="6">If, through indifference, though••• was thus given to those who paythe fine and
+		though they themselves have fined <supplied reason="subaudible">them</supplied>, they are
+		not able to remove the obstacles to the possession <supplied reason="subaudible">āṭchi</supplied>, the great men elected for that year shall be liable to pay an additional fine of twenty-four <foreign>kāṇam</foreign>. Though they are fined thus, [the
+		great men] elected for that year•••••</p>
 
 </div>
 	
@@ -137,7 +176,7 @@
 				
 	<p>Reported in <bibl><ptr target="bib:ARIE1892-1893"/></bibl> (ARIE/1892-1893/B/1893/25).</p>
 	<p>Edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>, with English translation (SII 3.7).</p>
-	<p>Encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>.</p>	
+	<p>Encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>, published visual documentation and photos (Valérie Gillet, 2008).</p>	
 	
 	<listBibl type="primary">
 		
