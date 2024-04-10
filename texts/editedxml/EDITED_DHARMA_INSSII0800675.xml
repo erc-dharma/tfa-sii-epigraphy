@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Allūr, Pañcanadeśvara temple, time of Rājādhirāja I, year 27</title>
+            <title>Allūr, Pañcanadēśvara temple, time of Rājādhirāja, year 27</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:reda">
@@ -98,7 +98,7 @@
          		<l n="2"><supplied reason="lost">nilamakaḷ nilava malar</supplied> makaṭ p<supplied reason="undefined">pu</supplied>ṇara</l>
          		<l n="3"><supplied cert="low" reason="lost">ceṅkol</supplied><gap reason="undefined" quantity="1" unit="character"/>lōccik karuṅkali kaṭint<supplied cert="low" reason="lost">uṭaṉ</supplied></l>
        
-         		<l n="4">maṉ<supplied reason="undefined">ṉupa</supplied>l l-ūḻiyuḷ t-teṉ<supplied reason="undefined">ṉavar</supplied><lb n="2"/>muvaruḷ</l>
+         		<l n="4">maṉ<supplied reason="undefined">ṉupa</supplied>l l-ūḻiyuḷ t-teṉ<supplied reason="undefined">ṉavar</supplied> <lb n="2"/>muvaruḷ</l>
          		<l n="5"><gap reason="undefined" unit="character" quantity="6"/>ṟ</l>
          		<l n="6">parumatiṭ p-pacu<supplied reason="undefined">n</supplied>talai <gap reason="undefined" quantity="8" unit="character"/></l>
          		<l n="7">ṉa Āṉai k-ki<gap unit="character" quantity="8" reason="undefined"/></l>
@@ -117,68 +117,93 @@
          		<l n="20">koḷḷi p-pākkai Oḷḷeri maṭuttu</l>
          		<l n="21">villavar miṉa<lb n="6" break="no"/>var veñciṉa c<choice><sic>ā</sic><corr>a</corr></choice>ḷ<choice><sic>ū</sic><corr>u</corr></choice>kkiyar</l>
          		<l n="22">valla<supplied reason="undefined">va</supplied>r mutaleṉa <supplied reason="undefined">viḷaṅka</supplied> v<choice><sic>i</sic><corr>ī</corr></choice>ṟṟirunta</l><!--@emfr: differing verse fr. critical edition-->
-         		<l n="23"><hi rend="grantha">j<choice><sic>e</sic><corr>a</corr></choice></hi>yaṅkoṇṭa cō<supplied reason="undefined">ḻa</supplied>ṉ Uyarn=ta perumpukaḻ</l>
+         		<l n="23"><hi rend="grantha">j<choice><sic>e</sic><corr>a</corr></choice></hi>yaṅkoṇṭa cō<supplied reason="undefined">ḻa</supplied>ṉ Uyarn=ta perumpukaḻ-k</l>
          	
          	</lg> 
          	<p>          
-         	k-kōvirā<hi rend="grantha">ja</hi> kēcari-pa<hi rend="grantha">ṉma</hi>rāṉa Uṭaiyār śrī<supplied reason="undefined"><surplus>r</surplus>i</supplied><hi rend="grantha">rāj<supplied reason="undefined">ā</supplied>dhi</hi>rāja<lb n="7" break="no"/><hi rend="grantha">deva</hi>ṟk’ iyāṇṭu <supplied reason="undefined"><num value="20">2 <g type="numeral">10</g></num></supplied> 7<supplied reason="undefined">Ā</supplied>vatu	  
+         	kō-v-irā<hi rend="grantha">ja</hi>-kēcari-pa<hi rend="grantha">ṉma</hi>r-āṉa Uṭaiyār śrī<supplied reason="undefined"><surplus>r</surplus>i</supplied><hi rend="grantha">rāj<supplied reason="undefined">ā</supplied>dhi</hi>rāja<lb n="7" break="no"/><hi rend="grantha">deva</hi>ṟk’ iyāṇṭu <supplied reason="undefined"><num value="20">2 <g type="numeral">10</g></num></supplied> 7-<supplied reason="undefined">Ā</supplied>vatu	  
          	</p>
          	<p>
-         		koṉerimaikoṇtāṉ nantamar Eppe<surplus><supplied reason="undefined">r</supplied></surplus>ṟpaṭṭāṟkum kēraḷāntaka-vaḷanāṭṭu Uṟaiyūr k-kūṟṟattu tiruvaṭakuṭi ma<supplied reason="undefined">h</supplied><!--@emfr:here an example of how to split aksara-->
-         		<lb n="8" break="no"/>ā <hi rend="grantha">de</hi>vaṟ <hi rend="grantha">stā</hi>ṉa<supplied reason="undefined">maṭa</supplied>m tēvārattukku tiruppa<supplied reason="undefined">tiyam vi</supplied>ṇṇappam ceyum Ampalattāṭi tirunāvukkaraiyaṉukkum Ivaṉ vaṟkkatārkkum tāṉa
-         		<lb n="9"/><supplied reason="undefined">nimi</supplied>t<hi rend="grantha">tya</hi>māka kuṭuttōm <supplied reason="undefined">E</supplied>ṉṟum It-tēvar paṇṭarattē maṭapōkamāka nittam tūṇi nel koḷḷa(c!)coṉṉām Eṉṟum Aiyyariṭaiyil I
+         		koṉerimaikoṇtāṉ nan tamar Eppē<surplus><supplied reason="undefined">r</supplied></surplus>ṟpaṭṭāṟkum 
+         		<list>
+         			<item>
+         				kēraḷāntaka-vaḷanāṭṭu Uṟaiyūr-k-kūṟṟattu tiruvaṭakuṭi ma<supplied reason="undefined">h</supplied>ā 
+         				<lb n="8" break="no"/>⌉<hi rend="grantha">de</hi>vaṟ <hi rend="grantha">stā</hi>ṉa-<supplied reason="undefined">maṭa</supplied>m tēvārattukku tiruppa<supplied reason="undefined">tiyam vi</supplied>ṇṇappam ceyum Ampalattāṭi tirunāvukkaraiyaṉukkum Ivaṉ vaṟkkatārkkum tāṉa
+         				<lb n="9" break="no"/><supplied reason="undefined">nimi</supplied>t<hi rend="grantha">tya</hi>m-āka kuṭuttōm <supplied reason="undefined">E</supplied>ṉṟum
+         			</item>
+         			<item>
+         				It-tēvar paṇṭarattē maṭa-pōkam-āka nittam tūṇi nel koḷḷa-<supplied reason="omitted">c</supplied> coṉṉām Eṉṟum
+         			</item>
+         		</list>
+         		Aiyyariṭaiyil I
          		<lb n="10" break="no"/>vaṉ muṉpu peṟṟuṭaiya tirumukappaṭiyē nāmum kuṭuttōm
          	</p>
          	<p>
-         		palapaṇi nivantakkāṟaraiyum nivantaṅkaḷum Iva<supplied reason="undefined">ṉ</supplied> coṉṉavaṇṇamē-y ceyyavum It-tēvar ci
-         		<lb n="11" break="no"/>va-<hi rend="grantha">bra<surplus><supplied reason="undefined">ra</supplied></surplus>āma</hi>ṇar Uḷḷiṭṭa palapaṇi<hi rend="grantha">ya</hi> nivantakkāṟaraiyum nivantaṅkaḷum Ivanē I<hi rend="grantha">ṭa</hi>vum māṟ<supplied reason="undefined">ṟa</supplied>vum peṟuvāṉ ākavum coṉṉōm
+         		<list>
+         			<item>
+         				pala-paṇi-nivantakkāṟaraiyum nivantaṅkaḷum Iva<supplied reason="undefined">ṉ</supplied> coṉṉa vaṇṇamē-y ceyyavum
+         			</item>
+         			<item>
+         				It-tēvar ci
+         				<lb n="11" break="no"/>va-<hi rend="grantha">br<surplus>ra</surplus>āma</hi>ṇar Uḷḷiṭṭa pala-paṇi<hi rend="grantha">ya</hi> nivantakkāṟaraiyum nivantaṅkaḷum Ivanē I<hi rend="grantha">ṭa</hi>vum māṟ<supplied reason="undefined">ṟa</supplied>vum
+         			</item>
+         			
+         		</list>         		
+         		peṟuvāṉ ākavum coṉṉōm
          	</p>
          	<p>
          		Ivaṉ Aiyya 
-         		<lb n="12" break="no"/><gap reason="undefined" unit="character" quantity="5"/><supplied reason="lost">tirumu</supplied>ka p-paṭiyē <gap quantity="4" unit="character" reason="undefined"/>
-         		<lb n="13"/><gap reason="undefined" unit="character" quantity="8"/>ṟuvaṉāka coṉ <gap reason="undefined" unit="character" quantity="7"/>
+         		<lb n="12" break="no"/><supplied reason="lost">riṭai</supplied> <gap reason="undefined" unit="character" quantity="5"/> <supplied reason="lost">tirumu</supplied>ka-p paṭiyē <gap quantity="4" unit="character" reason="undefined"/>
+         		<lb n="13"/><gap reason="undefined" unit="character" quantity="8"/> ṟuvaṉāka coṉ <gap reason="undefined" unit="character" quantity="7"/>
          		<lb n="14"/><gap reason="undefined" unit="character" quantity="8"/> Eḻuttu
          	</p>
          	<p>	
-         		yāṇṭu <num value="37">3 <g type="numeral">10</g> 7</num>-ḷ 3(100 3)10 1
+         		yāṇṭu <num value="37">3 <g type="numeral">10</g> 7</num>-ḷ <num value="311">3 <supplied reason="undefined"><g type="numeral">100</g> 3</supplied> <g type="numeral">10</g> 1</num>
          		</p>
          	<p>	
-         		va<hi rend="grantha">nma</hi><supplied reason="lost">heśvara ra</supplied><hi rend="grantha">kṣai</hi>
+         		<hi rend="grantha">panma<supplied reason="lost">heśvara-ra</supplied>kṣai</hi>
          	</p>	
          </div>
       	
-      <!--   <div type="apparatus">
+<div type="apparatus">
             
-            <listApp>
-               
-               <app loc="1">
-               	<lem>kumārar</lem>
-               	<rdg source="bib:SubrahmanyaAiyer1937_01"/>
-           
-               </app>
-                              
-            </listApp>
-        
-         </div>-->
+	<listApp>
+		
+		<app loc="11">
+			<lem>Aiyya<lb n="12" break="no"/><supplied reason="lost">riṭai</supplied> <gap reason="undefined" unit="character" quantity="5"/></lem>
+			<rdg source="bib:SubrahmanyaAiyer1937_01">Aiyya<lb n="12" break="no"/><gap reason="undefined" unit="character" quantity="8"/></rdg>			
+		</app>
+		
+		<app loc="14">
+			<lem><hi rend="grantha">panma<supplied reason="lost">heśvara-ra</supplied>kṣai</hi></lem>
+			<rdg source="bib:SubrahmanyaAiyer1937_01"><hi rend="grantha">panma</hi> <gap reason="undefined" unit="character" quantity="8"/> <hi rend="grantha">kṣai</hi>
+				</rdg>			
+		</app>
+			
+	</listApp>
+	
+</div>
       	
-      	<div type="translation" resp="part:reda part:emfr">
-      		<p n="1">
-      			Prosperity! Fortune!
-      		</p>
-      		
-      		<p n="1-6">
-      			Meykkīrtti of king Rājādhirāja I...
-      		</p>
-      		
-      		<p n="6-7">
-      			This is the year 27 of the glorious Lord Rājādhirāja, alias king Rāja-kēcari-paṉma.      		
-      		</p>
-      		
-      		<p n="7-10">
-      			We have given, according to the royal command (<foreign>tirumukappaṭi</foreign>), which previously had him, along with [other] respected men/brahmins (<foreign>aiyariṭaiyil</foreign>), as the recipient (<foreign>peṟṟuṭaiya</foreign>) [of the endowment] that said:
-      			<list>
-      				<item>saying “We have given, as ritual (<foreign>nimittya</foreign>) provisions (<foreign>tāṉa</foreign>), for [the benefit] of all our people, to Ampalattāṭi Tirunāvukkaraiyaṉ and his lineage, who are the reciters of holy hymns (<foreign>tiruppatiyam viṇṇappam ceyum</foreign>) at the <foreign>tēvāram</foreign> of the monastery of the temple [dedicated to] Mahādevar in Tiruvaṭakuṭi within the Uraiyūr-kūṟṟam in Kēraḷāntaka-vaḷa-ṇāṭu [that belongs to] Kōnerimaikoṇṭāṉ”;</item>
-      				<item>and also saying “We commanded (<foreign>coṉṉām</foreign>) to take (<foreign>koḷḷa</foreign>) one tūṇi of paddy daily for the maintenance (<foreign>pōkam-āka</foreign>) of the monastery (<foreign>maṭam</foreign>) from the treasury of this god.</item>
+<div type="translation" resp="part:reda part:emfr">
+      	
+	<p n="1">
+		Prosperity! Fortune!
+	</p>
+	
+	<p n="6-7">
+		27th year of the glorious Lord Rājādhirāja, alias king Rājakesarivarman      		
+	</p>
+	
+	<p n="1-6">
+		who, ... [<foreign>meykkīrtti</foreign> of king Rājādhirāja I]
+	</p>      		    		
+	
+	<p n="7-10">
+		To whomever kingsmen of K ...
+		We have given, according to the royal command <supplied reason="explanation"><foreign>tirumukap paṭi</foreign></supplied>, which previously had him, along with <supplied reason="subaudible">other</supplied> respected men/brahmins (<foreign>aiyariṭaiyil</foreign>), as the recipient (<foreign>peṟṟuṭaiya</foreign>) [of the endowment]
+		<list>
+			<item>saying <quote>We have given, as ritual (<foreign>nimittya</foreign>) provisions (<foreign>tāṉa</foreign>), for [the benefit] of all our people, to Ampalattāṭi Tirunāvukkaraiyaṉ and his lineage, who are the reciters of holy hymns (<foreign>tiruppatiyam viṇṇappam ceyum</foreign>) at/for the <foreign>tēvāram</foreign><note>discussion of the meaning of this word</note> of the monastery of the temple [dedicated to] Mahādevar in Tiruvaṭakuṭi within the Uraiyūr-kūṟṟam in Kēraḷāntaka-vaḷa-ṇāṭu [that belongs to] Kōnerimaikoṇṭāṉ</quote>;</item>
+			<item>and also saying <quote>We commanded (<foreign>coṉṉām</foreign>) to take (<foreign>koḷḷa</foreign>) one tūṇi of paddy daily for the maintenance (<foreign>pōkam-āka</foreign>) of the monastery (<foreign>maṭam</foreign>) from the treasury of this god.</quote></item>
       			</list>
       		</p>
       		
@@ -193,7 +218,7 @@
       		
       	</div>
       	
-        <!-- <div type="commentary">
+ <!-- <div type="commentary">
          	<p n="20">
          	</p>
            <p n="21">
@@ -202,11 +227,10 @@
          	</p>
          </div>-->
 
-         <!--<div type="bibliography">
+<div type="bibliography">
 
-            <p>
-               Encoded and re-edited here for DHARMA (ERC n° 809994) by Renato Dávalos, based on previous edition; translated by Renato Dávalos and and Emmanuel Francis (2024).
-            </p>
+	<p>Encoded and re-edited here for DHARMA (ERC n° 809994) by Renato Dávalos, based on previous edition; translated by Renato Dávalos and and Emmanuel Francis (2024).
+	</p>
             
             <listBibl type="primary">
                
@@ -221,6 +245,7 @@
      
          	<listBibl type="secondary">
          		
+         		<!--+ Uthaya's PhD-->
          		<bibl>
          			<ptr target="bib:ARIE1903-1904"/>
          			<citedRange unit="page">27</citedRange>
@@ -230,11 +255,12 @@
          		
          	</listBibl>
          	
-         </div>-->
+         </div>
 
       </body>
   </text>
 </TEI>
 <!--METADATA:
-	On the west and south bases of the central shrine.
+	Rājādhirāja I
+	On the west base of the central shrine.
 -->
