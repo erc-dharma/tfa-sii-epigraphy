@@ -100,28 +100,45 @@
 	</ab>
 	
 	<p>
-		kacciyun ta[ñ]caiyuṅ koṇṭa śrī ka<hi rend="grantha">ṇṇarade</hi>vaṟku yāṇṭu patiṉā[ṟā]vatu kāliyūrkkoṭṭattuttaṉ
-		kūṟṟucci[va]cū<!--<ref t="3:12-2"/>-->••••• 
-		<lb n="2"/><hi rend="grantha">bhara</hi>ṇaccutu<hi rend="grantha">[rvve]</hi>timaṅkalattu<!--<ref t="3:12-3"/>-->
-	<hi rend="grantha">sabhai</hi>yom emmūrppuvaṉimāṇikkavi<hi rend="grantha">ṣṇugr̥</hi>hattu
-	mukamaṇṭakattey kū[ṭi]yirun[tu]••••• <lb n="3"/>yāvatu [|*] em[mū]rkkuṭikaḷ <!--<ref t="3:12-4"/>-->emmurppaṭākaivaṭṭattu ku[ṭu]ppolai m(o)ṟpaṭṭa nilaṅkaḷumaṟṟumepperppaṭṭaṉavum<ref t="3:12-5"/>
-	<hi rend="grantha">sabhai madhya</hi>[ma]•••••• <lb n="4"/>cu<ref t="3:12-6"/>
-	<hi rend="grantha">madhya</hi>mmāykkiṭanta<ref t="3:12-7"/> nilaṅkaḷ kuḻiva[ri]yeṟṟi [i]ṟai
-	[i]ṟuppomeṉṟaku[ṭi]kaḷukku viṟṟukkuṭuppomākavum [|*] ivviṟṟukkuṭutta <hi rend="grantha"
-	>bhū</hi>mikaḷ emmuteṉṟu epperppaṭṭāruṅkuṭuppolaiyum āvaṇamuṅkāṭṭa[p]peṟā[t]ārākavum[|*]
-	ipparicu kāṭṭiṉa kuṭima[kkaḷai] ta••••• <lb n="5"/>[cu]<ref t="3:12-8"/> poṉ <hi rend="grantha"
-		>sabhai</hi>yome <hi rend="grantha">daṇḍi</hi>ppomākavum [|*] ittaṭu[t]ta kuṭimakkaḷai<ref
-		t="3:12-9"/>
-	<hi rend="grantha">dha[r]mmāsa</hi>ṉattu nicati mey ve[ṟu nū]ṟṟeṭṭukkāṇam <hi rend="grantha"
-		>daṇḍa</hi>miṭappe[ṟu]vārākavum [|*] <ref t="3:12-10"/>i<hi rend="grantha"
-	>daṇḍa</hi>miṭapp[o]ṅkuṭimakkaḷukku avapavvāṇṭu<ref t="3:12-11"/> vāriyañceyyum perumakkaḷey
-	perāl nicataṅkuṉṟippo[ṉ]••••• <lb n="6"/>[i]pparicu <hi rend="grantha">śraddhā</hi>ma[n]tar<ref
-		t="3:12-12"/>
-	<hi rend="grantha">daṇḍa</hi>miṭṭārkku vārppal kuṭuttum tāṅkaḷey <hi rend="grantha"
-	>daṇḍi</hi>ttum āṭciyiṭaiyūṟu [tī]rttukkuṭārākila[v*][vā]ṇṭu
-		vāriyañ[ce]yyumperumakkaḷaiyumey<ref t="3:12-13"/> veṟṟu vakai irupattunālu kāṇam <hi
-		rend="grantha">daṇḍa</hi>miṭappeṟuvārākavu[m] [|*] itta<hi rend="grantha">ṇḍa</hi>ppaṭṭum
-	avva āṇṭu<ref t="3:12-14"/> vāri[ya]ñce[y]••••••
+		kacciyun ta<supplied reason="undefined">ñ</supplied>caiyuṅ koṇṭa śrī ka<hi rend="grantha">ṇṇarade</hi>vaṟku yāṇṭu patiṉā<supplied reason="undefined">ṟā</supplied>vatu kāliyūrkkoṭṭattuttaṉ
+		kūṟṟucci<supplied reason="undefined">va</supplied>cū<!--<ref t="3:12-2"/>-->
+		<gap reason="lost" quantity="10" unit="character"></gap>
+		<lb n="2"/><hi rend="grantha">bhara</hi>ṇa-c-c<choice><sic>u</sic><corr>a</corr></choice>tu<hi rend="grantha"><supplied reason="undefined">rvve</supplied></hi>timaṅkalattu
+		<hi rend="grantha">sabhai</hi>yom emmūrppuvaṉimāṇikkavi<hi rend="grantha">ṣṇugr̥</hi>hattu
+		mukamaṇṭakattey kū<supplied reason="undefined">ṭi</supplied>yirun<supplied reason="undefined">tu</supplied>
+		<gap reason="lost" quantity="10" unit="character"></gap>
+		<lb n="3"/>y-āvatu
+	</p>
+	<p>
+		Em<supplied reason="undefined">mū</supplied>r-k kuṭikaḷ >emm<choice><orig>u</orig><reg>ū</reg></choice>rppaṭākaivaṭṭattu ku<supplied reason="undefined">ṭu</supplied>ppolai m(o)ṟpaṭṭa nilaṅkaḷumaṟṟumepperppaṭṭaṉavum<!--<ref t="3:12-5"/>-->
+		<hi rend="grantha">sabhai madhya</hi><supplied reason="undefined">ma</supplied> <gap reason="lost" quantity="8" unit="character"></gap> <supplied reason="lost">ip-pari</supplied>
+		<lb n="4" break="no"/>cu
+		<hi rend="grantha">madhya</hi>mmāykkiṭa<add place="unspecified">n</add>ta nilaṅkaḷ kuḻiva<supplied reason="undefined">ri</supplied>yeṟṟi <supplied reason="undefined">i</supplied>ṟai
+		<supplied reason="undefined">i</supplied>ṟuppomeṉṟaku<supplied reason="undefined">ṭi</supplied>kaḷukku viṟṟukkuṭuppomākavum
+	</p>
+	<p>
+		Ivv-iṟṟukkuṭutta <hi rend="grantha">bhū</hi>mikaḷ emmuteṉṟu epperppaṭṭāruṅkuṭuppolaiyum āvaṇamuṅkāṭṭa<supplied reason="undefined">p</supplied>peṟā<supplied reason="undefined">t</supplied>ārākavum
+	</p>
+	<p>
+		Ip-paricu kāṭṭiṉa kuṭima<supplied reason="undefined">kkaḷai</supplied> ta <gap reason="lost" quantity="8" unit="character"></gap> <supplied reason="lost">kaḻa</supplied>
+		<lb n="5" break="no"/><supplied reason="undefined">cu</supplied> poṉ <hi rend="grantha">sabhai</hi>yōmē <hi rend="grantha">daṇḍi</hi>ppōm ākavum
+	</p>
+	<p>
+			Ittaṭu<supplied reason="undefined">t</supplied>ta kuṭimakkaḷ<choice><sic>ai</sic><corr>ē</corr></choice>
+		<hi rend="grantha">dha<supplied reason="undefined">r</supplied>mmāsa</hi>ṉattu nicati mey ve<supplied reason="undefined">ṟu nū</supplied>ṟṟeṭṭukkāṇam <hi rend="grantha">daṇḍa</hi>m iṭa-p pe<supplied reason="undefined">ṟu</supplied>vār ākavum 
+	</p>
+	<p>
+		<!--<ref t="3:12-10"/>-->i<hi rend="grantha">daṇḍa</hi>m iṭa-p p<supplied reason="undefined">o</supplied>ṅkuṭimakkaḷukku avapavvāṇṭu<!--<ref t="3:12-11"/>--> vāriyañceyyum perumakkaḷē-y
+		perāl nicataṅkuṉṟippo<supplied reason="undefined">ṉ</supplied>
+		<gap reason="lost" quantity="10" unit="character"></gap>
+		<lb n="6"/><supplied reason="undefined">I</supplied>p-paricu <hi rend="grantha">śraddhā</hi>ma<supplied reason="undefined">n</supplied>tar<!--<ref t="3:12-12"/>-->
+		<hi rend="grantha">daṇḍa</hi>m iṭṭārkku vārppal kuṭuttum tāṅkaḷē-y <hi rend="grantha">daṇḍi</hi>ttum āṭciyiṭaiyūṟu <supplied reason="undefined">tī</supplied>rttukkuṭārākila<supplied reason="omitted">v</supplied><supplied reason="undefined">vā</supplied>ṇṭu
+		vāriyañ<supplied reason="undefined">ce</supplied>yyumperumakkaḷaiyumey<!--<ref t="3:12-13"/>--> veṟṟu vakai irupattunālu kāṇam <hi rend="grantha">daṇḍa</hi>miṭappeṟuvārākavu<supplied reason="undefined">m</supplied>
+	</p>
+	<p>
+		tta<hi rend="grantha">ṇḍa</hi>ppaṭṭum
+		Avva āṇṭu<!--<ref t="3:12-14"/>--> vāri<supplied reason="undefined">ya</supplied>ñce<supplied reason="undefined">y</supplied>
+		<gap reason="lost" quantity="10" unit="character"></gap>
 	</p>	
 		
 </div>
@@ -141,32 +158,15 @@
     	
 <div type="translation" source="bib:Hultzsch1899_01">
 	
-	<p n="1">Hail! Prosperity! Hail ! Prosperity ! In the sixteenth year <supplied reason="subaudible">of the
-		reign</supplied> of the gloriousKaṇṇaradēva who conquered Kachchi and Tañjai,——we, the
-		assembly of Śivachū-[ḷāmaṇimaṅgalam, <hi rend="italic">alias</hi>
-		Śrī-Vikramā]bharaṇa-chaturvēdimaṅgalam, <supplied reason="subaudible">a village</supplied>in
-		its own subdivision of Kāliyūr-kōṭṭam, being assembled in the front hall<ref t="3:12-15"/>
-		of the Puvaṉimāṇikka-Vishṇugr̥ham in our village, [ordered] as follows:——</p>
-	<p n="3">The inhabitants of our village••••• the land and everything else that is not the
-		object of deeds of gift,<ref t="3:12-16"/> in the environs<ref t="3:12-17"/> of our
-		village•••••• the common property <supplied reason="subaudible">madhyama</supplied> of the
-		assembly.</p>
-	<p n="4">We shall sell the land which has thus become the common property <supplied
-			reason="subaudible">of theassembly</supplied>, to those inhabitants who promise to pay
-		taxes on each <foreign>kuḻi</foreign>. No persons shall beallowed to produce deeds of gift
-		or deeds of sale <supplied reason="subaudible">āvaṇam</supplied> in order to show that the
-		landthus sold belongs to themselves. We, the assembly, shall levy a fine
-			of•••<i>[kaḻañju]</i> of gold••••• from those inhabitants who produce such<supplied
-			reason="subaudible">deeds</supplied>.<pb n="3:13"/></p>
-	<p n="5">Those inhabitants who do not submit to this, shall be liable to pay into
-			court<supplied reason="subaudible">dharmāsana</supplied> a fine of one hundred and eight
-			<foreign>kāṇam</foreign>•••<ref t="3:13-1"/>per day. To each ofthe inhabitants who have
-		to pay this fine, the great men elected for that year•••••• (one) <foreign>kuṉṟi</foreign>
-		of gold per day.</p>
-	<p n="6">If, through indifference, though••• was thus given to those who paythe fine and
-		though they themselves have fined <supplied reason="subaudible">them</supplied>, they are
-		not able to remove the obstacles to the possession <supplied reason="subaudible">āṭchi</supplied>, the great men elected for that year shall be liable to pay an additional fine of twenty-four <foreign>kāṇam</foreign>. Though they are fined thus, [the
-		great men] elected for that year•••••</p>
+	<p n="1">Hail! Prosperity! Hail ! Prosperity ! In the sixteenth year <supplied reason="subaudible">of the reign</supplied> of the glorious Kaṇṇaradeva who conquered Kacci and Tañcai,——we, the assembly of Śivacū-<supplied reason="undefined">ḷāmaṇimaṅgalam, <hi rend="italic">alias</hi> Śrī-Vikramā</supplied>bharaṇa-caturvedimaṅgalam, <supplied reason="subaudible">a village</supplied> in its own subdivision of Kāliyūr-kōṭṭam, being assembled in the front hall<note><foreign>mukamaṇṭakam</foreign> is a Tamil form of the Sanskrit <foreign>mukha-maṇḍapa</foreign>.</note> of the Puvaṉimāṇikka-Viṣṇugr̥ham in our village, <supplied reason="undefined">ordered</supplied> as follows:——</p>
+	
+	<p n="3">The inhabitants of our village <gap reason="lost" quantity="10" unit="character"></gap> the land and everything else that is not the object of deeds of gift,<note>Literally, ‘that is beyond deeds of gift’ (<foreign>kuṭupp-ōlai</foreign>).</note> in the environs<note>Literally, ‘in the circle of hamlets’ (<foreign>paṭākai-vaṭṭam</foreign>).</note> of our village <gap reason="lost" quantity="10" unit="character"></gap> the common property <supplied reason="subaudible">madhyama</supplied> of the assembly.</p>
+	
+	<p n="4">We shall sell the land which has thus become the common property <supplied reason="subaudible">of the assembly</supplied>, to those inhabitants who promise to pay taxes on each <foreign>kuḻi</foreign>. No persons shall be allowed to produce deeds of gift or deeds of sale <supplied reason="subaudible">āvaṇam</supplied> in order to show that the land thus sold belongs to themselves. We, the assembly, shall levy a fine of <gap reason="lost" quantity="5" unit="character"></gap> [<foreign>kaḻañcu</foreign></supplied> of gold <gap reason="lost" quantity="10" unit="character"></gap> from those inhabitants who produce such<supplied reason="subaudible">deeds</supplied>.<pb n="3:13"/></p>
+	
+	<p n="5">Those inhabitants who do not submit to this, shall be liable to pay into court <supplied reason="explanation"><foreign>dharmāsana</foreign></supplied> a fine of one hundred and eight <foreign>kāṇam</foreign>s <gap reason="lost" quantity="5" unit="character"></gap><note>The two obscure words <foreign>mey veṟu</foreign> occur again in No. 12, line 11.</note> per day. To each ofthe inhabitants who have to pay this fine, the great men elected for that year <gap reason="lost" quantity="10" unit="character"></gap> <supplied reason="subaudible">one</supplied> <foreign>kuṉṟi</foreign> of gold per day.</p>
+	
+	<p n="6">If, through indifference, though <gap reason="lost" quantity="5" unit="character"></gap> was thus given to those who paythe fine and 	though they themselves have fined <supplied reason="subaudible">them</supplied>, they are not able to remove the obstacles to the possession <supplied reason="explanation"><foreign>āṭci</foreign></supplied>, the great men elected for that year shall be liable to pay an additional fine of twenty-four <foreign>kāṇam</foreign>s. Though they are fined thus, <supplied reason="undefined">the great men</supplied> elected for that year <gap reason="lost" quantity="10" unit="character"></gap></p>
 
 </div>
 	
