@@ -95,64 +95,64 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 				
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
-		<lb n="1"/>svasti śrī
+		<lb n="01"/>svasti śrī
 	</ab>
 	
 	<lg n="1" met="āciriyappā">
-		<l n="1">tirumakaḷ pōla-p peru-nila-c-celviyut</l>
-		<l n="2">taṉakkē Urimai pūṇṭamai maṉa-k-koḷa</l>
-		<l n="3">kāntaḷūr <supplied reason="undefined">c</supplied>ālai kalam a<lb n="2" break="no"/>ṟutt-a<supplied reason="undefined">ru</supplied>ḷi</l>
+		<l n="1">tirumakaḷ pōla-p peru-nila-c-celviyu<choice><sic>t</sic><corr>n</corr></choice></l>
+		<l n="2">taṉakkē Urimai pūṇṭa<choice><sic>ṉam</sic><corr>mai</corr></choice> maṉa-k-koḷa</l>
+		<l n="3">kāntaḷ<choice><orig>u</orig><reg>ū</reg></choice>r <supplied reason="undefined">c</supplied>ālai kalam a<lb n="2" break="no"/>ṟutt-a<supplied reason="undefined">ru</supplied>ḷi</l>
 		<l n="4">vēṅkai-nā<supplied reason="undefined">ṭu</supplied><surplus>m</surplus>ṉ kaṅka-pāṭiyum</l>
 		<l n="5">taṭikai-pāṭiyum nuḷampa-pāṭiyun</l>
 		<l n="6">kuṭa-malai-nāṭum ko<lb n="3" break="no"/>llamum kaliṅkamum</l>		
 		<l n="7">tiṇ-ṭiṟal veṉṟi-t taṇṭāṟ koṇṭa ta<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice></l>
-		<l n="8">eḻil vaḷaruḻi Ūḻiyū <lb n="4"/> Ellā yā<supplied reason="undefined">ṇṭu</supplied><surplus>m</surplus>n</l>
+		<l n="8">eḻil vaḷaruḻi Ūḻiy<choice><orig>ū</orig><reg>uḷ</reg></choice> <lb n="4"/> Ellā yā<supplied reason="undefined">ṇṭu</supplied><surplus>m</surplus>n</l>
 		<l n="9">to<supplied reason="undefined">ḻu</supplied>takai viḷaṅkum yāṇṭē</l>
 		<l n="10">ceḻiṉarai-t tēcu koḷ</l>
 	</lg>
 	<p>
-		kō-v-i<hi rend="grantha">rāja-rāja-rāja</hi>-ke<hi rend="grantha">sari</hi>va<hi rend="grantha">nma</hi>[r*]k
-		<lb n="5" break="no"/>ki [yā]ṇṭu <num value="17"><g type="numeral">10</g> [7]</num> Āvatu
+		kō-v-i<hi rend="grantha">rāja-rāja-rāja</hi>-ke<hi rend="grantha">sari</hi>va<hi rend="grantha">nma</hi><supplied reason="omitted">r</supplied>k
+		<lb n="5" break="no"/>ki <supplied reason="undefined">yā</supplied>ṇṭu <num value="17"><g type="numeral">10</g> <supplied reason="undefined">7</supplied></num> Āvatu
 	</p>
 	<p>
-		kāliyū[ṟ-k]ōṭṭattu taṉ kūṟṟu <hi rend="grantha">śiva-cūḷā</hi>maṇi-maṅkalam-ākiya <hi rend="grantha">śrī-vikramābharaṇa-c-catu[r]vve</hi>ti-maṅ
-		<lb n="6" break="no"/>kalattu Iv[v-ā*]ṭṭai <hi rend="grantha">[dhanma-v]ā</hi>ri[ya]-p-perumakkaḷum [U][ḷ*]ḷiṭṭa <hi rend="grantha">mahā-sabhai</hi>yōm
+		kāliyū<supplied reason="undefined">ṟ-k</supplied>ōṭṭattu taṉ kūṟṟu <hi rend="grantha">śiva-cūḷā</hi>maṇi-maṅkalam-ākiya <hi rend="grantha">śrī-vikramābharaṇa-c-catu<supplied reason="undefined">r</supplied>vve</hi>ti-maṅ
+		<lb n="6" break="no"/>kalattu Iv<supplied reason="omitted">v-ā</supplied>ṭṭai <hi rend="grantha"><supplied reason="undefined">dhanma-v</supplied>ā</hi>ri<supplied reason="undefined">ya</supplied>-p-perumakkaḷum <supplied reason="undefined">U</supplied><supplied reason="omitted">ḷ</supplied>ḷiṭṭa <hi rend="grantha">mahā-sabhai</hi>yōm
 		Emm-<choice><orig>u</orig><reg>ū</reg></choice>r taṇṭalu(U)ṭaiyāṅkaḷ maka
-		<lb n="7" break="no"/>ṉ nāramaka[t<hi rend="grantha">ra</hi>kka]ṉ va[pp<choice><orig>u</orig><reg>ū</reg></choice>r] ki[ḻava]r ka<hi rend="grantha">[nmi]</hi>kaṉ [vakkuka]nteyārum Em-[mūr] cāttakaṇattārum [A]mpala[t*]til vaṭakkil <hi rend="grantha">m(ā)hā-śā</hi>
-		<lb n="8" break="no"/><hi rend="grantha">stā</hi>viṉ kōyi[li*]l[ē Iru]n[tu] paṇitta Eḻuttu
+		<lb n="7" break="no"/>ṉ nāramaka<supplied reason="undefined">t<hi rend="grantha">ra</hi>kka</supplied>ṉ va<supplied reason="undefined">pp<choice><orig>u</orig><reg>ū</reg></choice>r</supplied> ki<supplied reason="undefined">ḻava</supplied>r ka<hi rend="grantha"><supplied reason="undefined">nmi</supplied></hi>kaṉ <supplied reason="undefined">vakkuka</supplied>nteyārum Em-<supplied reason="undefined">mūr</supplied> cāttakaṇattārum <supplied reason="undefined">A</supplied>mpala<supplied reason="omitted">t</supplied>til vaṭakkil <hi rend="grantha">m(ā)hā-śā</hi>
+		<lb n="8" break="no"/><hi rend="grantha">stā</hi>viṉ kōyi<supplied reason="undefined">li</supplied>l<supplied reason="undefined">ē Iru</supplied>n<supplied reason="undefined">tu</supplied> paṇitta Eḻuttu
 	</p>
 	<p>
-		Em-[mū]r <hi rend="grantha">ma</hi>hā-<hi rend="grantha">śāstā</hi>vu[kku*]<!--<note>3:10-4</note>--> t<hi rend="grantha">riśandha</hi>kku-p poḻtu Iru-nāḻi-y ā[ka*]<!--3:10-5--> O[ru] nā[ḷai]kku<!--<ref t="3:10-6" />--> [Aṟu]
-		<lb n="9"/>nāḻi[kku]m <!--<ref t="3:10-7" />-->t<hi rend="grantha">risasdhi</hi>kkum p[ō]tu <num value="20">2 <g type="numeral">10</g></num> .<!--<ref t="3:10-8"/>--> Eṇṇai-y-āka [E]ṇṇai [cū]ḻ[ā]kkē-[y]<!--<ref t="3:10-9"/>--> Iru ceviṭ' araikkum āka Iva[mu]ri . m<!--<ref t="3:10-10"/>--> miṭākai vi [ja]<!--<ref t="3:10-11" />--> pakka Em-[mūr]
-		<lb n="10"/>[ki]ḻa[m]ai-y-u[ṭaiya taṭṭū]r kiḻavaṉ caṭai[na]kka<hi rend="grantha">śma</hi><!--<ref t="3:10-12"/>--> makaṉ Aruḷ<hi rend="grantha">śma</hi>n-āṉa<!--<ref t="3:10-13"/>--> Eḻu nū<!--<ref t="3:10-14"/>-->mā[ṇiyē ma]
-		<lb n="11" break="no"/>ṅkalamiṭi [n]el[lu]-p piṭittu-k [k]oṇṭum veṟṟilai vaṭṭil [Uri]-y nellum veṟṟi
-		<lb n="12" break="no"/>lai paṭali[k]ai[yā]l Oru paṟṟu veṟṟilaiy<choice><orig>ū</orig><reg>u</reg></choice>m koṇ<surplus>i</surplus>ṭu [I]p-pa[ri] muṭṭā[m]ē ca<hi rend="grantha">[n<choice><orig>t</orig><reg>d</reg></choice>r]ā</hi>ti[t*]tavaṟ ce
-		<lb n="13" break="no"/>yv[ā]kavum
+		Em-<supplied reason="undefined">mū</supplied>r <hi rend="grantha">ma</hi>hā-<hi rend="grantha">śāstā</hi>vu<supplied reason="omitted">kku</supplied><!--<note>3:10-4</note>--> t<hi rend="grantha">riśandha</hi>kku-p poḻtu Iru-nāḻi-y ā<supplied reason="omitted">ka</supplied><!--3:10-5--> O<supplied reason="undefined">ru</supplied> nā<supplied reason="undefined">ḷai</supplied>kku<!--<ref t="3:10-6" />--> <supplied reason="undefined">Aṟu</supplied>
+		<lb n="9"/>nāḻi<supplied reason="undefined">kku</supplied>m <!--<ref t="3:10-7" />-->t<hi rend="grantha">risasdhi</hi>kkum p<supplied reason="undefined">ō</supplied>tu <num value="20">2 <g type="numeral">10</g></num> .<!--<ref t="3:10-8"/>--> Eṇṇai-y-āka <supplied reason="undefined">E</supplied>ṇṇai <supplied reason="undefined">cū</supplied>ḻ<supplied reason="undefined">ā</supplied>kkē-<supplied reason="undefined">y</supplied><!--<ref t="3:10-9"/>--> Iru ceviṭ' araikkum āka Iva<supplied reason="undefined">mu</supplied>ri . m<!--<ref t="3:10-10"/>--> miṭākai vi <supplied reason="undefined">ja</supplied><!--<ref t="3:10-11" />--> pakka Em-<supplied reason="undefined">mūr</supplied>
+		<lb n="10"/><supplied reason="undefined">ki</supplied>ḻa<supplied reason="undefined">m</supplied>ai-y-u<supplied reason="undefined">ṭaiya taṭṭū</supplied>r kiḻavaṉ caṭai<supplied reason="undefined">na</supplied>kka<hi rend="grantha">śma</hi><!--<ref t="3:10-12"/>--> makaṉ Aruḷ<hi rend="grantha">śma</hi>n-āṉa<!--<ref t="3:10-13"/>--> Eḻu nū<!--<ref t="3:10-14"/>-->mā<supplied reason="undefined">ṇiyē ma</supplied>
+		<lb n="11" break="no"/>ṅkalamiṭi <supplied reason="undefined">n</supplied>el<supplied reason="undefined">lu</supplied>-p piṭittu-k <supplied reason="undefined">k</supplied>oṇṭum veṟṟilai vaṭṭil <supplied reason="undefined">Uri</supplied>-y nellum veṟṟi
+		<lb n="12" break="no"/>lai paṭali<supplied reason="undefined">k</supplied>ai<supplied reason="undefined">yā</supplied>l Oru paṟṟu veṟṟilaiy<choice><orig>ū</orig><reg>u</reg></choice>m koṇ<surplus>i</surplus>ṭu <supplied reason="undefined">I</supplied>p-pa<supplied reason="undefined">ri</supplied> muṭṭā<supplied reason="undefined">m</supplied>ē ca<hi rend="grantha"><supplied reason="undefined">n<choice><orig>t</orig><reg>d</reg></choice>r</supplied>ā</hi>ti<supplied reason="omitted">t</supplied>tavaṟ ce
+		<lb n="13" break="no"/>yv<supplied reason="undefined">ā</supplied>kavum
 	</p>
 	<p>
-		[I<hi rend="grantha">d-dha</hi>ṉ]mam cāttakaṇattārē-y <hi rend="grantha">rakṣi</hi>ppā[r ā]kavum
+		<supplied reason="undefined">I<hi rend="grantha">d-dha</hi>ṉ</supplied>mam cāttakaṇattārē-y <hi rend="grantha">rakṣi</hi>ppā<supplied reason="undefined">r ā</supplied>kavum
 	</p>
 	<p>
-		I[t*]-ta[ṉ]
-		<lb n="14" break="no"/>matat[tu]<!--<ref t="3:10-17"/>--> vi <gap reason="lost" quantity="2" unit="character"/><!--<ref t="3:10-18"/>--> niṉṟār keṅkai y-iṭai-k kumari [y-iṭai]-y paṭṭār ce
-		<lb n="15" break="no"/>yta pā[va]m pa[ṭ<choice><sic>a</sic><corr>u</corr></choice>]v[ār] āka[vu]m
+		I<supplied reason="omitted">t</supplied>-ta<supplied reason="undefined">ṉ</supplied>
+		<lb n="14" break="no"/>matat<supplied reason="undefined">tu</supplied><!--<ref t="3:10-17"/>--> vi <gap reason="lost" quantity="2" unit="character"/><!--<ref t="3:10-18"/>--> niṉṟār keṅkai y-iṭai-k kumari <supplied reason="undefined">y-iṭai</supplied>-y paṭṭār ce
+		<lb n="15" break="no"/>yta pā<supplied reason="undefined">va</supplied>m pa<supplied reason="undefined">ṭ<choice><sic>a</sic><corr>u</corr></choice></supplied>v<supplied reason="undefined">ār</supplied> āka<supplied reason="undefined">vu</supplied>m
 	</p>
 	<p>
-		Iv[v-ū]ril [veṟṟi]lai viṟpār piṭāri kōyilil aṉ
-		<lb n="16" break="no"/>ṟi viṟṟārai Ēri-vā[ri]
-		<lb n="17" break="no"/>[ya]-p-peru-makkaḷē
-		<lb n="18"/>[Ē]ri[k*]ku mutal-āka kaḻa[ñ*][cu]
-		<lb n="19"/>[p]oṉ taṇṭatu[ko]-<!--<ref t="3:10-20"/>-->
-		<lb n="20" break="no"/>[ḷ]ṉa-p peṟuvāka
-		<lb n="21" break="no"/>[vu]m
+		Iv<supplied reason="undefined">v-ū</supplied>ril <supplied reason="undefined">veṟṟi</supplied>lai viṟpār piṭāri kōyilil aṉ
+		<lb n="16" break="no"/>ṟi viṟṟārai Ēri-vā<supplied reason="undefined">ri</supplied>
+		<lb n="17" break="no"/><supplied reason="undefined">ya</supplied>-p-peru-makkaḷē
+		<lb n="18"/><supplied reason="undefined">Ē</supplied>ri<supplied reason="omitted">k</supplied>ku mutal-āka kaḻa<supplied reason="omitted">ñ</supplied><supplied reason="undefined">cu</supplied>
+		<lb n="19"/><supplied reason="undefined">p</supplied>oṉ taṇṭatu<supplied reason="undefined">ko</supplied>-<!--<ref t="3:10-20"/>-->
+		<lb n="20" break="no"/><supplied reason="undefined">ḷ</supplied>ṉa-p peṟuvāka
+		<lb n="21" break="no"/><supplied reason="undefined">vu</supplied>m
 	</p>
 	<p>
 		Ip-pari<choice><sic>t</sic><corr>c</corr></choice>u paṇi
-		<lb n="22" break="no"/>ttō[m] <!--<ref t="3:10-21"/>--> <hi rend="grantha">mahā-[sa]bhai</hi>yōm 
+		<lb n="22" break="no"/>ttō<supplied reason="undefined">m</supplied> <!--<ref t="3:10-21"/>--> <hi rend="grantha">mahā-<supplied reason="undefined">sa</supplied>bhai</hi>yōm 
 	</p>
 	<p>
-		<hi rend="grantha">sabhai</hi>yuḷḷ iruntu paṇi keṭṭ' eḻu[ti]n[ē]ṉ ma<hi rend="grantha">dhyas<choice><orig>t</orig><reg>tha</reg></choice>a</hi>
-		<lb n="23" break="no"/>ṉ [veṟ]ṟikkuṟi n[ā*]l-[ā*]yiravaṉ makaṉ taṉma-[p]-piriyaṉ-ēṉ
+		<hi rend="grantha">sabhai</hi>yuḷḷ iruntu paṇi keṭṭ' eḻu<supplied reason="undefined">ti</supplied>n<supplied reason="undefined">ē</supplied>ṉ ma<hi rend="grantha">dhyas<choice><orig>t</orig><reg>tha</reg></choice>a</hi>
+		<lb n="23" break="no"/>ṉ <supplied reason="undefined">veṟ</supplied>ṟikkuṟi n<supplied reason="omitted">ā</supplied>l-<supplied reason="omitted">ā</supplied>yiravaṉ makaṉ taṉma-<supplied reason="undefined">p</supplied>-piriyaṉ-ēṉ
 	</p>
 	<p>
 		I
@@ -169,6 +169,12 @@
 			<rdg source="bib:Hultzsch1899_01"></rdg>
 		</app>-->
 		
+		<app loc="01">
+			<lem>svasti śrī</lem>
+			<rdg source="bib:Hultzsch1899_01"/>
+			<note><ptr target="bib:Hultzsch1899_01"/> notes: <quote>These two words are engraved in large letters to the left of lines <unclear>1</unclear> to 3.</quote></note>
+		</app>
+		
 		<app loc="23">
 			<lem>I</lem>
 			<rdg source="bib:Hultzsch1899_01"><choice><sic>I</sic><corr>śrī</corr></choice></rdg>
@@ -184,18 +190,18 @@
 
 	<p n="8">To <supplied reason="subaudible">the temple of</supplied> Mahāśāstā in our village, at each of the three times of the day<note>The ‘three times of the day’ (<foreign>trisaṃdhi</foreign> or <foreign>trikāla</foreign>) are sunrise, noon, and nightfall. Compare Vol. I. No. 53, and Vol. II. No. 9, paragraph 2; No. 24, paragraphs 2 and 3; and No. 35, paragraph 2.</note> two <foreign>nāḻi</foreign>s <supplied reason="subaudible">of rice</supplied>, <hi rend="italic">i.e.</hi> on each day six <foreign>nāḻi</foreign>s; at each of the three times of the day, 20 <gap reason="lost" quantity="5" unit="character"/> of oil, <hi rend="italic">i.e.</hi> <supplied reason="subaudible">one</supplied> <foreign>āḻākku</foreign> and two <foreign>ceviṭu</foreign>s and a half of oil <gap reason="lost" quantity="10" unit="character"/></p>
 
-	<p n="9">Aruḷś[ar]man, <hi rend="italic">alias</hi> Eḻunū[ṟṟuvaṉ], the son of Caṭai[na]kkaś[ar]ma[n], the headman of [Taṭṭū]r, who is <supplied reason="subaudible">also</supplied> the headman of our village, <gap reason="lost" quantity="10" unit="character"/> having taken paddy <supplied reason="subaudible">in his hand</supplied> and having taken <supplied reason="subaudible">one</supplied> <foreign>uri</foreign> of paddy <supplied reason="subaudible">on</supplied>a betel-leaf tray <supplied reason="explanation"><foreign>vaṭṭil</foreign></supplied> and one bundle (?) of betel-leaves on a betel-leaf plate <supplied reason="explanation"><foreign>paṭalikai</foreign></supplied>,——it shall thus be done without fail as long as the moon and the sun exist.</p>
+	<p n="9">Aruḷś<supplied reason="undefined">ar</supplied>man, <hi rend="italic">alias</hi> Eḻunū<supplied reason="undefined">ṟṟuvaṉ</supplied>, the son of Caṭai<supplied reason="undefined">na</supplied>kkaś<supplied reason="undefined">ar</supplied>ma<supplied reason="undefined">n</supplied>, the headman of <supplied reason="undefined">Taṭṭū</supplied>r, who is <supplied reason="subaudible">also</supplied> the headman of our village, <gap reason="lost" quantity="10" unit="character"/> having taken paddy <supplied reason="subaudible">in his hand</supplied> and having taken <supplied reason="subaudible">one</supplied> <foreign>uri</foreign> of paddy <supplied reason="subaudible">on</supplied>a betel-leaf tray <supplied reason="explanation"><foreign>vaṭṭil</foreign></supplied> and one bundle (?) of betel-leaves on a betel-leaf plate <supplied reason="explanation"><foreign>paṭalikai</foreign></supplied>,——it shall thus be done without fail as long as the moon and the sun exist.</p>
 
 	<p n="13">The commissioners <supplied reason="subaudible">of the temple</supplied> of Cāttaṉ shall protect this charity.Those who cause obstruction to this charity, shall incur <supplied reason="subaudible">all</supplied> the sins committed between the Gaṅgā and Kumari.</p>
 	<p n="15"> The great men elected for <supplied reason="subaudible">the supervision of</supplied> the tank shall be entitled to levy a fine of <supplied reason="subaudible">one</supplied> <foreign>kaḻañcu</foreign> of gold in favour of the tank-fund from those betel-leaf sellers in this village, who sell <supplied reason="subaudible">betel-leaves</supplied> elsewhere but at the temple of Piṭāri.</p>
 
-	<p n="21">Thus we, the great assembly, have ordered. Having been present in the assembly and having heard <supplied reason="subaudible">their</supplied> order, I, the arbitrator Dharmapriyaṉ, the son of [Veṟ]ṟikkuṟi Nālāyiravaṉ, wrote <supplied reason="subaudible">this</supplied>. Prosperity !</p>
+	<p n="21">Thus we, the great assembly, have ordered. Having been present in the assembly and having heard <supplied reason="subaudible">their</supplied> order, I, the arbitrator Dharmapriyaṉ, the son of <supplied reason="undefined">Veṟ</supplied>ṟikkuṟi Nālāyiravaṉ, wrote <supplied reason="subaudible">this</supplied>. Prosperity !</p>
 
 </div>
 	
 <div type="translation" resp="part:emfr">
 								
-	<p n="1">Prosperity! Fortune!</p>
+	<p n="01">Prosperity! Fortune!</p>
 		
 </div>
 	
