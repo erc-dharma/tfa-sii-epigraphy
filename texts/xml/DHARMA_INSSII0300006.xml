@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Ukkal, Perumāḷ temple, time of Rājarājarājakesarivarman, year 1<supplied
+				<title>Ukkal, Perumāḷ temple, time of Rājarāja Rājakesarivarman, year 1<supplied
 						reason="undefined">7</supplied></title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
@@ -124,7 +124,7 @@
 	<p>
 		Em-<supplied reason="undefined">mū</supplied>r <hi rend="grantha">ma</hi>hā-<hi rend="grantha">śāstā</hi>vu<supplied reason="omitted">kku</supplied> t<hi rend="grantha">ri<choice><sic>ś</sic><corr>s</corr></choice>andh<choice><sic>a</sic><corr>i</corr></choice></hi>kku-p pōḻtu Iru-nāḻ<choice><sic>a</sic><corr>i</corr></choice>-y-ā<supplied reason="omitted">ka</supplied> O<supplied reason="undefined">ru</supplied> nā<supplied reason="undefined">ḷai</supplied>k=ku <del><hi rend="grantha">A</hi></del> <supplied reason="undefined">Aṟu</supplied>
 		<lb n="9"/>nāḻi<supplied reason="undefined">k=ku</supplied>m t<hi rend="grantha">risa<choice><sic>s</sic><corr>n</corr></choice>dhi</hi>k=kum p<supplied reason="undefined">ō</supplied>tu <num value="20">2 <g type="numeral">10</g></num> <g type="undefined"/> Eṇṇai-y-āka <supplied reason="undefined">E</supplied>ṇṇai <choice><sic><supplied reason="undefined">cū</supplied></sic><corr>Ā</corr></choice>ḻ<supplied reason="undefined">ā</supplied>kkē-<supplied reason="undefined">y</supplied> Iru ceviṭ' araikkum āka Iva<supplied reason="undefined">mu</supplied>ri <g type="undefined"/>-m miṭākai vi <supplied reason="undefined"><g type="nellu"/></supplied> pakka Em-<supplied reason="undefined">mūr</supplied>
-		<lb n="10"/><supplied reason="undefined">ki</supplied>ḻa<supplied reason="undefined">m</supplied>ai-y-u<supplied reason="undefined">ṭaiya taṭṭū</supplied>r kiḻavaṉ caṭai<supplied reason="undefined">na</supplied>kka<hi rend="grantha">śma</hi><!--<ref t="3:10-12"/>--> makaṉ Aruḷ<hi rend="grantha">śma</hi>n-āṉa<!--<ref t="3:10-13"/>--> Eḻunū<!--<ref t="3:10-14"/>--> mā<supplied reason="undefined">ṇiyē ma</supplied>
+		<lb n="10"/><supplied reason="undefined">ki</supplied>ḻa<supplied reason="undefined">m</supplied>ai-y-u<supplied reason="undefined">ṭaiya taṭṭū</supplied>r kiḻavaṉ caṭai<supplied reason="undefined">na</supplied>kka<hi rend="grantha">śma</hi><!--SII: Probably an abbreviation for <hi rend="grantha">śarman</hi>.--> makaṉ Aruḷ<hi rend="grantha">śma</hi>n-āṉa<!--SII: Probably an abbreviation for <hi rend="grantha">śarman</hi>.--> Eḻunū<!--SII: Probably an abbreviation for <foreign>eḻunūṟṟuvaṉ</foreign></ta>. --> mā<supplied reason="undefined">ṇiyē ma</supplied>
 		<lb n="11" break="no"/>ṅkalamiṭi <supplied reason="undefined">n</supplied>el<supplied reason="undefined">lu</supplied>-p piṭittu-k <supplied reason="undefined">k</supplied>oṇṭum veṟṟilai vaṭṭil <supplied reason="undefined">Uri</supplied>-y nellum veṟṟi
 		<lb n="12" break="no"/>lai paṭali<supplied reason="undefined">k</supplied>ai<supplied reason="undefined">yā</supplied>l Oru paṟṟu veṟṟilaiy<choice><orig>u</orig><reg>ū</reg></choice>m ko<choice><sic>ṇi</sic><corr>ṇ</corr></choice>ṭu <supplied reason="undefined">I</supplied>p-pa<supplied reason="undefined">ri</supplied> muṭṭā<supplied reason="undefined">m</supplied>ē ca<hi rend="grantha"><supplied reason="undefined">n<choice><orig>t</orig><reg>d</reg></choice>r</supplied>ā</hi>ti<supplied reason="omitted">t</supplied>tavaṟ ce
 		<lb n="13" break="no"/>yv<supplied reason="undefined">ā</supplied>kavum
@@ -134,7 +134,7 @@
 	</p>
 	<p>
 		I<supplied reason="omitted">t</supplied>-ta<supplied reason="undefined">ṉ</supplied>
-		<lb n="14" break="no"/>matat<supplied reason="undefined">tu</supplied><!--<ref t="3:10-17"/>--> vi <gap reason="lost" quantity="2" unit="character"/><!--<ref t="3:10-18"/>--> niṉṟār keṅkai y-iṭai-k kumari <supplied reason="undefined">y-iṭai</supplied>-y paṭṭār ce
+		<lb n="14" break="no"/>ma<surplus>ta</surplus>t<supplied reason="undefined">tu</supplied> vi<supplied reason="lost"><hi rend="grantha">ghna</hi>m</supplied> niṉṟār keṅkai y-iṭai-k kumari <supplied reason="undefined">y-iṭai</supplied>-y paṭṭār ce
 		<lb n="15" break="no"/>yta pā<supplied reason="undefined">va</supplied>m pa<supplied reason="undefined">ṭ<choice><sic>a</sic><corr>u</corr></choice></supplied>v<supplied reason="undefined">ār</supplied> āka<supplied reason="undefined">vu</supplied>m
 	</p>
 	<p>
@@ -142,13 +142,13 @@
 		<lb n="16" break="no"/>ṟi viṟṟārai Ēri-vā<supplied reason="undefined">ri</supplied>
 		<lb n="17" break="no"/><supplied reason="undefined">ya</supplied>-p-peru-makkaḷē
 		<lb n="18"/><supplied reason="undefined">Ē</supplied>ri<supplied reason="omitted">k</supplied>ku mutal-āka kaḻa<supplied reason="omitted">ñ</supplied><supplied reason="undefined">cu</supplied>
-		<lb n="19"/><supplied reason="undefined">p</supplied>oṉ taṇṭatu<supplied reason="undefined">ko</supplied><!--<ref t="3:10-20"/>-->
-		<lb n="20" break="no"/><supplied reason="undefined">ḷ</supplied>ṉa-p peṟuvāka
+		<lb n="19"/><supplied reason="undefined">p</supplied>oṉ taṇṭa<choice><sic>tu</sic><corr>ṅ</corr></choice> <supplied reason="undefined">ko</supplied>
+		<lb n="20" break="no"/><supplied reason="undefined">ḷ</supplied><choice><sic>ṉ</sic><corr>ḷ</corr></choice>a-p peṟuvāka
 		<lb n="21" break="no"/><supplied reason="undefined">vu</supplied>m
 	</p>
 	<p>
 		Ip-pari<choice><sic>t</sic><corr>c</corr></choice>u paṇi
-		<lb n="22" break="no"/>ttō<supplied reason="undefined">m</supplied> <!--<ref t="3:10-21"/>--> <hi rend="grantha">mahā-<supplied reason="undefined">sa</supplied>bhai</hi>yōm 
+		<lb n="22" break="no"/>ttō<supplied reason="undefined">m</supplied> <hi rend="grantha">mahā-<supplied reason="undefined">sa</supplied>bhai</hi>yōm<!--SII: The <foreign>ā</foreign> of <foreign>mahā</foreign> has been added subsequently.--> 
 	</p>
 	<p>
 		<hi rend="grantha">sabhai</hi>yu<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice> iruntu paṇi keṭṭ' eḻu<supplied reason="undefined">ti</supplied>n<supplied reason="undefined">ē</supplied>ṉ ma<hi rend="grantha">dhyas<choice><orig>t</orig><reg>tha</reg></choice>a</hi>
@@ -173,6 +173,11 @@
 			<lem>svasti śrī</lem>
 			<rdg source="bib:Hultzsch1899_01"/>
 			<note><ptr target="bib:Hultzsch1899_01"/> notes: <quote>These two words are engraved in large letters to the left of lines <unclear>1</unclear> to 3.</quote></note>
+		</app>
+		
+		<app loc="5">
+			<lem>°<hi rend="grantha">catu<supplied reason="undefined">r</supplied>vve</hi>ti°</lem>
+			<rdg source="bib:Hultzsch1899_01">°<choice><orig><hi rend="grantha">catu<supplied reason="undefined">r</supplied>vve</hi>ti</orig><reg>°<hi rend="grantha">caturvedi</hi></reg></choice>°</rdg>
 		</app>
 		
 		<app loc="8">
@@ -203,8 +208,27 @@
 			<lem><supplied reason="undefined"><g type="nellu"/></supplied></lem>
 			<rdg source="bib:Hultzsch1899_01"><supplied reason="undefined"><hi rend="grantha">ja</hi></supplied></rdg>
 			<note><ptr target="bib:Hultzsch1899_01"/>notes: <quote>This symbol is an abbreviation for <foreign>nellu;</foreign> see p. 7, note 8.</quote></note>
-		</app>
+		</app>		
 			
+		<app loc="13">
+			<lem>I<supplied reason="omitted">t</supplied>-ta<supplied reason="undefined">ṉ</supplied><lb n="14" break="no"/>ma<surplus>ta</surplus>t<supplied reason="undefined">tu</supplied></lem>
+			<rdg source="bib:Hultzsch1899_01"><choice><sic>I<supplied reason="omitted">t</supplied>-ta<supplied reason="undefined">ṉ</supplied><lb n="14" break="no"/>matat<supplied reason="undefined">tu</supplied></sic><corr>Ittaṉmattukku</corr></choice></rdg>
+		</app>
+		
+		<app loc="14">
+			<lem>vi<supplied reason="lost"><hi rend="grantha">ghna</hi>m</supplied></lem>
+			<rdg source="bib:Hultzsch1899_01"><choice><orig>vi<gap reason="lost" quantity="2" unit="character"/></orig><reg><hi rend="grantha">ghna</hi>m</reg></choice></rdg>
+		</app>
+		
+		<app loc="0">
+			<lem/>
+			<rdg source="bib:Hultzsch1899_01"/>
+		</app>
+		
+		<app loc="0">
+			<lem/>
+			<rdg source="bib:Hultzsch1899_01"/>
+		</app>
 		<app loc="23">
 			<lem>I</lem>
 			<rdg source="bib:Hultzsch1899_01"><choice><sic>I</sic><corr>śrī</corr></choice></rdg>
@@ -232,6 +256,34 @@
 <div type="translation" resp="part:emfr">
 								
 	<p n="01">Prosperity! Fortune!</p>
+	
+	<p n="4-5">17th year of the king Rājarāja Rājakesarivarman,</p>
+	
+	<p n="1-4">who ... [<foreign>meykkīrtti</foreign> of Rājarāja I Cōḻa]</p>
+	
+	<p n="5">Writ that, We, the members of the great assembly, including
+		...
+		ordered, while seating in the temple of Mahāśāsta
+	...</p>
+	
+	<p n="8-13">
+		<list>
+			<item>So that there be ... and</item>
+			<item>so that there be ...</item>
+		</list>
+		...
+		should be done as long as the moon and the sun.
+	</p>
+	
+	<p n="13">The ... <supplied reason="explanation"><foreign>cāttakaṇattār</foreign></supplied> should be the protectors of this <foreign>dharma</foreign>.</p>
+	
+	<p n="13-15">He who stands as an obstacle to this <foreign>dharma</foreign> should encur ...</p>
+	
+	<p n="16-21">...</p>
+		
+	<p n="21-22">Thus We ordered, We, the members of the great assembly.</p>	
+	
+	<p n="22-23">...</p>		
 		
 </div>
 	
