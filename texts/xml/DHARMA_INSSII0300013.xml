@@ -94,9 +94,17 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 				
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
-		<lb n="1"/>svasti śrī
+		<lb n="01"/>svasti śrī<!--<ref t="3:20-10" />-->
 	</ab>		
 	
+	<p>
+		<lb n="1"/><hi rend="grantha">ko rājakesariva[r]mma</hi>ṟ<hi rend="grantha">ku</hi> yāṇṭu <hi rend="grantha">17</hi>-Āvatu nāḷ <hi rend="grantha">[1]22</hi>
+	</p>
+	<p>
+		I<hi rend="grantha">nnā</hi>ḷāl <hi rend="grantha">śrī-vikramābharaṇa-c-catu[r]vvēti-maṅ</hi>
+		<lb n="2" break="no"/><hi rend="grantha">kalattu</hi><!--<ref t="3:20-11"/>--> Ivv-āṭṭai <!--<ref t="3:20-12"/>--> <hi rend="grantha">[sa]mvatsara-vāri</hi>ya-p-perumakkaḷum E<choice><sic>k</sic><corr>r</corr></choice>ivāriya-p-perum<hi rend="grantha">[bha]</hi>ṭṭarka[ḷu]m <hi rend="grantha">viśi</hi>
+		<lb n="3" break="no"/><hi rend="grantha">ṣṭa</hi>rkaḷumuḷḷi[ṭṭa*] <hi rend="grantha">mahā-sabhai</hi>yōm[m]e[m*]m-ūr puvaṉi-māṇikka-vi<hi rend="grantha">ṣṇ[u]gr̥ha</hi>ttē kūṭa Irun<hi rend="grantha">tu</hi> •••••••••••••• 
+	</p>
 </div>
 			
 <!--<div type="apparatus">
@@ -114,7 +122,7 @@
     	
 <div type="translation" source="bib:Hultzsch1899_01">
 	
-	<p n="1">Hail! Prosperity! ...</p>
+	<p n="1">Hail! Prosperity! On the 122nd day of the 17th year <supplied reason="subaudible">of the reign</supplied> of king Rājakesarivarman,——we, the great assembly of Śrī-Vikramābharaṇa-caturveēdimaṅgalam,——including the great men elected for this year, the great <foreign>bhaṭṭa</foreign>s elected for <supplied reason="subaudible">the supervision of</supplied> the tank, and <supplied reason="subaudible">all other</supplied> distinguished men,——being assembled on this day in the Puvaṉimāṇikka-Viṣṇugr̥ham in our village, •••••</p>
 </div>
 	
 <div type="translation" resp="part:emfr">
