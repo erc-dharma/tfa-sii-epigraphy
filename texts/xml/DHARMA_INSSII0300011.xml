@@ -94,8 +94,37 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 				
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
-		<lb n="1"/>svasti śrī
-	</ab>		
+		<lb n="1"/>sva<choice><sic>śrī</sic><corr>sti</corr></choice> śrī
+	</ab>
+
+	<p>
+		kō-p-parakēcari-pa<hi rend="grantha">[nma]</hi>ṟkiyāṇṭu <num value="16"><g type="numeral">10</g> 6</num>-Āvatu
+	</p>
+	
+	<p>
+		kāliyūr-k-kōṭṭa
+		<lb n="2" break="no"/>ttu-t taṉ kūṟṟu civa-cūḷāmaṇi-maṅkalamm-ākiya <!--<ref t="3:17-6"/>-->
+		<hi rend="grantha">śrī</hi>-vi<hi rend="grantha">kramāpara</hi>ṇa<hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>atu[r]vvedi</hi>-[ma]ṅkalattu
+		<lb n="3"/><gap reason="lost" quantity="2" unit="character"/> puvaṉi-<add place="below">māṇi</add>k=ka-vi<hi rend="grantha">ṣṇuśra</hi>ttuḷ<!--<ref t="3:17-8"/>--> perumāṉ Aṭikaḷukku <hi rend="grantha">śrī-kā</hi>[<hi rend="grantha">ryya</hi>ñ] cey[ki]ṉṟa <!--<ref t="3:17-9"/>--><hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>akra-[p]āṇi</hi> nam[pi] viṇṇappat[ti]ṉāl
+		<lb n="4"/><hi rend="grantha">saṃvatsara-vāri</hi>ya-p-[p]e[ru]makkaḷum Eri-vā<hi rend="grantha">ri</hi>[ya*]-p-[p]erumakkaḷ maḻaḷḷiṭṭa<!--<ref t="3:17-10"/>-->	<hi rend="grantha">ma</hi>h[ā*]-<hi rend="grantha">sabhai</hi>yō<hi rend="grantha">m·</hi> Em[m-ū]r puvani-m[ā*]ṇikka-[vi]<hi rend="grantha">ṣṇuśaha</hi>t=tat=ta<!--<ref t="3:17-11"/>--> pecamān-aṭi
+		<lb n="5" break="no"/>kaḷukku [ha]vanat<hi rend="grantha">[tu]</hi>kkun=ti[ru]pu<hi rend="grantha">tsa</hi>vat<hi rend="grantha">tu</hi>kkum<!--<ref t="3:17-12"/>--> Uttara<hi rend="grantha">ma</hi>yana[mu]m [yū]ṭṭima[ya]na[mu]m<!--<ref t="3:17-13"/>--> [citta]ya-vi<hi rend="grantha">ṣu</hi>vum Ai[p*]paci-vi<hi rend="grantha">ṣu</hi>vum <hi rend="grantha">sū[ryya]-graha</hi>ṇamum <hi rend="grantha">soma</hi>		
+		<lb n="6" break="no"/>-<hi rend="grantha">graha</hi>ṇamu maṟṟu <hi rend="grantha">[pr]āyaści</hi>tta tiru-mañaṇaṅka[ḷu] maṟṟu<!--<ref t="3:17-14"/>--> E[p]pērppaṭṭa kucakkalam eppErppaṭṭa kucak[ka] <gap reason="lost" quantity="3" unit="character"/>
+		<lb n="7" break="no"/>ṟai vaṟuppata[ṟ]ku vaitta pūmi
+		
+		It-<hi rend="grantha">de</hi>var ūr-āṉa [c]ōtiyam-pākkattu Ūriṉ mēlai putu-[t-tiru]ttil A[r][aiyum*]
+		<lb n="8"/>pu[ḷiya]ñce[ṟuvi]ṟa [t]eṟk=kila[r]aiyum [cuvapa]la-kollaiyil veḷkekkālu[k*]ku<!--<ref t="3:18-1"/>--> mēṟku Oṉṟ' arai nila[m] <gap reason="lost" quantity="3" unit="character"/>
+		<lb n="9" break="no"/><hi rend="grantha">sa</hi>vattil<!--<ref t="3:18-2"/>--> Ēḻu n[āḷum] nāl[va]ṟ[ku] koṟ <gap reason="lost" quantity="2" unit="character"/> vat' ākavu[m]
+	</p>
+	<p>
+		[āṭṭ]ai [pū]<hi rend="grantha">jai</hi> [A]r[ai]-k kaḻ<choice><sic>ai</sic><corr>a</corr></choice>ñcum
+	</p>
+	<p>
+		Ip-pa[ricu <hi rend="grantha">sa*</hi>]
+		<lb n="10" break="no"/><hi rend="grantha">bhai</hi> paṇi O[ṭṭi-k kuṭut]tēṉ [ca<hi rend="grantha">kra</hi>]pāṇi [nam]piyēṉ
+	</p>
+	<p>
+		[I]<hi rend="grantha">dhimma<!--<ref t="3:18-3"/>--> +</hi>
+	</p>
 	
 </div>
 			
