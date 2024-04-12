@@ -99,17 +99,23 @@
 		<lb n="1"/>svasti śrī
 	</ab>
 	
-	<p>
+	<lg n="1" met="āciriyappa">		
+		<l n="1">tiru-makaḷ pōla-p peru-nila-c-celviyun=</l>
+		<l n="2">taṉakkē y-urimai [pūṇ]ṭamai maṉakkoḷa-k</l>
+		<l n="3">kān=ta[ḷ<choice><orig>u</orig><reg>ū</reg></choice>r] c[ā]lai kalam aṟutt-aru[ḷi]
+		v[ē]ṅkai-nāṭuṅ kaṅka-pāṭiyu</l>
+		<l n="4">[nu]ḷampa-pāṭiyun taṭīka-pāṭiyuṅ</l>
+		<l n="5">kuṭa-malai-nāṭuṅ kollamuṅ kaliṅkamum</l>
+		<l n="6">eṇ-ṭicai pukaḻ tara v-īḻa-maṇṭalamum</l>
+		<l n="7">iraṭṭapāṭi y-Ēḻ’ arai y-ilakkamun=</l>
+		<l n="8">tiṇṭiṟal veṉṟi-t taṇṭāṟ-k koṇṭa ta<choice><orig>nṉ</orig><reg>ṉ</reg></choice></l>
+		<l n="9">eḻil vaḷar ūḻi Ēllā [y]ā[ṇ]ṭun=</l>
+		<l n="10">toḻuta[k*]ai viḷaṅkum yāṇṭē-y</l>
+		<l n="11">ceḻiyarai-t tēcu koḷ</l>
 		
-		tirumakaḷ polapperunilaccelviyu<hi rend="grantha">nta</hi>ṉakkē
-		yurimai [pūṇ]ṭamai maṉakkoḷk
-		kā<hi rend="grantha">nta</hi>[ḷ<choice><orig>u</orig><reg>ū</reg></choice>r] c[ā]lai kalam aṟutt-aru[ḷi]
-		v[e]ṅkaināṭuṅ kaṅkapāṭiyu [nu]ḷampapāṭiyun taṭīkapāṭiyuṅ kuṭamalaināṭuṅ kollamuṅ kaliṅkamum
-		eṇṭicai pukaḻ taravīḻamaṇṭalamumiraṭṭapāṭi y-eḻarai y-ilakkamu<hi rend="grantha">nti</hi>ṇṭiṟal veṉṟi-t taṇṭāṟ-k koṇṭa tanṉ
-		eḻil vaḷarūḻi ellā [y]ā[ṇ]ṭu<hi rend="grantha">nto</hi>ḻuta[k*]ai viḷaṅkum yāṇṭē-yy ceḻiyarai-t tēcu koḷ
-	</p>
+	</lg>
 	<p>
-		śrī-kō-v-i<hi rend="grantha">rāja-rāja</hi>-ke<hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">nmar-ā</hi>na <hi rend="grantha">śrī-rāja-rāja-de</hi>varkku yāṇṭu <num value="29">2 10 9</num>-Avatu
+		śrī-kō-v-i<hi rend="grantha">rāja-rāja</hi>-ke<hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">nmar-ā</hi>na <hi rend="grantha">śrī-rāja-rāja-de</hi>varkku yāṇṭu <num value="29">2 <g type="numeral">10</g> 9</num>-Avatu
 	</p>
 	<p>
 		jayaṅ-koṇṭa-coḻa-maṇṭalattu-p perum-pāṇa-p-pāṭittūñāṭṭu m[ē]ṟ-p-pāṭi-y-ā[ki]ya <hi rend="grantha">rājāśra</hi>ya-purattu nakarattōm Āṟṟ<choice><orig>u</orig><reg>ū</reg></choice>rar-t tuñciṉa tēvarkku-p-paḷḷi-paṭai-y-āka Uṭaiyār <hi rend="grantha">śrī-rāja-rāja-de</hi>var Eṅkaḷ nakarat[ti]leṭuppitt-aru[ḷi]ṉa [ti]ru-Aṟiñcikai-<hi rend="grantha">[Ī]śva</hi>rattu <hi rend="grantha">ma</hi>hā-<hi rend="grantha">de</hi>var [śrī]-kō[yi]lukkun [ti]ru-c-cuṟṟālaikkun [ti]ru-muṟṟattukkun [ti]ru-nantaṉa-vaṉattukkum
@@ -133,18 +139,23 @@
 	
 </div>
 			
-<!--<div type="apparatus">
+<div type="apparatus">
 				
 	<listApp>
 								
-		<app loc="0">
-			<lem></lem>
-			<rdg source="bib:Hultzsch1899_01"></rdg>
+		<!--<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:Hultzsch1899_01">...</rdg>
+		</app>-->
+		
+		<app loc="1">
+			<lem>maṉakkoḷa-k</lem>
+			<rdg source="bib:Hultzsch1899_01">maṉakkoḷk</rdg>
 		</app>
 		
 	</listApp>    			
 	
-</div>-->
+</div>
     	
 <div type="translation" source="bib:Hultzsch1899_01">
 	
