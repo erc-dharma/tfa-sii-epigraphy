@@ -8,7 +8,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Mēlpāṭi, Cōḻēśvara temple, time of Rājarāja, year 29</title>
+            <title>Karuvūr, Pasupatīśvara temple, time of Rājendra Cōḻa Parakesarivarman, year
+					9</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -31,7 +32,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSSII0300016</idno>
+            <idno type="filename">DHARMA_INSSII0300023</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -86,7 +87,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:reda" when="2024-04-09">Creation of the file on the
+         <change who="part:reda" when="2024-04-12">Creation of the file on the
 				repository</change>
       </revisionDesc>
    </teiHeader>
@@ -98,51 +99,7 @@
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
 		<lb n="1"/>svasti śrī
 	</ab>
-	
-	<p>
-		<lb n="1"/>
-		tirumakaḷ polapperunilaccelviyun
-		taṉakkeyurimai pūṇṭamaimaṉakkoḷk
-		kāntaḷar•• kkem aṟutt-aruḷi<!--<ref t="3:25-4"/>--> 
-		vēṅkaināṭuṅ
-		kaṅkapāṭiyun<!--<ref t="3:25-5"/>--> taṭīkapā[ṭi]yuṅ
-		kuṭamalaināṭuṅ kollamuṅ kaliṅkamum 
-		Eṇṭicai pukaḻ taravīḻamaṇṭala[mu]miraṭṭapāṭi yeḻarai yilakkamun
-		tiṇṭiṟal veṉṟittaṇṭāṟkoṇṭa taṉṉ
-		eḻilvaḷaruḻi<!--<ref t="3:25-6" />--> ellā yāṇṭun
-		toḻuta[k*]ai viḷaṅkum yāṇṭē
-		ceḻiyarai-t te[cu]koḷ
-	</p>
-	<p>
-		śrī-ko-[v-i]<hi rend="grantha">rāja-rāja</hi>ke<hi rend="grantha">sa</hi>ripa<hi rend="grantha">[r*]mma</hi>r-āṉa <hi rend="grantha">śrī-rāja-rāja-de</hi>vaṟku yāṇṭu <hi rend="grantha">29</hi>-[Ā]vatu
-	</p>
-	<p>
-		jayaṅ-koṇṭa-coḻa-maṇṭalattu-p perumpāṇappāṭittura-ñāṭṭu<!--<ref t="3:25-7"/>--> mēṟ-pāṭi-y-āṉa <hi rend="grantha">rājāśra</hi>ya-purattu nakarattōm [Ā]ṟṟ<choice><orig>u</orig><reg>ū</reg></choice>rar-t tu[ñ]ciṉa tevarkku-p paḷḷi-paṭai-y-āka Uṭ[ai]yār <hi rend="grantha">śrī-rāja-rāja-de</hi>var Eṅkaḷ nakarattil Eṭuppitt-aruḷiṉa Aṟiñcikai-Ī<hi rend="grantha">śva</hi>rattu <hi rend="grantha">ma</hi>hā<hi rend="grantha">de</hi>varkku veṇṭu nivantaṅkaḷukkut tevatāṉam-āka nāṅkaḷ kuṭutta nilamāva[tu]
-	</p>
-	<p>
-		Eṅkaḷ<choice><sic>a</sic><corr>ū</corr></choice>rkkuppiṭākaiyāka-p pe[ṟ]ṟ-uṭaiya[vūru]kaḷil maṉaivaḻi kūṟiṭātu nakara-p-potuvāy-k kiṭanta [pu]li[k]kuṉṟattukku(kku)-k 
 		
-		k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-[p]āṟk’ ellai nu[k]āveṉṉumāṟṟukku meṟku[m*]
-		
-		<lb n="2"/>te[ṉpāṟ]kellai kukkaṉūr<!--<ref t="3:25-11" />--> Ellaikku vaṭakkum
-		
-		[m]el-pāṟk’ ellai te[ṉ]koḷḷi ellaikku-k kiḻakkum
-		
-		vaṭa-pāṟk’ ellai pālainellūr<!--<ref t="3:25-12"/>--> ellaikku-t teṟkum
-		
-		In-nāṟ-[p]ēr-ellaiyuḷ[ḷu] naṭu[vu]-paṭṭa pulikkuṉṟam n<choice><orig>i</orig><reg>ī</reg></choice>r-nila[mu]ṅ kollaiyuṅ kāṭum uṭ-paṭa [v-uṇṇilam o]ḻiv’ iṉṟi Ippulikkuṉṟattuni[y]ai<!--<ref t="3:25-14"/>--> Epp[e]rpap[pa]<supplied reason="omitted">ṭṭa</supplied>tum
-		It-tēvar[k*]ku vēṇṭu nivantaṅkaḷukku-t tēvatāṉa I[ṟ]ai-y-ili-y-āka-c cilā-lekai ceytu kuṭuttōm mēṟ-pā[ṭi]-y-āṉa <hi rend="grantha">rājāśra</hi>ya-purattu nakarattōm
-	</p>
-	<p>		
-		nakarattār colla Eḻutiṉēṉ In-nakara-k-kara[ṇa*]tt[ā]ṉ nārāyaṇaṉa[ṭai]kkalava[ṉēṉ]
-	</p>
-	<p>
-		[I]v<hi rend="grantha">ai</hi> y-eṉṉe[ḻu]ttu <g type="gomutraFinal">.</g>
-	</p>
-	<p>
-		Itu paṉ-mā<hi rend="grantha"><choice><sic>bh</sic><corr>h</corr></choice>eśva<supplied reason="omitted">ra</supplied>-rakṣai</hi> <g type="gomutraFinal">.</g>
-	</p>
-	
 </div>
 			
 <!--<div type="apparatus">
@@ -175,15 +132,15 @@
 <div type="bibliography">
 				
 	<!--<p>Reported in <bibl><ptr target="bib:ARIE"/></bibl>...</p>-->
-	<p>Edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>, with English translation (SII 3.16).</p>
+	<p>Edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>, with English translation (SII 3.23).</p>
 	<p>Encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>.</p>	
 	
 	<listBibl type="primary">
 		
 		<bibl n="SII ">
 			<ptr target="bib:Hultzsch1899_01"/>
-			<citedRange unit="page">24-26</citedRange>
-			<citedRange unit="item">16</citedRange>
+			<citedRange unit="page">43-45</citedRange>
+			<citedRange unit="item">23</citedRange>
 		</bibl>
 		
 	</listBibl>
