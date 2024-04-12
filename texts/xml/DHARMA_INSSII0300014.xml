@@ -95,7 +95,35 @@
 				
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
 		<lb n="1"/>svasti śrī
-	</ab>		
+	</ab>
+	
+	<p>
+		<hi rend="grantha">vīra-pā</hi>ṇṭiyaṉai-t talai koṇṭa <hi rend="grantha">kō</hi>-p-[para]<hi rend="grantha">kesari-panma</hi>ṟ[ku] yāṇṭu nāl-āvatu
+	</p>
+	<p>
+		kāliyū<hi rend="grantha">r·</hi>-k-[k]ōṭṭattu taṉ kūṟṟu-c c<choice><orig>ī</orig><reg>i</reg></choice>va-cūḷāmaṇi-maṅkalam-ākiya <hi rend="grantha">ś<supplied reason="omitted">r</supplied>ī-vikramā[bha]ra</hi>[ṇa-c-ca]tu<hi rend="grantha">[rvv]e</hi>ti-maṅka[lattu] Iruntu vāḻum
+		<lb n="2"/>ve<choice><sic>ṉa</sic><corr>ḷ</corr></choice>ḷāḷaṉ ci[kk]ār-uṭ[aiy]āṉ puliyaṉ makaṉ cēṉai taṉak[ku] <hi rend="grantha">dharmm[ārttha]</hi>m-[ā]ka
+		
+		<list><item>I[v*]vū[r*] <hi rend="grantha">brahma-sthā</hi>ṉattē Āṟu mā<hi rend="grantha">sa</hi><choice><orig>ṉ</orig><reg>n</reg></choice> taṇṇīr aṭṭuvatākavum</item>
+		<item>Āṟu mā<hi rend="grantha">sam· Agniṣ<choice><sic>ṭ</sic><corr>ṭh</corr></choice>ai</hi> Iṭuva[t]' ākavum</item>
+		<item>maṇṭa<choice><sic>t</sic><corr>k</corr></choice>attu t[o]ṭṭi mū[ṉṟē-y]<!--<ref t="3:21-10" />--> Etta[m Eṭuppa]t' ākavum</item></list>
+		
+		I<hi rend="grantha">t-dha[r]mma</hi>ttuk[ku <hi rend="grantha">ca</hi>]<hi rend="grantha">ndrā</hi>titta-vat niṟka vaitta
+		<lb n="3"/><hi rend="grantha">bhūmi</hi> va[ḷai]yiliṟ paṭṭi nilamum
+	</p>
+	<p>
+		[A]vvava-<hi rend="grantha">sa<choice><orig>m·</orig><reg>ṃ</reg></choice>vatsara</hi>ṅkaḷil <hi rend="grantha">grāmakā[r]yyam·</hi> tirut[tum p]e[ru]-makka<add place="below">ḷ</add> [I]t-<hi rend="grantha">dha[r]mma</hi>ṅ kaṭai-k-kāṇpat' āka[vu][m*] 
+	</p>
+	<p>
+		I[ta]ṟk[ku] <hi rend="grantha">virodha</hi> [niṉ]ṟār <hi rend="grantha">g<choice><orig>e</orig><reg>a</reg></choice>[ṅ]gā-<choice><orig>g</orig><reg>k</reg></choice>anyā[nta]</hi>rattiṟ c[e]ytār ceyta pā[va]ttiṟ paṭu[v]ār ākavu[m]
+		</p>
+	<p>
+		[I]p-pa[ricu] v<choice><orig>aiy</orig><reg>ai</reg></choice>tt[ē]ṉ ceṉaiy[ē]ṉ
+	</p>
+	<p>
+		[I]tuk[ku] <hi rend="grantha">virodhi</hi>[ttā]ṉ Iru-[pat]t' <choice><sic>a</sic><corr>ai</corr></choice>ñ
+		<lb n="4" break="no"/>-kaḻañcu [p]oṉ <hi rend="grantha">da</hi>ṇṭam iṭa-p peṟuvat' āka[vu]m		
+	</p>
 	
 </div>
 			
@@ -114,7 +142,9 @@
     	
 <div type="translation" source="bib:Hultzsch1899_01">
 	
-	<p n="1">Hail! Prosperity! ...</p>
+	<p n="1">Hail! Prosperity! In the fourth year <supplied reason="subaudible">of the reign</supplied> of king Parakesarivarman who deprived Vīra-Pāṇḍya of <supplied reason="subaudible">his</supplied> head,—Cēṉai, <supplied reason="subaudible">who was</supplied> the son of the cultivator <supplied reason="subaudible">Veḷḷāḷaṉ</supplied> Ci[kk]ār-uṭaiyāṉ Puliyaṉ <supplied reason="subaudible">and</supplied> who resided at Śivacūḷāmaṇimaṅgalam, <hi rend="italic">alias</hi> Śrī-Vikramābharaṇa-caturvedimaṅgalam, <supplied reason="subaudible">a village</supplied> in its own subdivision of Kāliyūr-kōṭṭam, assigned <supplied reason="subaudible">one</supplied> <foreign>paṭṭi</foreign> of land in the neighbourhood, to last as long as the moon and the sun, for his own merit <supplied reason="subaudible">and</supplied> for the meritorious purpose of supplying to the <foreign>brahmasthāna</foreign> in this village water during six months and fire-pans <supplied reason="explanation"><foreign>agniṣṭhā</foreign></supplied> during six months and of constructing a water-lever in front of the cistern at the <foreign>maṇḍapa</foreign>.<note><foreign>maṇṭakam</foreign> is a Tamil corruption of <foreign>maṇṭapam</foreign>. It occurs in No. 7, line 2, and three times in the Kūram plates (Vol. I. No. 151, text lines 61 and 74).</note></p>
+
+	<p n="3">The great men who manage the affairs of the village in each year, shall supervise this charity. Those who cause obstruction to this, shall incur <supplied reason="subaudible">all</supplied> the sins committed between the Gaṅgā and Kanyā.<note>Kanyā is the same as Kanyākumāri or, more commonly, Kumari, the Tamil name of Cape Comorin.</note> Under these conditions, I, Cēṉai, assigned <supplied reason="subaudible">the land</supplied>. He who obstructs this, shall be liable to pay a fine of twenty-five <foreign>kaḻañcu</foreign>s of gold.</p>
 </div>
 	
 <div type="translation" resp="part:emfr">
