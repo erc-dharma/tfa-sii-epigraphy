@@ -96,17 +96,20 @@
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
 		<lb n="1"/>svasti śrī
 	</ab>		
-	<p>
-		tirumakaḷ pola-p peru-nila-c-celviyu<hi rend="grantha">nta</hi>
-		<lb n="2" break="no"/>ṉak[kē]yu[ri]mai pūṇṭamai maṉakkoḷk
-		kā<hi rend="grantha">nta</hi>[ḷū]rccā
-		<lb n="3" break="no"/>[lai] kalam aṟutt-aruḷi vēṅkai-nāṭuṅ kaṅka-pāṭiyum nuḷam[pa]
-		<lb n="4" break="no"/>[p]āṭiyu<hi rend="grantha">nta</hi>ṭikai-pāṭiyuṅ kuṭa-malai-nāṭuṅ kollamuṅ kaliṅkamum
-		<lb n="5"/>Eṇṭicai pukaḻ tara v-īḻamaṇṭalamumiraṭṭapāṭi y-eḻarai y-ilakkamu<hi rend="grantha">nti</hi>ṇ[ṭi]
-		<lb n="6" break="no"/>ṟal veṉṟit taṇṭāṟ koṇṭa taṉṉ eḻil <!--<ref t="3:26-3"/>-->vaḷaravuḻi y-ellā
-		<lb n="7"/>yāṇṭu<hi rend="grantha">nto</hi>ḻutakai viḷaṅkum yāṇṭē ceḻiyarai-t tēcu ko
-		<lb n="8" break="no"/>ḷ
-	</p>
+	<lg n="1" met="āciriyappā">
+		<l n="1">tiru-makaḷ pōla-p peru-nila-c-celviyun=</l>
+		<l n="2">ta<lb n="2" break="no"/>ṉak[kē] y-u[ri]mai pūṇṭamai maṉakkoḷa-k</l>
+		<l n="3">kān=ta[ḷū]r-c cā<lb n="3" break="no"/>[lai] kalam aṟutt-aruḷi</l>
+		<l n="4">vēṅkai-nāṭuṅ kaṅka-pāṭiyum</l>
+		<l n="5">nuḷam[pa]<lb n="4" break="no"/>[p]āṭiyun= taṭikai-pāṭiyuṅ</l>		
+		<l n="6">kuṭa-malai-nāṭuṅ kollamuṅ kaliṅkamum</l>
+		<l n="5">Eṇ-ṭicai pukaḻ tara v-īḻamaṇṭalamum</l>
+		<l n="7">iraṭṭa-pāṭi y-ēḻ' arai y-ilakkamun=</l>
+		<l n="8">tiṇ-[ṭi]<lb n="6" break="no"/>ṟal veṉṟi-t taṇṭāṟ koṇṭa ta<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice></l>
+		<l n="9">eḻil vaḷar <choice><sic>avu</sic><corr>ū</corr></choice>ḻi y-ellā <lb n="7"/>yāṇṭun=</l>
+		<l n="10">toḻutakai viḷaṅkum yāṇṭē</l>
+		<l n="11">ceḻiyarai-t tēcu ko<lb n="8" break="no"/>ḷ</l>
+	</lg>
 	<p>
 		śrī-kō-<hi rend="grantha">rāja-rāja-rāja-</hi>kē<hi rend="grantha">sari-varmmar-ā</hi>ṉa <hi rend="grantha">śrī-rāja-rāja-de</hi>vaṟku yāṇ[ṭu]
 		<lb n="9"/><num value="29">[2]9</num>-Āvatu
@@ -123,18 +126,23 @@
 	</p>
 </div>
 			
-<!--<div type="apparatus">
+<div type="apparatus">
 				
 	<listApp>
-								
-		<app loc="0">
-			<lem></lem>
-			<rdg source="bib:Hultzsch1899_01"></rdg>
-		</app>
+		
+		<!--<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:Hultzsch1899_01">...</rdg>
+		</app>-->
+		
+		<app loc="1">
+			<lem>maṉakkoḷa-k</lem>
+			<rdg source="bib:Hultzsch1899_01">maṉakkoḷk</rdg>
+		</app>		
 		
 	</listApp>    			
 	
-</div>-->
+</div>
     	
 <div type="translation" source="bib:Hultzsch1899_01">
 	
