@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Ukkal, Perumāḷ temple, time of Rājarāja, year 24, day 124</title>
+				<title>Ukkal, Perumāḷ temple, time of Rājakesarivarman Rājarāja, year 24, day 124</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -98,55 +98,69 @@
 	</ab>	
 
 	<lg n="1" met="āciriyappā">
-		<l n="1">tirumakaḷ pol pe[ru]nila[c*]cel[viyu]m</l>
-		<l n="2">taṉakkē [U]rimaipūṇṭamai ma[<add place="unspecified">ṉa</add>]kkoḷ</l>
+		<l n="1">tiru-makaḷ pōla pe[ru]-nila-[c*]-cel[viyu]m</l>
+		<l n="2">taṉakkē [U]rimai pūṇṭamai ma<supplied reason="undefined"><add place="unspecified">ṉa</add></supplied>-k-koḷa</l>
 		<l n="3">kā[n*]taḷur-<reg>c</reg> cā[<surplus>ra</surplus>]lai kalam a[ṟu]t[t-aru]ḷi</l> 
 		<l n="4">vēṅkai-nāṭum kaṅka-pāṭiy<choice><orig>ū</orig><reg>u</reg></choice>m</l>
-		<l n="5">nuḷampa-pāṭiyun taṭikaipāṭiyum</l>
-		<l n="6">kuṭamalai-[nā]ṭu(m)<lb n="2" break="no"/>ṅ kollamum kaliṅka[mu]m</l>
-		<l n="7">eṇṭicaiy pukaḻ taru īḻamaṇ(ṭa)ṭala[mu]m</l>
-		<l n="8">[I]laṭṭapāṭi eḻarai ilakkamum</l>
-		<l n="9">tiṇṭiṟal veṉṟi[t*]taṇṭ[ā]ṟk koṇ[ṭa]ta[ṉ]</l>
-		<l n="10">Eḻil vaḷar <choice><orig>u</orig><reg>ū</reg></choice>ḻi ellā yāṇṭum</l>
+		<l n="5">nuḷampa-pāṭiyun taṭikai-pāṭiyum</l>
+		<l n="6">kuṭamalai-[nā]ṭu<choice><orig>m<lb n="2" break="no"/>ṅ</orig><reg><lb n="2" break="no"/>ṅ</reg></choice> kollamum kaliṅka[mu]m</l>
+		<l n="7">Eṇ-ṭicaiy pukaḻ taru Īḻa-maṇ<surplus>ṭa</surplus>ṭala[mu]m</l>
+		<l n="8"><supplied reason="undefined">I</supplied><choice><sic>l</sic><corr>r</corr></choice>aṭṭa-pāṭi Ēḻ' arai Ilakkamum</l>
+		<l n="9">tiṇ-ṭiṟal veṉṟi-[t*] taṇṭ[ā]ṟ-k koṇ[ṭa] ta[ṉ]</l>
+		<l n="10">Eḻil vaḷar <choice><orig>u</orig><reg>ū</reg></choice>ḻi Ellā yāṇṭum</l>
 		<l n="11">toḻutakai viḷa<lb n="3" break="no"/>ṅkum yāṇṭē</l>
-		<l n="12">ce[ḻi]narai tec<choice><orig>ū</orig><reg>u</reg></choice> koḷ</l>
+		<l n="12">ce[ḻi]narai tēc<choice><orig>ū</orig><reg>u</reg></choice> koḷ</l>
 	</lg>
 	<p>
 		
-		śrī-kō<hi rend="grantha">rāja-rāja</hi>ke<hi rend="grantha">sa</hi>ri[va]<hi rend="grantha">narā</hi>na <hi rend="grantha">śrī-rājarājade</hi>[va]rkku [y]āṇ[ṭu] <num value="24">2 10 4</num>-Ā[va]tu nāḷ <!--<ref t="3:14-10"/>--> <num value="124">[100] 2 10 4</num>
+		śrī-kō<hi rend="grantha">rāja-rāja</hi>kē<hi rend="grantha">sa</hi>ri-[va]<choice><sic>n</sic><corr><hi rend="grantha">nm</hi></corr></choice>a<hi rend="grantha">r-ā</hi>na <hi rend="grantha">śrī-rāja-rājade</hi>[va]rkku [y]āṇ[ṭu] <num value="24">2 <g type="numeral">10</g> 4</num>-Ā[va]tu nāḷ <!--<ref t="3:14-10"/>--> <num value="124">[<g type="numeral">100</g>] 2 <g type="numeral">10</g> 4</num>-<choice><orig>n</orig><reg>ṉ</reg></choice>āl
 	</p>
 	<p>		
-		nāluṭaiyār <hi rend="grantha">śrī-rāja-rāja-rāja-de</hi>var<!--<ref t="3:14-11" />--> tañcāvūr-p periya-ceṇṭuvā
-		<lb n="4" break="no"/>[yi]l[c] cittira-kūṭattu teṟkkil kallū[riyil] Ee[ḻu]nt-aruḷi Iruntu co[ṇ]āṭṭum<!--<ref t="3:14-12"/>--> co[ṇ]āṭṭu[p]paṭum<!--<ref t="3:14-13"/>--> pu[ṟa](ṇi)nāṭukaḷilum toṇṭai-nāṭṭilu[m] pāṇṭi-nāṭ-āna <hi rend="grantha">rāja-rāja</hi>-vaḷanāṭṭilum pā[ppa]ṉ Ūrkaḷilum vai<hi rend="grantha">khā</hi>ṉa<hi rend="grantha">sa</hi>r Ūrkaḷi
-		<lb n="5" break="no"/>[lu]m <hi rend="grantha">savaṇṇara</hi><!--<ref t="3:14-14"/>--> Ūrkaḷilum kāṇi uṭai[yār] yāṇṭu <num value="16">10 6</num>-Āvatu [mu]tal <num value="23">2 10 3</num> [ā]vatu varaiyil Īrāṇṭu nirampi [mū]vāṇṭu tantaṅkāṇi-y-āṉa nila[ṅ]kaḷukku Avvava ūr[ka]ḷilāroṭum Ūriṭuvarip[p]āṭu Iṟai Iṟātu pō<choice><orig>n</orig><reg>ṉ</reg></choice>ār kāṇi
-		<lb n="6"/>Uṭaiyārait tavira Ūr-nilam-āy A[vva]va Ū(ra)rkaḷi[lār]ē [viṟṟu-k] koḷḷa[p]-p-[eṟuvā]r[kaḷ ā]ka[vu]m
+		Uṭaiyār <hi rend="grantha">śrī-rāja-rāja-rāja-de</hi>var<!--<ref t="3:14-11" />--> tañcāvūr-p periya-ceṇṭu-vā
+		<lb n="4" break="no"/>[yi]l[c] cittira-kūṭattu teṟkkil kallū[riyil] E[ḻu]nt-aruḷi Iruntu co[ṇ]āṭṭum<!--<ref t="3:14-12"/>--> co[ṇ]āṭṭu-[p] paṭum<!--<ref t="3:14-13"/>--> pu[ṟa](ṇi)-nāṭukaḷilum toṇṭai-nāṭṭilu[m] pāṇṭi-nāṭ-āna <hi rend="grantha">rāja-rāja</hi>-vaḷanāṭṭilum pā[ppa]ṉ Ūrkaḷilum vai<hi rend="grantha">khā</hi>ṉa<hi rend="grantha">sa</hi>r Ūrkaḷi
+		<lb n="5" break="no"/>[lu]m <hi rend="grantha">savaṇṇara</hi><!--<ref t="3:14-14"/>--> Ūrkaḷilum kāṇi Uṭai[yār] yāṇṭu <num value="16"><g type="numeral">10</g> 6</num>-Āvatu [mu]tal <num value="23">2 <g type="numeral">10</g> 3</num>-[Ā]vatu varaiyil Īr-āṇṭu nirampi [mū]-v-āṇṭu tantaṅkāṇi-y-āṉa<!--EF: split?--> nila[ṅ]kaḷukku Avvava Ūr[ka]ḷilāroṭum Ūri-ṭu-vari-p-[p]āṭu Iṟai Iṟātu pō<choice><orig>n</orig><reg>ṉ</reg></choice>ār kāṇi
+		<lb n="6"/>Uṭaiyārai-t tavira Ūr-nilam-āy A[vva]va Ū<surplus>ra</surplus>rkaḷi[lār]ē [viṟṟu-k] koḷḷa[p]-p-[eṟuvā]r[kaḷ ā]ka[vu]m
 	
-		[y]ā[ṇ]ṭu [<num value="24">2 10 4</num>-Āva]tu [mutal Īr]āṇṭu [ni]ram[pimū]vāṇṭu Ūriṭuvarip[p]āṭu Iṟai Iṟātu pōṉār kāṇi Uṭai
-		<lb n="7" break="no"/>yāraittavira [A]vvava Ūrkaḷilāre [vi]ṟṟu-k koḷḷa-[p]-pe(ṟ)ṟu[v]ārkaḷ ākavum
-		Eṉṟu Ip-paricu tiru-vāy-moḻin-
-		<lb n="8" break="no"/>t-aruḷiṉa pa[ṭi] tiru-mantira-v-ōlai <hi rend="grantha">rāja</hi>ke<hi rend="grantha">sa</hi>ri-nallūr kiḻavaṉ Eḻuttiṉālum tiru-mantira-v-ōlai-nāyakaṉ
-		<lb n="9"/>mu-m-muṭi-cō[ḻa]-<hi rend="grantha">brahma</hi>-mārāya[ṉu]m mu-m-muṭi-cōḻa-p[ō]caṉum Oppiṭṭuppuku<hi rend="grantha">nta</hi> keḻvip paṭi <num value="24">2 10 4</num>-vatu na<!--<ref t="3:15-1"/>-->
-		<lb n="10"/><num value="143">100 4 10 3</num> ṉā[l va]riyil <choice><sic>aṭu</sic><corr>iṭ</corr></choice>ṭatu</p>
+		[y]ā[ṇ]ṭu [<num value="24">2 <g type="numeral">10</g> 4</num>-Āva]tu [mutal Īr]-āṇṭu [ni]ram[pi mū]-v-āṇṭu Ūr-iṭu-vari-p-[p]āṭu Iṟai Iṟātu pōṉār kāṇi Uṭai
+		<lb n="7" break="no"/>yārai-t tavira [A]vvava Ūrkaḷilāre [vi]ṟṟu-k koḷḷa-[p]-pe<surplus>ṟ</surplus>ṟu[v]ārkaḷ ākavum
+		eṉṟu Ip-paricu tiru-vāy-moḻin-
+		<lb n="8" break="no"/>t-aruḷiṉa pa[ṭi] tiru-mantira-v-ōlai <hi rend="grantha">rāja</hi>kē<hi rend="grantha">sa</hi>ri-nallūr kiḻavaṉ Eḻuttiṉālum tiru-mantira-v-ōlai-nāyakaṉ
+		<lb n="9"/>mu-m-muṭi-cō[ḻa]-<hi rend="grantha">brahma</hi>-mā-rāya[ṉu]m mu-m-muṭi-cōḻa-p[ō]caṉum Oppiṭṭu-p-pukun=ta kēḻvi-p paṭi <num value="24">2 <g type="numeral">10</g> 4</num>-Āvatu na<!--<ref t="3:15-1"/>-->
+		<lb n="10"/><num value="143"><g type="numeral">100</g> 4 <g type="numeral">10</g> 3</num> ṉā[l va]riyil <choice><sic>aṭu</sic><corr>iṭ</corr></choice>ṭatu</p>
 	</div>
 			
-<!--<div type="apparatus">
+<div type="apparatus">
 				
 	<listApp>
 								
-		<app loc="0">
-			<lem></lem>
-			<rdg source="bib:Hultzsch1899_01"></rdg>
+		<app loc="1">
+			<lem>pōla</lem>
+			<rdg source="bib:Hultzsch1899_01">pol</rdg>
+		</app>
+		<app loc="1">
+			<lem>ma<supplied reason="undefined"><add place="unspecified">ṉa</add></supplied>kkoḷa</lem>
+			<rdg source="bib:Hultzsch1899_01">ma<supplied reason="undefined"><add place="unspecified">ṉa</add></supplied>kkoḷ</rdg>
 		</app>
 		
+		<app loc="2">
+			<lem><supplied reason="undefined">I</supplied><choice><sic>l</sic><corr>r</corr></choice>aṭṭapāṭi</lem>
+			<rdg source="bib:Hultzsch1899_01"><supplied reason="undefined">I</supplied>laṭṭapāṭi</rdg>
+		</app>
+		
+		<!--<app loc="0">
+			<lem></lem>
+			<rdg source="bib:Hultzsch1899_01"></rdg>
+		</app>-->
+				
 	</listApp>    			
 	
-</div>-->
+</div>
     	
 <div type="translation" source="bib:Hultzsch1899_01">
 	
-	<p n="1">Hail! Prosperity! On the 124th day of the 24th year <supplied reason="subaudible">of the reign</supplied> of the glorious king Rājarāja-Kesarivarman, <hi rend="italic">alias</hi> Śrī-Rājarājadeva, who, <supplied reason="subaudible">in</supplied> his life of growing strength, during which,——<supplied reason="subaudible">in</supplied> the belief that, as well as the goddess of fortune, the goddess of the great earth had become his wife,——he was pleased to destroy the ships <supplied reason="subaudible">at</supplied> Kāntaḷūr-Cālai, and conquered by <supplied reason="subaudible">his</supplied> army, which was victorious in great battles, Vēṅkai-nāṭu, Kaṅka-pāṭḍi, Nuḷampa-pāṭi, Taṭikai-pāṭi, Kuṭamalai-nāṭu, Kollam, Kaliṅkam, Īḻa-maṇṭalam, <supplied reason="subaudible">the conquest of which</supplied> made <supplied reason="subaudible">him</supplied> famous <supplied reason="subaudible">in</supplied> the eight directions, and the seven and a half <foreign>lakṣa</foreign>s of Ilaṭṭa-pāṭi,——deprived the Ceḻinas of <supplied reason="subaudible">their</supplied> splendour at the very moment when Utakai, which is worshipped everywhere, was <supplied reason="subaudible">most</supplied> resplendent;——the lord  Śrī-Rājarājadeva, being graciously seated in the college <foreign>kallūri</foreign><note>Compare Vol. II. p. 109.</note> on the south of the painted hall <supplied reason="subaudible">citra-kūṭa</supplied> at the great hippodrome gate <supplied reason="explanation"><foreign>periya-ceṇṭu-vāyil</foreign></supplied> in Tañjāvūr, was pleased to order as follows:——</p>
-	<p n="4">“<supplied reason="subaudible">The land of</supplied> those landholders in villages of Brāhmaṇas, in villages of Vaikhānasas, and in villages of Śramaṇas <note>i.e. Jainas</note> in Cōṇāṭu, in the adjacent districts included in Cōṇāṭu, in Toṇṭḍai-nāṭḍu, and in Pānṭi-nāṭu, <hi rend="italic">alias</hi> Rājarāja-vaḷanāṭu,<note>See Vol. II. p. 320, note 3.</note> who have not paid, on the land owned by them, the taxes due from villages, along with the <supplied reason="subaudible">other</supplied> inhabitants of those villages, for three years, <supplied reason="subaudible">of which</supplied> two are completed, between the 16th and the 23rd years <supplied reason="subaudible">of my reign</supplied>, shall become the property of the village and shall be liable to be sold by the inhabitants of those villages to the exclusion of the <supplied reason="subaudible">defaulting</supplied> landholders. Also, <supplied reason="subaudible">the land of</supplied> those who have not paid the taxes due from villages for three years, <supplied reason="subaudible">of which</supplied> two are completed, from the 24th year <supplied reason="subaudible">of my reign</supplied>, shall be liable to be sold by the inhabitants of those villages to the exclusion of the <supplied reason="subaudible">defaulting</supplied> landholders.”</p>
-	<p n="8">Accordingly, having been written by the royal secretary, Rājakēsarinallūr-Kiḻavaṉ, and having been approved by the chief secretary, Mummuḍi-Cōḻa-Brahmamārāyaṉ, and by Mummuṭi-Śōḻa-Pōcaṉ, <supplied reason="subaudible">this order</supplied> was engrossed from dictation onthe 143rd day of the 24th <supplied reason="subaudible">year of the reign</supplied>.</p>
+	<p n="1">Hail! Prosperity! On the 124th day of the 24th year <supplied reason="subaudible">of the reign</supplied> of the glorious king Rājarāja-Kesarivarman, <hi rend="italic">alias</hi> Śrī-Rājarājadeva, who, <supplied reason="subaudible">in</supplied> his life of growing strength, during which,——<supplied reason="subaudible">in</supplied> the belief that, as well as the goddess of fortune, the goddess of the great earth had become his wife,——he was pleased to destroy the ships <supplied reason="subaudible">at</supplied> Kāntaḷūr-Cālai, and conquered by <supplied reason="subaudible">his</supplied> army, which was victorious in great battles, Vēṅkai-nāṭu, Kaṅka-pāṭi, Nuḷampa-pāṭi, Taṭikai-pāṭi, Kuṭamalai-nāṭu, Kollam, Kaliṅkam, Īḻa-maṇṭalam, <supplied reason="subaudible">the conquest of which</supplied> made <supplied reason="subaudible">him</supplied> famous <supplied reason="subaudible">in</supplied> the eight directions, and the seven and a half <foreign>lakṣa</foreign>s of Ilaṭṭa-pāṭi,——deprived the Ceḻinas of <supplied reason="subaudible">their</supplied> splendour at the very moment when Utakai, which is worshipped everywhere, was <supplied reason="subaudible">most</supplied> resplendent;——the lord  Śrī-Rājarājadeva, being graciously seated in the college <supplied reason="explanation"><foreign>kallūri</foreign></supplied><note>Compare Vol. II. p. 109.</note> on the south of the painted hall <supplied reason="explanation"><foreign>citra-kūṭa</foreign></supplied> at the great hippodrome gate <supplied reason="explanation"><foreign>periya-ceṇṭu-vāyil</foreign></supplied> in Tañjāvūr, was pleased to order as follows:——</p>
+	<p n="4"><quote><supplied reason="subaudible">The land of</supplied> those landholders in villages of Brāhmaṇas, in villages of Vaikhānasas, and in villages of Śramaṇas<note>i.e. Jainas.</note> in Cōṇāṭu, in the adjacent districts included in Cōṇāṭu, in Toṇṭai-nāṭḍu, and in Pāṇṭi-nāṭu, <hi rend="italic">alias</hi> Rājarāja-vaḷanāṭu,<note>See Vol. II. p. 320, note 3.</note> who have not paid, on the land owned by them, the taxes due from villages, along with the <supplied reason="subaudible">other</supplied> inhabitants of those villages, for three years, <supplied reason="subaudible">of which</supplied> two are completed, between the 16th and the 23rd years <supplied reason="subaudible">of my reign</supplied>, shall become the property of the village and shall be liable to be sold by the inhabitants of those villages to the exclusion of the <supplied reason="subaudible">defaulting</supplied> landholders. Also, <supplied reason="subaudible">the land of</supplied> those who have not paid the taxes due from villages for three years, <supplied reason="subaudible">of which</supplied> two are completed, from the 24th year <supplied reason="subaudible">of my reign</supplied>, shall be liable to be sold by the inhabitants of those villages to the exclusion of the <supplied reason="subaudible">defaulting</supplied> landholders.</quote></p>
+	<p n="8">Accordingly, having been written by the royal secretary, Rājakēsarinallūr-Kiḻavaṉ, and having been approved by the chief secretary, Mummuḍi-Cōḻa-Brahmamārāyaṉ, and by Mummuṭi-Cōḻa-Pōcaṉ, <supplied reason="subaudible">this order</supplied> was engrossed from dictation onthe 143rd day of the 24th <supplied reason="subaudible">year of the reign</supplied>.</p>
 </div>
 	
 <div type="translation" resp="part:emfr">
