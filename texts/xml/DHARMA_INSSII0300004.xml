@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Ukkal, Perumāḷ temple, time of Rājakesarivarman, year 29</title>
+				<title>Ukkal, Perumāḷ temple, time of Rājakesarivarman Rājarāja, year 29</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -98,7 +98,7 @@
 	</ab>
 	
 	<lg n="1" met="āciriyappā">
-		<l n="1"><supplied reason="undefined">ti</supplied>rumakaḷ pōla peru-nila-c-ce<supplied reason="undefined">lvi</supplied>yun</l>
+		<l n="1"><supplied reason="undefined">ti</supplied>ru-makaḷ pōla peru-nila-c-ce<supplied reason="undefined">lvi</supplied>yun</l>
 		<l n="2">taṉakkē Urimai p<choice><orig>u</orig><reg>ū</reg></choice>ṇṭamai maṉa-k-k<supplied reason="undefined">o</supplied>ḷa-k</l>
 		<l n="3">kā<supplied reason="undefined">nta</supplied>ḷ<choice><orig>u</orig><reg>ū</reg></choice>r-c cā<supplied reason="undefined">lai ka</supplied>la<supplied reason="undefined">m aṟu</supplied>tt-a<supplied reason="undefined">ru</supplied>ḷi</l>
 		<l n="4"><supplied reason="undefined">v</supplied>ēṅk<supplied reason="undefined">ai</supplied>-nāṭum kaṅka-<supplied reason="undefined">pā</supplied>ṭi<supplied reason="undefined">yum</supplied></l>
@@ -106,8 +106,8 @@
 		<lb n="2" break="no"/>ṭiyum</l>
 		<l n="6">kuṭa-malai-nāṭum kollamum kaliṅkamum</l>
 		<l n="7">muraṭṭoḻil ciṅkaḷar īḻa-<supplied reason="undefined">ma</supplied>ṇṭalamum</l>
-		<l n="8"><supplied reason="undefined">I</supplied>raṭṭa-<supplied reason="undefined">pā</supplied>ṭi Eḻ-arai Ilakkamum</l>
-		<l n="9">muṉ<supplied reason="undefined">ṉī</supplied>r-p pa<supplied reason="undefined">ḻa</supplied>n<supplied reason="undefined">tīvu</supplied> paṉ<supplied reason="undefined">ṉī</supplied>rāyira<supplied reason="undefined">mum</supplied></l>
+		<l n="8"><supplied reason="undefined">I</supplied>raṭṭa-<supplied reason="undefined">pā</supplied>ṭi Ēḻ' arai Ilakkamum</l>
+		<l n="9">muṉ<supplied reason="undefined">ṉī</supplied>r-p pa<supplied reason="undefined">ḻa</supplied>n<supplied reason="undefined">-tīvu</supplied> paṉ<supplied reason="undefined">ṉ-ī</supplied>r-āyira<supplied reason="undefined">mum</supplied></l>
 		<l n="10"><supplied reason="undefined">tiṇ-ṭi</supplied>ṟal ve<supplied reason="undefined">ṉ</supplied>ṟi-t taṇṭāṟ
 		<lb n="3" break="no"/>-k koṇṭa ta<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice></l>
 		<l n="11">eḻil vaḷar <choice><orig>u</orig><reg>ū</reg></choice>ḻiyuḷ ellā y<supplied reason="undefined">ā</supplied>ṇṭun</l>
@@ -115,31 +115,31 @@
 		<l n="13">ceḻiyarai<supplied reason="omitted">-t t</supplied>ēcu koḷ</l>
 	</lg>
 	<p>
-		<hi rend="grantha">śrī</hi>-kō-rā<hi rend="grantha">ja</hi>ke<hi rend="grantha">sa-ri</hi>va<hi rend="grantha">nma</hi>r-āṉa <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja-de</hi>varkku yāṇ-
-		<lb n="4" break="no"/>ṭu <hi rend="grantha">29</hi>-Āvatu
+		<hi rend="grantha">śrī</hi>-kō-rā<hi rend="grantha">ja</hi>kē<hi rend="grantha">sa-ri</hi>va<hi rend="grantha">nma</hi>r-āṉa <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja-de</hi>varkku yāṇ-
+		<lb n="4" break="no"/>ṭu <num value="29">2 <g type="numeral">10</g> 9</num>-Āvatu
 	</p>
 	<p>		
 		<hi rend="grantha">ja</hi>yaṅ-koṇṭa-cōḷa-maṇṭala<supplied reason="undefined">t</supplied>tu-k kāliyūr-k-kōṭṭattu-t taṉiyūr Uk=kal-ākiya <hi rend="grantha">śrī</hi>-vik=kiramāpa<supplied reason="omitted">ra</supplied>ṇa-c-catu<hi rend="grantha"><supplied reason="undefined">r</supplied>vve</hi>ti-maṅkalattu<surplus>ṉ</surplus> mēlai
 		<lb n="5" break="no"/>-p-peru-vaḻiyil <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja-de</hi>var tiru-<supplied reason="undefined">n</supplied>āmattāl-k kiṇaṟun toṭṭiyum camaippittāṉ Uṭaiyār <hi rend="grantha">śrī</hi>-rā<supplied reason="undefined"><hi rend="grantha">ja</hi></supplied>rā<hi rend="grantha">ja-de</hi>var paṇi-makaṉ cōḷa-<supplied reason="undefined">ma</supplied>ṇṭalattu t<supplied reason="undefined">e</supplied>ṉ-kar<supplied reason="undefined">ai</supplied>-nā<supplied reason="undefined">ṭ</supplied>ṭu nitt<choice><sic>ā</sic><corr>a</corr></choice>
-		<lb n="6" break="no"/>viṉō<supplied reason="undefined">ta</supplied>-vaḷanāṭṭu Āvūr-k-kūṟṟattu <supplied reason="undefined">Ā</supplied>vūr-uṭaiyāṉ kaṇṇaṉ ār<choice><orig>u</orig><reg>ū</reg></choice>raṉ
+		<lb n="6" break="no"/>-viṉō<supplied reason="undefined">ta</supplied>-vaḷanāṭṭu Āvūr-k-kūṟṟattu <supplied reason="undefined">Ā</supplied>vūr-uṭaiyāṉ kaṇṇaṉ ār<choice><orig>u</orig><reg>ū</reg></choice>raṉ
 	</p>
 	<p>
 		Ivaṉē
 		
 		<list>
 			<item>
-				<hi rend="grantha">śrī</hi>-rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>-ki<supplied reason="undefined">ṇaṟ</supplied>ṟil<supplied reason="undefined">-t</supplied> toṭṭik=ku nīr-<choice><sic>a</sic><corr>ni</corr></choice>ṟai-<supplied reason="undefined">p</supplied>-pārk=ku <supplied reason="undefined">a</supplied>rumoḻi-tēvaṉ-mara-k-kā<supplied reason="undefined">l</supplied>āl nicatam ne<supplied reason="undefined">l</supplied> <g type="nellu"/> 2 <g type="kuṟuṇi"/> <supplied reason="undefined">Ā</supplied>
+				<hi rend="grantha">śrī</hi>-rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>-ki<supplied reason="undefined">ṇaṟ</supplied>ṟil<supplied reason="undefined">-t</supplied> toṭṭik=ku nīr-<choice><sic>a</sic><corr>ni</corr></choice>ṟai-<supplied reason="undefined">p</supplied>-pārk=ku <supplied reason="undefined">A</supplied>rumoḻi-tēvaṉ-mara-k-kā<supplied reason="undefined">l</supplied>āl nicatam ne<supplied reason="undefined">l</supplied> <g type="nellu"/> 2 <g type="kuṟuṇi"/> <supplied reason="undefined">Ā</supplied>
 		<lb n="7" break="no"/>ka-t
 			</item>
 			<item>
-				tiṅkaḷ 6-kku nel <g type="nellu"/> <num value="30">3 <g type="numeral">10</g></num> <g type="kalam"/>-mum <hi rend="grantha">śrī-rājarāja</hi><supplied reason="undefined">ṉ</supplied> taṇṇīr aṭṭuvārkku nicata<supplied reason="undefined">m</supplied> nel <g type="nellu"/> <supplied reason="undefined">2 <g type="kuṟuṇi"/></supplied> Āka
+				tiṅkaḷ 6-kku nel <g type="nellu"/> <num value="30">3 <g type="numeral">10</g></num> <g type="kalam"/>-mum <hi rend="grantha">śrī-rāja-rāja</hi><supplied reason="undefined">ṉ</supplied> taṇṇīr aṭṭuvārkku nicata<supplied reason="undefined">m</supplied> nel <g type="nellu"/> <supplied reason="undefined">2 <g type="kuṟuṇi"/></supplied> Āka
 			</item>
 			<item>
 				tiṅkaḷ 6-kku nellu <num value="30">3 <g type="numeral">10</g></num> <g type="kalam"/>-m Ip-pantalukku kuca-k-kalam I<supplied reason="undefined">ṭu</supplied>
 		<lb n="8" break="no"/>v<supplied reason="undefined">ā</supplied>rkku tiṅkaḷ 1-kku nellu <g type="muntirikai"/><!--EF: check--> Āka
 			</item>
 			<item>
-				tiṅkaḷ 6-kku nellu <supplied reason="undefined">4 <g type="kalam"/></supplied>-mum <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>ṉ kiṇaṟ<supplied reason="undefined">ṟu</supplied>kku<supplied reason="undefined">m</supplied> t<supplied reason="undefined">o</supplied>ṭṭik<supplied reason="undefined">ku</supplied>m c<supplied reason="undefined">ē</supplied>tattukkum Āṭṭāṇṭu toṟu<supplied reason="undefined">m</supplied> pu<supplied reason="undefined">tu</supplied>k=ku-p-puṟam āka</item></list>
+				tiṅkaḷ 6-kku nellu <supplied reason="undefined">4 <g type="kalam"/></supplied>-mum <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">ja</hi>-rā<hi rend="grantha">ja</hi>ṉ kiṇaṟ<supplied reason="undefined">ṟu</supplied>kku<supplied reason="undefined">m</supplied> t<supplied reason="undefined">o</supplied>ṭṭik<supplied reason="undefined">ku</supplied>m c<supplied reason="undefined">ē</supplied>tattukkum Āṭṭāṇṭu tōṟu<supplied reason="undefined">m</supplied> pu<supplied reason="undefined">tu</supplied>k=ku-p-puṟam āka</item></list>
 		
 		<supplied reason="undefined">v</supplied>ai<choice><orig>cc</orig><reg>tt</reg></choice>a
 		<lb n="9"/>nellu 2 <g type="kalam"/> <g type="muntirikai"/><!--EF: check--> Āka <g type="nellu"/> <num value="66">6 10 6</num> <supplied reason="undefined"><g type="kalam"/></supplied> <g type="muntirikai"/><!--EF: check-->
@@ -179,9 +179,9 @@
     	
 <div type="translation" source="bib:Hultzsch1899_01">
 	
-	<p n="1">Hail! Prosperity! In the 29th year <supplied reason="subaudible">of the reign</supplied> of the glorious king Rājakesarivarman, <hi rend="italic">alias</hi> Śrī-Rājarājadeva, who, in his life of growing strength, during which,——<supplied reason="subaudible">in</supplied> the belief that, as well as the goddess of fortune, the goddess of the great earth had become his wife,——he was pleased to destroy the ships <supplied reason="subaudible">at</supplied> Kāntaḷūr Cālai, and conquered by <supplied reason="subaudible">his</supplied> army, which was victorious in great battles, Vēṅkai-nāṭu, Kaṅka-pāṭi, Nuḷampa-pāṭi, Taṭigai-pāṭi, Kuṭamalai-nāṭu, Kollam, Kaliṅkam, Īḻa-maṇṭalam, <supplied reason="subaudible">which was the country</supplied> of the warlike<note>This inscription reads <foreign>muraṭṭoḻil</foreign> instead of <foreign>muraṭṭeḻil</foreign>.</note> Ciṅkaḷas, the seven and a half <foreign>lakṣa</foreign>s of Iraṭṭa-pāṭi, and twelve thousand ancient islands of the sea,——deprived the Ceḻiyas of <supplied reason="subaudible">their</supplied> splendour at the very moment when Utakai,<note>On Utakai see Vol. II. p. 250, note 3.</note> which is worshipped everywhere, was <supplied reason="subaudible">most</supplied> resplendent;——Kaṇṇaṉ Ārūraṉ, a native of Āvūr, <supplied reason="subaudible">a village</supplied> in Āvūr-kūṟṟam, <supplied reason="subaudible">a subdivision</supplied> of Nittaviṉōta-vaḷanāṭu, <supplied reason="subaudible">a district</supplied> of the country on the southern bank <supplied reason="subaudible">of the Kāvērī</supplied> in Cōḷa-maṇḍalam, <supplied reason="subaudible">and</supplied> a servant <supplied reason="explanation"><foreign>paṇimakaṉ</foreign></supplied> of the lord Śrī-Rājarājadeva, caused to be constructed, in the royal name of Śrī-Rājarājadeva, a well <supplied reason="explanation"><foreign>kiṇaṟu</foreign></supplied> and a cistern <supplied reason="explanation"><foreign>toṭṭi</foreign></supplied> on the high-road to the west of Ukkal, <hi rend="italic">alias</hi> Śrī-Vikramābharaṇa-caturvedimaṅgalam, a village forming its own subdivision<note>On this translation of <foreign>taṉiyūr</foreign> see above, p. 3, note 7.</note> of Kāliyūr-kōṭṭam, <supplied reason="subaudible">a district</supplied> of Jayaṅkoṇṭa-cōḷa-maṇḍalam.</p>
+	<p n="1">Hail! Prosperity! In the 29th year <supplied reason="subaudible">of the reign</supplied> of the glorious king Rājakesarivarman, <hi rend="italic">alias</hi> Śrī-Rājarājadeva, who, in his life of growing strength, during which,——<supplied reason="subaudible">in</supplied> the belief that, as well as the goddess of fortune, the goddess of the great earth had become his wife,——he was pleased to destroy the ships <supplied reason="subaudible">at</supplied> Kāntaḷūr-Cālai, and conquered by <supplied reason="subaudible">his</supplied> army, which was victorious in great battles, Vēṅkai-nāṭu, Kaṅka-pāṭi, Nuḷampa-pāṭi, Taṭikai-pāṭi, Kuṭamalai-nāṭu, Kollam, Kaliṅkam, Īḻa-maṇṭalam, <supplied reason="subaudible">which was the country</supplied> of the warlike<note>This inscription reads <foreign>muraṭṭoḻil</foreign> instead of <foreign>muraṭṭeḻil</foreign>.</note> Ciṅkaḷas, the seven and a half <foreign>lakṣa</foreign>s of Iraṭṭa-pāṭi, and twelve thousand ancient islands of the sea,——deprived the Ceḻiyas of <supplied reason="subaudible">their</supplied> splendour at the very moment when Utakai,<note>On Utakai see Vol. II. p. 250, note 3.</note> which is worshipped everywhere, was <supplied reason="subaudible">most</supplied> resplendent;——Kaṇṇaṉ Ārūraṉ, a native of Āvūr, <supplied reason="subaudible">a village</supplied> in Āvūr-kūṟṟam, <supplied reason="subaudible">a subdivision</supplied> of Nittaviṉōta-vaḷanāṭu, <supplied reason="subaudible">a district</supplied> of the country on the southern bank <supplied reason="subaudible">of the Kāvērī</supplied> in Cōḷa-maṇḍalam, <supplied reason="subaudible">and</supplied> a servant <supplied reason="explanation"><foreign>paṇimakaṉ</foreign></supplied> of the lord Śrī-Rājarājadeva, caused to be constructed, in the royal name of Śrī-Rājarājadeva, a well <supplied reason="explanation"><foreign>kiṇaṟu</foreign></supplied> and a cistern <supplied reason="explanation"><foreign>toṭṭi</foreign></supplied> on the high-road to the west of Ukkal, <hi rend="italic">alias</hi> Śrī-Vikramābharaṇa-caturvedimaṅgalam, a village forming its own subdivision<note>On this translation of <foreign>taṉiyūr</foreign> see above, p. 3, note 7.</note> of Kāliyūr-kōṭṭam, <supplied reason="subaudible">a district</supplied> of Jayaṅkoṇṭa-cōḷa-maṇṭalam.</p>
 	
-	<p n="6">The same person assigned to those who draw water for the cistern from the wellof Śrī-Rājarāja, 2 <foreign>kuṟuṇi</foreign>s of paddy per day, <supplied reason="subaudible">measured</supplied> by the <foreign>marakkāl</foreign> <supplied reason="subaudible">called after</supplied> Arumoḻitēvaṉ,<note>This was a surname of Rājarāja I.; see Vol. II. p. 259, note 5.</note> <hi rend="italic">i.e.</hi> 30 <foreign>kalam</foreign>s of paddy for 6 months; to those who distribute water <supplied reason="subaudible">in the name of</supplied> Śrī-Rājarāja, 2 <foreign>kuṟuṇi</foreign>s of paddy per day, <hi rend="italic">i.e</hi>. 30 <foreign>kalam</foreign>s for 6  months; to those who supply earthen pots for this water-shed <supplied reason="explanation"><foreign>pantal</foreign></supplied>, 2 <foreign>tūṇi</foreign>s of paddy per month, <hi rend="italic">i.e.</hi> 4 <foreign>kalam</foreign>s of paddy for 6 months; and for the repair of cracks in the well of Śrī-Rājarāja and in the cistern, 2 <foreign>kalam</foreign>s and 2 <foreign>tūṇi</foreign>s of paddy per year; altogether, 66 <foreign>kalam</foreign>s and 2 <foreign>tūṇi</foreign>s of paddy.</p>
+	<p n="6">The same person assigned to those who draw water for the cistern from the well of Śrī-Rājarāja, 2 <foreign>kuṟuṇi</foreign>s of paddy per day, <supplied reason="subaudible">measured</supplied> by the <foreign>marakkāl</foreign> <supplied reason="subaudible">called after</supplied> Arumoḻitēvaṉ,<note>This was a surname of Rājarāja I.; see Vol. II. p. 259, note 5.</note> <hi rend="italic">i.e.</hi> 30 <foreign>kalam</foreign>s of paddy for 6 months; to those who distribute water <supplied reason="subaudible">in the name of</supplied> Śrī-Rājarāja, 2 <foreign>kuṟuṇi</foreign>s of paddy per day, <hi rend="italic">i.e</hi>. 30 <foreign>kalam</foreign>s for 6  months; to those who supply earthen pots for this water-shed <supplied reason="explanation"><foreign>pantal</foreign></supplied>, 2 <foreign>tūṇi</foreign>s of paddy per month, <hi rend="italic">i.e.</hi> 4 <foreign>kalam</foreign>s of paddy for 6 months; and for the repair of cracks in the well of Śrī-Rājarāja and in the cistern, 2 <foreign>kalam</foreign>s and 2 <foreign>tūṇi</foreign>s of paddy per year; altogether, 66 <foreign>kalam</foreign>s and 2 <foreign>tūṇi</foreign>s of paddy.</p>
 	
 	<p n="9">In order to <supplied reason="subaudible">supply</supplied> this paddy, we, the assembly of this village, having received from him the revenue and the purchase-money, having exempted <supplied reason="subaudible">the land granted</supplied> from taxes <gap reason="lost" quantity="9" unit="character"/></p>
 </div>
