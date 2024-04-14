@@ -100,9 +100,7 @@
 		
 		<l n="a">kṣoṇī<unclear>m·</unclear> rakṣati bhūmipe kaliyuge rājādhirājāhvaye</l>
 		
-	</lg>
-	
-	
+	</lg>	
 	
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
 		<hi rend="grantha">svasti śrī</hi>
@@ -116,21 +114,13 @@
 </div>
 
 <div type="apparatus">
-				
+		
+	<listApp><app loc="0">
+		<lem>...</lem>
+		<rdg source="bib:KrishnaSastri1925_01"/>
+	</app>
+	</listApp>
 	
-		
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:KrishnaSastri1925_01"/>
-		</app>
-			
-	
-		
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:KrishnaSastri1925_01"/>
-		</app>
-		
 </div>
 			
 <div type="translation" resp="part:emfr">
