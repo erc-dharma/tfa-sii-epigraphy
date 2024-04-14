@@ -96,9 +96,9 @@
    <text xml:space="preserve">
 	<body>
 		
-<div type="edition">
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 	 
-            <div type="textpart" n="A" xml:lang="tam-Latn">
+            <div type="textpart" n="A">
                <head xml:lang="eng">First fragment</head>
 	
 	<p>
@@ -129,7 +129,7 @@
 	</p>
             </div>
 	
-	<div type="textpart" n="B" xml:lang="tam-Latn">
+	<div type="textpart" n="B">
 		<head xml:lang="eng">Second fragment</head>
 		<p>
 			<lb n="1"/><gap quantity="2" reason="lost" unit="character"/><unclear>kan</unclear> para<unclear>m</unclear>pu <unclear>na</unclear> nilamā
@@ -139,153 +139,146 @@
 			<lb n="5" break="no"/>ḷḷān Irā<hi rend="grantha">ja</hi>rā<supplied reason="omitted"><hi rend="grantha">ja</hi></supplied>n nila–
 			<lb n="6" break="no"/><gap quantity="1" reason="lost" unit="character"/><hi rend="grantha">ḍe</hi>va coṟuṭaiyā–
 			<lb n="7" break="no"/>ṭukku Ivai e–
-	
-			
-		</p>
+				
+		</p>	
 		
+	</div>
+	
+</div>	
+	
+<div type="apparatus">
+			
+	<div type="textpart" n="A" xml:lang="tam-Latn">
+		<head xml:lang="eng">First fragment</head>
+		
+		<listApp>
+			
+			<app loc="13">
+				<lem><hi rend="grantha">śrī</hi>purāṇam</lem>
+				<note>The edition marks the title of the work in bold without any further explanation.</note>
+			</app>
+			
+			<app loc="20">
+				<lem>āḻi-y</lem>
+				<note>The consonant attached to the <foreign>ā</foreign> is no longer legible.</note>
+			</app>
+			
+		</listApp>
+	</div>	
+	
+	<div type="textpart" n="B" xml:lang="tam-Latn">
+		<head xml:lang="eng">Second fragment</head>
+		
+		<listApp>
+			
+			<app loc="7">
+				<lem><gap reason="lost"/>e<gap reason="lost"/></lem>
+				<note>The consonant attached to the <foreign>e</foreign> is no longer legible.</note>
+			</app>
+			
+		</listApp>
 		
 		
 	</div>
 	
 </div>
 		
+<div type="translation" resp="part:reda part:emfr">
+			
+	<div type="textpart" n="A" xml:lang="tam-Latn">
+		<head xml:lang="eng">First fragment</head>
+		
+		<p n="1">
+			<gap reason="lost"/> plantain <gap reason="lost"/>
+		</p>
+		
+		<p n="2">
+			<gap reason="lost"/> pots of paddy for <gap reason="lost"/>
+		</p>
+		
+		<p n="3">
+			<gap reason="lost"/> three <foreign>kuṟuṇi </foreign><gap reason="lost"/>
+		</p>
+		
+		<p n="4">
+			<gap reason="lost"/> offering of curds <supplied reason="explanation"><foreign>tayir amutu</foreign></supplied><gap reason="lost"/>
+		</p>
+		
+		<p n="5">
+			<gap reason="lost"/><foreign> tūṇi </foreign> of <gap reason="lost"/> pots of paddy<gap reason="lost"/>
+		</p>
+		
+		<p n="7">
+			<gap reason="lost"/> betel leaves <supplied reason="explanation"><foreign>ilai amutu</foreign></supplied><gap reason="lost"/>
+		</p>	
+		
+		<p n="8">
+			<gap reason="lost"/> gracefully made, <gap reason="lost"/> offering of two <foreign>mañcāṭis</foreign> of <gap reason="lost"/>
+		</p>
+		
+		<p n="9">
+			<gap reason="lost"/> plantain to perform the holy bath <supplied reason="explanation"><foreign>āṭiyaruḷa</foreign></supplied><gap reason="lost"/>
+		</p>
+		
+		<p n="10">
+			<gap reason="lost"/> gold <supplied reason="subaudible">for burning</supplied> incense <supplied reason="explanation"><foreign>citāri</foreign></supplied> in the holy vessel <supplied reason="explanation"><foreign>tiruppukai</foreign></supplied> <gap reason="lost"/>
+		</p>
+		
+		<p n="11">
+			<gap reason="lost"/> for burning the holy lamp at the assembly hall <supplied reason="explanation"><foreign>tiruvōlakkam</foreign></supplied> <gap reason="lost"/>
+		</p>
+		
+		<p n="12">
+			<gap reason="lost"/>the village assembly <supplied reason="explanation"><foreign>paruṣai</foreign></supplied>, which will make the request <supplied reason="explanation"><foreign>viṇṇappam ceyyum</foreign></supplied> <gap reason="lost"/> 
+		</p>
+		
+		<p n="13-14">
+			<gap reason="lost"/> so that <gap reason="lost"/> <foreign>kaḻañcus</foreign> <supplied reason="subaudible">for</supplied> the reciter <supplied reason="explanation"><foreign>vācippān</foreign></supplied> of <foreign>Śrīpurāṇam</foreign>, a <foreign>kaḻañcu</foreign> of gold for <gap reason="lost"/>
+		</p>
+		
+		<p n="14">
+			<gap reason="lost"/> half <foreign>kaḻañcu</foreign> of <gap reason="lost"/> ten gold coins<gap reason="lost"/>
+		</p>
+		
+		<p n="15-16">
+			<gap reason="lost"/> so that six <gap reason="lost"/> <foreign>nāḻis</foreign> <gap reason="lost"/>, <foreign>tūṇi</foreign> of paddy <gap reason="lost"/>
+		</p>
+		
+		<p n="16">
+			<gap reason="lost"/> the holy bath <supplied reason="explanation"><foreign>tirumañcaṉam</foreign></supplied><gap reason="lost"/>
+		</p>
+		
+		<p n="18">
+			<gap reason="lost"/> the leased land borders to the east <gap reason="lost"/>
+		</p>
+		
+		<p n="19">
+			<gap reason="lost"/> a garland of purple water-lilies for the Lord <supplied reason="explanation"><foreign>ceṅkaḻunir tiruppaḷḷittāmam</foreign></supplied> <gap reason="lost"/>
+		</p>
+		
+		<p n="20">
+			<gap reason="lost"/> two <foreign>nāḻis</foreign> of daily paddy so that <gap reason="lost"/>
+		</p>
+		
+		<p n="21">
+			<gap reason="lost"/> two hundred and sixteen <foreign>kalam</foreign> of paddy<gap reason="lost"/>
+		</p>
+		
+		<p n="22">
+			<gap reason="lost"/> for forty-six <foreign>kalam</foreign> <gap reason="lost"/>
+		</p>
+		
+		<p n="23">
+			<gap reason="lost"/> the leased land <gap reason="lost"/>
+		</p>
 		
 		
-		<div type="apparatus">
-			
-			<div type="textpart" n="A" xml:lang="tam-Latn">
-				<head xml:lang="eng">First fragment</head>
+		<p n="24">
+			<gap reason="lost"/> for the protection of the vaiṣṇavas <gap reason="lost"/>
+		</p>
 				
-				<listApp>
-					
-					<app loc="13">
-						<lem><hi rend="grantha">śrī</hi>purāṇam</lem>
-						<note>The edition marks the title of the work in bold without any further explanation.</note>
-					</app>
-					
-					<app loc="20">
-						<lem>āḻi-y</lem>
-						<note>The consonant attached to the <foreign>ā</foreign> is no longer legible.</note>
-					</app>
-					
-				</listApp>
-			</div>	
-			
-			<div type="textpart" n="B" xml:lang="tam-Latn">
-				<head xml:lang="eng">Second fragment</head>
-				
-				<listApp>
-					
-					<app loc="7">
-						<lem><gap reason="lost"/>e<gap reason="lost"/></lem>
-						<note>The consonant attached to the <foreign>e</foreign> is no longer legible.</note>
-					</app>
-					
-				</listApp>
-				
-				
-			</div>
-			
-		</div>
-		
-		
-		
-		<div type="translation" resp="part:reda part:emfr">
-			
-			<div type="textpart" n="A" xml:lang="tam-Latn">
-				<head xml:lang="eng">First fragment</head>
-				
-				<p n="1">
-					<gap reason="lost"/> plantain <gap reason="lost"/>
-				</p>
-				
-				<p n="2">
-					<gap reason="lost"/> pots of paddy for <gap reason="lost"/>
-				</p>
-				
-				<p n="3">
-					<gap reason="lost"/> three <foreign>kuṟuṇi </foreign><gap reason="lost"/>
-				</p>
-				
-				<p n="4">
-					<gap reason="lost"/> offering of curds <supplied reason="explanation"><foreign>tayir amutu</foreign></supplied><gap reason="lost"/>
-				</p>
-				
-				<p n="5">
-					<gap reason="lost"/><foreign> tūṇi </foreign> of <gap reason="lost"/> pots of paddy<gap reason="lost"/>
-				</p>
-				
-				<p n="7">
-					<gap reason="lost"/> betel leaves <supplied reason="explanation"><foreign>ilai amutu</foreign></supplied><gap reason="lost"/>
-				</p>	
-				
-				<p n="8">
-					<gap reason="lost"/> gracefully made, <gap reason="lost"/> offering of two <foreign>mañcāṭis</foreign> of <gap reason="lost"/>
-				</p>
-				
-				<p n="9">
-					<gap reason="lost"/> plantain to perform the holy bath <supplied reason="explanation"><foreign>āṭiyaruḷa</foreign></supplied><gap reason="lost"/>
-				</p>
-				
-				<p n="10">
-					<gap reason="lost"/> gold <supplied reason="subaudible">for burning</supplied> incense <supplied reason="explanation"><foreign>citāri</foreign></supplied> in the holy vessel <supplied reason="explanation"><foreign>tiruppukai</foreign></supplied> <gap reason="lost"/>
-				</p>
-				
-				<p n="11">
-					<gap reason="lost"/> for burning the holy lamp at the assembly hall <supplied reason="explanation"><foreign>tiruvōlakkam</foreign></supplied> <gap reason="lost"/>
-				</p>
-				
-				<p n="12">
-					<gap reason="lost"/>the village assembly <supplied reason="explanation"><foreign>paruṣai</foreign></supplied>, which will make the request <supplied reason="explanation"><foreign>viṇṇappam ceyyum</foreign></supplied> <gap reason="lost"/> 
-				</p>
-				
-				<p n="13-14">
-					<gap reason="lost"/> so that <gap reason="lost"/> <foreign>kaḻañcus</foreign> <supplied reason="subaudible">for</supplied> the reciter <supplied reason="explanation"><foreign>vācippān</foreign></supplied> of <foreign>Śrīpurāṇam</foreign>, a <foreign>kaḻañcu</foreign> of gold for <gap reason="lost"/>
-				</p>
-				
-				<p n="14">
-					<gap reason="lost"/> half <foreign>kaḻañcu</foreign> of <gap reason="lost"/> ten gold coins<gap reason="lost"/>
-				</p>
-				
-				<p n="15-16">
-					<gap reason="lost"/> so that six <gap reason="lost"/> <foreign>nāḻis</foreign> <gap reason="lost"/>, <foreign>tūṇi</foreign> of paddy <gap reason="lost"/>
-				</p>
-				
-				<p n="16">
-					<gap reason="lost"/> the holy bath <supplied reason="explanation"><foreign>tirumañcaṉam</foreign></supplied><gap reason="lost"/>
-				</p>
-				
-				<p n="18">
-					<gap reason="lost"/> the leased land borders to the east <gap reason="lost"/>
-				</p>
-				
-				<p n="19">
-					<gap reason="lost"/> a garland of purple water-lilies for the Lord <supplied reason="explanation"><foreign>ceṅkaḻunir tiruppaḷḷittāmam</foreign></supplied> <gap reason="lost"/>
-				</p>
-				
-				<p n="20">
-					<gap reason="lost"/> two <foreign>nāḻis</foreign> of daily paddy so that <gap reason="lost"/>
-				</p>
-				
-				<p n="21">
-					<gap reason="lost"/> two hundred and sixteen <foreign>kalam</foreign> of paddy<gap reason="lost"/>
-				</p>
-				
-				<p n="22">
-					<gap reason="lost"/> for forty-six <foreign>kalam</foreign> <gap reason="lost"/>
-				</p>
-				
-				<p n="23">
-					<gap reason="lost"/> the leased land <gap reason="lost"/>
-				</p>
-				
-				
-				<p n="24">
-					<gap reason="lost"/> for the protection of the vaiṣṇavas <gap reason="lost"/>
-				</p>
-				
-			</div>
-			
+</div>
+	
 		</div>	
 		<!-- <div type="commentary">
 			<p n="20">

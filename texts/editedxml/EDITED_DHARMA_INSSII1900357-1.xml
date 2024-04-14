@@ -96,14 +96,14 @@
    </teiHeader>
    <text xml:space="preserve">
       
-      
-      <body>
+<body>
          
-         <div type="edition">
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">			
+	
             
             <!--Check encoding of punctuation marks-->
             
-            <div type="textpart" n="A" xml:lang="san-Latn">
+            <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:38768 maturity:83213">
                <head xml:lang="eng">Sanskrit portion</head>
                
                <p>

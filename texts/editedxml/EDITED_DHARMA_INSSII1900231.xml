@@ -88,20 +88,20 @@
    <text xml:space="preserve">
       <body>
 
-         <div type="edition" xml:lang="tam-Latn">
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
            
             <p>
-           <lb n="1"/>kō-p parakē<hi rend="grantha">sa</hi>ripa<hi rend="grantha">nma</hi><unclear>rk</unclear>ku yāṇṭu 9 Āvatu
+           <lb n="1"/>kō-p-parakē<hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">nma</hi><unclear>rk</unclear>ku yāṇṭu 9 Āvatu
             </p>
          	<p>          
-           <lb n="2"/>vaṭakarai <hi rend="grantha">brahma</hi>tēyam <hi rend="grantha">śrī</hi>kāmaravalli-catu<hi rend="grantha">r</hi>ve
+           <lb n="2"/>vaṭa-karai <hi rend="grantha">brahma</hi>tēyam <hi rend="grantha">śrī</hi>kāmaravalli-catu<hi rend="grantha">r</hi>ve
            <lb n="3" break="no"/>ti-maṅkalattu peruṅkuṟi perumakkaḷōm I
            <lb n="4" break="no"/>vv-āṭṭai <hi rend="grantha">dha</hi>ṉu-nāyaṟṟu viyāḻa-<supplied reason="lost">k</supplied>-kiḻamai pe
            <lb n="5" break="no"/>ṟṟa kār<supplied reason="lost">t</supplied>tikai nāṉṟu taṭṭaḻi koṭṭi peruṅ
            <lb n="6" break="no"/>kuṟi cāṟṟi maṇṭakattē kūṭi Eḻu=ntaruḷi Iru
            <lb n="7" break="no"/><unclear>n=tu</unclear> nam tirunallūr <hi rend="grantha">parameśva</hi><supplied reason="lost">r</supplied>kku 		can=trātit	
-           <lb n="8" break="no"/>tavaṟ <hi rend="grantha">śrī</hi>paliyum tiruppaḷḷi  Eḻucciyum koḷ
-           <lb n="9" break="no"/>vataṟku peruṅkuṟi perumakkaḷōm vaittu-k ku
+           <lb n="8" break="no"/>tavaṟ <hi rend="grantha">śrī</hi>paliyum tiru-p-paḷḷi Eḻucciyum koḷ
+           <lb n="9" break="no"/>vataṟku peruṅ-kuṟi peru-makkaḷōm vaittu-k ku
            <lb n="10" break="no"/>ṭutta <hi rend="grantha">ji</hi>vitam āvatu
          		
          	</p>
@@ -114,8 +114,8 @@
          	</p>
          	<p> 
          		
-         	Av Avva Āṇ
-           <lb n="15" break="no"/>ṭu Ūrvāriyam ceyyum pe<unclear>rumak</unclear>kaḷē terica
+         	Av-Avva-Āṇ
+           <lb n="15" break="no"/>ṭu Ūr-vāriyam ceyyum pe<unclear>rumak</unclear>kaḷē terica
            <lb n="16"/>ttōppu puka Iṭa<supplied reason="lost">k</supplied> kaṭavar ākavum<gap reason="lost" quantity="3" unit="character"/>
          		
          	</p>
