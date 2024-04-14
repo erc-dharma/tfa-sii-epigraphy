@@ -88,10 +88,11 @@
 	<text xml:space="preserve">
       <body>
 
-         <div type="edition" xml:lang="tam-Latn">
-            <p>
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--check @rendition-->
+			
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
                <lb n="1"/><hi rend="grantha">svasti śrī</hi>
-            </p>
+            </ab>
             <p>
             <lb n="1"/>kōppa<supplied reason="lost">rakēcaripaṉ<hi rend="grantha">ma</hi>kku yāṇṭu <num value="11">101</num></supplied> Āvatu vaṭakarai nallāṟṟūrnāṭṭu tirukkō<supplied reason="lost">ṭikāvil <hi rend="grantha">mahā</hi></supplied><hi rend="grantha">de</hi>varkku <hi rend="grantha">śrī</hi> Uttamacōḻa<hi rend="grantha">de</hi><supplied reason="lost">varai tiruvayiṟu vāytta ma</supplied>ḻavaraiyar makiḷār
             <lb n="2"/><choice><sic>prā</sic><corr>pirā</corr></choice>ntaka<supplied reason="lost">ṉ <hi rend="grantha">mā</hi>tēvaṭikaḷār-āna cem</supplied>piyan <hi rend="grantha"><choice><sic>māha</sic><corr>mahā</corr></choice>de</hi>viyār I<hi rend="grantha">dde</hi>varkku muṉ<surplus>ṉ</surplus> iṭṭikai<supplied reason="lost">p paṭaiyāluḷḷa <hi rend="grantha">śrī</hi></supplied>kōyilait tavirttu kallālē <supplied reason="lost"><hi rend="grantha">śrī</hi> vimāṉam amaippi</supplied>tu I<hi rend="grantha">de</hi>varuṭaiya

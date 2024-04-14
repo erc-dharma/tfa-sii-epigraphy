@@ -76,14 +76,14 @@
     <body>
        
        
-<div type="edition" xml:lang="tam-Latn">
-          
-	<ab>
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+			
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
 		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
 	</ab>
 	
 	<p>	  	
-		<hi rend="grantha">tribhū</hi>vana-<hi rend="grantha">c-cakra</hi>vat=tikaḷ kula<hi rend="grantha">śekhara-de</hi>vaṟku yāṇṭu 2 e<unclear>ti</unclear>
+		<hi rend="grantha">tribhū</hi>vana-<hi rend="grantha">c-cakra</hi>vat=tikaḷ kula<hi rend="grantha">śekhara-de</hi>vaṟku yāṇṭu 2 E<unclear>ti</unclear>
 		<lb n="2" break="no"/>rām āṇṭiṉ etirām āṇṭai ciṅka-nāy<choice><orig>a</orig><reg>i</reg></choice>ṟṟu muppatān= tiyati nāḷ 
 	</p>
 	
