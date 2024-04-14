@@ -98,55 +98,65 @@
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
 		<lb n="1"/>svasti śrī
 	</ab>
+	<lg n="1" met="āciriyappā">
+		<l n="1">tiru maṉṉi vaḷara irunilamaṭan=</l>
+		<l n="2">taiyum poṟ-caya-p-pāvaiyum <!--<ref t="3:27-3"/>-->cirttani-c-celviyu<lb n="2" break="no"/>n=</l>
+		<l n="3">tan pe[ru]n=-teviyar āki [y-i]ṉpuṟa</l>
+		<l n="4">neṭituyilūḻiyuḷ<!--<ref t="3:27-4"/>--> i[ṭ]ai-tuṟai-nāṭun=</l>
+		<l n="5">tu[ṭa]rvana velippa<lb n="3" break="no"/>ṭar vanavāciyum</l>
+		<l n="6">cuḷḷi[c*]cūḻmatiṭ koḷḷi[p]pāk[k]aiyum</l>
+		<l n="7">naṇṇaṟkaruma<lb n="4" break="no"/>raṇ maṇṇaikkaṭakka[mu]m</l>
+		<l n="8">po[ru]kaṭaliḻattaraiyar<!--<ref t="3:27-5" />--> tamuṭiyum</l>
+		<l n="9">ā[ṅ]kavar <lb n="5"/>tēviyar oṅkeḻil muṭiyu</l>
+		<l n="10">muṉṉavar [pa*]kkal-t teṉṉavar [v]aitta</l>
+		<l n="11"><lb n="6"/>cun=tara-muṭiyum in=tiranāraḻan=</l>
+		<l n="12">teṇṭirai<!--<ref t="3:27-6"/>--> Īḻama<lb n="7" break="no"/>ṇṭala[mu]ḻuvatum</l>
+		<l n="13">eṟipaṭai-k keraḷan [mu]<lb n="8" break="no"/>ṟaimaiyil cūṭuṅ</l>
+		<l n="14">kulatanamākiya palar puka<lb n="9" break="no"/>ḻ muṭiyuñ</l>
+		<l n="15">ceṅkatir mālaiyuñ caṅkatir ve<lb n="10" break="no"/>lai-t</l>
+		<l n="16">tol peruṅ-kāval pala-paḻan=-tivuñ</l>
+		<l n="17">ce[ru]<!--<ref t="3:27-7"/>--><lb n="11"/>viṟ cinavil Irupattorukāl</l>
+		<l n="18">araicukaḷai kaṭṭa <!--<ref t="3:27-8" />-->paraci-rāman</l>
+		<l n="18"><lb n="12"/>mevaruñ c[ā]n=timattivaraṇ<!--<ref t="3:27-9" />--> karuti</l>
+		<l n="19">Iruttiya cemp[oṟ]ṟiru<lb n="13" break="no"/>-t taku muṭiyum</l>
+		<l n="20">payaṅkoṭu paḻi mika [mu]ca[ṅ]kiyil [mu]tukiṭṭ’</l>
+		<l n="21">oḷitta <lb n="14"/>cayaciṅkaṉ aḷapperum pukaḻoṭu</l>
+		<l n="22">[pī]ṭi ilaṭṭapāṭi eḻarai</l>
+		<l n="23">ilakkamu na[va]<lb n="15" break="no"/>neti-[k]-ku[la]-p-pe[ru]malaikaḷu</l>
+		<l n="24">māp[p]e[ru]n=taṇ[ṭā]ṟ koṇ[ṭa]</l>
+	</lg>
 	<p>
-		tiru maṉṉi vaḷara irunilamaṭa<hi rend="grantha">nt</hi>aiyum poṟ-caya-p-pāvaiyum <!--<ref t="3:27-3"/>-->cirttani-c-celviyu
-		<lb n="2" break="no"/><hi rend="grantha">nta</hi>n pe[ru]<hi rend="grantha">nte</hi>viyar āki [yi]ṉpuṟa neṭituyilūḻiyuḷ<!--<ref t="3:27-4"/>--> i[ṭ]ai-tuṟai-nāṭu<hi rend="grantha">n</hi>tu[ṭa]rvana velippa
-		<lb n="3" break="no"/>ṭar vanavāciyum cuḷḷi[c*]cūḻmatiṭ koḷḷi[p]pāk[k]aiyum naṇṇaṟkaruma
-		<lb n="4" break="no"/>raṇ maṇṇaikkaṭakka[mu]m po[ru]kaṭaliḻattaraiyar<!--<ref t="3:27-5" />--> tamuṭiyumā[ṅ]kavar
-		<lb n="5"/>tēviyar oṅkeḻil muṭiyu muṉṉavar [pa*]kkal-t teṉṉavar [v]aitta
-		<lb n="6"/>cu<hi rend="grantha">nta</hi>ra-muṭiyumi<hi rend="grantha">nti</hi>ranāraḻa<hi rend="grantha">nte</hi>ṇṭirai<!--<ref t="3:27-6"/>--> Īḻama
-		<lb n="7" break="no"/>ṇṭala[mu]ḻuvatumeṟipaṭaikkeraḷan [mu]
-		<lb n="8" break="no"/>ṟaimaiyil cūṭuṅkulatanamākiya palar puka
-		<lb n="9" break="no"/>ḻ muṭiyuñceṅkatirmālaiyuñcaṅkatir ve
-		<lb n="10" break="no"/>laittol peruṅ-kāval palapaḻa<hi rend="grantha">nti</hi>vuñce[ru]<!--<ref t="3:27-7"/>-->
-		<lb n="11"/>viṟcinavil irupattorukālaraicukaḷai kaṭṭa <!--<ref t="3:27-8" />-->paraci-rāman
-		<lb n="12"/>mevaruñc[ā]<hi rend="grantha">nti</hi>mattivaraṇ<!--<ref t="3:27-9" />--> karuti iruttiya cemp[oṟ]ṟiru
-		<lb n="13" break="no"/>ttaku muṭiyum payaṅkoṭu paḻi mika [mu]ca[ṅ]kiyil [mu]tukiṭṭoḷitta
-		<lb n="14"/>cayaciṅkaṉ aḷapperum pukaḻoṭu [pī]ṭi ilaṭṭapāṭi eḻarai ilakkamuna[va]
-		<lb n="15" break="no"/>neti[k]ku[la]-p-pe[ru]malaikaḷumāp[p]e[ru]<hi rend="grantha">nta</hi>ṇ[ṭā]ṟ koṇ[ṭa]
+		kō-p-parakē<hi rend="grantha">sari</hi>-[pa]
+		<lb n="16" break="no"/><hi rend="grantha">nma</hi>r-ā[ṉa*] <hi rend="grantha">śrī</hi>-[rā]je<hi rend="grantha">n<choice><orig>t</orig><reg>d</reg></choice>ra</hi>cōḻa<hi rend="grantha">de</hi>varkku yāṇṭu 9-tāvatu
 	</p>
 	<p>
-		kō-p-parakē<hi rend="grantha">sari</hi>[pa]
-		<lb n="16" break="no"/><hi rend="grantha">nma</hi>rā[ṉa*] śrī-[rā]je<hi rend="grantha">ntra</hi>cōḻa<hi rend="grantha">de</hi>varkku yāṇṭu 9-tāvatu
-	</p>
-	<p>
-		jayaṅ-koṇṭa-[c][ō]-
-		<lb n="17" break="no"/>ḻa-maṇṭala[t]tu perumpāṇappāṭittūynāṭṭu meṟpāṭiyāna rāj[ā]<hi rend="grantha">śra[ya*]</hi>
-		<lb n="18" break="no"/>-purattu tiru[va]ṟiñci<hi rend="grantha">śva</hi>rammuṭaiya<!--<ref t="3:27-10"/>--> <hi rend="grantha">mah[ā*]-de</hi>var maṭam-uṭaiya Ilakuḷi<hi rend="grantha">[śva]</hi><!--<ref t="3:27-11"/>-->
-		<lb n="19"/>ra-paṇṭitar ka<hi rend="grantha">nmi</hi>kaḷukku It-tēvar āṭu toṇṇūṟu kaiy-k-k[o]ṇ[ṭu]
-		<lb n="20"/>tiru-na<hi rend="grantha">ntā</hi>viḷakku Onṟinukku erikka neyy aṭṭuvatāka [Iv]v-ūrirukkumiṭ[ai]-
-		<lb n="21" break="no"/>[ya]n eṟaṉ cātta[nu]kku Ivv-rirukkum iṭaiyan kalli kuṭṭeṟanum pu
-		<lb n="22" break="no"/>ṉṉai ciṅkanum eṇi kaṅkātaranum vāṇan co[m]ā[ta][ṉu*]<hi rend="grantha">nta</hi>ṇṭanāṉai[yu]
-		<lb n="23" break="no"/>m nampi cātevanu[m*] ayiti kāṭāṭi[yu*]m nampi tiṇaiyanum nampi paṉṟiyu-
-		<lb n="24"/>m vāṇan puḷiya[nu][m*] Āka Ivvaṉaivōm oṭṭi-p puṇai-p-paṭṭa paric’ āvatu
+		jayaṅ-koṇṭa-[c][ō]
+		<lb n="17" break="no"/>ḻa-maṇṭala[t]tu perum-pāṇa-p-pāṭittūy-nāṭṭu mēṟ-pāṭi-y-āna rāj[ā]<hi rend="grantha">śra[ya*]</hi>
+		<lb n="18" break="no"/>-purattu tiru-[v-a]ṟiñci<hi rend="grantha">śva</hi>ramm-uṭaiya<!--<ref t="3:27-10"/>--> <hi rend="grantha">mah[ā*]-de</hi>var maṭam-uṭaiya Ilakuḷi<hi rend="grantha">[śva]</hi><!--<ref t="3:27-11"/>-->
+		<lb n="19" break="no"/>ra-paṇṭitar ka<hi rend="grantha">nmi</hi>kaḷukku It-tēvar āṭu toṇṇūṟu kaiy-k-k[o]ṇ[ṭu]
+		<lb n="20"/>tiru-na<hi rend="grantha">ntā</hi>-viḷakku Onṟinukku Erikka neyy aṭṭuvatāka [Iv]v-ūr irukkum iṭ[ai]
+		<lb n="21" break="no"/>[ya]n Ēṟaṉ cātta[nu]kku Ivv-ūr irukkum Iṭaiyan kalli kuṭṭēṟanum pu
+		<lb n="22" break="no"/>ṉṉai ciṅkanum Ēṇi kaṅkātaranum vāṇan co[m]ā[ta][ṉu*]n= taṇṭanāṉai[yu]
+		<lb n="23" break="no"/>m nampi cātēvanu[m*] Ayiti kāṭāṭi[yu*]m nampi tiṇaiyanum nampi paṉṟiyu
+		<lb n="24" break="no"/>m vāṇan puḷiya[nu][m*] Āka Ivv-aṉaivōm oṭṭi-p puṇai-p-paṭṭa paric’ āvatu
 	</p>
 	<p>
 		I
-		<lb n="25"/>ṭaiyaneṟaṉ cāttaṉai-k koṇṭu tiru-na<hi rend="grantha">ntā</hi>viḷakk’ oṉṟinukku rā[ca]kē
-		<lb n="26"/>cariyāl nicatam Uḻakku [n]eyy aṭ[ṭu]vippat’ ākavum
+		<lb n="25"/>ṭaiyan ēṟaṉ cāttaṉai-k koṇṭu tiru-na<hi rend="grantha">ntā</hi>-viḷakk’ oṉṟinukku rā[ca]kē
+		<lb n="26" break="no"/>cariyāl nicatam Uḻakku [n]eyy aṭ[ṭu]vippat’ ākavum
 	</p>
 	<p>
 		[I]vaṉ cāvilum [po]ki
-		<lb n="27"/>lum ciṟai taḷai caṅkili pukilum Ivvaṉaivō [mu]ṉpu [ni]ṉṟōmē ca
-		<lb n="28"/><hi rend="grantha">nti</hi>rātitta-vaṟ ti[ru]-viḷakk’ erikka ney aṭṭuvat-āka puṇaippaṭṭōm Ivvaṉaivōm
+		<lb n="27" break="no"/>lum ciṟai taḷai caṅkili pukilum Ivv-aṉaivō [mu]ṉpu [ni]ṉṟōmē ca
+		<lb n="28" break="no"/>n=tirātitta-vaṟ ti[ru]-viḷakk’ erikka ney aṭṭuvat-āka puṇai-p-paṭṭōm Ivv-aṉaivōm
 	</p>
 	<p>
-		<lb n="29"/>Ivarka[ḷ] vēṇṭa v-[e]ḻutinēṉ I[n*]nakara-k-karaṇattān poṉṉāli [A]ṟu
-		<lb n="30"/>pattiruvanēṉ Eḻuttu <g type="gomutraFinal">.</g>
+		<lb n="29"/>Ivarka[ḷ] vēṇṭa v-[e]ḻutinēṉ I[n*]-nakara-k-karaṇattān poṉṉāli [A]ṟu-
+		<lb n="30" break="no"/>-patt-iruvan-ēṉ Eḻuttu <g type="gomutraFinal">.</g>
 	</p>
 	<p>	
 		rācā<hi rend="grantha">śra</hi>[ya]-purattu viyāpāri Am[mu]ri [I]ḷa[m]peru
-		<lb n="31"/><hi rend="grantha">nti</hi>
+		<lb n="31"/>n=ti
 	</p>
 	
 </div>
@@ -166,7 +176,7 @@
     	
 <div type="translation" source="bib:Hultzsch1899_01">
 	
-	<p n="1">Hail! Prosperity! In the 9th year <supplied reason="subaudible">of the reign</supplied> of king Parakesarivarman,<hi rend="italic">alias</hi> Śrī-Rājendra-Cōḻadeva, who,——in <supplied reason="subaudible">his</supplied> life of high prosperity, while Fortune, having become constant, was increasing, <supplied reason="subaudible">and</supplied> while the goddess of the great earth, the goddess of victory in battle, and the matchless goddess of fame rejoiced to have become his great queens,——conquered with <supplied reason="subaudible">his</supplied> very great army Iṭaituṟai-nāṭu; Vanavāci, whose warriors <supplied reason="subaudible">were protected by</supplied> walls of continuous forests; Koḷḷippākkai, whose walls were surrounded by <foreign>cuḷḷi</foreign> <supplied reason="subaudible">trees</supplied>; the camp of Maṇṇai,<note>See Mr. Rice’s <hi rend="italic">Epigraphia Carnataca</hi>, Part 1. p. 10 of the Introduction.</note> whose fortifications were unapproachable; the crown of the king of Īḻam, <supplied reason="subaudible">who was as impetuous as</supplied> the sea in fighting; the exceedingly beautiful crowns of the queens of that <supplied reason="subaudible">king</supplied>; the crown of Sundara and the pearl necklace of Indra, which the king of the South <supplied reason="explanation">i.e. the Pāṇḍya</supplied> had previously given up to that <supplied reason="subaudible">king of Īḻam</supplied>; the whole Īḻa-maṇṭalam on the transparent sea; the crown praised by many and the garland of the Sun, family-treasures which the arrow-shooting<supplied reason="subaudible">king of</supplied> Kēraḷa rightfully wore; many ancient islands, whose old and great guard was the sea which resounds with conches; the crown of pure gold, worthy of Lakṣmī, which Paraśurāma, having considered the fortifications of Cāntimattīvu impregnable, had deposited<supplied reason="subaudible">there</supplied>, when, in anger, <supplied reason="subaudible">he</supplied> bound the kings twenty-one times in battle; the seven and a half <foreign>lakṣa</foreign>s of Ilaṭṭa-pāṭi, <supplied reason="subaudible">through the conquest of whose</supplied> throne<note><foreign>pīṭi</foreign> is perhaps the Sanskrit <foreign>pīṭhī</foreign>.</note> immeasurable fame arose,<supplied reason="subaudible">and which he took from</supplied> Jayasiṁha, who, out of fear <supplied reason="subaudible">and</supplied> full of vengeance, turned his back at Mucaṅki and hid himself; and the principal great mountains <supplied reason="subaudible">which contained</supplied> the nine treasures <supplied reason="subaudible">of Kubera</supplied>;——before the Pūjāri <supplied reason="subaudible">kaṉmikaḷ</supplied> Lakuḷīśvara-Paṇḍita, <supplied reason="subaudible">the head</supplied> of the <foreign>maṭha</foreign> of <supplied reason="subaudible">the god</supplied> Mahādeva of the holy Aṟiñcīśvara <supplied reason="subaudible">temple</supplied> in Mēṟpāṭi,<hi rend="italic">alias</hi> Rājāśrayapuram, <supplied reason="subaudible">a city</supplied> in Tūy-nāṭu, <supplied reason="subaudible">a subdivision</supplied> of Perumpāṇa-pāṭi in Jayaṅkoṇḍa-Cōḻa-maṇṭḍalam,——we, all the following shepherds of this village: Kalli-Kuṭṭēṟaṉ, Puṉṉai Ciṅkaṉ <supplied reason="explanation">i.e. Siṁha</supplied>, Ēṇi Gaṅgādharaṉ,<note>The same person is mentioned in line 16 of No. 17.</note> Vāṇaṉ Cō[m]ā[ta]ṉ <supplied reason="explanation">i.e. Somanātha</supplied>, Taṇṭaṉ Āṉai, Nambpi Cātēvaṉ <supplied reason="explanation">i.e. Sahadeva</supplied>, Ayiti Kāṭāṭi, Nampi-Tiṇaiyaṉ, Nampi Paṉṟi and Vāṇaṉ Puḷiyaṉ, agreed to become security for Ēṟaṉ-Cāttaṉ, a shepherd of this village, <supplied reason="subaudible">who</supplied> had received ninety ewes of this temple, in order to supply ghee for burning one perpetual lamp.</p>
+	<p n="1">Hail! Prosperity! In the 9th year <supplied reason="subaudible">of the reign</supplied> of king Parakesarivarman,<hi rend="italic">alias</hi> Śrī-Rājendra-Cōḻadeva, who,——in <supplied reason="subaudible">his</supplied> life of high prosperity, while Fortune, having become constant, was increasing, <supplied reason="subaudible">and</supplied> while the goddess of the great earth, the goddess of victory in battle, and the matchless goddess of fame rejoiced to have become his great queens,——conquered with <supplied reason="subaudible">his</supplied> very great army Iṭaituṟai-nāṭu; Vanavāci, whose warriors <supplied reason="subaudible">were protected by</supplied> walls of continuous forests; Koḷḷippākkai, whose walls were surrounded by <foreign>cuḷḷi</foreign> <supplied reason="subaudible">trees</supplied>; the camp of Maṇṇai,<note>See Mr. Rice’s <hi rend="italic">Epigraphia Carnataca</hi>, Part 1. p. 10 of the Introduction.</note> whose fortifications were unapproachable; the crown of the king of Īḻam, <supplied reason="subaudible">who was as impetuous as</supplied> the sea in fighting; the exceedingly beautiful crowns of the queens of that <supplied reason="subaudible">king</supplied>; the crown of Sundara and the pearl necklace of Indra, which the king of the South <supplied reason="explanation">i.e. the Pāṇḍya</supplied> had previously given up to that <supplied reason="subaudible">king of Īḻam</supplied>; the whole Īḻa-maṇṭalam on the transparent sea; the crown praised by many and the garland of the Sun, family-treasures which the arrow-shooting <supplied reason="subaudible">king of</supplied> Kēraḷa rightfully wore; many ancient islands, whose old and great guard was the sea which resounds with conches; the crown of pure gold, worthy of Lakṣmī, which Paraśurāma, having considered the fortifications of Cāntimattīvu impregnable, had deposited <supplied reason="subaudible">there</supplied>, when, in anger, <supplied reason="subaudible">he</supplied> bound the kings twenty-one times in battle; the seven and a half <foreign>lakṣa</foreign>s of Ilaṭṭa-pāṭi, <supplied reason="subaudible">through the conquest of whose</supplied> throne<note><foreign>pīṭi</foreign> is perhaps the Sanskrit <foreign>pīṭhī</foreign>.</note> immeasurable fame arose, <supplied reason="subaudible">and which he took from</supplied> Jayasiṁha, who, out of fear <supplied reason="subaudible">and</supplied> full of vengeance, turned his back at Mucaṅki and hid himself; and the principal great mountains <supplied reason="subaudible">which contained</supplied> the nine treasures <supplied reason="subaudible">of Kubera</supplied>;——before the Pūjāri <supplied reason="explanation"><foreign>kaṉmikaḷ</foreign></supplied> Lakuḷīśvara-Paṇḍita, <supplied reason="subaudible">the head</supplied> of the <foreign>maṭha</foreign> of <supplied reason="subaudible">the god</supplied> Mahādeva of the holy Aṟiñcīśvara <supplied reason="subaudible">temple</supplied> in Mēṟpāṭi, <hi rend="italic">alias</hi> Rājāśrayapuram, <supplied reason="subaudible">a city</supplied> in Tūy-nāṭu, <supplied reason="subaudible">a subdivision</supplied> of Perumpāṇa-pāṭi in Jayaṅkoṇḍa-Cōḻa-maṇṭalam,——we, all the following shepherds of this village: Kalli-Kuṭṭēṟaṉ, Puṉṉai Ciṅkaṉ <supplied reason="explanation">i.e. Siṁha</supplied>, Ēṇi Gaṅgādharaṉ,<note>The same person is mentioned in line 16 of No. 17.</note> Vāṇaṉ Cō[m]ā[ta]ṉ <supplied reason="explanation">i.e. Somanātha</supplied>, Taṇṭaṉ Āṉai, Nampi Cātēvaṉ <supplied reason="explanation">i.e. Sahadeva</supplied>, Ayiti Kāṭāṭi, Nampi-Tiṇaiyaṉ, Nampi Paṉṟi and Vāṇaṉ Puḷiyaṉ, agreed to become security for Ēṟaṉ-Cāttaṉ, a shepherd of this village, <supplied reason="subaudible">who</supplied> had received ninety ewes of this temple, in order to supply ghee for burning one perpetual lamp.</p>
 	<p n="24"><supplied reason="subaudible">We</supplied> shall cause the shepherd Ēṟaṉ Cāttaṉ to supply daily to one perpetual lamp <supplied reason="subaudible">one</supplied> <foreign>uḻakku</foreign> of ghee, <supplied reason="subaudible">measured</supplied> by the <foreign>Rājakēsari</foreign>.</p>
 	<p n="26">If he dies, absconds, or gets into prison, fetters <supplied reason="subaudible">or</supplied> chains, we, all these aforesaid persons, are bound to supply ghee for burning the holy lamp as long as the moon and the sun endure.</p>
 	<p n="29">At the desire of these persons, I, the accountant of this city, Poṉṉāli Aṟupattiruvaṉ, wrote <supplied reason="subaudible">this. This is</supplied> my writing.</p>
@@ -176,6 +186,19 @@
 <div type="translation" resp="part:emfr">
 								
 	<p n="1">Prosperity! Fortune!</p>
+	
+	<p n="15-16">9th year of the glorious king Rājendra Cōḻa alias the king Parakesarivarma,</p>
+	
+	<p n="1-15">who ... [<foreign>meykkīrtti</foreign> of Rājendra I Cōḷa]</p>
+	
+	<p n="16-24">This is the manner in which
+	...</p>	
+	<p n="24-26">There should
+		...</p>	
+	<p n="26">...</p>	
+	<p n="1">...</p>	
+	<p n="1">...</p>	
+	<p n="1">...</p>
 		
 </div>
 <!--<div type="commentary">
