@@ -86,32 +86,32 @@
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
-		<body>
+<body>
 			
-			<div type="edition" xml:lang="tam-Latn">
-				
-				<ab>
-					<lb n="1"/><hi rend="grantha">svasti śrī</hi>
-				</ab>
-				
-				
-				<p>
-					<hi rend="grantha">rāje</hi>n=t<hi rend="grantha">ra</hi>-cōḻa-vaḷa-nāṭṭu puṟaṅkarampainā<supplied reason="undefined">ṭṭu</supplied> tirukkaḷa
-					<lb n="2" break="no"/><supplied reason="undefined">ruṭai</supplied>yār kōyilil tēvakaṉmikaḷ uḷḷiṭṭa palapaṇi <supplied reason="undefined">niva</supplied>ntakkāṟa<supplied reason="undefined">rum</supplied> kaṇṭu
-					
-					<lb n="3"/>Ikkōyil <hi rend="grantha">śrī</hi>mā<hi rend="grantha">heśvara</hi>-k kaṇkāṇiyum tiruppatiya-k kāṇiyum nam tē
-					<lb n="4" break="no"/><supplied reason="undefined">vā</supplied>rattukku tiru<supplied reason="undefined">ppa</supplied>tiyam pāṭum periyāṉ <supplied reason="undefined">maṟai</supplied>tēṭum poruḷāṉa Akaḷaṅkapi
-					
-					<lb n="5" break="no"/><supplied reason="undefined">riya</supplied>ṉukku <gap quantity="4" reason="illegible" unit="character"/> va<hi rend="grantha">ṃśa</hi>ttāṟkum kāṇiyāka <gap reason="undefined" unit="character" quantity="6"/>-c ce
-					<lb n="6" break="no"/>yya-k kaṭaviṉa vellām Ivaṉi<supplied reason="undefined">ṟut</supplied>tiṉavaṉ kaṇkāṇi-p paṭiyē ceyya-p
-					<lb n="7" break="no"/>paṇṇi Ip-paṭi kalveṭṭa-p paṇṇuka Itu tiruvāymoḻint’ aru
-					
-					<lb n="8" break="no"/>ḷiṉa tirumuka-p paṭi <hi rend="grantha">svasti</hi> 
-				</p>
-				
-			</div>
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--check @rendition-->
 			
-			<!--   <div type="apparatus">
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+	</ab>
+	
+	
+	<p>
+		<hi rend="grantha">rāje</hi>n=t<hi rend="grantha">ra</hi>-cōḻa-vaḷa-nāṭṭu puṟaṅkarampainā<supplied reason="undefined">ṭṭu</supplied> tirukkaḷa
+		<lb n="2" break="no"/><supplied reason="undefined">ruṭai</supplied>yār kōyilil tēvakaṉmikaḷ uḷḷiṭṭa palapaṇi <supplied reason="undefined">niva</supplied>ntakkāṟa<supplied reason="undefined">rum</supplied> kaṇṭu
+		
+		<lb n="3"/>Ikkōyil <hi rend="grantha">śrī</hi>mā<hi rend="grantha">heśvara</hi>-k kaṇkāṇiyum tiruppatiya-k kāṇiyum nam tē
+		<lb n="4" break="no"/><supplied reason="undefined">vā</supplied>rattukku tiru<supplied reason="undefined">ppa</supplied>tiyam pāṭum periyāṉ <supplied reason="undefined">maṟai</supplied>tēṭum poruḷāṉa Akaḷaṅkapi
+		
+		<lb n="5" break="no"/><supplied reason="undefined">riya</supplied>ṉukku <gap quantity="4" reason="illegible" unit="character"/> va<hi rend="grantha">ṃśa</hi>ttāṟkum kāṇiyāka <gap reason="undefined" unit="character" quantity="6"/>-c ce
+		<lb n="6" break="no"/>yya-k kaṭaviṉa vellām Ivaṉi<supplied reason="undefined">ṟut</supplied>tiṉavaṉ kaṇkāṇi-p paṭiyē ceyya-p
+		<lb n="7" break="no"/>paṇṇi Ip-paṭi kalveṭṭa-p paṇṇuka Itu tiruvāymoḻint’ aru
+		
+		<lb n="8" break="no"/>ḷiṉa tirumuka-p paṭi <hi rend="grantha">svasti</hi> 
+	</p>
+	
+</div>
+			
+	<!--   <div type="apparatus">
             
                     
          </div>-->

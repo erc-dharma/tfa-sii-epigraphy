@@ -86,12 +86,13 @@
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
-      <body>
+<body>
 
-         <div type="edition" xml:lang="tam-Latn">
-            <p>
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+			
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
                <lb n="1"/><hi rend="grantha">svasti śrī</hi>
-            </p>
+            </ab>
             <p>
             <lb n="1"/>vikramacōḻatēvaṟku yāṇṭu <g type="numeral">10</g><g type="numeral">7</g>-Āvatu milāṭākiya jaṉanātavaḷa nāṭṭu pānūṟkūṟṟattu <hi rend="grantha">brahmade</hi>ya<unclear>m</unclear> Iṟaiyāṉaraiyūrāṉa śrīcōḻakeraḷac catuvvetimaṅkalattu ūrpākaṅkoṇṭatēvar
             <lb n="2"/>kōyilil tiruppaḷḷi Aṟai Āḷuṭaiyāḷ tirunāyaṟṟuk kiḻamaitōṟum puṟampē Eḻuntaruḷit tiruccāḻal kēṭṭ-aruḷi Amutuce<unclear>y</unclear>taruḷi kōyililaic cuḻal Eḻuṉtaruḷi mēlē Eḻuntaruḷukaikku Aṟṟai nāḷaikku vēṇṭum Aḻivukku Uḷvari tiru
