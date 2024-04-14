@@ -100,21 +100,23 @@
 	</ab>
 
 	<p>
-		kō-p-parakēcari-pa<hi rend="grantha">[nma]</hi>ṟkiyāṇṭu <num value="16"><g type="numeral">10</g> 6</num>-Āvatu
+		kō-p-parakēcari-pa<hi rend="grantha">[nma]</hi>ṟki yāṇṭu <num value="16"><g type="numeral">10</g> 6</num>-Āvatu
 	</p>
 	
 	<p>
 		kāliyūr-k-kōṭṭa
-		<lb n="2" break="no"/>ttu-t taṉ kūṟṟu civa-cūḷāmaṇi-maṅkalamm-ākiya <!--<ref t="3:17-6"/>-->
-		<hi rend="grantha">śrī</hi>-vi<hi rend="grantha">kramāpara</hi>ṇa<hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>atu[r]vvedi</hi>-[ma]ṅkalattu
-		<lb n="3"/><gap reason="lost" quantity="2" unit="character"/> puvaṉi-<add place="below">māṇi</add>k=ka-vi<hi rend="grantha">ṣṇuśra</hi>ttuḷ<!--<ref t="3:17-8"/>--> perumāṉ Aṭikaḷukku <hi rend="grantha">śrī-kā</hi>[<hi rend="grantha">ryya</hi>ñ] cey[ki]ṉṟa <!--<ref t="3:17-9"/>--><hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>akra-[p]āṇi</hi> nam[pi] viṇṇappat[ti]ṉāl
-		<lb n="4"/><hi rend="grantha">saṃvatsara-vāri</hi>ya-p-[p]e[ru]makkaḷum Eri-vā<hi rend="grantha">ri</hi>[ya*]-p-[p]erumakkaḷ maḻaḷḷiṭṭa<!--<ref t="3:17-10"/>-->	<hi rend="grantha">ma</hi>h[ā*]-<hi rend="grantha">sabhai</hi>yō<hi rend="grantha">m·</hi> Em[m-ū]r puvani-m[ā*]ṇikka-[vi]<hi rend="grantha">ṣṇuśaha</hi>t=tat=ta<!--<ref t="3:17-11"/>--> pecamān-aṭi
-		<lb n="5" break="no"/>kaḷukku [ha]vanat<hi rend="grantha">[tu]</hi>kkun=ti[ru]pu<hi rend="grantha">tsa</hi>vat<hi rend="grantha">tu</hi>kkum<!--<ref t="3:17-12"/>--> Uttara<hi rend="grantha">ma</hi>yana[mu]m [yū]ṭṭima[ya]na[mu]m<!--<ref t="3:17-13"/>--> [citta]ya-vi<hi rend="grantha">ṣu</hi>vum Ai[p*]paci-vi<hi rend="grantha">ṣu</hi>vum <hi rend="grantha">sū[ryya]-graha</hi>ṇamum <hi rend="grantha">soma</hi>		
-		<lb n="6" break="no"/>-<hi rend="grantha">graha</hi>ṇamu maṟṟu <hi rend="grantha">[pr]āyaści</hi>tta tiru-mañaṇaṅka[ḷu] maṟṟu<!--<ref t="3:17-14"/>--> E[p]pērppaṭṭa kucakkalam eppErppaṭṭa kucak[ka] <gap reason="lost" quantity="3" unit="character"/>
+		<lb n="2" break="no"/>ttu-t taṉ kūṟṟu civa-cūḷāmaṇi-maṅkala<choice><orig>mm</orig><reg>m</reg></choice>-ākiya <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">kramā<choice><sic>p</sic><corr>bh</corr></choice>ara</hi>ṇa-<hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>atu[r]vvedi</hi>-[ma]ṅkalattu
+		<lb n="3"/><gap reason="lost" quantity="2" unit="character"/> puvaṉi-<add place="below">māṇi</add>k=ka-vi<hi rend="grantha">ṣṇu-<choice><sic>śra</sic><corr>gṛ</corr></choice><supplied reason="omitted">ha</supplied></hi>ttuḷ perumāṉ-Aṭikaḷukku <hi rend="grantha">śrī-kā</hi>[<hi rend="grantha">ryya</hi>ñ] cey[ki]ṉṟa <hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>akra-[p]āṇi</hi> nam[pi] viṇṇappat[ti]ṉāl
+		<lb n="4"/><hi rend="grantha">saṃvatsara-vāri</hi>ya-p-[p]e[ru]-makkaḷum Ēri-vā<hi rend="grantha">ri</hi>[ya*]-p-[p]eru-makkaḷ<choice><sic>amaḻ</sic><corr>um</corr></choice> <choice><sic>a</sic><corr>u</corr></choice>ḷḷiṭṭa <hi rend="grantha">ma</hi>h[ā*]-<hi rend="grantha">sabhai</hi>yō<hi rend="grantha">m·</hi> Em[m-ū]r puva<choice><orig>n</orig><reg>ṉ</reg></choice>i-m[ā*]ṇikka-[vi]<hi rend="grantha">ṣṇu-<choice><sic>śa</sic><corr>gṛ</corr></choice>ha</hi><choice><sic>t=tat=ta</sic><corr>ttu</corr></choice> pe<choice><sic>ca</sic><corr>ru</corr></choice>mān-aṭi
+		<lb n="5" break="no"/>kaḷukku [ha]vanat<hi rend="grantha">[tu]</hi>kkun= ti[ru]-<choice><sic>p</sic><corr>v</corr></choice>-u<hi rend="grantha">tsa</hi>vat<hi rend="grantha">tu</hi>kkum Uttara-<hi rend="grantha">ma</hi>yana[mu]m <choice><sic>[yū]ṭṭi</sic><corr>Āṭiya</corr></choice>-ma[ya]<choice><orig>n</orig><reg>ṉ</reg></choice>a[mu]m [citt<choice><sic>a</sic><corr>i</corr></choice>]<choice><sic>ya</sic><corr>rai</corr></choice>-vi<hi rend="grantha">ṣu</hi>vum Ai[p*]paci-vi<hi rend="grantha">ṣu</hi>vum <hi rend="grantha">sū[ryya]-graha</hi>ṇamum <hi rend="grantha">soma</hi>		
+		<lb n="6" break="no"/>-<hi rend="grantha">graha</hi>ṇamu maṟṟu <hi rend="grantha">[pr]āyaści</hi>tta tiru-ma<choice><sic>ñ</sic><corr>ñc</corr></choice>a<choice><sic>ṇ</sic><corr>ṉ</corr></choice>aṅka[ḷu] maṟṟu E[p]pērppaṭṭa kucakkalam eppērppaṭṭa kucak[ka] <gap reason="lost" quantity="3" unit="character"/>
 		<lb n="7" break="no"/>ṟai vaṟuppata[ṟ]ku vaitta pūmi
 		
-		It-<hi rend="grantha">de</hi>var ūr-āṉa [c]ōtiyam-pākkattu Ūriṉ mēlai putu-[t-tiru]ttil A[r][aiyum*]
-		<lb n="8"/>pu[ḷiya]ñce[ṟuvi]ṟa [t]eṟk=kila[r]aiyum [cuvapa]la-kollaiyil veḷkekkālu[k*]ku<!--<ref t="3:18-1"/>--> mēṟku Oṉṟ’ arai nila[m] <gap reason="lost" quantity="3" unit="character"/>
+		It-<hi rend="grantha">de</hi>var Ūr-āṉa [c]ōtiyam-pākkattu Ūriṉ mēlai putu-[t-tiru]ttil A[r][aiyum*]
+		<lb n="8"/>pu<supplied reason="undefined">ḷiya</supplied>ñ-ce<supplied reason="undefined">ṟuvi</supplied>ṟa [t]eṟk=kil a[r]aiyum [cuvapa]la-kollaiyil <choice><sic>veḷke</sic><corr>veḷḷa</corr></choice>kkālu<supplied reason="omitted">k</supplied>ku mēṟku Oṉṟ’ arai nila[m]
+	</p>
+	<p>
+		<supplied reason="lost">U<hi rend="grantha">t</hi></supplied>
 		<lb n="9" break="no"/><hi rend="grantha">sa</hi>vattil<!--<ref t="3:18-2"/>--> Ēḻu n[āḷum] nāl[va]ṟ[ku] koṟ <gap reason="lost" quantity="2" unit="character"/> vat’ ākavu[m]
 	</p>
 	<p>
@@ -125,30 +127,50 @@
 		<lb n="10" break="no"/><hi rend="grantha">bhai</hi> paṇi O[ṭṭi-k kuṭut]tēṉ [ca<hi rend="grantha">kra</hi>]pāṇi [nam]piyēṉ
 	</p>
 	<p>
-		[I]<hi rend="grantha">dhimma<!--<ref t="3:18-3"/>--> +</hi>
+		[I]<hi rend="grantha">dh<choice><sic>i</sic><corr>ar</corr></choice>mma <g type="undefined"/></hi>
 	</p>
 	
 </div>
 			
-<!--<div type="apparatus">
+<div type="apparatus">
 				
-	<listApp>
-								
-		<app loc="0">
-			<lem></lem>
-			<rdg source="bib:Hultzsch1899_01"></rdg>
+	<listApp>	
+	
+		<app loc="8">
+			<lem>°ce<supplied reason="undefined">ṟuvi</supplied>ṟa</lem>
+			<rdg source="bib:Hultzsch1899_01">°ce<supplied reason="undefined">ṟuvi</supplied>ṟ</rdg>
+		</app>
+		
+		<app loc="8">
+			<lem><choice><sic>veḷke</sic><corr>veḷḷa</corr></choice>kkālu<supplied reason="omitted">k</supplied>ku</lem>
+			<rdg source="bib:Hultzsch1899_01"/>
+			<note><ptr target="bib:Hultzsch1899_01"/> notes: <quote>compare Vol. II. No. 73, l. 116
+f.</quote></note>
+		</app>
+		
+		<app loc="8">
+			<lem/>
+			<rdg source="bib:Hultzsch1899_01"><gap reason="lost" quantity="3" unit="character"/><lb n="9" break="no"/><hi rend="grantha">sa</hi>vattil</rdg>
+			<note><ptr target="bib:Hultzsch1899_01"/> notes: <quote>Read <foreign>U<hi rend="grantha">tsa</hi>vattil</foreign>.</quote></note>
+		</app>
+		
+		<app loc="10">
+			<lem><g type="undefined"/></lem>
+			<rdg source="bib:Hultzsch1899_01">+</rdg>
+			<note><ptr target="bib:Hultzsch1899_01"/> notes: <quote>the following symbol represents
+“<hi rend="italic">etc.</hi>”</quote></note>
 		</app>
 		
 	</listApp>    			
 	
-</div>-->
+</div>
     	
 <div type="translation" source="bib:Hultzsch1899_01">
 	
-	<p n="1">Hail! Prosperity! In the 16th year <supplied reason="subaudible">of the reign</supplied> of king Parakēsarivarman, we, the great assembly, including the great men elected for the year and the greatmen elected for <supplied reason="subaudible">the supervision of</supplied> the tank, <supplied reason="subaudible">being assembled</supplied> in the PuvaṉimāṇikkaVishṇugr̥ham at Śivachūḷāmaṇimaṅgalam, <hi rend="italic">alias</hi> Śrī-Vikramābharana-chaturvēdimaṅgalam, <supplied reason="subaudible">a village</supplied> in its own subdivision of Kāliyūr-kōṭṭam, assigned, at therequest of Chakrapāṇi Nambi, the manager of the temple, to the god of the Puvanimāṇikka-Vishṇugr̥ham in our village <supplied reason="subaudible">the following</supplied> land, for burnt oblations <supplied reason="subaudible">havana</supplied>,for festivals <supplied reason="subaudible">utsava), (for</supplied> expiations <supplied reason="subaudible">prāyaśchitta</supplied> and the bathing of the idol <supplied reason="subaudible">tirumañjana</supplied> at the winter solstice, at the solstice in Āḍi, at the equinox in Śittirai, at the equinoxin Aippaśi, at eclipses of the sun, and at eclipses of the moon, and for burning all kindsof pots and all kinds of•••••</p>
-	<p n="7">Half <supplied reason="subaudible">a measure</supplied> of land in the ‘Fresh clearing’ <supplied reason="subaudible">Pudu-ttiruttu</supplied> on the west ofthe village of [Śō]diyambākkam, which is a village <supplied reason="subaudible">belonging to</supplied> this god; half <supplied reason="subaudible">ameasure</supplied> on the south of the ‘Tamarind field’ <supplied reason="subaudible">Puḷiyañ-jeṟuvu); (and</supplied> one and a half <supplied reason="subaudible">measure</supplied>on the west of the inundation channel <supplied reason="subaudible">veḷḷakkāl</supplied> in the field <supplied reason="subaudible">kollai</supplied> of [Svaba]la.</p>
-	<p n="9">At the festival, on seven days, to four persons•••••and <supplied reason="subaudible">for</supplied> the annual worship, half a <foreign>kaḻañcu</foreign>. I, Chakrapāṇi Nambi, approve of thisorder of the assembly.</p>
-	<p n="10">This charity, <hi rend="italic">etc.</hi><!--<ref t="3:18-4"/-->&gt;</p>
+	<p n="1">Hail! Prosperity! In the 16th year <supplied reason="subaudible">of the reign</supplied> of king Parakesarivarman, we, the great assembly, including the great men elected for the year and the greatmen elected for <supplied reason="subaudible">the supervision of</supplied> the tank, <supplied reason="subaudible">being assembled</supplied> in the Puvaṉimāṇikka-Viṣṇugr̥ha at Śivacūḷāmaṇimaṅgala, <hi rend="italic">alias</hi> Śrī-Vikramābharana-caturvedimaṅgala, <supplied reason="subaudible">a village</supplied> in its own subdivision of Kāliyūr-kōṭṭam, assigned, at the request of Cakrapāṇi Nampi, the manager of the temple, to the god of the Puvanimāṇikka-Viṣṇugr̥ha in our village <supplied reason="subaudible">the following</supplied> land, for burnt oblations <supplied reason="explanation"><foreign>havana</foreign></supplied>, for festivals <supplied reason="explanation"><foreign>utsava</foreign></supplied>, <supplied reason="subaudible">for</supplied> expiations <supplied reason="explanation"><foreign>prāyaścitta</foreign></supplied> and the bathing of the idol <supplied reason="explanation"><foreign>tirumañcana</foreign></supplied> at the winter solstice, at the solstice in Āṭi, at the equinox in Cittirai, at the equinox in Aippaci, at eclipses of the sun, and at eclipses of the moon, and for burning all kinds of pots and all kinds of <gap reason="lost" quantity="10" unit="character"/></p>
+	<p n="7">Half <supplied reason="subaudible">a measure</supplied> of land in the ‘Fresh clearing’ <supplied reason="explanation"><foreign>putu-ttiruttu</foreign></supplied> on the west of the village of [Cō]tiyampākkam, which is a village <supplied reason="subaudible">belonging to</supplied> this god; half <supplied reason="subaudible">a measure</supplied> on the south of the ‘Tamarind field’ <supplied reason="explanation"><foreign>puḷiyañ-ceṟuvu</foreign></supplied>; <supplied reason="subaudible">and</supplied> one and a half <supplied reason="subaudible">measure</supplied> on the west of the inundation channel <supplied reason="explanation"><foreign>veḷḷakkāl</foreign></supplied> in the field <supplied reason="subaudible"><foreign>kollai</foreign></supplied> of [Svaba]la.</p>
+	<p n="9">At the festival, on seven days, to four persons <gap reason="lost" quantity="10" unit="character"/> and <supplied reason="subaudible">for</supplied> the annual worship, half a <foreign>kaḻañcu</foreign>. I, Cakrapāṇi Nampi, approve of this order of the assembly.</p>
+	<p n="10">This charity, <hi rend="italic">etc.</hi><note>The writer wants us to supply here a minatory sentence resembling No. 6, ll. 13-15.</note></p>
 </div>
 	
 <div type="translation" resp="part:emfr">
