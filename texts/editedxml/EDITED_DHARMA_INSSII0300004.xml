@@ -170,10 +170,10 @@
 			<rdg source="bib:Hultzsch1899_01">koḷa</rdg>
 		</app>
 								
-		<!--<app loc="0">
-			<lem></lem>
-			<rdg source="bib:Hultzsch1899_01"></rdg>
-		</app>-->
+		<app loc="4">
+			<lem>maṅkalattu<surplus>ṉ</surplus></lem>
+			<rdg source="bib:Hultzsch1899_01">maṅkalatt<choice><sic>u</sic><corr>i</corr></choice>ṉ</rdg>
+		</app>
 		
 	</listApp>    			
 	
