@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Ukkal, Perumāḷ temple, time of Rājakesarivarman, year 17</title>
+            <title>Ukkal, Perumāḷ temple, time of Rājakesarivarman, year 17, day 122</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -96,35 +96,47 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 				
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
-		<lb n="01"/>svasti śrī<!--<ref t="3:20-10" />-->
+		<lb n="01"/>svasti śrī
 	</ab>		
 	
 	<p>
-		<lb n="1"/><hi rend="grantha">ko rājakesariva[r]mma</hi>ṟ<hi rend="grantha">ku</hi> yāṇṭu <hi rend="grantha">17</hi>-Āvatu nāḷ <hi rend="grantha">[1]22</hi>
+		<lb n="1"/><hi rend="grantha">kō-rājakēsari-va[r]mma</hi>ṟ<hi rend="grantha">ku</hi> yāṇṭu <num value="17"><g type="numeral">10</g> 7</num>-Āvatu nāḷ <num value="122">[<g type="numeral">100</g>] 2 <g type="numeral">10</g> 2</num>
 	</p>
 	<p>
-		I<hi rend="grantha">nnā</hi>ḷāl <hi rend="grantha">śrī-vikramābharaṇa-c-catu[r]vvēti-maṅ</hi>
-		<lb n="2" break="no"/><hi rend="grantha">kalattu</hi><!--<ref t="3:20-11"/>--> Ivv-āṭṭai <!--<ref t="3:20-12"/>--> <hi rend="grantha">[sa]mvatsara-vāri</hi>ya-p-perumakkaḷum E<choice><sic>k</sic><corr>r</corr></choice>ivāriya-p-perum<hi rend="grantha">[bha]</hi>ṭṭarka[ḷu]m <hi rend="grantha">viśi</hi>
-		<lb n="3" break="no"/><hi rend="grantha">ṣṭa</hi>rkaḷumuḷḷi[ṭṭa*] <hi rend="grantha">mahā-sabhai</hi>yōm[m]e[m*]m-ūr puvaṉi-māṇikka-vi<hi rend="grantha">ṣṇ[u]gr̥ha</hi>ttē kūṭa Irun<hi rend="grantha">tu</hi> •••••••••••••• 
+		I<hi rend="grantha">n-nā</hi>ḷāl <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">kramābhara</hi>ṇa-<hi rend="grantha">c-catu[r]vve</hi>ti-<hi rend="grantha">maṃ</hi>
+		<lb n="2" break="no"/><hi rend="grantha"><choice><orig>k</orig><reg>g</reg></choice>alattu</hi> Ivv-āṭṭai  <hi rend="grantha">[sa]<choice><orig>m·</orig><reg>ṃ</reg></choice>vatsara-vāri</hi>ya-p-peru-makkaḷum Ē<choice><sic>k</sic><corr>r</corr></choice>i-vāriya-p-perum-<hi rend="grantha">[bha]</hi>ṭṭarka[ḷu]m vi<hi rend="grantha">śi</hi>
+		<lb n="3" break="no"/><hi rend="grantha">ṣṭa</hi>rkaḷum uḷḷi[ṭṭa*] <hi rend="grantha">mahā-sabhai</hi>yō<choice><orig>m[m]</orig><reg>m</reg></choice> e[m*]m-ūr puvaṉi-māṇikka-vi<hi rend="grantha">ṣṇ[u]-gr̥ha</hi>ttē kūṭa Irun<hi rend="grantha">tu</hi>
+		<gap reason="lost" quantity="26" unit="character"/> 
 	</p>
 </div>
 			
-<!--<div type="apparatus">
+<div type="apparatus">
 				
 	<listApp>
 								
-		<app loc="0">
+		<!--<app loc="0">
 			<lem></lem>
 			<rdg source="bib:Hultzsch1899_01"></rdg>
+		</app>-->
+		
+		<app loc="01">
+			<lem><hi rend="grantha">svasti śrī</hi></lem>
+			<rdg source="bib:Hultzsch1899_01"/>
+			<note><ptr target="bib:Hultzsch1899_01"/> notes: <quote>These two words are engraved to the left of lines 1 and 2.</quote></note>
+		</app>		
+		
+		<app loc="1">
+			<lem>°<hi rend="grantha">catu[r]vve</hi>ti-<hi rend="grantha">maṃ</hi><lb n="2" break="no"/><hi rend="grantha"><choice><orig>k</orig><reg>g</reg></choice>alattu</hi></lem>
+			<rdg source="bib:Hultzsch1899_01">°<choice><sic><hi rend="grantha">catu[r]vve</hi>ti<hi rend="grantha">maṃ</hi><lb n="2" break="no"/><hi rend="grantha">kalattu</hi></sic><corr><hi rend="grantha">caturvedimaṇ<lb n="2" break="no"/>galattu</hi></corr></choice></rdg>
 		</app>
 		
 	</listApp>    			
 	
-</div>-->
+</div>
     	
 <div type="translation" source="bib:Hultzsch1899_01">
 	
-	<p n="1">Hail! Prosperity! On the 122nd day of the 17th year <supplied reason="subaudible">of the reign</supplied> of king Rājakesarivarman,——we, the great assembly of Śrī-Vikramābharaṇa-caturveēdimaṅgalam,——including the great men elected for this year, the great <foreign>bhaṭṭa</foreign>s elected for <supplied reason="subaudible">the supervision of</supplied> the tank, and <supplied reason="subaudible">all other</supplied> distinguished men,——being assembled on this day in the Puvaṉimāṇikka-Viṣṇugr̥ham in our village, •••••</p>
+	<p n="1">Hail! Prosperity! On the 122nd day of the 17th year <supplied reason="subaudible">of the reign</supplied> of king Rājakesarivarman,——we, the great assembly of Śrī-Vikramābharaṇa-caturvedimaṅgalam,——including the great men elected for this year, the great <foreign>bhaṭṭa</foreign>s elected for <supplied reason="subaudible">the supervision of</supplied> the tank, and <supplied reason="subaudible">all other</supplied> distinguished men,——being assembled on this day in the Puvaṉimāṇikka-Viṣṇugr̥ha in our village, <gap reason="lost" quantity="10" unit="character"/></p>
 </div>
 	
 <div type="translation" resp="part:emfr">
