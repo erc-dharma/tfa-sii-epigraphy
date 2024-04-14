@@ -177,7 +177,9 @@
 		
 		<app loc="5">
 			<lem>°<hi rend="grantha">catu<supplied reason="undefined">r</supplied>vve</hi>ti°</lem>
-			<rdg source="bib:Hultzsch1899_01">°<choice><orig><hi rend="grantha">catu<supplied reason="undefined">r</supplied>vve</hi>ti</orig><reg>°<hi rend="grantha">caturvedi</hi></reg></choice>°</rdg>
+			<rdg source="bib:Hultzsch1899_01"/>
+			<note><ptr target="bib:Hultzsch1899_01"/> notes: <quote>Read <hi rend="grantha">caturvedi</hi>.</quote></note>
+			
 		</app>
 		
 		<app loc="8">
@@ -210,14 +212,17 @@
 			<note><ptr target="bib:Hultzsch1899_01"/> notes: <quote>This symbol is an abbreviation for <foreign>nellu;</foreign> see p. 7, note 8.</quote></note>
 		</app>		
 			
-		<app loc="13">
-			<lem>I<supplied reason="omitted">t</supplied>-ta<supplied reason="undefined">ṉ</supplied><lb n="14" break="no"/>ma<surplus>ta</surplus>t<supplied reason="undefined">tu</supplied></lem>
-			<rdg source="bib:Hultzsch1899_01"><choice><sic>I<supplied reason="omitted">t</supplied>-ta<supplied reason="undefined">ṉ</supplied><lb n="14" break="no"/>matat<supplied reason="undefined">tu</supplied></sic><corr>Ittaṉmattukku</corr></choice></rdg>
+		<app loc="14">
+			<lem>°ma<surplus>ta</surplus>t<supplied reason="undefined">tu</supplied></lem>
+			<rdg source="bib:Hultzsch1899_01">°matat<supplied reason="undefined">tu</supplied></rdg>
+			<note><ptr target="bib:Hultzsch1899_01"/> notes: <quote>Read <foreign>mattukku</foreign>.</quote></note>
 		</app>
 		
 		<app loc="14">
 			<lem>vi<supplied reason="lost"><hi rend="grantha">ghna</hi>m</supplied></lem>
-			<rdg source="bib:Hultzsch1899_01"><choice><orig>vi<gap reason="lost" quantity="2" unit="character"/></orig><reg><hi rend="grantha">ghna</hi>m</reg></choice></rdg>
+			<rdg source="bib:Hultzsch1899_01">vi<gap reason="lost" quantity="2" unit="character"/></rdg>
+			<note><ptr target="bib:Hultzsch1899_01"/> notes: <quote>Read <hi rend="grantha">ghna</hi>m.</quote></note>
+			
 		</app>
 	
 		<app loc="23">

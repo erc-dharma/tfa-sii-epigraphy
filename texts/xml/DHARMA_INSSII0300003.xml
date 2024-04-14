@@ -129,8 +129,8 @@
 	</p>
 	<p>
 		<hi rend="grantha">sabhai</hi>yu<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice> iruntu paṇi kēṭṭē Eḻuti<supplied reason="undefined">ṉēṉ</supplied> <hi rend="grantha">madhyas<choice><orig>t</orig><reg>th</reg></choice>an·</hi> nāl-āyirava<supplied reason="undefined">ṉ</supplied>
-		<lb n="12"/>makaṉ Āyiratt-iru-nūṟṟu<add place="unspecified">va</add>ṉ-ā<choice><sic>r</sic><corr>k</corr></choice>iya <hi rend="grantha">brahma-kuṇā</hi>
-		<lb n="13" break="no"/><hi rend="grantha">ka</hi>ra-vi<hi rend="grantha">jyā-sthā</hi>na-ma<supplied reason="undefined">ṅ</supplied>kalā<supplied reason="omitted">ti</supplied>t<supplied reason="undefined">ta</supplied>-<hi rend="grantha">sa<supplied reason="undefined">ma</supplied>ñcasa-pri</hi>ya<supplied reason="undefined">ṉ</supplied>-ēṉ</p>
+		<lb n="12"/>makaṉ Āyiratt-iru-nūṟṟu<add place="unspecified">va</add>ṉ-ā<choice><sic>r</sic><corr>k</corr></choice>iya <hi rend="grantha">brahma-kuṇā<!--SII fn: Read <gr>guṇā;</gr> the <ta>ṇā</ta> is expressed by a compound letter, on which see Vol. II. p. 200, note 1.--></hi>
+		<lb n="13" break="no"/><hi rend="grantha">ka</hi>ra-vi<hi rend="grantha"><choice><orig>j</orig><reg>d</reg></choice>yā-sthā</hi>na-ma<supplied reason="undefined">ṅ</supplied>kalā<supplied reason="omitted">ti</supplied>t<supplied reason="undefined">ta</supplied>-<hi rend="grantha">sa<supplied reason="undefined">ma</supplied>ñcasa-pri</hi>ya<supplied reason="undefined">ṉ</supplied>-ēṉ</p>
 	
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">		
 		śrī
@@ -152,6 +152,12 @@
 			<lem>cōḻa<choice><sic>ṇ</sic><corr>n</corr></choice>āṭṭu</lem>
 			<rdg source="bib:Hultzsch1899_01">cōḻaṇāṭṭu</rdg>
 			<note><ptr target="bib:Hultzsch1899_01"/> notes: <quote>Read <foreign>coḻanāṭṭu</foreign> or <foreign>coṇāṭṭu</foreign>.</quote></note>
+		</app>	
+		
+		<app loc="13">
+			<lem>°vi<hi rend="grantha"><choice><orig>j</orig><reg>d</reg></choice>yā-sthā</hi>na-ma<supplied reason="undefined">ṅ</supplied>kalā<supplied reason="omitted">ti</supplied>t<supplied reason="undefined">ta</supplied>-<hi rend="grantha">sa<supplied reason="undefined">ma</supplied>ñcasa</hi>°</lem>
+			<rdg source="bib:Hultzsch1899_01">°vi<hi rend="grantha">jyāsthā</hi>nama<supplied reason="undefined">ṅ</supplied>kalā<supplied reason="omitted">ti</supplied>t<supplied reason="undefined">ta</supplied><hi rend="grantha">sa<supplied reason="undefined">ma</supplied>ñcasa</hi>°</rdg>
+			<note><ptr target="bib:Hultzsch1899_01"/> notes: <quote>Read <hi rend="grantha">vidyāsthānamaṅgalādityasamañjasa</hi>.</quote></note>
 		</app>	
 		
 	</listApp>    			
