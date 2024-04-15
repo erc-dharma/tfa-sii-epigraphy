@@ -127,7 +127,8 @@
 		
 		<app loc="1">
 			<lem>°<hi rend="grantha">catu<supplied reason="undefined">r</supplied>vve</hi>ti-<hi rend="grantha">maṃ</hi><lb n="2" break="no"/><hi rend="grantha"><choice><orig>k</orig><reg>g</reg></choice>alattu</hi></lem>
-			<rdg source="bib:Hultzsch1899_01">°<choice><sic><hi rend="grantha">catu<supplied reason="undefined">r</supplied>vve</hi>ti<hi rend="grantha">maṃ</hi><lb n="2" break="no"/><hi rend="grantha">kalattu</hi></sic><corr><hi rend="grantha">caturvedimaṇ<lb n="2" break="no"/>galattu</hi></corr></choice></rdg>
+			<rdg source="bib:Hultzsch1899_01">°<hi rend="grantha">catu<supplied reason="undefined">r</supplied>vve</hi>ti<hi rend="grantha">maṃ</hi><lb n="2" break="no"/><hi rend="grantha">kalattu</hi></rdg>
+			<note><ptr target="bib:Hultzsch1899_01"/> notes: <quote>Read <foreign><hi rend="grantha">caturvedimaṅgalattu</hi></foreign></quote></note>
 		</app>
 		
 	</listApp>    			
