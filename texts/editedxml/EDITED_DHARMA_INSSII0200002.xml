@@ -91,7 +91,7 @@
          	<!--create 2 div textpart: Sanskrit portion + Tamil portion? Ask DANIEL-->
          	<!--check break="no" presently encoded with intervening milestone "pagelike partition". Apparently not necessary and <pb> should be introduced. Ask DANIEL-->
          	         	         	
-         	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
+         	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
          		<!--<milestone unit="item" n="N"/>
          		<label xml:lang="eng">Northern plinth of the <foreign>vimāna</foreign></label>-->
          		

@@ -88,7 +88,7 @@
 
          <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
          	
-         	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
+         	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
          		<lb n="1"/>śubham astu svasti
          	</ab>
          	
@@ -121,7 +121,7 @@
          		<lb n="22" break="no"/>kkericiṟṟeṟi <g type="pc">.</g>
          	 </p>
          	 	
-         	<lg met="anuṣṭubh" n="1" xml:lang="san-Latn" rendition="class:38768 maturity:83213">
+         	<lg met="anuṣṭubh" n="1" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
          		<l n="a">dā<supplied reason="omitted">na</supplied>-pā<lb n="23" break="no"/>lanayor mmaddhye</l>
          		<l n="b">dānā<lb n="24" break="no"/>c śreyo ’nupālanam· <g type="danda">.</g></l>
          		<l n="c">dā<lb n="25" break="no"/>nāt· svarggam av<choice><sic>a</sic><corr>ā</corr></choice>pnoti</l>
