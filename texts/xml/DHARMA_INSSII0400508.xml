@@ -83,7 +83,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 			
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
-		<lb n="1"/><supplied reason="lost"><hi rend="grantha">svasti śrī</hi> <g type="pc">.</g></supplied>
+		<lb n="1"/><supplied reason="lost">svasti śrī <g type="pc">.</g></supplied>
 	</ab>
 	
 	<lg n="1" met="āciriyappā">
@@ -140,7 +140,7 @@
 		<app loc="1">
 			<lem><supplied reason="lost"><hi rend="grantha">svasti śrī</hi> <g type="pc">.</g></supplied></lem>
 			<rdg source="bib:KrishnaSastri1923_01"/>
-			<note>Restoring these initial blessings seems unnecessary</note>
+			<note>Restoring these initial blessings seems unnecessary.</note>
 		</app>	
 		
 		<app loc="3">

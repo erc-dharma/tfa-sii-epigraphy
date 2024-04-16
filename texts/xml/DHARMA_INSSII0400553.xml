@@ -87,8 +87,8 @@
 			
 <div type="edition" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
 				
-	<ab>
-		<lb n="1"/><hi rend="grantha">svasti śrī</hi> <g type="gomutraFinal">.</g>
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+		<lb n="1"/>svasti śrī <g type="gomutraFinal">.</g>
 	</ab>
 	
 	<lg met="uncertain" n="1">
