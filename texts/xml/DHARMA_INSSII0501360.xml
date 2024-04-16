@@ -91,7 +91,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--check @rendition-->
 	
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
-		<lb n="1"/><hi rend="grantha">svasti śrīḥ </hi> <g type="gomutraFinal">.</g>
+		<lb n="1"/>svasti śrīḥ  <g type="gomutraFinal">.</g>
 	</ab>
 	
 	<lg met="śārdūlavikrīḍita" n="1" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
@@ -101,7 +101,7 @@
 	</lg>	
 	
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
-		<hi rend="grantha">svasti śrī</hi>
+		svasti śrī
 	</ab>
 	
 	<p xml:lang="tam-Latn">
