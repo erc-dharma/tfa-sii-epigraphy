@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Citamparam, Naṭarāja temple, time of Kōpperuñciṅkatēvar, year 36</title>
+            <title>Citamparam, Naṭarāja temple, wall, time of Kōpperuñciṅkatēvar, year 36</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:reda">
@@ -154,7 +154,7 @@
 
 	<p>First reported in <bibl><ptr target="bib:ARIE1934-1935"/></bibl> (ARIE/1934-1935/B/1934-1935/104).</p>
 	<p>First edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.245).</p>
-	<p>Encoded here for DHARMA (ERC n° 809994) by Renato Dávalos based on previous editions.</p>
+	<p>Encoded by Renato Dávalos based on previous editions.</p>
 	<p>Translated by Renato Dávalos and Emmanuel Francis (2024).</p>
 	
 	<listBibl type="primary">

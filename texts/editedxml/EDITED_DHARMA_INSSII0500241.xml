@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Citamparam, Nāṭarāja temple, time of Rājendra Cōḻa, year 24</title>
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <persName ref="part:reda">
+                  <forename>Renato</forename>
+                  <surname>Dávalos</surname>
+               </persName>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:reda">
+                  <forename>Renato</forename>
+                  <surname>Dávalos</surname>
+               </persName>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_INSSII0500241</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported 
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p>Medial <foreign>i</foreign> and <foreign>ī</foreign> interchangeable.</p>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union’s Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:reda" when="2024-02-19">Creation of the file on the repository</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+<body>	
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+			
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+		<lb n="1"/>svasti śrī
+	</ab>
+	
+
+	
+	<p>
+		kōṉerimaikoṇṭā<choice><orig>n</orig><reg>ṉ</reg></choice> tiruvā<choice><orig>n</orig><reg>ṉ</reg></choice>a
+		<lb n="2" break="no"/>paṭṭi Uṭaiyār cikāriyañ ceyvārkaḷukku
+		<lb n="3"/>nañ ceṉāpatikaḷil kaṇṭarātittaṉ ceṭṭi
+		<lb n="4" break="no"/>yā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">rājarāja</hi>-p paṅkaḷa-nāṭuṭaiyāṉukku
+		<lb n="5"/>na<unclear>m</unclear> ceṉāpati-k kāṇi y-āka Iṭṭa nilam āvatu peru<supplied reason="omitted">r</supplied>nā
+		<lb n="6" break="no"/>ṭṭu kova<choice><orig>n</orig><reg>ṉ</reg></choice>puttū<surplus>r</surplus>rā<choice><orig>n</orig><reg>ṉ</reg></choice>a virakeraḷa nallūr-p pāl
+		<lb n="7"/>perumāṭkaḷ nāccinallūril civapātacekaramaṉṉa
+		<lb n="8" break="no"/>ṟaiyil Atirācarācava<supplied reason="omitted">ra</supplied>y-k kālukku vaṭakku koṅ
+		<lb n="9" break="no"/>kakulvallivatikku-k kiḻakku-p puṟatuṇṭattu nel
+		<lb n="10" break="no"/>vitai mu<unclear>k</unclear>kalattil It-tēvar paṅkuṉi-t tirunāḷ viṇ
+		<lb n="11" break="no"/>ṇāḷaṉukku Ivaṉ viṭṭa nelvitai Irukalattiṉā
+		<lb n="12" break="no"/>l melvārattā<supplied reason="omitted">l</supplied> nel I<unclear>ru</unclear>pattu nāṟkalattukku-c cilavā
+		<lb n="13" break="no"/>ka-t tiru Amutarici tūṇi-p patakku nāl viñcaṉa muṭpaṭa nel
+		<lb n="14" break="no"/><unclear>k</unclear>- kalaṉē tūṇi-p patakkum maṭattukku Arici nāṟkalattināl
+		<lb n="15"/>vi<unclear>ñ</unclear>caṉam Uṭpaṭa nel<unclear>p</unclear>-patiṉaiṅkalanē tūṇi
+		<lb n="16"/>Aṟunāḻiyum pū<unclear>ci</unclear>kkum nampiyārkku tiruppaḷḷittāmam pa
+		<lb n="17" break="no"/>ṟippānukkum toṭuppā<unclear>n</unclear>nukkum tirukkuḻal paṇi cevāṟkkum
+		<lb n="18"/><unclear>ne</unclear>l kalanē tūṇi <unclear>ti</unclear>ruviti Āṇṭā<supplied reason="omitted">r</supplied>kaḷukku nel
+		<lb n="19"/>Irutūṇi patakku tiruviḷakkeṇṇai kuṟi nānā
+		<lb n="20" break="no"/>ḻikku nel nākkalam tiruppatiyam pāṭuvōṟkum
+		<lb n="21"/>naṭṭuvaṟkum nel tūṇi pata<unclear>ṟ</unclear>kum Irukala nel <unclear>vi</unclear>
+		<lb n="22" break="no"/>taiyāl pāṭṭa nel iru<unclear>pa</unclear>ttu naṟkalanē
+		<lb n="23"/>tūṇi-p pataṟkum koṇṭu Itta<supplied reason="omitted">ṉ</supplied>ma<supplied reason="omitted">m</supplied> celuttuka Itu
+		<lb n="24"/>panmā Ecuvar <hi rend="grantha">rekṣai</hi>
+		
+
+	</p>
+	
+</div>
+			
+<!--<div type="apparatus">
+	
+	<listApp>
+		
+		<app loc="18">
+			<lem>kuṇamē<choice><orig>n</orig><reg>ṉ</reg></choice>akaipuram</lem>
+			<rdg source="bib:KrishnaSastri1923_01">kuṇamenkaipuram</rdg>
+			<note><ptr target="bib:KrishnaSastri1923_01"/> reads <foreign>kuṇamenakaipuram</foreign> in the other occurrences; the present readin <foreign>kuṇamenkaipuram</foreign> appears thus to be a typo.</note>
+		</app>	
+		
+	</listApp>	-->
+	
+<!--</div>-->
+			
+<div type="translation" resp="part:reda part:emfr">
+								
+	<p n="1">
+		Prosperity! Fortune! In progress...		
+	</p>
+	
+
+	
+
+	
+</div>
+	
+<div type="commentary">
+		
+	<p>
+		The <foreign>meykkīrtti</foreign> is a mixing of that of Rājendra I Cōḻa and Rājendra II Cōḻa, as found in <bibl><ptr target="bib:Cuppiramaniyam1983_01"/></bibl> (pp. 26-28, 60-63), more precisely, we find first the <foreign>aṭi</foreign>s 1-39 of the <foreign>meykkīrtti</foreign> of Rājendra I Cōḻa and then most, but not all, of the <foreign>aṭi</foreign>s 37-82 of the 5th <foreign>meykkīrtti</foreign> of Rājendra II Cōḻa. This was already noted by <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (p. 29, fn. 5, at the word <foreign>takkaṇa-lāṭamum</foreign>, line 7): 
+		<quote>From here the wording is quite different from that of the other published inscriptions.</quote>
+	</p>
+</div>
+    	
+<div type="bibliography">
+	
+	<p>First reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/118).</p>
+	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.223).</p>	
+	<p>Encoded by Renato Dávalos (2024), based on previous editions.</p>
+	<p>First translated in <bibl><ptr target="bib:Orr2000_01"/></bibl> (pp. 121-122).</p>
+	
+	<p>		
+		Re-edited and re-translated here for DHARMA (ERC n° 809994) by Renato Dávalos and and Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>.
+	</p>	
+	
+	<listBibl type="primary">
+		
+		<bibl n="SII">
+			<ptr target="bib:KrishnaSastri1923_01"/>
+			<citedRange unit="page">29-31</citedRange>
+			<citedRange unit="item">223</citedRange>
+		</bibl>
+	</listBibl>
+	
+	<listBibl type="secondary">
+				
+		<bibl>
+			<ptr target="bib:ARIE1887-1888_01"/>
+			<citedRange unit="page">4</citedRange>
+			<citedRange unit="appendix">I/1887-1888</citedRange>
+			<citedRange unit="item">118</citedRange>			
+		</bibl>
+		
+		<bibl>
+			<ptr target="bib:Cuppiramaniyam1983_01"/>
+		</bibl>
+		
+		<bibl>
+			<ptr target="bib:Orr2000_01"/>
+			<citedRange unit="page">121-122</citedRange>	
+		</bibl>
+		
+	</listBibl>
+	
+</div>
+        </body>
+    </text>
+</TEI>
+<!--METADATA: Outside of first prakara, north side, Chidambaram-->
