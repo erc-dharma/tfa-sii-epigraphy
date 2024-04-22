@@ -80,18 +80,18 @@
                        matchPattern="([a-zA-Z0-9\-\_]+)"
                        replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
-                        ERC-DHARMA whose data are open to the public.</p>
+						ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
             <prefixDef ident="part"
                        matchPattern="([a-z]+)"
                        replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
-                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+						<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:reda" when="2024-02-19">Creation of the file on the repository</change>
+         <change who="part:reda" when="2024-04-21">Creation of the file on the repository</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
@@ -165,8 +165,7 @@
 <div type="commentary">
 		
 	<p>
-		The <foreign>meykkīrtti</foreign> is a mixing of that of Rājendra I Cōḻa and Rājendra II Cōḻa, as found in <bibl><ptr target="bib:Cuppiramaniyam1983_01"/></bibl> (pp. 26-28, 60-63), more precisely, we find first the <foreign>aṭi</foreign>s 1-39 of the <foreign>meykkīrtti</foreign> of Rājendra I Cōḻa and then most, but not all, of the <foreign>aṭi</foreign>s 37-82 of the 5th <foreign>meykkīrtti</foreign> of Rājendra II Cōḻa. This was already noted by <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (p. 29, fn. 5, at the word <foreign>takkaṇa-lāṭamum</foreign>, line 7): 
-		<quote>From here the wording is quite different from that of the other published inscriptions.</quote>
+		
 	</p>
 </div>
     	
