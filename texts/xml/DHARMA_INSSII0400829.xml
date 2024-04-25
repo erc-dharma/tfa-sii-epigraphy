@@ -92,7 +92,7 @@
 		naḷa-varu<hi rend="grantha">ṣa</hi>m kā<reg>r</reg>ttikai <g type="mācam"/> 2 <g type="tēti"/>
 	</p>
 	<p>
-		<hi rend="grantha">śrī-ma<unclear>n-ma</unclear>hā-maṇḍaleśvara-rāma-rāja</hi>-tiru-malaiya-<hi rend="grantha">de</hi>va-ma<hi rend="grantha">hārāja</hi>yaṉ kāriyattuk=ku kaṟtar-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a vēṅkaṭā-t-tiri Ayya<unclear>ṉum
+		<hi rend="grantha">śrīma<unclear>n-ma</unclear>hā-maṇḍaleśvara-rāma-rāja</hi>-tiru-malaiya-<hi rend="grantha">de</hi>va-ma<hi rend="grantha">hārāja</hi>yaṉ kāriyattuk=ku kaṟtar-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a vēṅkaṭā-t-tiri Ayya<unclear>ṉum
 		kāmā</unclear><hi rend="grantha">kṣi</hi>-Am-maṉ-<surplus>kōyi</surplus>kōyil <hi rend="grantha">sthā</hi><choice><orig>n</orig><reg>ṉ</reg></choice>attārum Uṭaiyavar kailāsanātaṟku
 		<hi rend="grantha">dharmma-śāsa</hi>nam paṇṇi-k= kuṭutta paṭi
 	
@@ -120,7 +120,13 @@
 
 <div type="apparatus">
 				
-	<listApp>
+	<listApp>			
+		
+		<app loc="1">
+			<lem>°tirumalaiya<hi rend="grantha">de</hi>va°</lem>
+			<rdg source="bib:KrishnaSastri1923_01"/>
+			<note>The reading <foreign>°tirumal<choice><orig>aiy</orig><reg>ai</reg></choice><hi rend="grantha">de</hi>va°</foreign> might be preferable.</note>
+		</app>
 		
 		<app loc="2">
 			<lem>°kaṭ<choice><orig>ai</orig><reg>a</reg></choice>vat' ākavum</lem>
@@ -148,11 +154,13 @@
 	<p n="1">Nala year, Kārttikai month, date 2.</p>
 	
 	<p n="1-2">
-		According to
-		...
-		the boundaries
-		...
+		According to the pious edict <supplied reason="explanation"><foreign>dharma-śāsana</foreign></supplied> in favour of the Lord Kailācanātar<note>Literally: "the one of the Kailāsanātha," that is, the Śiva of the Kailāsanātha temple in Kāñcipuram, built in the first quarter of the 8th century.</note> that
+		Vēṅkaṭattiri Attaṉ, <hi rend="italic">alias</hi> the officer <supplied reason="explanation"><foreign>kaṟtar</foreign></supplied> for <supplied reason="subaudible">sacred</supplied> services <supplied reason="explanation"><foreign>kāriyam</foreign></supplied> of the glorious ... king Tirumalai ...
+		and the trustees <supplied reason="explanation"><foreign><hi rend="grantha">sthā</hi>ṉattar</foreign></supplied> <supplied reason="subaudible">of</supplied> the Temple of Kāmākṣiyammaṉ,
+		so tha there be <supplied reason="explanation"><foreign>āka</foreign></supplied> merit for king Tirumalai, the great king,
+		the boundaries to place <supplied reason="explanation">for</supplied> Kāmākṣiyammaṉ,
 		are <supplied reason="subaudible">as follows</supplied>:
+		...
 	</p>
 	
 	<p n="2">
