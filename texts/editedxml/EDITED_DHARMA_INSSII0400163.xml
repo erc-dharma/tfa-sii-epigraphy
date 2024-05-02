@@ -98,7 +98,7 @@
 	<p>	
 		<hi rend="grantha">śrī</hi>-maṉu-ma<hi rend="grantha">hā-pradhā</hi>ṉa-rākuttarāya
 		<gap reason="lost" quantity="4" unit="character"/>
-		cā<hi rend="grantha">de</hi>va-<hi rend="grantha">daṇḍa</hi>-ṉāyakkaṉeṉ ce
+		cā<hi rend="grantha">de</hi>va-<hi rend="grantha">daṇḍa</hi>-ṉāyakkaṉ-ēṉ ce
 		<gap reason="lost" quantity="10" unit="character"/> <hi rend="grantha">kara</hi>-nāyaṟṟu
 		Apara-pa<hi rend="grantha">kṣa</hi>ttu <hi rend="grantha">dvādaśi</hi>yu
 		<gap reason="lost" quantity="5" unit="character"/>
@@ -151,7 +151,7 @@
 	
 	<!--This is another inscription, which should be edited in a separate file-->
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
-		<lb n="1"/>svasti śrī
+		svasti śrī
 	</ab>
 	<p>
 		Iṟṟaināḷilē Ic-cēla-nāṭ-uṭaiya-p poṉ parappi
