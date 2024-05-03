@@ -51,7 +51,8 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+								nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -74,7 +75,7 @@
 				<prefixDef ident="part" matchPattern="([a-z]+)"
 					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
 					<p>Internal URIs using the part prefix to point to person elements in the
-						<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
 				</prefixDef>
 			</listPrefixDef>
 		</encodingDesc>
@@ -98,9 +99,8 @@
 			
 			<l n="a">śrīmān· coḷa-n<choice><sic>ra</sic><corr>ṟ</corr></choice>pātmaj<choice><sic>ā</sic><corr>aḥ</corr></choice> paṭumati<lb n="2" break="no"/>ś śrīvallabho vairiṇāṃ</l>
 			<l n="b">kālaś śilaguṇair u<lb n="3" break="no"/>petamahimāṟintikai-nāmā di<choice><sic>śvata</sic><corr>śat·</corr></choice></l>
-<l n="b">Ādhigr<supplied reason="undefined">ā</supplied>ma<lb n="4" break="no"/>ni<supplied reason="undefined">v</supplied>āsine purajite dīpasya dīptyai sadā</l>
-<l n="da">triṃśan-niṣkami<lb n="5" break="no"/>taṃ hiraṇyam a<supplied reason="omitted">pa</supplied>randaṇḍañ ca lauham mahat· <g type="gomutraFinal">.</g></l>
-
+			<l n="c">Ādhigr<supplied reason="undefined">ā</supplied>ma<lb n="4" break="no"/>ni<supplied reason="undefined">v</supplied>āsine purajite dīpasya dīptyai sadā</l>
+			<l n="d">triṃśan-niṣkami<lb n="5" break="no"/>taṃ hiraṇyam a<supplied reason="omitted">pa</supplied>randaṇḍañ ca lauham mahat· <g type="gomutraFinal">.</g></l>
 			
 		</lg>
 		
