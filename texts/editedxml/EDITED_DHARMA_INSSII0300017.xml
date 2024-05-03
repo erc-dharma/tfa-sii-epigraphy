@@ -8,7 +8,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Mēlpāṭi, Cōḻēśvara temple, time of Rājarāja Rājakesarivarman Rājarāja, year 29</title>
+            <title>Mēlpāṭi, Cōḻēśvara temple, time of Rājarāja Rājakesarivarman Rājarāja, year
+					29</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -106,12 +107,12 @@
 		<l n="4">vēṅkai-nāṭuṅ kaṅka-pāṭiyum</l>
 		<l n="5">nuḷam<supplied reason="undefined">pa</supplied><lb n="4" break="no"/>-<supplied reason="undefined">p</supplied>āṭiyun= taṭikai-pāṭiyuṅ</l>		
 		<l n="6">kuṭa-malai-nāṭuṅ kollamuṅ kaliṅkamum</l>
-		<l n="5"><lb n="5"/>Eṇ-ṭicai pukaḻ tara v-īḻa-maṇṭalamum</l>
-		<l n="7">iraṭṭa-pāṭi y-ēḻ’ arai y-ilakkamun=</l>
-		<l n="8">tiṇ-<supplied reason="undefined">ṭi</supplied><lb n="6" break="no"/>ṟal veṉṟi-t taṇṭāṟ koṇṭa ta<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice></l>
-		<l n="9">eḻil vaḷar <choice><sic>avu</sic><corr>ū</corr></choice>ḻi y-ellā <lb n="7"/>yāṇṭun=</l>
-		<l n="10">toḻutakai viḷaṅkum yāṇṭē</l>
-		<l n="11">ceḻiyarai-t tēcu ko<lb n="8" break="no"/>ḷ</l>
+		<l n="7"><lb n="5"/>Eṇ-ṭicai pukaḻ tara v-īḻa-maṇṭalamum</l>
+		<l n="8">iraṭṭa-pāṭi y-ēḻ’ arai y-ilakkamun=</l>
+		<l n="9">tiṇ-<supplied reason="undefined">ṭi</supplied><lb n="6" break="no"/>ṟal veṉṟi-t taṇṭāṟ koṇṭa ta<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice></l>
+		<l n="10">eḻil vaḷar <choice><sic>avu</sic><corr>ū</corr></choice>ḻi y-ellā <lb n="7"/>yāṇṭun=</l>
+		<l n="11">toḻutakai viḷaṅkum yāṇṭē</l>
+		<l n="12">ceḻiyarai-t tēcu ko<lb n="8" break="no"/>ḷ</l>
 	</lg>
 	<p>
 		śrī-kō-<hi rend="grantha">rāja-rāja-rāja-</hi>kē<hi rend="grantha">sari-varmmar-ā</hi>ṉa <hi rend="grantha">śrī-rāja-rāja-de</hi>vaṟku yāṇ<supplied reason="undefined">ṭu</supplied>

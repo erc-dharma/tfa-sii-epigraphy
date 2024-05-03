@@ -8,7 +8,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Mēlpāṭi, Cōḻēśvara temple, time of Parakesarivarman Rājendra Cōḻa, year 9</title>
+            <title>Mēlpāṭi, Cōḻēśvara temple, time of Parakesarivarman Rājendra Cōḻa, year
+					9</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -117,13 +118,13 @@
 		<l n="16">tol peruṅ-kāval pala-paḻan=-t<choice><orig>i</orig><reg>ī</reg></choice>vuñ</l>
 		<l n="17">ce<supplied reason="undefined">ru</supplied><lb n="11"/>viṟ cinavil Irupatt’ oru-kāl</l>
 		<l n="18">araicukaḷai kaṭṭa parac<choice><orig>i</orig><reg>u</reg></choice>-rāman</l>
-		<l n="18"><lb n="12"/>mēvaruñ c<supplied reason="undefined">ā</supplied>n=timatt<choice><orig>i</orig><reg>ī</reg></choice>v’ araṇ karuti</l>
-		<l n="19">Iruttiya cem-p<supplied reason="undefined">oṟ</supplied>ṟiru<lb n="13" break="no"/>-t-taku muṭiyum</l>
-		<l n="20">payaṅ-koṭu paḻi mika <supplied reason="undefined">mu</supplied><choice><orig>c</orig><reg>y</reg></choice>a<supplied reason="undefined">ṅ</supplied>kiyil <supplied reason="undefined">mu</supplied>tukiṭṭ’</l>
-		<l n="21">oḷitta <lb n="14"/>caya-ciṅkaṉ Aḷapperum pukaḻoṭu</l>
-		<l n="22"><supplied reason="undefined">pī</supplied>ṭi I<choice><orig>l</orig><reg>r</reg></choice>aṭṭa-pāṭi Ēḻ’ arai</l>
-		<l n="23">Ilak=kamu na<supplied reason="undefined">va</supplied><lb n="15" break="no"/>neti-<supplied reason="undefined">k</supplied>-ku<supplied reason="undefined">la</supplied>-p-pe<supplied reason="undefined">ru</supplied>malaikaḷu</l>
-		<l n="24">mā-p-<supplied reason="undefined">p</supplied>e<supplied reason="undefined">ru</supplied>n=taṇ<supplied reason="undefined">ṭā</supplied>ṟ koṇ<supplied reason="undefined">ṭa</supplied></l>
+		<l n="19"><lb n="12"/>mēvaruñ c<supplied reason="undefined">ā</supplied>n=timatt<choice><orig>i</orig><reg>ī</reg></choice>v’ araṇ karuti</l>
+		<l n="20">Iruttiya cem-p<supplied reason="undefined">oṟ</supplied>ṟiru<lb n="13" break="no"/>-t-taku muṭiyum</l>
+		<l n="21">payaṅ-koṭu paḻi mika <supplied reason="undefined">mu</supplied><choice><orig>c</orig><reg>y</reg></choice>a<supplied reason="undefined">ṅ</supplied>kiyil <supplied reason="undefined">mu</supplied>tukiṭṭ’</l>
+		<l n="22">oḷitta <lb n="14"/>caya-ciṅkaṉ Aḷapperum pukaḻoṭu</l>
+		<l n="23"><supplied reason="undefined">pī</supplied>ṭi I<choice><orig>l</orig><reg>r</reg></choice>aṭṭa-pāṭi Ēḻ’ arai</l>
+		<l n="24">Ilak=kamu na<supplied reason="undefined">va</supplied><lb n="15" break="no"/>neti-<supplied reason="undefined">k</supplied>-ku<supplied reason="undefined">la</supplied>-p-pe<supplied reason="undefined">ru</supplied>malaikaḷu</l>
+		<l n="25">mā-p-<supplied reason="undefined">p</supplied>e<supplied reason="undefined">ru</supplied>n=taṇ<supplied reason="undefined">ṭā</supplied>ṟ koṇ<supplied reason="undefined">ṭa</supplied></l>
 	</lg>
 	<p>
 		kō-p-parakē<hi rend="grantha">sari</hi>-<supplied reason="undefined">pa</supplied>
