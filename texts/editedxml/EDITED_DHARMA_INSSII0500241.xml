@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Citamparam, Nāṭarāja temple, time of Rājendra Cōḻa, year 24</title>
+            <title>Pērūr, Gōṣṭēśvara temple, time of Kōṉerimaikoṇṭān, no year</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:reda">
@@ -102,13 +102,16 @@
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
 		<lb n="1"/>svasti śrī
 	</ab>
-
+	
 	<p>
-		kōṉerimaikoṇṭā<choice><orig>n</orig><reg>ṉ</reg></choice> tiruvā<choice><orig>n</orig><reg>ṉ</reg></choice>
+		kōṉerimaikoṇṭān tiruvā<choice><orig>n</orig><reg>ṉ</reg></choice>
 		<lb n="2" break="no"/>paṭṭi Uṭaiyār cikāriyañ ceyvārkaḷukku
-		<lb n="3"/>nañ ceṉāpatikaḷil kaṇṭar rātittaṉ ceṭṭi
+		<lb n="3"/>nañ ceṉāpatikaḷil kaṇṭarātittaṉ ceṭṭi
 		<lb n="4" break="no"/>y-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">rājarāja</hi>-p paṅkaḷa-nāṭ’ uṭaiyāṉukku
-		<lb n="5"/>na<supplied reason="undefined">m</supplied> ceṉāpati-k kāṇi y-āka Iṭṭa nilam āvatu per<choice><sic>u</sic><corr>ū</corr></choice><supplied reason="omitted">r</supplied>-nā
+		<lb n="5"/>na<supplied reason="undefined">m</supplied> ceṉāpati-k kāṇi y-āka Iṭṭa nilam 
+	</p>
+	<p>
+		āvatu per<choice><sic>u</sic><corr>ū</corr></choice><supplied reason="omitted">r</supplied>-nā
 		<lb n="6" break="no"/>ṭṭu kova<choice><orig>n</orig><reg>ṉ</reg></choice>puttū<surplus>r</surplus>r-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a v<choice><sic>i</sic><corr>ī</corr></choice>ra-keraḷa nallūr-p pāl
 		<lb n="7"/>perumāṭkaḷ nāccinallūril civapātacekara-maṉ ṉ-a
 		<lb n="8" break="no"/>ṟaiyil Atirācarāca v<supplied reason="omitted">ā</supplied>y-kkālukku vaṭakku koṅ
@@ -154,8 +157,10 @@
 		Prosperity! Fortune! In progress...		
 	</p>
 	
+	<p n="1-5">
+		The land is given so that the hereditary rights <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> for our army commander <supplied reason="subaudible">that belong to</supplied> the landlord in Rājarāja Paṅkala-nāṭu, <foreign>alias</foreign> Kaṇṭarātittaṉ Ceṭṭi <supplied reason="subaudible">of the court of king</supplied> Kōṉerimaikoṇṭāṉ, <supplied reason="subaudible">are given</supplied> <supplied reason="subaudible">in the name of</supplied> our commander to the managers of the sacred temple <supplied reason="subaudible"><foreign>cikāriyañ ceyvārkaḷ</foreign></supplied> of Tiruvāṉpaṭṭi-uṭaiyār.	
+	</p>
 
-	
 
 	
 </div>
@@ -169,21 +174,20 @@
     	
 <div type="bibliography">
 	
-	<p>First reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/118).</p>
-	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.223).</p>	
-	<p>Encoded by Renato Dávalos (2024), based on previous editions.</p>
-	<p>First translated in <bibl><ptr target="bib:Orr2000_01"/></bibl> (pp. 121-122).</p>
+	<p>First reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1893-1894/A/1893/565).</p>
+	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5.241).</p>	
+	<p>Encoded by Renato Dávalos (2024), based on previous edition.</p>
 	
 	<p>		
-		Re-edited and re-translated here for DHARMA (ERC n° 809994) by Renato Dávalos and and Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>.
+		Re-edited and re-translated here for DHARMA (ERC n° 809994) by Renato Dávalos and and Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl>.
 	</p>	
 	
 	<listBibl type="primary">
 		
 		<bibl n="SII">
-			<ptr target="bib:KrishnaSastri1923_01"/>
-			<citedRange unit="page">29-31</citedRange>
-			<citedRange unit="item">223</citedRange>
+			<ptr target="bib:KrishnaSastri1925_01"/>
+			<citedRange unit="page">88</citedRange>
+			<citedRange unit="item">241</citedRange>
 		</bibl>
 	</listBibl>
 	
@@ -191,19 +195,11 @@
 				
 		<bibl>
 			<ptr target="bib:ARIE1887-1888_01"/>
-			<citedRange unit="page">4</citedRange>
-			<citedRange unit="appendix">I/1887-1888</citedRange>
-			<citedRange unit="item">118</citedRange>			
+			<citedRange unit="page">24</citedRange>
+			<citedRange unit="appendix">A/1893</citedRange>
+			<citedRange unit="item">565</citedRange>			
 		</bibl>
 		
-		<bibl>
-			<ptr target="bib:Cuppiramaniyam1983_01"/>
-		</bibl>
-		
-		<bibl>
-			<ptr target="bib:Orr2000_01"/>
-			<citedRange unit="page">121-122</citedRange>	
-		</bibl>
 		
 	</listBibl>
 	
