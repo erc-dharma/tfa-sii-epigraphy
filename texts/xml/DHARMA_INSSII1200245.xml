@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Citamparam, Naṭarāja temple, wall, time of Kōpperuñciṅkatēvar, year 36</title>
+				<title>Citamparam, Naṭarāja temple, wall, time of king Kōpperuñciṅkatēvar, year 36</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -106,7 +106,7 @@
 	
 	<p>
 		teṉṉavaṉpirammārāyarum Aiyatuṅka-p pallavaraiyarum tillai Ampala-p pallavaraiyarum Uṭaiyār tirucciṟṟampalamuṭaiyār kōyil śrīmāheśvara kaṇkāṇi ceyvārkaḷum
-		<lb n="2"/><hi rend="grantha">śrī</hi>kāriyañ ceyvārkaḷum cāmutāyañ ceyvārkaḷum kōyilṉāyakañ ceyvārkaḷum tirumāḷikaikkūṟu ceyvārkaḷum paṇṭāra-p pōttakamuṭaiyārkaḷum kaṇakkarum kaṇṭu viṭu tantatāvatu</p>   	
+		<lb n="2"/><hi rend="grantha">śrī</hi>kāriyañ ceyvārkaḷum cāmutāyañ ceyvārkaḷum kōyilṉāyakañ ceyvārkaḷum tirumāḷikaikkūṟu ceyvārkaḷum paṇṭāra-p pottakam uṭaiyārkaḷum kaṇakkarum kaṇṭu viṭu tantat’ āvatu</p>   	
 	
 	<p>nāyakar tiruttēr Eḻuntaruḷum pōtu tiruppuṟakkuṭaiyil <hi rend="grantha">adhyaya</hi>ṉam paṇṇi cevikkavum</p>   	
 	<p>nāyakar kulottuṅkacōḻaṉ tiruttoppil Eṟi Aruḷiṉāl <hi rend="grantha">svasti</hi> <lb n="3"/>colli cevikkavum</p>   	
@@ -144,9 +144,16 @@
       	
 <div type="translation" resp="part:reda part:emfr">
 	<p n="1">
-		In progress...
+		Fortune! Prosperity
 	</p>
-         	
+	<p n="1">
+		<supplied reason="subaudible">This is</supplied> the written order <supplied reason="explanation"><foreign>ōlai</foreign></supplied> from Veṇāṭuṭaiyāṉ in the year 36 of king Peruñciṅka-tēvar, <foreign>alias</foreign> Sakala Bhuvana Cakravarti śrī Avaṉi Āḷappiṟanta.
+	</p>
+	<p n="1-2">
+		What was given away viṭu tantatu after the inspection kaṇṭu done by the accountants [of the temple], the responsibles of the treasury registers paṇṭāra pottakam, officials of the divison [of the temple corresponding to] the royal hall tirumāḷikaikkūṟu ceyvārkaḷum, officials in charge of the temple kōyilṉāyakañ ceyvārkaḷum, the officials of the temple services cāmutāyañ ceyvārkaḷum, the officials for the temple affairs śrīkāriyañ ceyvārkaḷum, the officlas overseeing the devotees śrīmāheśvara kaṇkāṇi ceyvārkaḷum in the temple of the God of Chidambaram, which is the Lord of [the following temple officers] Teṉṉavaṉ Pirammārāyar, Aiyatuṅka Pallavaraiyar, and of Tillai Ampala Pallavaraiyar. 
+	</p>
+	
+	
          	
          </div>
 
