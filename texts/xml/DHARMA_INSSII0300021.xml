@@ -18,7 +18,7 @@
 				</respStmt>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
+					<persName>
 						<forename>Eugen</forename>
 						<surname>Hultzsch</surname>
 					</persName>
@@ -130,7 +130,7 @@
 				
 	<!--<p>Reported in <bibl><ptr target="bib:ARIE"/></bibl>...</p>-->
 	<p>Edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>, with English translation (SII 3.21).</p>
-	<p>Encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>.</p>	
+	<p>This edition by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>.</p>	
 	
 	<listBibl type="primary">
 		
