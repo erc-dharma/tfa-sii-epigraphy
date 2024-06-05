@@ -94,7 +94,7 @@
       <lb n="1"/>svasti śrī
    </ab>
    <p>
-      kō-p-pa<supplied reason="lost">rakēcari-paṉ<hi rend="grantha">ma</hi>kku yāṇṭu <num value="11">10 1</num></supplied>- Āvatu
+      kō-p-pa<supplied reason="lost">rakēcari-paṉ<hi rend="grantha">ma</hi>kku yāṇṭu <num value="11"><g type="numeral">10</g> 1</num></supplied>- Āvatu
       </p>
    <p>
       vaṭa-karai nallāṟṟūr-nāṭṭu tirukkō<supplied reason="lost">ṭikāvil <hi rend="grantha">mahā</hi></supplied><hi rend="grantha">de</hi>varkku <hi rend="grantha">śrī</hi> Uttamacōḻa<hi rend="grantha">de</hi><supplied reason="lost">varai tiruvayiṟu vāytta ma</supplied>ḻavaraiyar makiḷār
@@ -112,8 +112,8 @@
             
             <listApp>
                 <app loc="1">
-                  <lem>kōppa<supplied reason="lost">rakēcaripaṉ<hi rend="grantha">ma</hi>kku yāṇṭu <num>10 1</num></supplied></lem>
-                  <rdg source="bib:SrinivasaRao1967_01">kōpparakēcaripaṉmakku yāṇṭu <num>10 1</num></rdg>
+                  <lem>kōppa<supplied reason="lost">rakēcaripaṉ<hi rend="grantha">ma</hi>kku yāṇṭu <num><g type="numeral">10</g> 1</num></supplied></lem>
+                  <rdg source="bib:SrinivasaRao1967_01">kōpparakēcaripaṉmakku yāṇṭu <num><g type="numeral">10</g> 1</num></rdg>
                    <note>this passage is no longer fully legible</note>
                    </app>
                    
