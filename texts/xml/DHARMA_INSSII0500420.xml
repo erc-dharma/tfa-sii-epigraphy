@@ -99,9 +99,6 @@
 <body>	
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
-				
-		
-	
 	
 	<p>		
 		<lb n="1"/><hi rend="grantha">tri</hi>puva<unclear>na</unclear>c- cakkaravartti koneriṉmai-koṇṭāṉ kiḻvempanāṭṭu Uṭaiyār tirunelveli Uṭaiyār kō 
@@ -117,13 +114,8 @@
 		<lb n="11"/>melellai tiruvitikku-k kiḻakkum teṉ Ellai-k kiṇaṟupeṟṟa maṉaikku-t teṟkum Āka (I!)(n)nāṉ kellaikku maṭamaṉai maṉai patiṉēṉṟum yāṇṭu (15)-vati
 		<lb n="12"/>mutal maṭam Eṭuttirukka-k kāṇiyāka-t tantōm. nam Olai piṭipāṭāka-k koṇṭu kalliluñ cempiṉum veṭṭivittu-k koḷḷa-(p!) paṇṇuka Ivai Aḻakiyapā
 		<lb n="13"/>(ṇṭi)ya viḻupparaiyaṉē(ṉ!) Eḻuttu yāṇ(ṭu)(yaṇṭu) 15ḷ 2ā 15 5 Ivai kuru kularāyaṉ Eḻuttu Ivai pallavarāyaṉ E(ḻu!)ttu
-	
 		
 	</p>
-		
-	
-
-	
 </div>
 			
 <!--<div type="apparatus">
@@ -141,52 +133,44 @@
 <!--</div>-->
 			
 <div type="translation" resp="part:reda part:emfr">
-								
 
 	<p n="1">
 		 		
 		
 	</p>
 	
-	
-	
 </div>
 	
-<!--<div type="commentary">
-		
+<!--<div type="commentary">		
 	
 </div>-->
     	
 <div type="bibliography">
 	
-	<p>First reported in <bibl><ptr target="bib:KrishnaSastri1916_01"/></bibl> (ARIE/1893-1894/B/1894/131).</p>
-	
-	
-	<p>		
-		Translated here for DHARMA (ERC n° 809994) by Renato Dávalos and and Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1916_01"/></bibl>.
-	</p>	
-	
-	<listBibl type="primary">
-		
-		<bibl n="SII">
-			<ptr target="bib:KrishnaSastri1916_01"/>
-			<citedRange unit="page">146</citedRange>
-			<citedRange unit="item">420</citedRange>
-		</bibl>
-	</listBibl>
-	
-	<listBibl type="secondary">
-		
-		<bibl n="SII">
-			<ptr target="bib:ARIE1893-1894"/>
-			<citedRange unit="page">28</citedRange>
-			<citedRange unit="item">131</citedRange>
-			<citedRange unit="appendix">B</citedRange>
-		</bibl>
-	</listBibl>
-	
-
-	
+    <p>Reported in <bibl><ptr target="bib:KrishnaSastri1916_01"/></bibl> (ARIE/1893-1894/B/1894/131).</p>
+    <p>Edited in <bibl><ptr target="bib:KrishnaSastri1916_01"/></bibl> (SII 5.420).</p>
+    <p>This edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:KrishnaSastri1916_01"/></bibl>.</p>	  
+    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+    
+    <listBibl type="primary">
+        
+        <bibl n="SII">
+            <ptr target="bib:KrishnaSastri1916_01"/>
+            <citedRange unit="page">146</citedRange>
+            <citedRange unit="item">420</citedRange>
+        </bibl>
+    </listBibl>
+    
+    <listBibl type="secondary">
+        
+        <bibl n="ARIE">
+            <ptr target="bib:ARIE1893-1894"/>
+            <citedRange unit="page">28</citedRange>
+            <citedRange unit="item">131</citedRange>
+            <citedRange unit="appendix">B</citedRange>
+        </bibl>
+    </listBibl>
+    
 </div>
         </body>
     </text>

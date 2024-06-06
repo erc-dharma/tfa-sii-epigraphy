@@ -287,36 +287,34 @@
 				</div>-->
 			
 <div type="bibliography">
-				
-	<p>First reported in <bibl><ptr target="bib:ARIE1951-1952"/></bibl>.</p>
-	
-	<p>First edited in <bibl><ptr target="bib:Narasimhaswamy1982_01"/></bibl> (SII 24, no. 182).</p>
-
-	<p>Reedited and translated here for DHARMA (ERC n° 809994) by Renato Davalos and  Emmanuel Francis.</p>
-		
-	<listBibl type="primary">
-		
-		<bibl n="SII">
-			<ptr target="bib:Narasimhaswamy1982_01"/>
-			<citedRange unit="page">494</citedRange>
-			<citedRange unit="item">182</citedRange>
-		</bibl>
-						
-	</listBibl>           
-	
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1951-1952"/>
-			<citedRange unit="page">26</citedRange>
-			<citedRange unit="appendix">B</citedRange>
-			<citedRange unit="item">178</citedRange>
-		</bibl>	
-		
-	</listBibl>
+	        
+    <p>Reported in <bibl><ptr target="bib:ARIE1951-1952"/></bibl> (ARIE/1951-1952/B/1951-1952/178).</p>
+    <p>Edited in <bibl><ptr target="bib:Narasimhaswamy1982_01"/></bibl> (SII 24.182).</p>
+    <p>This edition by Renato Dávalos and Emmanuel Francis (2024), based on <bibl><ptr target="bib:Narasimhaswamy1982_01"/></bibl>.</p>	  
+    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+    <listBibl type="primary">
+        
+        <bibl n="SII">
+            <ptr target="bib:Narasimhaswamy1982_01"/>
+            <citedRange unit="page">494</citedRange>
+            <citedRange unit="item">182</citedRange>
+        </bibl>
+        
+    </listBibl>           
+    
+    <listBibl type="secondary">
+        
+        <bibl>
+            <ptr target="bib:ARIE1951-1952"/>
+            <citedRange unit="page">26</citedRange>
+            <citedRange unit="appendix">B</citedRange>
+            <citedRange unit="item">178</citedRange>
+        </bibl>	
+        
+    </listBibl>
 </div>
-        </body>
-    </text>
+	</body>
+	</text>
 </TEI>
 <!--METADATA:
 	On the east wall of the second prākāra of the same temple, left of entrance <note>Another common term to refer to the Kāpālikas, followers of Atimārga III</note>.

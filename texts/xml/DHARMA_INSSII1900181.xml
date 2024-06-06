@@ -380,49 +380,42 @@
     	
 <div type="bibliography">
     		
-	<p>
-		Fragment 1 first edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19, no. 181, lines 1-6). Re-edited in <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl> (SII 23, no. 233, lines 1-6).
-		
-		Fragment 2 first edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19, no. 181, lines 7-14). First two lines re-edited in <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl> (SII 23, no. 233, supplementary lines 1-2).
-	</p>
-	
-	<p>		
-		Reedited and translated here for DHARMA (ERC n° 809994) by Renato Dávalos (2023) and Emmanuel Francis.
-	</p>
-	<p>		
-		This edition by Renato Dávalos (2023), based on previous editions.
-	</p>
-	
-	<listBibl type="primary">
-		
-		<bibl n="SR1967">
-			<ptr target="bib:SrinivasaRao1967_01"/>
-			<citedRange unit="page">92-93</citedRange>
-			<citedRange unit="item">181</citedRange>
-			<note>14 epigraphic lines.</note>
-		</bibl>
-		
-		<bibl n="SR1979">
-			<ptr target="bib:SrinivasaRao1979_01"/>
-			<citedRange unit="page">164-165</citedRange>
-			<citedRange unit="item">233</citedRange>
-			<note>6 epigraphic lines + 2 supplementary epigraphic lines.</note>
-		</bibl>
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-				
-		<bibl>
-			<ptr target="bib:ARIE1907-1908"/>
-			<citedRange unit="page">20</citedRange>
-			<citedRange unit="appendix">B/1907</citedRange>
-			<citedRange unit="item">233-234</citedRange>			
-		</bibl>
-		
-		<!--<bibl>add Palaniappan to Zotero</bibl>-->
-		
-	</listBibl>
+    <p>Reported in <bibl><ptr target="bib:ARIE1934-1935"/></bibl> (ARIE/1907-1908/B/1907/233 and ARIE/1907-1908/B/1907/234).</p>
+    <p>Fragment 1 edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.181, lines 1-6). Re-edited in <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl> (SII 23.233, lines 1-6).</p>
+    <p>Fragment 2 first edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.181, lines 7-14). First two lines re-edited in <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl> (SII 23.233, supplementary lines 1-2).</p>    
+    <p>This edition by Renato Dávalos and Emmanuel Francis (2023), based on previous editions.</p>	  
+    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+    
+    <listBibl type="primary">
+        
+        <bibl n="SR1967">
+            <ptr target="bib:SrinivasaRao1967_01"/>
+            <citedRange unit="page">92-93</citedRange>
+            <citedRange unit="item">181</citedRange>
+            <note>14 epigraphic lines.</note>
+        </bibl>
+        
+        <bibl n="SR1979">
+            <ptr target="bib:SrinivasaRao1979_01"/>
+            <citedRange unit="page">164-165</citedRange>
+            <citedRange unit="item">233</citedRange>
+            <note>6 epigraphic lines + 2 supplementary epigraphic lines.</note>
+        </bibl>
+        
+    </listBibl>
+    
+    <listBibl type="secondary">
+        
+        <bibl>
+            <ptr target="bib:ARIE1907-1908"/>
+            <citedRange unit="page">20</citedRange>
+            <citedRange unit="appendix">B/1907</citedRange>
+            <citedRange unit="item">233-234</citedRange>			
+        </bibl>
+        
+        <!--<bibl>add Palaniappan to Zotero</bibl>-->
+        
+    </listBibl>
 	
 </div>
         </body>

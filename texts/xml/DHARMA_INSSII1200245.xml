@@ -101,7 +101,7 @@
 	</ab>
 	
 	<p>
-		<hi rend="grantha">sakala bhu</hi>vaṉa-c ca<hi rend="grantha">kra</hi>vattikaḷ śrī Avaṉi Āḷappiṟantārāṉa kō-p-peruñciṅka-tēvaṟku yāṇṭu muppattāṟāvatu veṇāṭuṭaiyāṉ Ōlai
+		<hi rend="grantha">sakala-bhu</hi>vaṉa-c ca<hi rend="grantha">kra</hi>va<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-Avaṉi-Āḷappiṟantārāṉa kō-p-peruñciṅka-tēvaṟku yāṇṭu muppattāṟāvatu veṇāṭuṭaiyāṉ Ōlai
 	</p>
 	
 	<p>
@@ -171,33 +171,32 @@
 
 <div type="bibliography">
 
-	<p>First reported in <bibl><ptr target="bib:ARIE1934-1935"/></bibl> (ARIE/1934-1935/B/1934-1935/104).</p>
-	<p>First edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.245).</p>
-	<p>Encoded by Renato Dávalos based on previous editions.</p>
-	<p>Translated by Renato Dávalos and Emmanuel Francis (2024).</p>
-	
-	<listBibl type="primary">
-		
-		<bibl n="SII">
-			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
-			<citedRange unit="page">153</citedRange>
-			<citedRange unit="item">245</citedRange>
-		</bibl>
-		
-		
-	</listBibl>           
-	
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1934-1935"/>
-			<citedRange unit="page">18</citedRange>
-			<citedRange unit="appendix">B/1934-1935</citedRange>
-			<citedRange unit="item">104</citedRange>
-		</bibl>	
-		
-	</listBibl>
-	
+    <p>Reported in <bibl><ptr target="bib:ARIE1934-1935"/></bibl> (ARIE/1934-1935/B/1934-1935/104).</p>
+    <p>Edited in <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.245).</p>
+    <p>This edition by Renato Dávalos and Emmanuel Francis (2024), based on <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>.</p>	  
+    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+    
+    <listBibl type="primary">
+        
+        <bibl n="SII">
+            <ptr target="bib:VenkatasubbaAyyar1943_01"/>
+            <citedRange unit="page">153</citedRange>
+            <citedRange unit="item">245</citedRange>
+        </bibl>        
+        
+    </listBibl>           
+    
+    <listBibl type="secondary">
+        
+        <bibl>
+            <ptr target="bib:ARIE1934-1935"/>
+            <citedRange unit="page">18</citedRange>
+            <citedRange unit="appendix">B/1934-1935</citedRange>
+            <citedRange unit="item">104</citedRange>
+        </bibl>	
+        
+    </listBibl>
+    
 </div>
       	
       </body>

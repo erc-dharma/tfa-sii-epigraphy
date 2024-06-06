@@ -111,12 +111,10 @@
     	   
 	<listApp>
 		
-		<!-\-<app loc="0">
+		<app loc="0">
 			<lem>...</lem>
 			<rdg source="bib:..">...</rdg>
-		</app>	-\->
-		
-		.
+		</app>	
 	</listApp>    			
     	
 </div>
@@ -147,30 +145,31 @@
     	
 <div type="bibliography">
     		
-	<p>
-		First edited in <bibl><ptr target="bib:Sampath2012_01"/></bibl> (SII 25, no. 99); encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2023), based on <bibl><ptr target="bib:Sampath2012_01"/></bibl>.
-	</p>	
-	
-	<listBibl type="primary">
-		
-		<bibl n="S">
-			<ptr target="bib:Sampath2012_01"/>
-			<citedRange unit="page">119-120</citedRange>
-			<citedRange unit="item">99</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-				
-		<bibl>
-			<ptr target="bib:ARIE1908-1909"/>
-			<citedRange unit="page">15</citedRange>
-			<citedRange unit="appendix">B/1908</citedRange>
-			<citedRange unit="item">99</citedRange>
-		</bibl>
-		
-	</listBibl>
+    <p>Reported in <bibl><ptr target="bib:ARIE1908-1909"/></bibl> (ARIE/1908-1909/B/1908/99).</p>
+    <p>Edited in <bibl><ptr target="bib:Sampath2012_01"/></bibl> (SII 25.99).</p>
+    <p>This edition by Renato Dávalos and Emmanuel Francis (2024), based on <bibl><ptr target="bib:Sampath2012_01"/></bibl>.</p>	  
+    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+    
+    <listBibl type="primary">
+        
+        <bibl n="SII">
+            <ptr target="bib:Sampath2012_01"/>
+            <citedRange unit="page">119-120</citedRange>
+            <citedRange unit="item">99</citedRange>
+        </bibl>
+        
+    </listBibl>
+    
+    <listBibl type="secondary">
+        
+        <bibl>
+            <ptr target="bib:ARIE1908-1909"/>
+            <citedRange unit="page">15</citedRange>
+            <citedRange unit="appendix">B/1908</citedRange>
+            <citedRange unit="item">99</citedRange>
+        </bibl>
+        
+    </listBibl>
 	
 </div>
         </body>

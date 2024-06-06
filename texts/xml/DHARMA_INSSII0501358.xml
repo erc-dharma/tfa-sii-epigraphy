@@ -291,43 +291,42 @@
 		
 <div type="bibliography">
 				
-	<p>First reported in <bibl><ptr target="bib:ARIE1896-1897"/></bibl> (ARIE/1896-1897/A/1896/403).</p>
-	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 05, no. 1358).</p>
-	<p>Partially edited online by துரை. சுந்தரம் in <ref target="https://kongukalvettuaayvu.blogspot.com/2020/04/2020.html">கொங்கு கல்வெட்டு ஆய்வு</ref> (accessed 2024-02-15).</p>
-
-	<p>Re-edited and translated here for DHARMA (ERC n° 809994) by Renato Davalos and  Emmanuel Francis based on photos (2019).</p>
-		
-	<listBibl type="primary">
-		
-		<bibl n="SII">
-			<ptr target="bib:KrishnaSastri1925_01"/>
-			<citedRange unit="page">494</citedRange>
-			<citedRange unit="item">1358</citedRange>
-		</bibl>
-						
-	</listBibl>           
-	
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1896-1897"/>
-			<citedRange unit="page">5</citedRange>
-			<citedRange unit="appendix">A/1896</citedRange>
-			<citedRange unit="item">403</citedRange>
-		</bibl>
-		
-		<bibl>
-			<ptr target="bib:Folk2013_01"/>
-		</bibl>
-		
-		<bibl>
-			<ptr target="bib:Veluppillai2013_01"/>
-		</bibl>
-		
-	</listBibl>
+    <p>Reported in <bibl><ptr target="bib:ARIE1896-1897"/></bibl> (ARIE/1896-1897/A/1896/403).</p>
+    <p>Edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5.1358).</p>
+    <p>Partially edited online by துரை. சுந்தரம் in <ref target="https://kongukalvettuaayvu.blogspot.com/2020/04/2020.html">கொங்கு கல்வெட்டு ஆய்வு</ref> (accessed 2024-02-15).</p>
+    <p>This edition by Renato Davalos and Emmanuel Francis (2024) based on photos (2019).</p>	  
+    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>	
+    <listBibl type="primary">
+        
+        <bibl n="SII">
+            <ptr target="bib:KrishnaSastri1925_01"/>
+            <citedRange unit="page">494</citedRange>
+            <citedRange unit="item">1358</citedRange>
+        </bibl>
+        
+    </listBibl>           
+    
+    <listBibl type="secondary">
+        
+        <bibl>
+            <ptr target="bib:ARIE1896-1897"/>
+            <citedRange unit="page">5</citedRange>
+            <citedRange unit="appendix">A/1896</citedRange>
+            <citedRange unit="item">403</citedRange>
+        </bibl>
+        
+        <bibl>
+            <ptr target="bib:Folk2013_01"/>
+        </bibl>
+        
+        <bibl>
+            <ptr target="bib:Veluppillai2013_01"/>
+        </bibl>
+        
+    </listBibl>
 </div>
-        </body>
-    </text>
+	</body>
+	</text>
 </TEI>
 <!--
 	METADATA:

@@ -88,7 +88,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
            
             <p>
-           <lb n="1"/>kō-p-parakē<hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">nma</hi><unclear>rk</unclear>ku yāṇṭu 9 Āvatu
+           <lb n="1"/>kō-p-parakē<hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">nma</hi><unclear>rk</unclear>ku yāṇṭu 9-Āvatu
             </p>
          	<p>          
            <lb n="2"/>vaṭa-karai <hi rend="grantha">brahma</hi>tēyam <hi rend="grantha">śrī</hi>kāmaravalli-catu<hi rend="grantha">r</hi>ve
@@ -182,13 +182,11 @@
            </p>
          </div>
 
-      <!--   <div type="apparatus">
+<!--   <div type="apparatus">
             
-            
-        
-         </div>-->
+</div>-->
 
-         <div type="translation" resp="part:reda part:emfr">
+<div type="translation" resp="part:reda part:emfr">
          	     
          	<p n="1">
 		9th year of the king Parakesarivarman.
@@ -269,26 +267,26 @@
          	</p>
          </div>
 -->
-         <div type="bibliography">
 
-            <p>
-               First edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19, no. 231); encoded here for DHARMA (ERC n° 809994) by Renato Dávalos; translation by Renato Dávalos and Emmanuel Francis.
-            </p>
-            
-            <listBibl type="primary">
-               
-               <bibl n="SII 19.231">
-                  <ptr target="bib:SrinivasaRao1967_01"/>
-                  <citedRange unit="page">116-117</citedRange>
-                  <citedRange unit="item">231</citedRange>
-               </bibl>
-               
-            </listBibl>
-            
-     
+<div type="bibliography">
 
-         </div>
-
+    <!--<p>Reported in <bibl><ptr target="bib:ARIE1934-1935"/></bibl> (ARIE/1934-1935/B/1934-1935/104).</p>-->
+    <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 22.231).</p>
+    <p>This edition by Renato Dávalos and Emmanuel Francis (2024), based on <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl>.</p>
+    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+    
+    <listBibl type="primary">
+        
+        <bibl n="SII">
+            <ptr target="bib:SrinivasaRao1967_01"/>
+            <citedRange unit="page">116-117</citedRange>
+            <citedRange unit="item">231</citedRange>
+        </bibl>
+        
+    </listBibl>
+    
+</div>
+          
       </body>
   </text>
 </TEI>

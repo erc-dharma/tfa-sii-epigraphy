@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Allūr, Pañcanadēśvara temple, time of Rājādhirāja, year 27</title>
+				<title>Allūr, Pañcanadeśvara temple, time of Rājādhirāja, year 27</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -164,20 +164,19 @@
       	
 <div type="apparatus">
             
-	<listApp>
-		
-		<app loc="11">
-			<lem>Aiyya<lb n="12" break="no"/><supplied reason="lost">riṭai</supplied> <gap reason="lost" unit="character" quantity="5"/></lem>
-			<rdg source="bib:SubrahmanyaAiyer1937_01">Aiyya<lb n="12" break="no"/><gap reason="lost" unit="character" quantity="8"/></rdg>			
-		</app>
-		
-		<app loc="14">
-			<lem><hi rend="grantha">panma<supplied reason="lost">heśvara-ra</supplied>kṣai</hi></lem>
-			<rdg source="bib:SubrahmanyaAiyer1937_01"><hi rend="grantha">panma</hi> <gap reason="lost" unit="character" quantity="8"/> <hi rend="grantha">kṣai</hi>
-				</rdg>			
-		</app>
-			
-	</listApp>
+    <listApp>
+        
+        <app loc="11">
+            <lem>Aiyya<lb n="12" break="no"/><supplied reason="lost">riṭai</supplied> <gap reason="lost" unit="character" quantity="5"/></lem>
+            <rdg source="bib:SubrahmanyaAiyer1937_01">Aiyya<lb n="12" break="no"/><gap reason="lost" unit="character" quantity="8"/></rdg>			
+        </app>
+        
+        <app loc="14">
+            <lem><hi rend="grantha">panma<supplied reason="lost">heśvara-ra</supplied>kṣai</hi></lem>
+            <rdg source="bib:SubrahmanyaAiyer1937_01"><hi rend="grantha">panma</hi> <gap reason="lost" unit="character" quantity="8"/> <hi rend="grantha">kṣai</hi></rdg>			
+        </app>
+        
+    </listApp>
 	
 </div>
       	
@@ -222,38 +221,39 @@
          	</p>
            <p n="36">
          	</p>
-         </div>-->
+</div>-->
 
 <div type="bibliography">
 
-	<p>Encoded and re-edited here for DHARMA (ERC n° 809994) by Renato Dávalos, based on previous edition; translated by Renato Dávalos and and Emmanuel Francis (2024).
-	</p>
-            
-            <listBibl type="primary">
-               
-            	<bibl n="SII">
-            		<ptr target="bib:SubrahmanyaAiyer1937_01"/>
-            		<citedRange unit="page">339-340</citedRange>
-            		<citedRange unit="item">675</citedRange>
-            	</bibl>
-            
-               
-            </listBibl>           
-     
-         	<listBibl type="secondary">
-         		
-         		<!--+ Uthaya's PhD-->
-         		<bibl>
-         			<ptr target="bib:ARIE1903-1904"/>
-         			<citedRange unit="page">27</citedRange>
-         			<citedRange unit="appendix">A/1903</citedRange>
-         			<citedRange unit="item">365</citedRange>
-         		</bibl>	
-         		
-         	</listBibl>
-         	
-         </div>
-
+    <p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/A/1903/365A<note>That is, initially reported as 365 and bifurcated as 365A when edited in SII.</note>).</p>
+    <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.675).</p>
+    <p>This edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl>.</p>
+    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+    
+    <listBibl type="primary">
+        
+        <bibl n="SII">
+            <ptr target="bib:SubrahmanyaAiyer1937_01"/>
+            <citedRange unit="page">339-340</citedRange>
+            <citedRange unit="item">675</citedRange>
+        </bibl>
+        
+    </listBibl>           
+    
+    <listBibl type="secondary">
+        
+        <!--+ Uthaya's PhD-->
+        <bibl>
+            <ptr target="bib:ARIE1903-1904"/>
+            <citedRange unit="page">27</citedRange>
+            <citedRange unit="appendix">A/1903</citedRange>
+            <citedRange unit="item">365</citedRange>
+        </bibl>	
+        
+    </listBibl>
+    
+</div>
+          
       </body>
   </text>
 </TEI>

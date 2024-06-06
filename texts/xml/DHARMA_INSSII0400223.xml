@@ -426,42 +426,40 @@
     	
 <div type="bibliography">
 	
-	<p>First reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/118).</p>
-	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.223).</p>	
-	<p>First translated in <bibl><ptr target="bib:Orr2000_01"/></bibl> (pp. 121-122).</p>
-	
-	<p>		
-		Re-edited and re-translated here for DHARMA (ERC n° 809994) by Renato Dávalos and and Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>.
-	</p>	
-	
-	<listBibl type="primary">
-		
-		<bibl n="SII">
-			<ptr target="bib:KrishnaSastri1923_01"/>
-			<citedRange unit="page">29-31</citedRange>
-			<citedRange unit="item">223</citedRange>
-		</bibl>
-	</listBibl>
-	
-	<listBibl type="secondary">
-				
-		<bibl>
-			<ptr target="bib:ARIE1887-1888_01"/>
-			<citedRange unit="page">4</citedRange>
-			<citedRange unit="appendix">I/1887-1888</citedRange>
-			<citedRange unit="item">118</citedRange>			
-		</bibl>
-		
-		<bibl>
-			<ptr target="bib:Cuppiramaniyam1983_01"/>
-		</bibl>
-		
-		<bibl>
-			<ptr target="bib:Orr2000_01"/>
-			<citedRange unit="page">121-122</citedRange>	
-		</bibl>
-		
-	</listBibl>
+    <p>Reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/118).</p>
+    <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.223).</p>	
+    <p>Translated in <bibl><ptr target="bib:Orr2000_01"/></bibl> (pp. 121-122).</p>	
+    <p>This edition by Renato Dávalos and Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>.</p>	   
+    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+    
+    <listBibl type="primary">
+        
+        <bibl n="SII">
+            <ptr target="bib:KrishnaSastri1923_01"/>
+            <citedRange unit="page">29-31</citedRange>
+            <citedRange unit="item">223</citedRange>
+        </bibl>
+    </listBibl>
+    
+    <listBibl type="secondary">
+        
+        <bibl>
+            <ptr target="bib:ARIE1887-1888_01"/>
+            <citedRange unit="page">4</citedRange>
+            <citedRange unit="appendix">I/1887-1888</citedRange>
+            <citedRange unit="item">118</citedRange>			
+        </bibl>
+        
+        <bibl>
+            <ptr target="bib:Cuppiramaniyam1983_01"/>
+        </bibl>
+        
+        <bibl>
+            <ptr target="bib:Orr2000_01"/>
+            <citedRange unit="page">121-122</citedRange>	
+        </bibl>
+        
+    </listBibl>
 	
 </div>
         </body>
@@ -471,7 +469,7 @@
 <!--
 	First translation by Renato
 	
-	<p n="1">
+<p n="1">
 	Prosperity! Fortune!		
 </p>
 

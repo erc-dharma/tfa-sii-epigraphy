@@ -128,26 +128,25 @@
          	
          </div>-->
 
-         <div type="bibliography">
+<div type="bibliography">
 
-            <p>
-               First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8, no. 260); encoded here for DHARMA (ERC n° 809994) by Renato Dávalos; translated by Renato Dávalos and Emmanuel Francis.
-            </p>
-            
-            <listBibl type="primary">
-               
-               <bibl n="SII">
-                  <ptr target="bib:SubrahmanyaAiyer1937_01"/>
-                  <citedRange unit="page">145</citedRange>
-                  <citedRange unit="item">260</citedRange>
-               </bibl>
-               
-               
-               
-            </listBibl>           
-     
-         </div>
-
+    <!--<p>Reported in <bibl><ptr target="bib:ARIE1934-1935"/></bibl> (ARIE/1934-1935/B/1934-1935/104).</p>-->
+    <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.260).</p>
+    <p>This edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl>.</p>	  
+    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+    
+    <listBibl type="primary">
+        
+        <bibl n="SII">
+            <ptr target="bib:SubrahmanyaAiyer1937_01"/>
+            <citedRange unit="page">145</citedRange>
+            <citedRange unit="item">260</citedRange>
+        </bibl>
+        
+    </listBibl>           
+    
+</div>
+    
       </body>
   </text>
 </TEI>

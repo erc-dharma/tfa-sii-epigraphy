@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Pērūr, Gōshṭhīśvara temple, time of Karikāla Cōḻa, year 2 </title>
+				<title>Pērūr, Gōshṭhīśvara temple, time of Karikāla Cōḻa, year 2</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -201,29 +201,30 @@
     	
 <div type="bibliography">
 	
-	<p>		
-		This edition by Renato Dávalos (2024), based on previous edition; translated by Renato Dávalos and Emmanuel Francis.
-	</p>	
-	
-	<listBibl type="primary">
-		
-		<bibl>
-			<ptr target="bib:KrishnaSastri1925_01"/>
-			<citedRange unit="page">84-85</citedRange>
-			<citedRange unit="item">228</citedRange>
-		</bibl>
-	</listBibl>
-	
-	<listBibl type="secondary">
-				
-		<bibl>
-			<ptr target="bib:ARIE1893-1894"/>
-			<citedRange unit="page">24</citedRange>
-			<citedRange unit="appendix">A/1893</citedRange>
-			<citedRange unit="item">552</citedRange>			
-		</bibl>
-		
-	</listBibl>
+    <p>Reported in <bibl><ptr target="bib:ARIE1893-1894"/></bibl> (ARIE/1893-1894/A/1893/552).</p>
+    <p>Edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5.228).</p>
+    <p>This edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl>.</p>
+    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+    
+    <listBibl type="primary">
+        
+        <bibl>
+            <ptr target="bib:KrishnaSastri1925_01"/>
+            <citedRange unit="page">84-85</citedRange>
+            <citedRange unit="item">228</citedRange>
+        </bibl>
+    </listBibl>
+    
+    <listBibl type="secondary">
+        
+        <bibl>
+            <ptr target="bib:ARIE1893-1894"/>
+            <citedRange unit="page">24</citedRange>
+            <citedRange unit="appendix">A/1893</citedRange>
+            <citedRange unit="item">552</citedRange>			
+        </bibl>
+        
+    </listBibl>
 	
 </div>
         </body>

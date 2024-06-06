@@ -208,35 +208,36 @@
     	
 <div type="bibliography">
     		
-	<p>
-		First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8, no. 749); encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2023), based on <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl>.
-	</p>	
-	
-	<listBibl type="primary">
-		
-		<bibl n="SR">
-			<ptr target="bib:SubrahmanyaAiyer1937_01"/>
-			<citedRange unit="page">381</citedRange>
-			<citedRange unit="item">749</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-				
-		<bibl>
-			<ptr target="bib:ARIE1903-1904"/>
-			<citedRange unit="page">29</citedRange>
-			<citedRange unit="appendix">A/1903</citedRange>
-			<citedRange unit="item">433</citedRange>
-		</bibl>
-		
-		<bibl>
-			<ptr target="bib:Orr2000_01"/>
-			<citedRange unit="page">TBC</citedRange>
-		</bibl>
-		
-	</listBibl>
+    <p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/A/1903/433).</p>
+    <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.749).</p>
+    <p>This edition by Renato Dávalos and Emmanuel Francis (2024), based on <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl>.</p>	  
+    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+    
+    <listBibl type="primary">
+        
+        <bibl n="SII">
+            <ptr target="bib:SubrahmanyaAiyer1937_01"/>
+            <citedRange unit="page">381</citedRange>
+            <citedRange unit="item">749</citedRange>
+        </bibl>
+        
+    </listBibl>
+    
+    <listBibl type="secondary">
+        
+        <bibl>
+            <ptr target="bib:ARIE1903-1904"/>
+            <citedRange unit="page">29</citedRange>
+            <citedRange unit="appendix">A/1903</citedRange>
+            <citedRange unit="item">433</citedRange>
+        </bibl>
+        
+        <bibl>
+            <ptr target="bib:Orr2000_01"/>
+            <citedRange unit="page">TBC</citedRange>
+        </bibl>
+        
+    </listBibl>
 	
 </div>
         </body>

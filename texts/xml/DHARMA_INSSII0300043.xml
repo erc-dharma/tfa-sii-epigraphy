@@ -200,26 +200,27 @@
 			
 <div type="bibliography">
 				
-	<p>
-		First edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> with English translation (SII 3.43); encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2024), based on <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>.
-	</p>	
+    <!--<p>Reported in <bibl><ptr target="bib:ARIE1934-1935"/></bibl> (ARIE/1934-1935/B/1934-1935/104).</p>-->
+    <p>Edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl> with English translation (SII 3.43).</p>
+    <p>This edition by Renato Dávalos and Emmanuel Francis (2024), based on <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>.</p>	  
+    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
 	
-	<listBibl type="primary">
-		
-		<bibl n="SII ">
-			<ptr target="bib:Hultzsch1899_01"/>
-			<citedRange unit="page">92-94</citedRange>
-			<citedRange unit="item">43</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-	<!--<listBibl type="secondary">
-		
-		Add ARIE reference if any.
-		
-		</listBibl>-->
-	
+    <listBibl type="primary">
+        
+        <bibl n="SII ">
+            <ptr target="bib:Hultzsch1899_01"/>
+            <citedRange unit="page">92-94</citedRange>
+            <citedRange unit="item">43</citedRange>
+        </bibl>
+        
+    </listBibl>
+    
+    <!--<listBibl type="secondary">
+        
+        Add ARIE reference if any.
+        
+        </listBibl>-->
+    
 </div>
 </body>
 	</text>
