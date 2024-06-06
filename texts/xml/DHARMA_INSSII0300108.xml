@@ -87,11 +87,11 @@
 			
 <div type="edition">
 				
-	<div type="textpart" xml:lang="san-Latn" n="A" rendition="class:38768 maturity:83215">
+	<div type="textpart" xml:lang="san-Latn" n="A" rendition="class:grantha maturity:83215">
 		<head xml:lang="eng">Sanskrit Portion</head>		
 		
 		
-		<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+		<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 			<lb n="1"/>svasti śrī
 		</ab>
 		
@@ -110,7 +110,7 @@
 		
 	</div>
 	
-	<div type="textpart" xml:lang="tam-Latn" n="B" rendition="class:57475 maturity:83215">
+	<div type="textpart" xml:lang="tam-Latn" n="B" rendition="class:tamil maturity:83215">
 		<head xml:lang="eng">Tamil Portion</head>
 				
 		<p>

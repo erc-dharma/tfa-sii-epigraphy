@@ -96,12 +96,12 @@
       
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">			
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">			
 	
             
             <!--Check encoding of punctuation marks-->
             
-            <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+            <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                <head xml:lang="eng">Sanskrit portion</head>
                
                <p>
@@ -122,7 +122,7 @@
                   <l n="d"><lb n="6"/>vida<unclear>n</unclear>ti dhar<unclear>m</unclear>maṁ satanum· vipaścitaḥ <g type="finalGomutra">.</g></l>
                </lg>
                
-               <p xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+               <p xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                   <!--Markup to be added-->
                   so’ yaṁ sva-vikramā<unclear>p</unclear>ta
                   <lb n="7" break="no"/>khilārṇṇavām·barākara-grahād vīryya-toṣitād v<unclear>i</unclear>krama-coḷa-nṛpāl la

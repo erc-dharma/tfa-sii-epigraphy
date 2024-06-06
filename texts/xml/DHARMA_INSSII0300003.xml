@@ -91,9 +91,9 @@
 	<text xml:space="preserve">
 <body>
 
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 				
-	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<lb n="1"/>svasti śrī
 	</ab>
 	
@@ -132,7 +132,7 @@
 		<lb n="12"/>makaṉ Āyiratt-iru-nūṟṟu<add place="unspecified">va</add>ṉ-ā<choice><sic>r</sic><corr>k</corr></choice>iya <hi rend="grantha">brahma-kuṇā<!--SII fn: Read <gr>guṇā;</gr> the <ta>ṇā</ta> is expressed by a compound letter, on which see Vol. II. p. 200, note 1.--></hi>
 		<lb n="13" break="no"/><hi rend="grantha">ka</hi>ra-vi<hi rend="grantha"><choice><orig>j</orig><reg>d</reg></choice>yā-sthā</hi>na-ma<supplied reason="undefined">ṅ</supplied>kalā<supplied reason="omitted">ti</supplied>t<supplied reason="undefined">ta</supplied>-<hi rend="grantha">sa<supplied reason="undefined">ma</supplied>ñcasa-pri</hi>ya<supplied reason="undefined">ṉ</supplied>-ēṉ</p>
 	
-	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">		
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
 		śrī
 	</ab>
 		

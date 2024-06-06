@@ -91,14 +91,14 @@
 	<text xml:space="preserve">
 <body>
 
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 		
 <!--
 		Check from estampage
 		Check VG photos if any
 -->
 	
-	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<lb n="1"/>sva<supplied reason="undefined">sti śrī</supplied>
 	</ab>
 	<p>
@@ -120,7 +120,7 @@
 		<lb n="7" break="no"/>-<hi rend="grantha"><supplied reason="undefined">gu</supplied></hi>ṇāka<supplied reason="undefined"><hi rend="grantha">ra</hi>-vi<hi rend="grantha"><choice><orig>j</orig><reg>d</reg></choice>yā-sth</hi></supplied><hi rend="grantha">ā</hi><supplied reason="undefined">na</supplied>-<hi rend="grantha">ma</hi><supplied reason="undefined">ṅ</supplied>kalāti<supplied reason="undefined">tta-<hi rend="grantha">sama</hi></supplied><hi rend="grantha">ñ<choice><orig>c</orig><reg>j</reg></choice>asa-pri</hi>ya<supplied reason="undefined">ṉ-ē</supplied>ṉ
 	</p>
 	
-	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">		
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
 		śrī
 	</ab>
 		

@@ -86,12 +86,12 @@
 	<text xml:space="preserve">
       <body>
 
-         <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+         <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
          	<!--change class of tamil script, in case we let down the class "Tamil with Grantha"-->
          	<!--create 2 div textpart: Sanskrit portion + Tamil portion? Ask DANIEL-->
          	<!--check break="no" presently encoded with intervening milestone "pagelike partition". Apparently not necessary and <pb> should be introduced. Ask DANIEL-->
          	         	         	
-         	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+         	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
          		<milestone unit="item" n="N"/>
          		<label xml:lang="eng">Northern plinth of the <foreign>vimāna</foreign></label>
          		
@@ -101,7 +101,7 @@
          		svasti śrīḥ
          	</ab>
          	
-         	<lg xml:lang="san-Latn" n="1" met="anuṣṭubh" rendition="class:38768 maturity:83215">
+         	<lg xml:lang="san-Latn" n="1" met="anuṣṭubh" rendition="class:grantha maturity:83215">
          		<l n="a" enjamb="yes" real="+++--++-">Etat viśva-nṛpa-śreṇi</l>
          		<l n="b" real="+-++-+-+">mauli-mālopalāḷitam<unclear>·</unclear></l> 
          		<l n="c" real="+-++-++-">śāsanaṁ rājarājasya</l>
