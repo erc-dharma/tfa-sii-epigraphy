@@ -98,7 +98,7 @@
 	<p>
 		tiru
 		<lb n="4" break="no"/>-k-kaṭal-mallai Em p
-		<lb n="5" break="no"/>erumānuk=ku ci<supplied reason="undefined">ṟi</supplied>tavūr-ā
+		<lb n="5" break="no"/>erumānuk=ku ci<unclear>ṟi</unclear>tavūr-ā
 		<lb n="6" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>a nara<hi rend="grantha">si<supplied reason="omitted">ṃ</supplied>ha</hi>-maṅkala
 		<lb n="7" break="no"/>ttu <hi rend="grantha">mahāsabhai</hi>
 		<lb n="8" break="no"/>yōm tiruviṭaiyā
@@ -108,10 +108,10 @@
 		<lb n="12" break="no"/>kala-c-ceṟum yin=ta ku
 		<lb n="13" break="no"/>ṟiyā<hi rend="grantha">n·</hi> niṉṟa nārāyaṇaṉ
 		<lb n="14" break="no"/>māṅkaḷ<choice><orig>u</orig><reg>ū</reg></choice>r-āṉa kūttāṭi
-		<lb n="15" break="no"/><supplied reason="undefined">pa</supplied>ṭṭi Āka taṭi 5-ṉā<supplied reason="undefined">l</supplied> ku
-		<lb n="16" break="no"/>ḻi <supplied reason="undefined"><num value="2000">2 <g type="numeral">1000</g></num></supplied> I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āyaṉārku
+		<lb n="15" break="no"/><unclear>pa</unclear>ṭṭi Āka taṭi 5-ṉā<unclear>l</unclear> ku
+		<lb n="16" break="no"/>ḻi <num value="2000"><unclear>2 <g type="numeral">1000</g></unclear></num> I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āyaṉārku
 		<lb n="17"/>tiruviṭaiyāṭṭamā<hi rend="grantha">ha</hi>
-		<lb n="18" break="no"/>Iṟai Iḻicci<supplied reason="undefined">-k kuṭu</supplied>
+		<lb n="18" break="no"/>Iṟai Iḻicci<unclear>-k kuṭu</unclear>
 		<lb n="19" break="no"/><supplied reason="omitted">tt</supplied>ōm Iv-ūr
 		<hi rend="grantha">mah</hi>
 		<lb n="20" break="no"/><hi rend="grantha"><supplied reason="omitted">āsa</supplied>bhai</hi>yōm		
@@ -146,17 +146,11 @@
 
 <div type="bibliography">
 	
-	<p>
-		First reported in <bibl><ptr target="bib:ARIE1886-1887"/></bibl> (ARIE/1886-1887/II/1886-1887/1).
-	</p>
+	<p>First reported in <bibl><ptr target="bib:ARIE1886-1887"/></bibl> (ARIE/1886-1887/II/1886-1887/1).</p>
 	
-	<p>
-		First edited <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.42), with English translation.
-	</p>
+	<p>First edited <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.42), with English translation.</p>
 	
-	<p>
-		Digitally encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024).
-	</p>
+	<p>This digital edition by Emmanuel Francis (2024).</p>
 	
 	<listBibl type="primary">
 		
