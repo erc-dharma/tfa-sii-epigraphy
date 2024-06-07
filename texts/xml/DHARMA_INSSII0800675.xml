@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Allūr, Pañcanadeśvara, time of Rājādhirāja, year 27</title>
+				<title>Allūr, Pañcanadeśvara, time of Rājakesarivarman Rājādhirāja, year 27</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -91,7 +91,7 @@
          		<lb n="1"/>svasti śrī
          	</ab>
          	<lg n="1" met="āciriyappā">
-         		<l n="1">tiṅka<unclear>ḷēr taru taṉ</unclear>toṅkal veṇ kuṭaikk<choice><sic>i</sic><corr>ī</corr></choice><unclear>ḻ</unclear></l>
+         		<l n="1">tiṅka<unclear>ḷēr taru taṉ</unclear> toṅkal veṇ-kuṭai-k k<choice><sic>i</sic><corr>ī</corr></choice><unclear>ḻ</unclear></l>
          		<l n="2"><supplied reason="lost">nila-makaḷ nilava malar</supplied>-makaṭ-p <unclear>pu</unclear>ṇara</l>
          		<l n="3"><supplied cert="low" reason="lost">ceṅkol</supplied><gap reason="lost" quantity="1" unit="character"/>l ōcci-k karuṅ kali kaṭint<supplied cert="low" reason="lost">uṭaṉ</supplied></l>
        
@@ -101,15 +101,15 @@
          		<l n="7">ṉa Āṉai k-ki<gap unit="character" quantity="8" reason="undefined"/></l>
          		<l n="8">cuntara-pāṇṭiyaṉai-<unclear>t</unclear> ticai <gap reason="lost" quantity="4" unit="character"/></l>
          		<l n="9">t<unclear>ō</unclear>llaiyil <unclear>mu</unclear>llai <gap reason="lost" unit="character" quantity="2"/> <lb n="3" break="no"/>-t turatti Olkalil</l>
-         		<l n="10">vē<supplied reason="lost">ṇā c-cō</supplied>ṇāṭṭ’ ot<choice><sic>u</sic><corr>i</corr></choice>kki</l>
+         		<l n="10">vē<supplied reason="lost">ṇāṭṭ' aracarai-c cō</supplied>ṇāṭṭ’ ot<choice><sic>u</sic><corr>i</corr></choice>kki</l>
          		<l n="11"><gap reason="lost" quantity="10" unit="character"/> muṉi<unclear>ntu</unclear></l>
-         		<l n="12"><surplus>tu</surplus>vēlai <unclear>keḻu kā</unclear>n=taḷū<unclear>r c</unclear>-cālai kala<unclear>m a</unclear>ṟutt’</l>
-         		<l n="13">ā<hi rend="grantha">ha</hi>va mallanum Añca-<unclear>k</unclear> kēvutaṉ</l>
-         		<l n="14">ṟāṅka <lb n="4"/>rum paṭaiyāl Āṅ<unclear>ka</unclear>vaṉ kē<gap reason="lost" unit="character" quantity="9"/></l>
-         		<l n="15"><gap quantity="9" unit="character" reason="undefined"/><unclear>ma</unclear>ṭiya-t tiṇ-<unclear>ṭiṟal</unclear></l>
+         		<l n="12"><surplus>tu</surplus>vēlai <unclear>keḻu kā</unclear>n=taḷū<unclear>r-c</unclear> cālai kala<unclear>m a</unclear>ṟutt’</l>
+         		<l n="13">ā<hi rend="grantha">ha</hi>vamallanum Añca-<unclear>k</unclear> kēvutaṉ</l>
+         		<l n="14">ṟāṅka<lb n="4" break="no"/>rum paṭaiyāl Āṅ<unclear>ka</unclear>vaṉ kē <gap reason="lost" unit="character" quantity="9"/></l>
+         		<l n="15"><gap quantity="9" unit="character" reason="undefined"/> <unclear>ma</unclear>ṭiya-t tiṇ-<unclear>ṭiṟal</unclear></l>
          		<l n="16">vi<unclear>ri</unclear>taru vikkiyam vicaiyātitta<choice><orig>n</orig><reg>ṉ</reg></choice>um</l>
-         		<l n="17">tarumuraṭ c<choice><sic>a</sic><corr>ā</corr></choice>ṅka ma<surplus>i</surplus>yyanu mutali<lb n="5" break="no"/>ṉar </l>
-         		<l n="18"><hi rend="grantha">samara bhī</hi>ruvo t-<unclear>tuṭ</unclear>ai<supplied reason="lost">ya nimicuṭar</supplied></l>
+         		<l n="17">tarumuraṭ c<choice><sic>a</sic><corr>ā</corr></choice>ṅka ma<orig>i</orig>yyanu<supplied reason="subaudible">m</supplied> mutali<lb n="5" break="no"/>ṉar </l>
+         		<l n="18"><hi rend="grantha">samara-bhī</hi>ruvo t-<unclear>tuṭ</unclear>ai<supplied reason="lost">ya nimi cuṭar</supplied></l>
          		<l n="19"><unclear>ta</unclear>ṉṉāṭai yiṟ<choice><sic><hi rend="grantha">ja</hi></sic><corr>ca</corr></choice>yaṅ koṇṭu tuṉṉār</l>
          		<l n="20">koḷḷi-p-pākkai Oḷḷeri maṭuttu</l>
          		<l n="21">villavar miṉa<lb n="6" break="no"/>var veñciṉa c<choice><sic>ā</sic><corr>a</corr></choice>ḷ<choice><sic>ū</sic><corr>u</corr></choice>kkiyar</l>
@@ -170,6 +170,16 @@
 <div type="apparatus">
             
     <listApp>
+        
+        <!--<app loc="0">
+            <lem></lem>
+            <rdg source="bib:SubrahmanyaAiyer1937_01"></rdg>			
+        </app>-->
+        
+        <app loc="3">
+            <lem>vē <gap reason="lost" unit="character" quantity="7"/> ṇāṭṭo</lem>
+            <rdg source="bib:SubrahmanyaAiyer1937_01">ve<supplied reason="lost">ṇāṭṭaracaraic cō</supplied>ṇāṭṭo</rdg>			
+        </app>
         
         <app loc="11">
             <lem>Aiyya<lb n="12" break="no"/><supplied reason="lost">riṭai</supplied> <gap reason="lost" unit="character" quantity="5"/></lem>
@@ -252,8 +262,7 @@
 
     <p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/A/1903/365A<note>That is, initially reported as 365 and bifurcated as 365A when edited in SII.</note>).</p>
     <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.675).</p>
-    <p>This edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl>.</p>
-    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+    <p>This digital edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl>. This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
     
     <listBibl type="primary">
         
@@ -282,6 +291,7 @@
       </body>
   </text>
 </TEI>
+
 <!--METADATA:
 	Rājādhirāja I
 	On the west base of the central shrine.
