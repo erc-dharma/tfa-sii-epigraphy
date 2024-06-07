@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Allūr, Pañcanadeśvara temple, time of Rājādhirāja, year 27</title>
+				<title>Allūr, Pañcanadeśvara, time of Rājādhirāja, year 27</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -121,7 +121,7 @@
          	kō-v-irā<hi rend="grantha">ja</hi>-kēcari-pa<hi rend="grantha">ṉma</hi>r-āṉa Uṭaiyār śrī<surplus><unclear>r</unclear></surplus>i<hi rend="grantha">rāj<unclear>ā</unclear>dhi</hi>rāja<lb n="7" break="no"/><hi rend="grantha">deva</hi>ṟk’ iyāṇṭu <num value="27"><unclear>2 <g type="numeral">10</g> 7</unclear></num>-<unclear>Ā</unclear>vatu	  
          	</p>
          	<p>
-         		koṉerimaikoṇtāṉ nan tamar Eppē<surplus><unclear>r</unclear></surplus>ṟpaṭṭāṟkum 
+         		kō-ṉērimai_koṇtāṉ nan tamar Eppē<surplus><unclear>r</unclear></surplus>ṟpaṭṭāṟkum 
          		<list>
          			<item>
          				kēraḷāntaka-vaḷanāṭṭu Uṟaiyūr-k-kūṟṟattu tiruvaṭakuṭi ma<unclear>h</unclear>ā 
@@ -133,24 +133,28 @@
          			</item>
          		</list>
          		Aiyyariṭaiyil I
-         		<lb n="10" break="no"/>vaṉ muṉpu peṟṟuṭaiya tirumukappaṭiyē nāmum kuṭuttōm
+         		<lb n="10" break="no"/>vaṉ muṉpu peṟṟ-uṭaiya tirumuka-p paṭiyē nāmum kuṭuttōm
          	</p>
          	<p>
-         		<list>
-         			<item>
-         				pala-paṇi-nivantakkāṟaraiyum nivantaṅkaḷum Iva<unclear>ṉ</unclear> coṉṉa vaṇṇamē-y ceyyavum
-         			</item>
-         			<item>
-         				It-tēvar ci
-         				<lb n="11" break="no"/>va-<hi rend="grantha">br<surplus>ra</surplus>āma</hi>ṇar Uḷḷiṭṭa pala-paṇi<hi rend="grantha">ya</hi> nivantakkāṟaraiyum nivantaṅkaḷum Ivanē I<hi rend="grantha">ṭa</hi>vum māṟ<unclear>ṟa</unclear>vum
-         			</item>
-         			
-         		</list>         		
-         		peṟuvāṉ ākavum coṉṉōm
+         	    
+         	    <list>
+         	        <item>
+         	            pala-paṇi-nivantakkāṟaraiyum nivantaṅkaḷum Iva<unclear>ṉ</unclear> coṉṉa vaṇṇamē-y ceyyavum
+         	        </item>
+         	        <item>
+         	            It-tēvar ci
+         	            <lb n="11" break="no"/>va-<hi rend="grantha">br<surplus>ra</surplus>āma</hi>ṇar Uḷḷiṭṭa pala-paṇi<hi rend="grantha">ya</hi> nivantakkāṟaraiyum nivantaṅkaḷum Ivanē I<hi rend="grantha">ṭa</hi>vum māṟ<unclear>ṟa</unclear>vum
+         	        </item>
+         	        <item>
+         	            peṟuvāṉ ākavum
+         	        </item>
+         	    </list>
+         	    
+         	    coṉṉōm
          	</p>
          	<p>
          		Ivaṉ Aiyya 
-         		<lb n="12" break="no"/><supplied reason="lost">riṭai</supplied> <gap reason="lost" unit="character" quantity="5"/> <supplied reason="lost">tirumu</supplied>ka-p paṭiyē <gap quantity="4" unit="character" reason="undefined"/>
+         		<lb n="12" break="no"/><supplied reason="lost">riṭai</supplied> <gap reason="lost" unit="character" quantity="5"/> <supplied reason="lost">tiru-mu</supplied>ka-p paṭiyē <gap quantity="4" unit="character" reason="undefined"/>
          		<lb n="13"/><gap reason="lost" unit="character" quantity="8"/> ṟuvaṉāka coṉ <gap reason="lost" unit="character" quantity="7"/>
          		<lb n="14"/><gap reason="lost" unit="character" quantity="8"/> Eḻuttu
          	</p>
@@ -182,37 +186,57 @@
       	
 <div type="translation" resp="part:reda part:emfr">
       	
-	<p n="1">
-		Prosperity! Fortune!
-	</p>
-	
-	<p n="6-7">
-		27th year of the glorious Lord Rājādhirāja,<hi rend="italic">alias</hi>king Rājakesarivarman      		
-	</p>
-	
-	<p n="1-6">
-		who, ... [<foreign>meykkīrtti</foreign> of king Rājādhirāja I]
-	</p>      		    		
-	
-	<p n="7-10">
-		To whomever kingsmen of K ...
-		We have given, according to the royal command <supplied reason="explanation"><foreign>tirumukap paṭi</foreign></supplied>, which previously had him, along with <supplied reason="subaudible">other</supplied> respected men/brahmins (<foreign>aiyariṭaiyil</foreign>), as the recipient (<foreign>peṟṟuṭaiya</foreign>) [of the endowment]
-		<list>
-			<item>saying <quote>We have given, as ritual (<foreign>nimittya</foreign>) provisions (<foreign>tāṉa</foreign>), for [the benefit] of all our people, to Ampalattāṭi Tirunāvukkaraiyaṉ and his lineage, who are the reciters of holy hymns (<foreign>tiruppatiyam viṇṇappam ceyum</foreign>) at/for the <foreign>tēvāram</foreign><note>discussion of the meaning of this word</note> of the monastery of the temple [dedicated to] Mahādevar in Tiruvaṭakuṭi within the Uraiyūr-kūṟṟam in Kēraḷāntaka-vaḷa-ṇāṭu [that belongs to] Kōnerimaikoṇṭāṉ</quote>;</item>
-			<item>and also saying <quote>We commanded (<foreign>coṉṉām</foreign>) to take (<foreign>koḷḷa</foreign>) one tūṇi of paddy daily for the maintenance (<foreign>pōkam-āka</foreign>) of the monastery (<foreign>maṭam</foreign>) from the treasury of this god.</quote></item>
-      			</list>
-      		</p>
-      		
-      		<p n="10-11">
-      			We commanded “He, the recipient (<foreign>peṟuvāṉ</foreign>), shall
-      			<list>
-      				<item>make the endowment (<foreign>nivantaṅkaḷ ceyyavum</foreign>) to the temple servants (<foreign>nivantakkāṟar</foreign>) who perform various services [in the temple], at the aforementioned rate (<foreign>coṉṉa-vaṇṇamē</foreign>),</item>
-      				<item>rotate (<foreign>māṟṟavum</foreign>) and appoint (<foreign>iṭavum</foreign>) the endowments and the temple servants who perform different services, including the śaiva brahmins of this god.”</item>
-      			</list>
-      			
-      		</p>
-      		
-      	</div>
+    <p n="1">
+        Prosperity! Fortune!
+    </p>
+    
+    <p n="6-7">
+        27th year of the glorious Lord Rājādhirāja, <hi rend="italic">alias</hi> king Rājakesarivarman.     		
+    </p>
+    
+    <p n="1-6">
+        who, ... [<foreign>meykkīrtti</foreign> of king Rājādhirāja I]
+    </p>      		    		
+    
+    <p n="7-10">
+        To whomever kingsmen of Kōṉēriṉmaikoṇṭāṉ,
+        
+        <list>
+            <item>having said that <quote>We have given, as ritual <supplied reason="explanation"><foreign>nimittya</foreign></supplied> provisions <supplied reason="explanation"><foreign>tāṉa</foreign></supplied>, for [the benefit] of all our people, to Ampalattāṭi Tirunāvukkaraiyaṉ and his lineage, who are the reciters of holy hymns <supplied reason="explanation"><foreign>tiruppatiyam viṇṇappam ceyum</foreign></supplied> at/for the <foreign>tēvāram</foreign><note>discussion of the meaning of this word</note> of the monastery of the temple [dedicated to] Mahādevar in Tiruvaṭakuṭi within the Uraiyūr-kūṟṟam in Kēraḷāntaka-vaḷa-ṇāṭu</quote></item>
+            <item>and having said that <quote>We commanded <supplied reason="explanation"><foreign>coṉṉām</foreign></supplied> to take <supplied reason="explanation"><foreign>koḷḷa</foreign></supplied> one <foreign>tūṇi</foreign> of paddy daily for the enjoyment <supplied reason="explanation"><foreign>pōkam-āka</foreign></supplied> of the monastery <supplied reason="explanation"><foreign>maṭam</foreign></supplied> from the treasury of this god.</quote></item>
+        </list>
+        
+        We have given <supplied reason="subaudible">so</supplied>, according to <supplied reason="subaudible">our</supplied> royal command <supplied reason="explanation"><foreign>tirumukap paṭi</foreign></supplied>, 
+        which he, among respected men/brahmins <supplied reason="explanation"><foreign>aiyariṭaiyil</foreign></supplied>, previously had <supplied reason="explanation"><foreign>peṟṟuṭaiya</foreign></supplied>.        
+    </p>
+    
+    <p n="10-11">
+        So that
+         <list>
+            <item>he makes the endowment <supplied reason="explanation"><foreign>nivantaṅkaḷ ceyyavum</foreign></supplied> to the temple servants <supplied reason="explanation"><foreign>nivantakkāṟar</foreign></supplied> who perform various services [in the temple], at the aforementioned rate <supplied reason="explanation"><foreign>coṉṉa vaṇṇamē</foreign></supplied>,</item>
+            <item>he rotates <supplied reason="explanation"><foreign>māṟṟavum</foreign></supplied> and appoint <supplied reason="explanation"><foreign>iṭavum</foreign></supplied> the endowments and the temple servants who perform different services, including the Śivabrāhmaṇas of this god,</item>
+             <item>he obtains <supplied reason="explanation"><foreign>peṟuvāṉ</foreign></supplied> <supplied reason="subaudible">this</supplied>,
+       </item>             
+        </list>
+        thus We commanded <supplied reason="explanation"><foreign>coṉṉōm</foreign></supplied>.
+    </p>
+    <p n="12-14">
+        We commanded <supplied reason="explanation"><foreign>coṉ<supplied reason="lost">ṉōm</supplied></foreign></supplied> that he, among respected men/brahmins <supplied reason="explanation"><foreign>aiya<unclear>riṭai</unclear><supplied reason="lost">yil</supplied></foreign></supplied>, obtains <gap reason="lost"/> according to <supplied reason="subaudible">our</supplied> royal command  <supplied reason="explanation"><foreign><unclear>tirumuka</unclear>p paṭiyē</foreign></supplied> <gap reason="lost"/>.
+    </p>
+    
+    <p n="13-14">
+        <supplied reason="lost">This is the</supplied> signature of <gap reason="lost"/>.
+    </p>
+    
+    <p n="14">
+        In the year 37, <supplied reason="subaudible">day</supplied> 311.
+    </p>
+    
+    <p n="14">
+        <supplied reason="lost">This is under the protection of</supplied> the Paṉmāheśvaras.
+    </p>
+    
+</div>
       	
  <!-- <div type="commentary">
          	<p n="20">
