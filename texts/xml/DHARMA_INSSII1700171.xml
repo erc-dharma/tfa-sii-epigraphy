@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirukaṇṭēcuvaram, Naṭanapādeśvara temple, time of Jaṭāvarman Sundarapāṇḍya I, year 14</title>
+				<title>Tirukaṇṭēcuvaram, Naṭanapādeśvara, time of Jaṭāvarman Sundara Pāṇḍya, year 14</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -92,7 +92,7 @@
          	</ab>
          	
          	<p>          
-         		<hi rend="grantha">śrī</hi><choice><sic><hi rend="grantha">mat·</hi></sic><corr>mey</corr></choice><hi rend="grantha">kīrtti</hi>kku mēl kō-c-caṭapaṉmar-āṉa tiripuvaṉa-c-cakkaravattikaḷ cuntarapāṇṭiya-tēvarkku yāṇṭu <num value="14"><g type="numeral">10</g> 4</num>-vatu 	
+         		<hi rend="grantha">śrī</hi>-<choice><sic><hi rend="grantha">mat·</hi></sic><corr>mey</corr></choice><hi rend="grantha">kīrtti</hi>kku mēl kō-c-caṭa-paṉmar-āṉa tiri-puvaṉa-c-cakkarava<reg>r</reg>ttikaḷ cuntara-pāṇṭiya-tēvarkku yāṇṭu <num value="14"><g type="numeral">10</g> 4</num>-vatu 	
          	</p>
          	
          	<p>
@@ -183,10 +183,9 @@
             </p>
          </div>
 
-      <!--   <div type="apparatus">
+<!--   <div type="apparatus">
             
-                    
-         </div>-->
+</div>-->
 
          <div type="translation" resp="part:reda part:emfr">
          	<p n="1">
@@ -241,6 +240,7 @@
       </body>
 	</text>
 </TEI>
+
 <!--METADATA:
 	year 14 = 1264 CE.
 	On the south wall of the <foreign>maṇḍapa</foreign> in front of central shrine in the cuddalore taluk
