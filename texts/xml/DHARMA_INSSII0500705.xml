@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruviṭaimarutūr, Māhaliṅgasvāmin temple, time of Kulottuṅga Cōḻa II, year 9</title>
+				<title>Tiruviṭaimarutūr, Māhaliṅgasvāmin, time of Rajakesarivarman Tribhuvanacakravartin Kulottuṅga Cōḻa, year 9</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:reda">
@@ -305,7 +305,7 @@
 	</p>
 	
 	<p n="12-13">
-		(very much unclear to this point)  so that {unknown area} of land previously was added in the 6th year by removing the previous the share of the village (<foreign>uṟaināḻi</foreign>) of paddy to the east of the land of Pāmpuṇi Kiḻāṉ from the Tarāpaḷḷa parcel, which is in Cempiyaṉ Kuḷattūr.
+		<!--very much unclear to this point-->  so that {unknown area} of land previously was added in the 6th year by removing the previous the share of the village (<foreign>uṟaināḻi</foreign>) of paddy to the east of the land of Pāmpuṇi Kiḻāṉ from the Tarāpaḷḷa parcel, which is in Cempiyaṉ Kuḷattūr.
 	</p>
 	
 	<p n="13">
@@ -332,8 +332,7 @@
     		
     <p>Reported in <bibl><ptr target="bib:ARIE1894-1895"/></bibl> (ARIE/1894-1895/B/1895/141).</p>    
     <p>Edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5.705); partially translated by <bibl><ptr target="bib:Orr2000_01"/></bibl> and by <bibl><ptr target="bib:Palaniappan2016_01"/></bibl>.</p>
-    <p>This edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl>.</p>	  
-    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>    
+    <p>This digital edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl>. This translation by Renato Dávalos and Emmanuel Francis (2024).</p>    
 	
     <listBibl type="primary">
         
@@ -373,6 +372,7 @@
 <!--
 	Metadata:
 	south wall, second prākāra
+	Kulottuṅga Cōḻa II
 -->
 <!--<!-\-<!-\\-<supplied reason="subaudible">as for</supplied> land needed for <supplied reason="subaudible">producing</supplied> this paddy, having removed <supplied reason="explanation"><foreign>tavirttu</foreign></supplied> the previous owners,
 having obtained <supplied reason="explanation"><foreign>aṭaittu</foreign></supplied>

@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruviṭaimarutūr, Mahāliṅgasvāmin temple, Uttama Cōḻa, year 7</title>
+				<title>Tiruviṭaimarutūr, Mahāliṅgasvāmin temple, time of Parakesarivarman, year 7</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:reda">
@@ -117,7 +117,7 @@
 	</p>
 	
 	<p>				
-					In-nilam vēliyum Ivaṉ ātal Ivaṉ <hi rend="grantha">Anva</hi>yattār ātal oruvaṉē-y tēciy pāṭiyu
+		In-nilam vēliyum Ivaṉ ātal Ivaṉ <hi rend="grantha">Anva</hi>yattār ātal oruvaṉē-y tēciy pāṭiyu
 	</p>
 	
 	<p>
@@ -161,6 +161,7 @@
 		
 		<lb n="6" break="no"/><gap reason="lost" extent="unknown" unit="character"/>lattayalum vaikal <hi rend="grantha">sabhai</hi>yōm In-nilam<gap reason="lost" quantity="4" unit="character"/> Eppēṟppaṭṭa Ūr iṭu vari-p-pāṭum kāttu-k kuṭuppōm āṉōm
 	</p>
+	
 	<p>
 		Ivv-ōlai mēl paṭṭa paricē kallil veṭṭi-k-koḷḷa-p peṟuvat' ā<supplied reason="lost">kavum</supplied>
 	</p>
@@ -192,140 +193,140 @@
 	
 	<!--Apparatus to be completed. See SII editions at the end of this file.--> 
     	   
-	<div type="textpart" subtype="fragment" n="1">
-	<head xml:lang="eng">Fragment 1</head>
+<div type="textpart" subtype="fragment" n="1">
+<head xml:lang="eng">Fragment 1</head>
 		
-		<listApp>
-			
-			<!--<app loc="0">
-				<lem>...</lem>
-				<rdg source="bib:SrinivasaRao1967_01">...</rdg>
-				<rdg source="bib:SrinivasaRao1979_01">...</rdg>
+	<listApp>
+		
+		<!--<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:SrinivasaRao1967_01">...</rdg>
+			<rdg source="bib:SrinivasaRao1979_01">...</rdg>
 			</app>	-->
-			
-			<app loc="1">
-				<lem><gap reason="lost" unit="character" quantity="8"/><supplied reason="lost">tiru</supplied>-viṭai-<unclear>marut-u</unclear>ṭaiyār</lem>
-				<rdg source="bib:SrinivasaRao1967_01"><gap reason="lost" unit="character" quantity="10"/>-viṭai-<unclear>marut-u</unclear>ṭaiyār</rdg>
-				<rdg source="bib:SrinivasaRao1979_01"><gap reason="lost" unit="character" quantity="3"/>ṭaiyār</rdg>
-			</app>
-			
-						
-			<app loc="1">
-				<lem><hi rend="grantha">śrī-kārya</hi>m <unclear>ceyyum</unclear></lem>
-				<rdg source="bib:SrinivasaRao1967_01"><hi rend="grantha">śrī-kārya</hi>m <unclear>ceyyum</unclear></rdg>
-				<rdg source="bib:SrinivasaRao1979_01"><hi rend="grantha">śrī-kārya</hi>m <gap reason="lost" unit="character" quantity="3"/></rdg>
-			</app>	
-			
-			<app loc="1">
-				<lem>maturānta<supplied reason="lost">ka-mu</supplied>vēnta-vēḷārum</lem>
-				<rdg source="bib:SrinivasaRao1967_01">maturānta<gap reason="lost" quantity="2" unit="character"/>venta-veḷārum</rdg>
-				<rdg source="bib:SrinivasaRao1979_01">maturāntaka-muventa-veḷārum</rdg>
-			</app>			
-			
-			<app loc="1">
-				<lem>tēvaka<lb n="2" break="no"/><supplied reason="lost">ṉmi</supplied> <gap reason="lost" quantity="8" unit="character"/> <hi rend="grantha">sabhai</hi></lem>
-				<rdg source="bib:SrinivasaRao1967_01">tevaka<lb n="2" break="no"/><gap reason="lost" quantity="10" unit="character"/> <hi rend="grantha">sabhai</hi></rdg>
-				<rdg source="bib:SrinivasaRao1979_01">tevaka<lb n="2" break="no"/><hi rend="grantha">sabhai</hi></rdg>
-			</app>			
-						
-			<app loc="3">
-				<lem>tēciy pāṭum</lem>
-				<rdg source="bib:SrinivasaRao1967_01"/>
-				<rdg source="bib:SrinivasaRao1979_01">tēciy pāṭṭum</rdg>
-				<note>Alternatively one could also read <foreign>tēciya pāṭum</foreign>.</note>
-			</app>	
-			
-			<app loc="6">
-				<lem>pāṭiyu</lem>
-				<rdg source="bib:SrinivasaRao1967_01 bib:SrinivasaRao1979_01"/>
-				<note><ptr target="bib:SrinivasaRao1967_01"/> notes: <quote>The continuation of this is lost in a gap of portions of lines 7-14.</quote></note>
-			</app>				
-			
-		</listApp>
 		
-	</div>
+		<app loc="1">
+			<lem><gap reason="lost" unit="character" quantity="8"/><supplied reason="lost">tiru</supplied>-viṭai-<unclear>marut-u</unclear>ṭaiyār</lem>
+			<rdg source="bib:SrinivasaRao1967_01"><gap reason="lost" unit="character" quantity="10"/>-viṭai-<unclear>marut-u</unclear>ṭaiyār</rdg>
+			<rdg source="bib:SrinivasaRao1979_01"><gap reason="lost" unit="character" quantity="3"/>ṭaiyār</rdg>
+		</app>
+		
+		
+		<app loc="1">
+			<lem><hi rend="grantha">śrī-kārya</hi>m <unclear>ceyyum</unclear></lem>
+			<rdg source="bib:SrinivasaRao1967_01"><hi rend="grantha">śrī-kārya</hi>m <unclear>ceyyum</unclear></rdg>
+			<rdg source="bib:SrinivasaRao1979_01"><hi rend="grantha">śrī-kārya</hi>m <gap reason="lost" unit="character" quantity="3"/></rdg>
+		</app>	
+		
+		<app loc="1">
+			<lem>maturānta<supplied reason="lost">ka-mu</supplied>vēnta-vēḷārum</lem>
+			<rdg source="bib:SrinivasaRao1967_01">maturānta<gap reason="lost" quantity="2" unit="character"/>venta-veḷārum</rdg>
+			<rdg source="bib:SrinivasaRao1979_01">maturāntaka-muventa-veḷārum</rdg>
+		</app>			
+		
+		<app loc="1">
+			<lem>tēvaka<lb n="2" break="no"/><supplied reason="lost">ṉmi</supplied> <gap reason="lost" quantity="8" unit="character"/> <hi rend="grantha">sabhai</hi></lem>
+			<rdg source="bib:SrinivasaRao1967_01">tevaka<lb n="2" break="no"/><gap reason="lost" quantity="10" unit="character"/> <hi rend="grantha">sabhai</hi></rdg>
+			<rdg source="bib:SrinivasaRao1979_01">tevaka<lb n="2" break="no"/><hi rend="grantha">sabhai</hi></rdg>
+		</app>			
+		
+		<app loc="3">
+			<lem>tēciy pāṭum</lem>
+			<rdg source="bib:SrinivasaRao1967_01"/>
+			<rdg source="bib:SrinivasaRao1979_01">tēciy pāṭṭum</rdg>
+			<note>Alternatively one could also read <foreign>tēciya pāṭum</foreign>.</note>
+		</app>	
+		
+		<app loc="6">
+			<lem>pāṭiyu</lem>
+			<rdg source="bib:SrinivasaRao1967_01 bib:SrinivasaRao1979_01"/>
+			<note><ptr target="bib:SrinivasaRao1967_01"/> notes: <quote>The continuation of this is lost in a gap of portions of lines 7-14.</quote></note>
+		</app>				
+		
+	</listApp>
 	
-	<div type="textpart" subtype="fragment" n="2">
-	<head xml:lang="eng">Fragment 2</head>
+</div>
+	
+<div type="textpart" subtype="fragment" n="2">
+<head xml:lang="eng">Fragment 2</head>
 		
-		<listApp>
-			
-			<app loc="1">
-				<lem>nalluḻān</lem>
-				<rdg source="bib:SrinivasaRao1967_01"/>
-				<rdg source="bib:SrinivasaRao1979_01">nalluḻ<unclear>ā</unclear>n</rdg>				
-			</app>	
-			<app loc="1">
-				<lem><gap reason="lost" quantity="6" unit="character"/> <unclear>vilai</unclear> koṇṭa</lem>
-				<rdg source="bib:SrinivasaRao1967_01"/>
-				<rdg source="bib:SrinivasaRao1979_01"><gap reason="lost" quantity="6" unit="character"/> koṇṭa</rdg>				
-			</app>	
-			
-			<app loc="1">
-				<lem>i<supplied reason="omitted">v</supplied>-vūr Ivaṉai-c cukku <gap reason="lost" unit="character" quantity="5"/> m</lem>
-				<rdg source="bib:SrinivasaRao1967_01"/>
-				<rdg source="bib:SrinivasaRao1979_01"><gap reason="lost" unit="character" quantity="5"/> ṉai-ccu kura <gap reason="lost" unit="character" quantity="3"/> lum</rdg>				
-			</app>	
-						
-			<app loc="1">
-				<lem>vilai koṇṭ-uṭaiya</lem>
-				<rdg source="bib:SrinivasaRao1967_01"/>
-				<rdg source="bib:SrinivasaRao1979_01">vilai koṇṭa <gap reason="lost" unit="character" quantity="3"/></rdg>				
-			</app>
-						
-			<app loc="2">
-				<lem><hi rend="grantha">śrī</hi>-kōyil <unclear>paṭṭar</unclear>kaḷukkum</lem>
-				<rdg source="bib:SrinivasaRao1967_01"/>
-				<rdg source="bib:SrinivasaRao1979_01"><hi rend="grantha">śrī</hi>-kōyilkaḷukku</rdg>				
-			</app>
-			
-			<app loc="2">
-				<lem>Āka-k kuṭuttē<choice><orig>n</orig><reg>ṉ</reg></choice></lem>
-				<rdg source="bib:SrinivasaRao1967_01">Ākak kuṭutten</rdg>
-				<rdg source="bib:SrinivasaRao1979_01"><gap unit="character" quantity="3" reason="lost"/> kuṭutten</rdg>				
-			</app>	
-						
-			<app loc="5">
-				<lem>kāttu-k</lem>
-				<rdg source="bib:SrinivasaRao1967_01">kātatuk</rdg>
-			</app>	
-			
-		</listApp>    
-	</div>	
-    	
+	<listApp>
+		
+		<app loc="1">
+			<lem>nalluḻān</lem>
+			<rdg source="bib:SrinivasaRao1967_01"/>
+			<rdg source="bib:SrinivasaRao1979_01">nalluḻ<unclear>ā</unclear>n</rdg>				
+		</app>	
+		<app loc="1">
+			<lem><gap reason="lost" quantity="6" unit="character"/> <unclear>vilai</unclear> koṇṭa</lem>
+			<rdg source="bib:SrinivasaRao1967_01"/>
+			<rdg source="bib:SrinivasaRao1979_01"><gap reason="lost" quantity="6" unit="character"/> koṇṭa</rdg>				
+		</app>	
+		
+		<app loc="1">
+			<lem>i<supplied reason="omitted">v</supplied>-vūr Ivaṉai-c cukku <gap reason="lost" unit="character" quantity="5"/> m</lem>
+			<rdg source="bib:SrinivasaRao1967_01"/>
+			<rdg source="bib:SrinivasaRao1979_01"><gap reason="lost" unit="character" quantity="5"/> ṉai-ccu kura <gap reason="lost" unit="character" quantity="3"/> lum</rdg>				
+		</app>	
+		
+		<app loc="1">
+			<lem>vilai koṇṭ-uṭaiya</lem>
+			<rdg source="bib:SrinivasaRao1967_01"/>
+			<rdg source="bib:SrinivasaRao1979_01">vilai koṇṭa <gap reason="lost" unit="character" quantity="3"/></rdg>				
+		</app>
+		
+		<app loc="2">
+			<lem><hi rend="grantha">śrī</hi>-kōyil <unclear>paṭṭar</unclear>kaḷukkum</lem>
+			<rdg source="bib:SrinivasaRao1967_01"/>
+			<rdg source="bib:SrinivasaRao1979_01"><hi rend="grantha">śrī</hi>-kōyilkaḷukku</rdg>				
+		</app>
+		
+		<app loc="2">
+			<lem>Āka-k kuṭuttē<choice><orig>n</orig><reg>ṉ</reg></choice></lem>
+			<rdg source="bib:SrinivasaRao1967_01">Ākak kuṭutten</rdg>
+			<rdg source="bib:SrinivasaRao1979_01"><gap unit="character" quantity="3" reason="lost"/> kuṭutten</rdg>				
+		</app>	
+		
+		<app loc="5">
+			<lem>kāttu-k</lem>
+			<rdg source="bib:SrinivasaRao1967_01">kātatuk</rdg>
+		</app>	
+		
+	</listApp>    
+</div>	
+	
 </div>
     	
 <div type="translation" resp="part:reda part:emfr">
 	
-	<div type="textpart" subtype="fragment" n="1">
-	<head xml:lang="eng">Fragment 1</head>
+<div type="textpart" subtype="fragment" n="1">
+<head xml:lang="eng">Fragment 1</head>
 		
-		<p n="1-2">
-			<gap reason="lost"/> Maturāntaka Muvēnta Vēḷār, the superintendent <supplied reason="explanation"><foreign>aṭikārikaḷ</foreign></supplied> who does the sacred service <supplied reason="explanation"><foreign>śrīkāryam ceyyum</foreign></supplied> <supplied reason="subaudible">for</supplied> the Lord of Tiruviṭaimarutu, and the manager <supplied reason="explanation"><foreign>tēvakaṉmi</foreign></supplied> <supplied reason="subaudible">of the temple</supplied> of the Lord of Tiruviṭaimarutu <gap reason="lost"/>
-		</p>
+	<p n="1-2">
+		<gap reason="lost"/> Maturāntaka Muvēnta Vēḷār, the superintendent <supplied reason="explanation"><foreign>aṭikārikaḷ</foreign></supplied> who does the sacred service <supplied reason="explanation"><foreign>śrīkāryam ceyyum</foreign></supplied> <supplied reason="subaudible">for</supplied> the Lord of Tiruviṭaimarutu, and the manager <supplied reason="explanation"><foreign>tēvakaṉmi</foreign></supplied> <supplied reason="subaudible">of the temple</supplied> of the Lord of Tiruviṭaimarutu <gap reason="lost"/>
+	</p>
+	
+	<p n="2-3">
+		the assembly <gap reason="lost"/> the queen, the great goddess <supplied reason="explanation"><foreign>mābhaṭṭārakiyar</foreign></supplied> <gap reason="lost"/>
+	</p>
+	
+	<p n="3">			
+		For Eḻupaṇai Tēvaṉ<gap reason="lost"/> Kaśyapan Kaṇṭa, singer of folk songs <supplied reason="explanation"><foreign>tēciy pāṭum</foreign></supplied> while sitting at the assembly hall <supplied reason="explanation"><foreign>tiruvōlakkam</foreign></supplied> of the Lord dwelling in the shrine <gap reason="lost"/> in the temple of the Lord <supplied reason="lost">of Tiruviṭaimarutu</supplied><gap reason="lost"/>
+	</p>
+	
+	<p n="4">
+		The <foreign>vēli</foreign> of land for Eḻupaṇai Tēvaṉ that was previously inscribed on stone for singing tēci <supplied reason="subaudible"><foreign>songs</foreign></supplied> performed <supplied reason="subaudible">during the dance</supplied> of tēci.
 		
-		<p n="2-3">
-			the assembly <gap reason="lost"/> the queen, the great goddess <supplied reason="explanation"><foreign>mābhaṭṭārakiyar</foreign></supplied> <gap reason="lost"/>
-		</p>
-		
-		<p n="3">			
-			For Eḻupaṇai Tēvaṉ<gap reason="lost"/> Kaśyapan Kaṇṭa, singer of folk songs <supplied reason="explanation"><foreign>tēciy pāṭum</foreign></supplied> while sitting at the assembly hall <supplied reason="explanation"><foreign>tiruvōlakkam</foreign></supplied> of the Lord dwelling in the shrine <gap reason="lost"/> in the temple of the Lord <supplied reason="lost">of Tiruviṭaimarutu</supplied><gap reason="lost"/>
-		</p>
-		
-		<p n="4">
-			The <foreign>vēli</foreign> of land for Eḻupaṇai Tēvaṉ that was previously inscribed on stone for singing tēci <supplied reason="subaudible"><foreign>songs</foreign></supplied> performed <supplied reason="subaudible">during the dance</supplied> of tēci.
-			
 		<!--I take Palaniappan's reading 327 fn. 39: acc. to him, this style of dance is already present in a commentary on Cilappatikaram. It could be interpreted that the land was meant for the singer who sang these teci songs during the performance of the teci dance.  However, why giving endowments for the singer and omitting the performers altoghether?-->
-		</p>
-		
-		<p n="4-6">
-			the accountant who oversees <supplied reason="subaudible">the temple of</supplied> the Mahādeva <supplied reason="subaudible">of the Mūlasthāṉam temple at</supplied> Tiruviṭaimarutūr <note>Tiruviṭaimarutil Mahādeva is the name of the deity in the shrine, which already appears in inscriptions from an earlier date, e.g., appears in SII 5, no. 719 (dated in 931 CE) or SII 23, no. 262 (dated in 925 CE).</note> <gap reason="lost"/>, accountant who oversees the temple of the Lord of Tiruviṭaimarutūr for the goddess <supplied reason="explanation"><foreign>mā</foreign></supplied> Bhaṭṭaraki <gap reason="lost"/> queen of <gap reason="lost"/> assembly hall <gap reason="lost"/>.
-		</p>
-		
-	</div>
+	</p>
+	
+	<p n="4-6">
+		the accountant who oversees <supplied reason="subaudible">the temple of</supplied> the Mahādeva <supplied reason="subaudible">of the Mūlasthāṉam temple at</supplied> Tiruviṭaimarutūr <note>Tiruviṭaimarutil Mahādeva is the name of the deity in the shrine, which already appears in inscriptions from an earlier date, e.g., appears in SII 5, no. 719 (dated in 931 CE) or SII 23, no. 262 (dated in 925 CE).</note> <gap reason="lost"/>, accountant who oversees the temple of the Lord of Tiruviṭaimarutūr for the goddess <supplied reason="explanation"><foreign>mā</foreign></supplied> Bhaṭṭaraki <gap reason="lost"/> queen of <gap reason="lost"/> assembly hall <gap reason="lost"/>.
+	</p>
+	
+</div>
 	
 <div type="textpart" subtype="fragment" n="2">
-	<head xml:lang="eng">Fragment 2</head>
+<head xml:lang="eng">Fragment 2</head>
 	
 	<p n="1-2">
 		<gap reason="lost"/> I have given this for the the Brahmans <supplied reason="explanation"><foreign>paṭṭarkaḷukkum</foreign></supplied> of the temple which I have built in this village ...
@@ -346,8 +347,7 @@
 	
 	<p n="6-7">
 		We, members of the assembly of Vaikal, have agreed and issued<supplied reason="explanation"><foreign>oṭṭi iṭṭu-k kuṭuttōm</foreign></supplied> <supplied reason="subaudible">this order</supplied> so that collected taxes <supplied reason="explanation"><foreign>taṇṭippaṭa</foreign></supplied> are removed <supplied reason="explanation"><foreign>aṟuttār</foreign></supplied>.
-		
-		
+				
 		<gap reason="lost"></gap> the land so that it is 
 	</p>
 	
@@ -369,7 +369,7 @@
             
 <div type="commentary">
     		
-	<p>The status of this inscription is not clear from the editions available. It appears that a single record has received by mistake two ARIE  numbers. SII 19, no. 181 is the edition of ARIE/1907-1908/B/1907/234, whereas SII 23, no. 233 is the edition of ARIE/1907-1908/B/1907/233, but the 6 + 2 lines of the latter correspond to lines 1-8 of the former. <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> note ad SII 19, no. 181: <quote>This together with No. 233 of 1907 seems to form a single inscription with some portions lost, and hence with gaps in the continuity of lines.</quote> <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl> notes ad SII 23, no. 233: <quote>This seems to be part of a bigger inscription, evidently No. 234, of which the beginning is lost. being also damaged the sequence is not clear after the first six lines.</quote> In <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl>, no text is published for SII 23, no. 234, and the reader is redirected to SII 19, no. 181.</p>
+	<p>The status of this inscription is not clear from the editions available. It appears that a single record has received by mistake two ARIE  numbers. SII 19.181 is the edition of ARIE/1907-1908/B/1907/234, whereas SII 23.233 is the edition of ARIE/1907-1908/B/1907/233, but the 6 + 2 lines of the latter correspond to lines 1-8 of the former. <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> note ad SII 19.181: <quote>This together with No. 233 of 1907 seems to form a single inscription with some portions lost, and hence with gaps in the continuity of lines.</quote> <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl> notes ad SII 23.233: <quote>This seems to be part of a bigger inscription, evidently No. 234, of which the beginning is lost. being also damaged the sequence is not clear after the first six lines.</quote> In <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl>, no text is published for SII 23.234, and the reader is redirected to SII 19.181.</p>
 	
 	<p>This seems to be a recapitulative inscription listing several endowments.</p>
 	
@@ -383,8 +383,7 @@
     <p>Reported in <bibl><ptr target="bib:ARIE1934-1935"/></bibl> (ARIE/1907-1908/B/1907/233 and ARIE/1907-1908/B/1907/234).</p>
     <p>Fragment 1 edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.181, lines 1-6). Re-edited in <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl> (SII 23.233, lines 1-6).</p>
     <p>Fragment 2 first edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.181, lines 7-14). First two lines re-edited in <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl> (SII 23.233, supplementary lines 1-2).</p>    
-    <p>This edition by Renato Dávalos and Emmanuel Francis (2023), based on previous editions.</p>	  
-    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+    <p>This digital edition by Renato Dávalos and Emmanuel Francis (2023), based on previous editions.  This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
     
     <listBibl type="primary">
         

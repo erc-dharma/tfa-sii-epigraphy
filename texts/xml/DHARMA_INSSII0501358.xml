@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvoṟṟiyūr, Ādhipurīśvara temple, time of Rājādhirāja Cōḻa, year 9</title>
+				<title>Tiruvoṟṟiyūr, Ādhipurīśvara, time of Rājakesarivarman Rājādhirāja Cōḻa, year 9</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -164,7 +164,6 @@
 	
 </div>
 
-
 <div type="apparatus">
 		
 	<listApp>
@@ -294,8 +293,7 @@
     <p>Reported in <bibl><ptr target="bib:ARIE1896-1897"/></bibl> (ARIE/1896-1897/A/1896/403).</p>
     <p>Edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5.1358).</p>
     <p>Partially edited online by துரை. சுந்தரம் in <ref target="https://kongukalvettuaayvu.blogspot.com/2020/04/2020.html">கொங்கு கல்வெட்டு ஆய்வு</ref> (accessed 2024-02-15).</p>
-    <p>This edition by Renato Davalos and Emmanuel Francis (2024) based on photos (2019).</p>	  
-    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>	
+    <p>This edition by Renato Davalos and Emmanuel Francis (2024) based on photos (2019). This translation by Renato Dávalos and Emmanuel Francis (2024).</p>	
     <listBibl type="primary">
         
         <bibl n="SII">
