@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvaṇṇamālai, Aruṇācaleśvara temple, time of Viruppaṇṇa, Śaka year 1310</title>
+				<title>Tiruvaṇṇamālai, Aruṇācaleśvara, time of Viruppaṇṇa, Śaka year 1310</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -92,19 +92,19 @@
          	</ab>
          	
          	<p>          
-         		<hi rend="grantha">śrīmanu-mahāmaṇḍalīśvaran harirāya</hi> vi<hi rend="grantha">bhāṭan bhaṣai</hi>kkutappumrāyarakaṇṭaṉ mūvarāyarakaṇṭaṉ <hi rend="grantha">catusamudrādipati śrīhari</hi>yaṇṇa Uṭaiyar kumārar <hi rend="grantha">śrī</hi>viruppaṇṇa Uṭaiyar
-         		<lb n="2"/><hi rend="grantha">pṛthivirājyam</hi> paṇṇiyaruḷā niṉṟa śakābdam 
-         		<num value="1310"><g type="numeral">1000</g> 3 <g type="numeral">100</g> 1 <g type="numeral">10</g></num>ṉ mēl cellāniṉṟa vi<hi rend="grantha">bha</hi>va<hi rend="grantha">saṃ</hi>va<hi rend="grantha">t·sara</hi>ttu <hi rend="grantha">makara</hi>nāyaṟṟu <hi rend="grantha">pūrvvapakṣa</hi>ttu <hi rend="grantha">tri</hi>tiyai<hi rend="grantha">yum</hi> veḷḷikkiḻamaiyum peṟṟa <hi rend="grantha">śatai</hi>yattu nāḷ
+         		<hi rend="grantha">śrīmanu-mahāmaṇḍalīśvaran· hari-rāya</hi>-vi<hi rend="grantha">bhāṭan· bhaṣai</hi>kku tappum rāyara kaṇṭaṉ mūvarāyara kaṇṭaṉ <hi rend="grantha">catu-samudrādipati-śrī-hari</hi>yaṇṇa Uṭaiyar kumārar <hi rend="grantha">śrī</hi>-viruppaṇṇa Uṭaiyar
+         		<lb n="2"/><hi rend="grantha">pṛthivi-rājyam·</hi> paṇṇi-y-aruḷā niṉṟa <hi rend="grantha">śakābdam·</hi> 
+         		<num value="1310"><g type="numeral">1000</g> 3 <g type="numeral">100</g> 1 <g type="numeral">10</g></num>ṉ mēl cellā niṉṟa vi<hi rend="grantha">bha</hi>va-<hi rend="grantha">saṃ</hi>va<hi rend="grantha">t·sara</hi>ttu <hi rend="grantha">makara</hi>-nāyaṟṟu <hi rend="grantha">pūrvva-pakṣa</hi>ttu <hi rend="grantha">tri</hi>tiyai<hi rend="grantha">yum</hi> veḷḷi-k-kiḻamaiyum peṟṟa <hi rend="grantha">śatai</hi>yattu nāḷ
          	</p>
          	<p>
-         		<lb n="3"/>Uṭaiyār tiruvaṇṇāmalai-y-uṭaiya nāyināṟkku <choice><orig><hi rend="grantha">addhy<unclear>e</unclear></hi></orig><reg><hi rend="grantha">aya</hi></reg></choice>nam paṇṇum paṭikku muṉṉāḷ nam aṇṇan <hi rend="grantha">ja<unclear>m</unclear></hi>maṇṇa Uṭaiyar kampaṇa uṭaiyaṟku <hi rend="grantha">śrāddha-vṛ<choice><orig>ddh</orig><reg>tt</reg></choice>i</hi>-y-āka <hi rend="grantha">rāja</hi>vi<hi rend="grantha">bhāṭan·</hi> cantiyilē Oru 
-         		<lb n="4" break="no"/>pēr <choice><orig><hi rend="grantha">addhy<unclear>e</unclear></hi></orig><reg><hi rend="grantha">aya</hi></reg></choice>nam paṇṇumpaṭikku viṭṭa Āṭaiyūr-nāṭu kiḻpaṟṟu Atikaiyāṉa puvanekavīra<hi rend="grantha"><supplied reason="omitted">cca</supplied>turvve</hi>timaṅkalam-āṉa kamparāya<hi rend="grantha">caturvvedi</hi>maṅkalam <hi rend="grantha">sarvvamānnya</hi> Iṟai Ili Āka kal veṭṭikkuṭutta Itu Innāḷava
-         		<lb n="5" break="no"/>raiyu<supplied reason="omitted">m</supplied> Akara<unclear>p</unclear>paṟṟu-k ko<unclear>r</unclear>vaiyilē kūṭi <hi rend="grantha">rakṣābhogam</hi> y-iṟuttu-p potukaiyil y-ic-ceyti nām kēṭṭu Iṉṉāḷ mutalukku Akara<supplied reason="omitted">p</supplied>paṟṟu kovaiyil niṉṟum kaḻittu vak<supplied reason="omitted">ai</supplied>yilum niṟutti yiṉṉāḷ mutal tiruvaṇṇāma<unclear>lai</unclear>
-         		<lb n="6" break="no"/>nampi tirucciṟṟampala-nampi vīravetiya-nampi I<hi rend="grantha">rājagambhīranam</hi>pi <hi rend="grantha">kauśi</hi>ka<hi rend="grantha">n</hi> Aḻakiyār Irāmanā-<supplied reason="omitted">t</supplied>tẽvar Ivarkaḷ Añcu paṅkāka koṇṭu Irāyavi<hi rend="grantha">bhāṭan</hi>-canti-Ilē nāḷ tōṟum Oru pēr <choice><orig><hi rend="grantha">Addhy<unclear>e</unclear></hi></orig><reg><hi rend="grantha">aya</hi></reg></choice>na<hi rend="grantha">m·</hi> paṇṇum paṭikku
-         		<lb n="7"/><hi rend="grantha">sarvvamānnya</hi> Iṟai Iliyāka <hi rend="grantha">candrāditya</hi>varaiyum cellakkaṭavat-āka kal veṭṭi-k kuṭuttōm
+         		<lb n="3"/>Uṭaiyār tiru-v-aṇṇāmalai-y-uṭaiya nāyināṟkku Addhy<choice><sic>e</sic><corr>a</corr></choice><supplied reason="omitted">y</supplied>anam· paṇṇum paṭikku muṉṉāḷ nam Aṇṇan <hi rend="grantha">ja<supplied reason="omitted">m</supplied></hi>maṇṇa-Uṭaiyar kampaṇa-Uṭaiyaṟku <hi rend="grantha">śrāddha-vṛ<choice><orig>ddh</orig><reg>tt</reg></choice>i</hi>-y-āka <hi rend="grantha">rāja</hi>-vi<hi rend="grantha">bhāṭan·</hi> cantiyilē Oru 
+         		<lb n="4"/>pēr Addhy<choice><sic>e</sic><corr>a</corr></choice><supplied reason="omitted">y</supplied>anam· paṇṇum paṭikku viṭṭa Āṭaiyūr-nāṭu k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-paṟṟu Atikai-y-āṉa puvanēka-vīra-<hi rend="grantha"><supplied reason="omitted">c-ca</supplied>turvve</hi>ti-maṅkalam-āṉa kampa-rāya-<hi rend="grantha">caturvvedi</hi>-maṅkalam <hi rend="grantha">sarvvamānnya</hi> Iṟai-Ili-Āka kal veṭṭi-k kuṭutta Itu Innāḷ va
+         		<lb n="5" break="no"/>raiyu<supplied reason="omitted">m</supplied> Akara-<unclear>p</unclear>-paṟṟu-k ko<unclear>r</unclear>vaiyilē kūṭi <hi rend="grantha">rakṣābhogam</hi> y-iṟuttu-p potukaiyil y-ic-ceyti nām kēṭṭu Iṉ-ṉāḷ mutalukku Akara-<supplied reason="omitted">p</supplied>-paṟṟu kovaiyil niṉṟum kaḻittu vak<supplied reason="omitted">ai</supplied>yilum niṟutti y-iṉ-ṉāḷ mutal tiru-v-aṇṇāma<unclear>lai</unclear>
+         		<lb n="6" break="no"/>nampi tiru-c-ciṟṟampala-nampi vīra-vētiya-nampi I<hi rend="grantha">rāja-gam·bhīra-nam·</hi>pi <hi rend="grantha">kauśi</hi>ka<hi rend="grantha">n·</hi> Aḻakiyār Irāma-nā-<supplied reason="omitted">t</supplied>tēvar Ivarkaḷ Añcu paṅk' āka koṇṭu Irāya'vi<hi rend="grantha">bhāṭan·</hi> canti-Ilē nāḷ tōṟum Oru pēr Addhy<choice><sic>e</sic><corr>a</corr></choice><supplied reason="omitted">y</supplied>anam· paṇṇum paṭikku
+         		<lb n="7"/><hi rend="grantha">sarvvamānnya</hi> Iṟai-Ili-y-āka <hi rend="grantha">candrāditya</hi>-varaiyum cella-k kaṭavat' āka kal veṭṭi-k kuṭuttōm
          	</p>
          	<p>
-         		Itu paḷ paṉ-<hi rend="grantha">māheśvara-rakṣai</hi> {pc}<!--update encoding-->
+         		Itu paḷ paṉ-<hi rend="grantha">māheśvara-rakṣai</hi> <g type="piḷḷaiyār-cūḻi">.</g>
          	</p>
          	
          </div>
@@ -142,8 +142,7 @@
     <p>Reported in <bibl><ptr target="bib:ARIE1902-1903"/></bibl> (ARIE/1902-1903/A/1902/572).</p>
     <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.163).</p>
     <p>Edited and translated in <bibl><ptr target="bib:Srinivasan+Reiniche1990_01"/></bibl> (no. 342); </p>
-    <p>This edition by Renato Dávalos and Emmanuel Francis (2024), based on previous editions.</p>	  
-    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+    <p>This digital edition by Renato Dávalos and Emmanuel Francis (2024), based on previous editions. This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
     
     <listBibl type="primary">
         
