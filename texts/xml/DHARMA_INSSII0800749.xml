@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvāmāttūr, Abhirāmeśvara temple, time of Kulottuṅga II Cōḻa, year 2</title>
+				<title>Tiruvāmāttūr, Abhirāmeśvara, time of Rājakesarivarman Kulottuṅga  Cōḻa, year 2</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:reda">
@@ -104,7 +104,7 @@
 	</lg>
 	
 	<p>	  	
-		kō-v-irā<hi rend="grantha">ja</hi>kecari-pa<choice><orig>n</orig><reg>ṉ</reg></choice>mar-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a tiripuva<choice><orig>n</orig><reg>ṉ</reg></choice>a-cakkaravarttikaḷ <hi rend="grantha">śrī</hi>-k<choice><sic>o</sic><corr>u</corr></choice>lōttuṅka-cōḻa-tēvaṟku Iyāṇtu Iraṇ
+		kō-v-irā<hi rend="grantha">ja</hi>kecari-pa<choice><orig>n</orig><reg>ṉ</reg></choice>mar-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a tiripuva<choice><orig>n</orig><reg>ṉ</reg></choice>a-cakkara-varttikaḷ <hi rend="grantha">śrī</hi>-k<choice><sic>o</sic><corr>u</corr></choice>lōttuṅka-cōḻa-tēvaṟku Iyāṇtu Iraṇ
 		<lb n="6" break="no"/>ṭ-āvatu 
 	</p>
 	
@@ -134,18 +134,18 @@
 	</p>	
 </div>
        	
-<div type="apparatus">
+<!--<div type="apparatus">
     	   
-	<!--<listApp>
+	<listApp>
 		
-		<!-\-<app loc="0">
+		<app loc="0">
 			<lem>...</lem>
-			<rdg source="bib:bib:SrinivasaRao1997_01">...</rdg>
-		</app>	-\->
+			<rdg source="bib:...">...</rdg>
+		</app>	
 	
-	</listApp>    -->			
+	</listApp>    			
     	
-</div>
+</div>-->
     	
 <div type="translation" resp="part:reda part:emfr">
 	
@@ -187,8 +187,7 @@
 				<item>so that there be one hundred twenty <foreign>kalam</foreign>s of paddy per <foreign>vēli</foreign> for one thousand four hundred pots of paddy which comes <supplied reason="subaudible">as such</supplied> <supplied reason="explanation"><foreign>vanta</foreign></supplied>,</item>
 		</list>
 		
-		<supplied reason="subaudible">there are</supplied> twelve <foreign>vēli</foreign>s of land given in Kaṭuvaṉūr, <supplied reason="subaudible">which is</supplied> a <foreign>devadāna</foreign> of this god.		
-		
+		<supplied reason="subaudible">there are</supplied> twelve <foreign>vēli</foreign>s of land given in Kaṭuvaṉūr, <supplied reason="subaudible">which is</supplied> a <foreign>devadāna</foreign> of this god.
 	</p>
 		
 	<p n="15-19">
@@ -210,8 +209,7 @@
     		
     <p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/A/1903/433).</p>
     <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.749).</p>
-    <p>This edition by Renato Dávalos and Emmanuel Francis (2024), based on <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl>.</p>	  
-    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+    <p>This digital edition by Renato Dávalos and Emmanuel Francis (2024), based on <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl>. This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
     
     <listBibl type="primary">
         
