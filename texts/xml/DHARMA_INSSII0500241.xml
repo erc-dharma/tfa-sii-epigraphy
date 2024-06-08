@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Pērūr, Gōṣṭēśvara temple, time of Kōṉerimaikoṇṭān, no year</title>
+				<title>Pērūr, Gōṣṭēśvara, time of Kōṉerimaikoṇṭān, no year</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -102,8 +102,8 @@
 	</ab>
 	
 	<p>
-		kōṉerimaikoṇṭān tiruvā<choice><orig>n</orig><reg>ṉ</reg></choice>
-		<lb n="2" break="no"/>paṭṭi Uṭaiyār cikāriyañ ceyvārkaḷukku
+		kō-ṉerimai-koṇṭān tiru-vā<choice><orig>n</orig><reg>ṉ</reg></choice>
+		<lb n="2" break="no"/>paṭṭi Uṭaiyār c<choice><orig>i</orig><reg>ī</reg></choice>-kāriyañ ceyvārkaḷukku
 		<lb n="3"/>nañ ceṉāpatikaḷil kaṇṭarātittaṉ ceṭṭi
 		<lb n="4" break="no"/>y-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">rājarāja</hi>-p paṅkaḷa-nāṭ’ uṭaiyāṉukku
 		<lb n="5"/>na<supplied reason="undefined">m</supplied> ceṉāpati-k kāṇi y-āka Iṭṭa nilam āvatu
@@ -196,8 +196,7 @@
 	
     <p>Reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1893-1894/A/1893/565).</p>
     <p>Edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5.241).</p>
-    <p>This edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl>.</p>
-    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+    <p>This edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl>.This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
         
     <listBibl type="primary">
         

@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Śrīraṅgam, Raṅganātha temple, time of Kulottuṅga Cōḻa, year 5</title>
+				<title>Śrīraṅgam, Raṅganātha, time of Kulottuṅga Cōḻa, year 5</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:reda">
@@ -193,8 +193,7 @@
     		
     <p>Reported in <bibl><ptr target="bib:ARIE1891-1892"/></bibl> (ARIE/1891-1892/B/1892/1892/61).</p>
     <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.508).</p>
-    <p>This edition by Renato Dávalos and Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>.</p>	  
-    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+    <p>This digital edition by Renato Dávalos and Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>. This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
     
     <listBibl type="primary">
         
@@ -221,6 +220,7 @@
         </body>
     </text>
 </TEI>
+
 <!--
 	METADATA:
 	east wall of third <foreign>prākāra</foreign></title>

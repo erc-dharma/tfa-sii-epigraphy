@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Śrīraṅgam, Raṅganātha temple, no date given</title>
+				<title>Śrīraṅgam, Raṅganātha, time of Kulottuṅga Cōḻa, year 18</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -102,14 +102,14 @@
 	</ab>
 	
 	<p>
-		tiripuvaṉa-c cakkara-vattikaḷ <hi rend="grantha">śrī</hi>kulottuṅka-cōḻa-tevaṟku yāṇṭu 10 8-vatu			
+		tiri-puvaṉa-c cakkara-va<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-kulottuṅka-cōḻa-tevaṟku yāṇṭu <num value="18"><g type="numeral">10</g> 8</num>-vatu			
 	</p>
 	
 	<p>
 		<lb n="2"/>Uṭaiyār <unclear>tiruvaṇ</unclear>ṇāmalai Uṭaiya nāyaṉāṟku mātēvar makan<unclear>ār kali</unclear>tēvaṉāṉa <unclear>Imma</unclear>
-		<lb n="3" break="no"/>ṭi cerakka-p perumāḷ-āṉa murai<unclear>y</unclear>ātarāyan-ēṉ tiruppaḷḷi Eḻucci-p puṟam āka viṭṭa muraicūr nāṭṭu
-		<lb n="4"/>kiḻcūṟṟi<supplied reason="omitted">l</supplied> cāliyūr-p paṟṟil me<unclear>r</unclear>āṉpaḷḷi nāṟpāl Ellaiyum tiruc<unclear>cū</unclear>la-k kalalukku Ullu<supplied reason="omitted">m</supplied> cantirātittavarai celvat’ āka kal veṭṭi-k kuṭuttēṉ muraiyā
-		<lb n="5"/>tarāyanēṉ Itil Oru mācciṉanam koḷvāṉ keṅkai-k karaiyil kurāl pacu-k koṉṟāṉ pāvam koḷvāṉ Itu viṭuvittāṉ Aṇṭār Amarapuyaṅkara-p perumā<unclear>ḷ</unclear> paṉmā<hi rend="grantha">heśvarar rakṣai</hi>
+		<lb n="3" break="no"/>ṭi cerakka-p perumāḷ-āṉa murai<unclear>y</unclear>ātarāyan-ēṉ tiruppaḷḷi Eḻucci-p puṟam āka viṭṭa muraicūr-nāṭṭu
+		<lb n="4"/>k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-cūṟṟi<supplied reason="omitted">l</supplied> cāliyūr-p paṟṟil me<unclear>r</unclear>āṉpaḷḷi nāṟpāl Ellaiyum tiruc<unclear>cū</unclear>la-k kalalukku Ullu<supplied reason="omitted">m</supplied> cantirātittavarai celvat’ āka kal veṭṭi-k kuṭuttēṉ muraiyā
+		<lb n="5"/>tarāyanēṉ Itil Oru mācciṉanam koḷvāṉ keṅkai-k karaiyil kurāl pacu-k koṉṟāṉ pāvam koḷvāṉ Itu viṭuvittāṉ Aṇṭār Amara-puyaṅkara-p perumā<unclear>ḷ</unclear> paṉmā<hi rend="grantha">heśvarar rakṣai</hi>
 	</p>
 	
 </div>
@@ -130,19 +130,18 @@
 <div type="translation" source="bib:SubrahmanyaAiyer1937_01">
 			
 	<p>Hail! Prosperity! (It is) the year 18 (of the reign) of (the king) Tiripuvaṉaccakkaravattikaḷ (emperor over the three worlds) śrī-Kulōttuṅkacōḻatēvar. I, Kalitēvaṉ,<hi rend="italic">alias</hi>Cokkapperumāḷ<hi rend="italic">alias</hi>Muraiyātarāyaṉ, the son of Mātēvar, gave as <foreign>tiruppaḷḷi eḻuccipuṟam</foreign> (i.e., provision for the service of waking up for the god Tiruvaṇṇāmalai uṭaiya nāyaṉār, Mērāṉpaḷḷi, situated in Cāliyūr-paṟṟu on the eastern side of the Muraicūr-nāṭu with all the lands within its four boundaries where stones marked with trident symbol were put, to last as long as the moon and the sun endure, by engraving (the document) on the stone. If any one took away <foreign>oru mācciṉam</foreign> (an iota) of this gift, he would be considered to have committed the sin of one who had killed a tawny cow on the bank of the Gaṅgā. This was released by Āṇṭār Amarapuyaṅkapperumāḷ. (This is) protected by the <foreign>Paṉ-Māheśvaras</foreign>.</p>
-			
+	
 </div>	
     
 <!-- <div type="commentary">
 			
 </div>-->
 			
-<div type="bibliography"><!--TO BE UPDATED: copied from another file-->
+<div type="bibliography">
 				
     <p>Reported in <bibl><ptr target="bib:ARIE1902-1903"/></bibl> (ARIE/1902-1903/A/1902/537).</p>	
     <p>First edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.127).</p>
-    <p>This edition by Renato Dávalos and Emmanuel Francis (2024), based on previous editions.</p>	  
-    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+    <p>This digital edition by Renato Dávalos and Emmanuel Francis (2024), based on previous editions.</p>
     
     <listBibl type="primary">
         
@@ -168,4 +167,3 @@
 </body>
     </text>
 </TEI>
-

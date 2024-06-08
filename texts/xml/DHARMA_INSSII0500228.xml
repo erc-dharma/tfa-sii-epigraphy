@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Pērūr, Gōshṭhīśvara temple, time of Karikāla Cōḻa, year 2</title>
+				<title>Pērūr, Gōshṭhīśvara, time of Karikāla Cōḻa, year 2</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -105,9 +105,8 @@
 		<lb n="1"/>svasti śrī
 	</ab>
 		
-		
 	<p>
-		<hi rend="grantha">tribhu</hi>vana-c-cakkara-vatti <hi rend="grantha">śrī-</hi>ka<unclear>ri</unclear>kāla-c<unclear>ō</unclear>ḻa-tēvaṟkku-t tiru-v-eḻutt’ iṭṭu-c
+		<hi rend="grantha">tri-bhu</hi>vana-c-cakkara-va<reg>r</reg>tti <hi rend="grantha">śrī-</hi>ka<unclear>ri</unclear>kāla-c<unclear>ō</unclear>ḻa-tēvaṟkku-t tiru-v-eḻutt’ iṭṭu-c
 		
 		<lb n="2"/>cellā ni<choice><orig>n</orig><reg>ṉ</reg></choice>ṟa tiru-nall-iyāṇṭu 2 Āvati<choice><orig>n</orig><reg>ṉ</reg></choice> Etir Etir Etir Etir
 	</p> 
@@ -158,41 +157,39 @@
 	</p>
 </div>
 	
-			<div type="apparatus">
+<div type="apparatus">
 				
-				<listApp>
-					
-					<app loc="1">
-					<lem>c<unclear>ō</unclear>ḻa</lem>
-					<note>Only the <foreign>kompu</foreign> is clear.</note>
-					</app>	
-					
-					</listApp>	
+	<listApp>
+		
+		<app loc="1">
+			<lem>c<unclear>ō</unclear>ḻa</lem>
+			<note>Only the <foreign>kompu</foreign> is clear.</note>
+		</app>	
+		
+	</listApp>	
+	
+</div>
+	
+<div type="translation" resp="part:reda part:emfr">
 				
-			</div>
-			
-			<div type="translation" resp="part:reda part:emfr">
-				
-				<p n="1">
-					Prosperity! Fortune!		
-				</p>
-				
-				<p n="1-2">
-					Currently, the second year <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>etir etir etir etir</foreign></supplied> of the prosperous year signed by the king Tribhuvanac-cakkaravatti Śrīkarikāla-cōḻa. 
-					
-				</p>
-				
-				<p n="2-6">
-					This is the land that is bestowed for the graceful offering of sacred water on the day of the  Uttirāṭam festival, the birthday of the queen who gracefully established the festival in the month of Aṟpikai (Aippaci). That is, the holy festival that we have seen on the day of our queen dedicated to Āḷuṭaiyār Tiruvānpaṭṭiyāṇṭār of Pērūr, located in Pērūrnāṭu of Kōnēṟṟiṉmaikoṇṭāṉ. 
-				</p>
-				
-				<p n="6-10">
-					The allowance (<foreign>paṭi</foreign>) for rice (<foreign>amutupaṭi</foreign>) is doubled for feeding [devotees] during the festival <foreign>tirunāḷ paṭiyil</foreign>. The offerings of food made (<foreign>amutuceyyum</foreign>) for the guardians of the eight directions (<foreign>aṣṭaparipālaṉam</foreign>) [which are seated] at the sacrificial hall <foreign>yāgamaṇṭapa</foreign> [is the following]: betel-leaves, areca-nut, oil lamp, sugar, curds, butter, lentils, pepper, salt, curry.	
-				</p>
-				
-				
-				
-			</div>
+	<p n="1">
+		Prosperity! Fortune!		
+	</p>
+	
+	<p n="1-2">
+		Currently, the second year <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>etir etir etir etir</foreign></supplied> of the prosperous year signed by the king Tribhuvanac-cakkaravatti Śrīkarikāla-cōḻa. 
+		
+	</p>
+	
+	<p n="2-6">
+		This is the land that is bestowed for the graceful offering of sacred water on the day of the  Uttirāṭam festival, the birthday of the queen who gracefully established the festival in the month of Aṟpikai (Aippaci). That is, the holy festival that we have seen on the day of our queen dedicated to Āḷuṭaiyār Tiruvānpaṭṭiyāṇṭār of Pērūr, located in Pērūrnāṭu of Kōnēṟṟiṉmaikoṇṭāṉ. 
+	</p>
+	
+	<p n="6-10">
+		The allowance (<foreign>paṭi</foreign>) for rice (<foreign>amutupaṭi</foreign>) is doubled for feeding [devotees] during the festival <foreign>tirunāḷ paṭiyil</foreign>. The offerings of food made (<foreign>amutuceyyum</foreign>) for the guardians of the eight directions (<foreign>aṣṭaparipālaṉam</foreign>) [which are seated] at the sacrificial hall <foreign>yāgamaṇṭapa</foreign> [is the following]: betel-leaves, areca-nut, oil lamp, sugar, curds, butter, lentils, pepper, salt, curry.	
+	</p>
+	
+</div>
 			
 <div type="commentary">
 		
@@ -203,8 +200,7 @@
 	
     <p>Reported in <bibl><ptr target="bib:ARIE1893-1894"/></bibl> (ARIE/1893-1894/A/1893/552).</p>
     <p>Edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5.228).</p>
-    <p>This edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl>.</p>
-    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+    <p>This digitl edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl>. This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
     
     <listBibl type="primary">
         

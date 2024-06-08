@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 		    <titleStmt>
-		        <title>Kōvintaputtūr, Gaṅgājaṭādhara Temple, time of Uttamacōḻa, no year</title>
+		        <title>Kōvintaputtūr, Gaṅgājaṭādhara, time of Uttamacōḻa, no year</title>
 		        <respStmt>
 		            <resp>intellectual authorship of edition</resp>
 		            <persName ref="part:vagi">
@@ -160,17 +160,17 @@
 	
 </div>-->
          
-<div type="translation" resp="part:reda part:emfr">
+<!--<div type="translation" resp="part:reda part:emfr">
 	
 	<p n="1-42">
-		<!--I think it would be better to  mention that there is a translation made by Leslie Orr (2000: 117-118) and avoid duplication of a translation that is actually not so important for my own purposes, since the portion I want to use is barely two or three lines long. Can I do that?-->
+		<!-\-I think it would be better to  mention that there is a translation made by Leslie Orr (2000: 117-118) and avoid duplication of a translation that is actually not so important for my own purposes, since the portion I want to use is barely two or three lines long. Can I do that?-\->
 	</p>
 	
-</div>
+</div>-->
          
 <div type="commentary">
          	
-	<p>The record contains no internal date. It might be dated to the year 14 of Uttamacōḻa, which is the internal date of DHARMA_INSSII1900357-1<!--update with link-->, that <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> takes as the first part of the present record.
+	<p>The record contains no internal date. It might be dated to the year 14 of Uttamacōḻa, which is the internal date of <ref target="DHARMA_INSSII1900357-1.xml">SII 19.357-1</ref>, that <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> takes as the first part of the present record.
 	</p>
 	
 </div>
@@ -179,8 +179,7 @@
             
     <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/164).</p>
     <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.357, lines 41-82). For lines 1-41, that <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> takes as the first part of the present record, see (see <ref target="DHARMA_INSSII1900357-1.xml">SII 357-1</ref>).; edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>.</p>
-    <p>This edition by Valérie Gillet (2023). Encoded by Renato Dávalos and Emmanuel Francis.</p>
-    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>   
+    <p>This edition by Valérie Gillet (2023). Curated by Renato Dávalos and Emmanuel Francis.</p>
     
     <listBibl type="primary">
         
