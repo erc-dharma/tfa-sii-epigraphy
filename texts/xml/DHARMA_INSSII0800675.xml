@@ -90,33 +90,37 @@
 	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
          		<lb n="1"/>svasti śrī
          	</ab>
+    
          	<lg n="1" met="āciriyappā">
-         		<l n="1">tiṅka<unclear>ḷēr taru taṉ</unclear> toṅkal veṇ-kuṭai-k k<choice><sic>i</sic><corr>ī</corr></choice><unclear>ḻ</unclear></l>
-         		<l n="2"><supplied reason="lost">nila-makaḷ nilava malar</supplied>-makaṭ-p <unclear>pu</unclear>ṇara</l>
-         		<l n="3"><supplied cert="low" reason="lost">ceṅkol</supplied><gap reason="lost" quantity="1" unit="character"/>l ōcci-k karuṅ kali kaṭint<supplied cert="low" reason="lost">uṭaṉ</supplied></l>
-       
-         		<l n="4">maṉ<unclear>ṉupa</unclear>ll ūḻiyuḷ-t teṉ<unclear>ṉavar</unclear> <lb n="2"/>muvaruḷ</l>
-         		<l n="5"><gap reason="lost" unit="character" quantity="6"/>ṟ</l>
-         		<l n="6">parumatiṭ-p pacu<unclear>n</unclear>talai <gap reason="lost" quantity="8" unit="character"/></l>
-         		<l n="7">ṉa Āṉai k-ki<gap unit="character" quantity="8" reason="undefined"/></l>
-         		<l n="8">cuntara-pāṇṭiyaṉai-<unclear>t</unclear> ticai <gap reason="lost" quantity="4" unit="character"/></l>
-         		<l n="9">t<unclear>ō</unclear>llaiyil <unclear>mu</unclear>llai <gap reason="lost" unit="character" quantity="2"/> <lb n="3" break="no"/>-t turatti Olkalil</l>
-         		<l n="10">vē<supplied reason="lost">ṇāṭṭ' aracarai-c cō</supplied>ṇāṭṭ’ ot<choice><sic>u</sic><corr>i</corr></choice>kki</l>
-         		<l n="11"><gap reason="lost" quantity="10" unit="character"/> muṉi<unclear>ntu</unclear></l>
-         		<l n="12"><surplus>tu</surplus>vēlai <unclear>keḻu kā</unclear>n=taḷū<unclear>r-c</unclear> cālai kala<unclear>m a</unclear>ṟutt’</l>
-         		<l n="13">ā<hi rend="grantha">ha</hi>vamallanum Añca-<unclear>k</unclear> kēvutaṉ</l>
-         		<l n="14">ṟāṅka<lb n="4" break="no"/>rum paṭaiyāl Āṅ<unclear>ka</unclear>vaṉ kē <gap reason="lost" unit="character" quantity="9"/></l>
-         		<l n="15"><gap quantity="9" unit="character" reason="undefined"/> <unclear>ma</unclear>ṭiya-t tiṇ-<unclear>ṭiṟal</unclear></l>
-         		<l n="16">vi<unclear>ri</unclear>taru vikkiyam vicaiyātitta<choice><orig>n</orig><reg>ṉ</reg></choice>um</l>
-         		<l n="17">tarumuraṭ c<choice><sic>a</sic><corr>ā</corr></choice>ṅka ma<orig>i</orig>yyanu<supplied reason="subaudible">m</supplied> mutali<lb n="5" break="no"/>ṉar </l>
-         		<l n="18"><hi rend="grantha">samara-bhī</hi>ruvo t-<unclear>tuṭ</unclear>ai<supplied reason="lost">ya nimi cuṭar</supplied></l>
-         		<l n="19"><unclear>ta</unclear>ṉṉāṭai yiṟ<choice><sic><hi rend="grantha">ja</hi></sic><corr>ca</corr></choice>yaṅ koṇṭu tuṉṉār</l>
-         		<l n="20">koḷḷi-p-pākkai Oḷḷeri maṭuttu</l>
-         		<l n="21">villavar miṉa<lb n="6" break="no"/>var veñciṉa c<choice><sic>ā</sic><corr>a</corr></choice>ḷ<choice><sic>ū</sic><corr>u</corr></choice>kkiyar</l>
-         		<l n="22">valla<unclear>va</unclear>r mutal eṉa <unclear>viḷaṅka</unclear> v<choice><sic>i</sic><corr>ī</corr></choice>ṟṟ-irunta</l><!--@emfr: differing verse fr. critical edition-->
-         		<l n="23"><hi rend="grantha">j<choice><sic>e</sic><corr>a</corr></choice></hi>yaṅ-koṇṭa-cō<unclear>ḻa</unclear>ṉ Uyarn=ta perum-pukaḻ-k</l>
-         	
-         	</lg> 
+         	    <l n="1">tiṅka<unclear>ḷēr taru taṉ</unclear> toṅkal veṇ-kuṭai-k k<choice><sic>i</sic><corr>ī</corr></choice><unclear>ḻ</unclear></l>
+         	    <l n="2"><supplied reason="lost">nila-makaḷ nilava malar</supplied>-makaṭ-p <unclear>pu</unclear>ṇara</l>
+         	    <l n="3"><supplied cert="low" reason="lost">ceṅkol</supplied> ōcci-k karuṅ kali kaṭint<supplied cert="low" reason="lost">uṭaṉ</supplied></l>
+         	    
+         	    <l n="4">maṉ<unclear>ṉupa</unclear>ll ūḻiyuḷ-t teṉ<unclear>ṉavar</unclear> <lb n="2"/>muvaruḷ</l>
+         	    <l n="5"><gap reason="lost" unit="character" quantity="6"/> ṟ</l>
+         	    <l n="6">parumatiṭ-p pacu<unclear>n</unclear>talai <gap reason="lost" quantity="8" unit="character"/></l>
+         	    <l n="7">ṉa Āṉai k-ki <gap unit="character" quantity="8" reason="undefined"/></l>
+         	    <l n="8">cuntara-pāṇṭiyaṉai-<unclear>t</unclear> ticai <gap reason="lost" quantity="4" unit="character"/></l>
+         	    <l n="9">t<unclear>ō</unclear>llaiyil <unclear>mu</unclear>llai <gap reason="lost" unit="character" quantity="2"/> <lb n="3" break="no"/>-t turatti Olkalil</l>
+         	    <l n="10">vē<supplied reason="lost">ṇāṭṭ' aracarai-c cō</supplied>ṇāṭṭ’ ot<choice><sic>u</sic><corr>i</corr></choice>kki</l>
+         	    <l n="11"><gap reason="lost" quantity="10" unit="character"/> muṉi<unclear>ntu</unclear></l>
+         	    <l n="12"><surplus>tu</surplus>vēlai <unclear>keḻu kā</unclear>n=taḷū<unclear>r-c</unclear> cālai kala<unclear>m a</unclear>ṟutt’</l>
+         	    <l n="13">ā<hi rend="grantha">ha</hi>vamallanum Añca-<unclear>k</unclear> kēvutaṉ</l>
+         	    <l n="14">ṟāṅka<lb n="4" break="no"/>rum paṭaiyāl Āṅ<unclear>ka</unclear>vaṉ kē <gap reason="lost" unit="character" quantity="5"/></l>
+         	    
+         	    <l n="15"><gap reason="lost" unit="character" quantity="6" precision="low"/> ṉu <gap reason="lost" unit="character" quantity="7" precision="low"/></l>
+         	    
+         	    <l n="16"><gap quantity="9" unit="character" reason="undefined" precision="low"/> <unclear>ma</unclear>ṭiya-t tiṇ-<unclear>ṭiṟal</unclear></l>
+         	    <l n="17">vi<unclear>ri</unclear>taru vikkiyam vicaiyātitta<choice><orig>n</orig><reg>ṉ</reg></choice>um</l>
+         	    <l n="18">tarumuraṭ c<choice><sic>a</sic><corr>ā</corr></choice>ṅka ma<orig>i</orig>yyanu<supplied reason="subaudible">m</supplied> mutali<lb n="5" break="no"/>ṉar </l>
+         	    <l n="19"><hi rend="grantha">samara-bhī</hi>ruvot<unclear>t' uṭ</unclear>ai<supplied reason="lost">ya nimi cuṭar</supplied></l>
+         	    <l n="20"><unclear>ta</unclear>ṉṉāṭai yiṟ<choice><sic><hi rend="grantha">ja</hi></sic><corr>ca</corr></choice>yaṅ koṇṭu tuṉṉār</l>
+         	    <l n="21">koḷḷi-p-pākkai Oḷḷeri maṭuttu</l>
+         	    <l n="22">villavar miṉa<lb n="6" break="no"/>var veñciṉa c<choice><sic>ā</sic><corr>a</corr></choice>ḷ<choice><sic>ū</sic><corr>u</corr></choice>kkiyar</l>
+         	    <l n="23">valla<unclear>va</unclear>r mutal eṉa <unclear>viḷaṅka</unclear> v<choice><sic>i</sic><corr>ī</corr></choice>ṟṟ-irunta</l><!--@emfr: differing verse fr. critical edition-->
+         	    <l n="24"><hi rend="grantha">j<choice><sic>e</sic><corr>a</corr></choice></hi>yaṅ-koṇṭa-cō<unclear>ḻa</unclear>ṉ Uyarn=ta perum-pukaḻ-k</l>         	
+         	</lg>
+    
          	<p>          
          	kō-v-irā<hi rend="grantha">ja</hi>-kēcari-pa<hi rend="grantha">ṉma</hi>r-āṉa Uṭaiyār <hi rend="grantha">śrī</hi>-<surplus>ri</surplus><hi rend="grantha">rāj<choice><sic>a</sic><corr>ā</corr></choice>dhi</hi>rāja
          	    <lb n="7" break="no"/>-<hi rend="grantha">deva</hi>ṟk’ iyāṇṭu <num value="27"><unclear>2 <g type="numeral">10</g> </unclear> 7</num><unclear>-Ā</unclear>vatu	  
@@ -125,15 +129,15 @@
          		kō-ṉērimai-koṇtāṉ nan tamar Eppē<surplus>r</surplus>ṟpaṭṭāṟkum 
          		<list>
          			<item>
-         				kēraḷāntaka-vaḷanāṭṭu Uṟaiyūr-k-kūṟṟattu tiru-vaṭakuṭi <hi rend="grantha">ma<unclear>h</unclear>ā 
-         				<lb n="8" break="no"/>⌉-de</hi>vaṟ <hi rend="grantha">stā</hi>ṉa-<unclear>maṭa</unclear>m tēvārattukku tiru-p-pa<unclear>tiyam vi</unclear>ṇṇappam ceyum Ampalattāṭi tiru-nāvukk-araiyaṉukkum Ivaṉ vaṟkkatārkkum tāṉa
-         				<lb n="9" break="no"/><unclear>nimi</unclear>t<hi rend="grantha">tya</hi>m-āka kuṭuttōm <unclear>E</unclear>ṉṟum
+         				kēraḷāntaka-vaḷanāṭṭu Uṟaiyūr-k-kūṟṟattu tiru-vaṭa-kuṭi <hi rend="grantha">ma<unclear>h</unclear>ā 
+         				<lb n="8" break="no"/>⌉-de</hi>vaṟ <hi rend="grantha">stā</hi>ṉa-<unclear>maṭa</unclear>m tēvārattukku tiru-p-pa<unclear>tiyam vi</unclear>ṇṇappam ce<choice><orig>y</orig><reg>yy</reg></choice>um Ampalattāṭi tiru-nāvukk-araiyaṉukkum Ivaṉ vaṟkkatārkkum tāṉa
+         				<lb n="9" break="no"/>-<unclear>nimi</unclear>t<hi rend="grantha">tya</hi>m-āka kuṭuttōm <unclear>E</unclear>ṉṟum
          			</item>
          			<item>
-         				It-tēvar paṇṭarattē maṭa-pōkam-āka nittam tūṇi nel koḷḷa-<supplied reason="omitted">c</supplied> coṉṉām Eṉṟum
+         				It-tēvar paṇṭarattē maṭa-pōkam-āka nittam tūṇi nel koḷḷa-<supplied reason="omitted">c</supplied> coṉṉōm Eṉṟum
          			</item>
          		</list>
-         		Aiyyariṭaiyil I
+         		Aiyyar-iṭaiyil I
          		<lb n="10" break="no"/>vaṉ muṉpu peṟṟ-uṭaiya tirumuka-p paṭiyē nāmum kuṭuttōm
          	</p>
          	<p>
@@ -144,7 +148,7 @@
          	        </item>
          	        <item>
          	            It-tēvar ci
-         	            <lb n="11" break="no"/>va-<hi rend="grantha">br<surplus>ra</surplus>āma</hi>ṇar Uḷḷiṭṭa pala-paṇi<hi rend="grantha">ya</hi> nivantakkāṟaraiyum nivantaṅkaḷum Iva<choice><orig>n</orig><reg>ṉ</reg></choice>ē I<hi rend="grantha">ṭa</hi>vum māṟ<unclear>ṟa</unclear>vum
+         	            <lb n="11" break="no"/>va-<hi rend="grantha">br<surplus>ra</surplus>āma</hi>ṇar Uḷḷiṭṭa pala-paṇ<surplus><hi rend="grantha">y</hi></surplus>i-nivantakkāṟaraiyum nivantaṅkaḷum Iva<choice><orig>n</orig><reg>ṉ</reg></choice>ē I<hi rend="grantha">ṭa</hi>vum māṟ<unclear>ṟa</unclear>vum
          	        </item>
          	        <item>
          	            peṟuvāṉ ākavum
@@ -155,7 +159,7 @@
          	</p>
          	<p>
          		Ivaṉ Aiyya 
-         		<lb n="12" break="no"/><supplied reason="lost">riṭai</supplied> <gap reason="lost" unit="character" quantity="5"/> <supplied reason="lost">tiru-mu</supplied>ka-p paṭiyē <gap quantity="4" unit="character" reason="undefined"/>
+         		<lb n="12" break="no"/><supplied reason="lost">r-iṭai</supplied> <gap reason="lost" unit="character" quantity="5"/> <supplied reason="lost">tiru-mu</supplied>ka-p paṭiyē <gap quantity="4" unit="character" reason="undefined"/>
          		<lb n="13"/><gap reason="lost" unit="character" quantity="8"/> ṟuvaṉ āka coṉ <gap reason="lost" unit="character" quantity="7"/>
          		<lb n="14"/><gap reason="lost" unit="character" quantity="8"/> Eḻuttu
          	</p>
@@ -175,6 +179,11 @@
             <lem></lem>
             <rdg source="bib:SubrahmanyaAiyer1937_01"></rdg>			
         </app>-->
+        
+        <app loc="1">
+            <lem><supplied cert="low" reason="lost">ceṅkol</supplied> ōccik</lem>
+            <rdg source="bib:SubrahmanyaAiyer1937_01"><gap reason="lost" unit="character" quantity="7"/> loccik</rdg>			
+        </app>
         
         <app loc="3">
             <lem>vē <gap reason="lost" unit="character" quantity="7"/> ṇāṭṭo</lem>
@@ -213,8 +222,9 @@
         To whomever kingsmen of Kōṉēriṉmaikoṇṭāṉ,
         
         <list>
-            <item>having said that <quote>We have given, as ritual <supplied reason="explanation"><foreign>nimittya</foreign></supplied> provisions <supplied reason="explanation"><foreign>tāṉa</foreign></supplied>, for [the benefit] of all our people, to Ampalattāṭi Tirunāvukkaraiyaṉ and his lineage, who are the reciters of holy hymns <supplied reason="explanation"><foreign>tiruppatiyam viṇṇappam ceyum</foreign></supplied> at/for the <foreign>tēvāram</foreign><note>discussion of the meaning of this word</note> of the monastery of the temple [dedicated to] Mahādevar in Tiruvaṭakuṭi within the Uraiyūr-kūṟṟam in Kēraḷāntaka-vaḷa-ṇāṭu</quote></item>
-            <item>and having said that <quote>We commanded <supplied reason="explanation"><foreign>coṉṉām</foreign></supplied> to take <supplied reason="explanation"><foreign>koḷḷa</foreign></supplied> one <foreign>tūṇi</foreign> of paddy daily for the enjoyment <supplied reason="explanation"><foreign>pōkam-āka</foreign></supplied> of the monastery <supplied reason="explanation"><foreign>maṭam</foreign></supplied> from the treasury of this god.</quote></item>
+            <item>having said that <quote>We have given, for the purpose of a donation <supplied reason="explanation"><foreign>tāṉa-nimit<hi rend="grantha">tya</hi>m</foreign></supplied><!--RD: as ritual (nimittya) provisions (tāṉa), for [the benefit] of all our people--> 
+                to Ampalattāṭi Tirunāvukkaraiyaṉ and his lineage, who make recitation of holy hymns <supplied reason="explanation"><foreign>tiruppatiyam viṇṇappam ce<choice><orig>y</orig><reg>y</reg></choice>um</foreign></supplied> at/for the <foreign>tēvāram</foreign><note>The meaning of <foreign>tēvāram</foreign> is unclear.</note> of the <foreign><hi rend="grantha">stā</hi>ṉa-<unclear>maṭa</unclear></foreign>m<!--RD: monastery of the temple EF: maybe simply monastery--> <supplied reason="subaudible">of</supplied> Mahādevar <supplied reason="subaudible">in</supplied> Tiruvaṭakuṭi in the Uraiyūr-kūṟṟam <supplied reason="subaudible">itself a subdivision</supplied> in the Kēraḷāntaka-vaḷa-ṇāṭu</quote></item>
+            <item>and having said that <quote>We commanded <supplied reason="explanation"><foreign>coṉṉōm</foreign></supplied> to take <supplied reason="explanation"><foreign>koḷḷa</foreign></supplied> perpetually <supplied reason="explanation"><foreign>nittam</foreign></supplied> <supplied reason="subaudible">one</supplied> <foreign>tūṇi</foreign> of paddy for the enjoyment <supplied reason="explanation"><foreign>pōkam-āka</foreign></supplied> of the monastery <supplied reason="explanation"><foreign>maṭam</foreign></supplied> from the treasury of this god.</quote></item>
         </list>
         
         We have given <supplied reason="subaudible">so</supplied>, according to <supplied reason="subaudible">our</supplied> royal command <supplied reason="explanation"><foreign>tirumukap paṭi</foreign></supplied>, 
@@ -224,8 +234,8 @@
     <p n="10-11">
         So that
          <list>
-            <item>he makes the endowment <supplied reason="explanation"><foreign>nivantaṅkaḷ ceyyavum</foreign></supplied> to the temple servants <supplied reason="explanation"><foreign>nivantakkāṟar</foreign></supplied> who perform various services [in the temple], at the aforementioned rate <supplied reason="explanation"><foreign>coṉṉa vaṇṇamē</foreign></supplied>,</item>
-            <item>he rotates <supplied reason="explanation"><foreign>māṟṟavum</foreign></supplied> and appoint <supplied reason="explanation"><foreign>iṭavum</foreign></supplied> the endowments and the temple servants who perform different services, including the Śivabrāhmaṇas of this god,</item>
+            <item>he sets up <supplied reason="explanation"><foreign>ceyyavum</foreign><note>Literally, "makes".</note></supplied> the endowments <supplied reason="explanation"><foreign>nivantaṅkaḷ </foreign></supplied> and appoints <supplied reason="explanation"><foreign>ceyyavum</foreign><note>Literally, "makes".</note></supplied>  the temple servants <supplied reason="explanation"><foreign>nivantakkāṟar</foreign></supplied> who perform various services, at the aforementioned way <supplied reason="explanation"><foreign>coṉṉa vaṇṇamē</foreign></supplied>,</item>
+            <item>he rotates <supplied reason="explanation"><foreign>māṟṟavum</foreign></supplied> and sets up <supplied reason="explanation"><foreign>iṭavum</foreign><note>Literally, "puts".</note></supplied> the endowments <supplied reason="explanation"><foreign>nivantaṅkaḷ</foreign></supplied> the endowments and appoints <supplied reason="explanation"><foreign>iṭavum</foreign><note>Literally, "puts".</note></supplied> the temple servants who perform different services, including the Śivabrāhmaṇas of this god,</item>
              <item>he obtains <supplied reason="explanation"><foreign>peṟuvāṉ</foreign></supplied> <supplied reason="subaudible">this</supplied>,
        </item>             
         </list>
