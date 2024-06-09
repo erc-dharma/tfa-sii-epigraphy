@@ -92,20 +92,20 @@
          	</ab>
          	
          	<p>          
-         		<hi rend="grantha">śrī</hi>-<choice><sic><hi rend="grantha">mat·</hi></sic><corr>mey</corr></choice><hi rend="grantha">kīrtti</hi>kku mēl kō-c-caṭa-paṉmar-āṉa tiri-puvaṉa-c-cakkarava<reg>r</reg>ttikaḷ cuntara-pāṇṭiya-tēvarkku yāṇṭu <num value="14"><g type="numeral">10</g> 4</num>-vatu 	
+         		<hi rend="grantha">śrī</hi>-<choice><sic><hi rend="grantha">mat·</hi></sic><corr>mey</corr></choice><hi rend="grantha">kīrtti</hi>kku mēl kō-c-caṭ<choice><sic>a</sic><corr>ai</corr></choice>-paṉmar-āṉa tiri-puvaṉa-c-cakkara-va<reg>r</reg>ttikaḷ cuntara-pāṇṭiya-tēvarkku yāṇṭu <num value="14"><g type="numeral">10</g> 4</num>-vatu 	
          	</p>
          	
          	<p>
          		Uṭaiyār tiru
-         		<lb n="2" break="no"/>-k-kaṇṇicuram-uṭaiyār kōyil Āticaṇṭēcura-tēvarkkum <hi rend="grantha">śrī</hi>-m<choice><sic>ā</sic><corr>a</corr></choice>kēcurarkkum Irāca-kaṇkāṇikku-k kaṭavārkkum cōḻa-kulavalli nallūr
-         		<lb n="3"/>Ūr-mutalikaḷukkum In-nāyaṉār kōyil muppatu vaṭṭattu-k kāṇi Uṭaiya civappirāmaṇarōm cōḻa-kulavalli nallūr mēyūr mi
-         		<lb n="4" break="no"/>laiyaṅ kiḻāṉ Aḻakiya tirucciṟṟampalam-uṭaiyāṉ maṉṟiṟ kuṉikkum perumāṉ-āṉa Apimāṉa-tuṅka-p-pallavaraiyar 
+         		<lb n="2" break="no"/>-k-kaṇṇicuram-uṭaiyār kōyil Āti-caṇṭēcura-tēvarkkum <hi rend="grantha">śrī</hi>-m<choice><sic>ā</sic><corr>a</corr></choice>kēcurarkkum Irāca-kaṇkāṇikku-k kaṭavārkkum cōḻa-kulavalli nallūr
+         		<lb n="3"/>Ūr-mutalikaḷukkum In-nāyaṉār kōyil muppatu vaṭṭattu-k kāṇi Uṭaiya civa-p-pirāmaṇarōm cōḻa-kulavalli nallūr mēyūr mi
+         		<lb n="4" break="no"/>laiyaṅ kiḻāṉ Aḻakiya tiru-c-ciṟṟ-ampalam-uṭaiyāṉ maṉṟiṟ kuṉikkum perumāṉ-āṉa Apimāṉa-tuṅka-p-pallavaraiyar 
          	</p>
          	
          	<p>
          		In-nā
-         		<lb n="5" break="no"/>yaṉārkku tiruppaḷḷi Eḻucci-y-āṉa paḻiyil pukaḻāḷaṉ cantikku nāṅkaḷ Ivar pakkal Upaiyaṅ koṇṭa Ivar kāṇi-y-āṉa nilattu In-nā	
-         		<lb n="6" break="no"/>yaṉārkku tirunāmattu-k-kāṇi Āka viṭṭa nilam-āvatu tiru-k-kaṇṇicura-k kaṭṭaḷaiyil 
+         		<lb n="5" break="no"/>yaṉārkku tiru-p-paḷḷi Eḻucci-y-āṉa paḻiyil pukaḻāḷaṉ cantikku nāṅkaḷ Ivar pakkal Upaiyaṅ koṇṭa Ivar kāṇi-y-āṉa nilattu In-nā	
+         		<lb n="6" break="no"/>yaṉārkku tiru-nāmattu-k-kāṇi Āka v-iṭṭa nilam-āvatu tiru-k-kaṇṇicura-k kaṭṭaḷaiyil 
          	</p>
          	
          	<p>
@@ -115,8 +115,7 @@
          	</p>
          	
          	<p>
-         		<lb n="9"/>Oru māvukku kiḻakku naṭuvupaṭṭa nilam-āy Ivar kāṇi-y-āy tirunāmattu-k-kāṇi Āka viṭṭa nilam
-         		
+         		<lb n="9"/>Oru māvukku kiḻakku naṭuvupaṭṭa nilam-āy Ivar kāṇi-y-āy tirunāmattu-k-kāṇi Āka viṭṭa nilam         		
          	</p>
          	
          	<p>
@@ -220,10 +219,9 @@
 
 <div type="bibliography">
 
-    <!--<p>Reported in <bibl><ptr target="bib:ARIE1934-1935"/></bibl> (ARIE/1934-1935/B/1934-1935/104).</p>-->
+    <p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/B/1904/151).</p>
     <p>Edited in <bibl><ptr target="bib:Krishnan1964_01"/></bibl> (SII 17.171).</p>
-    <p>This edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:Krishnan1964_01"/></bibl>.</p>	  
-    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+    <p>This digital edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:Krishnan1964_01"/></bibl>. This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
     
     <listBibl type="primary">
         
@@ -233,7 +231,18 @@
             <citedRange unit="item">171</citedRange>
         </bibl>
         
-    </listBibl>           
+    </listBibl>
+	
+	<listBibl type="secondary">
+        
+        <bibl>
+            <ptr target="bib:ARIE1903-1904"/>
+            <citedRange unit="page">37</citedRange>
+            <citedRange unit="appendix">B/1904</citedRange>
+            <citedRange unit="item">151</citedRange>
+        </bibl>	
+        
+    </listBibl>
     
 </div>
           
