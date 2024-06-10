@@ -88,31 +88,37 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
-    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-        <lb n="1"/>svasti śrī
-    </ab>
-    <p>
-        vi<hi rend="grantha">kra</hi>ma-cōḻa-tēvaṟku yāṇṭu <num value="17"><g type="numeral">10</g> 7</num>-Āvatu
-    </p>
-    <p>
-        milāṭ-ākiya jaṉa-nāta-vaḷa-nāṭṭu pānūṟ-kūṟṟattu <hi rend="grantha">brahma-de</hi>ya<supplied reason="omitted">m</supplied> Iṟaiyāṉaraiyūr-āṉa <hi rend="grantha">śrī</hi>-cōḻa-kēraḷa-c-catu<reg>r</reg>vvēti-maṅkalattu Ūrpākaṅ-koṇṭa tēvar
-        <lb n="2"/>kōyilil tiru-p-paḷḷi Aṟai Āḷuṭaiyāḷ tiru-nāyaṟṟu-k-kiḻamai tōṟum puṟampē Eḻunt-aruḷi-t tiru-c-cāḻal kēṭṭ-aruḷi Amutu ce<reg>y</reg>t-aruḷi kōyililai-c cuḻal Eḻuṉt-aruḷi mēlē Eḻunt-aruḷukaikku Aṟṟai nāḷaikku vēṇṭum Aḻivukku Uḷvari tiru
-        <lb n="3" break="no"/>-nāyaṟṟu-k kiḻamai Oṉṟukku ti 
-        <lb n="4" break="no"/>ru-v-amutu Arici mu-k-kuṟuṇikku nellu Eḻu kuṟuṇi nā-nāḻiyum kaṟi Amutukku nellu nā-nāḻiyum neyy-amutu Uḻakkukku nellu kuṟuṇiyum t<choice><orig>ai</orig><reg>a</reg></choice>yir Amutu Iru-nāḻikku nellu nā-nāḻiyum miḷa<unclear>k</unclear>ku  Amutu Oru paṭikku nellu muṉ-nāḻiyum Upp-amutu Urikku nellu Iru-nāIru-nā<supplied reason="lost">ḻi</supplied>
-        <lb n="5" break="no"/>yum tiruviḷakk' eṇṇai nāḻikku nellu-t tūṇiyum Aka nāḷ Oṉṟukku nellu-k kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē mu-k-kuṟuṇi Āka Ip-paṭi <hi rend="grantha">śan<choice><orig>t</orig><reg>d</reg></choice>r</hi>ātitta-vaṟ cella-k kaṭavat' āka Iṉ-nimaṉtam celkaikku taṟai Uṭaiyāṉ viccātiraṉ cakāyan-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a viñcirāyaṉ Ivv-ūr pā <gap unit="character" quantity="5" reason="lost"/>
-        <lb n="6"/>Ivv-iruvar pakka<unclear>l</unclear>lum vilai-koṇṭu viṭṭa cōḻa-kēraḷa-nallūrkku-k
-        
-        <list>
-            <item>kiḻ-pā<supplied reason="omitted">ṟ</supplied>kk' ellai <hi rend="grantha">de</hi>va-tāṉam nal Araicūr Ellai <unclear>mē</unclear><choice><sic>n=ku</sic><corr>ṟku</corr></choice>m piṭākai ciṟu-pāttu Ellaikku me<supplied reason="omitted">ṟ</supplied>kkum</item>
-            
-           <item>teṉ-pā<supplied reason="omitted">ṟ</supplied>kk' e<supplied reason="omitted">l</supplied>lai Ūri niṉṟum kumara-maṇkala-<supplied reason="omitted">t</supplied>-teṟa-p pō<choice><orig>n</orig><reg>ṉ</reg></choice>a vaḻikku vaṭakkum</item>
-            
-            <item>mēl-pā<supplied reason="omitted">ṟ</supplied>k<supplied reason="lost">k</supplied>' e<supplied reason="lost">llai</supplied> <gap reason="lost" unit="character" quantity="8"/></item></list>
-        
-        <lb n="7"/>Āka Icaitta peru-nāṅk' e<unclear>llai</unclear>-Uḷ Aka-p-paṭṭa Eriyum naṉ-ceyum puṉ-ceyum Ā<supplied reason="omitted">ka</supplied> It-taṉaiyum It-t<supplied reason="omitted">ē</supplied>var tiru-nāmattilē vilai-koṇṭu It-tanmam <hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>an<choice><orig>t</orig><reg>d</reg></choice>rā</hi>titta-vaṟ <hi rend="grantha">śrī</hi>-kāriyañ ceyvār mutal Iṭṭu-k koṇṭu <hi rend="grantha">śrī</hi>-paṇṭārattilē Aḷan=tu viṭṭu cella
-    </p>
-         </div>
-
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		<lb n="1"/>svasti śrī
+	</ab>
+	
+	<p>
+		vi<hi rend="grantha">kra</hi>ma-cōḻa-tēvaṟku yāṇṭu <num value="17"><g type="numeral">10</g> 7</num>-Āvatu
+	</p>
+	
+	<p>
+		milāṭ-ākiya jaṉa-nāta-vaḷa-nāṭṭu pānūṟ-kūṟṟattu <hi rend="grantha">brahma-de</hi>ya<supplied reason="omitted">m</supplied> Iṟaiyāṉaraiyūr-āṉa <hi rend="grantha">śrī</hi>-cōḻa-kēraḷa-c-catu<reg>r</reg>vvēti-maṅkalattu Ūrpākaṅ-koṇṭa tēvar
+		<lb n="2"/>kōyilil tiru-p-paḷḷi Aṟai Āḷuṭaiyāḷ tiru-nāyaṟṟu-k-kiḻamai tōṟum puṟampē Eḻunt-aruḷi-t tiru-c-cāḻal kēṭṭ-aruḷi Amutu ce<reg>y</reg>t-aruḷi kōyililai-c cuḻal Eḻuṉt-aruḷi mēlē Eḻunt-aruḷukaikku Aṟṟai nāḷaikku vēṇṭum Aḻivukku Uḷvari tiru
+		<lb n="3" break="no"/>-nāyaṟṟu-k kiḻamai Oṉṟukku ti 
+		<lb n="4" break="no"/>ru-v-amutu Arici mu-k-kuṟuṇikku nellu Eḻu kuṟuṇi nā-nāḻiyum kaṟi Amutukku nellu nā-nāḻiyum neyy-amutu Uḻakkukku nellu kuṟuṇiyum t<choice><orig>ai</orig><reg>a</reg></choice>yir Amutu Iru-nāḻikku nellu nā-nāḻiyum miḷa<unclear>k</unclear>ku  Amutu Oru paṭikku nellu muṉ-nāḻiyum Upp-amutu Urikku nellu Iru-nā<supplied reason="lost">ḻi</supplied>
+		<lb n="5" break="no"/>yum tiru-viḷakk' eṇṇai nāḻikku nellu-t tūṇiyum Aka nāḷ Oṉṟukku nellu-k kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē mu-k-kuṟuṇi Āka Ip-paṭi <hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>an<choice><orig>t</orig><reg>d</reg></choice>r</hi>ātitta-vaṟ cella-k kaṭavat' āka Iṉ-nimaṉtam celkaikku taṟai Uṭaiyāṉ viccātiraṉ cakāyan-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a viñcirāyaṉ Ivv-ūr pā <gap unit="character" quantity="5" reason="lost"/>
+	</p>
+	<p>
+		
+		<lb n="6"/>Ivv-iruvar pakka<unclear>l</unclear>lum vilai-koṇṭu v-iṭṭa cōḻa-kēraḷa-nallūrkku-k
+		
+		<list>
+			<item>kiḻ-pā<supplied reason="omitted">ṟ</supplied>kk' ellai <hi rend="grantha">de</hi>va-tāṉam nal Araicūr Ellai <unclear>mē</unclear><choice><sic>n=ku</sic><corr>ṟku</corr></choice>m piṭākai ciṟu-pāttu Ellaikku me<supplied reason="omitted">ṟ</supplied>kkum</item>
+			
+			<item>teṉ-pā<supplied reason="omitted">ṟ</supplied>kk' e<supplied reason="omitted">l</supplied>lai Ūri niṉṟum kumara-maṇkala-<supplied reason="omitted">t</supplied>-teṟa-p pō<choice><orig>n</orig><reg>ṉ</reg></choice>a vaḻikku vaṭakkum</item>
+			
+			<item>mēl-pā<supplied reason="omitted">ṟ</supplied>k<supplied reason="lost">k</supplied>' e<supplied reason="lost">llai</supplied> <gap reason="lost" unit="character" quantity="8"/></item></list>
+		
+		<lb n="7"/>Āka Icaitta peru-nāṅk' e<unclear>llai</unclear>-Uḷ Aka-p-paṭṭa Ēriyum naṉ-ceyum puṉ-ceyum Ā<supplied reason="omitted">ka</supplied> It-taṉaiyum It-t<supplied reason="omitted">ē</supplied>var tiru-nāmattilē vilai-koṇṭu It-ta<choice><orig>n</orig><reg>ṉ</reg></choice>mam <hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>an<choice><orig>t</orig><reg>d</reg></choice>rā</hi>titta-vaṟ <hi rend="grantha">śrī</hi>-kāriyañ ceyvār mutal Iṭṭu-k koṇṭu <hi rend="grantha">śrī</hi>-paṇṭārattilē Aḷan=tu viṭṭu cella
+	</p>
+	
+</div>
+	
  <div type="apparatus">
             
             <listApp>
@@ -135,9 +141,35 @@
             </listApp>
 </div>
 
-<!--<div type="translation">
-         	
-</div>-->
+<div type="translation" resp="part:reda part:emfr">
+	
+         	<p n="1">Prosperity! Fortune!</p>
+	
+         	<p n="1">17th year of the king Vikram Cōḻa.</p>
+	
+         	<p n="1-6">
+         		For the expenses <supplied reason="explanation"><foreign>aḻivukku</foreign></supplied> necessary <supplied reason="explanation"><foreign>vēṇṭum</foreign></supplied> for
+         		...,
+         		that is,
+         		...
+         		so that it is bound to go <supplied reason="explanation"><foreign>cella-k kaṭavat’ āka</foreign></supplied> as long as the moon and the sun
+         		...
+         	</p>
+	
+         	<p n="6-7">
+         		For Cōlakēraḷanallūr, which is given, after buying it from these two persons, whereas <supplied reason="subaudible">the boundaries</supplied> are <supplied reason="explanation"><foreign>āka</foreign></supplied> <supplied reason="subaudible">as follows</supplied>:
+         		<list>
+         			<item>the eastern boundary is west to ...</item>
+         			<item>the southern boundary is north to ...</item>
+         			<item>the western boundary <supplied reason="lost">is east to</supplied> <gap reason="lost"/></item>
+         		</list>
+         		whereas there are tank, wet-land and dry-land comprised within the four boundaries <supplied reason="subaudible">so</supplied> described,
+         		having bought that much in the glorious name of this God,
+         		this pious donation <supplied reason="explanation"><foreign>it-ta<choice><orig>n</orig><reg>ṉ</reg></choice>mam</foreign></supplied>
+         		...
+         	</p>
+	
+</div>
 
 <!--<div type="commentary">
          	
@@ -147,7 +179,7 @@
         
     <p>Reported in <bibl><ptr target="bib:ARIE1906-1907"/></bibl> (ARIE/1906-1907/B/1906/165).</p>
     <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 22.165).</p>
-    <p>This digital edition by Renato Dávalos and Emmanuel Francis (2024), based on <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl>.</p>    
+    <p>This digital edition by Renato Dávalos and Emmanuel Francis (2024), based on <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl>. This translation by Renato Dávalos and Emmanuel Francis (2024).</p>    
     <listBibl type="primary">
         
         <bibl n="SII">
