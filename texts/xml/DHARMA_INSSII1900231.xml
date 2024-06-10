@@ -146,7 +146,7 @@
 		<list>
 			<item> 
 				<unclear>paṇi</unclear><lb n="30" break="no"/>yāl <hi rend="grantha">madhyasta</hi>ṉ A<unclear>ma</unclear>ṇa
-				<lb n="31" break="no"/>-maṅka<hi rend="grantha">laya</hi>ṉ-āṉa <gap reason="lost" quantity="2" unit="character"/> nūṟṟu
+				<lb n="31" break="no"/>-maṅka<hi rend="grantha">laya</hi>ṉ-āṉa <supplied reason="lost">Ain</supplied>-nūṟṟu
 				<lb n="32" break="no"/>vaṉ muṉṉūṟṟuva
 				<lb n="33" break="no"/>ṉ-ē<choice><orig><unclear>n</unclear></orig><reg><unclear>ṉ</unclear></reg></choice> 
 				Ivai y-e<choice><orig>ṉn</orig><reg>ṉ</reg></choice> e<lb n="34" break="no"/>ḻuttu <g type="gomutraFinal">.</g>
@@ -177,16 +177,24 @@
 			<item> 
 				Ippaṭi <supplied reason="lost">paṇi</supplied>yāl <hi rend="grantha">ma</hi>
 				<lb n="43" break="no"/><hi rend="grantha">dhyasta</hi>ṉ <unclear>tiru</unclear>-veḷḷarai pe
-				<lb n="44"/><unclear>ruṇ</unclear>-kāviti-y-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a <gap reason="lost" quantity="6" unit="character"/>
+				<lb n="44" break="no"/><unclear>ruṇ</unclear>-kāviti-y-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a <gap reason="lost" quantity="6" unit="character"/>
 			</item>
 			
 		</list>
 	</p>
 </div>
 
-<!--   <div type="apparatus">
+<div type="apparatus">
+	
+	<listApp>
+		
+		<app loc="31">
+			<lem><supplied reason="lost">Ain</supplied>nūṟṟu<lb n="32" break="no"/>vaṉ</lem>
+			<rdg source="bib:SrinivasaRao1967_01"><gap reason="lost" quantity="2" unit="character"/> nūṟṟu<lb n="32" break="no"/>vaṉ</rdg>
+		</app>
+	</listApp>
             
-</div>-->
+</div>
 
 <div type="translation" resp="part:reda part:emfr">
          	     
@@ -198,7 +206,7 @@
 		There is
 		a livelihood allowance <supplied reason="explanation"><foreign>jīvitam</foreign></supplied>,
 		that 		
-		We, the great people of the greatassembly <supplied reason="explanation"><foreign>peruṅkuṟi perumakkaḷōm</foreign></supplied> of the Śrī-Kāmaravalli-caturvetimaṅkalam, a <foreign>brahmadeya</foreign> on the northern bank <supplied reason="subaudible">of the Kāvēri river</supplied>,
+		We, the great people of the great assembly <supplied reason="explanation"><foreign>peruṅkuṟi perumakkaḷōm</foreign></supplied> of the Śrī-Kāmaravalli-caturvetimaṅkalam, a <foreign>brahmadeya</foreign> on the northern bank <supplied reason="subaudible">of the Kāvēri river</supplied>,
 		
 		after having the drum beaten <supplied reason="explanation"><foreign>taṭṭaḻi koṭṭi</foreign></supplied> at the time of Kārttikai—which this year happened on a Thursday of the Dhanu month—,
 		having deliberated in the great assembly <supplied reason="explanation"><foreign>cāṟṟi</foreign></supplied>, 
@@ -244,16 +252,18 @@
 	<p n="29-44">
 		
 		<list>
-			<item>By order <supplied reason="explanation"><foreign>paṇiyāl</foreign></supplied>, <supplied reason="subaudible">of</supplied> I, the mediator <supplied reason="explanation"><foreign>madhyastaṉ</foreign></supplied>, <gap reason="lost"/>nūṟṟuvaṉ from the three hundred <hi rend="italic">alias</hi> Amaṇamaṅkalayaṉ, this is my signature.</item>
-	
-		<item>Through the order <supplied reason="explanation"><foreign>paṇiyāl</foreign></supplied> of the village officer <supplied reason="explanation"><foreign>madhyastaṉ</foreign></supplied> Brahmapiriyaṉ. This is my signature.</item>
-	
-		<item>Through the order <supplied reason="explanation"><foreign>paṇiyāl</foreign></supplied> <supplied reason="subaudible">commanded by</supplied> me Pūtaṉ Śrīkaṇṭa, <foreign>alias</foreign> Peruṅkāviti from Marutūr</item>
-	
-		<item>Through the order <supplied reason="explanation"><foreign>paṇiyāl</foreign></supplied> of 74 village officers <supplied reason="explanation"><foreign>madhyastaṉ</foreign></supplied> <!--what is the 74 doing here?-->.</item>          		
-	
-		<item>Through the order <supplied reason="explanation"><foreign>paṇiyāl</foreign></supplied> of the village officer <supplied reason="explanation"><foreign>madhyastaṉ</foreign></supplied> Tiruveḷḷarai Peruṅkāviti <gap reason="lost"/>.</item>
-		
+			<item>By order <supplied reason="explanation"><foreign>paṇiyāl</foreign></supplied>, I, the mediator <supplied reason="explanation"><foreign>madhyastaṉ</foreign></supplied>, <supplied reason="lost">Ain</supplied>nūṟṟuvaṉ Muṉṉūṟṟuvaṉ <hi rend="italic">alias</hi> Amaṇamaṅkalayaṉ, this is my signature.</item>
+			
+			<item>In this manner, by order <supplied reason="explanation"><foreign>paṇiyāl</foreign></supplied>, I, the mediator <supplied reason="explanation"><foreign>madhyastaṉ</foreign></supplied> Brahmapiriyaṉ.</item>
+			
+			<item>In this manner, by order <supplied reason="explanation"><foreign>paṇiyāl</foreign></supplied>, I, Pūtaṉ Śrīkaṇṭaṉ, <foreign>alias</foreign> Peruṅkāviti from Marutūr.</item>
+			
+			<item>In this manner, by order <supplied reason="explanation"><foreign>paṇiyāl</foreign></supplied>, the mediator <supplied reason="explanation"><foreign>madhyastaṉ</foreign></supplied> 74.</item>
+			
+			<item>In this manner, I know, I <gap reason="lost"/>.</item>
+			
+			<item>In this manner, by order <supplied reason="explanation"><foreign>paṇiyāl</foreign></supplied>, I, the mediator <supplied reason="explanation"><foreign>madhyastaṉ</foreign></supplied> <gap reason="lost"/> <hi rend="italic">alias</hi> Peruṅkāviti of Tiruveḷḷarai <gap reason="lost"/>.</item>
+			
 		</list>   		
 	</p>
 	
