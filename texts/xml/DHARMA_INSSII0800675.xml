@@ -223,7 +223,7 @@
         
         <list>
             <item>having said that <quote>We have given, for the purpose of a donation <supplied reason="explanation"><foreign>tāṉa-nimit<hi rend="grantha">tya</hi>m</foreign></supplied><!--RD: as ritual (nimittya) provisions (tāṉa), for [the benefit] of all our people--> 
-                to Ampalattāṭi Tirunāvukkaraiyaṉ and his lineage, who make recitation of holy hymns <supplied reason="explanation"><foreign>tiruppatiyam viṇṇappam ce<choice><orig>y</orig><reg>y</reg></choice>um</foreign></supplied> at/for the <foreign>tēvāram</foreign><note>The meaning of <foreign>tēvāram</foreign> is unclear.</note> of the <foreign><hi rend="grantha">stā</hi>ṉa-<unclear>maṭa</unclear></foreign>m<!--RD: monastery of the temple EF: maybe simply monastery--> <supplied reason="subaudible">of</supplied> Mahādevar <supplied reason="subaudible">in</supplied> Tiruvaṭakuṭi in the Uraiyūr-kūṟṟam <supplied reason="subaudible">itself a subdivision</supplied> in the Kēraḷāntaka-vaḷa-ṇāṭu</quote></item>
+                to Ampalattāṭi Tirunāvukkaraiyaṉ and his lineage, who make recitation of holy hymns <supplied reason="explanation"><foreign>tiruppatiyam viṇṇappam ce<choice><orig>y</orig><reg>y</reg></choice>um</foreign></supplied> at/for the <foreign>tēvāram</foreign><note>On the meaning of <foreign>tēvāram</foreign> in this inscription, see <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (p. 18).</note> of the <foreign><hi rend="grantha">stā</hi>ṉa-<unclear>maṭa</unclear></foreign>m<!--RD: monastery of the temple EF: maybe simply monastery--> <supplied reason="subaudible">of</supplied> Mahādevar <supplied reason="subaudible">in</supplied> Tiruvaṭakuṭi in the Uraiyūr-kūṟṟam <supplied reason="subaudible">itself a subdivision</supplied> in the Kēraḷāntaka-vaḷa-ṇāṭu</quote></item>
             <item>and having said that <quote>We commanded <supplied reason="explanation"><foreign>coṉṉōm</foreign></supplied> to take <supplied reason="explanation"><foreign>koḷḷa</foreign></supplied> perpetually <supplied reason="explanation"><foreign>nittam</foreign></supplied> <supplied reason="subaudible">one</supplied> <foreign>tūṇi</foreign> of paddy for the enjoyment <supplied reason="explanation"><foreign>pōkam-āka</foreign></supplied> of the monastery <supplied reason="explanation"><foreign>maṭam</foreign></supplied> from the treasury of this god.</quote></item>
         </list>
         
@@ -286,13 +286,16 @@
     
     <listBibl type="secondary">
         
-        <!--+ Uthaya's PhD-->
         <bibl>
             <ptr target="bib:ARIE1903-1904"/>
             <citedRange unit="page">27</citedRange>
             <citedRange unit="appendix">A/1903</citedRange>
             <citedRange unit="item">365</citedRange>
-        </bibl>	
+        </bibl>
+        
+        <bibl>
+            <ptr target="bib:Veluppillai2013_01"/>
+        </bibl>
         
     </listBibl>
     
