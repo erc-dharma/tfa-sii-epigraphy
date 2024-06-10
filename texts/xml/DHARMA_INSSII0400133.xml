@@ -8,8 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kāñcīpuram, Vaikuṇṭhaperumāḷ, time of Kulottuṅga Cōḻa,
-					year 46</title>
+				<title>Kāñcīpuram, Vaikuṇṭhaperumāḷ, time of Kulottuṅga Cōḻa, year 46</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -86,9 +85,7 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:emfr" when="2024-03-27"
-				>Creation of the file on
-				the repository</change>
+			<change who="part:emfr" when="2024-03-27">Creation of the file on the repository</change>
 		</revisionDesc>
 	</teiHeader>
 
