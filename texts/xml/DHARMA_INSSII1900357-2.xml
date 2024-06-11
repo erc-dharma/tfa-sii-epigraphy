@@ -11,9 +11,13 @@
 		        <title>Kōvintaputtūr, Gaṅgājaṭādhara, time of Uttamacōḻa, no year</title>
 		        <respStmt>
 		            <resp>intellectual authorship of edition</resp>
-		            <persName ref="part:vagi">
-		                <forename>Valérie</forename>
-		                <surname>Gillet</surname>
+		            <persName ref="part:reda">
+		                <forename>Renato</forename>
+		                <surname>Davalos</surname>
+		            </persName>
+		            <persName ref="part:emfr">
+		                <forename>Emmanuel</forename>
+		                <surname>Francis</surname>
 		            </persName>
 		        </respStmt>
 		        <respStmt>
@@ -101,15 +105,15 @@
         <milestone type="pagelike" unit="zone" n="1"/>
         <label xml:lang="eng">Western facade</label>
         
-        <lb n="1"/>I-neṭu-vāyilum neṭu-vāyil cuṟṟiṉa paṭākai
-        <lb n="2" break="no"/>kaḷu<choice><orig>mm</orig><reg>m</reg></choice> it-tēva<supplied reason="omitted">r</supplied>kku Iṟukka-k kaṭava <space type="feature"/> Iṟai I-<hi rend="grantha">śrī</hi>-kōyiṟ-kāl Ūrkkāl paḻuvūr nakkaṉṉāl
-        <lb n="3"/>tiru-muṟṟattu Aḷakka kaṭava nellu vālli ne<unclear>l</unclear> kaṟ <gap unit="character" reason="lost" quantity="3"/> <unclear>ṟ</unclear>cettal n<choice><orig>i</orig><reg>ī</reg></choice>kki kūṭṭal vētum pāta
-        <lb n="4"/>ṉ Aṭṭa ka<supplied reason="omitted">ṭa</supplied>va nellu Āyira-k kalammu
+        <lb n="1=41"/>I-neṭu-vāyilum neṭu-vāyil cuṟṟiṉa paṭākai
+        <lb n="2=42" break="no"/>kaḷu<choice><orig>mm</orig><reg>m</reg></choice> it-tēva<supplied reason="omitted">r</supplied>kku Iṟukka-k kaṭava <space type="feature"/> Iṟai I-<hi rend="grantha">śrī</hi>-kōyiṟ-kāl Ūrkkāl paḻuvūr nakkaṉṉāl
+        <lb n="3=43"/>tiru-muṟṟattu Aḷakka kaṭava nellu vālli ne<unclear>l</unclear> kaṟ <gap unit="character" reason="lost" quantity="3"/> <unclear>ṟ</unclear>cettal n<choice><orig>i</orig><reg>ī</reg></choice>kki kūṭṭal vētum pāta
+        <lb n="4=44"/>ṉ Aṭṭa ka<supplied reason="omitted">ṭa</supplied>va nellu Āyira-k kalammu
         
         tuḷai kaḻ<choice><sic>ai</sic><corr>a</corr></choice>ñ<unclear>cu l</unclear> potta poṉ kācu niṟai-k-kallā<supplied reason="lost">l</supplied>
-        <lb n="5"/>poṉ nuṟṟu-k kaḻ<choice><sic>ai</sic><corr>a</corr></choice><supplied reason="omitted">ñ</supplied>cum taṟi-p-puṭavai Oṉṟu kāl-p poṉ peṟuvaṉa puṭavai paṉ<choice><orig>n</orig><reg>ṉ</reg></choice>iraṇṭum
-        <lb n="6"/>neyi Eṇṇai mu-k-kalam ko<unclear>llar</unclear> U<unclear>lai-p</unclear>-pāṭṭam <choice><unclear>I</unclear><unclear>O</unclear></choice>ru pu<!--EF: abbrev. for puṉcey? See SII edition--> Āyarppalam neṭu-vāyil vata <gap reason="lost" unit="character" quantity="1"/> Aṭuttu
-        <lb n="7" break="no"/>kku <unclear>ni</unclear><hi rend="grantha">bedha</hi> ceyita paṭi civayō<hi rend="grantha">gi-brāhma</hi>ṇa<unclear>r</unclear> mu-p-patiṉ-marum <hi rend="grantha">brā</hi><supplied reason="lost"><hi rend="grantha">hma</hi></supplied><unclear>ṇar</unclear> I<unclear>ru</unclear>-patiṉ-marum Āka <unclear>Ai</unclear>y-patiṉ-ma<unclear>ṟ</unclear>kku
+        <lb n="5=45"/>poṉ nuṟṟu-k kaḻ<choice><sic>ai</sic><corr>a</corr></choice><supplied reason="omitted">ñ</supplied>cum taṟi-p-puṭavai Oṉṟu kāl-p poṉ peṟuvaṉa puṭavai paṉ<choice><orig>n</orig><reg>ṉ</reg></choice>iraṇṭum
+        <lb n="6=46"/>neyi Eṇṇai mu-k-kalam ko<unclear>llar</unclear> U<unclear>lai-p</unclear>-pāṭṭam <choice><unclear>I</unclear><unclear>O</unclear></choice>ru pu<!--EF: abbrev. for puṉcey? See SII edition--> Āyarppalam neṭu-vāyil vata <gap reason="lost" unit="character" quantity="1"/> Aṭuttu
+        <lb n="7=47" break="no"/>kku <unclear>ni</unclear><hi rend="grantha">bedha</hi><!--SII: nibe[nda*]m--> ceyita paṭi civayō<hi rend="grantha">gi-brāhma</hi>ṇa<unclear>r</unclear> mu-p-patiṉ-marum <hi rend="grantha">brā</hi><supplied reason="lost"><hi rend="grantha">hma</hi></supplied><unclear>ṇar</unclear> I<unclear>ru</unclear>-patiṉ-marum Āka <unclear>Ai</unclear>y-patiṉ-ma<unclear>ṟ</unclear>kku
         
     </p>
     
@@ -117,14 +121,14 @@
         <list>
             
             <item>Oruvaṉukku nica
-                <lb n="8" break="no"/>tam Arici Iru-nāḻi y-āka Iru-nāḻikku nellu Aiy-nāḻi y-āka Aiy-p-patiṉ-maṟku nicatam nellu <unclear>Iru</unclear>-kalaṉē Eḻu-kuṟu<unclear>ṇi</unclear> Iru-nāḻi
-                <lb n="9" break="no"/>yum</item>
+                <lb n="8=48" break="no"/>tam Arici Iru-nāḻi y-āka Iru-nāḻikku nellu Aiy-nāḻi y-āka Aiy-p-patiṉ-maṟku nicatam nellu <unclear>Iru</unclear>-kalaṉē Eḻu-kuṟu<unclear>ṇi</unclear> Iru-nāḻi
+                <lb n="9=49" break="no"/>yum</item>
             
             <item>ney muṉ-ṉāḻi Āḻākkukku ney nāḻikku <unclear>ne</unclear>llu tūṇi y-ā<supplied reason="lost">ka I</supplied><unclear>m</unclear>-muṉ-ṉāḻi Āḻākkukku nicatam nellu <supplied reason="lost">kala</supplied>ṉē n<supplied reason="lost">ā</supplied>
                 <!--Add in apparatus (line 9/49): line engraved on the pilaster between the lines 50 and 51: brāhmaṇar Irupatu. See photo “DSC_8999”.-->		
-                <lb n="10" break="no"/>-ṉāḻiyum</item>
+                <lb n="10=50" break="no"/>-ṉāḻiyum</item>
             
-            <item>ta<unclear>ṟi</unclear>kku nellu tūṇiy<unclear>u</unclear>m</item>
+            <item>kaṟikku nellu tūṇiy<unclear>u</unclear>m</item>
             
             <!--Stopped here checking from photos.-->
             
@@ -136,29 +140,29 @@
                 
                 <milestone type="pagelike" unit="zone" n="2"/>
                 
-                <lb n="11"/>U<supplied reason="lost">ppa</supplied><!--uppu?--> <unclear>nā</unclear>ḻikku nellu nāḻi Uḻakk' āka
+                <lb n="11=51"/>U<choice><sic><unclear>m</unclear></sic><corr>p</corr></choice>pu <unclear>nā</unclear>ḻikku nellu nāḻi Uḻakk' āka
                 Uppu Aiy-nāḻikku nellu Aṟu-nāḻi Uḻakkum</item>
             
             <item>veṟṟillai-p paṟṟu Oṉṟiṉukku <unclear>ne</unclear>l
                 <!--I left this as a different zone since the docx seems to take this line written on the ledge as being in a diff. place from the following lines. -->		
                 <milestone type="pagelike" unit="zone" n="3"/>
-                <lb n="12" break="no"/><supplied reason="lost">lu</supplied> Iru-nāḻi<unclear> y-āka veṟṟillai</unclear>-p paṟṟu <supplied reason="lost">muṉ</supplied><unclear>ṟi</unclear><supplied reason="lost">ṉu</supplied>kku nellu Aṟu<supplied reason="lost">nā</supplied><unclear>ḻi</unclear><supplied reason="lost">yum</supplied></item>
+                <lb n="12=52" break="no"/><supplied reason="lost">lu</supplied> Iru-nāḻi <unclear>y-āka veṟṟillai</unclear>-p paṟṟu <supplied reason="lost">muṉ</supplied><unclear>ṟi</unclear><supplied reason="lost">ṉu</supplied>kku nellu Aṟu <supplied reason="lost">nā</supplied><unclear>ḻi</unclear><supplied reason="lost">yum</supplied></item>
             
-            <item><unclear>veṟuṅkkāy<!--1or 2 k?--></unclear> nāḻi <unclear>nellu</unclear>kku patak' āka veṟuṅkāy nāṟukku nel
-                <lb n="13" break="no"/>lu <unclear>patiṉ</unclear> nāḻiy<unclear>um</unclear></item>
+            <item><unclear>veṟu</unclear>ṅkāy nāḻi <unclear>nellu</unclear>kku patak' āka veṟuṅkāy nāṟukku nel
+                <lb n="13=53" break="no"/>lu <unclear>patiṉ</unclear> nāḻiy<unclear>um</unclear></item>
             
         </list>
         
-        <supplied reason="lost">Āka nicatam</supplied> <unclear>nellu</unclear> <supplied reason="lost">nāṟ-kalaṉē nāṟ-kalaṉē Ai</supplied>y kuṟu<unclear>ṇi</unclear> <supplied reason="lost">nā-ṉāḻi Uḻakk' āka Ōr āṭṭai nāḷi</supplied>kku nellu Āyirattaṟu nūṟṟu Ai
-        <lb n="14" break="no"/>-<unclear>kalaṉē</unclear> Iru tūṇi mu-<unclear>k-ku</unclear><supplied reason="lost">ṟu</supplied><unclear>ṇi</unclear> Iru-nāḻiya<unclear>m</unclear>
+        <supplied reason="lost">Āka nicatam</supplied> <unclear>nellu</unclear> nāṟ-kalaṉē <surplus>nāṟ-kalaṉē</surplus> Aiy-kuṟu<unclear>ṇi</unclear> <supplied reason="lost">nā-ṉāḻi Uḻakk' āka Ōr āṭṭai nāḷi</supplied>kku nellu Āyirattaṟu nūṟṟu Ai<unclear>y</unclear>
+        <lb n="14=54" break="no"/>-kalaṉē Iru-tūṇi mu-k-ku<unclear>ṟuṇ</unclear>i Iru-nāḻiyum
     </p>
     <p>		
         <list>
             <item>
                 viṟakiṭuvāṉṉ oruva<supplied reason="lost">ṉu</supplied>kku nicatam ne<supplied reason="lost">l</supplied>lukku <supplied reason="lost">kuṟuṇiyum</supplied></item>
             
-            <item><supplied reason="lost">Aṭuvāṉṉ oruvaṉukku</supplied> nicatam nelluk kuṟu<supplied reason="lost">ṇi</supplied>
-                <lb n="15" break="no"/>yum</item>
+            <item><supplied reason="lost">Aṭuvāṉṉ oruvaṉukku</supplied> nicatam nellu-k kuṟu<supplied reason="lost">ṇi</supplied>
+                <lb n="15=55" break="no"/>yum</item>
         </list> 
         
         Āka
@@ -169,91 +173,90 @@
         <unclear>Iv-i</unclear><supplied reason="lost">ruvaṟ</supplied><unclear>ku</unclear><supplied reason="lost">m pu</supplied><unclear>ṭavai</unclear> mutal <unclear>Oruva</unclear>ṉukku Oru kācukku ne<unclear>llu</unclear>
         
         <milestone type="pagelike" unit="zone" n="4"/>
-        <lb n="16"/>patiṉ kalamm āka Iruvaṟkkum kāc' iraṇṭiṉ<unclear>āl</unclear> <supplied reason="lost">ne</supplied><unclear>l</unclear>lu I<supplied reason="lost">ru</supplied>-patiṉ kalammu
+        <lb n="16=56"/>patiṉ kalamm āka Iruvaṟkkum kāc' iraṇṭiṉ<unclear>āl</unclear> <supplied reason="lost">ne</supplied><unclear>l</unclear>lu I<supplied reason="lost">ru</supplied>-patiṉ kalammu
     </p>
     
     <p>
-        civa<hi rend="grantha">yogi</hi>-<hi rend="grantha">brāhma</hi>ṇar mu-patiṉ-marum <hi rend="grantha">brahma</hi>ṇaṟ Iru-patiṉ-maru
-        <lb n="17"/>Āka Ai-p-patiṉ-vaṟku caṉivāram <unclear>Eṇṇai</unclear> <supplied reason="lost">nāḻi U</supplied>riyum <unclear>A</unclear>yaṉavāram Eṇṇai nāḻi Uriyum Eṇṇai nāḻikku nellu tūṇi y-āka
-        <lb n="18"/>Ōr āṭṭai nāḷaikku Eṇṇai kalaṉē Iru tūṇi <unclear>Iru</unclear>-<supplied reason="lost">nā</supplied>ḻikku nellu Aiy-p-pattu nāṟ-kalamum
+        civayō<hi rend="grantha">gi</hi>-<hi rend="grantha">brāhma</hi>ṇar mu-patiṉ-marum <hi rend="grantha">brahma</hi>ṇaṟ Iru-patiṉ-maru
+        <lb n="17=57"/>Āka Ai-p-patiṉ-vaṟku caṉivāram <unclear>Eṇṇai</unclear> <supplied reason="lost">nāḻi U</supplied>riyum <unclear>A</unclear>yaṉavāram Eṇṇai nāḻi Uriyum Eṇṇai nāḻikku nellu tūṇi y-āka
+        <lb n="18=58"/>Ōr āṭṭai nāḷaikku Eṇṇai kalaṉē Iru-tūṇi Iru-<supplied reason="lost">nā</supplied>ḻikku nellu Aiy-p-pattu nāṟ-kalamum
     </p>
     <p>
         
         <list>
-            <item>nicatam payaṟu kuṟuṇi n<unclear>ā</unclear>ḻiḻi<!--check--> y-ā
-        <lb n="19" break="no"/><unclear>ka</unclear><gap reason="lost" quantity="2" unit="character"/> <unclear>nāḻi</unclear>kku nellu Iru-nāḻi y-āka <gap unit="character" reason="lost" quantity="3"/> nā<unclear>ṉe</unclear>kku payaṟu <gap reason="lost" quantity="1" unit="character"/>la <gap unit="character" quantity="1" reason="lost"/>ta <gap reason="lost" quantity="2" unit="character"/>yak<gap unit="character" quantity="1" reason="lost"/> mam āka kācu Oṉṟukku y-aṟu Aiy 
+            <item>nicatam payaṟu kuṟuṇi n<unclear>ā</unclear>ḻi<surplus>ḻi</surplus> y-ā
+        <lb n="19=59" break="no"/><unclear>ka</unclear><gap reason="lost" quantity="2" unit="character"/> <unclear>nāḻi</unclear>kku nellu Iru-nāḻi y-āka <gap unit="character" reason="lost" quantity="3"/> nāḷaikku payaṟu nāl-p-patt' aiy-ka<unclear>la</unclear>mm āka kācu Oṉṟukku y-aṟu Aiy 
         
         <milestone type="pagelike" unit="zone" n="5" break="no"/>
-        <lb n="20" break="no"/>kalamm āka <unclear>payaṟu</unclear> <gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">kalanellu</supplied> <unclear>toṇṇū</unclear><supplied reason="lost">ṟṟu</supplied> kala</item>
+        <lb n="20=60" break="no"/>-kalamm āka payaṟu nāl-pa <gap reason="lost" quantity="3" unit="character"/> kala <unclear>n</unclear>e<unclear>llu</unclear> t<unclear>o</unclear>ṇṇūṟṟu kala</item>
                 
             <item>
                 kācu Oṉṟukku nellu <supplied reason="lost">patak</supplied> <gap reason="lost" unit="character" quantity="3"/> <unclear>m ā</unclear>ka <supplied reason="lost">Iru</supplied>-<unclear>nellukku</unclear>
             </item>
             
             <item>                
-                <supplied reason="lost">kācu Oṉṟu</supplied><gap reason="lost" quantity="2" unit="character"/>
+                <supplied reason="lost">kācu Oṉṟu</supplied> <gap reason="lost" quantity="2" unit="character"/>
                 <milestone type="pagelike" unit="zone" n="6"/>
-                <lb n="21"/>caṟka<unclear>rai</unclear> nicatam <supplied reason="lost">Aim</supplied>palam Āka Ōr āṭṭai nāḷaikku niṟai patiṉṉ eṭṭu
+                <lb n="21=75"/>caṟka<unclear>rai</unclear> nicatam <supplied reason="lost">Aim</supplied>-palam Āka Ōr āṭṭai nāḷaikku niṟai patiṉṉ eṭṭu
             </item>
             
             <item>                
-                <unclear>kācu</unclear> Oṉṟukku <supplied reason="lost">ni</supplied>ṟai paṉniraṇṭ' āka niṟai patiṉṉ eṭ
-                <lb n="22"/><supplied reason="lost">ciṉ</supplied>nāl kācu O<unclear>ṉṟ' a</unclear>raiyu nicatam <unclear>puḷi</unclear> <supplied reason="lost">Iru-nāḻi y-āka</supplied> Ōr āṭṭai <unclear>nāḷaikku</unclear> <unclear>E</unclear>ḻu-nūṟṟu <supplied reason="lost">Iru</supplied>patiṉ nāḻiyiṉāl kācu Oṉṟu<supplied reason="lost">m</supplied>
+                <unclear>kācu</unclear> Oṉṟukku <supplied reason="lost">ni</supplied>ṟai paṉniraṇṭ' āka niṟai patiṉṉ eṭ<supplied reason="lost">ṭu</supplied>
+                <lb n="22=76"/><supplied reason="lost">ciṉ</supplied><!--check-->nāl kācu O<unclear>ṉṟ' a</unclear>raiyu nicatam <unclear>puḷi</unclear> <supplied reason="lost">Iru-nāḻi y-āka</supplied> Ōr āṭṭai <unclear>nāḷaikku</unclear> <unclear>E</unclear>ḻu-nūṟṟu <supplied reason="lost">Iru</supplied>-patiṉ nāḻiyiṉāl kācu Oṉṟu<supplied reason="lost">m</supplied>
             </item>
             
             <item>                
                 <milestone type="pagelike" unit="zone" n="7"/>
-                <lb n="23"/><unclear>nicatam</unclear> miḷaku <unclear>U</unclear>ḻakk<supplied reason="lost">aria</supplied> <unclear>kaṭuku</unclear> <gap reason="lost" quantity="7" unit="character"/><unclear>kk' āka</unclear> Ōr āṭṭai nāḷaikku Iru-kalaṉē tūṇi <unclear>Oru</unclear>-nāḻikku kācu mu<supplied reason="lost">ṉṟum</supplied>
+                <lb n="23=61"/>nicatam miḷaku <unclear>U</unclear>ḻakk' <supplied reason="lost">arai</supplied> <unclear>kaṭuku</unclear> <gap reason="lost" quantity="7" unit="character"/> <unclear>kk' āka</unclear> Ōr āṭṭai nāḷaikku Iru-kalaṉē tūṇi <unclear>Oru</unclear> nāḻikku kācu mu<supplied reason="lost">ṉṟum</supplied>
             </item>
             
             <item>                
                 nicatam cirakam Oru piṭi y-āka Ōr ā
-                <lb n="24" break="no"/><milestone type="pagelike" unit="zone" n="8"/>ṭṭai nāḷaikku patakku Aṟu-nāḻi Uriyu
+                <lb n="24=62" break="no"/><milestone type="pagelike" unit="zone" n="8"/>ṭṭai nāḷaikku patakku Aṟu-nāḻi Uriyu<supplied reason="omitted">m</supplied>
             </item>
             
             <item>                
-                peruṅkāyam nicatam <unclear>Arai</unclear><supplied reason="lost">kka</supplied><unclear>ḻ ai</unclear>nt' āka Ōr āṭṭai nāḷaikku <unclear>nū</unclear>ṟṟu <unclear>Eṇpa</unclear>ti ḻantiṉnāl kācu Onṟum                
+                peruṅ-kāyam nicatam <unclear>Arai</unclear><supplied reason="lost">kka</supplied><unclear>ḻ ai</unclear>nt' āka Ōr āṭṭai nāḷaikku <unclear>nū</unclear>ṟṟu <unclear>Eṇpa</unclear>ti<supplied reason="omitted">ṉ ka</supplied>ḻantiṉ nāl kācu Onṟum                
             </item>
             </list>             
                 Akā
                 kā<unclear>cu</unclear>
-                <lb n="25"/>patiṉ Aint' araikkum kācu Oṉṟukku nellu patiṉ kalam Āka        
-                nel<supplied reason="lost">lu nūṟ</supplied>ṟu Aiy-pattu Aiy-kalattāl n<unclear>ta</unclear>vā<unclear>ṉa</unclear>kaṭa<choice><unclear>ṉai</unclear><unclear>ḷai</unclear></choice> <unclear>kā</unclear>cil niṅku kācu patiṉ Ain<unclear>tu</unclear>
-                <!--Prob. it is Orattai instead of orattai. Could not confirm.Also, it appears as ntavanakatanai. maybe one vowel or syllable before?-->
-        
+                <lb n="25=63"/>patiṉ Aint' araikkum kācu Oṉṟukku nellu patiṉ kalam Āka        
+                nel<supplied reason="lost">lu nūṟ</supplied>ṟu Aiy-pattu Aiy-kalattāl <supplied reason="omitted">na</supplied>n<unclear>ta</unclear>-vā<unclear>ṉa</unclear>-kaṭa<choice><sic><choice><unclear>ṉ</unclear><unclear>ḷ</unclear></choice></sic><corr>m</corr></choice>ai <unclear>kā</unclear>cil n<choice><orig>i</orig><reg>ī</reg></choice>ṅku kācu patiṉ Ain<unclear>tu</unclear>        
     </p>
     
     <p>
         <list>
-            <item><lb n="26"/>cālaitukuttu meḻuki piṇṭi Aṭṭuvāḷḷ oruttikku ni<unclear>ca</unclear>tam nellu Iru nāḻi y-āka Ōr āṭṭai nākku nellu <unclear>E</unclear>ḻu kalanē<!--check--> tūṇi putakku<!--check: patakku?--></item>
+            <item><lb n="26=64"/>cālaitukuttu meḻuki piṇṭi Aṭṭuvāḷḷ oruttikku nicatam nellu Iru-nāḻi y-āka Ōr āṭṭai nā<supplied reason="omitted">ḷai</supplied>kku nellu Ēḻu kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi patakku</item>
             
             <item><unclear>E</unclear>ccil E		
                 <milestone type="pagelike" unit="zone" n="9"/>
-                <lb n="27" break="no"/>ṭuttu Eccilama<unclear>ṇ</unclear>ṭalam ceytu kalam cāmpal <unclear>I</unclear><supplied reason="lost">ṭu</supplied>vāḷ Oruttikku nicatam nellu puṭavai mul Eṟṟi nāṉāyāl Ōr āṭṭai nā<supplied reason="lost">ḷai</supplied>kku <unclear>nel</unclear>
-                <lb n="28" break="no"/>lu pati<supplied reason="lost">ṅ</supplied>kalam</item>
+                <lb n="27=65" break="no"/>ṭuttu Eccilama<unclear>ṇ</unclear>ṭalam ceytu kalam cāmpal <unclear>I</unclear><supplied reason="lost">ṭu</supplied>vāḷ Oruttikku nicatam nellu puṭavai mu<supplied reason="omitted">ta</supplied>l Eṟṟi nā-ṉā<supplied reason="omitted">ḻi</supplied>yāl Ōr āṭṭai nā<supplied reason="lost">ḷai</supplied><!--check-->kku <unclear>nel</unclear>
+                <lb n="28=66" break="no"/>lu patiṉ kalam</item>
             
-            <item>ti<supplied reason="lost">ru</supplied>-p-patiyam viṇappam ceyvār Oruvaṟku puṭavai mutal Uḷ-paṭa nicatam nellu patakku nā-ṉāḻi y-āka Ōr āṭṭai n<unclear>ā</unclear>ḷaikku ne
-                <lb n="29" break="no"/>llu Eḻupatt' aiṅ-kalam</item>
+            <item>ti<supplied reason="lost">ru</supplied>-p-patiyam vi<supplied reason="omitted">ṇ</supplied>ṇappam ceyvār Oruvaṟku puṭavai mutal Uḷ-paṭa nicatam nellu patakku nā-ṉāḻi y-āka Ōr āṭṭai n<unclear>ā</unclear>ḷaikku ne
+                <lb n="29=67" break="no"/>llu Eḻupatt' aiṅ-kalam</item>
             
-            <item>kōpurattu meykāpp<unclear>ā</unclear>ṉ no<unclear>ru</unclear>vaṉ Ivaṉṉē cālai Uṇ veṇkalan<unclear>nū</unclear>ṟum Eṇṇi pukuvikkavu potavaippikkavu kaṭa
-                <lb n="30" break="no"/><unclear>vā</unclear> Āka puṭavai mutal Uḷpaṭa nicatam nellu kuṟuṇi Iru ḻiyāka Ōr āṭṭai nāḷaikku nellu mupattu Eḻu kalaṉe tūṇip <unclear>pa</unclear>takku</item>
+            <item>kōpurattu meykāpp<unclear>ā</unclear>ṉn o<unclear>ru</unclear>vaṉ Ivaṉṉē cālai Uṇ veṇkalan<unclear>nū</unclear>ṟum<!--check--> Eṇṇi pukuvikkavu pota vaippikkavu<supplied reason="omitted">ma</supplied> kaṭa
+                <lb n="30=68" break="no"/><unclear>vā</unclear><supplied reason="omitted">ṉ</supplied> Āka puṭavai mutal Uḷ-paṭa nicatam nellu kuṟuṇi Iru-<supplied reason="omitted">nā</supplied>ḻi y-āka Ōr āṭṭai nāḷaikku nellu mu-pattu Ēḻu kalaṉē tūṇi-p <unclear>pa</unclear>takku</item>
             
             <item>cālaikku kalam I
-                <lb n="31" break="no"/>ṭu ku<unclear>ca</unclear>va<unclear>ṉ</unclear>n oruvaṉuku nicatam nellu Iru nāḻi y-āka Ōr āṭṭai nāḷaikku nellu Eḻu-kalaṉē tūṇi-p patakkum</item>
+                <lb n="31=69" break="no"/>ṭu<!--SII: Iṭa--><supplied reason="omitted">m</supplied> ku<unclear>ca</unclear>va<unclear>ṉ</unclear>n oruvaṉuku nicatam nellu Iru-nāḻi y-āka Ōr āṭṭai nāḷaikku nellu Eḻu-kalaṉē tūṇi-p patakkum</item>
             
-            <item>coti<unclear>vi</unclear> colluvāṉ Irupat<supplied reason="lost">t</supplied>e
-                <lb n="32" break="no"/>ḻu nāḷ<unclear>u</unclear>k k<unclear>ū</unclear>ṟṟu Ol<unclear>ai</unclear> karpurattu <supplied reason="lost">tūkka</supplied> <unclear>ni</unclear>catam nellu ku<supplied reason="lost">ṟuṇi</supplied>yāka Ōr āṭṭai nāḷai nellu mupati<supplied reason="lost">ṉ ka</supplied>lamum</item>
+            <item>coti<unclear>vi</unclear> colluvāṉ Irupat<supplied reason="lost">t</supplied>' ē
+                <lb n="32=70" break="no"/>ḻu nāḷ<unclear>u</unclear><!--contra SII-->-k k<unclear>ū</unclear>ṟṟu Ol<unclear>ai</unclear> karpurattu <supplied reason="lost">tūkka</supplied> <unclear>ni</unclear>catam nellu ku<supplied reason="lost">ṟuṇi</supplied> y-āka Ōr āṭṭai nāḷai nellu mu-pati<supplied reason="lost">ṉ ka</supplied>lamum</item>
             
-            <item>Uttamā<hi rend="grantha">gra</hi>ttil Uṇṇu <hi rend="grantha">brahma</hi><unclear>ṇa</unclear>rkku
-                <lb n="33"/><unclear>Adhyayyam ceyvar</unclear> <gap reason="lost" unit="character" quantity="2"/> <unclear>koḷḷum</unclear> <hi rend="grantha"><unclear>brāhma</unclear></hi><unclear>ṇaṉ</unclear> Oruvaṉukku nicatam nellu kuṟuṇi y-āka Ōr āṭ<supplied reason="lost">ṭai</supplied> <unclear>nā</unclear>kku nellu mu patiṉ <unclear>ka</unclear>lamum Ivaṉukkē<unclear>y</unclear> <supplied reason="lost">pu</supplied>
-                <lb n="34" break="no"/><unclear>ṭavai mul</unclear> kā<unclear>cu</unclear><supplied reason="lost">caraiyāl nellu Ai</supplied><unclear>y-kalamu</unclear>m</item>
+            <item>Uttamā<hi rend="grantha">gra</hi>ttil Uṇṇu<supplied reason="omitted">m</supplied> <hi rend="grantha">brahma</hi><unclear>ṇa</unclear>rkku
+                <lb n="33=71"/><unclear>Adhyayya</unclear><supplied reason="omitted">ṉa</supplied><unclear>m ceyvar</unclear> <gap reason="lost" unit="character" quantity="2"/> <unclear>koḷḷum</unclear> <hi rend="grantha"><unclear>brāhma</unclear></hi><unclear>ṇaṉ</unclear> Oruvaṉukku nicatam nellu kuṟuṇi y-āka Ōr āṭ<supplied reason="lost">ṭai</supplied> <unclear>nā</unclear><supplied reason="omitted">ḷai</supplied>kku nellu mu-patiṉ <unclear>ka</unclear>lamum</item>
+            <item>Ivaṉukkē<unclear>y</unclear> <supplied reason="lost">pu</supplied>
+                <lb n="34=72" break="no"/><unclear>ṭavai mu</unclear><supplied reason="omitted">ta</supplied><unclear>l</unclear> kā<surplus><unclear>cu</unclear></surplus><supplied reason="lost">c' araiyāl nellu Ai</supplied><unclear>y-kalamu</unclear>m</item>
             
-            <item><supplied reason="lost">Uttamā</supplied><hi rend="grantha">gra</hi>ttu Uṇṇu<supplied reason="lost">m</supplied> <hi rend="grantha">brāhma</hi>ṇa-civa<hi rend="grantha">yo<supplied reason="lost">gi</supplied></hi>kaḷum <hi rend="grantha">brāhma</hi>ṇakku<supplied reason="lost">m a<hi rend="grantha">gra</hi></supplied>ttu<supplied reason="lost">ku</supplied> <unclear>canta</unclear>ṉattukku
-                <lb n="35"/>kācu A<supplied reason="lost">raiyāl</supplied> <unclear>nellu</unclear> <supplied reason="lost">Ai-kalamum</supplied></item>
+            <item><supplied reason="lost">Uttamā</supplied><hi rend="grantha">gra</hi>ttu Uṇṇu<supplied reason="lost">m</supplied> <hi rend="grantha">brāhma</hi>ṇa-civayō<hi rend="grantha"><supplied reason="lost">gi</supplied></hi>kaḷum <hi rend="grantha">brāhma</hi>ṇa<supplied reason="omitted">r</supplied>kku<!--contra SII--><supplied reason="lost">m a<hi rend="grantha">gra</hi></supplied>ttu<supplied reason="omitted">k</supplied><supplied reason="lost">ku</supplied> <unclear>canta</unclear>ṉattukku
+                <lb n="35=73"/>kācu A<supplied reason="lost">raiyāl</supplied> <unclear>nellu</unclear> <supplied reason="lost">Ai<reg>ṅ</reg>-kalamu</supplied><supplied reason="omitted">m</supplied></item>
             
-            <item><supplied reason="lost">Iru-<hi rend="grantha">śrī-beli</hi>kku <hi rend="grantha">beli</hi> A</supplied>rici nāḻi<supplied reason="lost">yāl</supplied> nicatam <supplied reason="lost">nellu I</supplied>ru-nāḻi<unclear>yā</unclear>ka Or āṭ<supplied reason="lost">ṭai nāḷaikku nellu E</supplied>
+            <item><supplied reason="lost">Iru<!--contraSII-->-<hi rend="grantha">śrī-beli</hi>kku <hi rend="grantha">beli</hi> A</supplied>rici nāḻi<supplied reason="lost">yāl</supplied> nicatam <supplied reason="lost">nellu I</supplied>ru-nāḻi <unclear>y-ā</unclear>ka Or āṭ<supplied reason="lost">ṭai nāḷaikku nellu Ē</supplied>
                 <milestone type="pagelike" unit="zone" n="10"/>
-                <lb n="36" break="no"/>ḻu<unclear>ka</unclear>laṉē <unclear>tū</unclear><supplied reason="lost">ṇi-p patakku</supplied> <gap reason="lost" quantity="1" unit="character"/></item>
+                <lb n="36=74" break="no"/>ḻu <unclear>ka</unclear>laṉē <unclear>tū</unclear><supplied reason="lost">ṇi-p patakku</supplied><supplied reason="omitted">m</supplied></item>
         </list>
         
     </p>
@@ -262,43 +265,43 @@
         <label xml:lang="eng">Southern facade</label>
         <!--No photos from Valérie for this portion yet-->
         
-        <lb n="37"/>I-<hi rend="grantha">brahma</hi>-tēyam ce<reg>y</reg>ta periya t<unclear>ē</unclear>var I-<hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ja</hi>ya-maṅkala-tēvarkku tiru-v-uṇṇaḻikai-p-puṟam Āka Iṟai-Ili kuṭutta paṅ//ku <unclear>E</unclear>ṭṭiṉa nāllu <hi rend="grantha">śrī</hi>-Irā<hi rend="grantha">ja</hi>-rā<hi rend="grantha"><supplied reason="lost">ja</supplied></hi>-tēvarku yāṇṭu Eḻ-āvatu mutal I-<hi rend="grantha">śrī</hi> v<unclear>i</unclear>mā<supplied reason="omitted">ṉa</supplied>ṅ kal <gap reason="lost" unit="character" quantity="1"/><unclear>ā</unclear> Eḻunt-aruḷuvitta Irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>-p palla A<unclear>rai</unclear><supplied reason="lost">ya</supplied>
-        <lb n="38" break="no"/><gap reason="lost"/> ṉṉē Ip-paṅku Eṭṭiṉ nālu ceyyum paṭi māṟṟu kalli veṭṭiṉa paṭi
+        <lb n="37=77"/>I-<hi rend="grantha">brahma</hi>-tēyam ce<reg>y</reg>ta periya t<unclear>ē</unclear>var I-<hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ja</hi>ya-maṅkala-tēvarkku tiru-v-uṇṇaḻikai-p-puṟam Āka Iṟai-Ili kuṭutta paṅ‡ku <unclear>E</unclear>ṭṭiṉa<!--Ettiṉ?--> nāllu <hi rend="grantha">śrī</hi>-Irā<hi rend="grantha">ja</hi>-rā<hi rend="grantha"><supplied reason="lost">ja</supplied></hi>-tēvar<supplied reason="omitted">k</supplied>ku yāṇṭu Eḻ-āvatu mutal I-<hi rend="grantha">śrī</hi>-v<unclear>i</unclear>mā<supplied reason="omitted">ṉa</supplied>ṅ kal <gap reason="lost" unit="character" quantity="1"/><unclear>ā</unclear><!--contra SII--> Eḻunt-aruḷuvitta Irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>-p-palla-A<unclear>rai</unclear><supplied reason="lost">ya</supplied>
+        <lb n="38=78" break="no"/><gap reason="lost"/> ṉṉē Ip-paṅku Eṭṭiṉ nālu ceyyum paṭi māṟṟu kalli<supplied reason="omitted">l</supplied> veṭṭiṉa paṭi
         
         <list>
             
-            <item>tirutarici pō<unclear>tu</unclear> nā-ṉāḻi y-āka mūṉṟu potaikku nicatam Arici kuṟu nā-ṉā//ḻi<unclear>yā</unclear><supplied reason="lost">l</supplied> <supplied reason="lost">A</supplied>ntiraṇṭu vaṇṇattāl nellu mu-k-kuṟuṇi Aṟu nāḻiyum</item>
+            <item>tiru-<supplied reason="omitted">v-amu</supplied>t-arici pō<unclear>tu</unclear> nā-ṉāḻi y-āka mūṉṟu potaikku nicatam Arici kuṟu<supplied reason="omitted">ṇi</supplied> nā-ṉā‡ḻi<unclear>yā</unclear><supplied reason="lost">l</supplied> <supplied reason="lost">A</supplied>nt' iraṇṭu vaṇṇattāl nellu mu-k-kuṟuṇi Aṟu nāḻiyum</item>
             
-            <item>ney-amutu potoru pi<unclear>ṭi</unclear> y-āka muṉṟu potaikku ney-amutu Āḻākke Oru piṭi
-                <lb n="39" break="no"/>kku nāḻikku nellu tūṇi y-āka ney Aḻākkē Oru piṭikku nicatam nellu Aṟu nāḻiyam</item>
+            <item>ney-amutu pōt' oru pi<unclear>ṭi</unclear> y-āka muṉṟu pōtaikku ney-amutu Āḻākkē Oru piṭi
+                <lb n="39=79" break="no"/>kku nāḻikku nellu tūṇi y-āka ney Aḻākkē Oru piṭikku nicatam nellu Aṟu nāḻiyam</item>
             
-            <item>pori-k-kaṟi-y-amutu muṉṟu <supplied reason="lost">po</supplied>taikku nicatam nel<unclear>lu</unclear>b// I<unclear>ru</unclear> nāḻi <supplied reason="lost">Uri-y</supplied></item>
+            <item>pori-k-kaṟi-y-amutu muṉṟu <supplied reason="lost">pō</supplied>taikku nicatam nel<unclear>lu</unclear> ‡ I<unclear>ru</unclear>-nāḻi <supplied reason="lost">Uri-y</supplied></item>
             
-            <item><supplied reason="lost">Aṭai-k</supplied>kāy-amutu potu nāl āka muṉṟu potaikku pākku paṉniraṇṭum</item>
+            <item><supplied reason="lost">Aṭai-k</supplied>kāy-amutu pōtu nāl āka muṉṟu pōtaikku pākku paṉn-iraṇṭum</item>
             
-            <item>veṟṟilaikku nicatam nellu mu-ṉ-ṉāḻiyum</item>
+            <item>veṟṟilaikku nicatam nellu muṉ-ṉāḻiyum</item>
             
             <item>tayir Amutu pō
-                <lb n="40" break="no"/>tu Uri y-āka muṉṟu potukku tayir nāḻi Urikku nicatam nellu mūṉ-nāḻi muḻākkum</item>
+                <lb n="40=80" break="no"/>tu Uri y-āka muṉṟu pōtukku tayir nāḻi Urikku nicatam nellu mūṉ-nāḻi muḻākkum</item>
             
-            <item><supplied reason="lost">nontā-viḷakku Aintukku viḷakk' oṉṟu<unclear>mū</unclear> <unclear>neyi Uk</unclear><supplied reason="lost">kāka</supplied> vi//<supplied reason="lost">ḷakku Ai</supplied>ntukku nicatam ney nāḻi <unclear>U</unclear>kkāka ney nāḻikku nellu tūṇi y-āka ney nāḻi Uḻakuku nicatam nellu Aṅ-kuṟuṇiyum</supplied></item>
+            <item><supplied reason="lost">nontā-viḷakku Aintukku viḷakk' oṉṟu<unclear>mū<!--contra SII--> neyi U</unclear><supplied reason="omitted">ḻ</supplied><unclear>k</unclear><supplied reason="lost">k' āka</supplied> vi‡<supplied reason="lost">ḷakku Ai</supplied>ntukku nicatam ney nāḻi <unclear>U</unclear><supplied reason="omitted">ḻ</supplied>kk' āka ney nāḻikku nellu tūṇi y-āka ney nāḻi Uḻa<supplied reason="omitted">k</supplied>ku<supplied reason="omitted">k</supplied>ku nicatam nellu A<reg>i</reg>ṅ-kuṟuṇiyum</supplied></item>
             
-            <item>nilamā<unclear>li</unclear><gap reason="lost" quantity="1" unit="character"/>ni
-                <lb n="41" break="no"/>r poka		
-                Aṭṭuvāṉṉukku ni<unclear>ca</unclear>ta nellu Iru-nāḻi y-uḻakkum <!--could be also initial vowel--></item>
+            <item>nilamā<unclear>li</unclear> <gap reason="lost" quantity="1" unit="character"/> ni
+                <lb n="41=81" break="no"/>r-pōka		
+                Aṭṭuvā<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice>ukku ni<unclear>ca</unclear>ta<supplied reason="subaudible">m</supplied> nellu Iru-nāḻi y-uḻakkum</item>
             
             <item>kaṇakk-eḻutuvāṉṉukku nicatam nellu nā-ṉāḻiyum</item>
             
-            <item>Irā-<hi rend="grantha"><unclear>śrī</unclear></hi><hi rend="grantha">be</hi><hi rend="grantha"><unclear>li</unclear></hi>-viḷakku I<unclear>raṇ</unclear>//<unclear>ṭu</unclear>kku Eṇṇai Āḻ<unclear>āk</unclear>kē <unclear>Oru</unclear> piṭikku E<unclear>ṇṇai</unclear> nāḻikku nellu tūṇi y-āka Eṇṇai Ā<unclear>ḻā</unclear>kkē Oru <supplied reason="lost">piṭi</supplied>kku nicatam nellu Aṟu nāḻiy<unclear>u</unclear>m Āka nicatam
-                <lb n="42"/><space/>nellun kalaṉē-y Oru nāḻi Uri <supplied reason="lost">y-āka</supplied> O<supplied reason="lost">r ā</supplied>ṭṭai nāḷaikku nellu mu-ṉ-nūṟṟu Aṟu-pattu Aiy-kalaṉē-y Eḻu kuṟuṇi nā-ṉāḻiy<unclear>u</unclear>m</item>
+            <item>Irā-<hi rend="grantha"><unclear>śrī</unclear>-be</hi><hi rend="grantha"><unclear>li</unclear></hi>-viḷakku I<unclear>raṇ</unclear>‡<unclear>ṭu</unclear>kku Eṇṇai Āḻ<unclear>āk</unclear>kē <unclear>Oru</unclear> piṭikku E<unclear>ṇṇai</unclear> nāḻikku nellu tūṇi y-āka Eṇṇai Ā<unclear>ḻā</unclear>kkē Oru <supplied reason="lost">piṭi</supplied>kku nicatam nellu Aṟu nāḻiy<unclear>u</unclear>m Āka nicatam
+                <lb n="42=82"/><space/>nellun kalaṉē-y Oru nāḻi Uri <supplied reason="lost">y-āka</supplied> Ō<supplied reason="lost">r ā</supplied>ṭṭai nāḷaikku nellu mu-ṉ-nūṟṟu Aṟu-pattu Aiy-kalaṉē-y Eḻu kuṟuṇi nā-ṉāḻiy<unclear>u</unclear>m</item>
         </list>
         
     </p>
     <p>
-        Aṟama//ṟa <supplied reason="lost">vel</supplied>kka <supplied reason="lost">Aṟamm alla</supplied>tu tuṇai y-il<unclear>lai</unclear>
+        Aṟa<supplied reason="subaudible">m</supplied> ma‡ṟa<supplied reason="lost">vel</supplied>kka <supplied reason="lost">Aṟa<choice><orig>mm</orig><reg>m</reg></choice> alla</supplied>tu tuṇai y-il<unclear>lai</unclear>
     </p>
     <p>
-        Iv<unclear>ai</unclear> paṉ-<hi rend="grantha">māhāheśvara</hi>-ra<hi rend="grantha">kṣai</hi>
+        Iv<unclear>ai</unclear> paṉ-<hi rend="grantha">mā<surplus>hā</surplus>heśvara</hi>-ra<hi rend="grantha">kṣai</hi>
     </p>
     
 </div>
@@ -307,47 +310,96 @@
 
 	<listApp>
 		
-		<!--<app loc="0">
-			<lem></lem>
-			<rdg source="bib:Gillet2023_01"></rdg>
-			<rdg source="bib:SrinivasaRao1967_01"></rdg>
-		</app>-->
-		
-		<app loc="1">
-			<lem>paṭākai</lem>
-			<rdg source="bib:Gillet2023_01"/>
-			<rdg source="bib:SrinivasaRao1967_01">piṭākai</rdg>
-		</app>
-		
-		<app loc="2">
-			<lem>Iṟukkak kaṭava</lem>			
-			<rdg source="bib:SrinivasaRao1967_01"/>
-			<rdg source="bib:Gillet2023_01">Iṟukka kaṭava</rdg>
-		</app>
-		
-		<app loc="3">
-			<lem>vētum</lem>			
-			<rdg source="bib:SrinivasaRao1967_01">vetum</rdg>
-			<rdg source="bib:Gillet2023_01"><unclear>vetu</unclear>m</rdg>
-		</app>
-		
-		<app loc="3">
-			<lem>pāta<lb n="4"/>ṉ</lem>			
-			<rdg source="bib:SrinivasaRao1967_01"/>
-			<rdg source="bib:Gillet2023_01">pāta<lb n="4"/><unclear>ṉ</unclear></rdg>
-		</app>
-		
-		<app loc="4">
-			<lem>ka<supplied reason="omitted">ṭa</supplied>va</lem>			
-			<rdg source="bib:SrinivasaRao1967_01"/>
-			<rdg source="bib:Gillet2023_01">kava</rdg>
-		</app>
-		
+	    <!--<app loc="0">
+	        <lem></lem>
+	        <rdg source="bib:Gillet2023_01"></rdg>
+	        <rdg source="bib:SrinivasaRao1967_01"></rdg>
+	        </app>-->
+	    
+	    <app loc="1">
+	        <lem>paṭākai</lem>
+	        <rdg source="bib:Gillet2023_01"/>
+	        <rdg source="bib:SrinivasaRao1967_01">piṭākai</rdg>
+	    </app>
+	    
+	    <app loc="2">
+	        <lem>Iṟukkak kaṭava</lem>			
+	        <rdg source="bib:SrinivasaRao1967_01"/>
+	        <rdg source="bib:Gillet2023_01">Iṟukka kaṭava</rdg>
+	    </app>
+	    
+	    <app loc="3">
+	        <lem>vētum</lem>			
+	        <rdg source="bib:SrinivasaRao1967_01">vetum</rdg>
+	        <rdg source="bib:Gillet2023_01"><unclear>vetu</unclear>m</rdg>
+	    </app>
+	    
+	    <app loc="3">
+	        <lem>pāta<lb n="4"/>ṉ</lem>			
+	        <rdg source="bib:SrinivasaRao1967_01"/>
+	        <rdg source="bib:Gillet2023_01">pāta<lb n="4"/><unclear>ṉ</unclear></rdg>
+	    </app>
+	    
+	    <app loc="4">
+	        <lem>ka<supplied reason="omitted">ṭa</supplied>va</lem>			
+	        <rdg source="bib:SrinivasaRao1967_01"/>
+	        <rdg source="bib:Gillet2023_01">kava</rdg>
+	    </app>	    
+	    
+	    <app loc="10">
+	        <lem>kaṟikku</lem>
+	        <rdg source="bib:SrinivasaRao1967_01">karikku</rdg>	        
+	        <rdg source="bib:Gillet2023_01">ta<unclear>ṟi</unclear>kku</rdg>
+	    </app>
+	    
+	    <app loc="12">
+	        <lem><unclear>veṟu</unclear>ṅkāy</lem>	        
+	        <rdg source="bib:SrinivasaRao1967_01">veṟuṅkāy</rdg>
+	        <rdg source="bib:Gillet2023_01"><unclear>veṟuṅkkāy</unclear></rdg>
+	    </app>
+	    
+	    <app loc="14">
+	        <lem>Irunāḻiyum</lem>			
+	        <rdg source="bib:SrinivasaRao1967_01">Irunāḻim</rdg>
+	        <rdg source="bib:Gillet2023_01">Irunāḻiya<unclear>m</unclear></rdg>
+	    </app>
+	    
+	    <app loc="19">
+	        <lem>nāḷaikku</lem>	        
+	        <rdg source="bib:SrinivasaRao1967_01"/>
+	        <rdg source="bib:Gillet2023_01">nā<unclear>ṉe</unclear>kku</rdg>
+	    </app>
+	    
+	    <app loc="24">
+	        <lem>Uriyu<supplied reason="omitted">m</supplied></lem>
+	        <rdg source="bib:SrinivasaRao1967_01">Uriyum</rdg>
+	        <rdg source="bib:Gillet2023_01">Uriyu</rdg>	        
+	    </app>
+	    
+	    <app loc="26">
+	        <lem>nā<supplied reason="omitted">ḷai</supplied>kku</lem>	        
+	        <rdg source="bib:SrinivasaRao1967_01">nāḷaikku</rdg>
+	        <rdg source="bib:Gillet2023_01">nākku</rdg>
+	    </app>
+	    
+	    <app loc="26">
+	        <lem>patakku</lem>
+	        <rdg source="bib:SrinivasaRao1967_01"/>
+	        <rdg source="bib:Gillet2023_01">putakku</rdg>
+	    </app>
+	    
+	    <app loc="28">
+	        <lem>patiṉ</lem>
+	        <rdg source="bib:SrinivasaRao1967_01">patiṅ</rdg>
+	        <rdg source="bib:Gillet2023_01">pati<supplied reason="lost">ṅ</supplied></rdg>
+	        
+	    </app>
+	    
 	</listApp>
 	
 </div>
          
-<div type="translation" resp="part:reda part:emfr">
+<div type="translation" resp="part:emfr">
 	
     <p n="1-7">
         The taxes that this Neṭuvāyil and the hamlets surrounding Neṭuvāyil are to pay <supplied reason="explanation"><foreign>iṟukkak kaṭava</foreign></supplied> for this god,
@@ -362,10 +414,15 @@
     </p>
     
     <p n="7-14">
-        Whereas there are
+        Whereas there are,
         <list>
             <item>so that, for one person, there be perpetually two <foreign>nāḻi</foreign>s of rice and so that there be, <supplied reason="subaudible">for this purpose</supplied>, five <foreign>nāḻi</foreign>s of paddy, for <supplied reason="subaudible">these</supplied> fifthy persons, <supplied reason="subaudible">a total of</supplied> two <foreign>kalaṉ</foreign>s, two <foreign>kuṟuṇi</foreign>s and two <foreign>nāḻi</foreign>s of paddy <supplied reason="subaudible">are</supplied> perpetually <supplied reason="subaudible">provisioned</supplied>,</item>
-            <item>...</item>
+            <item>so that there be <supplied reason="explanation">one</supplied> <foreign>tūṇi</foreign> of paddy for <supplied reason="explanation">one</supplied> <foreign>nāḻi</foreign> of ghee ...,</item>
+            <item><supplied reason="explanation">one</supplied> <foreign>tūṇi</foreign> of paddy for the curries,</item>
+            <item><supplied reason="explanation">one</supplied> <foreign>kuṟuṇi</foreign> of paddy for ...</item>
+            <item><supplied reason="explanation">one</supplied> <foreign>patakku</foreign> of paddy for ...</item>
+            <item>six <foreign>nāḻi</foreign>s of paddy ... so that there be <supplied reason="explanation">one</supplied> <foreign>tūṇi</foreign> of paddy for <supplied reason="explanation">one</supplied> <foreign>nāḻi</foreign> of ghee ...,</item>
+            <item>six <foreign>nāḻi</foreign>s of paddy ... </item>
         </list>
         so that there be ... per year, <supplied reason="subaudible">a total of</supplied> ...
     </p>
@@ -407,12 +464,19 @@
         </list>
     </p>
         
+        <p n="42">
+            Do not forget duty <supplied reason="explanation"><foreign>aṟam</foreign><note>Tamil term equivalent to Sanskrit <foreign>dharma</foreign>.</note></supplied>; without duty, there is no refuge.
+        </p>
+	
+        <p n="42">
+            These <supplied reason="subaudible">are under</supplied> the protection of the Paṉmāheśvaras.
+        </p>
 	
 </div>
          
 <div type="commentary">
          	
-	<p>The record contains no internal date. It might be dated to the year 14 of Uttamacōḻa, which is the internal date of <ref target="DHARMA_INSSII1900357-1.xml">SII 19.357-1</ref>, that <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> consider to be the first part of the present record.
+	<p>The record mentions the 7th regnal year of Rājarāja (line 37), as a starting point. It might however be dated to the year 14 of Uttamacōḻa, which is the internal date of <ref target="DHARMA_INSSII1900357-1.xml">SII 19.357-1</ref>, that <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> consider to be the first part of the present record.
 	</p>
 	
 </div>
@@ -420,9 +484,9 @@
 <div type="bibliography">
             
 	<p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/164).</p>
-	<p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.357, lines 41-82). For lines 1-41, that <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> consider to be the first part of the present record, see inscription <ref target="DHARMA_INSSII1900357-1.xml">SII 357-1</ref>. Edited in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photos.</p>
+	<p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.357, lines 41-82<note>As pointed out by <bibl><ptr target="bib:Gillet2023_01"/></bibl> (p. 84, fn. 65), lines 21-22 appears there, by mistake, as lines 75-76. In the present edition the second line number indicated (e.g. 1=41) is that in SII 19.357.41-82.</note>. For lines 1-41, that <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> consider to be the first part of the present record, see inscription <ref target="DHARMA_INSSII1900357-1.xml">SII 357-1</ref>. Edited in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photos.</p>
 	<p>Translated in <bibl><ptr target="bib:Orr2000_01"/><citedRange unit="page">116-118</citedRange></bibl>.</p>
-	<p>This edition by Renato Dávalos and Emmanuel Francis (2024), based on the previous editions and on photos (Valérie Gillet, 2018).</p>
+	<p>This edition by Renato Dávalos and Emmanuel Francis (2024), based on the previous editions and on photos (Valérie Gillet, 2018). This translation by Emmanuel Francis (2024).</p>
 	
 	<listBibl type="primary">
 		
