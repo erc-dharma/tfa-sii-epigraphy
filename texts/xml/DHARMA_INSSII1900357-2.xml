@@ -106,12 +106,15 @@
         <label xml:lang="eng">Western facade</label>
         
         <lb n="1=41"/>I-neṭu-vāyilum neṭu-vāyil cuṟṟiṉa paṭākai
-        <lb n="2=42" break="no"/>kaḷu<choice><orig>mm</orig><reg>m</reg></choice> it-tēva<supplied reason="omitted">r</supplied>kku Iṟukka-k kaṭava <space type="feature"/> Iṟai I-<hi rend="grantha">śrī</hi>-kōyiṟ-kāl Ūrkkāl paḻuvūr nakkaṉṉāl
+        <lb n="2=42" break="no"/>kaḷu<choice><orig>mm</orig><reg>m</reg></choice> it-tēva<supplied reason="omitted">r</supplied>kku Iṟukka-k kaṭava <space type="feature"/> Iṟai I-<hi rend="grantha">śrī</hi>-kōyiṟ-kāl Ūr-k-kāl paḻuvūr nakkaṉṉāl
         <lb n="3=43"/>tiru-muṟṟattu Aḷakka kaṭava nellu vālli ne<unclear>l</unclear> kaṟ <gap unit="character" reason="lost" quantity="3"/> <unclear>ṟ</unclear>cettal n<choice><orig>i</orig><reg>ī</reg></choice>kki kūṭṭal vētum pāta
-        <lb n="4=44"/>ṉ Aṭṭa ka<supplied reason="omitted">ṭa</supplied>va nellu Āyira-k kalammu
-        
+        <lb n="4=44"/>ṉ Aṭṭa ka<supplied reason="omitted">ṭa</supplied>va nellu
+        Āyira-k kalammu<supplied reason="omitted">n</supplied>
         tuḷai kaḻ<choice><sic>ai</sic><corr>a</corr></choice>ñ<unclear>cu l</unclear> potta poṉ kācu niṟai-k-kallā<supplied reason="lost">l</supplied>
-        <lb n="5=45"/>poṉ nuṟṟu-k kaḻ<choice><sic>ai</sic><corr>a</corr></choice><supplied reason="omitted">ñ</supplied>cum taṟi-p-puṭavai Oṉṟu kāl-p poṉ peṟuvaṉa puṭavai paṉ<choice><orig>n</orig><reg>ṉ</reg></choice>iraṇṭum
+        <lb n="5=45"/>poṉ nuṟṟu-k kaḻ<choice><sic>ai</sic><corr>a</corr></choice><supplied reason="omitted">ñ</supplied>cum
+    </p>
+    <p>
+        taṟi-p-puṭavai Oṉṟu kāl-p poṉ peṟuvaṉa puṭavai paṉ<choice><orig>n</orig><reg>ṉ</reg></choice>iraṇṭum
         <lb n="6=46"/>neyi Eṇṇai mu-k-kalam ko<unclear>llar</unclear> U<unclear>lai-p</unclear>-pāṭṭam <choice><unclear>I</unclear><unclear>O</unclear></choice>ru pu<!--EF: abbrev. for puṉcey? See SII edition--> Āyarppalam neṭu-vāyil vata <gap reason="lost" unit="character" quantity="1"/> Aṭuttu
         <lb n="7=47" break="no"/>kku <unclear>ni</unclear><hi rend="grantha">bedha</hi><!--SII: nibe[nda*]m--> ceyita paṭi civayō<hi rend="grantha">gi-brāhma</hi>ṇa<unclear>r</unclear> mu-p-patiṉ-marum <hi rend="grantha">brā</hi><supplied reason="lost"><hi rend="grantha">hma</hi></supplied><unclear>ṇar</unclear> I<unclear>ru</unclear>-patiṉ-marum Āka <unclear>Ai</unclear>y-patiṉ-ma<unclear>ṟ</unclear>kku
         
@@ -148,12 +151,12 @@
                 <milestone type="pagelike" unit="zone" n="3"/>
                 <lb n="12=52" break="no"/><supplied reason="lost">lu</supplied> Iru-nāḻi <unclear>y-āka veṟṟillai</unclear>-p paṟṟu <supplied reason="lost">muṉ</supplied><unclear>ṟi</unclear><supplied reason="lost">ṉu</supplied>kku nellu Aṟu <supplied reason="lost">nā</supplied><unclear>ḻi</unclear><supplied reason="lost">yum</supplied></item>
             
-            <item><unclear>veṟu</unclear>ṅkāy nāḻi <unclear>nellu</unclear>kku patak' āka veṟuṅkāy nāṟukku nel
+            <item><unclear>veṟu</unclear>ṅkāy nāḻi <unclear>nellu</unclear>kku patak' āka<!--contra SII: pattāka--> veṟuṅkāy nāṟukku<!--contra SII: nūṟukku--> nel
                 <lb n="13=53" break="no"/>lu <unclear>patiṉ</unclear> nāḻiy<unclear>um</unclear></item>
             
         </list>
         
-        <supplied reason="lost">Āka nicatam</supplied> <unclear>nellu</unclear> nāṟ-kalaṉē <surplus>nāṟ-kalaṉē</surplus> Aiy-kuṟu<unclear>ṇi</unclear> <supplied reason="lost">nā-ṉāḻi Uḻakk' āka Ōr āṭṭai nāḷi</supplied>kku nellu Āyirattaṟu nūṟṟu Ai<unclear>y</unclear>
+        <supplied reason="lost">Āka nicatam</supplied> <unclear>nellu</unclear> nāṟ-kalaṉē <surplus>nāṟ-kalaṉē</surplus> Aiy-kuṟu<unclear>ṇi</unclear> <supplied reason="lost">nā-ṉāḻi Uḻakk' āka Ōr āṭṭai nāḷai</supplied>kku nellu Āyiratt' aṟu nūṟṟu Ai<unclear>y</unclear>
         <lb n="14=54" break="no"/>-kalaṉē Iru-tūṇi mu-k-ku<unclear>ṟuṇ</unclear>i Iru-nāḻiyum
     </p>
     <p>		
@@ -401,39 +404,39 @@
          
 <div type="translation" resp="part:emfr">
 	
-    <p n="1-7">
+    <p n="1-5">
         The taxes that this Neṭuvāyil and the hamlets surrounding Neṭuvāyil are to pay <supplied reason="explanation"><foreign>iṟukkak kaṭava</foreign></supplied> for this god,
-        the paddy that is to be measured <supplied reason="explanation"><foreign>aḷakka kaṭava</foreign></supplied> ...,
+        the paddy that is to be measured <supplied reason="explanation"><foreign>aḷakka kaṭava</foreign></supplied> in the glorious courtyard <supplied reason="explanation"><foreign>tirumuṟṟattu</foreign></supplied> by Nakkaṉ of Paḷuvūr according to the stone of this glorious temple and the village stone<note>That is, weight standards.</note>,
         the paddy that is to be provided <supplied reason="explanation"><foreign>aṭṭa kaṭava</foreign></supplied>...,
-        is one thousand <foreign>kalam</foreign>.
-        ...
-        whereas there are <supplied reason="explanation"><foreign>āka</foreign></supplied>
-        tirthy Śivayogin Brahmins and twenty Brahmins
-        according to the binding agreement <supplied reason="explanation"><foreign>nibandha</foreign></supplied>
-        for <supplied reason="subaudible">these</supplied> fifthy persons, <supplied reason="subaudible">provisions are as follows</supplied>.        
+        <supplied reason="subaudible">are</supplied> one thousand <foreign>kalam</foreign>s and one hundred <foreign>kaḻañcu</foreign>s of gold ...
     </p>
+    <p n="5-7">
+        ...
+        according to the binding agreement <supplied reason="explanation"><foreign>nibandha</foreign></supplied>,
+        whereas there are <supplied reason="explanation"><foreign>āka</foreign></supplied>
+        tirthy Śivayogin Brahmins and twenty Brahmins,        
+        for <supplied reason="subaudible">these</supplied> fifthy persons, <supplied reason="subaudible">provisions are as follows</supplied>.        </p>
     
     <p n="7-14">
-        Whereas there are,
         <list>
-            <item>so that, for one person, there be perpetually two <foreign>nāḻi</foreign>s of rice and so that there be, <supplied reason="subaudible">for this purpose</supplied>, five <foreign>nāḻi</foreign>s of paddy, for <supplied reason="subaudible">these</supplied> fifthy persons, <supplied reason="subaudible">a total of</supplied> two <foreign>kalaṉ</foreign>s, two <foreign>kuṟuṇi</foreign>s and two <foreign>nāḻi</foreign>s of paddy <supplied reason="subaudible">are</supplied> perpetually <supplied reason="subaudible">provisioned</supplied>,</item>
-            <item>so that there be <supplied reason="explanation">one</supplied> <foreign>tūṇi</foreign> of paddy for <supplied reason="explanation">one</supplied> <foreign>nāḻi</foreign> of ghee ...,</item>
-            <item><supplied reason="explanation">one</supplied> <foreign>tūṇi</foreign> of paddy for the curries,</item>
-            <item><supplied reason="explanation">one</supplied> <foreign>kuṟuṇi</foreign> of paddy for ...</item>
-            <item><supplied reason="explanation">one</supplied> <foreign>patakku</foreign> of paddy for ...</item>
-            <item>six <foreign>nāḻi</foreign>s of paddy ... so that there be <supplied reason="explanation">one</supplied> <foreign>tūṇi</foreign> of paddy for <supplied reason="explanation">one</supplied> <foreign>nāḻi</foreign> of ghee ...,</item>
-            <item>six <foreign>nāḻi</foreign>s of paddy ... </item>
+            <item>So that, for one person, there be perpetually two <foreign>nāḻi</foreign>s of rice and there be, <supplied reason="subaudible">for this purpose</supplied>, five <foreign>nāḻi</foreign>s of paddy, for <supplied reason="subaudible">these</supplied> fifthy persons, <supplied reason="subaudible">a total of</supplied> two <foreign>kalaṉ</foreign>s, two <foreign>kuṟuṇi</foreign>s and two <foreign>nāḻi</foreign>s of paddy <supplied reason="subaudible">are</supplied> perpetually <supplied reason="subaudible">provisioned</supplied>,</item>
+            <item>so that there be <supplied reason="explanation">one</supplied> <foreign>tūṇi</foreign> of paddy for <supplied reason="explanation">one</supplied> <foreign>nāḻi</foreign> of ghee for three <foreign>nāḻi</foreign>s and <supplied reason="subaudible">one</supplied> ollock of ghee, for these three <foreign>nāḻi</foreign>s and <supplied reason="subaudible">one</supplied> ollock of ghee, <supplied reason="explanation">one</supplied> <foreign>kalaṉ</foreign> and four <foreign>nāḻi</foreign>s of paddy <supplied reason="subaudible">are</supplied> perpetually <supplied reason="subaudible">provisioned</supplied>, </item>
+            <item>for the curries <supplied reason="explanation">one</supplied> <foreign>tūṇi</foreign> of paddy <supplied reason="subaudible">is provisioned</supplied>,</item>
+            <item>for ... <supplied reason="explanation">one</supplied> <foreign>kuṟuṇi</foreign> of paddy <supplied reason="subaudible">is provisioned</supplied>,</item>
+            <item>for ... <supplied reason="explanation">one</supplied> <foreign>patakku</foreign> of paddy <supplied reason="subaudible">is provisioned</supplied>,</item>
+            <item>so that there be <supplied reason="explanation">one</supplied> <foreign>nāḻi</foreign> and <supplied reason="explanation">one</supplied> <foreign>uḻakku </foreign> of paddy for <supplied reason="explanation">one</supplied> <foreign>nāḻi</foreign> of salt, for five <foreign>nāḻi</foreign>s of salt six <foreign>nāḻi</foreign>s of paddy <supplied reason="subaudible">are provisioned</supplied>,</item>
+            <item>so that there be <supplied reason="explanation">two</supplied> <foreign>nāḻi</foreign>s of paddy <supplied reason="explanation">one</supplied> for <supplied reason="explanation">one</supplied> <foreign>paṟṟu</foreign> of betel, for three <foreign>paṟṟu</foreign>s of betel six <foreign>nāḻi</foreign>s of paddy <supplied reason="subaudible">are provisioned</supplied>,</item>            
+            <item>so that there be ..., for one hundred<!--check--> areca-nuts ten <foreign>nāḻi</foreign>s of paddy <supplied reason="subaudible">are provisioned</supplied>,</item>
         </list>
-        so that there be ... per year, <supplied reason="subaudible">a total of</supplied> ...
+        this being so, so that there be perpetually four <foreign>kalaṉ</foreign>s, five <foreign>kuruṇi</foreign>s, four <foreign>nāḻi</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>uḻakku</foreign>, per year, per day, <supplied reason="subaudible">a total of</supplied> one thousand six hundred and five <foreign>kalaṉ</foreign>s, two <foreign>tūṇi</foreign>s, three <foreign>kuṟuṇi</foreign>s and two <foreign>nāḻi</foreign>s <supplied reason="subaudible">are provisioned</supplied>.
     </p>
     
     <p n="14-15">
-        Whereas there are
         <list>
-            <item>...</item>            
-            <item>...</item>            
+            <item>for ...</item>            
+            <item>for ...</item>            
         </list>        
-        so that there be perpetually one <foreign>patakku</foreign> of paddy, per year, <supplied reason="subaudible">a total of</supplied> of sixty <foreign>kalam</foreign>s of paddy <supplied reason="subaudible">are provisioned</supplied>.        
+        this being so, so that there be perpetually one <foreign>patakku</foreign> of paddy, per year, <supplied reason="subaudible">a total of</supplied> of sixty <foreign>kalam</foreign>s of paddy <supplied reason="subaudible">are provisioned</supplied>.        
     </p>
     
     <p n="15-16">
@@ -444,20 +447,28 @@
         Whereas there are <supplied reason="explanation"><foreign>āka</foreign></supplied>
         tirthy Śivayogin Brahmins and twenty Brahmins,
         for <supplied reason="subaudible">these</supplied> fifthy persons, ...
-        per year, <supplied reason="subaudible">a total of</supplied> of ... <supplied reason="subaudible">are provisioned</supplied>.
+        per year, <supplied reason="subaudible">a total of</supplied> of ... <supplied reason="subaudible">are provisioned, as follows</supplied>.
     </p>
     
     <p n="18-25">
-        ...
+        <list>
+            <item>for ...</item>            
+            <item>for ...</item>            
+        </list>        
+        this being so, so that there be ... 
     </p>
     
      <p n="26-36">
-        ...
+        <list>
+            <item>for ...</item>            
+            <item>for ...</item>            
+        </list>     
     </p>
     
     <p n="37-42">
+        So that there be an inner sanctum endowment <supplied reason="explanation"><foreign>tiru-v-uṇṇaḻikai-p-puṟam</foreign></supplied> ...
+        according to what has been engraved on stone <supplied reason="subaudible">provisions are as follows</supplied>.
         
-         Whereas there is 
         <list>
             <item>...</item>            
             <item>...</item>            
@@ -476,8 +487,7 @@
          
 <div type="commentary">
          	
-	<p>The record mentions the 7th regnal year of Rājarāja (line 37), as a starting point. It might however be dated to the year 14 of Uttamacōḻa, which is the internal date of <ref target="DHARMA_INSSII1900357-1.xml">SII 19.357-1</ref>, that <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> consider to be the first part of the present record.
-	</p>
+	<p>The record mentions the 7th regnal year of Rājarāja (line 37), as a starting point. It might however be dated to the year 14 of Uttamacōḻa, which is the internal date of <ref target="DHARMA_INSSII1900357-1.xml">SII 19.357-1</ref>, that <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> consider to be the first part of the present record.</p>
 	
 </div>
       	
