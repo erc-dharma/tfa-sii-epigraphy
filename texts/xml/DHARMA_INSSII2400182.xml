@@ -55,7 +55,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>List of provisions for worshipping an image of the deity, including the recitation of <foreign>Śrīpurāṇam</foreign>.</summary>
+						<summary>List of provisions for worshipping an image of the deity, including the recitation of the <foreign>Śrīpurāṇam</foreign>.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -174,7 +174,7 @@
 		<gap reason="lost" extent="unknown" unit="character"/>
 		<lb n="16"/>
 		<milestone n="A" unit="block" type="gridlike"/>
-		Āka-t tirumañcaṉam Iraṇṭukkum peru
+		Āka-t tiru-mañcaṉam Iraṇṭukkum peru
 		<milestone n="B" unit="block" type="gridlike"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		<lb n="17" break="no"/>
@@ -325,15 +325,15 @@
 	</p>
 	
 	<p n="3">
-		<gap reason="lost"/> three <foreign>kuṟuṇi </foreign><gap reason="lost"/>
+		<gap reason="lost"/> three <foreign>kuṟuṇi</foreign>s <gap reason="lost"/>
 	</p>
 	
 	<p n="4">
-		<gap reason="lost"/> offering of curds <supplied reason="explanation"><foreign>tayir amutu</foreign></supplied><gap reason="lost"/>
+		<gap reason="lost"/> offering of curds <supplied reason="explanation"><foreign>tayir amutu</foreign></supplied> <gap reason="lost"/>
 	</p>
 	
 	<p n="5">
-		<gap reason="lost"/><foreign> tūṇi </foreign> of <gap reason="lost"/> pots of paddy<gap reason="lost"/>
+		<gap reason="lost"/><foreign> tūṇi </foreign> of <gap reason="lost"/> pots of paddy <gap reason="lost"/>
 	</p>
 	
 	<p n="7">
@@ -341,11 +341,11 @@
 	</p>	
 	
 	<p n="8">
-		<gap reason="lost"/> gracefully made, <gap reason="lost"/> offering of two <foreign>mañcāṭis</foreign> of <gap reason="lost"/>
+		<gap reason="lost"/> gracefully made, <gap reason="lost"/> offering of two <foreign>mañcāṭi</foreign>s of <gap reason="lost"/>
 	</p>
 	
 	<p n="9">
-		<gap reason="lost"/> plantain to perform the holy bath <supplied reason="explanation"><foreign>āṭiyaruḷa</foreign></supplied><gap reason="lost"/>
+		<gap reason="lost"/> plantain to perform the holy bath <supplied reason="explanation"><foreign>āṭiyaruḷa</foreign></supplied> <gap reason="lost"/>
 	</p>
 	
 	<p n="10">
@@ -357,23 +357,23 @@
 	</p>
 	
 	<p n="12">
-		<gap reason="lost"/>the village assembly <supplied reason="explanation"><foreign>paruṣai</foreign></supplied>, which will make the request <supplied reason="explanation"><foreign>viṇṇappam ceyyum</foreign></supplied> <gap reason="lost"/> 
+		<gap reason="lost"/> the village assembly <supplied reason="explanation"><foreign>paruṣai</foreign></supplied>, which will make the request <supplied reason="explanation"><foreign>viṇṇappam ceyyum</foreign></supplied> <gap reason="lost"/> 
 	</p>
 	
 	<p n="13-14">
-		<gap reason="lost"/> so that <gap reason="lost"/> <foreign>kaḻañcus</foreign> <supplied reason="subaudible">for</supplied> the reciter <supplied reason="explanation"><foreign>vācippān</foreign></supplied> of <foreign>Śrīpurāṇam</foreign>, a <foreign>kaḻañcu</foreign> of gold for <gap reason="lost"/>
+		<gap reason="lost"/> so that <gap reason="lost"/> <foreign>kaḻañcu</foreign>s <supplied reason="subaudible">for</supplied> the reciter <supplied reason="explanation"><foreign>vācippān</foreign></supplied> of the <foreign>Śrīpurāṇam</foreign>, a <foreign>kaḻañcu</foreign> of gold for <gap reason="lost"/>
 	</p>
 	
 	<p n="14">
-		<gap reason="lost"/> half <foreign>kaḻañcu</foreign> of <gap reason="lost"/> ten gold coins<gap reason="lost"/>
+		<gap reason="lost"/> half <foreign>kaḻañcu</foreign> of <gap reason="lost"/> ten gold coins <gap reason="lost"/>
 	</p>
 	
 	<p n="15-16">
-		<gap reason="lost"/> so that six <gap reason="lost"/> <foreign>nāḻis</foreign> <gap reason="lost"/>, <foreign>tūṇi</foreign> of paddy <gap reason="lost"/>
+		<gap reason="lost"/> so that six <gap reason="lost"/> <foreign>nāḻi</foreign>s <gap reason="lost"/>, <foreign>tūṇi</foreign> of paddy <gap reason="lost"/>
 	</p>
 	
 	<p n="16">
-		<gap reason="lost"/> the holy bath <supplied reason="explanation"><foreign>tirumañcaṉam</foreign></supplied><gap reason="lost"/>
+		<gap reason="lost"/> the holy bath <supplied reason="explanation"><foreign>tirumañcaṉam</foreign></supplied> <gap reason="lost"/>
 	</p>
 	
 	<p n="18">
@@ -385,24 +385,24 @@
 	</p>
 	
 	<p n="20">
-		<gap reason="lost"/> two <foreign>nāḻis</foreign> of daily paddy so that <gap reason="lost"/>
+		<gap reason="lost"/> two <foreign>nāḻi</foreign>s of daily paddy so that <gap reason="lost"/>
 	</p>
 	
 	<p n="21">
-		<gap reason="lost"/> two hundred and sixteen <foreign>kalam</foreign> of paddy<gap reason="lost"/>
+		<gap reason="lost"/> two hundred and sixteen <foreign>kalam</foreign> of paddy <gap reason="lost"/>
 	</p>
 	
 	<p n="22">
-		<gap reason="lost"/> for forty-six <foreign>kalam</foreign> <gap reason="lost"/>
+		<gap reason="lost"/> for forty-six <foreign>kalam</foreign>s <gap reason="lost"/>
 	</p>
 	
 	<p n="23">
-		<gap reason="lost"/> the leased land <gap reason="lost"/>
+		<gap reason="lost"/> the land given <gap reason="lost"/>
 	</p>
 	
 	
-	<p n="24">
-		<gap reason="lost"/> for the protection of the vaiṣṇavas <gap reason="lost"/>
+	<p n="23- 24">
+		<gap reason="lost"/> This is under the protection of the Vaiṣṇavas <gap reason="lost"/>
 	</p>
 				
 </div>
@@ -443,11 +443,7 @@
 	</body>
 	</text>
 </TEI>
+
 <!--METADATA:
 	On the east wall of the second prākāra of the same temple, left of entrance <note>Another common term to refer to the Kāpālikas, followers of Atimārga III</note>.
-	
 -->
-<!--hereditary rights of land tenure <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> in the northern <foreign>tēvatāṉam</foreign> <supplied reason="subaudible">called</supplied> Perumpākam <supplied reason="subaudible">dedicated</supplied> to the Lord that gracefully dwells there	so that he hears the <foreign>Śrīpurāṇam</foreign> of Āḷuṭaiya-nampi Cuntarar, <supplied reason="subaudible">whose image</supplied> was gracefully installed <supplied reason="explanation"><foreign>ceyt’ eḻuntaruḷi</foreign></supplied> in the assembly hall <supplied reason="explanation"><foreign>tiruvōlakka</foreign></supplied> next to the holy Makiḻ tree <supplied reason="subaudible">of the shrine?</supplied> of god Paṭampakka-nāyaka<note>This was later named the shrine of god Gauliśa, which pertains to the Śaiva Atimārga I of Lakulīśa.</note>. <supplied reason="subaudible">This was done</supplied> on the day of Āyilēyam <supplied reason="explanation">ninth star</supplied>, which occurs on the Wednesday of <foreign>ēkātāci</foreign>, that is, the sixth day of the holy festival of Paṅkūṉi of Lord<gap reason="lost"/>
-
-After despositing at the temple treasury <supplied reason="explanation"><foreign>śrīpaṇṭāra</foreign></supplied> 120 current coins <supplied reason="explanation"><foreign>aṉṟāṭu naṟkācu</foreign></supplied> as sell price price for the hereditary rights of land tenure <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> of this village, which was gracefully commanded <supplied reason="explanation"><foreign>tiruvāymoḻintaruḷa</foreign></supplied> thus: “Let it be granted that after selling the hereditary rights of land tenure <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> as as tax collection <supplied reason="explanation"><foreign>taṇṭicaṉ>>taṇṭitaṉ?</foreign></supplied>  to Iraṇaiyūr Amutaṅ Kiḻavaṉ Periyāṉ Cōmaṉ in our town so it is sung <supplied reason="explanation"><foreign>viṇṇappañ ceyya</foreign></supplied><gap reason="lost"/>”-->
-<!--<note><foreign>piṭāraṉ</foreign> = temple official or musician? SII.65 indicates that the <foreign>piṭārar</foreign> are entrusted with the singing of the holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied>. According to Karashima (Ancient to Medieval, p. 120), they were in fact “temple supervising officers”, which seems to be also in line with Pondicherry Inscription 8, so one of their important tasks for which they got lands and tax exemptions was the singing of hymns</note>-->
