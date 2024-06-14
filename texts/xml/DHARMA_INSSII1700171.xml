@@ -86,7 +86,9 @@
       <body>
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-			
+	
+	<!--@EF: check against SII edition + add editorial hyphens-->
+	
 	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
          		<lb n="1"/>svasti śrī
          	</ab>
@@ -186,10 +188,21 @@
             
 </div>-->
 
-         <div type="translation" resp="part:reda part:emfr">
-         	<p n="1">
-         		Hail! Prosperity! This is the 14th year of   Tiripuvaṉac-cakkara-vattikaḷ <supplied reason="explanation">Tribhuvanacakravarti</supplied> Cuntarapāṇṭiya-tēvar <foreign>alias</foreign> king Caṭapaṉmar <supplied reason="explanation">Jaṭavarman</supplied>, <supplied reason="subaudible">written?</supplied> on top of his auspicious eulogy <supplied reason="explanation"><foreign>śrī-meykkīrtti</foreign></supplied>.
-         	</p>
+<div type="translation" resp="part:reda part:emfr">
+         	
+         	<!--@EF: check/update translation.-->
+	
+	<p n="1">
+		Hail! Prosperity!
+	</p>
+	
+	<p n="1">
+		Above <supplied reason="subaudible">is</supplied> the glorious true fame <supplied reason="explanation"><foreign>śrī-meykkīrtti</foreign></supplied>.<note>The location of the unwritten <foreign>meykkīrtti</foreign> is thus indicated.</note>
+	</p>
+	
+	<p n="1">
+		14th year of the king Sundara Pāṇḍya <supplied reason="explanation"><foreign>cuntara-pāṇṭiya-tēvar</foreign></supplied>, the emperor of the three worlds <supplied reason="explanation"><foreign>tiripuvaṉa-c-cakkara-varttikaḷ</foreign><note>Sanskrit Tribhuvanacakravartin.</note></supplied> <foreign>alias</foreign> king Caṭaipaṉmar<note>Sanskrit Jaṭāvarman.</note>.
+	</p>	
          	
          	<p n="1-4">
          		We, the <foreign>civappirāmaṇar</foreign> <supplied reason="explanation"><foreign>śivabrāhmaṇas</foreign></supplied> that belong to the 30-day service <supplied reason="explanation"><foreign>muppatu vaṭṭam</foreign></supplied>, <supplied reason="subaudible">are now</supplied> owners of the land of the temple of this god <supplied reason="subaudible">agreed with</supplied> village officials <supplied reason="explanation"><foreign>ūr mutalikaḷ</foreign></supplied> of Cōḻakulavalli Nallūr, land managers <supplied reason="explanation"><foreign>kaṭavār</foreign></supplied>, royal accountants <supplied reason="explanation"><foreign>irāca kaṇkāṇi</foreign></supplied>, śaiva ascetics <supplied reason="explanation"><foreign>śrīmākecurar</foreign></supplied> and <supplied reason="subaudible">those belonging to</supplied> the Lord Āticaṇṭecuratēvar of the temple of  god Tirukkaṇṇicuram-uṭaiyār, <supplied reason="subaudible">being the former</supplied> owner <supplied reason="explanation"><foreign>uṭaiyāṉ</foreign></supplied>  Meyūr Milaiyaṅkiḻāṉ Aḻakiya Tirucciṟṟampalam from Cōḻakulavalli Nallūr and Maṉṟil Kuṉikkum Perumāṉ, <foreign>alias</foreign> Apimāṉa Tuṅka Pallavaraiyar.
