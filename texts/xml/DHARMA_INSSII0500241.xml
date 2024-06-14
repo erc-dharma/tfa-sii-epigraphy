@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Pērūr, Gōṣṭēśvara, time of Kōṉerimaikoṇṭān, no year</title>
+				<title>Pērūr, Goṣṭeśvara<!--same temple as SII5.228: Goṣṭhīśvara? Standardise-->, time of Kōṉēriṉmaikoṇṭān, no year</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -60,7 +60,6 @@
 					<physDesc>
 						<handDesc>
 							<p>Medial <foreign>i</foreign> and <foreign>ī</foreign> interchangeable.</p>
-							<p/>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -102,41 +101,65 @@
 	</ab>
 	
 	<p>
-		kō-ṉerimai-koṇṭān tiru-vā<choice><orig>n</orig><reg>ṉ</reg></choice>
+		kō-ṉēri<supplied reason="omitted">ṉ</supplied>mai-koṇṭān tiru-vā<choice><orig>n</orig><reg>ṉ</reg></choice>
 		<lb n="2" break="no"/>paṭṭi Uṭaiyār c<choice><orig>i</orig><reg>ī</reg></choice>-kāriyañ ceyvārkaḷukku
-		<lb n="3"/>nañ ceṉāpatikaḷil kaṇṭarātittaṉ ceṭṭi
-		<lb n="4" break="no"/>y-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">rājarāja</hi>-p paṅkaḷa-nāṭ’ uṭaiyāṉukku
-		<lb n="5"/>na<supplied reason="undefined">m</supplied> ceṉāpati-k kāṇi y-āka Iṭṭa nilam āvatu
+		<lb n="3"/>nañ ceṉā-patikaḷil kaṇṭarātittaṉ ceṭṭi
+		<lb n="4" break="no"/>y-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">rāja-rāja</hi>-p-paṅkaḷa-nāṭ’ uṭaiyāṉukku
+		<lb n="5"/>na<unclear>m</unclear> ceṉā-pati-k kāṇi y-āka Iṭṭa nilam āvatu
 	</p>
+	
 	<p>
 		per<choice><sic>u</sic><corr>ū</corr></choice><supplied reason="omitted">r</supplied>-nā
-		<lb n="6" break="no"/>ṭṭu kova<choice><orig>n</orig><reg>ṉ</reg></choice>puttū<surplus>r</surplus>r-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a v<choice><sic>i</sic><corr>ī</corr></choice>ra-keraḷa nallūr-p pāl
-		<lb n="7"/>perumāṭkaḷ nācci nallūril civapātacēkara-maṉṉa
-		<lb n="8" break="no"/>ṟaiyil Atirācarāca v<supplied reason="omitted">ā</supplied>y-kkālukku vaṭakku koṅ
-		<lb n="9" break="no"/>kakulavalli vatikku-k kiḻakku-p puṟatuṇṭattu nel
-		<lb n="10"/>vitai mu<supplied reason="undefined">k</supplied>kalattil It-tēvar paṅkuṉi-t tirunāḷ viṇ
-		<lb n="11" break="no"/>ṇāḷaṉukku Ivaṉ viṭṭa 
+		<lb n="6" break="no"/>ṭṭu kova<choice><orig>n</orig><reg>ṉ</reg></choice>puttū<surplus>r</surplus>r-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a v<choice><sic>i</sic><corr>ī</corr></choice>ra-keraḷa-nallūr-p pāl
+		<lb n="7"/>perumāṭkaḷ nācci nallūril civa-pāta-cēkara-maṉṉa
+		<lb n="8" break="no"/>ṟaiyil Ati-rāca-rāca-v<supplied reason="omitted">ā</supplied>y-k-kālukku vaṭakku koṅ
+		<lb n="9" break="no"/>ka-kula-valli-vatikku-k kiḻakku-p puṟatuṇṭattu nel
+		<lb n="10"/>vitai mu-<unclear>k</unclear>-kalattil It-tēvar paṅkuṉi-t tiru-nāḷ viṇ
+		<lb n="11" break="no"/>ṇāḷaṉukku Ivaṉ v-iṭṭa nel
 	</p>
-	<list>
-		<item>nel vitai Irukalattiṉā
-			<lb n="12" break="no"/>l mēlvārattā<supplied reason="omitted">l</supplied> nel I<unclear>ru</unclear>pattu nāṟkalattukku-c cilav’ ā
-			<lb n="13" break="no"/>ka-t</item>
-		<item>tiru Amutarici tūṇi-p patakku nāl viñcaṉam uṭpaṭa nel
-			<lb n="14" break="no"/><unclear>k</unclear>- kalaṉē tūṇi-p patakkum maṭattukku</item>
-		<item>Arici nāṟkalatti<choice><orig>n</orig><reg>ṉ</reg></choice>āl
-			<lb n="15"/>vi<unclear>ñ</unclear>caṉam Uṭpaṭa nel-<supplied reason="undefined">p</supplied> patiṉaiṅ kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi
-			<lb n="16"/>Aṟunāḻiyum pū<unclear>ci</unclear>kkum nampiyārkku</item>
-		<item>tiruppaḷḷi-t tāmam pa
-			<lb n="17" break="no"/>ṟippā<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum toṭuppā<supplied reason="undefined"><choice><orig>n</orig><reg>ṉ</reg></choice></supplied><choice><orig>n</orig><reg>ṉ</reg></choice>ukkum tirukkuḻal paṇi ce<supplied reason="omitted">y</supplied>vāṟkkum</item>
-		<item>nel<lb n="19"/>Irutūṇi patakku tiruviḷakkeṇṇai kuṟi nānā<lb n="20" break="no"/>ḻikku</item>
-		<item><lb n="18"/><supplied reason="undefined">ne</supplied>l kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi <supplied reason="undefined">ti</supplied>ruv<choice><sic>i</sic><corr>ī</corr></choice>ti Āṇṭā<supplied reason="omitted">r</supplied>kaḷukku</item>
-		<item>nel nākkalam tiruppatiyam pāṭuvōṟkum <lb n="21"/>naṭṭuvaṟkum</item>
-		<item>nel tūṇi pata<supplied reason="undefined">ṟ</supplied>kum Irukala nel <unclear>vi</unclear><lb n="22" break="no"/>taiyāl pāṭṭa</item>
-		<item>nel iru<supplied reason="undefined">pa</supplied>ttu naṟkala<choice><orig>n</orig><reg>ṉ</reg></choice>ē <lb n="23"/>tūṇi-p pataṟkum koṇṭu</item>
-	</list>
+	<p>
+		
+		vitai Iru-kalattiṉā
+		<lb n="12" break="no"/>l mēl-vārattā<supplied reason="omitted">l</supplied> nel I<unclear>ru</unclear>-pattu nāṟ-kalattukku-c cilav’ ā
+		<lb n="13" break="no"/>ka-t
+		
+		<list>
+			<item>
+				tiru-Amut-arici tūṇi-p patakku nāl viñcaṉam uṭ-paṭa nel
+			<lb n="14" break="no"/>-<unclear>k</unclear>- kalaṉē tūṇi-p patakkum
+			</item>
+			
+			<item>
+				maṭattukku Arici nāṟ-kalatti<choice><orig>n</orig><reg>ṉ</reg></choice>āl
+				<lb n="15"/>vi<unclear>ñ</unclear>caṉam Uṭ-paṭa nel-<unclear>p</unclear> patiṉ aiṅ-kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi
+				<lb n="16"/>Aṟu-nāḻiyum
+			</item>
+			<item>				
+				pū<unclear>ci</unclear>kkum nampiyārkku
+				tiru-p-paḷḷi-t tāmam pa
+				<lb n="17" break="no"/>ṟippā<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum toṭuppā<choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice><choice><orig>n</orig><reg>ṉ</reg></choice>ukkum tiru-k-kuḻal paṇi ce<supplied reason="omitted">y</supplied>vāṟkkum
+				<lb n="18"/><unclear>ne</unclear>l kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi
+			</item>
+			<item>
+				<unclear>ti</unclear>ru-v<choice><sic>i</sic><corr>ī</corr></choice>ti Āṇṭā<supplied reason="omitted">r</supplied>kaḷukku nel
+				<lb n="19"/>Iru-tūṇi patakku
+			</item>
+			<item>				
+				tiru-viḷakk' eṇṇai kuṟi nā-nā
+				<lb n="20" break="no"/>ḻikku	nel nā-k-kalam
+			</item>
+			<item>				
+				tiru-p-patiyam pāṭuvōṟkum 
+				<lb n="21"/>naṭṭuvaṟkum
+				nel tūṇi pata<unclear>ṟ</unclear>kum Iru-kala-nel <unclear>vi</unclear>
+				<lb n="22" break="no"/>taiyāl pāṭṭa
+				nel Iru-<unclear>pa</unclear>ttu naṟ-kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē
+				<lb n="23"/>tūṇi-p pataṟkum koṇṭu</item>
+		</list>
+	</p>
 	<p>
 		It-ta<supplied reason="omitted">ṉ</supplied>ma<supplied reason="omitted">m</supplied> celuttuka Itu
-		<lb n="24"/>pa<choice><orig>n</orig><reg>ṉ</reg></choice>mā Ecuvar <hi rend="grantha">rekṣai</hi>
+		<lb n="24"/>pa<choice><orig>n</orig><reg>ṉ</reg></choice>mā-Ēcuvar <hi rend="grantha">rekṣai</hi>
 	</p>
 	
 </div>
@@ -146,9 +169,9 @@
 	<listApp>
 		
 		<app loc="18">
-			<lem>kuṇamē<choice><orig>n</orig><reg>ṉ</reg></choice>akaipuram</lem>
-			<rdg source="bib:KrishnaSastri1923_01">kuṇamenkaipuram</rdg>
-			<note><ptr target="bib:KrishnaSastri1923_01"/> reads <foreign>kuṇamenakaipuram</foreign> in the other occurrences; the present readin <foreign>kuṇamenkaipuram</foreign> appears thus to be a typo.</note>
+			<lem></lem>
+			<rdg source="bib:..."></rdg>
+			<note></note>
 		</app>	
 		
 	</listApp>	-->
@@ -162,22 +185,33 @@
 	</p>
 	
 	<p n="1-5">
-		In the name of our army commander <supplied reason="explanation"><foreign>ceṉāpatikaḷ</foreign></supplied>, this land is given  so that the hereditary rights of the land <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> of our army commander <supplied reason="subaudible">which belonged to</supplied> the landholder <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied> from Rājarāja Paṅkala-nāṭu, <foreign>alias</foreign> Kaṇṭarātittaṉ Ceṭṭi <supplied reason="subaudible">of the court of king</supplied> Kōṉerimaikoṇṭāṉ <supplied reason="subaudible">are transferred</supplied> to the managers of the sacred temple <supplied reason="explanation"><foreign>cikāriyañ ceyvārkaḷ</foreign></supplied> of Tiruvāṉpaṭṭi-uṭaiyār.
+		In the name of our army commander <supplied reason="explanation"><foreign>ceṉāpatikaḷ</foreign></supplied>, this land is given  so that the hereditary rights of the land <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> of our army commander <supplied reason="subaudible">which belonged to</supplied> the landholder <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied> from Rājarājapaṅkalanāṭu, <foreign>alias</foreign> Kaṇṭarātittaṉ Ceṭṭi <supplied reason="subaudible">of the court of king</supplied> Kōṉēriṉmaikoṇṭāṉ <supplied reason="subaudible">are transferred</supplied> to the managers of the sacred temple <supplied reason="explanation"><foreign>cīkāriyañ ceyvārkaḷ</foreign></supplied> of the Lord of Tiruvāṉpaṭṭi.
 	</p>
+	
 	<p n="5-11">
-		For the Paṅkuṉi festival <supplied reason="subaudible">dedicated</supplied> to this God, he gave to Viṇṇāḷaṉ (?) three pots of paddy seeds <supplied reason="subaudible">obtained</supplied> from the plot to the east of the Koṅkakulavalli cross-channel and north of the Atirācarāca canal in Civapāta-cēkara Maṉṉaṟai located in Nallūr. <supplied reason="subaudible">This is a plot under the charge of</supplied> Nācci (?) and the assembly of Vīrakeraḷa Nallūr, <foreign>alias</foreign> Kovanputtūr, in Pērūr-nāṭu. 
+		The paddy that he gave
+		for the Paṅkuṉi festival <supplied reason="subaudible">dedicated</supplied> to this God, he gave to Viṇṇāḷaṉ (?) three pots of paddy seeds <supplied reason="subaudible">obtained</supplied> from the plot to the east of the Koṅkakulavalli cross-channel and north of the Atirācarācaṉ canal in Civapāta-cēkara-maṉṉaṟai located in Nallūr. <supplied reason="subaudible">This is a plot under the charge of</supplied> Nācci (?) and the assembly of Vīrakeraḷanallūr, <foreign>alias</foreign> Kovanputtūr, in Pērūr-nāṭu
+		<supplied reason="subaudible">is as follows.</supplied>
 	</p>
+	
 	<p n="11-22">
-		<supplied reason="subaudible">This was given</supplied> so the expenses amounting to twenty-four pots of paddy claimed by the landholder <supplied reason="explanation"><foreign>mēlvāram</foreign></supplied> <supplied reason="subaudible">are covered</supplied> by twenty pots of paddy seeds:
-	<list>
-		<item>For the <foreign>maṭam</foreign>, one <foreign>tūṇi</foreign>, one <foreign>patakku</foreign><note>this would be half kalam. <!--@reda:MAKE THE CALCULATION!--></note>, and one <foreign>kalam</foreign> of paddy, which includes four side dishes <supplied reason="explanation"><foreign>veñcaṉam</foreign></supplied>, one <foreign>tūṇi</foreign> and one <foreign>paṭakku</foreign> of sacred rice offerings.</item>
-		<item>For the temple priests <supplied reason="explanation"><foreign>nampiyār</foreign></supplied> who perform the worship <supplied reason="explanation"><foreign>pūcikkum</foreign></supplied>, six <foreign>nāḻis</foreign>, one <foreign>tūṇi</foreign>, and 15 pots of paddy, which include a side-dish per four pots of rice.</item>
-		<item>For the temple priests who perform the worship, for those who play the holy flute <supplied reason="explanation"><foreign>tirukkuḻal paṇi ceyvār</foreign></supplied>, the garland maker <supplied reason="explanation"><foreign>toṭuppāṉ</foreign></supplied>, and the picker of flowers <supplied reason="explanation"><foreign>paṟippāṉ</foreign></supplied> for the garland of the idol <supplied reason="explanation"><foreign>tiruppaḷḷi tāmam</foreign></supplied>, six <foreign>nāḻis</foreign>, one <foreign>tūṇi</foreign>, and 15 pots of paddy, which include a side-dish per four pots of rice.</item>
-		<item>one pot of paddy and one <foreign>tūṇi</foreign> for the mendicants <supplied reason="explanation"><foreign>āṇṭārkaḷ</foreign></supplied> <supplied reason="subaudible">who live in</supplied> the sacred street.</item>
-		<item>two <foreign>tūṇis</foreign> of paddy and one <foreign>patakku</foreign> for the four <foreign>nāḻis</foreign> are to be fixed to the sacred oil lamp <supplied reason="explanation"><foreign>tiruviḷakkeṇṇai</foreign></supplied>.</item>
-		<item>four pots of paddy for the singers of holy hymns <supplied reason="explanation"><foreign>tiruppatiyam pāṭuvōr</foreign></supplied> and the dancers <supplied reason="explanation"><foreign>naṭṭuvaṟ</foreign></supplied>.</item>
-		<item>one <foreign>tūṇi</foreign> of cooked rice <supplied reason="explanation"><foreign>pataṟku</foreign></supplied> at the rate of (?) of two pots of paddy seeds.</item>
-	<item>after taking one <foreign>tūṇi</foreign> of cooked rice <supplied reason="explanation"><foreign>pataṟku</foreign></supplied> <supplied reason="subaudible">for themselves (?)</supplied>.</item> 
+		So that there be <supplied reason="explanation"><foreign>āka</foreign><note>That is, "for a total of".</note></supplied> expenses amounting to twenty-four pots of paddy through<note>that is, "from".</note> the share claimed by the landholder <supplied reason="explanation"><foreign>mēlvāram</foreign></supplied> <supplied reason="subaudible">covered</supplied> by twenty pots of paddy seeds, <supplied reason="subaudible">the following is provisioned</supplied>.
+		
+		<list>
+			<item><supplied reason="subaudible">For</supplied> the sacred rice food-offerings: one <foreign>kalaṉ</foreign>, one <foreign>tūṇi</foreign>, and one <foreign>patakku</foreign> of paddy, which includes four side-dishes <supplied reason="subaudible">for</supplied> one <foreign>tūṇi</foreign> and one <foreign>patakku</foreign><!--this would be half kalam @reda:MAKE THE CALCULATION-->.</item>
+			
+			<item>For the <foreign>maṭam</foreign>: fifteen <foreign>tūṇi</foreign>s and six <foreign>nāḻi</foreign>s of paddy , which includes one side-dish per four pots of rice.</item>
+			
+			<item>For the temple priests <supplied reason="explanation"><foreign>nampiyār</foreign></supplied> who perform the worship <supplied reason="explanation"><foreign>pūcikkum</foreign></supplied>, the garland maker <supplied reason="explanation"><foreign>toṭuppāṉ</foreign></supplied>, and the picker of flowers <supplied reason="explanation"><foreign>paṟippāṉ</foreign></supplied> for the garland of the idol <supplied reason="explanation"><foreign>tiruppaḷḷi tāmam</foreign></supplied>, and those who play the holy flute <supplied reason="explanation"><foreign>tirukkuḻal paṇi ceyvār</foreign></supplied>: one <foreign>kalaṉ</foreign> and one <foreign>tūṇi</foreign> of paddy.</item>
+			
+			<item>For the temple priests who perform the worship, , six <foreign>nāḻis</foreign>, one <foreign>tūṇi</foreign>, and 15 pots of paddy, which include a side-dish per four pots of rice.</item>
+			
+			<item>For the mendicants <supplied reason="explanation"><foreign>āṇṭārkaḷ</foreign></supplied> <supplied reason="subaudible">who live in</supplied> the sacred street: two <foreign>ṭūṇi</foreign> and one <foreign>patakku</foreign> of paddy.</item>
+			
+			<item>For four <foreign>nāḻi</foreign>s ... for the sacred oil lamp <supplied reason="explanation"><foreign>tiruviḷakk' eṇṇai</foreign></supplied>: four <foreign>kalam</foreign>s of paddy.</item>
+			
+			<item>For the singers of holy hymns <supplied reason="explanation"><foreign>tiruppatiyam pāṭuvōr</foreign></supplied> and the dancers <supplied reason="explanation"><foreign>naṭṭuvaṟ</foreign></supplied>: one <foreign>tūṇi</foreign><!--check translation from here--> of cooked rice <supplied reason="explanation"><foreign>pataṟku</foreign></supplied> at the rate of (?) of two pots of paddy seeds, after taking one <foreign>tūṇi</foreign> of cooked rice <supplied reason="explanation"><foreign>pataṟku</foreign></supplied> <supplied reason="subaudible">for themselves (?)</supplied>.</item>
+			
 	</list>
 	</p>
 	<p n="23-24">
@@ -196,7 +230,7 @@
 	
     <p>Reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1893-1894/A/1893/565).</p>
     <p>Edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5.241).</p>
-    <p>This digital edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl>. This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+    <p>This digital edition by Renato Dávalos and Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl>. This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
         
     <listBibl type="primary">
         
