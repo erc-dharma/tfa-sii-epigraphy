@@ -84,7 +84,7 @@
 	
 	<p>	  	
 		kāntaḷūr cālai kalam aṟutta
-		<lb n="2"/><hi rend="grantha">ko-rājarājakesari-panma</hi><supplied reason="omitted">ṟ</supplied>kku yāṇṭu <num value="10"><g type="numeral">10</g></num>~<!--update encoding of dash in the original-->tt-āvatu	
+		<lb n="2"/><hi rend="grantha">ko-rāja-rāja-kesari-panma</hi><supplied reason="omitted">ṟ</supplied>kku yāṇṭu <num value="10"><g type="numeral">10</g></num><g type="dash"/>tt-āvatu	
 	</p>
 	
 	<p>	
@@ -123,13 +123,13 @@
 		<lb n="17"/>Iṭa-k kaṭavōm ākavum
 	</p>
 	<p>
-		Ip-paric' ōṭṭi Iṭṭu-k kuṭuttō muvēnta-p-piṭavūr veḷārkku
+		Ip-paric' ōṭṭi Iṭṭu-k kuṭuttō<supplied reason="subaudible">m</supplied> muvēnta-p-piṭavūr veḷārkku
 		<lb n="18"/>vēḷka<supplied reason="omitted">ḷa</supplied>-veṇpākkat=t' ūrōm 
 	</p>
 	
 	<p>
 		Ūrār paṇikka I-<hi rend="grantha">śilā</hi>-lēkai veṭṭiṉēṉ
-		<lb n="19"/>Āṟaiyāṉ <hi rend="grantha">śrī-go</hi>vin=ta-pāṭi ācāriya<choice><orig>n</orig><reg>ṉ</reg></choice>-ēṉ
+		<lb n="19"/>Āṟaiyāṉ <hi rend="grantha">śrī-go</hi>vin=ta-pāṭi Ācāriya<choice><orig>n</orig><reg>ṉ</reg></choice>-ēṉ
 	</p>
 	<p>		
 		Ivai-y eṉ eḻuttu
