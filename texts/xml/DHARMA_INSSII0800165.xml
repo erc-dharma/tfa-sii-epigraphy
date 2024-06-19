@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvaṇṇāmalai, Aruṇācaleśvara, time of Kṛishṇadeva Mahārāya, Śaka 1348</title>
+				<title>Tiruvaṇṇāmalai, Aruṇācaleśvara, time of Kṛishṇadeva Mahārāya, Śaka year 1438</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -107,9 +107,9 @@
     
     <p>
         <hi rend="grantha">śrīman·-mahā</hi>rācāti-Irā<hi rend="grantha">ja</hi>-Irāca-paramē<hi rend="grantha">śvaran·</hi>
-        <lb n="2"/>muvarāyara-kaṇṭa<supplied reason="omitted">ṉ</supplied> Ariya-Irāya-vipāṭa<supplied reason="omitted">ṉ</supplied> A<hi rend="grantha">ṣ</hi>ṭa-tikku 
+        <lb n="2"/>muvarāyar kaṇṭa<supplied reason="omitted">ṉ</supplied> Ariya-Irāya-vipāṭa<supplied reason="omitted">ṉ</supplied> A<hi rend="grantha">ṣ</hi>ṭa-tikku 
         <lb n="3" break="no"/>-Irāya-maṉōpayaṅkara<supplied reason="omitted">ṉ</supplied> pā<hi rend="grantha">ṣai</hi>kku-t tappu
-        <lb n="4" break="no"/>varāyara-kaṇṭa<supplied reason="omitted">ṉ</supplied> pūṟuva-te<hi rend="grantha">kṣi</hi>ṇa-paccima-ca
+        <lb n="4" break="no"/>varāyar kaṇṭa<supplied reason="omitted">ṉ</supplied> pūṟuva-te<hi rend="grantha">kṣi</hi>ṇa-paccima-ca
         <lb n="5" break="no"/>muttirāt<choice><orig>i</orig><reg>ī</reg></choice>cura<supplied reason="omitted">ṉ</supplied> yamuṉai-Irācciya-<hi rend="grantha"><supplied reason="omitted">sth</supplied>ā</hi>paṉā
         <lb n="6" break="no"/>cāriya<supplied reason="omitted">ṉ</supplied> kēca-pati-vipāṭa<supplied reason="omitted">ṉ</supplied> <hi rend="grantha">śrī</hi>-vīra-p-pira
         <lb n="7" break="no"/>tāpa<supplied reason="omitted">ṉ</supplied> <hi rend="grantha">śrī</hi>-vī<hi rend="grantha">ra-kiṣṇa</hi>-tēva-<hi rend="grantha">mahā</hi>-rāyar vicai
