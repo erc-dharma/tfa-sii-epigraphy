@@ -336,7 +336,7 @@
 	
     <listBibl type="primary">
         
-        <bibl n="SR">
+        <bibl n="SII">
             <ptr target="bib:KrishnaSastri1925_01"/>
             <citedRange unit="page">295-296</citedRange>
             <citedRange unit="item">705</citedRange>
