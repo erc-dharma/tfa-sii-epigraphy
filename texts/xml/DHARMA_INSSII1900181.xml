@@ -40,13 +40,10 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>A lacunose inscription, listing several endowments: an undated hereditary land endowment for singing (<foreign>tēci pāṭu</foreign>) before the Lord Tiruviṭaimarutuṭaiyār at the time assembly hall <supplied reason="explanation"><foreign>tiruvōlakkam</foreign></supplied> and another land endowment dated to the seventh regnal year of Parakesarivarman to various gods in  Tiruviṭaimarutūr.</summary>
+					    <summary>A lacunose inscription, seemingly a recapitulative inscription, listing several endowments: an undated hereditary land endowment for singing (<foreign>tēci pāṭu</foreign>) before the Lord Tiruviṭaimarutuṭaiyār at the time of devotees' assembly in front of the god <supplied reason="explanation"><foreign>tiruvōlakkam</foreign></supplied> and another land endowment dated to the seventh regnal year of Parakesarivarman to various gods in  Tiruviṭaimarutūr.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>
-								Only Fragment 1 refers to the singing as <foreign>tēciy pāṭu</foreign>, and only one instance we find <foreign>tēciya pāṭu</foreign>. Fragment 2 does not record this singing. 
-							</p>
 							<p/>
 						</handDesc>
 					</physDesc>
@@ -93,31 +90,31 @@
 	</p>
 	
 	<p>
-		<lb n="1"/><gap reason="lost" unit="character" quantity="8"/> <supplied reason="lost">tiru</supplied>-viṭai-<unclear>marut-u</unclear>ṭaiyār <hi rend="grantha">śrī-kārya</hi>m <unclear>ceyyum A</unclear>tikārikaḷ maturānta<supplied reason="lost">ka-mu</supplied>vēnta-vēḷārum tiru-viṭaimarut-uṭaiyār tēvaka
+		<lb n="1"/><gap reason="lost" unit="character" quantity="8"/> <supplied reason="lost">tiru</supplied>-viṭai-<unclear>marut-u</unclear>ṭaiyār <hi rend="grantha">śrī-kārya</hi>m <unclear>ceyyum A</unclear>tikārikaḷ maturānta<supplied reason="lost">ka-mu</supplied>vēnta-vēḷārum tiru-viṭai-marut-uṭaiyār tēva-ka
 		<lb n="2" break="no"/><supplied reason="lost">ṉmi</supplied> <gap reason="lost" quantity="8" unit="character"/> 
 	</p>
 	
 	<p>
-		<hi rend="grantha">sabhai</hi><gap reason="lost" unit="character" quantity="10"/> <supplied reason="lost">na</supplied>mpirāṭtiyār <gap reason="lost" quantity="4" unit="character"/> <hi rend="grantha">mā-bha<choice><orig><unclear>ṭ</unclear></orig><reg>ṭṭ</reg></choice>ā</hi><unclear>raki</unclear>yār<supplied reason="lost">k</supplied>k' āy tiruviṭaimarut-uṭaiyā<unclear>rk</unclear>ku kaṇkāṇi-kaṇakku Uṭaiya nampi na<gap reason="lost" extent="unknown" unit="character"/> 
+		<hi rend="grantha">sabhai</hi> <gap reason="lost" unit="character" quantity="10"/> <supplied reason="lost">na</supplied>m pirāṭtiyār <gap reason="lost" quantity="4" unit="character"/> <hi rend="grantha">mā-bha<choice><orig><unclear>ṭ</unclear></orig><reg>ṭṭ</reg></choice>ā</hi><unclear>raki</unclear>yār<supplied reason="lost">k</supplied>k' āy tiru-viṭai-marut-uṭaiyā<unclear>rk</unclear>ku kaṇkāṇi-kaṇakku Uṭaiya nampi na<gap reason="lost" extent="unknown" unit="character"/> 
 	</p>
 	
 	<p>
-		<lb n="3"/><gap reason="lost" unit="character" quantity="10"/><unclear>y</unclear>ār kōyilil <gap reason="lost" quantity="4" unit="character"/> k-kūṭattē-y Iruntu Uṭaiyār tiru-v-ōlakkam-āy Irukkat tēciy pāṭum kā<hi rend="grantha">śya</hi>paṉ kaṇṭa <unclear>ni</unclear> <gap reason="lost" unit="character" quantity="10"/> xEḻupaṇai-tēva<choice><orig>n</orig><reg>ṉ</reg></choice>ukku		
+		<lb n="3"/><gap reason="lost" unit="character" quantity="10"/> <unclear>y</unclear>ār kōyilil <gap reason="lost" quantity="4" unit="character"/> k-kūṭattē-y Iruntu Uṭaiyār tiru-v-ōlakkam āy Irukka-t tēci-y pāṭum kā<hi rend="grantha">śya</hi>paṉ kaṇṭa <unclear>ni</unclear> <gap reason="lost" unit="character" quantity="10"/> Eḻupaṇai-tēva<choice><orig>n</orig><reg>ṉ</reg></choice>ukku		
 	</p>
 		
 	<p>
-		<lb n="4"/> Ivaṉ tēciy <unclear>p p</unclear>āṭa tēciy pāṭuvaṟku muṉ kal-veṭṭiṉa nilam vēli<choice><sic>p</sic><corr>y</corr></choice>um <!--Interesting "mistake": so, it seems that they are mixing the writing of p and y (it should be the case since there are other instances of veliyum in this inscription). What if...they are also confusing the p and the y in teciy patu? That could mean that what we have is nothing more than tēcip patu... -->
+		<lb n="4"/> Ivaṉ tēci-y-<unclear>p p</unclear>āṭa tēci-y pāṭuvaṟku muṉ kal-veṭṭiṉa nilam vēli<choice><sic>p</sic><corr>y</corr></choice>um <!--Interesting "mistake": so, it seems that they are mixing the writing of p and y (it should be the case since there are other instances of veliyum in this inscription). What if...they are also confusing the p and the y in teciy patu? That could mean that what we have is nothing more than tēcip patu... -->
 			</p>
 	
-				<p>
-		Ivaṉ Eḻupaṇai-tēvaṉukkum Ivaṉ <hi rend="grantha">Anva</hi>yattār<supplied reason="omitted">k</supplied>kum
-		<lb n="5"/>vaḻi vaḻi <hi rend="grantha">candrā</hi>dittaval Ivaṉukku vēli nilam nivan=tam ceytu kuṭukka-v eṉṟu ēvalāl Ivaṉukku nivantañ ceyta nilam-āvatu Uṭaiyār tēvatā
-		
+    <p>
+        Ivaṉ Eḻupaṇai-tēvaṉukkum Ivaṉ <hi rend="grantha">Anva</hi>yattār<supplied reason="omitted">k</supplied>kum
+        <lb n="5"/>vaḻi vaḻi <hi rend="grantha">candrādi</hi>tta-val Ivaṉukku vēli nilam nivan=tam ceytu kuṭukka v-eṉṟu Ēvalāl Ivaṉukku nivantañ ceyta nilam āvatu Uṭaiyār tēva-tā
+        
 		<lb n="6" break="no"/>ṉam vēṇṇāṭu <unclear>viḷa</unclear>ṅkuṭi-c cōṟ-uṭaiyāṉ patta<unclear>r</unclear> uḷ<unclear>ḷi</unclear>ṭṭa vēliyum  
 	</p>
 	
 	<p>				
-		In-nilam vēliyum Ivaṉ ātal Ivaṉ <hi rend="grantha">Anva</hi>yattār ātal oruvaṉē-y tēciy pāṭiyu
+		In-nilam vēliyum Ivaṉ ātal Ivaṉ <hi rend="grantha">Anva</hi>yattār Ātal Oruvaṉē-y tēci-y pāṭiyu
 	</p>
 	
 	<p>
@@ -134,7 +131,7 @@
 	</p>	
 	
 	<p>	
-		<lb n="1"/>nalluḻān <gap reason="lost" quantity="6" unit="character"/> <unclear>vilai</unclear> koṇṭa mu<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu māvum i<supplied reason="omitted">v</supplied>-vūr Ivaṉai-c cukku <gap reason="lost" unit="character" quantity="5"/> m nāṉ vilai koṇṭ-uṭaiya Iru-vēli-c ceyyum tiru-viṭaimarutil <hi rend="grantha">śrī-mūlasthā</hi><supplied reason="lost">na</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="1"/>nalluḻān <gap reason="lost" quantity="6" unit="character"/> <unclear>vilai</unclear> koṇṭa mu<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu māvum i<supplied reason="omitted">v</supplied>-vūr Ivaṉai-c cukku <gap reason="lost" unit="character" quantity="5"/> m nāṉ vilai koṇṭ-uṭaiya Iru-vēli-c ceyyum tiru-viṭai-marutil <hi rend="grantha">śrī-mūla-sthā</hi><supplied reason="lost">na</supplied> <gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="2"/>Iv-vūr nā<choice><orig>n</orig><reg>ṉ</reg></choice> Eṭuppitta <hi rend="grantha">śrī</hi>-kōyil <unclear>paṭṭar</unclear>kaḷukkum Āka-k kuṭuttē<choice><orig>n</orig><reg>ṉ</reg></choice> <g type="hyphen">.</g>
 	</p>
@@ -142,43 +139,44 @@
 	<p>
 		kō-p-parake<hi rend="grantha">sa</hi>ripaṉmaṟki yāṇṭu Eḻ-ā<surplus>tu</surplus>vatu ṉā<unclear>ḷ</unclear> vaiykal <hi rend="grantha">sabhai</hi>yār iṭaiya nāṉ Iṟai-kāval Uṭaiya para <gap reason="lost" extent="unknown" unit="character"/>			
 		
-		<lb n="3" break="no"/><unclear>kuḷa</unclear>kkālil <unclear>aṭai</unclear> matirai-koṇṭa kō-p-parake<hi rend="grantha">sa</hi>ripaṉmaṟkki yāṇṭu <num value="30"> 3 <g type="numeral">10</g></num>t-āvatu veṇṇāṭṭu <hi rend="grantha">brahmade</hi>yam <hi rend="grantha">vai</hi><unclear>y</unclear>kalil <hi rend="grantha">sabhai</hi>yōm tiru-v<choice><sic>u</sic><corr>i</corr></choice>ṭaimarutil perumā<choice><orig>n</orig><reg>ṉ</reg></choice>-aṭikaḷukku O <gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="3" break="no"/><unclear>kuḷa</unclear>kkālil <unclear>aṭai</unclear>
+	</p>
+    <p>
+	    matirai-koṇṭa kō-p-parake<hi rend="grantha">sa</hi>ripaṉmaṟkki yāṇṭu <num value="30"> 3 <g type="numeral">10</g></num>-t-āvatu veṇṇāṭṭu <hi rend="grantha">brahmade</hi>yam <hi rend="grantha">vai</hi><unclear>y</unclear>kalil <hi rend="grantha">sabhai</hi>yōm tiru-v<choice><sic>u</sic><corr>i</corr></choice>ṭai-marutil perumā<choice><orig>n</orig><reg>ṉ</reg></choice>-aṭikaḷukku O <gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="4"/><gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">pa</supplied>ric' āvatu
 	</p>
 	
 	<p>
-		tiru-viṭaimarutil talaikkōli<unclear>kkun</unclear> tiru-vi<unclear>ṭai</unclear>maruti<unclear>l</unclear> <hi rend="grantha">mahāde</hi>va<unclear>rkku</unclear>m tiru-viṭaimarutil talaikkōli-viṇṇakar vi<hi rend="grantha">ṣṇu</hi>kkaḷukkum <unclear>Āka</unclear> nakka<choice><orig>n</orig><reg>ṉ</reg></choice> talai<supplied reason="lost">kkōli</supplied><gap reason="lost" extent="unknown" unit="character"/>
+		tiru-viṭai-marutil talai-k-kōli<unclear>kkun</unclear> tiru-vi<unclear>ṭai</unclear>-maruti<unclear>l</unclear> <hi rend="grantha">mahā-de</hi>va<unclear>rkku</unclear>m tiru-viṭai-marutil talai-k-kōli-viṇṇakar vi<hi rend="grantha">ṣṇu</hi>kkaḷukkum <unclear>Āka</unclear> nakka<choice><orig>n</orig><reg>ṉ</reg></choice> talai-<supplied reason="lost">k-kōli</supplied><gap reason="lost" extent="unknown" unit="character"/>
 		
-		<lb n="5" break="no"/>m Iru-vēli <unclear>nilam</unclear> muppatām Āṇṭi<choice><orig>n</orig><reg>ṉ</reg></choice> ki<unclear>ḻ</unclear> <gap reason="lost" unit="character" quantity="6"/> ttāl Ivv-iru-vēli nilattukkum Iṟaiyum E-c-cōṟum kāttu-k kuṭuppōm āṉōm
+		<lb n="5" break="no"/>m Iru-vēli <unclear>nilam</unclear> mu-p-patām Āṇṭi<choice><orig>n</orig><reg>ṉ</reg></choice> ki<unclear>ḻ</unclear> <gap reason="lost" unit="character" quantity="6"/> ttāl Ivv-iru-vēli nilattukkum Iṟaiyum E-c-cōṟum kāttu-k kuṭuppōm āṉōm
 	</p>
 	
 	<p>
-		Ivv-ūr iṭu vari-p-pāṭum <unclear>kā</unclear>ttu-k kuṭuppō<supplied reason="lost">m āṉōm</supplied>
+		Ivv-ūr iṭu vari-p-pāṭum <unclear>kā</unclear>ttu-k kuṭuppō<supplied reason="lost">m āṉōm</supplied>	
+		<lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> lattayalum vaikal <hi rend="grantha">sabhai</hi>yōm
 	</p>
-	
-	<p>	
-		
-		<lb n="6" break="no"/><gap reason="lost" extent="unknown" unit="character"/>lattayalum vaikal <hi rend="grantha">sabhai</hi>yōm In-nilam<gap reason="lost" quantity="4" unit="character"/> Eppēṟppaṭṭa Ūr iṭu vari-p-pāṭum kāttu-k kuṭuppōm āṉōm
+    <p>
+	    In-nilam <gap reason="lost" quantity="4" unit="character"/> Eppēṟppaṭṭa Ūr iṭu vari-p-pāṭum kāttu-k kuṭuppōm āṉōm
 	</p>
 	
 	<p>
 		Ivv-ōlai mēl paṭṭa paricē kallil veṭṭi-k-koḷḷa-p peṟuvat' ā<supplied reason="lost">kavum</supplied>
 	</p>
 	
-	<p>
-		
-		<lb n="7" break="no"/><gap reason="lost" extent="unknown" unit="character"/>ṇai-y aṟuttār paṭum taṇṭippaṭa Oṭṭi Iṭṭu-k kuṭuttōm <hi rend="grantha">sabhai</hi>yōm
+	<p>		
+		<lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> ṇai y-aṟuttār paṭum taṇṭi-p-paṭa Oṭṭi Iṭṭu-k kuṭuttōm <hi rend="grantha">sabhai</hi>yōm
 	</p>
 	<p>
-	<hi rend="grantha">sabhai</hi> paṇikka Eḻ<choice><sic>a</sic><corr>u</corr></choice>ti<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ <hi rend="grantha">maddhyasthan·</hi> nārāyaṇa<choice><orig>n</orig><reg>ṉ</reg></choice> nakka<choice><orig>n</orig><reg>ṉ</reg></choice>ē<choice><orig>n</orig><reg>ṉ</reg></choice>
+	<hi rend="grantha">sabhai</hi> paṇikka Eḻ<choice><sic>a</sic><corr>u</corr></choice>ti<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ <hi rend="grantha">maddhyasthan·</hi> nārāyaṇa<choice><orig>n</orig><reg>ṉ</reg></choice> nakka<choice><orig>n</orig><reg>ṉ</reg></choice>-ē<choice><orig>n</orig><reg>ṉ</reg></choice>
 	</p>
 	<p>		
 		Ivai-y e<choice><orig>nn</orig><reg>ṉ</reg></choice> Eḻuttu <g type="gomutra">.</g>
 	</p>
 	<p>
 		Ip-paṭi-y aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> kamutuva<supplied reason="lost">ṉ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
-		<lb n="8"/><unclear>Ō</unclear>lai Eḻutiyā<choice><orig>n</orig><reg>ṉ</reg></choice>um Aṟivēṉ Āttiraiyaṉ nila<choice><orig>n</orig><reg>ñ</reg></choice> ca<choice><orig>ṉ</orig><reg>n</reg></choice>tira-cēkara<choice><orig>n</orig><reg>ṉ</reg></choice>ē<choice><orig>n</orig><reg>ṉ</reg></choice> Ip-paṭi-y aṟiv<unclear>ē</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> kārttiya<choice><orig>n</orig><reg>ṉ</reg></choice> perumāṉ <hi rend="grantha">śrī-<unclear>dha</unclear></hi>ran<choice><orig>en</orig><reg>ēṉ</reg></choice> Iva<choice><orig>n</orig><reg>ṉ</reg></choice> colla Eḻutiyā<choice><orig>n</orig><reg>ṉ</reg></choice>um Aṟiv<choice><orig>e</orig><reg>ē</reg></choice>ṉ kamutuvaṉ nā
+		<lb n="8"/><unclear>Ō</unclear>lai Eḻutiyā<choice><orig>n</orig><reg>ṉ</reg></choice>um Aṟivēṉ Āttiraiyaṉ nila<choice><orig>n</orig><reg>ñ</reg></choice> ca<choice><orig>ṉ</orig><reg>n</reg></choice>tira-cēkara<choice><orig>n</orig><reg>ṉ</reg></choice>-ē<choice><orig>n</orig><reg>ṉ</reg></choice> Ip-paṭi-y aṟiv<unclear>ē</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> kārttiya<choice><orig>n</orig><reg>ṉ</reg></choice> perumāṉ <hi rend="grantha">śrī-<unclear>dha</unclear></hi>ran-ē<choice><orig>n</orig><reg>ṉ</reg></choice> Iva<choice><orig>n</orig><reg>ṉ</reg></choice> colla Eḻutiyā<choice><orig>n</orig><reg>ṉ</reg></choice>um Aṟiv<choice><orig>e</orig><reg>ē</reg></choice>ṉ kamutuvaṉ nā
 	</p>
 	
 	<p>
@@ -198,29 +196,31 @@
 		
 	<listApp>
 		
-		<!--<app loc="0">
+		<!--
+		    <app loc="0">
 			<lem>...</lem>
 			<rdg source="bib:SrinivasaRao1967_01">...</rdg>
 			<rdg source="bib:SrinivasaRao1979_01">...</rdg>
-			</app>	-->
+			</app>
+		-->
 		
 		<app loc="1">
-			<lem><gap reason="lost" unit="character" quantity="8"/><supplied reason="lost">tiru</supplied>-viṭai-<unclear>marut-u</unclear>ṭaiyār</lem>
-			<rdg source="bib:SrinivasaRao1967_01"><gap reason="lost" unit="character" quantity="10"/>-viṭai-<unclear>marut-u</unclear>ṭaiyār</rdg>
-			<rdg source="bib:SrinivasaRao1979_01"><gap reason="lost" unit="character" quantity="3"/>ṭaiyār</rdg>
+			<lem><gap reason="lost" unit="character" quantity="8"/><supplied reason="lost">tiru</supplied>viṭai<unclear>marutu</unclear>ṭaiyār</lem>
+			<rdg source="bib:SrinivasaRao1967_01"><gap reason="lost" unit="character" quantity="10"/> viṭai<unclear>marutu</unclear>ṭaiyār</rdg>
+			<rdg source="bib:SrinivasaRao1979_01"><gap reason="lost" unit="character" quantity="3"/> ṭaiyār</rdg>
 		</app>
 		
 		
 		<app loc="1">
-			<lem><hi rend="grantha">śrī-kārya</hi>m <unclear>ceyyum</unclear></lem>
-			<rdg source="bib:SrinivasaRao1967_01"><hi rend="grantha">śrī-kārya</hi>m <unclear>ceyyum</unclear></rdg>
-			<rdg source="bib:SrinivasaRao1979_01"><hi rend="grantha">śrī-kārya</hi>m <gap reason="lost" unit="character" quantity="3"/></rdg>
+			<lem><hi rend="grantha">śrīkārya</hi>m <unclear>ceyyum</unclear></lem>
+			<rdg source="bib:SrinivasaRao1967_01"><hi rend="grantha">śrīkārya</hi>m <unclear>ceyyum</unclear></rdg>
+			<rdg source="bib:SrinivasaRao1979_01"><hi rend="grantha">śrīkārya</hi>m <gap reason="lost" unit="character" quantity="3"/></rdg>
 		</app>	
 		
 		<app loc="1">
-			<lem>maturānta<supplied reason="lost">ka-mu</supplied>vēnta-vēḷārum</lem>
-			<rdg source="bib:SrinivasaRao1967_01">maturānta<gap reason="lost" quantity="2" unit="character"/>venta-veḷārum</rdg>
-			<rdg source="bib:SrinivasaRao1979_01">maturāntaka-muventa-veḷārum</rdg>
+			<lem>maturānta<supplied reason="lost">kamu</supplied>vēntavēḷārum</lem>
+			<rdg source="bib:SrinivasaRao1967_01">maturānta<gap reason="lost" quantity="2" unit="character"/>ventaveḷārum</rdg>
+			<rdg source="bib:SrinivasaRao1979_01">maturāntakamuventaveḷārum</rdg>
 		</app>			
 		
 		<app loc="1">
@@ -255,39 +255,40 @@
 			<lem>nalluḻān</lem>
 			<rdg source="bib:SrinivasaRao1967_01"/>
 			<rdg source="bib:SrinivasaRao1979_01">nalluḻ<unclear>ā</unclear>n</rdg>				
-		</app>	
+		</app>
+	    
 		<app loc="1">
 			<lem><gap reason="lost" quantity="6" unit="character"/> <unclear>vilai</unclear> koṇṭa</lem>
 			<rdg source="bib:SrinivasaRao1967_01"/>
-			<rdg source="bib:SrinivasaRao1979_01"><gap reason="lost" quantity="6" unit="character"/> koṇṭa</rdg>				
+			<rdg source="bib:SrinivasaRao1979_01"><gap reason="lost" quantity="6" unit="character"/> koṇṭa</rdg>			
 		</app>	
 		
 		<app loc="1">
-			<lem>i<supplied reason="omitted">v</supplied>-vūr Ivaṉai-c cukku <gap reason="lost" unit="character" quantity="5"/> m</lem>
+			<lem>i<supplied reason="omitted">v</supplied>vūr Ivaṉaic cukku <gap reason="lost" unit="character" quantity="5"/> m</lem>
 			<rdg source="bib:SrinivasaRao1967_01"/>
-			<rdg source="bib:SrinivasaRao1979_01"><gap reason="lost" unit="character" quantity="5"/> ṉai-ccu kura <gap reason="lost" unit="character" quantity="3"/> lum</rdg>				
+			<rdg source="bib:SrinivasaRao1979_01"><gap reason="lost" unit="character" quantity="5"/> ṉaiccu kura <gap reason="lost" unit="character" quantity="3"/> lum</rdg>				
 		</app>	
 		
 		<app loc="1">
-			<lem>vilai koṇṭ-uṭaiya</lem>
+			<lem>vilai koṇṭuṭaiya</lem>
 			<rdg source="bib:SrinivasaRao1967_01"/>
 			<rdg source="bib:SrinivasaRao1979_01">vilai koṇṭa <gap reason="lost" unit="character" quantity="3"/></rdg>				
 		</app>
 		
 		<app loc="2">
-			<lem><hi rend="grantha">śrī</hi>-kōyil <unclear>paṭṭar</unclear>kaḷukkum</lem>
+			<lem><hi rend="grantha">śrī</hi>kōyil <unclear>paṭṭar</unclear>kaḷukkum</lem>
 			<rdg source="bib:SrinivasaRao1967_01"/>
-			<rdg source="bib:SrinivasaRao1979_01"><hi rend="grantha">śrī</hi>-kōyilkaḷukku</rdg>				
+			<rdg source="bib:SrinivasaRao1979_01"><hi rend="grantha">śrī</hi>kōyilkaḷukku</rdg>				
 		</app>
 		
 		<app loc="2">
-			<lem>Āka-k kuṭuttē<choice><orig>n</orig><reg>ṉ</reg></choice></lem>
+			<lem>Ākak kuṭuttē<choice><orig>n</orig><reg>ṉ</reg></choice></lem>
 			<rdg source="bib:SrinivasaRao1967_01">Ākak kuṭutten</rdg>
 			<rdg source="bib:SrinivasaRao1979_01"><gap unit="character" quantity="3" reason="lost"/> kuṭutten</rdg>				
 		</app>	
 		
 		<app loc="5">
-			<lem>kāttu-k</lem>
+			<lem>kāttuk</lem>
 			<rdg source="bib:SrinivasaRao1967_01">kātatuk</rdg>
 		</app>	
 		
@@ -310,17 +311,17 @@
 	</p>
 	
 	<p n="3">			
-		For Eḻupaṇai Tēvaṉ<gap reason="lost"/> Kaśyapan Kaṇṭa, singer of folk songs <supplied reason="explanation"><foreign>tēciy pāṭum</foreign></supplied> while sitting at the assembly hall <supplied reason="explanation"><foreign>tiruvōlakkam</foreign></supplied> of the Lord dwelling in the shrine <gap reason="lost"/> in the temple of the Lord <supplied reason="lost">of Tiruviṭaimarutu</supplied><gap reason="lost"/>
+		for Eḻupaṇai Tēvaṉ <gap reason="lost"/> Kaśyapan Kaṇṭa, singer of folk songs <supplied reason="explanation"><foreign>tēciy pāṭum</foreign></supplied> while sitting at the assembly hall <supplied reason="explanation"><foreign>tiruvōlakkam</foreign></supplied> of the Lord dwelling in the shrine <gap reason="lost"/> in the temple of the Lord <supplied reason="lost">of Tiruviṭaimarutu</supplied> <gap reason="lost"/>
 	</p>
 	
 	<p n="4">
-		The <foreign>vēli</foreign> of land for Eḻupaṇai Tēvaṉ that was previously inscribed on stone for singing tēci <supplied reason="subaudible"><foreign>songs</foreign></supplied> performed <supplied reason="subaudible">during the dance</supplied> of tēci.
+		the <foreign>vēli</foreign> of land for Eḻupaṇai Tēvaṉ that was previously inscribed on stone for singing <foreign>tēci</foreign> <supplied reason="subaudible"><foreign>songs</foreign></supplied> performed <supplied reason="subaudible">during the dance</supplied> of <foreign>tēci</foreign>.
 		
-		<!--I take Palaniappan's reading 327 fn. 39: acc. to him, this style of dance is already present in a commentary on Cilappatikaram. It could be interpreted that the land was meant for the singer who sang these teci songs during the performance of the teci dance.  However, why giving endowments for the singer and omitting the performers altoghether?-->
+		<!--I take Palaniappan's reading 327 fn. 39: acc. to him, this style of dance is already present in a commentary on Cilappatikaram. It could be interpreted that the land was meant for the singer who sang these teci songs during the performance of the teci dance. However, why giving endowments for the singer and omitting the performers altoghether?-->
 	</p>
 	
 	<p n="4-6">
-		the accountant who oversees <supplied reason="subaudible">the temple of</supplied> the Mahādeva <supplied reason="subaudible">of the Mūlasthāṉam temple at</supplied> Tiruviṭaimarutūr <note>Tiruviṭaimarutil Mahādeva is the name of the deity in the shrine, which already appears in inscriptions from an earlier date, e.g., appears in SII 5, no. 719 (dated in 931 CE) or SII 23, no. 262 (dated in 925 CE).</note> <gap reason="lost"/>, accountant who oversees the temple of the Lord of Tiruviṭaimarutūr for the goddess <supplied reason="explanation"><foreign>mā</foreign></supplied> Bhaṭṭaraki <gap reason="lost"/> queen of <gap reason="lost"/> assembly hall <gap reason="lost"/>.
+		the accountant who oversees <supplied reason="subaudible">the temple of</supplied> the Mahādeva <supplied reason="subaudible">of the Mūlasthāṉam temple at</supplied> Tiruviṭaimarutūr<note>Tiruviṭaimarutil Mahādeva is the name of the deity in the shrine. It already appears in earlier inscriptions such as SII 5.719 (dated to 931 CE) and SII 23.262 (dated to 925 CE).</note> <gap reason="lost"/>, accountant who oversees the temple of the Lord of Tiruviṭaimarutūr for the goddess <supplied reason="explanation"><foreign>mā</foreign></supplied> Bhaṭṭaraki <gap reason="lost"/> queen of <gap reason="lost"/> assembly hall <gap reason="lost"/>.
 	</p>
 	
 </div>
@@ -329,30 +330,49 @@
 <head xml:lang="eng">Fragment 2</head>
 	
 	<p n="1-2">
-		<gap reason="lost"/> I have given this for the the Brahmans <supplied reason="explanation"><foreign>paṭṭarkaḷukkum</foreign></supplied> of the temple which I have built in this village ...
+		<gap reason="ellipsis"/>
+	    I have given this for the the Brahmans <supplied reason="explanation"><foreign>paṭṭarkaḷukkum</foreign></supplied> of the temple which I have built in this village <gap reason="lost"/>
 	</p>
 	
-	<p n="2-4">
-		Seventh year of the king Parakesarivarman, day <gap reason="omitted"/>
-		thirtieth year of the king Parakesarivarman, who took Maturai, <gap reason="lost"/> This is the manner in which we, the members of the assembly of Vaikal, a <foreign>brahmadeya</foreign> in Veṇṇāṭu <gap reason="lost"/>
+	<p n="2-3">
+		At the time of the seventh year of the king Parakesarivarman, <gap reason="ellipsis"/>	    
+	</p>
+    
+    <p n="3-4">
+		Thirtieth year of the king Parakesarivarman, who took Maturai, <gap reason="lost"/>, this is the manner in which we, the members of the assembly of Vaikal, a <foreign>brahmadeya</foreign> in Veṇṇāṭu <gap reason="lost"/>
 	</p>
 	
 	<p n="4-5">
-		We have become the donors of the obligatory supply of free food <supplied reason="explanation"><foreign>eccōṟu kāttu</foreign></supplied><note>Pondicherry Inscriptions 342.4 has the version <foreign>eccōṟu kūṟṟu</foreign>, but probably with the same meaning of observing <supplied reason="explanation"><foreign>kāttu</foreign></supplied> that free food <supplied reason="explanation"><foreign>eccōṟu</foreign></supplied> is given to devotees during the time of the festival.</note> and the tax that came out of the two <foreign>vēlis</foreign> of land <gap reason="lost" extent="unknown" unit="character"></gap> <supplied reason="subaudible">which was given</supplied> in the 30th year <supplied reason="subaudible">of Parāntaka I</supplied><note>Probably refers to the endowment of two <foreign>vēlis</foreign> that is recorded in SII 23, no. 258. Here, the land was used <supplied reason="explanation"><foreign>āṉa</foreign>?</supplied> for a garden of vañci flowers <supplied reason="explanation"><foreign>vañcittōṭṭam</foreign></supplied></note>. Two <foreign>vēlis</foreign> of land <gap reason="lost" extent="unknown" unit="character"></gap> Nakkaṉ <gap reason="lost" extent="unknown" unit="character"></gap> <supplied reason="subaudible">the shrine called</supplied> Talaikkōli-Viṇṇakar at Tiruviṭaimarutūr, to the Mahādeva <supplied reason="subaudible">in the Mūlasthāṉam</supplied> at Tiruviṭaimarutūr, and to Talaikkōli<note>This title given to someone who stands out in music. Moreover, it appears already in an inscription dated in the year 907 (seventy years before), where a certain Taliccēri Tēvaṉār, was included in a donation of lands, from which she received nine <foreign>mās</foreign> of land, according to SII 23, no.233.</note> in Tiruviṭaimarutūr. 
+	    So that there be
+	    for Talaikkōli in Tiruviṭaimarutu, 
+	    for the Mahādeva <supplied reason="subaudible">of the Mūlasthāṉam</supplied> at Tiruviṭaimarutu,
+	    and for <supplied reason="subaudible">the shrine called</supplied> Talaikkōli-Viṇṇakar in Tiruviṭaimarutu<note>The title <foreign>talaikkōli</foreign> is given to someone who stands out in music. It appears already in SII 23.233 (dated to 907 CE, some seventy years before the present record), which records that a certain Taliccēri Tēvaṉār receives nine <foreign>mā</foreign>s of land.</note>,
+	    two <foreign>vēli</foreign>s of lands
+	    <gap reason="lost"/> Nakkaṉ Talaikkōli,
+	    We have become those who will ensure the giving
+	    of the tax that comes out of these two <foreign>vēli</foreign>s of land <gap reason="lost"/> <supplied reason="subaudible">which was given</supplied> in the 30th year <supplied reason="subaudible">of Parāntaka I</supplied><note>Probably refers to the endowment of two <foreign>vēli</foreign>s that is recorded in SII 23.258. Here, the land was used <supplied reason="explanation"><foreign>āṉa</foreign>?</supplied> for a garden of <foreign>vañci</foreign> flowers <supplied reason="explanation"><foreign>vañcittōṭṭam</foreign></supplied>.</note>
+	    and of the obligatory supply of free food <supplied reason="explanation"><foreign>eccōṟu kāttu</foreign></supplied><note>PI 342.4 reads <foreign>eccōṟu kūṟṟu</foreign>, probably with the same meaning of ensuring <supplied reason="explanation"><foreign>kāttu</foreign></supplied> that free food <supplied reason="explanation"><foreign>eccōṟu</foreign></supplied> is given to devotees during the time of the festival.</note>
 	</p> 
 	
-	<p n="6">
-		They should engrave <supplied reason="subaudible">this</supplied> on stone in the manner it is on this palm-leaf.
-	</p>
+    <p n="5-6">
+        We have become those who will ensure the giving ...,
+        We, the members of the assembly ...
+    </p>
+    
+    <p n="5-6">
+        We have become those who will ensure the giving ...
+    </p>
+    
+    <p n="6">
+        They should obtain to engrave <supplied reason="subaudible">this</supplied> on stone in the manner it is on this palm-leaf.
+    </p>
 	
-	<p n="6-7">
-		We, members of the assembly of Vaikal, have agreed and issued<supplied reason="explanation"><foreign>oṭṭi iṭṭu-k kuṭuttōm</foreign></supplied> <supplied reason="subaudible">this order</supplied> so that collected taxes <supplied reason="explanation"><foreign>taṇṭippaṭa</foreign></supplied> are removed <supplied reason="explanation"><foreign>aṟuttār</foreign></supplied>.
-				
-		<gap reason="lost"></gap> the land so that it is 
+	<p n="7">
+		We, members of the assembly of Vaikal, have agreed and issued <supplied reason="explanation"><foreign>oṭṭi iṭṭu-k kuṭuttōm</foreign></supplied> so as to fine/punish <supplied reason="explanation"><foreign>taṇṭippaṭa</foreign></supplied> those wh cut <supplied reason="explanation"><foreign>aṟuttār</foreign></supplied> <gap reason="lost"/>
 	</p>
 	
 	<p n="7">
-		While the assembly ordered, I, Nārāyaṇaṉ Nakkaṉ, the <foreign>madhyastha</foreign>, have written this as commanded by the assembly <supplied reason="explanation"><foreign>sabhai</foreign></supplied>.
+		A the assembly ordered, I, Nārāyaṇaṉ Nakkaṉ, the <foreign>madhyastha</foreign>, have written <supplied reason="subaudible">this</supplied>.
 	</p>
 	
 	<p n="7">
@@ -369,12 +389,12 @@
             
 <div type="commentary">
     		
-	<p>The status of this inscription is not clear from the editions available. It appears that a single record has received by mistake two ARIE  numbers. SII 19.181 is the edition of ARIE/1907-1908/B/1907/234, whereas SII 23.233 is the edition of ARIE/1907-1908/B/1907/233, but the 6 + 2 lines of the latter correspond to lines 1-8 of the former. <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> note ad SII 19.181: <quote>This together with No. 233 of 1907 seems to form a single inscription with some portions lost, and hence with gaps in the continuity of lines.</quote> <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl> notes ad SII 23.233: <quote>This seems to be part of a bigger inscription, evidently No. 234, of which the beginning is lost. being also damaged the sequence is not clear after the first six lines.</quote> In <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl>, no text is published for SII 23.234, and the reader is redirected to SII 19.181.</p>
-	
-	<p>This seems to be a recapitulative inscription listing several endowments.</p>
-	
-	<p>All the lines in fragment 2 are evidently lacunose at their ends, even though not indicated in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl>.
-	</p>
+    <p>The status of this inscription is not clear from the editions available. It appears that a single record has received by mistake two ARIE  numbers. SII 19.181 is the edition of ARIE/1907-1908/B/1907/234, whereas SII 23.233 is the edition of ARIE/1907-1908/B/1907/233, but the 6 + 2 lines of the latter correspond to lines 1-8 of the former. <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> note ad SII 19.181: <quote>This together with No. 233 of 1907 seems to form a single inscription with some portions lost, and hence with gaps in the continuity of lines.</quote> <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl> notes ad SII 23.233: <quote>This seems to be part of a bigger inscription, evidently No. 234, of which the beginning is lost. being also damaged the sequence is not clear after the first six lines.</quote> In <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl>, no text is published for SII 23.234, and the reader is redirected to SII 19.181.</p>
+    
+    <p>All the lines in fragment 2 are evidently lacunose at their ends, even though not indicated in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl>.
+    </p>
+    
+    <!--Only Fragment 1 refers to singing as <foreign>tēciy pāṭu</foreign>, and only one instance we find <foreign>tēciya pāṭu</foreign>. Fragment 2 does not mentions singing.-->
     		
 </div>
     	
@@ -387,18 +407,18 @@
     
     <listBibl type="primary">
         
-        <bibl n="SR1967">
+        <bibl n="SII19">
             <ptr target="bib:SrinivasaRao1967_01"/>
             <citedRange unit="page">92-93</citedRange>
             <citedRange unit="item">181</citedRange>
-            <note>14 epigraphic lines.</note>
+            <!--14 epigraphic lines.-->
         </bibl>
         
-        <bibl n="SR1979">
+        <bibl n="SII23">
             <ptr target="bib:SrinivasaRao1979_01"/>
             <citedRange unit="page">164-165</citedRange>
             <citedRange unit="item">233</citedRange>
-            <note>6 epigraphic lines + 2 supplementary epigraphic lines.</note>
+            <!--6 epigraphic lines + 2 supplementary epigraphic lines.-->
         </bibl>
         
     </listBibl>
