@@ -100,7 +100,7 @@
 	</ab>
 	
 	<lg met="anuṣṭubh" n="1" xml:lang="san-Latn" rendition="class:grantha maturity:83215">          
-		<l n="a">vyakrīṇāc chata-viṃśati</l>
+		<l n="a">vyakr<unclear>ī</unclear>ṇāc chata-viṃśati</l>
 		<l n="b">kāśais somasya vṛṣalasya</l>
 		<l n="c">vaṭuka-mah<gap reason="lost" quantity="4" unit="character"/></l>
 		<l n="d"><gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">vā</supplied>reśa<unclear>ḥ</unclear> <g type="gomutraFinal">.</g></l>
@@ -112,7 +112,7 @@
 	
 	<p>
 		<hi rend="grantha">ja</hi>yaṅ-koṇṭacōḻa-maṇṭalattu-p puḻaṟ-kōṭṭattu	
-		<lb n="2"/>Uṭaiyār tiruvoṟṟiyūr-uṭaiyār kōyilil
+		<lb n="2"/>Uṭaiyār tiru-v-oṟṟiyūr-uṭaiyār kōyilil
 		<list>
 			<item>maṭam-uṭaiya caturāṉaṉa-paṇṭitaṉum</item>
 			<item><hi rend="grantha">śrī</hi>mā<hi rend="grantha">he</hi><gap unit="character" quantity="10" reason="lost"/>ṭāṉum</item> 
@@ -120,19 +120,19 @@
 			<item>cōmacittāntam vakkāṇikkum vā<hi rend="grantha">gīśvara</hi>-paṇṭitaṉum</item>
 			<item>kālum piṭāruñ ceyaṅ-koṇṭa-cōḻa-maṇṭala-piṭā<unclear>ra</unclear>ṉu
 				<lb n="3" break="no"/>n</item>
-			<item>tiruvoṟṟiyūr-<unclear>p</unclear> piccaṉuṅ</item>
+			<item>tiru-v-oṟṟiyūr-p piccaṉuṅ</item>
 			<item>kōyil nāyakam paṭampakka-nāyaka-paṭṭaṉum</item>
 			<item>kōyiṟ-kaṇakku-t tiru<gap reason="lost" unit="character" quantity="4"/></item>
 		</list>
-		<supplied reason="lost">tiruvoṟṟiyūr-u</supplied>ṭ<supplied reason="lost">ai</supplied>yār tiru-p-paṅk<choice><orig>ū</orig><reg>u</reg></choice>ṉi-y-utt<choice><orig>i</orig><reg>a</reg></choice>rattu Āṟān tirunāḷ-āṉa putaṉ-kiḻamai<unclear>yu</unclear>m Ēkātaciyum peṟṟa Āyil<choice><orig>ai</orig><reg>i</reg></choice>yatti ṉ<unclear>ā</unclear>ṉṟu
+		<supplied reason="lost">tiru-v-oṟṟiyūr-u</supplied>ṭ<supplied reason="lost">ai</supplied>yār tiru-p-paṅk<choice><orig>ū</orig><reg>u</reg></choice>ṉi-y-utt<choice><orig>i</orig><reg>a</reg></choice>rattu Āṟān tirunāḷ-āṉa putaṉ-kiḻamai<unclear>yu</unclear>m Ēkātaciyum peṟṟa Āyil<choice><orig>ai</orig><reg>i</reg></choice>yatti ṉ<unclear>ā</unclear>ṉṟu
 		<list>
 			<item>paṭampakka-nāyaka-tēvar tirumakiḻiṉ kīṭ tiruvōlakkañ ceyt' eḻuntaru
-		<lb n="4" break="no"/>ḷi y-iruntu Āḷuṭaiya-nampi <hi rend="grantha">śr<choice><orig>i</orig><reg>ī</reg></choice></hi>-purāṇaṅ k<unclear>ē</unclear>ṭṭ’ aruḷā niṟka</item>
+		<lb n="4" break="no"/>ḷi y-iruntu Āḷuṭaiya-nampi <hi rend="grantha">śrī</hi>-purāṇaṅ kēṭṭ’ aruḷā niṟka</item>
 			<item>Uṭaiyār tēvatāṉam vaṭuka-p perum-pāk=kattu-k= kāṇi <gap quantity="10" unit="character" reason="lost"/> y-eṉṟu viṇṇappañ ceyya</item>
 			<item>namm-<choice><orig>u</orig><reg>ū</reg></choice>rkaḷil I<unclear>ra</unclear>ṇaiyūr Amuta<unclear>ṅ</unclear> kiḻavaṉ periyāṉ cōmaṉuk=ku-t taṇṭ<choice><orig>i</orig><reg>ī</reg></choice>caṉ vilai-y-āka viṟṟu-k kāṇi-y-āka-k koṭukka v-eṉṟu tiruvāymoḻi	
 		<lb n="5" break="no"/>ntaruḷa</item>
 		</list>
-		Ivv-ūrkku-k kāṇi-vilai Aṉṟāṭu naṟ-kācu nūṟṟ' iru<unclear>pa</unclear>tum <hi rend="grantha">śrī</hi>-paṇṭāratt' oṭukku-k koṇṭu
+		Ivv-ūrkku-k kāṇi-vilai Aṉṟāṭu naṟ-kācu nūṟṟ’ irupatum <hi rend="grantha">śrī</hi>-paṇṭāratt' oṭukku-k koṇṭu
 		Ivv-<supplied reason="lost">iraṇaiyūr amutaṅ ki</supplied>ḻavaṉ periyāṉ cōma<choice><orig>n</orig><reg>ṉ</reg></choice>ukku <hi rend="grantha">śrī</hi>-paṇṭāratt' iṟai y-iṟukkavum
 	</p>
 	
@@ -145,15 +145,15 @@
 			<item>Ip-paṭikku Ivai ma
 				<lb n="6" break="no"/>ṭam-uṭaiya caturā<choice><orig>nan</orig><reg>ṉaṉ</reg></choice>a-paṇṭitaṉ Eḻuttu <g type="gomutraFinal">.</g></item>
 			
-			<item>Ip-paṭikku Ivai tiru-v<choice><orig>i</orig><reg>ī</reg></choice>ti-vēyiṭaṅ-koṇṭāṉ Eḻuttu <unclear><g type="gomutraFinal">.</g></unclear></item>
+			<item>Ip-paṭikku Ivai tiru-vīti-vēyiṭaṅ-koṇṭāṉ Eḻuttu <g type="gomutraFinal">.</g></item>
 			
 			<item><supplied reason="lost"><hi rend="grantha">śrī-</hi>kāriyam Ariyapirāṉ paṭṭa</supplied>ṉ Eḻuttu <g type="gomutraFinal">.</g></item>
 			
-			<item>Ip-paṭikku Ivai cōmacittāntam vakkāṇikkum vā<hi rend="grantha">gīśva</hi>ra-paṇṭitaṉ Eḻuttu <g type="gomutraFinal">.</g></item>
+			<item>Ip-paṭikku Ivai cōma-cittāntam vakkāṇikkum vā<hi rend="grantha">gīśva</hi>ra-paṇṭitaṉ Eḻuttu <g type="gomutraFinal">.</g></item>
 			
 			<item>Ip-paṭikku Ivai kālum piṭārañ ceyaṅ-koṇṭa-cōḻa-maṇṭala-piṭāraṉ Eḻuttu <g type="gomutraFinal">.</g></item>
 			
-			<item>Ip-paṭi-k<lb n="7" break="no"/>ku Ivai tiruvoṟṟiyūr piccaṉ Eḻuttu <g type="gomutraFinal">.</g></item>
+			<item>Ip-paṭi-k<lb n="7" break="no"/>ku Ivai tiru-v-oṟṟiyūr-p piccaṉ Eḻuttu <g type="gomutraFinal">.</g></item>
 			
 			<item>Ip-paṭikku Ivai kōyil nāyakam paṭampakka-nāyaka-paṭṭaṉ Eḻuttu <g type="gomutraFinal">.</g></item>
 			
@@ -169,6 +169,12 @@
 	<listApp>
 		
 		<app loc="1">
+			<lem>vyakr<unclear>ī</unclear>ṇāc</lem>
+			<rdg source="bib:KrishnaSastri1925_01">vyakrīṇāc</rdg>
+			<note>Probably hidden by cement between blocks.</note>
+		</app>
+		
+		<app loc="1">
 			<lem><supplied reason="lost">vā</supplied>reśa<unclear>ḥ</unclear></lem>
 			<rdg source="bib:KrishnaSastri1925_01"><gap reason="lost" quantity="3" unit="character"/>raśaḥ</rdg>
 			<note>The medial <foreign>e</foreign> is clear on the photographic documentation. See <foreign>vāreśaś caturānano</foreign> in SII 5, no. 1360.</note>
@@ -181,9 +187,14 @@
 		</app>
 		
 		<app loc="3">
-			<lem>tiru<gap reason="lost" unit="character" quantity="4"/> <supplied reason="lost">tiruvoṟṟiyūr-u</supplied>ṭ<supplied reason="lost">ai</supplied>yār</lem>
+			<lem>tiruvoṟṟiyūrp piccaṉuṅ</lem>
+			<rdg source="bib:KrishnaSastri1925_01">tiruvoṟṟiyūr<unclear>p</unclear> piccaṉuṅ</rdg>
+		</app>
+		
+		<app loc="3">
+			<lem>tiru<gap reason="lost" unit="character" quantity="4"/> <supplied reason="lost">tiruvoṟṟiyūru</supplied>ṭ<supplied reason="lost">ai</supplied>yār</lem>
 			<rdg source="bib:KrishnaSastri1925_01">tiru<gap reason="lost" unit="character" quantity="10"/>ṭayār</rdg>
-			<note>The remaining gap might have contained the personal name of the temple accountant, unless the restoration <foreign>voṟṟiyūr-u</foreign> fills up entirely the gap, which seems unlikely since we miss 9 syllables in line 1 to make the <foreign>anuṣṭubh</foreign> complete.</note>
+			<note>The remaining gap might have contained the personal name of the temple accountant, unless the restoration <foreign>voṟṟiyūru</foreign> fills up entirely the gap, which seems unlikely since we miss 9 syllables in line 1 to make the <foreign>anuṣṭubh</foreign> complete.</note>
 		</app>
 		
 		<app loc="3">
@@ -195,15 +206,25 @@
 			<lem>kīṭ</lem>
 			<rdg source="bib:KrishnaSastri1925_01">kiṭ</rdg>
 			<note>This is possibly to be emended to <foreign>kīḻ</foreign>.</note>
+		</app>		
+			
+		<app loc="3">
+			<lem>kēṭṭ’ aruḷā</lem>
+			<rdg source="bib:KrishnaSastri1925_01">keṭṭaruḷā</rdg>
 		</app>
 		
 		<app loc="4">
-			<lem>kāṇi-y-āka-k</lem>
+			<lem>kāṇiyākak</lem>
 			<rdg source="bib:KrishnaSastri1925_01">kāṇiyākaka</rdg>
 		</app>		
 		
 		<app loc="5">
-			<lem>Ivv-<supplied reason="lost">iraṇaiyūr amutaṅ ki</supplied>ḻavaṉ periyāṉ</lem>
+			<lem>nūṟṟ’ irupatum</lem>
+			<rdg source="bib:KrishnaSastri1925_01">nūṟṟiru<unclear>pa</unclear>tum</rdg>
+		</app>		
+				
+		<app loc="5">
+			<lem>Ivv<supplied reason="lost">iraṇaiyūr amutaṅ ki</supplied>ḻavaṉ periyāṉ</lem>
 			<rdg source="bib:KrishnaSastri1925_01">Ivva <gap reason="lost" quantity="10" unit="character"/> ḻavaṉ</rdg>
 			<note>See <foreign>I<unclear>ra</unclear>ṇaiyūr Amuta<unclear>ṅ</unclear> kiḻavaṉ periyāṉ</foreign> (line 4).</note>
 		</app>	
@@ -212,12 +233,17 @@
 			<lem><hi rend="grantha">pr<choice><sic>i</sic><corr>a</corr></choice></hi>ti<hi rend="grantha">kra</hi>yattukk' uritt' āvat' āka</lem>
 			<rdg source="bib:KrishnaSastri1925_01"><hi rend="grantha">pri</hi>ti<hi rend="grantha">kra</hi>yattuk kurittāvatāka</rdg>
 			<note>See <foreign><hi rend="grantha">pra</hi>ti<hi rend="grantha">kra</hi>ya</foreign> in other inscriptions from Tiruvoṟṟiyūr itself.</note>
+		</app>			
+			
+		<app loc="6">
+			<lem>tiruvīti°</lem>
+			<rdg source="bib:KrishnaSastri1925_01">tiruviti°</rdg>
 		</app>	
 		
 		<app loc="6">
-			<lem><supplied reason="lost"><hi rend="grantha">śrī-</hi>kāriyam Ariyapirāṉ paṭṭa</supplied>ṉ</lem>
+			<lem><supplied reason="lost"><hi rend="grantha">śrī</hi>kāriyam Ariyapirāṉ paṭṭa</supplied>ṉ</lem>
 			<rdg source="bib:KrishnaSastri1925_01"><gap reason="lost" quantity="11" unit="character"/>ṉ Eḻuttu</rdg>
-			<note>The lacuna here can be filled in from <foreign><hi rend="grantha">śrī-</hi>kā<unclear>ri</unclear>yam Ariyapirāṉ paṭṭaṉum</foreign> (line 2).</note>
+			<note>The lacuna here can be filled in from <foreign><hi rend="grantha">śrī</hi>kā<unclear>ri</unclear>yam Ariyapirāṉ paṭṭaṉum</foreign> (line 2).</note>
 		</app>
 		
 	</listApp>	
@@ -293,7 +319,7 @@
     <p>Reported in <bibl><ptr target="bib:ARIE1896-1897"/></bibl> (ARIE/1896-1897/A/1896/403).</p>
     <p>Edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5.1358).</p>
     <p>Partially edited online by துரை. சுந்தரம் in <ref target="https://kongukalvettuaayvu.blogspot.com/2020/04/2020.html">கொங்கு கல்வெட்டு ஆய்வு</ref> (accessed 2024-02-15).</p>
-    <p>This edition by Renato Davalos and Emmanuel Francis (2024) based on photos (2019). This translation by Renato Dávalos and Emmanuel Francis (2024).</p>	
+    <p>This revised edition by Renato Davalos and Emmanuel Francis (2024) based on photos (E. Francis, 2019; E. Francis, 2024).</p>	
     <listBibl type="primary">
         
         <bibl n="SII">
