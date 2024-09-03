@@ -92,7 +92,8 @@
     </ab>
     
     <lg n="1" met="anuṣṭubh">
-        <l n="a">yat-kr[i>ī]ḍā kila [loka*]sy[ā>a]</l>
+        <l n="a">yat<supplied reason="omitted">·</supplied>-kr<choice><orig>i</orig><reg>ī</reg></choice>ḍākila<supplied reason="omitted">-loka</supplied>sy<choice><sic>ā</sic><corr>a</corr></choice></l>
+    	<!--"kila": read "khila"? akhila-lokasya: of the whole world-->
         <l n="b">saṃhāra-sthiti-sṛṣṭayaḥ</l>
         <l n="c"><lb n="2"/>tad idaṃ śāsanaṃ śaṃbhoḥ</l>
         <l n="d">kalyāṇālaya-vāsinaḥ |||</l>
@@ -104,9 +105,9 @@
 			
 	<listApp>
 		
-		<app loc="0">
-			<lem></lem>
-			<rdg source="bib:SrinivasaRao1979_01"></rdg>
+		<app loc="1">
+			<lem>°<supplied reason="omitted">loka</supplied>sy<choice><sic>ā</sic><corr>a</corr></choice></lem>
+			<rdg source="bib:SrinivasaRao1979_01">°lokasya</rdg>
 		</app>
 		
 	</listApp>
