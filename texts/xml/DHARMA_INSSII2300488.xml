@@ -103,23 +103,33 @@
 	
 <div type="apparatus">
 			
-	<listApp>
-		
-		<app loc="1">
-			<lem>°<supplied reason="omitted">loka</supplied>sy<choice><sic>ā</sic><corr>a</corr></choice></lem>
-			<rdg source="bib:SrinivasaRao1979_01">°lokasya</rdg>
-		</app>
-		
-	</listApp>
+    <listApp>
+        <app loc="1">
+            <lem>°<supplied reason="omitted">loka</supplied>sy<choice><sic>ā</sic><corr>a</corr></choice></lem>
+            <rdg source="bib:SrinivasaRao1979_01">°lokasya</rdg>
+        </app>	
+        <app loc="1">
+            <lem>yat<supplied reason="omitted">·</supplied>°</lem>
+            <rdg source="bib:SrinivasaRao1979_01">yat·°</rdg>
+        </app>
+        <app loc="1">
+            <lem>°kr<choice><orig>i</orig><reg>ī</reg></choice>ḍā°</lem>
+            <rdg source="bib:SrinivasaRao1979_01">°kriḍā°</rdg>
+        </app>        
+    </listApp>
 	
 </div>
 		
 <div type="translation" resp="part:emfr">
 				
-	<p n="1" rend="stanza">
-		...
-	</p>
-				
+    <p n="1">Prosperity! Fortune!</p>
+    
+    <p n="1" rend="stanza">
+        <l>This is an order of Śambhu</l>
+        <l>Who resides in an auspicious abode <supplied reason="explanation"><foreign>kalyāṇālaya</foreign><note>Kalyāṇālaya is the name of the temple according to <ptr target="bib:ARIE1907-1908"/> and <ptr target="bib:SrinivasaRao1979_01"/>. </note></supplied></l>
+        <l>Whose play is for the universe <supplied reason="subaudible">the cause of</supplied></l>
+        <l>Destruction, preservation and creation.</l>        
+    </p>				
 	
 </div>	
 		
