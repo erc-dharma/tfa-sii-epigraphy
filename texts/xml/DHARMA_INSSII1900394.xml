@@ -9,20 +9,20 @@
 		<fileDesc>
 			<titleStmt>
 			    <title>Eṟumpūr, Kaṭampavaṉēśvara, time of Parakesarivarman, year 16</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
+			    <respStmt>
+			        <resp>intellectual authorship of edition</resp>
+			        <persName ref="part:emfr">
+			            <name>G.V.</name>
+			            <surname>Srinivasa Rao</surname>
+			        </persName>
+			    </respStmt>
+			    <respStmt>
+			        <resp>EpiDoc encoding</resp>
+			        <persName ref="part:emfr">
+			            <forename>Emmanuel</forename>
+			            <surname>Francis</surname>
+			        </persName>
+			    </respStmt>			    
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
@@ -90,16 +90,56 @@
     <ab xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <lb n="1"/>svasti śrī
     </ab>
+    
+    <p>
+        kō-p-para-kēcari-pa<hi rend="grantha">nma</hi>ṟku yāṇṭu <num value="19"><g type="numeral">10</g> 9</num><g type="dash"/>Āvatu
+    </p>
+    <p>
+        vaṭa-ka<unclear>r</unclear>ai nal-vayalūr-k-kūṟṟattu-t tēvatā<choice><orig>n</orig><reg>ṉ</reg></choice>a
+        <lb n="2" break="no"/>-<hi rend="grantha"><choice><sic>p</sic><corr>b</corr></choice>rah<supplied reason="omitted">m</supplied>a</hi>tēyam Uṟum[u>ū]r ciṟu-t-tiru-k-kō<supplied reason="omitted">yi</supplied>l-p perumāṉaṭikaḷukku<surplus>-k kacciṟ perumāṉāṭikaḷukku</surplus>
+        <lb n="3" break="no"/>k kacci<choice><sic>ṟ</sic><corr>p</corr></choice>pēṭu p<choice><sic>a</sic><corr>e</corr></choice>ṇṭā<supplied reason="omitted">ṭ</supplied>ṭi vi<unclear>ca</unclear>nal turvaṅkiyēṉ Ivv-ūr tiru-k-kōyi<unclear>lu</unclear>ṭaiyaṉ kaviciyaṉ
+        <lb n="4"/>nānūṟṟuvaṉāka<unclear>ṉu</unclear>kku nāṉ taṉicu kuṭuttuṭaiya poṉ Olai Iraṇṭāṟ poṉ Aṟu kaḻañcu
+    </p>
+    <p>
+        Ivaṉukkē-y kuṭutta 
+        <lb n="5"/>nellukku Olai y-iraṇṭāl <supplied reason="omitted">nel</supplied>lu
+    </p>
+    <p>
+        Iru-pati<choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice> kala<unclear>mu</unclear>m Ivan<unclear>ē</unclear>-y koṇṭa kāl māṭ<unclear>ṭā</unclear>ṟ <unclear>po</unclear>ṉ Iru-kaḻañcukkum       
+        <lb n="6"/><surplus>kkum</surplus> Ivaṉoṭ' icaintu koḷvēṉ <supplied reason="subaudible">n</supplied>āṉ <surplus>ṉoḷ</surplus> <gap reason="lost" quantity="4" unit="character"/> yōm <gap reason="lost" quantity="4" unit="character"/> kku kaḻañcē-y k<unclear>ā</unclear>lukku <gap reason="lost" quantity="4" unit="character"/> kaiyār palicai <gap reason="lost" quantity="2" unit="character"/>
+        <lb n="7" break="no"/>ttu nicatam Uḻakk' eṇṇaiyāl Oru nantā-viḷakk’ eripp <gap reason="lost" quantity="5" unit="character"/>
+    </p>
           
 </div>	
 	
 <div type="apparatus">
 			
     <listApp>
-        <app loc="1">
+         <!--<app loc="1">
             <lem>...</lem>
             <rdg source="bib:SrinivasaRao1967_01">...</rdg>
+        </app>-->
+        
+        <app loc="2">
+            <lem>°<hi rend="grantha"><choice><sic>p</sic><corr>b</corr></choice>rah<supplied reason="omitted">m</supplied>a</hi>tēyam</lem>
+            <rdg source="bib:SrinivasaRao1967_01">°<hi rend="grantha">praha</hi>tēyam</rdg>
         </app>
+        
+         <app loc="3">
+            <lem>tiru-k-kōyi<unclear>lu</unclear>ṭaiyaṉ</lem>
+            <rdg source="bib:SrinivasaRao1967_01">tiru-k-kōyi<unclear>lu</unclear>ṭaiy<choice><sic>a</sic><corr>ā</corr></choice>ṉ</rdg>
+        </app>
+        
+         <app loc="6">
+            <lem>koḷvēṉ <supplied reason="subaudible">n</supplied>āṉ</lem>
+            <rdg source="bib:SrinivasaRao1967_01">koḷvēṉāṉa</rdg>
+        </app>
+        
+        <app loc="7">
+            <lem>eripp</lem>
+            <rdg source="bib:SrinivasaRao1967_01">erippa</rdg>
+        </app>
+        
     </listApp>
 	
 </div>
@@ -118,7 +158,7 @@
 	        
     <p>Reported in <bibl><ptr target="bib:ARIE1913-1914"/></bibl> (ARIE/1913-1914/B/1913/391).</p>
     <p>Edited in <bibl><ptr target="bib:SrinivasaRao1952_01"/></bibl> (SII 19.394).</p>
-    <p>This revised edition by Emmanuel Francis (2024), based on autopsy (2024) and photos (E. Francis, 2024).</p>
+    <p>This digital edition by Emmanuel Francis (2024), based on <bibl><ptr target="bib:SrinivasaRao1952_01"/></bibl>.</p>
 	
     <listBibl type="primary">
         
