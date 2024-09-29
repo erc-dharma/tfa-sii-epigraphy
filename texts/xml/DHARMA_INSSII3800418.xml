@@ -91,22 +91,41 @@
 		
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
 	             	
-    <ab xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        <lb n="1"/>svasti śrī
-    </ab>
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+		<lb n="1"/><g type="daṇḍa"/><g type="daṇḍa"/><g type="daṇḍa"/><g type="pcs"/> svasti śrī
+	</ab>
+	
+	<lg n="1" met="āciriyappā">
+		<l n="1">pū maruviya tiru-mātum puvi-mātuñ jaya-mātuñ</l>
+		<l n="2">nā maruviya kalai-mātum pu<unclear>ka</unclear>ḻ-mātu<supplied reason="omitted">m</supplied> nayantu pulka</l>
+		<l n="3">Aru<lb n="2" break="no"/>maṟai vitineṟi y-aṉaittun taḻaippa</l>
+		<l n="4">varumuṟai y-urimai maṇi-muṭi cūṭi-t</l>
+		<l n="5">tiṅkaḷ veṇ-ku<unclear>ṭ</unclear>ai-t ticai-k-kaḷiṟ’ eṭṭun</l>
+		<l n="6">...</l>
+	</lg>
+	
+	<p></p>
           
 </div>	
 	
-<!--<div type="apparatus">
+<div type="apparatus">
 			
     <listApp>
-        <app loc="0">
-            <lem>...</lem>
-            <rdg source="bib:Swaminathan2019_01">...</rdg>
-        </app>
+    	<!--<app loc="0">
+    		<lem>...</lem>
+    		<rdg source="bib:Swaminathan2019_01">...</rdg>
+    	</app>-->
+    	<app loc="1">
+    		<lem><g type="daṇḍa"/><g type="daṇḍa"/><g type="daṇḍa"/><g type="pcs"/> svasti śrī</lem>
+    		<rdg source="bib:Swaminathan2019_01">svasti śrī</rdg>
+    	</app>
+    	<app loc="2">
+    		<lem>eṭṭun</lem>
+    		<rdg source="bib:Swaminathan2019_01">eṭṭum</rdg>
+    	</app>
     </listApp>
 	
-</div>-->
+</div>
 		
 <div type="translation" resp="part:emfr">
 				
