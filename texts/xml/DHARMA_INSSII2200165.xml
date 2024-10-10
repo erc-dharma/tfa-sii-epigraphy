@@ -7,23 +7,31 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
 	<teiHeader>
 		<fileDesc>
-			<titleStmt>
-				<title>Elavaṉācūr, Grāmārdhanātha, time of Vikrama Cōḻa, year 17</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:reda">
-						<forename>Renato</forename>
-						<surname>Dávalos</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:reda">
-						<forename>Renato</forename>
-						<surname>Dávalos</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
+		    <titleStmt>
+		        <title>Elavaṉācūr, Grāmārdhanātha, time of Vikrama Cōḻa, year 17</title>
+		        <respStmt>
+		            <resp>intellectual authorship of edition</resp>
+		            <persName>
+		                <forename>G.V.</forename>
+		                <surname>Srinivasa Rao</surname>
+		            </persName>
+		            <persName ref="part:reda">
+		                <forename>Renato</forename>
+		                <surname>Dávalos</surname>
+		            </persName>
+		            <persName ref="part:emfr">
+		                <forename>Emmanuel</forename>
+		                <surname>Francis</surname>
+		            </persName>
+		        </respStmt>
+		        <respStmt>
+		            <resp>EpiDoc encoding</resp>
+		            <persName ref="part:reda">
+		                <forename>Renato</forename>
+		                <surname>Dávalos</surname>
+		            </persName>
+		        </respStmt>		        
+		    </titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
 				<pubPlace>Paris</pubPlace>
@@ -108,7 +116,7 @@
 		<lb n="6"/>Ivv-iruvar pakka<unclear>l</unclear>lum vilai-koṇṭu v-iṭṭa cōḻa-kēraḷa-nallūrkku-k
 		
 		<list>
-			<item>kiḻ-pā<supplied reason="omitted">ṟ</supplied>kk' ellai <hi rend="grantha">de</hi>va-tāṉam nal Araicūr Ellai <unclear>mē</unclear><choice><sic>n=ku</sic><corr>ṟku</corr></choice>m piṭākai ciṟu-pāttu Ellaikku me<supplied reason="omitted">ṟ</supplied>kkum</item>
+			<item>kiḻ-pā<supplied reason="omitted">ṟ</supplied>kk' ellai <hi rend="grantha">de</hi>va-tāṉam nal Araicūr Ellai <unclear>mē</unclear><choice><sic>n=ku</sic><corr>ṟku</corr></choice>m piṭākai ciṟu-pāttu Ellaikku mē<supplied reason="omitted">ṟ</supplied>kkum</item>
 			
 			<item>teṉ-pā<supplied reason="omitted">ṟ</supplied>kk' e<supplied reason="omitted">l</supplied>lai Ūri niṉṟum kumara-maṇkala-<supplied reason="omitted">t</supplied>-teṟa-p pō<choice><orig>n</orig><reg>ṉ</reg></choice>a vaḻikku vaṭakkum</item>
 			
@@ -145,7 +153,7 @@
 	
          	<p n="1">Prosperity! Fortune!</p>
 	
-         	<p n="1">17th year of the king Vikram Cōḻa.</p>
+         	<p n="1">17th year of the king Vikrama Cōḻa.</p>
 	
          	<p n="1-6">
          		For the expenses <supplied reason="explanation"><foreign>aḻivukku</foreign></supplied> necessary <supplied reason="explanation"><foreign>vēṇṭum</foreign></supplied> for
@@ -157,13 +165,13 @@
          	</p>
 	
          	<p n="6-7">
-         		For Cōlakēraḷanallūr, which is given, after buying it from these two persons, whereas <supplied reason="subaudible">the boundaries</supplied> are <supplied reason="explanation"><foreign>āka</foreign></supplied> <supplied reason="subaudible">as follows</supplied>:
+         		Whereas, to <supplied reason="subaudible">the village of</supplied> Cōlakēraḷanallūr, which is given, after buying it from these two persons, <supplied reason="subaudible">the boundaries</supplied> are <supplied reason="explanation"><foreign>āka</foreign></supplied> <supplied reason="subaudible">as follows</supplied>:
          		<list>
-         			<item>the eastern boundary is west to ...,</item>
-         			<item>the southern boundary is north to ...,</item>
-         			<item>the western boundary <supplied reason="lost">is east to</supplied> <gap reason="lost"/>,</item>
+         			<item>the eastern boundary is west to ...;</item>
+         			<item>the southern boundary is north to ...;</item>
+         			<item>the western boundary <supplied reason="lost">is east to</supplied> <gap reason="lost"/>;</item>
          		</list>
-         		whereas there are tank, wet-land and dry-land comprised within the four boundaries <supplied reason="subaudible">so</supplied> described,
+         		whereas there are tanks, wet-land ands dry-lands comprised within the great boundaries <supplied reason="subaudible">so</supplied> described <supplied reason="explanation"><foreign>icaitta</foreign></supplied>,
          		having bought that much in the glorious name of this God,
          		this pious donation <supplied reason="explanation"><foreign>it-ta<choice><orig>n</orig><reg>ṉ</reg></choice>mam</foreign></supplied>
          		...
