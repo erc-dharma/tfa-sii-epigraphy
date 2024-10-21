@@ -564,10 +564,11 @@
 	</p>
 </div>
             
-<!--<div type="commentary">
+<div type="commentary">
     		
-    		
-</div>-->
+    	<p><bibl><ptr target="bib:Swamy1972_01"/></bibl> (p. 103) notes: <quote>[...] all the 48 singers appointed by Rājarāja I possess a second name and two of them even a third. It is of interest to note that the second name (and the third in the case of two of them) are indicative of their having undergone some kind of religious initiation (<foreign>dīkṣā</foreign>), which therby qualified them for the sacred profession of hymn-offering.</quote></p>
+    
+</div>
     	
 <div type="bibliography">
     		
@@ -585,11 +586,15 @@
         
     </listBibl>
     
-    <!--<listBibl type="secondary">
+    <listBibl type="secondary">
         
-        Add ARIE reference if any.
+        <!--Add ARIE reference if any.-->
         
-        </listBibl>-->
+        <bibl>
+            <ptr target="bib:Swamy1972_01"/>
+        </bibl>
+        
+    </listBibl>
 	
 </div>
         </body>
