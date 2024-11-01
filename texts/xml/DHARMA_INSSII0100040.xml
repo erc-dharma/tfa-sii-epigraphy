@@ -10,14 +10,7 @@
 			<titleStmt>
 				<title>Mahābalipuram, time of Rājarāja, year 25</title>
 				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
+					<resp>author of digital edition</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
@@ -239,15 +232,15 @@
 <div type="bibliography">
 	
 	<p>
-		First reported in <bibl><ptr target="bib:ARIE1886-1887"/></bibl> (ARIE/1886-1887/II/1886-1887/2).
+		Reported in <bibl><ptr target="bib:ARIE1886-1887"/></bibl> (ARIE/1886-1887/II/1886-1887/2).
 	</p>
 	
 	<p>
-		First edited <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.40), with English translation.
+		Edited <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.40), with English translation.
 	</p>
 	
 	<p>
-		Digitally encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024).
+		This digital edition by Emmanuel Francis (2024) after <bibl><ptr target="bib:Hultzsch1890_01"/></bibl>.
 	</p>
 	
 	<listBibl type="primary">
