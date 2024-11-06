@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Citamparam, Nāṭarāja temple, time of Kōpperuñciṅkaṉ, year 36</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
+					</persName>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
+					</persName>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">DHARMA_INSSII0800043</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Gift of land for performing various services during festival,
+							including <foreign>adhyayana</foreign>.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p>Medial <foreign>i</foreign> and <foreign>ī</foreign>
+								interchangeable.</p>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC)
+					under the European Union's Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
+							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:reda" when="2024-03-29">Creation of the file on the
+				repository</change>
+		</revisionDesc>
+	</teiHeader>
+
+<text xml:space="preserve">
+<body>	
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+				
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">        
+		<lb n="1"/>svasti śrī ḥ <g type="pc"/>
+	</ab>		
+	
+	<p>
+		cakala-puvaṉa-c-cakkara-va<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-kō-p-p<choice><sic>a</sic><corr>e</corr></choice>ruñ-ciṅka-tēvarkku yāṇṭu mu-p-patt' āṟ-āvatu <hi rend="grantha">siṃha</hi>-nāyaṟṟu-t tiyati Oṉpatiṉāl
+	</p>
+	
+	<p>
+		taṉiyūr perum-paṟṟa-p-puliyūr m<choice><orig>u</orig><reg>ū</reg></choice>la-p-paru<hi rend="grantha">ṣai</hi>yār Eḻuttu
+	</p>
+	
+	<p>
+		namm-<choice><sic>u</sic><corr>ū</corr></choice>r nila-k-kaṇakku taṉma-p-piriyaṉum tillai-mu-v-āyira-veḷāṉum kaṇṭu namm-<choice><sic>u</sic><corr>ū</corr></choice>r mēl-piṭākai
+		
+		<list>
+			<item>
+				<supplied reason="omitted">ka</supplied>ṅkai-koṇṭa-cōḻa-p-pēr-iḷamai-nāṭṭu Ac-cēri-c cāttaṅ-kuṭi-y-āṉa mayi<unclear>l</unclear>pālakulakāla-nallūr-p-pāl <hi rend="grantha">śrī</hi>-cuntara-cōḻa-va<unclear>ti</unclear>kku mēṟku
+			</item>
+			
+			<item>
+				cōḻa-kula-cuntara-vāykkālukku teṟkku
+			</item>
+		</list>
+		
+		<lb n="2"/>6 <g type="kaṇṇāṟṟu"/> 3 catirattu Etirili-cōḻaṉ tiru-nanta-vaṉattu Ellaikku mēṟkku-p paṭṭa nilattu
+		
+		kulōttuṅka-cōḻaṉ tiru-t-tōppukku maṇ koṇṭa ku<unclear>ḻi</unclear>-y-āy taram-ili-y-āy mārāyar kūtta-p-pirāṉār Uḷḷiṭṭār pēril mā-<unclear>p-p</unclear>eṟu peṟṟa nilam-āy Ivarkaḷ pakkal muṉṉāḷil mutaliyār tiru-mañcaṇam aḻakiyār vilai koṇṭu tāmarai Ōṭai-y-āy Ivar puṉ-payiṟ-c ceytu Aṉupavittu varukiṟa kuḷam tukuttu mutaliyār tiru-v-ai-y-āṟ’ uṭaiyār tillai-nāyaka-c-caru	
+		<lb n="3" break="no"/>-p-pēti-maṅkalam Eṉṉum tiru-nāmattāl vaitta Akarattu <hi rend="grantha">brā<supplied reason="omitted">h</supplied>ma</hi>ṇar nāyakar tiru-t-tēr Eḻunt-aruḷum pōtu
+		
+		tiru-p-puṟa-k-kuṭaiyilē <hi rend="grantha">Adhya</hi>yaṉam paṇṇi <hi rend="grantha">se</hi>vittum tiru-nāḷ-kaḷilum tiru-<surplus>v</surplus>va<hi rend="grantha">sa</hi>ntaṉ tiru-nāḷilum kulōttuṅka-cōḻaṉ tiru-t-toppil<surplus>i</surplus> Eḻunt-aruḷiṉāl
+		
+		<hi rend="grantha">svasti</hi> colli <hi rend="grantha">se</hi>vittum tiru-mañcaṉa-kālattu <hi rend="grantha">Adhya</hi>yaṉam paṇṇi <hi rend="grantha">se</hi>vittum Etirili-cōḻaṉ tiru-nanta-vaṉattu piḷḷaiyār civa-pāta-cēkaraṉ citta-t-tuṇai-p perumāḷ Uṟ<hi rend="grantha">sa</hi>va        
+		<lb n="4" break="no"/>ṅkaḷukku tiru-p-pālivala-t tiru-nāḷkkaḷukku Eḻunt-aruḷiṉāl <hi rend="grantha"><unclear>mṛ</unclear><supplied reason="omitted">t·</supplied><!--Unclear: check again-->-graha</hi>ṇam paṇṇi Aruḷum pōtu <hi rend="grantha">svasti</hi> colliyum cēvittu-p pōtukiṟa Akarattu <hi rend="grantha">brā<supplied reason="omitted">h</supplied>ma</hi>ṇar pala kaṭṭaḷaikaḷilum palar pakkal <hi rend="grantha">dā</hi>ṉam ākavum vilai-y ākavum koṇṭu Aṉupavikkiṟa <g type="nilam"/> <num value="9">9 1/2</num> <supplied reason="subaudible"><foreign>vēli</foreign></supplied>
+	</p>
+	
+	<p>
+		Iṉ-<choice><orig>n</orig><reg>ṉ</reg></choice>ilam Oṉpat' araiyum Ampala-nāyaka-p-perun-teruvil tiru-nāvukk-aracu-tēvaṉ tiru-maṭattu nāyaṉār Aḻakiya tiru-v-ai-y-āṟ’ uṭaiyār kiḻai-t tiru-vācal mukkaṭṭaṇattu Eḻunt-aruḷi Iruntu pū<hi rend="grantha">jai</hi> koṇṭ-aruḷukiṟa kulōttuṅka-cōḻa-viṉāya
+		<lb n="5" break="no"/>ka-p-piḷḷaiyārai <unclear>rā</unclear><hi rend="grantha">jā</hi>kkaḷ tampirāṉ tiru-vīti nāyaka<supplied reason="omitted">r</supplied> tiru-p-pavaṉi Eḻunt-aru<supplied reason="omitted">ḷu</supplied>m pōtu tirukkaṇ cātti-y-aruḷum nāḷkkaḷukku tiru-muṉpu cēvikkum tiru-k-kāṭ<choice><orig>cc</orig><reg>c</reg></choice>ikaḷukkum tiru-p-paṇṇikārattukkum v-iṭṭa <g type="nilam"/> 1/2 <supplied reason="subaudible"><foreign>vēli</foreign></supplied>
+	</p>
+	
+	<p>		
+		Iṉ-<choice><orig>n</orig><reg>ṉ</reg></choice>ilam Araiyum Āka <g type="nilam"/> <num value="10"><g type ="numeral">10</g></num> <g type="vēli"/>
+	</p> 
+	
+	<p>
+		Iṉ-<choice><orig>n</orig><reg>ṉ</reg></choice>ilam patiṟṟu vēliyum I<choice><orig>ṉ</orig><reg>n</reg></choice>-nāḷ mutal muṉpu Uṭaiyār Aḻakiya tiru-v-ai-y-āṟ’ uṭaiyār tiru-nāmattu-k-kāṇikku nāṅkaḷ muṉpu Eḻuti-k kuṭutta vi<supplied reason="omitted">ya</supplied>va<hi rend="grantha">stai</hi>-p paṭiyē Uṭaiyār tiru-c-ciṟṟ-a<supplied reason="omitted">m</supplied>palam-uṭaiyārkku tiru-<unclear>t</unclear>-tēr ma<unclear>ṭa</unclear>kku viḻukkāṭṭilē tiru-t-tēr Eḻunt-aruḷivikkavum kōyiṟ-ku<surplus>ku</surplus>ṭimai Uḷḷiṭṭa <hi rend="grantha">sabhā</hi>-viniyōkamum maṟṟum ceṉṉir Amaiñci Uḷḷiṭṭa tēvaikaḷum
+		<lb n="6"/>veḷḷāṉ veṭṭiyum Uṭ-paṭa Eppērpaṭṭaṉavum tavirntu Ūrkkiḻ Iṟai-y-ili-y-āka Utakam paṇṇi-k kuṭukkaiyil Iṉ-<choice><orig>n</orig><reg>ṉ</reg></choice>ilattu<choice><sic>n</sic><corr>k</corr></choice>ku vantaṉa Ūrilē Eṟṟi Iṟukkavum
+	</p>
+	<p>
+		Iṉ<choice><orig>n</orig><reg>ṉ</reg></choice>ilaṅkaḷ Oḻukum maṭakkum piṟa<unclear>k</unclear>kum Iṭattu tillai-nāyaka-c-caru-p-pēti-maṅkalattu <hi rend="grantha">Adhya</hi>yaṉa-paṭṭarkaḷ pēri<supplied reason="omitted">l</supplied> tillai-mu-v-āyira-viḷākam Eṉṉum pērālē Eḻuta-k kaṭavarkaḷ ākavum</p>
+	
+	<p>
+		Ip-paṭikku tiru-māḷikaiyilē kal veṭṭi-k koḷḷa-k kaṭavarkaḷ ākavum kaṭavat’ Ākavum coṉṉōm
+	</p>
+	
+	<p>
+		Ip-paṭi ceyya-p paṇṇuka
+		Ivai Aruḷāl Ūrkkaṇakku Eṭutta poṟ-pāta-p-piriyaṉ Eḻuttu
+	</p>
+	
+	<p>
+		Ip-paṭikku m<choice><orig>u</orig><reg>ū</reg></choice>la-paru<hi rend="grantha">ṣai</hi>yār Eḻutt-iṭṭa niyōkam tarukkaikoṭṭiyil Oṭukki kal veṭṭiyatu <g type="pc">.</g>
+	</p>
+	
+</div>
+			
+<!--<div type="apparatus">
+	
+	<listApp>
+		
+		<app loc="18">
+			<lem>kuṇamē<choice><orig>n</orig><reg>ṉ</reg></choice>akaipuram</lem>
+			<rdg source="bib:KrishnaSastri1923_01">kuṇamenkaipuram</rdg>
+			<note><ptr target="bib:KrishnaSastri1923_01"/> reads <foreign>kuṇamenakaipuram</foreign> in the other occurrences; the present readin <foreign>kuṇamenkaipuram</foreign> appears thus to be a typo.</note>
+		</app>	
+		
+	</listApp>	-->
+	
+<!--</div>-->
+			
+<div type="translation" resp="part:reda part:emfr">
+								
+	<p n="1">
+		Prosperity! Fortune!		
+	</p>
+	
+	<p n="1">
+		Tirthy-sixth year of the glorious Kōpperuñciṅkaṉ, the emperor of all worlds, Siṃha month, date nine. 		
+	</p>
+	<p n="1">
+		<supplied reason="subaudible">This is the</supplied> writ of the members of the chief assembly <supplied reason="explanation"><foreign>mūlapparu<hi rend="grantha">ṣai</hi>yār</foreign></supplied> of the temple at the independent village of Perumpaṟṟappuliyūr.		
+	</p>
+	
+	<p n="1-4">
+		Taṉmappiriyaṉ, the accountant of the lands <supplied reason="explanation"><foreign>nilakkaṇakku</foreign></supplied> of our village and Muvāyira Vēḷāṉ of Tillai examined <supplied reason="explanation"><foreign>kaṇṭu</foreign></supplied> the western hamlet of our village,
+		<supplied reason="subaudible">which is</supplied>
+		<list>
+			<item>west to the glorious Cuntaracōḻa cross channel <supplied reason="explanation"><foreign>vati</foreign></supplied> on the Mayilpāla Kulakāla Nallūr section <supplied reason="explanation"><foreign>pāl</foreign></supplied>, also known as <supplied reason="explanation"><foreign>āṉa</foreign></supplied> Accēri Cāttaṅkuṭi in the Kaṅkaikoṇṭacōḻa Perimaḷai-nāṭu</item>
+			<item>and south of the Cōḻakulacuntara channel <supplied reason="explanation"><foreign>vāykkāl</foreign></supplied></item>
+		</list>
+		<!--check from here-->
+		on the branch channel 6 (<foreign>kaṇṇāṟu</foreign>), square 3
+		
+		as land <supplied reason="explanation"><foreign>peṟṟa nilamāy</foreign></supplied> from them <supplied reason="explanation"><foreign>ivarkaḷ pakkal</foreign></supplied> a <foreign>mā</foreign> of land was given <supplied reason="explanation"><foreign>mā-p peṟu</foreign></supplied> in the name of Mārārayar Kūtta-p-pirāṉār and his partners <supplied reason="explanation"><foreign>uḷḷiṭṭār</foreign></supplied>, which was taken as a <supplied reason="explanation"><foreign>kuḻi</foreign></supplied> of tax-free <supplied reason="subaudible">land</supplied> <supplied reason="explanation">kuḻiyāy taramiliyāy</supplied> from the plot <supplied reason="explanation"><foreign>maṇ koṇṭa</foreign></supplied> <supplied reason="subaudible">used</supplied> for the Kulōttuṅka-cōḻaṉ flower garden of the temple within the land situated to the western boundary of the Etirilicōḻaṉ temple garden and the third square of the channel
+		
+		in the previous days, the <foreign>mutaliyār</foreign> Tirumañcaṇam Aḻakiyar bought a lotus pond <supplied reason="explanation"><foreign>tāmarai ōṭaiyāy</foreign></supplied> and after filling up the tank <supplied reason="explanation"><foreign>kuḷam tukuttu</foreign></supplied> used up for the maintenance <supplied reason="explanation"><foreign>aṉupavittu varukiṟa</foreign></supplied> of his dry crops <supplied reason="explanation"><foreign>puṉpayir</foreign></supplied>. 
+		
+	</p>
+	
+	<p n="4-5">
+		...
+	</p>
+        
+	<p n="5">
+		As this land is one half <supplied reason="subaudible"><foreign>vēli</foreign></supplied>, the land <supplied reason="subaudible">donated is thus</supplied> 10 <foreign>vēli</foreign>s.
+	</p>
+	
+	<p n="5-6">
+		The ten <supplied reason="explanation"><foreign>patiṟṟu</foreign></supplied> <foreign>vēli</foreign>s of this land
+		...
+	</p>
+	
+	<p n="6">
+		...
+	</p>
+    
+	<p n="6">
+		...
+	</p>
+    
+	<p n="6">
+		...
+	</p>
+    
+	<p n="6">
+		...
+	</p>
+    
+</div>
+	
+<!--<div type="commentary">		
+	
+</div>-->
+    	
+<div type="bibliography">
+	
+    <p>Reported in <bibl><ptr target="bib:ARIE1902-1903"/></bibl> (ARIE/1902-1903/A/1902/455).</p>
+    <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.43).</p>
+    <p>This digital edition by Renato Dávalos and Emmanuel Francis (2024), based on <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl>. This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+    
+    <listBibl type="primary">
+        
+        <bibl n="SII">
+            <ptr target="bib:SubrahmanyaAiyer1937_01"/>
+            <citedRange unit="page">21</citedRange>
+            <citedRange unit="item">43</citedRange>
+        </bibl>
+    </listBibl>
+    
+    <listBibl type="secondary">
+        
+        <bibl n="SII">
+            <ptr target="bib:ARIE1902-1903"/>
+            <citedRange unit="page">8</citedRange>
+            <citedRange unit="item">455</citedRange>
+            <citedRange unit="appendix">A</citedRange>
+        </bibl>
+    </listBibl>
+    
+</div>
+        </body>
+    </text>
+</TEI>
+
+<!--METADATA: Chidambaram, west wall of second prākāra-->
