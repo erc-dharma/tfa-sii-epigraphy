@@ -11,16 +11,16 @@
 				<title>fill up here, to be changed the name</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
 					</persName>
 				</respStmt>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
 					</persName>
 				</respStmt>
 			</titleStmt>
@@ -142,7 +142,7 @@ mēṟku ciṟṟiṅkai<supplied reason="omitted">k</supplied>kuk kiḻakku U�
 	<p>First reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/45).</p>
 	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.143).</p>
 	
-	<p>Encoded and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>.
+	<p>Encoded and translated here for DHARMA (ERC n° 809994) by Dorotea Operato  (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>.
 	</p>	
 	
 	<listBibl type="primary">
