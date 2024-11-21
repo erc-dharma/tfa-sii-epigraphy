@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruppulivaṉam, Vyāghrapurīśvara temple, time of Tribhuvana Vīra, year 37</title>
+				<title>Shiyali, Brahmapurīśvara temple, time of king Kōpperuciṅkaṉ, no year</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Fragmentary inscription. Seems to record gift of land for reciting <foreign>tiruppatiyam</foreign> in temple of Aḷḷuṭaiya-Piḷḷaiyār.</summary>
+						<summary>Fragmentary inscription. Seems to record gift of land for reciting <foreign>tiruppatiyam</foreign> in the temple of Aḷḷuṭaiya-Piḷḷaiyār.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -90,12 +90,16 @@
 
 	
 	<p>
-		<lb n="1"/><gap quantity="5" reason="lost" unit="character"></gap>lapuvaṉa-c ca<hi rend="grantha">kravatti</hi>kaḷ śrī-kō-p-peruñ-ciṅkatēva <gap quantity="6" reason="lost" unit="character"></gap>
+		<lb n="1"/><gap quantity="3" reason="lost" unit="character"></gap><supplied reason="lost">caka</supplied>lapuvaṉa-c ca<hi rend="grantha">kravatti</hi>kaḷ śrī-kō-p-peruñ-ciṅkatēva <gap quantity="6" reason="lost" unit="character"></gap>
+	</p>
+	<p>
 		<lb n="2"/><gap quantity="5" reason="lost" unit="character"></gap> ṅkaḷukkum uṭalāka naṭuvil nāṭāṉa Irā<supplied reason="lost"><hi rend="grantha">ja</hi></supplied>rāja <gap quantity="6" reason="lost" unit="character"></gap>
-		<lb n="3"/><gap quantity="3" reason="lost" unit="character"></gap><supplied reason="lost">pi</supplied>ḷḷaiyār kōyi<unclear>li</unclear>l tiruppatiyam viṇṇappañ<unclear>c</unclear>e <gap quantity="5" reason="lost" unit="character"></gap>
+		<lb n="3"/><gap quantity="3" reason="lost" unit="character"></gap><supplied reason="lost">pi</supplied>ḷḷaiyār kōyi<unclear>li</unclear>l tiruppatiyam viṇṇappañ<unclear>-c</unclear>e <gap quantity="5" reason="lost" unit="character"></gap>
 		<lb n="4"/><gap quantity="5" reason="lost" unit="character"></gap> ṉṉila[m o]ṉṟē oṉpatu māvum <unclear>t</unclear>ēvatāṉa kā <gap quantity="7" reason="lost" unit="character"></gap>
+	</p>
+	
+	<p>
 		<lb n="5"/><gap quantity="5" reason="lost" unit="character"></gap> ḻa-p pal<unclear>la</unclear>varaiyaṉe <gap quantity="7" reason="lost" unit="character"></gap>
-		
 	</p>
 	
 	
@@ -121,56 +125,60 @@
 	
 </div>    -->     
       	
-<div type="translation" resp="part:reda">
+	<div type="translation" resp="part:reda">
+		<p n="1">
+		<gap extent="unknown" reason="lost"></gap> king Kōpperuciṅkaṉ, emperor of all worlds <gap extent="unknown" reason="lost"></gap>
+		</p>
 		
-	
+		<p n="2-4">
+			<gap extent="unknown" reason="lost"></gap> as capital for <gap extent="unknown" reason="lost"></gap> a <foreign>tēvatāna</foreign> comprising 1 9/20 <supplied reason="explanation"><foreign>vēli</foreign></supplied> of land <gap extent="unknown" reason="lost"></gap> request for the holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied> in the temple of <supplied reason="lost">Āḷuṭaiya-Pi</supplied>ḷḷaiyār <gap extent="unknown" reason="lost"></gap>
+		</p>
+	<p n="5">
+		
+		<gap extent="unknown" reason="lost"></gap>  Pallavaraiyaṉ <gap extent="unknown" reason="lost"></gap>
+	</p>
 </div>
 	
       	
-<div type="commentary">
+<!--<div type="commentary">
 	
 
          	
-</div>
+</div>-->
 	
 
 <div type="bibliography">
 	
 	<p>
-		First reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/B/1923/396).
+		First reported in <bibl><ptr target="bib:ARIE1917-1918"/></bibl> (ARIE/1917-1918/B/1917/367).
 	</p>
 	
 	<p>
-		First edited <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, no. 96); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 271).
+		First edited <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.252).
 	</p>
 	
 	<p>
-		Digitally encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>. First translated by Emmanuel Francis (2024).
+		Digitally encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2024), based on <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>. First translated by Renato Dávalos (2024).
 	</p>
 	
 	<listBibl type="primary">
 		
 		<bibl n="VA">
          			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
-         			<citedRange unit="page">42-43</citedRange>
-         			<citedRange unit="item">96</citedRange>
+         			<citedRange unit="page">157</citedRange>
+         			<citedRange unit="item">252</citedRange>
          		</bibl>
 		
-		<bibl n="TVM">
-        			<ptr target="bib:Mahalingam1988_01"/>
-        			<citedRange unit="page">656-657</citedRange>
-        			<citedRange unit="item">271</citedRange>
-        		</bibl>
 		
 	</listBibl>
 	
 	<listBibl type="secondary">
 		
 		<bibl>
-			<ptr target="bib:ARIE1923-1924"/>
-			<citedRange unit="page">32</citedRange>
-			<citedRange unit="appendix">B/396</citedRange>
-			<citedRange unit="item">396</citedRange>
+			<ptr target="bib:ARIE1917-1918"/>
+			<citedRange unit="page">34</citedRange>
+			<citedRange unit="appendix">B/367</citedRange>
+			<citedRange unit="item">367</citedRange>
 		</bibl>
 		
 	</listBibl>
