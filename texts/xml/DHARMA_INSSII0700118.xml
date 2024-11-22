@@ -12,12 +12,12 @@
 				<respStmt>
 				    <resp>author of digital edition</resp>
 					<persName ref="part:doop">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
+						<forename>Dorotea</forename>
+						<surname>Operato</surname>
 					</persName>
 				    <persName ref="part:emfr">
-				        <forename>Dorotea</forename>
-				        <surname>Operato</surname>
+				        <forename>Emmanuel</forename>
+				        <surname>Francis</surname>
 				    </persName>
 				</respStmt>
 			</titleStmt>
@@ -77,7 +77,7 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:reda" when="2024-11-06">Creation of the file on the
+			<change who="part:doop" when="2024-11-06">Creation of the file on the
 				repository</change>
 		</revisionDesc>
 	</teiHeader>
@@ -87,10 +87,10 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 				
-    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">        
-        <lb n="1"/>svasti śrī
+    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215"> 
+    	<lb n="1"/>svasti śrī
     </ab>		
-    
+
     <p>
         <hi rend="grantha">śakābdam·</hi>		
         Āyirattu Oru nūṟṟu Eṇpatiṉ mēl cellā niṉṟa <hi rend="grantha">siṃha</hi>-nāyaṟṟu  <hi rend="grantha">Apara-pakṣa</hi>ttu
@@ -98,8 +98,56 @@
     </p>
     <p>
         Āṭaiyūr-nāṭṭu Eliyūṟṟukku mēṟkum nam <gap reason="lost" quantity="9" unit="character" precision="low"/>kku Uḷḷuppaṭṭa nāṭum malaiyum Aṭivāramum teṉ-karai-nāṭu muvarai-v-eṉṟa-nallūṟku
-mēṟku ciṟṟiṅkai<supplied reason="omitted">k</supplied>kuk kiḻakku Uṭpaṭṭa
-        <lb n="2"/>...
+mēṟku ciṟṟiṅkai<supplied reason="omitted">k</supplied>ku-k kiḻakku Uṭpaṭṭa
+        
+    	<lb n="2"/>nāṭum malaiyum Uṭpaṭṭa nāṭum Inta Iraṇṭu-karai-nāṭṭukku Uḷḷuppaṭṭa nāṭṭavarum nāṭṭunāyakañ ceyvārkaḷum maṉṟāṭuvārkaḷum piḷḷai mutalikaḷum <supplied reason="omitted">tani</supplied>yāṭkaḷum 
+    	paṭaināyakañ ceyvārkaḷum taṉiyāḷ mutalikaḷum <gap reason="lost" quantity="2" unit="character" precision="low"/>mpaṉāyakaru
+    	<gap reason="lost" quantity="7" unit="character" precision="low"/>likaḷum kūliccevakarum kontaviccātirarum naviramalai-t-teṉ-paṟṟu nāṭṭavarum nāṭṭu-mutalikaḷum vaṭa-malai-nāṭṭavarum nāṭṭu-mutalikaḷum Uḷḷuppaṭṭa
+    	
+    	<lb n="3"/>palacanattomum Aṭivārattu-malaiyāḷarum malaiyāḷa-mutalikaḷum mutunirmalaiyāḷarum
+    	malaiyaraṇ-mutalikaḷum ceṭṭikaḷum vāṇikarum kaṇakkarum karuma-p-perum paṉṉāṭṭavarum
+    	paṉṉāṭṭu-mutalikaḷum poṟko<supplied reason="omitted">ṟṟa-</supplied>kai-k-<supplied reason="omitted">koḷarum Āṇ</supplied>ṭārkaḷum
+    	civa <hi rend="grantha">brāhma</hi>ṇarum maṉṟāṭikaḷum Uvaccarum teṉ-karai-nāṭṭu vaṭa-talai-nāṭṭavarum 
+    	teṉ-malai-nāṭṭārum Uṭpaṭṭa nāṭṭavarum tella <gap reason="lost" quantity="3" unit="character" precision="low"/>pulava<supplied reason="omitted">ru</supplied>m paṇ-
+    	
+    	<lb n="4" break="no"/>ṇāvārum niyāya-t-tārum paṉṉiraṇṭu paṇi-makkaḷum uḷḷiṭṭa perum-veṭarum pāṇarum 
+    	paṟaiyarum paṟai-mutalikaḷum cekkiliyarum Iṟuḷarum uḷḷiṭṭa Aṉaittu-c-cātikaḷu<supplied reason="omitted">m</supplied> 
+    	Antaṇaṉtalai-y-āka Arippaṉkaṭai-y-āka Uḷḷuppaṭṭa Anai<supplied reason="omitted">t</supplied>tu-c-cāti-<supplied reason="omitted">ma</supplied>āṟkku te <gap reason="lost" quantity="3" unit="character" precision="low"/>llārum <gap reason="lost" quantity="8" unit="character" precision="low"/><supplied reason="omitted">ṇa</supplied>m 
+    	paṇṇiṉapaṭiyāvatu Eṅkaṉāyaṉā ramaṭṭaṉ karikāla-c-coḻa Āṭaiyūr-nāṭ-āḻvār tiru-v-irācciyam-paṇṇi Eḻuntaruḷi<supplied reason="omitted">iru</supplied>kka Ivar Evi Aruḳuṉapaṭiye Ivarkaḷ tiru-t-tampi
+    	
+    	<lb n="5" break="no"/>yār nāyaṉār naraciṅka-paṉmar ceytu Eḻuntu Aruḷi-y-irukka nāyaṉār naraciṅka-paṉmar makaṉ
+    	peri-y-uṭai-y-āṉum Ivaṉ tampi Ara<supplied reason="omitted">caka</supplied>ṇāyaṉum karuppu-k-kaṭṭi-nāyakka<supplied reason="omitted">ruṭa</supplied>ṉe
+    	kūṭi Eṅkaḷ nāyaṉ<supplied reason="omitted">māṟ</supplied>kum Eṅkalukku<supplied reason="omitted">m</supplied> pakaiteṭik kiḻaṟṟu-p-poy-irukka 
+    	Ivarkaḷ ceyta piḻaiyum poṟuttu Ivarkaḷ kūccan ti<supplied reason="omitted">rttu</supplied>t tiruveḻuttucāttiṉa 
+    	tiru-mukamum kuṭuttu-c ceṭṭipuṇai<supplied reason="omitted">pa</supplied>ṭṭu Amaittuviṭṭa Iṭattu tiru-mukamum Aṟuttu Eṅkaḷ nāyaṉmāṟku-
+    	
+    	<lb n="6" break="no"/>m Eṅkaḷukkum pakaiteṭi veṟuppāṉa-peruṭaṉe kūṭi Eṅkaḷukkup pakai-y-ākayiṉālum
+    	Ivarkaḷ piriti-kaṅkar va<supplied reason="omitted">ḻiyi</supplied>l-uḷḷa perākaiyālum Ipperiyuṭaiyānum Aracakaṇāyaṉum Ivarkaḷ <supplied reason="omitted">ta</supplied>mpi
+    	Amaṭṭāḻva<supplied reason="omitted">ra</supplied>ṉum Eṅkaḷ nāyaṉmāṟku Irācatturokikaḷum nāṭṭutturokikaḷumāy Ivarkaḷ muvaraiyum peṇṭiḻantāṉ kuṭṭattil Oṉṟākap puṟa<supplied reason="omitted">k</supplied>kaṭittom
+    	piri<supplied reason="omitted">ti</supplied>kaṅkar makkaḷ Eṅkal nāyaṉ-
+    	
+    	<lb n="7" break="no"/>māṟku-p pukunta nampirāṭṭiyār vayiṟṟiṟ puṟanta piḷḷaikaḷai Aracuk<supplied reason="omitted">ku</supplied>kkoḷḷakkaṭavatallavākavum
+    	Allāta piḷḷaikaḷ pūrvarmuṟaiyile Irācciyampaṇṇakkaṭavarkaḷākavum Immaṇ<supplied reason="omitted">ṇu</supplied>m malaiyum uḷḷataṉaiyum Eṅkaḷ <supplied reason="omitted">ma</supplied>kkaḷ makkaḷ vaḻivaḻi Ipperiyuṭaiyāṉaiyum 
+    	Araca<supplied reason="omitted">kaṇā</supplied>yaṉaiyum ivarka-ṭampi <supplied reason="omitted">A</supplied>maṭṭāḻvāraiyum Ivarkaḷ makkaḷi<supplied reason="omitted">l</supplied>
+    	<supplied reason="omitted">vaḻi</supplied>vaḻi Oruttaraiyum Immaṇṇila pukuta Oṭṭom
+    	
+    	<lb n="8"/>Ivarkaḷukku Iṭaṅkuṭuppatuñ ceyyom Iṭaṅkuṭuppāroṭu kūṭuvatuñceyyom Ivarka<supplied reason="omitted">ḷ</supplied> muvarum Immaṇṇukku Uriyareṉṟu collu<supplied reason="omitted">ta</supplied>ḷ colluva<supplied reason="omitted">rkku</supplied>
+    	Iṭaṅkuṭuk<supplied reason="omitted">kac</supplied>ca<supplied reason="omitted">e</supplied>yyakaṭavomum Allom Ivarkaḷukku-k kiḻolai viṭutal Ivarkaḷaik kā<supplied reason="omitted">t</supplied>tal Ivarka<unclear>ḷ</unclear><gap reason="lost" quantity="2" unit="character"/> 
+    	caruṭan pecutalceytār uṇṭākil Irācatturokikaḷum-ākki nāyilum paṉṟi-y-ilum kaṭaiyā<supplied reason="lost">kaku</supplied>ttanūkkakkaṭa
+    	<gap reason="lost" quantity="5" unit="character"/>kavum Ivarkaḷ peṇṭukaḷai mukku mulaiyum aṟuttuviṭa-
+    	
+    	<lb n="9" break="no"/>k-kaṭavom-āka-v-um Ivarkaḷ-pakkal <supplied reason="omitted">pa</supplied>eṇṭukaḷ poṉavaḷ kuṭiyāka Ippaṭi <supplied reason="omitted">Ākac</supplied>ceyyakaṭavomākavum Ivarkaḷ-pakkal poṉaperaip pa<supplied reason="omitted">ṇi</supplied>ceymak<supplied reason="omitted">kaḷai</supplied>
+    	Iṭṭukkoṉṟu pokaṭakkaṭavomā<supplied reason="omitted">ka</supplied>vum Ippaṭikku nāṅkaḷ aṉaivarum puṇai olaippāṭiyu<supplied reason="omitted">m na</supplied>ntimaṅkalamum Uḷḷuppaṭṭa Inta Aṉaittu<supplied reason="omitted">ṅ</supplied><gap reason="lost" quantity="5" unit="character"></gap>
+    	Ippaṭi nilaimaik <gap reason="lost" quantity="3" unit="character"/>ḷ <hi rend="grantha">pra</hi>māṇam iṭṭom
+    	
+    	<lb n="10"/>Ippaṭi Aṟṟumaṟavum ceytilomākil vallavaraiyaṉ cattiyam taṅkaḷammaikkuttaṉe miṇāḷaṉ Acalvaṉṉiyar kutiraikkup pulluppaṟukki<supplied reason="omitted">ṟa</supplied> pa<supplied reason="omitted">ṟa</supplied>aiyaaiyaṟku Eṅkaḷ peṇṭukaḷaik kuṭuttomākil
+    	paṭukka<supplied reason="omitted">ta</supplied> Olaippaṭikkut tappiṉāruṇṭākil ceyaṅkoṇṭanācciya<supplied reason="omitted">ra</supplied>r koyilil cevvāy-k-kiḻamai-y-il paṭṭa<supplied reason="omitted">a</supplied>ṭupaṭṭatu paṭakkaṭavomāka ceyaṅkoṇṭanāccuyār tiri<gap reason="lost" quantity="6" unit="character"/>tamiṭṭuc ciṅkanāyaṟṟu Irupattumuṉṟā-
+    	
+    	<lb n="11" break="no"/>n tiyatiyāṉa pañcami-y-um <hi rend="grantha">kaśva</hi>tiyum peṟṟa cevvāykkiḻamai nāḷ Āṭuveṭṭip pūta
+    	mutai<supplied reason="omitted">t</supplied>tu <supplied reason="omitted">ni</supplied>lai<supplied reason="omitted">ma</supplied>ai pa<supplied reason="omitted">ṇṇi</supplied>
+    	Ippaṭikku-t- <supplied reason="omitted">ti</supplied>ru Iṭavantuṟai nāyaṉār koyil-il-e kallum veṭṭikkuṭuttom Ivvaṉaivom Ikkal veṭṭiṉapaṭikku-t tappiṉavaṉ keṅkai kumari-y-iṭai-k kurāṟ-pacu-k ku<supplied reason="omitted">t</supplied>tiṉavaṉ pāvaṅkoḷvāṉ Ippaṭikku Ivaṉaittu nāṭṭavarum
+    	paṇikka-k- kalluveṭ<gap reason="lost" quantity="7" unit="character"/>yanāṭṭācāriyaṉeṉ Ivai Eṉ ṉeḻuttu.
+    	
     </p>	
 		
 </div>
