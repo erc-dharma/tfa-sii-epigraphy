@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Kuttālam, Mayavaram, time of Rājarāja I, year 23</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">DHARMA_INSSII1300170</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Donation of a pillar.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC)
+					under the European Union's Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
+							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2024-11-25">Creation of the file on the
+				repository</change>
+		</revisionDesc>
+	</teiHeader>
+
+	<text xml:space="preserve">
+<body>	
+
+	<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+		
+		<div type="textpart" n="A">
+			
+			<p>
+				<lb n="A1=1"/><gap reason="lost" quantity="4" unit="character"></gap>ṉaica
+				<lb n="A2=2"/><gap reason="lost" quantity="4" unit="character"></gap>ā-p parakē<hi rend="grantha">sa</hi><gap reason="lost" quantity="2" unit="character"></gap>
+				<lb n="A3=3"/><gap reason="lost" quantity="4" unit="character"></gap>Uttama cōḻa<gap reason="lost" quantity="2" unit="character"></gap>
+				<lb n="A4=4"/><gap reason="lost" quantity="6" unit="character"></gap>ḷiḻa <unclear>i</unclear>ṉṉi
+				<lb n="A5=5"/><gap reason="lost" quantity="6" unit="character"></gap><hi rend="grantha">de</hi>var-uṭaiya
+				<lb n="A6=6"/>pa<gap reason="lost" quantity="9" unit="character"></gap>
+				<lb n="A7=7"/>nā<gap reason="lost" quantity="9" unit="character"></gap>
+				<lb n="A8=8"/>nila<gap reason="lost" quantity="9" unit="character"></gap>
+				<lb n="A9=9"/>nila<gap reason="lost" quantity="9" unit="character"></gap>
+				<lb n="A10=10"/>māvum <unclear>kāvirinallūr</unclear><gap reason="lost" quantity="3" unit="character"></gap>
+				<lb n="A11=11"/>paḻa <hi rend="grantha">de</hi>va<hi rend="grantha">dā</hi>ṉam Iṟaiyi
+				<lb n="A12=12"/>li nilam mukkālē-y nā
+			</p>
+		</div>
+		
+		<div type="textpart" n="B">
+			<p>
+				
+				<lb n="B1=13"/><gap reason="lost" quantity="5" unit="character"></gap>ppa nārāṇa
+				<lb n="B2=14"/><gap reason="lost" quantity="4" unit="character"></gap>uṭaiya-pirāṭṭiyār<gap reason="lost" quantity="3" unit="character"></gap>
+				<lb n="B3=15"/><unclear>i</unclear>ṭṭu ku<gap reason="lost" quantity="4" unit="character"></gap>nilam araiyu
+				<lb n="B4=16"/>m āḻvā<gap reason="lost" quantity="3" unit="character"></gap>yilaiccu<gap reason="lost" quantity="4" unit="character"></gap>
+				<lb n="B5=17"/>Āka<gap reason="lost" quantity="4" unit="character"></gap>kka mukunate
+				<lb n="B6=18"/>kkum <gap reason="lost" quantity="4" unit="character"></gap>poṉa
+				<lb n="B7=19"/><gap reason="lost" quantity="10" unit="character"></gap>ṉ I
+				<lb n="B8=20"/><gap reason="lost" quantity="8" unit="character"></gap>patiṉ māvum
+				
+			</p>
+		</div>
+	
+	
+		<div type="textpart" n="C">
+			<p>
+				<lb n="C1=21"/>tirukkomiluṭai
+				<lb n="C2=22"/>yārkaḷ erikkakaṭavarkaḷā
+				<lb n="C3=23" break="no"/>y muṉpu kallil veṭṭikki
+				<lb n="C4=24" break="no"/>ṭanta tirun<choice><orig>o</orig><reg>a</reg></choice>n=tā-viḷakku
+				<lb n="C5=25" break="no"/>tiṉ nāl-araiyum Āka nilam
+				<lb n="C6=26"/>patiṉ-eḻē-y nāṉku-mā mukkāṇi
+				<lb n="C7=27" break="no"/>kkiḻ Arai muntirikaiyum aṉai
+				<lb n="C8=28" break="no"/>muppata-tāṟum tirun<choice><orig>o</orig><reg>a</reg></choice>n=tā-viḷa
+				<lb n="C9=29" break="no"/>kku-p patiṉ nāl-arai Itaṉuḷ
+				<lb n="C10=30"/>taṅkuṟaiyāy-k kamukun teṅkum
+				<lb n="C11=31"/>pū nantavāṉamum āka I<unclear>yā</unclear>kku kiḷa ni
+				<lb n="C12=32" break="no"/>laṉ Iraṇṭē-y Oṉpatiṉ māvu
+				<lb n="C13=33" break="no"/>m <hi rend="grantha">de</hi>
+				<lb n="C14=34"/>tākavum tirukkōyil uṭaiyārkaḷ
+				<lb n="C15=35"/>muṉ māṇ muṉṟu ceytu U<unclear>ṇ</unclear>ṭu
+				<lb n="C16=36" break="no"/>varum nilam vēliyum paḻampaṭi
+				<lb n="C17=37"/>māṇ muṉṟum ceytuṇṭu varuva
+				<lb n="C18=38"/>tākavum tirukkōyil uṭaiyārkaḷu
+				<lb n="C19=39" break="no"/>m Ukaccarkaḷum Irā<hi rend="grantha">ja</hi> niyō<hi rend="grantha">ga</hi>t=ta
+				<lb n="C20=40" break="no"/>l <hi rend="grantha">śrī</hi>-kā<supplied reason="omitted">ri</supplied>yañ ceyvāṉum Aṭikaḷ
+				<lb n="C21=41"/>māru<unclear>m</unclear> kavari-p piṇākkaḷum kuṭiyiru<supplied reason="omitted">k</supplied>ka
+				<lb n="C22=42"/>maṭaviḷākamāṉa nilam Eḻu-māvu
+				<lb n="C23=43" break="no"/>m maṭaviḷākavum tirukkoyil u
+				<lb n="C24=44" break="no"/>ṭaiyārkaḷ Erikka kaṭavārkku kaṉmēl
+				<lb n="C25=45"/>mun veṭṭi-k kiṭakkum tirun<choice><orig>o</orig><reg>a</reg></choice>n=tā-vi
+				<lb n="C26=46" break="no"/>ḷakku-p patiṉ nāl araiyum paḻampa
+				<lb n="C27=47" break="no"/>ṭiyē-y tirun<choice><orig>o</orig><reg>a</reg></choice>n=tā-viḷakk' erikka-ka
+				<lb n="C28=48" break="no"/>ṭavārkaḷ ākavum kāviriṉallūrk<unclear>ku</unclear>ḷ
+				<lb n="C29=49"/>Āḻvār maṉai muppattāṟum <hi rend="grantha">de</hi>va
+				<lb n="C30=50" break="no"/><hi rend="grantha">dā</hi>ṉam-āṉa nila muḻuṅ kuṭikaḷ kuṭi
+				<lb n="C31=51" break="no"/>y ākkavun niṟutti nivantañ ce
+				<lb n="C32=52" break="no"/>yu nilam patiṉ muṉṟē-y Eṭṭu-mā
+				<lb n="C33=53"/>mukkāṇi-k k<choice><sic>i</sic><corr>ī</corr></choice>ḻ Arai muntirikēyu
+			</p>
+			
+		</div>
+	<div type="textpart" n="D">
+		<p>
+			<lb n="D1=54"/>nivantañ
+			<lb n="D2=55"/>ceytapaṭi Ā
+			<lb n="D3=56" break="no"/>ḻvārkku-p paya
+			<lb n="D4=57" break="no"/>ṟu-p po<choice><orig>n</orig><reg>ṉ</reg></choice>akatti-
+			<lb n="D5=58" break="no"/>ṟkuṭ-paṭac ciṟuk<unclear>ā</unclear> 
+			<lb n="D6=59" break="no"/>laikku Arici kuṟu
+			<lb n="D7=60" break="no"/>ṇiyum Uccam
+			<lb n="D8=61"/>pōtaikku Ari
+			<lb n="D9=62" break="no"/>ci kuṟuṇiyum A
+			<lb n="D10=63" break="no"/>ntiyam pōtai
+			<lb n="D11=64"/><supplied reason="omitted">k</supplied>ku Arici kuṟuṇi
+			<lb n="D12=65" break="no"/>yum <hi rend="grantha">Arddha</hi>yāma
+			<lb n="D13=66" break="no"/>ttukku Arici na
+			<lb n="D14=67" break="no"/>ṉāḻiyum Āka A
+			<lb n="D15=68"/>rici mukkuṟuṇi nā
+			<lb n="D16=69"/>ṉāḻikku<surplus>kku</surplus> kuṟuvā
+		</p>
+		
+	</div>
+		
+		<div type="textpart" n="E">
+			<p>
+				<lb n="E1=70" break="no"/>ḷ kūli uṭpa
+				<lb n="E2=71" break="no"/>ṭa Añc' iraṇ
+				<lb n="E3=72" break="no"/>ṭu vaṇṇam
+				<lb n="E4=73"/>nellu Iru-tū
+				<lb n="E5=74" break="no"/>ṇi Aṟu-nāḻiyum payaṟ
+				<lb n="E6=75" break="no"/>ṟu-p pō<choice><orig>n</orig><reg>ṉ</reg></choice>a
+				<lb n="E7=76" break="no"/>ruppukku-p payaṟu nā-nāḻi
+				<lb n="E8=77"/>kku nellu-k kuṟuṇiyu
+				<lb n="E9=78" break="no"/>m payaṟṟu-p pō<choice><orig>n</orig><reg>ṉ</reg></choice>akattu
+				<lb n="E10=79" break="no"/>kku-c caṟkaṟai-y Iru-palat
+				<lb n="E11=80" break="no"/>tukku nellu nāḻiyuriyu
+				<lb n="E12=81" break="no"/>m nēy-y amirtu ciṟukā
+				<lb n="E13=82" break="no"/>laikkuḻakkum Uccam-pō
+				<lb n="E14=83" break="no"/>taikkum Antiyam-pō
+				<lb n="E15=84" break="no"/>taikkum <hi rend="grantha">Arddha</hi>yāmattu
+				<lb n="E16=85" break="no"/>kkum nālu pōtaiykkum
+				<lb n="E17=86"/>porikkaṟi Amutukkum ā
+				<lb n="E18=87" break="no"/>ka nē<supplied reason="omitted">y</supplied>-y amu<supplied reason="omitted">tā</supplied>ḻākkum āka nē
+				<lb n="E19=88" break="no"/>y nāḻikkum nellu-t
+				<lb n="E20=89"/>tūṇiyum kaṟi-y-amirtu
+				<lb n="E21=90"/>nālu pōtai-y-kkum ku
+				<lb n="E22=91" break="no"/>mmāya Amurtukkum parupp' a
+				<lb n="E23=92" break="no"/>mutukkum puḻukku-k-kaṟi-y o
+				<lb n="E24=93" break="no"/>ṉrukkum kutakaḷi-y oṉṟu
+				<lb n="E25=94" break="no"/>kkum pori-k-kaṟi-y-amut' o
+				<lb n="E26=95" break="no"/>ṉṟukkum ākka kāyam uṭpaṭa
+				<lb n="E27=96"/>nellu-k kuṟuṇi Oru nāḻi
+				<lb n="E28=97" break="no"/>yun tayir-amutu nā-nāḻik
+				<lb n="E29=98" break="no"/>ku nellu-k kuṟuṇi nāṉā
+				<lb n="E30=99" break="no"/>ḻiyum Aṭaikkāy-amutu I
+				<lb n="E31=100" break="no"/>rupatukkum veṟṟilai-p
+				<lb n="E32=101" break="no"/>paṟṟ' oṉṟukkum
+			</p>
+			
+		</div>
+		
+		<div type="textpart" n="F">
+			<p>
+				<lb n="F1=102"/>nellu nāṉā
+				<lb n="F2=103" break="no"/>ḻiyum tiru-v-amu
+				<lb n="F3=104" break="no"/>t' iṭa viṟakku <unclear>ne</unclear>
+				<lb n="F4=105" break="no"/>llu nā-ṉāḻiyu
+				<lb n="F5=106" break="no"/>mañcaṭ kāppukku ne
+				<lb n="F6=107" break="no"/>llu nāḻiyum <gap reason="lost" unit="character" quantity="2"></gap>ma
+				<lb n="F7=108"/><gap reason="lost" quantity="2" unit="character"></gap><unclear>Uccam pōtu</unclear>ḻa-k<gap reason="lost" quantity="2" unit="character"></gap>
+				<lb n="F8=109"/>
+				<lb n="F9=110"/>
+				<lb n="F10=111"/>
+				<lb n="F11=112"/>
+				<lb n="F12=113"/>
+				<lb n="F13=114"/>
+				<lb n="F14=115"/>
+				<lb n="F15=116"/>
+				<lb n="F16=117"/>
+				<lb n="F17=118"/>
+				<lb n="F18=119"/>
+				<lb n="F19=120"/>
+				<lb n="F20=121"/>
+				<lb n="F21=122"/>
+				<lb n="F22=123"/>
+				<lb n="F23=124"/>
+				<lb n="F24=125"/>
+				<lb n="F25=126"/>
+				<lb n="F26=127"/>
+				<lb n="F27=128"/>
+				<lb n="F28=129"/>
+				<lb n="F29=130"/>
+				<lb n="F30=131"/>
+				<lb n="F31=132"/>
+				<lb n="F32=133"/>
+				
+			
+			</p>
+		</div>
+		
+</div>
+			
+<!--<div type="apparatus">
+	
+	<listApp>
+		
+		<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:KrishnaSastri1923_01">...</rdg>
+		</app>	
+		
+	</listApp>	
+	
+</div>-->
+			
+<div type="translation" resp="part:emfr">
+								
+	<p n="1">Prosperity! Fortune!</p>
+	<p n="2-4">26th year of the king Sundara Pāṇḍya.</p>
+	<p n="4-10">This stone<note>That is, the pillar on which the inscription is engraved.</note> <supplied reason="subaudible">is</supplied> the pious donation <supplied reason="explanation"><foreign>dharma</foreign></supplied> of the a <foreign>kāśyapa</foreign><note>That is, belonging to the <foreign>gotra</foreign> of Kaśyapa.</note>, Sundara Pāṇḍya Brahmarāja <hi rend="italic">alias</hi> Eṭuttakkaiyaḻakiyāṉ, son of Nampi, from Rājāśrayacaturvedimaṅgala <hi rend="italic">alias</hi> Cēlam.</p>
+	
+</div>
+	
+<!--<div type="commentary">
+		
+</div>-->
+	
+<div type="bibliography">
+	
+	<p>First reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/45).</p>
+	<p>First edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.143).</p>
+	
+	<p>Encoded and translated here for DHARMA (ERC n° 809994) by Dorotea Operato  (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>.
+	</p>	
+	
+	<listBibl type="primary">
+		
+		<bibl n="SII">
+			<ptr target="bib:KrishnaSastri1923_01"/>
+			<citedRange unit="page">15</citedRange>
+			<citedRange unit="item">143</citedRange>
+		</bibl>
+	</listBibl>
+	
+	<listBibl type="secondary">
+				
+		<bibl>
+			<ptr target="bib:ARIE1887-1888_01"/>
+			<citedRange unit="page">5</citedRange>
+			<citedRange unit="appendix">I/1887-1888</citedRange>
+			<citedRange unit="item">45</citedRange>			
+		</bibl>		
+		
+	</listBibl>
+	
+</div>
+        </body>
+    </text>
+</TEI>
