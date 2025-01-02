@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruppulivaṉam, Vyāghrapurīśvara temple, time of Tribhuvana Vīra, year 37</title>
+				<title>Tiruppulivaṉam, Vyāghrapurīśvara, time of Tribhuvana Vīra, year 37</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -101,12 +101,12 @@
 	</p>
 	
 	<p>
-		<hi rend="grantha">ja</hi>yaṅ-koṇṭa-cōḻamaṇṭalattu-k kāliyūṟ-kōttaṭṭu taṉiyūr Uttaramēlūr-āṉa Irā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-cōḻa-<hi rend="grantha">c-caturvedi</hi>-maṅkalattu <hi rend="grantha">mahāsabhai</hi>yōm Eḻuttu</p>
+		<hi rend="grantha">ja</hi>yaṅ-koṇṭa-cōḻamaṇṭalattu-k kāliyūṟ-kōṭṭattu taṉiyūr Uttaramēlūr-āṉa Irā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-cōḻa-<hi rend="grantha">c-caturvedi</hi>-maṅkalattu <hi rend="grantha">mahāsabhai</hi>yōm Eḻuttu</p>
 	
 	<p>
 		namm-<choice><orig>u</orig><reg>ū</reg></choice>r Uṭaiyār tiru-p-pulivaṉam-uṭaiya nāyaṉārkku tiru-nuntā-vi
-		<lb n="3" break="no"/>ḷakku Erippat-āka Eṅkaḷ <hi rend="grantha">pūrva</hi>kaḷ pala<supplied reason="omitted">r</supplied> pakkalum poṉ koṇṭu poli-y-ūṭṭukku Erikka-k kaṭavarkaḷ-āka muṉṉāḷil kalveṭṭiṉa tiru-nuntā-viḷakkukaḷil irā<hi rend="grantha">ja</hi>māttāṇṭaṉ-ākiya Aparā<hi rend="grantha">ji</hi>ta-vi<hi rend="grantha">krama</hi>va<hi rend="grantha">nma</hi>rkku yāṇṭu <num value="14"><g type="numeral">10</g> 4</num><g type="dash"/>Āvatu nāḷil <hi rend="grantha">sū<choice><orig>ri</orig><reg>r</reg></choice></hi>ya-<hi rend="grantha">graha</hi>ṉattukku <hi rend="grantha">rāja
-		<lb n="4" break="no"/>māttāṇḍa</hi>ṉ-ākiya <hi rend="grantha">Aparāji</hi>ta-vi<hi rend="grantha">kramapanma</hi>r pakkaḷ kai-k koṇṭa <supplied reason="undefined">poṉ</supplied> niṟai cem poṉ <supplied reason="undefined"><num value="100"><g type="numeral">100</g></num></supplied> kaḻañcukku Erikka-k kaṭavat-āka tiru-p-pulivaṉam-uṭaiyār kōyililum naṭuviṟ kōyililuṅ kalveṭṭiṉa nilai-viḷakku nālum 
+		<lb n="3" break="no"/>ḷakku Erippat-āka Eṅkaḷ <hi rend="grantha">pūrva</hi>kaḷ pala<supplied reason="omitted">r</supplied> pakkalum poṉ koṇṭu poli-y-ūṭṭukku Erikka-k kaṭavarkaḷ-āka muṉṉāḷil kalveṭṭiṉa tiru-nuntā-viḷakkukaḷil irā<hi rend="grantha">ja</hi>māttāṇṭaṉ-ākiya Aparā<hi rend="grantha">ji</hi>ta-vi<hi rend="grantha">krama</hi>va<hi rend="grantha">nma</hi>rkku yāṇṭu <num value="14"><g type="numeral">10</g> 4</num><g type="dash"/>Āvatu nāḷil <hi rend="grantha">sū<choice><orig>ri</orig><reg>r</reg></choice></hi>ya-<hi rend="grantha">graha</hi>ṇattukku <hi rend="grantha">rāja
+		<lb n="4" break="no"/>māttāṇḍa</hi>ṉ-ākiya <hi rend="grantha">Aparāji</hi>ta-vi<hi rend="grantha">kramapanma</hi>r pakkal kai-k koṇṭa <supplied reason="undefined">poṉ</supplied> niṟai cem poṉ <supplied reason="undefined"><num value="100"><g type="numeral">100</g></num></supplied> kaḻañcukku Erikka-k kaṭavat-āka tiru-p-pulivaṉam-uṭaiyār kōyililum naṭuviṟ kōyililuṅ kalveṭṭiṉa nilai-viḷakku nālum 
 	</p>
 	
 	<p>
@@ -162,39 +162,37 @@
 	
 	<p><gap reason="ellipsis" extent="unknown" unit="line"/><note>As there is another copy of this inscription (SII 6, no. 350) and as SII 12 concerns only the Pallava inscriptions, <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> did not provide the text of these lines, which record donations by Kṛṣṇa III Rāṣṭrakūṭa and Parāntaka I Cōḻa. See <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/><citedRange unit="page">43</citedRange><citedRange unit="note">1</citedRange></bibl>.</note></p>
 	
-</div>
-	
+</div>	
       	
 <div type="commentary">
 	
 	<p>
-		There is another copy of this inscription with some variants and variant spellings (SII 6, no. 350) in the Vaikuṇṭhaperumāḷ temple in Uttiramērūr.
+		There is another copy of this inscription with some variants and variant spellings (SII 6.350) in the Vaikuṇṭhaperumāḷ temple in Uttiramērūr.
 	</p>
 	
 	<p>
 		<bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> identifies Tribhuvana Vīra with Kulottuṅga III Cōḻa and dates the record to 7th June 1215 CE. 
 	</p>
          	
-</div>
-	
+</div>	
 
 <div type="bibliography">
 	
 	<p>
-		First reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/B/1923/396).
+		Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/B/1923/396).
 	</p>
 	
 	<p>
-		First edited <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, no. 96); text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP no. 271).
+		Edited <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12, no. 96). Text and summary in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 271).
 	</p>
 	
 	<p>
-		Digitally encoded here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>. First translated by Emmanuel Francis (2024).
+		This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>. Thanks to Centamiḻ Celvaṉ for his feedback.
 	</p>
 	
 	<listBibl type="primary">
 		
-		<bibl n="VA">
+		<bibl n="SII">
          			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
          			<citedRange unit="page">42-43</citedRange>
          			<citedRange unit="item">96</citedRange>
