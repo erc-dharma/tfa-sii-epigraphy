@@ -102,30 +102,30 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 				
 	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/><supplied reason="undefined">sva</supplied>sti śrī <unclear><g type="gomutraFinal">.</g><g type="gomutraFinal">.</g></unclear>
+		<lb n="1"/><hi rend="grantha"><supplied reason="undefined">sva</supplied>sti śrī</hi>
 	</ab>
 		<p>
-			<hi rend="grantha">tribhu</hi>vanacca<supplied reason="omitted">k</supplied><hi rend="grantha">kra</hi>vattikaḷ <hi rend="grantha">śrī</hi>konerinmai<supplied reason="omitted">k</supplied>oṇ<supplied reason="omitted">ṭ</supplied>āṉ
-			veṅkāla nā<supplied reason="omitted">ṭ</supplied>ṭu-k-kaṇ<supplied reason="omitted">māḷa</supplied>ṟku <unclear><g type="gomutraFinal">.</g></unclear>
+			<hi rend="grantha">tri-bhu</hi>vana-c-ca<supplied reason="omitted">k</supplied><hi rend="grantha">kra</hi>va<choice><orig>t</orig><reg>r</reg></choice>tikaḷ <hi rend="grantha">śrī</hi>-k<choice><orig>o</orig><reg>ō</reg></choice>n<choice><orig>e</orig><reg>ē</reg></choice>riṉmai<supplied reason="omitted">k</supplied>oṇ<supplied reason="omitted">ṭ</supplied>āṉ
+			veṅkāla-nā<supplied reason="omitted">ṭ</supplied>ṭu-k kaṇ<supplied reason="omitted">māḷa</supplied>ṟku
 		</p>
 	<p>
 		15vatu <supplied reason="omitted">Āṭimā</supplied>ta<supplied reason="omitted">m</supplied> mutal taṅka
 		
-		<lb n="2" break="no"/>ḷukku naṉmai-ti<choice><orig>n</orig><reg>ṉ</reg></choice>maikaḷukku Iraṭṭai-c-<supplied reason="omitted">ca</supplied>ṅkum Ūti peri<supplied reason="omitted">ka</supplied>ai Uḷḷiṭ<supplied reason="omitted">ṭa</supplied>vai
-		<supplied reason="omitted">k</supplied>oṭṭuvittu koḷḷavum tāṅkaḷ puṟa<supplied reason="omitted">p</supplied>paṭa veṇṭum
+		<lb n="2" break="no"/>ḷukku naṉmai-ti<choice><orig>n</orig><reg>ṉ</reg></choice>maikaḷukku Iraṭṭai-c-<supplied reason="omitted">ca</supplied>ṅkum Ūti perik<supplied reason="omitted">ai</supplied> Uḷḷiṭ<supplied reason="omitted">ṭa</supplied>vai
+		<supplied reason="omitted">k</supplied>oṭṭu-vittu koḷḷavum tāṅkaḷ puṟa<supplied reason="omitted">p</supplied>paṭa v<choice><orig>e</orig><reg>ē</reg></choice>ṇṭum
 		
-		<lb n="3"/>Iṭaṅkaḷukku pā<hi rend="grantha">da-ra<supplied reason="omitted">kṣa</supplied>ai</hi> kottu-k-k<supplied reason="omitted">oḷ</supplied>ḷavum taṅkaḷ
-		viṭu<supplied reason="omitted">kaḷuk</supplied>ku-c-cā<choice><orig>ṅ</orig><reg>n</reg></choice>tu Iṭṭu-k-koḷ<supplied reason="omitted">ḷa</supplied>vum
-		<supplied reason="omitted">c</supplied>o<seg rend="check">ṉn</seg>om <unclear><g type="gomutraFinal">.</g></unclear>
+		<lb n="3"/>Iṭaṅkaḷukku pā<hi rend="grantha">da-ra<supplied reason="omitted">kṣ</supplied>ai</hi> kottu-k-k<supplied reason="omitted">oḷ</supplied>ḷavum taṅkaḷ
+		v<choice><orig>i</orig><reg>ī</reg></choice>ṭu<supplied reason="omitted">kaḷuk</supplied>ku-c-cā<choice><orig>ṅ</orig><reg>n</reg></choice>tu Iṭṭu-k-koḷ<supplied reason="omitted">ḷa</supplied>vum
+		<supplied reason="omitted">c</supplied>o<seg rend="check">ṉn</seg>om
 	</p>
 	<p>
 		I-p-paṭikku I-v-<choice><orig>o</orig><reg>v-Ō</reg></choice>lai pi
 		
 		<lb n="4" break="no"/>ṭi-<supplied reason="omitted">p</supplied>āṭāka-k-koṇṭu <hi rend="grantha">candrā</hi>tit-tavarai
-		cel<supplied reason="omitted">va</supplied>tāka-t-taṅ<supplied reason="omitted">ka</supplied>ḷukku veṇṭiṉa Itaṇkalile kallilum cempilum veṭṭi-k-koḷka <unclear><g type="gomutraFinal">.</g></unclear>
+		cel<supplied reason="omitted">va</supplied>tāka-t taṅ<supplied reason="omitted">ka</supplied>ḷukku v<choice><orig>e</orig><reg>ē</reg></choice>ṇṭiṉa Itaṇkalile kallilum cempilum veṭṭi-k-koḷka <unclear><g type="gomutraFinal">.</g></unclear>
 	</p>
 	<p>
-		Ivai viḻu<supplied reason="omitted">pp</supplied>ātarāyaṉ Eḻuttu <g type="gomutraFinal">.</g><g type="gomutraFinal">.</g>
+		Ivai viḻu<supplied reason="omitted">pp</supplied>ātarāyaṉ Eḻuttu
 	</p>
 </div>
 			
