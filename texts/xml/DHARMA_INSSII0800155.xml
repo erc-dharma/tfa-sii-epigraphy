@@ -83,36 +83,36 @@
 <body>	
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-				
-    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215"> 
-    	<lb n="1"/>svasti <unclear><g type="gomutraFinal">.</g></unclear></ab>	
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		<lb n="1"/><hi rend="grantha">svasti</hi> 
+	</ab>
     
-    <p><hi rend="grantha">śrīman-mahā-maṇḍaleśvaran Arīrāyavipāṭan bhāṣai</hi>kku-t tappuvara<supplied reason="omitted">ā</supplied>yarakaṇṭan
-        m<choice><sic>u</sic><corr>ū</corr></choice>varāyara<hi rend="grantha">kaṇḍa</hi>n
+    <p><hi rend="grantha">śrīman-mahā-maṇḍaleśvaran Ari-rāya-vipāṭa<choice><orig>n</orig><reg>ṉ</reg></choice> bhāṣai</hi>kku-t tappu-v-ar<supplied reason="omitted">ā</supplied>yara-kaṇṭa<choice><orig>n</orig><reg>ṉ</reg></choice>
+        m<choice><orig>u</orig><reg>ū</reg></choice>-v-arāyara-<hi rend="grantha">kaṇḍa</hi><choice><orig>n</orig><reg>ṉ</reg></choice>
         
-        <lb n="2"/><hi rend="grantha">catūḥ-sa</hi>mu<hi rend="grantha">dra-Adhi</hi>pati <hi rend="grantha">śrī</hi>vīra<hi rend="grantha">de</hi>varāyar kumāra<unclear>r</unclear>
-        <hi rend="grantha">śrī</hi>v<choice><sic>i</sic><corr>ī</corr></choice>ravijaya<hi rend="grantha">bhū</hi>patirāya Uṭaiyar <hi rend="grantha">pṛti</hi>virā<hi rend="grantha">jyam</hi> paṇṇi Aruḷāniṉṟa
+        <lb n="2"/><hi rend="grantha">catūḥ-sa</hi>mu<hi rend="grantha">dra-Adhi</hi>-pati <hi rend="grantha">śrī</hi>-vīra-<hi rend="grantha">de</hi>varāyar kumāra<unclear>r</unclear>
+        <hi rend="grantha">śrī</hi>v<choice><orig>i</orig><reg>ī</reg></choice>ra-vijaya-<hi rend="grantha">bhū</hi>pati-rāya Uṭaiyar <hi rend="grantha">pṛti</hi>-virā<hi rend="grantha">jyam</hi> paṇṇi Aruḷā niṉṟa
     </p>
     <p>
         <hi rend="grantha">śa</hi>
         
-        <lb n="3" break="no"/><hi rend="grantha">kābdam 1340</hi>-ṉmel cellāniṉṟa <supplied reason="omitted">vi</supplied>ḷampi-varuśattu taṉu-nāyaṟṟu pū<hi rend="grantha">rvva</hi>pa<hi rend="grantha">kṣa</hi>ttu
-        <hi rend="grantha">daśami</hi>yum putaṉkiḻumaiyum peṟṟa <hi rend="grantha">re</hi>vati nāḷ
+        <lb n="3" break="no"/><hi rend="grantha">kābdam 1340</hi>-ṉmel cellā niṉṟa <supplied reason="omitted">vi</supplied>ḷampi-varu<hi rend="grantha">śa</hi>ttu taṉu-nāyaṟṟu pū<hi rend="grantha">rvva</hi>-pa<hi rend="grantha">kṣa</hi>ttu
+        <hi rend="grantha">daśami</hi>yum putaṉ-kiḻamaiyum peṟṟa <hi rend="grantha">re</hi>vati nāḷ
         </p>
     <p>
         
-        <lb n="4"/>jayaṅkoṇṭacoḻa-maṇṭalattu ceṅkuṉṟa-koṭṭattu-p peṇṇai vaṭa-karai vāṇak<choice><orig>o</orig><reg>ō</reg></choice>ppāṭi Aṇṇānāṭṭu-t taṉiyūr tiru Aṇṇāmalaikku
+        <lb n="4"/>jayaṅkoṇṭa-coḻa-maṇṭalattu ceṅkuṉṟa-koṭṭattu-p peṇṇai vaṭa-karai vāṇak<choice><orig>o</orig><reg>ō</reg></choice>ppāṭi Aṇṇā-nāṭṭu-t taṉiyūr tiru Aṇṇāmalaikku
         
         <lb n="5"/>Iṭaṅkai valaṅkai Illai
         </p>
     <p>
-        tiru Aṇṇāmalaiyil Iraṇṭu teruvil kaikkoḷaṟku muṉpu <hi rend="grantha">pūrvvam</hi> naṭantu ponta caṅku taṇṭu Āṉai cāmaram
+        tiru Aṇṇāmalaiyil Iraṇṭu teruvil kaikk<choice><orig>o</orig><reg>ō</reg></choice>ḷaṟku muṉpu <hi rend="grantha">pūrvvam</hi> naṭantu ponta caṅku taṇṭu Āṉai cāmaram
         
-        <lb n="6"/>maṟṟum valaṅkaikku Uḷḷa varicaikaḷ ellām cantirātitta-varaiyum naṭakka-kaṭavatākavum
+        <lb n="6"/>maṟṟum valaṅkaikku Uḷḷa varicaikaḷ Ellām cantirātitta-varaiyum naṭakka-kaṭavat' Ākavum
         </p>
     <p>Inta kāriyattukku Aḻivu ceytavaṉ, civa-t
         
-        <lb n="7" break="no"/>tur<choice><sic>o</sic><corr>ō</corr></choice>ki Irāca-t-tur<choice><sic>o</sic><corr>ō</corr></choice> Āka<supplied reason="omitted">k</supplied>kaṭavaṉākavum <unclear><g type="gomutraFinal">.</g></unclear>
+        <lb n="7" break="no"/>tur<choice><sic>o</sic><corr>ō</corr></choice>ki Irāca-t-tur<choice><sic>o</sic><corr>ō</corr></choice>ki Āka<supplied reason="omitted">-k </supplied>kaṭavaṉ-Ākavum <unclear><g type="gomutraFinal">.</g></unclear>
     </p>
 </div>
 						
