@@ -44,12 +44,11 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary></summary>
+						<summary>...</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>
-							<p/>
+						    <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -88,104 +87,99 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 				
     <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215"> 
-    	<lb n="1"/>svasti śrī <g type="gomutraFinal">.</g>
+        <lb n="1"/>svasti śrī <g type="gomutraFinal">.</g>
     </ab>		
-
+    
     <p>
         <hi rend="grantha">śakābdam·</hi>		
         Āyirattu Oru nūṟṟu Eṇpatiṉ mēl cellā niṉṟa <hi rend="grantha">siṃha</hi>-nāyaṟṟu  <hi rend="grantha">Apara-pakṣa</hi>ttu
         <hi rend="grantha">tṛ</hi>tiyaiyum nā<supplied reason="omitted">ya</supplied>ṟṟu-k-kiḻamaiyum peṟṟa <hi rend="grantha">re</hi>vati nāḷ
     </p>
     
-	<p>
+    <p>
         Āṭaiyūr-nāṭṭu Eliyūṟṟukku m<choice><orig>e</orig><reg>ē</reg></choice>ṟkum nam <gap reason="lost" quantity="9" unit="character" precision="low"/>kku Uḷḷuppaṭṭa nāṭum malaiyum Aṭivāramum teṉ-karai-nāṭu m<choice><orig>u</orig><reg>ū</reg></choice>varai-v-eṉṟa-nallūṟku
-m<choice><orig>e</orig><reg>ē</reg></choice>ṟku ciṟṟiṅkai<supplied reason="omitted">k</supplied>ku-k kiḻakku Uṭpaṭṭa
+        m<choice><orig>e</orig><reg>ē</reg></choice>ṟku ciṟṟiṅkai<supplied reason="omitted">k</supplied>ku-k kiḻakku Uṭpaṭṭa
         
-    	<lb n="2"/>nāṭum malaiyum Uṭpaṭṭa nāṭum Inta Iraṇṭu-karai-nāṭṭukku Uḷḷuppaṭṭa nāṭṭavarum nāṭṭu-nāyakañ ceyvārkaḷum maṉṟāṭuvārkaḷum piḷḷai mutalikaḷum <supplied reason="omitted">taṉi</supplied>yāṭkaḷum 
-    	paṭai-nāyakañ ceyvārkaḷum taṉiyāḷ mutalikaḷum <gap reason="lost" quantity="2" unit="character" precision="low"/>mpaṉāyakaru
-    	<gap reason="lost" quantity="7" unit="character" precision="low"/>likaḷum kūlicc<choice><orig>e</orig><reg>ē</reg></choice>vakarum konta-vi-c-cātirarum navira-malai-t teṉ-paṟṟu nāṭṭavarum nāṭṭu-mutalikaḷum vaṭa-malai-nāṭṭavarum nāṭṭu-mutalikaḷum Uḷḷuppaṭṭa
-    	
-    	<lb n="3"/>pala-caṉatt<choice><orig>o</orig><reg>ō</reg></choice>mum Aṭivārattu-malaiyāḷarum malaiyāḷa-mutalikaḷum mutun<choice><orig>i</orig><reg>ī</reg></choice>r-malaiyāḷarum
-    	malaiyaraṇ-mutalikaḷum ceṭṭikaḷum vāṇikarum kaṇakkarum karuma-p-perum paṉṉāṭṭavarum
-    	paṉṉāṭṭu-mutalikaḷum poṟko<supplied reason="omitted">ṟṟa-</supplied>kai-k-<supplied reason="omitted">koḷarum Āṇ</supplied>ṭārkaḷum
-    	civa-<hi rend="grantha">brāhma</hi>ṇarum maṉṟāṭikaḷum Uvaccarum teṉ-karai-nāṭṭu vaṭa-talai-nāṭṭavarum 
-    	teṉ-malai-nāṭṭārum Uṭpaṭṭa nāṭṭavarum tella <gap reason="lost" quantity="3" unit="character" precision="low"/>pulava<supplied reason="omitted">ru</supplied>m paṇ
-    	
-    	<lb n="4" break="no"/>ṇūvārum niyāyattārum paṉṉ' Iraṇṭu paṇi-makkaḷum Uḷḷiṭṭa perum-v<choice><orig>e</orig><reg>ē</reg></choice>ṭarum pāṇarum 
-    	paṟaiyarum paṟai-mutalikaḷum c<seg rend="check">e</seg>kkiliyarum I<choice><orig>ṟ</orig><reg>r</reg></choice>uḷarum Uḷḷiṭṭa Aṉaittu-c-cātikaḷu<supplied reason="omitted">m</supplied> 
-    	Antaṇaṉ-talai-y-āka Arippaṉ-kaṭai-y-āka Uḷḷuppaṭṭa Anai<supplied reason="omitted">t</supplied>tu-c-cāti-<supplied reason="omitted">m</supplied>āṟkku te <gap reason="lost" quantity="3" unit="character" precision="low"/>llārum <gap reason="lost" quantity="8" unit="character" precision="low"/><supplied reason="omitted">ṇa</supplied>m 
-    	paṇṇiṉa paṭi-y-Āvatu
+        <lb n="2"/>nāṭum malaiyum Uṭpaṭṭa nāṭum Inta Iraṇṭu-karai-nāṭṭukku Uḷḷuppaṭṭa nāṭṭavarum nāṭṭu-nāyakañ ceyvārkaḷum maṉṟāṭuvārkaḷum piḷḷai mutalikaḷum <unclear>taṉi</unclear>yāṭkaḷum 
+        paṭai-nāyakañ ceyvārkaḷum taṉiyāḷ mutalikaḷum <gap reason="lost" quantity="2" unit="character" precision="low"/>mpaṉāyakaru
+        <gap reason="lost" quantity="7" unit="character" precision="low"/>likaḷum kūlicc<choice><orig>e</orig><reg>ē</reg></choice>vakarum konta-vi-c-cātirarum navira-malai-t teṉ-paṟṟu nāṭṭavarum nāṭṭu-mutalikaḷum vaṭa-malai-nāṭṭavarum nāṭṭu-mutalikaḷum Uḷḷuppaṭṭa
+        
+        <lb n="3"/>pala-caṉatt<choice><orig>o</orig><reg>ō</reg></choice>mum Aṭivārattu-malaiyāḷarum malaiyāḷa-mutalikaḷum mutun<choice><orig>i</orig><reg>ī</reg></choice>r-malaiyāḷarum
+        malaiyaraṇ-mutalikaḷum ceṭṭikaḷum vāṇikarum kaṇakkarum karuma-p-perum paṉṉāṭṭavarum
+        paṉṉāṭṭu-mutalikaḷum poṟko<unclear>ṟṟa-</unclear>kai-k-<supplied reason="omitted">koḷarum Āṇ</supplied>ṭārkaḷum
+        civa-<hi rend="grantha">brāhma</hi>ṇarum maṉṟāṭikaḷum Uvaccarum teṉ-karai-nāṭṭu vaṭa-talai-nāṭṭavarum 
+        teṉ-malai-nāṭṭārum Uṭpaṭṭa nāṭṭavarum tella <gap reason="lost" quantity="3" unit="character" precision="low"/>pulava<supplied reason="omitted">ru</supplied>m paṇ
+        
+        <lb n="4" break="no"/>ṇūvārum niyāyattārum paṉṉ' Iraṇṭu paṇi-makkaḷum Uḷḷiṭṭa perum-v<choice><orig>e</orig><reg>ē</reg></choice>ṭarum pāṇarum 
+        paṟaiyarum paṟai-mutalikaḷum c<seg rend="check">e</seg>kkiliyarum I<choice><orig>ṟ</orig><reg>r</reg></choice>uḷarum Uḷḷiṭṭa Aṉaittu-c-cātikaḷu<supplied reason="omitted">m</supplied> 
+        Antaṇaṉ-talai-y-āka Arippaṉ-kaṭai-y-āka Uḷḷuppaṭṭa Anai<supplied reason="omitted">t</supplied>tu-c-cāti-<supplied reason="omitted">m</supplied>āṟkku te <gap reason="lost" quantity="3" unit="character" precision="low"/>llārum <gap reason="lost" quantity="8" unit="character" precision="low"/><supplied reason="omitted">ṇa</supplied>m 
+        paṇṇiṉa paṭi y-āvatu
     </p>
-	
-	<p>
-    	Eṅka-ṉāyaṉār amaṭṭaṉ karikāla-c-c<choice><orig>o</orig><reg>ō</reg></choice>ḻa Āṭaiyūr-nāṭ-āḻvār tiru-v-irācciyam paṇṇi Eḻuntu Aruḷi <supplied reason="omitted">Iru</supplied>kka Ivar Evi Aruḷiṉa paṭiy<choice><orig>e</orig><reg>ē</reg>
-    	</choice> Ivarkaḷ tiru-t-tampi
-    	
-    	<lb n="5" break="no"/>yār nāyaṉār naraciṅka-paṉmar ceytu Eḻuntu Aruḷi-y-irukka
-	</p>
-	
-	<p>
-		nāyaṉār naraciṅka-paṉmar makaṉ periyuṭaiyāṉum Ivaṉ tampi Ara<supplied reason="omitted">caka</supplied>ṇāyaṉum karuppu-k-kaṭṭi-nāyakka<supplied reason="omitted">r-uṭa</supplied>ṉ<choice><orig>e</orig><reg>ē</reg></choice>
-    	kūṭi Eṅkaḷ nāyaṉ<supplied reason="omitted">māṟ</supplied>kum Eṅkalukku<supplied reason="omitted">m</supplied> pakai-t<choice><orig>e</orig><reg>ē</reg></choice>ṭi-k kiḻaṟṟu-p-p<choice><orig>o</orig><reg>ō</reg></choice>y-Irukka 
-    	</p>
-	
-	<p>
-    	Ivarkaḷ ceyta piḻaiyum poṟuttu Ivarkaḷ kūccan ti<supplied reason="omitted">rttu</supplied>-t tiru-v-eḻuttu-c-cāttiṉa 
-    	tiru-mukamum kuṭuttu-c ceṭṭi-puṇai-<supplied reason="omitted">pa</supplied>ṭṭu Amaittu-viṭṭa
-		</p>
-	
-	<p>
-		Iṭattu tiru-mukam<seg rend="check">u ma</seg>ṟuttu Eṅkaḷ nāyaṉ-māṟku
-    	
-    	<lb n="6" break="no"/>m Eṅkaḷukkum pakai-t<choice><orig>e</orig><reg>ē</reg></choice>ṭi veṟuppāṉa-peruṭaṉe kūṭi Eṅkaḷukku-p pakai-y-āka-y-iṉālum
-    	Ivarkaḷ piriti-kaṅkar va<supplied reason="omitted">ḻiyi</supplied>l Uḷḷa perākaiyālum I-p-periyuṭaiyānum Aracaka-ṇāyaṉum Ivarkaḷ <supplied reason="omitted">ta</supplied>mpi
-    	Amaṭṭāḻva<supplied reason="omitted">ra</supplied>ṉum Eṅkaḷ nāyaṉ-māṟku Irāca-t-tur<choice><orig>o</orig><reg>ō</reg></choice>kikaḷum nāṭṭu-t-tur<choice><orig>o</orig><reg>ō</reg></choice>kikaḷum-Āy
-		Ivarkaḷ m<choice><orig>u</orig><reg>ū</reg></choice>varaiyum peṇṭiḻantāṉ kuṭṭattil Oṉṟ' ākap puṟa-<supplied reason="omitted">k</supplied>-kaṭitt<choice><orig>o</orig><reg>ō</reg></choice>m
-		</p>
-	
-	<p>
-    	piri<supplied reason="omitted">ti</supplied>-kaṅkar makkaḷ Eṅkaḷ nāyaṉ
-    	
-    	<lb n="7" break="no"/>māṟku-p pukunta nam-pirāṭṭiyār vayiṟṟiṟ piṟanta piḷḷaikaḷai Aracuk<supplied reason="omitted">ku</supplied> koḷḷa-k-kaṭavatalla-v-ākavum
-    	Allāta piḷḷaikaḷ pūrvar-muṟaiyil<choice><orig>e</orig><reg>ē</reg></choice> Irācciyam paṇṇa-k-kaṭavarkaḷ-ākavum I-m-maṇ<supplied reason="omitted">ṇu</supplied>m malaiyum Uḷḷat' aṉaiyum
-	</p>
-	
-	<p>
-		Eṅkaḷ <supplied reason="omitted">ma</supplied>kkaḷ makkaḷ vaḻi-vaḻi I-p-periyuṭaiyāṉaiyum Araca<supplied reason="omitted">kaṇā</supplied>yaṉaiyum Ivarka-ṭampi <supplied reason="omitted">A</supplied>maṭṭāḻvāraiyum Ivarkaḷ makkaḷi<supplied reason="omitted">l</supplied>
-    	<supplied reason="omitted">vaḻi</supplied>-vaḻi Oruttaraiyum I-m-maṇṇila pukuta Oṭṭ<choice><orig>o</orig><reg>ō</reg></choice>m
-	</p>
-	
-	<p>
-    	<lb n="8"/>Ivarkaḷukku Iṭaṅ kuṭuppatuñ ceyy<choice><orig>o</orig><reg>ō</reg></choice>m
-</p>
-	<p>
-		Iṭaṅ kuṭuppār<choice><orig>o</orig><reg>ō</reg></choice>ṭu kūṭuvatuñ ceyy<choice><orig>o</orig><reg>ō</reg></choice>m
-		</p>
-	<p>	
-		Ivarka<supplied reason="omitted">ḷ</supplied> m<choice><orig>u</orig><reg>ū</reg></choice>varum I-m-maṇṇukku Uriyar eṉṟu collu<supplied reason="omitted">ta</supplied>l colluva<supplied reason="omitted">rkku</supplied>
-    	Iṭaṅ kuṭuk<supplied reason="omitted">ka</supplied> c<supplied reason="omitted">e</supplied>yya-kaṭav<choice><orig>o</orig><reg>ō</reg></choice>mum All<choice><orig>o</orig><reg>ō</reg></choice>m
-		</p>
-		
-		<p>
-		Ivarkaḷukku-k kiḻolai viṭutal Ivarkaḷai-k kā<supplied reason="omitted">t</supplied>tal Ivarka<unclear>ḷ</unclear><gap reason="lost" quantity="2" unit="character"/> caruṭan p<choice><orig>e</orig><reg>ē</reg></choice>cutal-ceytār Uṇṭ' ākil Irāca-t-tur<choice><orig>o</orig><reg>ō</reg></choice>kikaḷum-Ākki nāyilum paṉṟi-y-Ilum kaṭaiyā<supplied reason="lost">kaku</supplied>-t tanū-k-kakkaṭa
-    	<gap reason="lost" quantity="5" unit="character"/>kavum
-			</p>
-		
-		<p>
-			Ivarkaḷ peṇṭukaḷai m<choice><orig>u</orig><reg>ū</reg></choice>kku mulaiyum Aṟuttu-viṭa
-    	
-    	<lb n="9" break="no"/>k-kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m-ākavum
-			</p>
-		<p>
-			Ivarkaḷ pakkal <supplied reason="omitted">p</supplied>eṇṭukaḷ p<choice><orig>o</orig><reg>ō</reg></choice>ṉavaḷ kuṭi-y-āka I-p-paṭi <supplied reason="omitted">Āka-c</supplied> ceyya-kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m-ākavum
-	</p>
-	
-	<p>
-	Ivarkaḷ pakkal p<choice><orig>o</orig><reg>ō</reg></choice>ṉa p<choice><orig>e</orig><reg>ē</reg></choice>rai-p pa<supplied reason="omitted">ṇi</supplied>-cey-mak<supplied reason="omitted">kaḷai</supplied>
-    	Iṭṭu-k-koṉṟu pokaṭa-k-kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m-Ā<supplied reason="omitted">ka</supplied>vum
-	</p>
-
-<p>
+    
+    <p>
+        <list>
+            <item>Eṅka-ṉāyaṉār amaṭṭaṉ karikāla-c-c<choice><orig>o</orig><reg>ō</reg></choice>ḻa Āṭaiyūr-nāṭ-āḻvār tiru-v-irācciyam paṇṇi Eḻuntu Aruḷi <supplied reason="omitted">Iru</supplied>kka</item>
+            <item>Ivar Evi Aruḷiṉa paṭiy<choice><orig>e</orig><reg>ē</reg>
+            </choice> Ivarkaḷ tiru-t-tampi        
+                <lb n="5" break="no"/>yār nāyaṉār naraciṅka-paṉmar ceytu Eḻuntu Aruḷi-y-irukka</item>
+            
+            <item>nāyaṉār naraciṅka-paṉmar makaṉ periyuṭaiyāṉum Ivaṉ tampi Ara<supplied reason="omitted">caka</supplied>ṇāyaṉum karuppu-k-kaṭṭi-nāyakka<supplied reason="omitted">r-uṭa</supplied>ṉ<choice><orig>e</orig><reg>ē</reg></choice>
+                kūṭi Eṅkaḷ nāyaṉ<supplied reason="omitted">māṟ</supplied>kum Eṅkalukku<supplied reason="omitted">m</supplied> pakai-t<choice><orig>e</orig><reg>ē</reg></choice>ṭi-k kiḻaṟṟu-p-p<choice><orig>o</orig><reg>ō</reg></choice>y-Irukka</item>
+        </list> 
+    
+        Ivarkaḷ ceyta piḻaiyum poṟuttu Ivarkaḷ kūccan ti<supplied reason="omitted">rttu</supplied>-t tiru-v-eḻuttu-c-cāttiṉa 
+        tiru-mukamum kuṭuttu-c ceṭṭi-puṇai-<supplied reason="omitted">pa</supplied>ṭṭu Amaittu-viṭṭa
+    
+        Iṭattu tiru-mukamu<supplied reason="subaudible">m</supplied> maṟuttu Eṅkaḷ nāyaṉ-māṟku
+        
+        <lb n="6" break="no"/>m Eṅkaḷukkum pakai-t<choice><orig>e</orig><reg>ē</reg></choice>ṭi veṟuppāṉa-peruṭaṉe kūṭi Eṅkaḷukku-p pakai-y-āka-y-iṉālum
+        Ivarkaḷ piriti-kaṅkar va<supplied reason="omitted">ḻiyi</supplied>l Uḷḷa perākaiyālum I-p-periyuṭaiyānum Aracaka-ṇāyaṉum Ivarkaḷ <supplied reason="omitted">ta</supplied>mpi
+        Amaṭṭāḻva<supplied reason="omitted">ra</supplied>ṉum Eṅkaḷ nāyaṉ-māṟku Irāca-t-tur<choice><orig>o</orig><reg>ō</reg></choice>kikaḷum nāṭṭu-t-tur<choice><orig>o</orig><reg>ō</reg></choice>kikaḷum-Āy
+        Ivarkaḷ m<choice><orig>u</orig><reg>ū</reg></choice>varaiyum peṇṭiḻantāṉ kuṭṭattil Oṉṟ' ākap puṟa-<supplied reason="omitted">k</supplied>-kaṭitt<choice><orig>o</orig><reg>ō</reg></choice>m
+    </p>
+    
+    <p>
+        <list>
+            <item>piri<supplied reason="omitted">ti</supplied>-kaṅkar makkaḷ Eṅkaḷ nāyaṉ
+                
+                <lb n="7" break="no"/>māṟku-p pukunta nam-pirāṭṭiyār vayiṟṟiṟ piṟanta piḷḷaikaḷai Aracuk<supplied reason="omitted">ku</supplied> koḷḷa-k-kaṭavatalla-v-ākavum</item>
+            
+            <item>Allāta piḷḷaikaḷ pūrvar-muṟaiyil<choice><orig>e</orig><reg>ē</reg></choice> Irācciyam paṇṇa-k-kaṭavarkaḷ-ākavum</item>        
+        </list>
+        
+        I-m-maṇ<supplied reason="omitted">ṇu</supplied>m malaiyum Uḷḷat' aṉaiyum
+    
+        Eṅkaḷ <supplied reason="omitted">ma</supplied>kkaḷ makkaḷ vaḻi-vaḻi I-p-periyuṭaiyāṉaiyum Araca<supplied reason="omitted">kaṇā</supplied>yaṉaiyum Ivarka-ṭampi <supplied reason="omitted">A</supplied>maṭṭāḻvāraiyum Ivarkaḷ makkaḷi<supplied reason="omitted">l</supplied>
+        <supplied reason="omitted">vaḻi</supplied>-vaḻi Oruttaraiyum I-m-maṇṇila pukuta Oṭṭ<choice><orig>o</orig><reg>ō</reg></choice>m
+    </p>
+    
+    <p>
+        <lb n="8"/>Ivarkaḷukku Iṭaṅ kuṭuppatuñ ceyy<choice><orig>o</orig><reg>ō</reg></choice>m
+    </p>
+    <p>
+        Iṭaṅ kuṭuppār<choice><orig>o</orig><reg>ō</reg></choice>ṭu kūṭuvatuñ ceyy<choice><orig>o</orig><reg>ō</reg></choice>m
+    </p>
+    <p>	
+        Ivarka<supplied reason="omitted">ḷ</supplied> m<choice><orig>u</orig><reg>ū</reg></choice>varum I-m-maṇṇukku Uriyar eṉṟu collu<supplied reason="omitted">ta</supplied>l colluva<supplied reason="omitted">rkku</supplied>
+        Iṭaṅ kuṭuk<supplied reason="omitted">ka</supplied> c<supplied reason="omitted">e</supplied>yya-kaṭav<choice><orig>o</orig><reg>ō</reg></choice>mum All<choice><orig>o</orig><reg>ō</reg></choice>m
+    </p>
+    
+    <p>
+        <list>
+            
+            <item>Ivarkaḷukku-k kiḻolai viṭutal Ivarkaḷai-k kā<supplied reason="omitted">t</supplied>tal Ivarka<unclear>ḷ</unclear><gap reason="lost" quantity="2" unit="character"/> caruṭan p<choice><orig>e</orig><reg>ē</reg></choice>cutal-ceytār Uṇṭ' ākil Irāca-t-tur<choice><orig>o</orig><reg>ō</reg></choice>kikaḷum-Ākki nāyilum paṉṟi-y-Ilum kaṭaiyā<supplied reason="lost">kaku</supplied>-t tanū-k-kakkaṭa
+        <gap reason="lost" quantity="5" unit="character"/>kavum</item>
+    
+        <item>Ivarkaḷ peṇṭukaḷai m<choice><orig>u</orig><reg>ū</reg></choice>kku mulaiyum Aṟuttu-viṭa
+        
+        <lb n="9" break="no"/>k-kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m-ākavum</item>
+    
+        <item>Ivarkaḷ pakkal <supplied reason="omitted">p</supplied>eṇṭukaḷ p<choice><orig>o</orig><reg>ō</reg></choice>ṉavaḷ kuṭi-y-āka I-p-paṭi <supplied reason="omitted">Āka-c</supplied> ceyya-kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m-ākavum</item>
+    
+        <item>Ivarkaḷ pakkal p<choice><orig>o</orig><reg>ō</reg></choice>ṉa p<choice><orig>e</orig><reg>ē</reg></choice>rai-p pa<supplied reason="omitted">ṇi</supplied>-cey-mak<supplied reason="omitted">kaḷai</supplied>
+        Iṭṭu-k-koṉṟu pokaṭa-k-kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m-Ā<supplied reason="omitted">ka</supplied>vum</item>
+        </list>
+    
 		I-p-paṭikku nāṅkaḷ Aṉaivarum puṇai Olai-p-pāṭiyu<supplied reason="omitted">m na</supplied>nti-maṅkalamum Uḷḷuppaṭṭa Inta Aṉaittu<supplied reason="omitted">ṅ</supplied><gap reason="lost" quantity="5" unit="character"></gap>
     	I-p-paṭi nilaimai-k <gap reason="lost" quantity="3" unit="character"/>ḷ <hi rend="grantha">pra</hi>māṇam Iṭṭ<choice><orig>o</orig><reg>ō</reg></choice>m
 	</p>
@@ -244,7 +238,7 @@ m<choice><orig>e</orig><reg>ē</reg></choice>ṟku ciṟṟiṅkai<supplied reas
 	
     <p>Reported in <bibl><ptr target="bib:ARIE1899-1900"/></bibl> (ARIE/1899-1900/B/1900/106).</p>
     <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.118).</p>
-    <p>This digital edition by Emmanuel Francis and Dorotea Operato (2024), based on <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl>. This translation by Dorotea Operato (2024).</p>
+    <p>This digital edition by Emmanuel Francis and Dorotea Operato, after  <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl>. This translation by Dorotea Operato.</p>
     
     <listBibl type="primary">
         
