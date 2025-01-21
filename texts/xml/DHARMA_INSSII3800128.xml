@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tiruvōṟṟiyūr, time of king Rājādhirāja, year 28</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
+					</persName>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
+					</persName>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">DHARMA_INSSII3800128</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Gift of money for special offerings on the day following the festival of Paṅkuṉi-Uttiram. The assembly of Kāvaṉūr <foreign>alias</foreign> Kamalanārāyaṇa-caturvēdimaṅkalam received the amount, i.e., 30 <foreign>kācu</foreign> and agreed to pay as interest 75 <foreign>kalams</foreign> of paddy every year for the expenses of that day.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p>Medial <foreign>i</foreign> and <foreign>ī</foreign> interchangeable.</p>
+							<p>Medial <foreign>u</foreign> and <foreign>ū</foreign> interchangeable.</p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC)
+					under the European Union’s Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
+						<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:reda" when="2025-01-14" status="draft">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+	<body>
+		
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+	 
+      <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		<lb n="1"/>svasti śrī
+	</ab>
+	
+	
+	<p>
+		vīramē tuṇaiyākavuṉ tiyākamē-y aṇi-y ākavum ceṅkō<unclear>l</unclear>-l occi-k karuṅkali kaṭin=tu kūṭal caṅka<supplied reason="lost">ma</supplied>ttu ākava-malla<unclear>ṉ</unclear>ṉai y-añcuvittu vikkalaṉaiyuñ ciṅkaṇaṉaimuṭai puṟaṅkaṇṭu maṟṟavar mātēviyarōṭum  va<hi rend="grantha">sta</hi>-vā<hi rend="grantha">ha</hi><choice><orig>n</orig><reg>ṉ</reg></choice>am kaikkoṇṭu iraṇṭām vicaiyi<choice><orig>n</orig><reg>ṉ</reg></choice>um kuṟitta kaḷatt-ākava mallaṉai-y añcuvittu veṅkai nāṭum iṭṭu-k-koṇṭu taṉṉuṭan piṟan=ta mu<choice><orig>nn</orig><reg>ṉṉ</reg></choice> avar viratamum muṭittu muṉṟām vicaiyiṉum comi<hi rend="grantha">śva</hi>raṉ kaṭṭiya kaṇṭikai aviḻppataṉ mu<choice><orig>nn</orig><reg>ṉṉ</reg></choice>am kampili cuṭṭu-k kaṟaṭikkallil  <hi rend="grantha">ja</hi>ya<hi rend="grantha">sta</hi>mpa nāṭṭi-t tēvanātaṉ mutalmā cumantarai cakkara-kōṭṭattu turatti maṟṟavariṉattār muṭi piṭittukkoṇṭu kucci m<choice><sic>i</sic><corr>ī</corr></choice>ṭṭu ellai kaṭa=ntu nilai y-iṭṭu vi<hi rend="grantha">je</hi> <hi rend="grantha">Abhiṣeka</hi>m paṇṇi v<choice><sic>i</sic><corr>ī</corr></choice>ra<hi rend="grantha">siṃhāsa</hi>nattu ulakam uḻutu <gap unit="character" reason="lost" quantity="9"></gap> 
+
+	</p>
+	
+	
+</div>	
+		<div type="apparatus">
+			
+			
+	
+<!--<div type="textpart" n="B" xml:lang="tam-Latn">
+<head xml:lang="eng">Second fragment</head>
+		
+	<listApp>
+		
+		<app loc="0">
+			<lem></lem>
+		</app>
+		
+	</listApp>	
+	
+</div>-->
+	
+</div>
+		
+<div type="translation" resp="part:reda part:emfr">
+			
+
+	
+</div>	
+		
+<!--<div type="commentary">
+	
+</div>-->
+		
+<div type="bibliography">
+	        
+    <p>Reported in <bibl><ptr target="bib:ARIE1912-1913"/></bibl> (ARIE/1912-1913/B/1912/137).</p>
+    <p>Edited in <bibl><ptr target="bib:Swaminathan2019_01"/></bibl> (SII 38.137).</p>
+    <p>This digital edition by Renato Dávalos. This translation by Renato Dávalos and Emmanuel Francis (2025).</p>
+	
+    <listBibl type="primary">
+        
+        <bibl n="SII">
+            <ptr target="bib:Swaminathan2019_01"/>
+            <citedRange unit="page">142-145</citedRange>
+            <citedRange unit="item">137</citedRange>
+        </bibl>
+        
+    </listBibl>           
+    
+    <listBibl type="secondary">
+        
+        <bibl>
+            <ptr target="bib:ARIE1912-1913"/>
+            <citedRange unit="page">21</citedRange>
+            <citedRange unit="appendix">B</citedRange>
+            <citedRange unit="item">137</citedRange>
+        </bibl>	
+        
+    </listBibl>
+</div>
+	</body>
+	</text>
+</TEI>
+
+<!--METADATA:
+On the north base, central shrine, Adhipurisvara temple-->
