@@ -287,7 +287,7 @@
     	
 <div type="bibliography">
 	
-    <p>Reported in <bibl><ptr target="bib:ARIE1899-1900"/></bibl> (ARIE/1899-1900/B/1900/106).</p>
+    <p>Reported in <bibl><ptr target="bib:ARIE1899-1900"/></bibl> (ARIE/1899-1900/B/1900/106). Summary in <bibl><ptr target="bib:Mahalingam1985_01"/></bibl> (NA/728).</p>
     <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.118).</p>
     <p>This digital edition by Emmanuel Francis and Dorotea Operato, based on <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl>.</p>
     
@@ -309,7 +309,11 @@
             <citedRange unit="item">106</citedRange>
         </bibl>
         
-        <!--Add TLITNKS-->
+        <bibl>
+            <ptr target="bib:Mahalingam1985_01"/>
+            <citedRange unit="page">176-177</citedRange>
+            <citedRange unit="item">NA-728</citedRange>
+        </bibl>
         
     </listBibl>
     
