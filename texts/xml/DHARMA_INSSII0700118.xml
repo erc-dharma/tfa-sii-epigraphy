@@ -112,7 +112,7 @@
         
         <lb n="4" break="no"/>ṇūvārum niyāyattārum paṉṉiraṇṭu paṇi-makkaḷum Uḷḷiṭṭa perum-v<choice><orig>e</orig><reg>ē</reg></choice>ṭarum pāṇarum 
         paṟaiyarum paṟai-mutalikaḷum c<seg rend="check">e</seg>kkiliyarum I<choice><orig>ṟ</orig><reg>r</reg></choice>uḷarum Uḷḷiṭṭa Aṉaittu-c-cātikaḷu<supplied reason="omitted">m</supplied> 
-        Antaṇaṉ-talai-y-āka Arippaṉ-kaṭai-y-āka Uḷḷuppaṭṭa Anai<supplied reason="omitted">t</supplied>tu-c-cāti-<unclear>m</unclear>āṟkku te <gap reason="lost" quantity="3" unit="character" precision="low"/> llārum <gap reason="lost" quantity="6" unit="character" precision="low"/> <supplied reason="lost">pramā</supplied><unclear>ṇa</unclear>m 
+        Antaṇaṉ-talai-y-āka Arippaṉ-kaṭai-y-āka Uḷḷuppaṭṭa Anai<supplied reason="omitted">t</supplied>tu-c-cāti-<unclear>m</unclear>āṟkku te <gap reason="lost" quantity="3" unit="character" precision="low"/> llārum <gap reason="lost" quantity="6" unit="character" precision="low"/> <supplied reason="lost"><hi rend="grantha">pra</hi>mā</supplied><unclear>ṇa</unclear>m 
         paṇṇiṉa paṭi y-āvatu
     </p>
     
@@ -133,20 +133,21 @@
         Iṭattu tiru-mukamu<supplied reason="subaudible">m</supplied> maṟuttu Eṅkaḷ nāyaṉ-māṟku
         
         <lb n="6" break="no"/>m Eṅkaḷukkum pakai-t<choice><orig>e</orig><reg>ē</reg></choice>ṭi veṟuppāṉa-pēruṭaṉē kūṭi Eṅkaḷukku-p pakai-y-āka y-iṉālum
-        Ivarkaḷ piriti-kaṅkar va<unclear>ḻiyi</unclear>l Uḷḷa perākaiyālum I-p-periyuṭaiyānum Aracaka-ṇāyaṉum Ivarkaḷ <unclear>ta</unclear>mpi
+        Ivarkaḷ piriti-kaṅkar va<unclear>ḻiyi</unclear>l Uḷḷa perākaiyālum I-p-periyuṭaiyānum Aracakaṇāyaṉum Ivarkaḷ <unclear>ta</unclear>mpi
         Amaṭṭāḻva<supplied reason="omitted">ra</supplied>ṉum Eṅkaḷ nāyaṉ-māṟku Irāca-t-tur<choice><orig>o</orig><reg>ō</reg></choice>kikaḷum nāṭṭu-t-tur<choice><orig>o</orig><reg>ō</reg></choice>kikaḷum-Āy
         Ivarkaḷ m<choice><orig>u</orig><reg>ū</reg></choice>varaiyum peṇṭiḻantāṉ kuṭṭattil Oṉṟ' āka-p puṟa-<unclear>k</unclear>-kaṭitt<choice><orig>o</orig><reg>ō</reg></choice>m
     </p>
     
+    <p>        
+        piri<unclear>ti</unclear>-kaṅkar makkaḷ Eṅkaḷ nāyaṉ
+                <lb n="7" break="no"/>māṟku-p pukunta nam-pirāṭṭiyār vayiṟṟiṟ piṟanta piḷḷaikaḷai Aracuk<unclear>ku</unclear> koḷḷa-k-kaṭavatalla-v-ākavum
+    </p>
+    
+    <p>        
+        Allāta piḷḷaikaḷ pūrvar-muṟaiyil<choice><orig>e</orig><reg>ē</reg></choice> Irācciyam paṇṇa-k-kaṭavarkaḷ-ākavum        
+    </p>
+    
     <p>
-        <list>
-            <item>piri<unclear>ti</unclear>-kaṅkar makkaḷ Eṅkaḷ nāyaṉ
-                
-                <lb n="7" break="no"/>māṟku-p pukunta nam-pirāṭṭiyār vayiṟṟiṟ piṟanta piḷḷaikaḷai Aracuk<unclear>ku</unclear> koḷḷa-k-kaṭavatalla-v-ākavum</item>
-            
-            <item>Allāta piḷḷaikaḷ pūrvar-muṟaiyil<choice><orig>e</orig><reg>ē</reg></choice> Irācciyam paṇṇa-k-kaṭavarkaḷ-ākavum</item>        
-        </list>
-        
         I-m-maṇ<unclear>ṇu</unclear>m malaiyum Uḷḷat' aṉaiyum
     
         Eṅkaḷ <unclear>ma</unclear>kkaḷ makkaḷ vaḻi-vaḻi I-p-periyuṭaiyāṉaiyum Araca<unclear>kaṇā</unclear>yaṉaiyum Ivarka-ṭampi <unclear>A</unclear>maṭṭāḻvāraiyum Ivarkaḷ makkaḷi<supplied reason="omitted">l</supplied>
@@ -165,22 +166,24 @@
     </p>
     
     <p>
-        <list>
-            
-            <item>Ivarkaḷukku-k kiḻolai viṭutal Ivarkaḷai-k kā<unclear>t</unclear>tal Ivarka<unclear>ḷ</unclear><gap reason="lost" quantity="2" unit="character"/> caruṭan p<choice><orig>e</orig><reg>ē</reg></choice>cutal-ceytār Uṇṭ' ākil Irāca-t-tur<choice><orig>o</orig><reg>ō</reg></choice>kikaḷum-Ākki nāyilum paṉṟi-y-Ilum kaṭaiyā<supplied reason="lost">kaku</supplied>-t tanū-k-kakkaṭa
-        <gap reason="lost" quantity="5" unit="character"/>kavum</item>
+            Ivarkaḷukku-k kiḻolai viṭutal Ivarkaḷai-k kā<unclear>t</unclear>tal Ivarka<unclear>ḷ</unclear><gap reason="lost" quantity="2" unit="character"/> caruṭan p<choice><orig>e</orig><reg>ē</reg></choice>cutal-ceytār Uṇṭ' ākil Irāca-t-tur<choice><orig>o</orig><reg>ō</reg></choice>kikaḷum-Ākki nāyilum paṉṟi-y-Ilum kaṭaiyā<supplied reason="lost">kaku</supplied>-t tanū-k-kakkaṭa
+        <gap reason="lost" quantity="5" unit="character"/>kavum
+    </p>
     
-        <item>Ivarkaḷ peṇṭukaḷai m<choice><orig>u</orig><reg>ū</reg></choice>kku mulaiyum Aṟuttu-viṭa
-        
-        <lb n="9" break="no"/>k-kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m-ākavum</item>
+    <p>        
+        Ivarkaḷ peṇṭukaḷai m<choice><orig>u</orig><reg>ū</reg></choice>kku mulaiyum Aṟuttu-viṭa
+        <lb n="9" break="no"/>k-kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m-ākavum
+    </p>
+    <p>
+        Ivarkaḷ pakkal <unclear>p</unclear>eṇṭukaḷ p<choice><orig>o</orig><reg>ō</reg></choice>ṉavaḷ kuṭi-y-āka I-p-paṭi <unclear>Āka-c</unclear> ceyya-kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m-ākavum
+    </p>
+    <p>
+        Ivarkaḷ pakkal p<choice><orig>o</orig><reg>ō</reg></choice>ṉa p<choice><orig>e</orig><reg>ē</reg></choice>rai-p pa<unclear>ṇi</unclear>-cey-mak<unclear>kaḷai</unclear>
+        Iṭṭu-k-koṉṟu pokaṭa-k-kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m-Ā<unclear>ka</unclear>vum        
+    </p>
     
-        <item>Ivarkaḷ pakkal <unclear>p</unclear>eṇṭukaḷ p<choice><orig>o</orig><reg>ō</reg></choice>ṉavaḷ kuṭi-y-āka I-p-paṭi <unclear>Āka-c</unclear> ceyya-kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m-ākavum</item>
-    
-        <item>Ivarkaḷ pakkal p<choice><orig>o</orig><reg>ō</reg></choice>ṉa p<choice><orig>e</orig><reg>ē</reg></choice>rai-p pa<unclear>ṇi</unclear>-cey-mak<unclear>kaḷai</unclear>
-        Iṭṭu-k-koṉṟu pokaṭa-k-kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m-Ā<unclear>ka</unclear>vum</item>
-        </list>
-    
-		I-p-paṭikku nāṅkaḷ Aṉaivarum puṇai Olai-p-pāṭiyu<unclear>m na</unclear>nti-maṅkalamum Uḷḷuppaṭṭa Inta Aṉaittu<unclear>ṅ</unclear><gap reason="lost" quantity="5" unit="character"></gap>
+    <p>
+        I-p-paṭikku nāṅkaḷ Aṉaivarum puṇai Olai-p-pāṭiyu<unclear>m na</unclear>nti-maṅkalamum Uḷḷuppaṭṭa Inta Aṉaittu<unclear>ṅ</unclear><gap reason="lost" quantity="5" unit="character"></gap>
     	I-p-paṭi nilaimai-k <gap reason="lost" quantity="3" unit="character"/>ḷ <hi rend="grantha">pra</hi>māṇam Iṭṭ<choice><orig>o</orig><reg>ō</reg></choice>m
 	</p>
 	
@@ -189,17 +192,16 @@
     	paṭukka<unclear>ta</unclear> Olai-p-paṭikku-t tappiṉ' āruṇṭ' ākil ceyaṅ-koṇṭanācciya<supplied reason="omitted">ra</supplied>r k<choice><orig>o</orig><reg>ō</reg></choice>yilil cevvāy-k-kiḻamaiyil paṭṭ<unclear>a</unclear>ṭu-paṭṭatu paṭa-k-kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m-āka ceyaṅ-koṇṭanāccuyār tiri<gap reason="lost" quantity="6" unit="character"/>tamiṭṭuc ciṅka-nāyaṟṟu Iru-pattu-muṉṟā
     	
     	<lb n="11" break="no"/>n tiyati-y-āṉa pañcamiyum <hi rend="grantha">aśva</hi>tiyum peṟṟa cevvāy-k-kiḻamai nāḷ
-		</p>
-	
+	</p>
+    
 	<p>
 		Āṭu-veṭṭip pūta mutai<unclear>t</unclear>tu <unclear>ni</unclear>lai<unclear>m</unclear>ai pa<unclear>ṇṇi</unclear>
     	I-p-paṭikku-t- <unclear>ti</unclear>ru Iṭavantuṟai nāyaṉār k<choice><orig>o</orig><reg>ō</reg></choice>yilile kallum veṭṭi-k-kuṭutt<choice><orig>o</orig><reg>ō</reg></choice>m
-		</p>
-	
+	</p>
+    
 	<p>
 		I-vv-aṉaiv<choice><orig>o</orig><reg>ō</reg></choice>m I-k-kal veṭṭiṉa-paṭikku-t tappiṉavaṉ keṅkai kumari-y-iṭai-k kurāṟ-pacu-k ku<supplied reason="omitted">t</supplied>tiṉavaṉ pāvaṅ-koḷvāṉ I-p-paṭikku Ivaṉaittu nāṭṭavarum
-    	paṇikka-k- kallu-veṭ<gap reason="lost" quantity="7" unit="character"/>yanāṭṭ' ācāriyaṉ-<choice><orig>e</orig><reg>ē</reg></choice>ṉ Ivai Eṉ Eḻuttu <g type="gomutraFinal">.</g>
-    	
+    	paṇikka-k- kallu-veṭ<gap reason="lost" quantity="7" unit="character"/>yanāṭṭ' ācāriyaṉ-<choice><orig>e</orig><reg>ē</reg></choice>ṉ Ivai Eṉ Eḻuttu <g type="gomutraFinal">.</g>    	
     </p>	
 		
 </div>
@@ -208,11 +210,11 @@
 	
     <listApp>
         
-        <app loc="0">
+        <!--<app loc="0">
             <lem>...</lem>
             <rdg source="bib:SubrahmanyaAiyer1932_01">...</rdg>
             <note>...</note>
-        </app>
+        </app>-->
         
         <app loc="1">
             <lem>teṉ-karai-nāṭu</lem>
@@ -227,7 +229,7 @@
         </app>
         
          <app loc="4">
-            <lem><gap reason="lost" quantity="6" unit="character" precision="low"/> <supplied reason="lost">pramā</supplied><unclear>ṇa</unclear>m</lem>
+            <lem><gap reason="lost" quantity="6" unit="character" precision="low"/> <supplied reason="lost"><hi rend="grantha">pra</hi>mā</supplied><unclear>ṇa</unclear>m</lem>
             <rdg source="bib:SubrahmanyaAiyer1932_01"><gap reason="lost" quantity="8" unit="character" precision="low"/> <unclear>ṇa</unclear>m</rdg>
         </app>
         
@@ -253,8 +255,8 @@
     <p n="4-6">
         <list>
             <item>Whereas our lord, Amaṭṭaṉ Karikālaccōḻa Āṭaiyūrnāṭāḻvār ...,</item>
-            <item>whereas the lord Naraciṅkapaṉmar,<note>Sanskrit Narasiṃhavarman.</note> his younger brother, ...,</item>
-            <item>whereas Periyuṭaiyāṉ, the son of the the lord Naraciṅkapaṉmar, and Ara(caka)ṇāyaṉ, his younger brother, ...,</item>
+            <item>whereas the lord Naraciṅkapaṉmar,<note>Sanskrit Narasiṃhavarman.</note> his glorious younger brother, ...,</item>
+            <item>whereas Periyuṭaiyāṉ, the son of  the lord Naraciṅkapaṉmar, and Ara(caka)ṇāyaṉ, his younger brother, ...,</item>
         </list>
         We ...
     </p>
