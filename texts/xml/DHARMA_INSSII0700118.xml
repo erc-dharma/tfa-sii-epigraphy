@@ -112,7 +112,7 @@
         
         <lb n="4" break="no"/>ṇūvārum niyāyattārum paṉṉ' Iraṇṭu paṇi-makkaḷum Uḷḷiṭṭa perum-v<choice><orig>e</orig><reg>ē</reg></choice>ṭarum pāṇarum 
         paṟaiyarum paṟai-mutalikaḷum c<seg rend="check">e</seg>kkiliyarum I<choice><orig>ṟ</orig><reg>r</reg></choice>uḷarum Uḷḷiṭṭa Aṉaittu-c-cātikaḷu<supplied reason="omitted">m</supplied> 
-        Antaṇaṉ-talai-y-āka Arippaṉ-kaṭai-y-āka Uḷḷuppaṭṭa Anai<supplied reason="omitted">t</supplied>tu-c-cāti-<unclear>m</unclear>āṟkku te <gap reason="lost" quantity="3" unit="character" precision="low"/>llārum <gap reason="lost" quantity="8" unit="character" precision="low"/><unclear>ṇa</unclear>m 
+        Antaṇaṉ-talai-y-āka Arippaṉ-kaṭai-y-āka Uḷḷuppaṭṭa Anai<supplied reason="omitted">t</supplied>tu-c-cāti-<unclear>m</unclear>āṟkku te <gap reason="lost" quantity="3" unit="character" precision="low"/> llārum <gap reason="lost" quantity="6" unit="character" precision="low"/> <supplied reason="lost">pramā</supplied><unclear>ṇa</unclear>m 
         paṇṇiṉa paṭi y-āvatu
     </p>
     
@@ -204,19 +204,36 @@
 		
 </div>
 			
-<!--<div type="apparatus">
+<div type="apparatus">
 	
-	<listApp>
-		
-		<app loc="0">
-			<lem>kuṇamē<choice><orig>n</orig><reg>ṉ</reg></choice>akaipuram</lem>
-			<rdg source="bib:KrishnaSastri1923_01">kuṇamenkaipuram</rdg>
-			<note><ptr target="bib:KrishnaSastri1923_01"/> reads <foreign>kuṇamenakaipuram</foreign> in the other occurrences; the present readin <foreign>kuṇamenkaipuram</foreign> appears thus to be a typo.</note>
-		</app>	
-		
-	</listApp>	-->
+    <listApp>
+        
+        <app loc="0">
+            <lem>...</lem>
+            <rdg source="bib:SubrahmanyaAiyer1932_01">...</rdg>
+            <note>...</note>
+        </app>
+        
+        <app loc="1">
+            <lem>teṉ-karai-nāṭu</lem>
+            <rdg source="bib:SubrahmanyaAiyer1932_01"/>
+            <note>Probably read <foreign>teṉ-karai-nāṭṭu</foreign>.</note>
+        </app>	
+        
+        <app loc="4">
+            <lem><gap reason="lost" quantity="3" unit="character" precision="low"/> llārum</lem>
+            <rdg source="bib:SubrahmanyaAiyer1932_01">...</rdg>
+            <note>Probably read <foreign>ellārum</foreign>.</note>
+        </app>
+        
+         <app loc="4">
+            <lem><gap reason="lost" quantity="6" unit="character" precision="low"/> <supplied reason="lost">pramā</supplied><unclear>ṇa</unclear>m</lem>
+            <rdg source="bib:SubrahmanyaAiyer1932_01"><gap reason="lost" quantity="8" unit="character" precision="low"/> <unclear>ṇa</unclear>m</rdg>
+        </app>
+        
+    </listApp>	
 	
-<!--</div>-->
+</div>
 			
 <div type="translation" resp="part:doop">
 								
@@ -225,7 +242,25 @@
     </p>
     
     <p n="1">
-        ... 		
+        On the day of Revati which coincides <supplied reason="explanation"><foreign>peṟṟa</foreign></supplied> with ... 		
+    </p>
+    
+    <p n="1-4">
+        This is the way ...
+        have done the <supplied reason="subaudible">following</supplied> decision <supplied reason="explanation"><foreign>piramāṇam</foreign><note>Sanskrit <foreign>pramāṇa</foreign>.</note></supplied>.
+    </p>
+    
+    <p n="4-6">
+        <list>
+            <item>Whereas our lord, Amaṭṭaṉ Karikālaccōḻa Āṭaiyūrnāṭāḻvār ...</item>
+            <item>Whereas the lord Naraciṅkapaṉmar,<note>Sanskrit Narasiṃhavarman.</note> his younger brother, ...</item>
+            <item>Whereas Periyuṭaiyāṉ, the son of the the lord Naraciṅkapaṉmar, and Ara(caka)ṇāyaṉ, his younger brother, ...</item>
+        </list>
+        We ...
+    </p>
+    
+    <p n="6-11">
+        ...
     </p>
     
 </div>
@@ -238,7 +273,7 @@
 	
     <p>Reported in <bibl><ptr target="bib:ARIE1899-1900"/></bibl> (ARIE/1899-1900/B/1900/106).</p>
     <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.118).</p>
-    <p>This digital edition by Emmanuel Francis and Dorotea Operato, after  <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl>. This translation by Dorotea Operato.</p>
+    <p>This digital edition by Emmanuel Francis and Dorotea Operato, based on <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl>.</p>
     
     <listBibl type="primary">
         
@@ -257,6 +292,9 @@
             <citedRange unit="appendix">B/1900</citedRange>
             <citedRange unit="item">106</citedRange>
         </bibl>
+        
+        <!--Add TLITNKS-->
+        
     </listBibl>
     
 </div>
