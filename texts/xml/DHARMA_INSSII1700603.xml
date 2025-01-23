@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Tiruvārūr, Tyāgarājasvāmin temple, c.a. 12th century</title>
+                <title> Tiruvārūr, Tyāgarājasvāmin temple</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:doop">
@@ -111,9 +111,9 @@
 
 </div>
 	
-<!--<div type="commentary">		
-	
-</div>-->
+<div type="commentary">		
+	<p>Date= c.a. 12th century</p>
+</div>
     	
 <div type="bibliography">
 	
