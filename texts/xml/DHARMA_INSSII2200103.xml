@@ -144,7 +144,7 @@
 	
   <p>Reported in <bibl><ptr target="bib:ARIE1906-1907"/></bibl> (ARIE/1906-1907/B/1906/103).</p>
     <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 22.103).</p>
-    <p>This digital edition by Dorotea Operato (2024), based on <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl>. This translation by Dorotea Operato (2024).</p>    
+    <p>This digital edition by Dorotea Operato (2024), based on <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl>.</p>    
     <listBibl type="primary">
         
         <bibl n="SII">
@@ -157,7 +157,7 @@
 	
 	<listBibl type="secondary">
 		
-		<bibl>
+		<bibl n="ARIE">
 			<ptr target="bib:ARIE1906-1907"/>
 			<citedRange unit="page">17</citedRange>
 			<citedRange unit="appendix">B/1906</citedRange>
