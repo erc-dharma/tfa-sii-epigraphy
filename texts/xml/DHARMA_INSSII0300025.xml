@@ -20,21 +20,6 @@
 						<surname>Francis</surname>
 					</persName>
 				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName>
-						<forename>Eugen</forename>
-						<surname>Hultzsch</surname>
-					</persName>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-					<persName ref="part:doop">
-						<forename>Dorotea</forename>
-						<surname>Operato</surname>
-					</persName>
-				</respStmt>
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
@@ -105,24 +90,24 @@
 		<lb n="1"/><hi rend="grantha"><unclear>sva</unclear>sti</hi>
 	</ab>
 		<p>
-			<hi rend="grantha">tri-bhu</hi>vana-c ca<unclear>k</unclear><hi rend="grantha">kra</hi>va<choice><orig>t</orig><reg>r</reg></choice>tikaḷ <hi rend="grantha">śrī</hi>-k<choice><orig>o</orig><reg>ō</reg></choice>n<choice><orig>e</orig><reg>ē</reg></choice>riṉmai<supplied reason="omitted">k</supplied>oṇ<supplied reason="omitted">ṭ</supplied>āṉ
+			<hi rend="grantha">tri-bhu</hi>vana-c-ca<unclear>k</unclear><hi rend="grantha">kra</hi>va<choice><orig>t</orig><reg>r</reg></choice>tikaḷ <hi rend="grantha">śrī</hi>-k<choice><orig>o</orig><reg>ō</reg></choice>n<choice><orig>e</orig><reg>ē</reg></choice>riṉmai<supplied reason="omitted">k</supplied>oṇ<supplied reason="omitted">ṭ</supplied>āṉ
 			veṅkāla-nā<unclear>ṭ</unclear>ṭu-k kaṇ<unclear>māḷa</unclear>ṟku
 		</p>
 	<p>
-		15vatu <unclear>Āṭimā</unclear>ta<unclear>m</unclear> mutal taṅka
+		<num value="15"><g type="numeral">10</g> 5</num>-vatu <unclear>Āṭimā</unclear>ta<unclear>m</unclear> mutal taṅka
 		
-		<lb n="2" break="no"/>ḷukku naṉmai ti<choice><orig>n</orig><reg>ṉ</reg></choice>maikaḷukku Iraṭṭai-c <unclear>ca</unclear>ṅkum Ūti perik<unclear>ai</unclear> Uḷḷiṭ<unclear>ṭa</unclear>vai
+		<lb n="2" break="no"/>ḷukku naṉmai-ti<choice><orig>n</orig><reg>ṉ</reg></choice>maikaḷukku Iraṭṭai-c <unclear>ca</unclear>ṅkum Ūti perik<unclear>ai</unclear> Uḷḷiṭ<unclear>ṭa</unclear>vai
 		<unclear>k</unclear>oṭṭu vittu koḷḷavum tāṅkaḷ puṟa<unclear>p</unclear>paṭa v<choice><orig>e</orig><reg>ē</reg></choice>ṇṭum
 		
 		<lb n="3"/>Iṭaṅkaḷukku pā<hi rend="grantha">da-ra<unclear>kṣ</unclear>ai</hi> kottu-k-k<unclear>oḷ</unclear>ḷavum taṅkaḷ
 		v<choice><orig>i</orig><reg>ī</reg></choice>ṭu<unclear>kaḷuk</unclear>ku-c cā<choice><orig>ṅ</orig><reg>n</reg></choice>tu Iṭṭu-k-koḷ<unclear>ḷa</unclear>vum
-		<unclear>c</unclear>o<seg rend="check">ṉn</seg><choice><orig>o</orig><reg>ō</reg></choice>m
+		<unclear>c</unclear>oṉ<choice><orig>no</orig><reg>ṉō</reg></choice>m
 	</p>
 	<p>
-		I-p-paṭikku I-v-<choice><orig>o</orig><reg>v-Ō</reg></choice>lai pi
+		I-p-paṭikku I-v-<choice><orig>O</orig><reg>v-ō</reg></choice>lai pi
 		
 		<lb n="4" break="no"/>ṭi-<unclear>p</unclear>āṭāka-k koṇṭu <hi rend="grantha">candrā</hi>titta-varai
-		cel<unclear>va</unclear>tāka-t taṅ<unclear>ka</unclear>ḷukku v<choice><orig>e</orig><reg>ē</reg></choice>ṇṭiṉa Itaṇkalile kallilum cempilum veṭṭi-k-koḷka
+		cel<unclear>va</unclear>tāka-t taṅ<unclear>ka</unclear>ḷukku v<choice><orig>e</orig><reg>ē</reg></choice>ṇṭiṉa Itaṇka<choice><sic>l</sic><corr>ḷ</corr></choice>il<choice><orig>e</orig><reg>ē</reg></choice> kallilum cempilum veṭṭi-k-koḷka
 	</p>
 	<p>
 		Ivai viḻu<unclear>pp</unclear>ātarāyaṉ Eḻuttu
@@ -144,13 +129,15 @@
     	
 <div type="translation" source="bib:Hultzsch1899_01">
 	
-	<p n="1"> (Line 1.) Hail! The emperor of the three worlds, the glorious Kōnēriṉmaikoṇṭāṉ <supplied reason="subaudible">addresses the following order</supplied> to the Kaṇmāḷar of Veṅkāla-nāṭu.
+	<p n="1">Hail! The emperor of the three worlds, the glorious Kōnēriṉmaikoṇṭāṉ <supplied reason="subaudible">addresses the following order</supplied> to the Kaṇmāḷar of Veṅkāla-nāṭu.
 	</p>
 	<p>
-		"We have ordered that, from the month of Āṭi of the 15th<supplied reason="subaudible"> year of our reign</supplied> at your marriages and funerals, double conches may be blown and drums, etc., beaten, that sandals may be worn <supplied reason="subaudible">on the way</supplied> to places which you have to visit, and that your houses may be covered with plaster.
-	On the authority of this written order <supplied reason="explanation">ōlai</supplied>, this may be engraved on stone and on copper in <supplied reason="subaudible">all</supplied> places desired by you, so as to last as long as the moon and the sun."
+		<quote>We have ordered that, from the month of Āṭi of the 15th <supplied reason="subaudible">year of our reign</supplied> at your marriages and funerals, double conches may be blown and drums, etc., beaten, 
+		that sandals may be worn <supplied reason="subaudible">on the way</supplied> to places which you have to visit, and that your houses may be covered with plaster.
+		On the authority of this written order <supplied reason="explanation"><foreign>ōlai</foreign></supplied>, this may be engraved on stone and on
+		copper in <supplied reason="subaudible">all</supplied> places desired by you, so as to last as long as the moon and the sun.</quote>
 	</p>
-	<p n="5">(L. 5.) This <supplied reason="subaudible">is</supplied> the writing of Viḻuppāṭarāyaṉ.
+	<p n="5">This <supplied reason="subaudible">is</supplied> the writing of Viḻuppāṭarāyaṉ.
 	</p>
 </div>
 
@@ -160,9 +147,9 @@
 </div>-->
 			
 <div type="bibliography">
-	    <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> ARIE/1904-1905/B/1905/136.</p>
+	    <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/B/1905/136).</p>
 	<p>Edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>, with English translation (SII 3.25).</p>
-	<p>This edition by Emmanuel Francis and Dorotea Operato (2025), based on <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>.</p>	
+	<p>This edition by Dorotea Operato and Emmanuel Francis (2025), based on <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>.</p>	
 	
 	<listBibl type="primary">
 		
@@ -174,7 +161,7 @@
 	</listBibl>
 	
 		    <listBibl type="secondary">
-        <bibl>
+        <bibl n="ARIE">
             <ptr target="bib:ARIE1904-1905"/>
             <citedRange unit="page">37</citedRange>
             <citedRange unit="appendix">B/1905</citedRange>
