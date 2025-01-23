@@ -100,7 +100,7 @@
         <l n="d">rathakāra Iti smṛtaḥ</l>
     </lg>
     
-    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">Atra yājñavalkya-vacanam</p>
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">Atra yājñavalkya-vacanam·</p>
     
     <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="a">māhiṣyeṇa karaṇyān tu</l>
@@ -110,19 +110,19 @@
     </lg>
     
     <lg n="3" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        <l n="a"><gap reason="lost" unit="character" quantity="14"></gap> <unclear>yattu</unclear></l>
+        <l n="a"><gap reason="lost" unit="character" quantity="14"></gap> <unclear>yat tu</unclear></l>
         <l n="b"><unclear>ka</unclear>lpayessya<unclear>ndanasya ca</unclear></l>            
         <l n="c">vidyayādhītayā svasya</l>        
         <l n="d">śarīram· varttayedayam· <g type="ddanda">.</g></l>
     </lg> 
         
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        Attra śaṭhakha-vacanam <g type="ddanda">.</g>
+        Attra śaṭhakha-vacanam· <g type="ddanda">.</g>
     </p> 
                 
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         kṣatriya-vaiṣyānulomā<surplus>na</surplus>ntarajotpanno
-        rathakāraḥ tasyejyādhānopanayasaṭhaskārakriyāś-ca prati-ṣiddhās-tasyāśvaratha
+        rathakāraḥ tasyejyādhānopanayanasaṭhaskārakriyāś-ca prati-ṣiddhās-tasyāśvaratha
     </p>
 		
 </div>
