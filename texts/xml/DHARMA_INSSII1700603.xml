@@ -86,10 +86,16 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 				
     <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215"> 
-        <lb n="1"/>svasti śrī <g type="gomutraFinal">.</g>
-    </ab>		
+        <lb n="1"/><hi rend="grantha"><unclear>hara</unclear> svasti śrī 
+    </hi></ab>		
     
-    <p>
+    <p> <gap reason="lost" quantity="10" unit="character"></gap> <hi rend="grantha">rathakāranā</hi> y-uḷḷa kaṇmāḷa<choice><orig>n</orig><reg>r</reg></choice>ukku
+        <hi rend="grantha">vṛti-vidhānañ co</hi>llukiṟa <hi rend="grantha">smṛ</hi>tikaḷil <hi rend="grantha">gautama-vāca</hi>kattālum
+        <hi rend="grantha">nārada vacanattā</hi>lum <hi rend="grantha">maskara vacanattā</hi>lum <hi rend="grantha">yājñavalkya vacana</hi>ttālum <gap reason="lost" unit="character" quantity="2"></gap> 
+        <hi rend="grantha">llavṛtti vacana</hi>ttālum <hi rend="grantha">brāhma<supplied reason="subaudible">m</supplied>-purāṇa-vacana</hi>ttālum
+        <hi rend="grantha">kṣatri</hi>yavai<hi rend="grantha">śyā</hi>ṉu<hi rend="grantha">lo</hi>mā<supplied reason="subaudible">n</supplied><hi rend="grantha">ntarajotpanno rath<supplied reason="subaudible">ā</supplied>kāraḥ Anu</hi>loman eṉṟa
+        
+
     </p>	
 		
 </div>
