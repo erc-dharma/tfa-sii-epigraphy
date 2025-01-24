@@ -93,7 +93,7 @@
                 <gap reason="lost" quantity="10" unit="character"></gap> <hi rend="grantha">rathakāranā</hi> y-ulḷa kaṇmāḷanukku <hi rend="grantha"> vṛti-vidhānañ co</hi>llukiṟa <hi rend="grantha">smṛti</hi>kaḷil <hi rend="grantha">gautama-vācaka</hi>ttālum <hi rend="grantha">nārada-vacanattā</hi>lum <hi rend="grantha">maskara-vacanattā</hi>lum <hi rend="grantha">yājñavalkya-vacana</hi>ttālum  <gap reason="lost" quantity="2" unit="character"></gap> <hi rend="grantha">lla-vṛtti-vacana</hi>ttālum <hi rend="grantha">brāhma<surplus>m·</surplus>-purāṇa-vacana</hi>ttālum <hi rend="grantha">kṣatriya-vaiśyā</hi>ṉu<hi rend="grantha">lo</hi>mā<surplus>n</surplus><hi rend="grantha">ntarajōtpanno rath<surplus>ā</surplus>kāraḥ Anu</hi>l<choice><orig>o</orig><reg>ō</reg></choice>man e<choice><orig>n</orig><reg>ṉ</reg></choice>ṟa Ita<choice><orig>n</orig><reg>ṉ</reg></choice>ukku <hi rend="grantha">vacana</hi>m
 </p>
             
-    <lg n="1" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+    <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="a">vaiśyata<surplus>ḥ</surplus><unclear>śśū</unclear>dra-kannyāyāṁ</l>
         <l n="b">sajñātaḥ karaṇa<supplied reason="omitted">ḥ</supplied> striyām·</l>
         <l n="c"> Asmād-aṁbaṣṭhato jāto</l>
