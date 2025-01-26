@@ -123,8 +123,465 @@
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         kṣatriya-vaiṣyānulomā<surplus>na</surplus>ntarajotpanno
         rathakāraḥ tasyejyādhānopanayanasaṭhaskārakriyāś-ca prati-ṣiddhās-tasyāśvaratha
+    
+    <lb n="2" break="no"/>sūtra-śilpa-vāstu-vidyādyaddhyayana-kramaḥ vṛttitā ceti
     </p>
-		
+    
+    <lg n="4" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">Anulomyopaneyānām·</l>
+        <l n="b">sa<unclear>ndhy</unclear>āyā<unclear>m a</unclear>pyupāsanam·<g type="danda">.</g></l>
+        <l n="c">nādhānaṁ sannidhān<supplied reason="omitted">ā</supplied>gni</l>
+        <l n="d">hotran-naup<supplied reason="omitted">ā</supplied>sanan-tathā</l>  
+    </lg>
+    
+    <lg n="5" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">na ca pañca-mahā-yajño</l>    
+        <l n="b">na vedādhyayanan tathā</l>    
+        <l n="c">mantreṇa rahit<unclear>ā</unclear> tveṣām</l>
+        <l n="d">upanītir api smṛtā<g type="ddanda">.</g></l>
+    </lg> 
+    
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">Attra gautamīya-vivaraṇaṁ kurvvatā maskara-paṭhitaṁ smṛttyantara-vacanam·
+    </p>
+    
+    <lg n="6" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">Anulomānām upanaya <gap reason="lost" unit="character" quantity="2"></gap> na vedāddhyaya<supplied reason="omitted">na</supplied>n na</l>
+        <l n="b">pañca-mahāyajñā naupāsanan nāgihotran na samit·kāryan na</l>
+        <l n="c">sandhyopāsanam upanayanam api tūṣṇīm eveti</l>
+    </lg>
+
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        vi<choice><orig>s</orig><reg>ś</reg></choice>va karmmīye
+    </p>
+    
+    <lg n="7" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">Am·baṣṭhena karaṇyān tu</l>
+        <l n="b">rathakāraḥ prajāyate</l>
+        <l n="c">jāya <seg met="==-+-="><gap reason="lost" unit="character" quantity="6"/></seg></l>
+        <l n="d"><seg met="===="><gap reason="lost" unit="character" quantity="4"/></seg>samarcita<unclear>ḥ</unclear></l>
+    </lg>
+    
+    <lg n="8" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="ab">na jāyate viśva <gap reason="lost" unit="character" quantity="17"></gap> sarvataḥ priyaḥ</l>
+    </lg>
+    
+    <lg n="9" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">Anulomeṣu sarvveṣu</l>
+        <l n="b">tūṣṇīm upanayaḥ kriyā <g type="danda">.</g></l>
+        <l n="c">savarṇām·baṣṭhayor eva</l>
+        <l n="d">sāpi tat· savidhīyate</l>
+    </lg>
+    
+    <lg n="10" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">rathakārādi jā
+            <lb n="3" break="no"/>tīnām</l>
+        <l n="b">upanītir amantrakam· <g type="danda">.</g></l>
+        <l n="c">na yajño nāpi sandhyādi</l>
+        <l n="d">kiñcānya<supplied reason="omitted">d ya</supplied>t tu vaidikam</l>
+    </lg>
+    
+    <lg n="11" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">Ādhāna mātraṁ kurvvīta</l>
+        <l n="b">rathākāras tu viśvakṛ<supplied reason="omitted">t·</supplied></l>
+    </lg>
+
+    <lg n="12" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">vāstu-śilpaka vidyābhyāṁ</l>
+        <l n="b">varttayed eṣa nityaśaḥ</l> 
+        <l n="c">devatā-pratimāñ cāpi</l>
+        <l n="d">kuryyāc citran tathaiva ca</l>
+    </lg>
+
+    <lg n="13" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">yantrānām api pātrāṇi</l>
+        <l n="b">prati-pūrvvam· prakalpayet·</l>
+        <l n="c">suvarṇnābharaṇānāñ ca</l>
+        <l n="d">kāñcāvyaya skriyā <g type="ddanda">.</g></l>
+    </lg>
+
+    <lg n="14" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">devatādi-tanūnāce</l>
+        <l n="b">karaṇaṁ śilpa-jīvikā <g type="danda">.</g></l>
+        <l n="c">sauvarṇa-vastu nirmmāṇa<supplied reason="omitted">ṁ</supplied></l>
+        <l n="d">svarṇnakāra Itīṣyate <g type="ddanda">.</g></l>
+    </lg>
+    
+    <lg n="15" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">Ayas-karmmaṇyayaskāras</l>
+        <l n="b">takṣā takṣaka karmmaṇi</l>
+        <l n="c">tanūnāṁ kara<unclear>ṇa</unclear>n tvaṣṭā</l>
+        <l n="d">sa eva rathakṛt· bhave<unclear>t·</unclear></l>
+    </lg>
+    
+    <lg n="16" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">prāsāda<supplied reason="omitted">m·</supplied> devatādīnāṁ</l>
+        <l n="b">sthāpanāt· sthapati<supplied reason="omitted">ḥ</supplied> smṛtaḥ </l>
+        <l n="c">sthapatirvviśvakṛt· takṣā</l>
+        <l n="d">tvaṣṭā ca rathakārakaḥ</l>
+        <l n="e">kāṣṭhiko varddhakiśceti</l>
+        <l n="f">śilpiparyāyavācakāḥ</l>
+    </lg>
+    
+    <p>
+        I-p-paṭi cai<unclear>y</unclear>vā<hi rend="grantha">gama</hi>ṅkaḷilum <hi rend="grantha">pañcarātrasaṭhahi</hi>taikaḷilum vai<hi rend="grantha">khānasagranthaṁ</hi>kaḷilum <hi rend="grantha">viśva-
+            karmmīyam Āgastyādiśāstraṁ</hi>kaḷilum <hi rend="grantha">utpattivṛttividhāna ñco</hi>llutalālum Iva<choice><orig>ne</orig><reg>ṉē</reg></choice> <hi rend="grantha">grāmā<unclear>di</unclear>
+                <lb n="4" break="no"/>vāstu</hi>kkaḷaiyu<supplied reason="omitted">m</supplied> <hi rend="grantha">prāsādādivāstu</hi>kkaḷaiyum <hi rend="grantha">pratimābheda</hi>ṅkaḷaiyum <hi rend="grantha">pañcāyudhādyāyutaṁ</hi>kaḷaiyum <hi rend="grantha">brahmasṛṣṭyādi <gap reason="lost" unit="character" quantity="5"></gap>dikarmmaṁ</hi>kaḷaiyum ceyya <hi rend="grantha">vidhāna</hi>muṇṭātalāl ivva<hi rend="grantha">riṣṭhomāpatti</hi>yai y-uṭaiya <hi rend="grantha">rathakārānulomanākiya karmmārane</hi> Ivai
+y-ellāñ ceyvā<choice><orig>n</orig><reg>ṉ</reg></choice> e<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu kallilum cempilum veṭṭikkoḷka v-e<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu co<choice><orig>nno</orig><reg>ṉṉō</reg></choice>m
+<hi rend="grantha">śrī</hi>-pāṇṭikulā<hi rend="grantha">ntaka-c-catur-v-vedi</hi>-maṅkalattu <hi rend="grantha">gomathattu yajñātabhaṭṭaco<unclear>ma</unclear>yāji</hi>y<choice><orig>en</orig><reg>ēṉ</reg></choice>
+<hi rend="grantha">yajñātmabhaṭṭasomayājinaḥ</hi><g type="ddanda">.</g>
+    </p>
+    
+    <p>I-p-pati co<choice><orig>nnen</orig><reg>ṉṉēṉ</reg></choice> ko<unclear>mmakkai</unclear> pu<supplied reason="omitted">ru</supplied><hi rend="grantha">ṣottamabhaṭṭa</hi>n<choice><orig>en</orig><reg>ēṉ</reg></choice> <g type="ddanda">.</g>
+    </p>
+    
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        śiriya <seg rendition="class:tamil maturity:regional">ciṅka</seg>bhaṭṭasomayājinaḥ<g type="ddanda">.</g>
+    </p>
+    
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <gap reason="lost" unit="character" quantity="6"></gap> pratibhāsa<surplus>ḥ</surplus> śaṁkaranārāyaṇa bhaṭṭasomayājinaḥ <g type="gomutraFinal">.</g>
+    </p>
+
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        cakra<unclear>pā</unclear>ṇibhaṭṭasya<g type="ddanda">.</g>
+    </p>
+    
+    <p>
+        I-p-pati co<choice><orig>nnen</orig><reg>ṉṉēṉ</reg></choice> ce<hi rend="grantha">nti</hi>ṟattu
+    </p>
+
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <gap reason="lost" unit="character" quantity="7"></gap> devabhaṭṭa Agicidatirātrayājiyen Agnicidatirātrayājinaḥ <g type="ddanda">.</g> kānni<seg rendition="class:tamil maturity:regional">kkuṟi</seg> keśava<unclear>n</unclear> so<unclear>ma</unclear>yājinopyevam·
+        
+        <lb n="5"/>caturagrahāra<unclear>bhuktyā</unclear>madhurājātabhaṭṭasyāpyevam· pratibhāsanarasiṁhasya hṛṣīkeśa<surplus>va</surplus>bhaṭṭasoma<surplus>soma</surplus>yājinopyevam· pratibhāsaḥ <g type="pc">.</g>
+    </p>
+    
+    <p>kuḷavit tiruvayāṟṟaṭikaḷ <hi rend="grantha">deśapriyabhaṭṭan</hi> maka<choice><orig>n</orig><reg>ṉ</reg></choice> tiruviyalūraṭikaḷ <hi rend="grantha">bhaṭṭasyāpyevam·</hi> <g type="gomutraFinal">.</g>
+    </p>
+    
+    <p><gap reason="lost" unit="character" quantity="3"></gap> ḷu<hi rend="grantha">ka<unclear>mū</unclear>rtti dakṣaṇāmūrtibhaṭṭavasantayājinaḥ</hi> <g type="gomutraFinal">.</g>
+    </p>
+    
+    <p><hi rend="grantha">śrī-rājādhirāja-c-catur-vedi-maṁ</hi>kalattu muppurā <hi rend="grantha">bhavaskaṁda <gap reason="lost" unit="character" quantity="2"></gap> somayāji</hi>yeṉ <hi rend="grantha">bhavaskanta <gap reason="lost" unit="character" quantity="6"></gap>kṣatriya vaiśyayā</hi>tanāy uḷḷa <gap reason="lost" unit="character" quantity="7"></gap> <hi rend="grantha">śūdra</hi> jātiyāyuḷḷa
+    </p>
+    
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        
+        <lb n="6"/><gap reason="lost" unit="character" quantity="2"></gap> Āgamam <gap reason="lost" unit="character" quantity="2"></gap> ditta-vacanam <g type="danda">.</g>
+    </p>
+
+    <lg n="17" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">sthapatiś śāstra-karmma-jñaś</l>
+        <l n="b">śubhāśubhaviyogavi<unclear>t·</unclear></l>
+        <l n="c">bhūparīkṣā ca yā vidyā</l>
+        <l n="d">vāstu-vidyā ca yā parā</l>
+    </lg>
+
+    <lg n="18" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">ta <seg met="===-+-="><gap reason="lost" unit="character" quantity="7"/></seg></l>
+        <l n="b">sahitau kāryyamācare<unclear>t·</unclear></l>
+        <l n="c">tāveva sahitau <seg met="-="><gap reason="lost" unit="character" quantity="2"/></seg></l>
+        <l n="d"><unclear>sarvasaṁ</unclear>pat· kara<supplied reason="omitted">ṁ</supplied> nṛṇām·<g type="ddanda"></g></l>
+    </lg>
+
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">bhīma-saṁhitāyām·
+        <g type="pc">.</g>
+    </p>
+
+    <lg n="18" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">sulekhas suguṇaś śilpa</l>
+        <l n="b">śāstra-jñaḥ karmma-yogyakaḥ<g type="ddanda"></g></l>
+        <l n="c">mānādi-rasa-māna-jñaś</l>
+        <l n="d">śalyoddhāra-viśāradaḥ<g type="ddanda"></g></l>
+    </lg>
+    
+    <lg n="19" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">vāstu-vidyā-kṛtābhyāsaś</l>
+        <l n="b">śilā-doṣa-parīkṣakaḥ</l>
+        <l n="c">sa<unclear>rvva</unclear>-lakṣaṇa-saṁyuktaḥ</l>
+        <l n="d">sthapatis sa udāhṛtaḥ</l>
+    </lg>
+    
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">kāraṇe
+        <g type="ddanda">.</g>
+    </p>
+
+    <lg n="20" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">sulekhas suguṇo dhīmān·</l>
+        <l n="b">śāstra-jñaḥ karmma-yogyakaḥ </l>
+        <l n="c">vāstu-vidyā kṛtābhyāsaś</l>
+        <l n="d">śalyoddhāra-viśāradaḥ</l>
+    </lg>
+    
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">yogaje
+        <g type="ddanda">.</g>
+    </p>
+
+    <lg n="21" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="ab">sthapatir-v-vāstu-tantra-jñas sarva-śāstra-viśāradaḥ </l>
+        <l n="cd">mahā-deśa-sthasaṁkīrnnotpanna-janmā <unclear>ku</unclear>lā<unclear>dhamaḥ</unclear></l>
+    </lg>
+    <lg n="22" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">sthāpako deva-devasyād</l>
+        <l n="b">yajamāno janārddanaḥ</l>
+        <l n="c">vidhātā sthapatis sākṣād</l>
+        <l n="d">etair-d-dharmma-sthis tribhiḥ <g type="ddanda">.</g></l>
+    </lg>
+
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">suprabhede
+        <g type="ddanda">.</g></p>
+    
+    <lg n="23" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">Ācāryyam uktavāṁś caiva</l>
+        <l n="b">pūrvvoktān· sam·pragṛhya ca</l>
+        
+        <lb n="7"/>
+        <l n="c">ta<seg met="="><gap reason="lost" unit="character" quantity="1"/></seg>syānveṣayet· tat·vat·</l>
+        <l n="d">śilpinaṁ sukulot·bhavam·<g type="ddanda">.</g></l>
+    </lg>
+    
+    <lg n="24" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">sthapatis sūtra-grāhī ca</l>
+        <l n="b">varddhakis takṣakas tathā <g type="danda">.</g></l>
+        <l n="c">tanū-karaṇa <seg met="+-="><gap reason="lost" unit="character" quantity="3"/></seg></l>
+        <l n="d"><seg met="====-+-="><gap reason="lost" unit="character" quantity="8"/></seg></l>
+    </lg>
+    
+    <lg n="25" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">sthapatis sūtra-grāhibhyām·</l>
+        <l n="b">prāsāda-pratimāṁs tathā <g type="danda">.</g></l>
+        <l n="c">Akṣi-mokṣādikaṁ sarvam·</l>
+        <l n="d">kārayet· takṣakottamaḥ <g type="danda">.</g></l>
+    </lg>
+    
+    <lg n="26" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">sthapatiś śāstra-karmma-jñaḥ</l>
+        <l n="b">kṛta-karmmābhijātavān·</l>
+        <l n="c"><seg rend="check">ṁraṁ</seg>dṛśaṁ śilpanaṁ grihya</l>
+        <l n="d">prārabhet· sarva-karmmakam· <g type="danda">.</g></l>
+    </lg>
+    
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">prapañcottare vidyāsūtre
+    </p>
+    
+     <lg n="27" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">sulekhas suguṇo dhīmān·</l>
+        <l n="b">śāstra-jñaḥ karmma-yogyakaḥ</l>
+        <l n="c">vāstu vidyā-kṛtābhyāsa-ś</l>
+        <l n="d">śalyoddhāra-viśāradaḥ <g type="ddanda">.</g></l>
+     </lg>
+    
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">lakṣaṇa-pramāṇe
+        <g type="danda">.</g>
+    </p>
+    
+     <lg n="28" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">sarvva-lakṣaṇa-sam·panno</l>
+        <l n="b">nīrograḥ kopa-varjjitaḥ <g type="ddanda">.</g></l>
+        <l n="c">Upāya-jñas suśīla-jñaḥ</l>
+        <l n="d">kṛta-hasto vicakṣaṇaḥ</l>
+     </lg>
+    
+     <lg n="29" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">takṣakaśśāstrasam·panno</l>
+        <l n="b">vinīto vāstuvit· sadā</l>
+        <l n="c">postakaṁ hastadhārī ca</l>
+        <l n="d">kṛtakṛtyassujātakaḥ</l>
+     </lg>
+
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">prapañca-taṁtre lakṣaṇa-pramāṇe <g type="ddanda">.</g>
+    </p>
+    
+    <lg n="30" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="ab">prasiddha-deśe saṁkīrnna-jātijobhīṣṭa la <gap reason="lost" quantity="8" unit="character"></gap>
+            <lb n="8"/><gap reason="lost" quantity="2" unit="character"></gap> ṇaḥ</l>
+    </lg>
+    
+    <lg n="31" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">vāstu-vidyā-vidhāna-jñas</l>
+        <l n="b">tūhāpoha samanvitaḥ</l>
+        <l n="c">nimitta-ś-śakuna jyoti</l>
+        <l n="d">jñāne samyak· prabho<unclear>dhakaḥ</unclear></l>
+    </lg>
+    
+    <lg n="32" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="ab">veda-vid-dharmmaviddhīmānā ācāryyaḥ prokṣita-<unclear>s-suddhīḥ</unclear></l>
+        <l n="cd">prāsāda-liṁga-kāryyeṣu <seg rend="check">mānosura</seg> kāya-karmmabhiḥ <g type="gomutraFinal">.</g></l>
+    </lg>
+    
+    <lg n="33" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">brahmaiva sthapatis sākṣāt·</l>
+        <l n="b">yajamānas tu keśavaḥ</l>
+        <l n="c">gurus sarvasya kāryyasya</l>
+        <l n="d">mahādevas sakāraṇam· <g type="gomutraFinal">.</g></l>
+    </lg>
+    
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">śrī-pañcarātraṁ kāpiṁ<unclear>jalaṁ</unclear>
+    </p>
+    
+    <lg n="34" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">bhuvaṁ khātvā śilām· paśyed</l>
+        <l n="b">ācāryaś śilpibhis saha</l>
+        <l n="c">śilpinaṁ pūjayet· kāle</l>
+        <l n="d">dhana-dhānya-gajādibhiḥ</l>
+    </lg>
+    
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">parama-puruṣa saṁhitāyām· <g type="ddanda">.</g>
+    </p>
+    
+     <lg n="35" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="ab"><gap reason="lost" unit="character" quantity="6"></gap> sāreṇa kārayet· <gap reason="lost" unit="character" quantity="4"></gap> ṇam· <g type="pc">.</g></l>
+    </lg>
+  
+   <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">śrī-vaikhānasamahāstave<g type="danda">.</g>
+    </p>
+    
+     <lg n="36" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">śilpa-śāstrokta-vidhinā</l>
+        <l n="b">śilpinas samyag ācaret·</l>
+        <l n="c">tasmāt· sarvvaprayatnena</l>
+        <l n="d">Ācāryyaśśilpibhissaha</l>
+    </lg>
+  
+  <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">Atriprokte<g type="ddanda">.</g>
+    </p>
+    
+     <lg n="37" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="ab">vidhivat· sthāpayitvaivaṁ śilpibhiś śāstra-kovidai<supplied reason="omitted">ḥ</supplied></l>
+    </lg>
+    
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">Āgastyavāstuśāstre<g type="ddanda">.</g>
+    </p>
+    
+     <lg n="38" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">svatantraḥ paratantra-jña<supplied reason="omitted">ḥ</supplied></l>
+        <l n="b">kṛta-kṛtyas-sumānasaḥ</l>
+      <lb n="9"/>
+        <l n="c"><unclear>dha</unclear>rmma-jñas satya-sam·panna</l>
+        <l n="d">sarvendriyaḥ jitendriyaḥ</l>
+    </lg>
+    
+    
+    <lg n="39" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">Itihāsa-purāṇa-jñaḥ</l>
+        <l n="b">smṛtivit· vāstuvit· suthīḥ</l>
+        <l n="c">Ata <seg met="=="><gap reason="lost" quantity="2" unit="character"/></seg> dha bhaktaśca </l>
+        <l n="d">Alubdha<unclear>ś cā</unclear>malātmakaḥ</l>
+    </lg>
+    
+    <lg n="40" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">nimittātām· krama-jñaś-ca</l>
+        <l n="b"><supplied reason="omitted">ci</supplied>tra-karmma-viśāradaḥ</l>
+        <l n="c">sarvāvayava niṣpanne</l>
+        <l n="d">vimāne cottarāyaṇe</l>
+    </lg>
+    
+    <lg n="41" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">pra<unclear>śa</unclear>sta-<unclear>pa</unclear>kṣa-nakṣatre</l>
+        <l n="b">yajamāno janārddanaḥ</l>
+        <l n="c"><seg met="====-+-="><gap reason="lost" unit="character" quantity="8"/></seg></l>
+        <l n="d"><seg met="="><gap reason="lost" unit="character" quantity="1"/></seg>patiśca mahātmanaḥ</l>
+    </lg>
+    
+    <lg n="42" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a"><seg met="===="><gap reason="lost" unit="character" quantity="4"/></seg> śarīrāṁgam·</l>
+        <l n="b">pāce bhautikasaṃjñi<surplus>ta</surplus>ta<unclear>m·</unclear></l>
+        <l n="c">vimānaṁ vidhinā samyak·</l>
+        <l n="d">jalasaṁprokṣaṇañ care<unclear>t</unclear></l>
+    </lg>
+    
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">vāstu-vidyāyāṁ<g type="gomutraFinal">.</g>
+    </p>
+    
+    <lg n="43" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">viśva-karmmā <unclear>ca Ā</unclear>cāryo</l>
+        <l n="b">gurutvāt· viśva-karmmaṇām·</l>
+        <l n="c">sthapatiḥ sthāpanaṁ kurvan·</l>
+        <l n="d">Iti śilpi <seg met="-+-="><gap reason="lost" unit="character" quantity="4"/></seg></l>
+    </lg>
+        
+    <lg n="44" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a"><seg met="==="><gap reason="lost" unit="character" quantity="3"/></seg>sthapatis sa<unclear>tya</unclear></l>
+        <l n="b">śāstra-karmma-vicakṣaṇaḥ</l>
+        <l n="c">kṛta-kṛtyaḥ kulīnaś ca</l>
+        <l n="d">Ahīnādhika-lakṣaṇaḥ</l>
+    </lg>
+    
+    <lg n="45" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">dhārmmikaḥ satyavādī ca</l>
+        <l n="b">gaṇitajñaḥ purāṇavit·</l>
+        <l n="c">citravit· sarvvadeśajña-s</l>
+        <l n="d">sunāmāyamanāmayaḥ</l>
+    </lg>
+   
+    <lg n="46" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="ab">dṛḍhayonasū
+            <lb n="10"/>        
+            <unclear>yo</unclear>nalasobhayaḥ</l>
+    </lg>
+    
+    <lg n="47" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="ab"><supplied reason="subaudible">a</supplied>lubdhośanadodīnopramādī ca jitendriya<supplied reason="lost">ḥ</supplied></l>
+        <l n="cd">saptavya sanajiddhīmān· Ūhāpohavicakṣaṇaḥ <g type="ddanda">.</g></l>
+    </lg>
+    
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">sārasvatīye <g type="ddanda">.</g>
+    </p>
+    
+    <lg n="48" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">viśvakarmmā  ṛṣer-n-nāmnā</l>
+        <l n="b">gurutvā<unclear>t·</unclear> viśva-karmmaṇaḥ</l>
+        <l n="c">sthapatiḥ sthāpanaṁ kurvvan·</l>
+        <l n="d">Iti śilpir-v-vidhīyate <g type="danda">.</g></l>
+    </lg>
+    
+    <lg n="49" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">tatva-jñaḥ sthapatis sarva</l>
+        <l n="b">śāstrāṇāñ ca viśeṣataḥ</l>
+        <l n="c">dhārmmikas satya-vādī ca</l>
+        <l n="d">kṛta kṛtya<supplied reason="omitted">ḥ</supplied> kulotbhavaḥ</l>
+    </lg>
+    
+    <lb n="11"/>
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+       <unclear>nārāyaṇabha</unclear>ṭṭaso<supplied reason="omitted">ma</supplied>yājinaḥ <g type="gomutraFinal">.</g></p>
+    
+    <p>
+        <hi rend="grantha">śrīrājādhirāja caturvvedi</hi>maṅkala<hi rend="grantha">ttu</hi> nampūr kaṭṭukke <hi rend="grantha">śrī-raṁganāthabhaṭṭavājape<supplied reason="omitted">ya</supplied>yāji</hi>y<choice><orig>en</orig><reg>ēṉ</reg></choice> <hi rend="grantha">śrī-raṁganāthabhaṭṭa</hi><unclear>nen</unclear> <gap reason="lost" quantity="3" unit="character"></gap>
+    </p>
+    
+    <lb n="12"/>
+      <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">svastiśrī <g type="gomutraFinal">.</g></p>
+    
+    <lg n="50" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">vaiśyataḥ śūdra-kannyāyāṁ</l>
+        <l n="b">sannjātaḥ karaṇa-striyām·</l>
+        <l n="c">Asmād aṁbaṣṭhato jāt<unclear>o</unclear></l>
+        <l n="d">rathakāra Iti smṛta<supplied reason="omitted">ḥ</supplied></l>
+    </lg>
+    
+    <p> veḷḷāḻa peṇ pi<supplied reason="omitted">ḷ</supplied>ḷai <gap reason="lost" unit="character" quantity="7"></gap> Eṟi<choice><orig>n</orig><reg>ṉ</reg></choice>a vaiśyanukku  <gap reason="lost" quantity="10" unit="character"></gap> piṟanta rathakā<supplied reason="omitted">ra</supplied>nātavan taccan<hi rend="grantha">atra gautamī[ya]m· vivaraṇa<supplied reason="omitted">m·</supplied></hi>
+    </p>
+
+    <lg n="51" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">māhiṣyeṇa karaṇyān tu </l>
+        <l n="b">rathakāraḥ prajāyate</l>
+        <l n="c">nāsyopanaya<supplied reason="omitted">na</supplied>n nejyā </l>
+        <l n="d">nādhānañ ca niṣiddhyate</l>
+    </lg>
+    
+    <lg n="52" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        <l n="a">sūtrasya vājino vāstu</l>
+        <l n="b">śilpayos syandranasya ca</l>
+        <l n="c">vidyayā<supplied reason="omitted">bhya</supplied>dhika<supplied reason="omitted">ḥ</supplied> svasya</l>
+        <l n="d">śarīraṁ varttayed ayam·</l>
+    </lg>
+       
+    <p>
+        
+    </p>
+    
+
 </div>
 			
 <div type="apparatus">
@@ -141,8 +598,10 @@
 <div type="commentary">		
 	<p>Date= c.a. 12th century</p>
 </div>
-    	
-<div type="bibliography">
+    <!-- ṃraṃdṛśam = c.f.r Derrett (1971), idṛśam -->
+    <!-- manosura = c.f.r Derrett (1971), mānasa -->
+    
+    <div type="bibliography">
 	
     <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/558).
        Summary in <bibl><ptr target="bib:Mahalingam1992_01"/></bibl></p>
