@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tanjore, Bṛhadīśvara, time of Rājarāja I Cōḻa, year 29</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName>
+						<forename>Eugen</forename>
+						<surname>Hultzsch</surname>
+					</persName>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">DHARMA_INSSII0200004</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Revenue in paddy, gold, and money that several villages were obliged to pay. The territories that were bound to pay taxes are described in minute detail, the land was measured by the <foreign>marakkāl</foreign> Åṭavallāṉ.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC)
+					under the European Union's Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
+							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:reda" when="2025-01-31">Creation of the file on the
+				repository</change>
+		</revisionDesc>
+	</teiHeader>
+
+	<text xml:space="preserve">
+<body>
+
+	<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+		
+		<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+			<lb n="1"/>svasti śrī
+		</ab>
+		
+		<div type="textpart" n="A">
+			<p>
+				
+				<lg n="1" met="āciriyappā" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+					<l n="1">tirumakaḷ pōla-p perunila-c celviyun</l>
+					<l n="2">taṉakkē-y Urimai pūṇṭamai ma<choice><orig>n</orig><reg>ṉ</reg></choice>akkoḷa-k</l>
+					<l n="3">kāntaḷūr-c cālai kalamaṟu-t taruḷi</l>
+					<l n="4">veṅkai nāṭuṅ kaṅka pāṭiyun</l>
+					<l n="5">taṭi kaipāṭiyum nuḷampa-p <lb n="2"/>pāṭiyuṅ</l>
+					<l n="6">kuṭamalai nāṭuṅ kollamuṅ kaliṅkamum</l>
+					<l n="7">muraṭṭ<choice><sic>e</sic><corr>o</corr></choice>ḻil ciṅkaḷar Īḻamaṇ ṭalamum</l>
+					<l n="8">Iraṭṭa pāṭi Eḻarai-y ilakkamum</l>
+					<l n="9">muṉṉīr-p paḻantīvu paṉṉīrā y-iramun</l>
+					<l n="10">tiṇṭiṟal veṉ<lb n="3" break="no"/>ṟi-t taṇṭāṟ koṇṭataṉ-ṉ</l>
+					<l n="11">eḻilvaḷar ūḻiyuḷ ellā yāṇṭun</l>
+					<l n="12">toḻutaka viḷaṅkum yāṇṭey</l>
+					<l n="13">ceḻiyarai-t tēcukoḷ </l>
+				</lg>
+			</p>
+			
+			<p>
+				kō-<hi rend="grantha">rājakesarivarmmar</hi>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">śrī-rājarāja de</hi>varkku yāṇṭu irupatto
+				<lb n="4" break="no"/>ṉpat' āvatu varai Uṭaiyār <hi rend="grantha">śrī-rājarāja devar</hi> tañcāvūr Eṭuppitta tirukkaṟṟaḷi <hi rend="grantha">śrī-rājarājīśvaram</hi> Uṭaiya <hi rend="grantha">paramasvāmi</hi>kku veṇṭunivantaṅkaḷukku-t tēvatāṉam āka-c coḻa-maṇṭalattum puṟa-maṇṭalaṅ
+				<lb n="5" break="no"/>kaḷilum Uṭaiyār <hi rend="grantha">śrī-rājarāja-devar</hi> kuṭutta Ūrkaḷil Ūrnattamum <hi rend="grantha">śrī</hi>-kōyilkaḷuṅ kuḷaṅkaḷum Ūṭaṟuttuppoṉa vāykkālkaḷum paṟai-c cēriyuṅ kammāṇa cēriyuñcuṭukāṭum Uḷḷiṭṭu Iṟai Ili nilaṅkaḷum
+				<lb n="6"/>Iṟai kaṭṭiṉa nilattāṟ kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭōkkum āṭavallāṉ eṉṉum marakkālāl Aḷakka-k-kaṭava nellum Iṭakkaṭava poṉṉuṅ kācum pecikkallil veṭṭiṉa <g type="gomutraFinal">.</g>  
+			</p>
+			<p>
+				teṉkaṭuvāyāṉa
+				<lb n="7"/>Arumoḻi-tēva-vaḷa-nāṭṭu Iṅka-ṇāṭṭu-p pālaiyūr paḷḷiyuṅ kaṇi muṟṟūṭṭum Uṭpaṭa Aḷantapaṭi nilam nūṟṟu muppattu nāṉkē-y Eṭṭu māviṉ kīḻ mukkāle mummāvarai y-araikkā
+				<lb n="8" break="no"/>ṇi muntirikai-k kīḻ nāṉku māvilum Ū<unclear>r</unclear>nattamuṅ kuḷamuṅ kammāṇa cēriyum paṟai-c cēriyuñ cuṭukāṭum Ivvūr nilattai Ūṭaṟuttu-p poṉa vāykkālkaḷālum Iṟai Ili nilam oṉpatē-y kāṇi
+				<lb n="9" break="no"/>Araikkāṇi muntirikai-k kīḻ arai nīk<unclear>ki</unclear> Iṟai kaṭṭiṉa nilam nūṟṟu Irupattu Aiñcē-y Eḻumāvarai muntirikai-k kīḻ Eṇmāvarai araikkāṇi muntirikaikkīḻ nāṉku māviṉāl iṟai kaṭṭiṉa kāṇi
+			</p>
+			
+		</div>
+		
+		
+		<div type="textpart" n="B">
+			<p>
+				<lb n="1" break="no"/>k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭōkkum Āṭavallāṉ eṉṉum marakkālāl Aḷakka-k-kaṭava nellu-p paṉṉī
+				
+				<lb n="2" break="no"/>r āyirattu Aiññūṟṟu muppatiṉ kalaṉē Irutūṇi-k-kuṟuṇi Orunāḻi <g type="gomutraFinal">.</g> 
+			</p>
+			<p>Iṉṉāṭṭu Ārappāḻ nā
+				<lb n="3"/>yvālamum maruttuva-p peṟum paḷḷiyum Uṭpaṭa Aḷantapaṭi nilam nūṟṟu Orupattu Oṉ-
+				
+				<lb n="4" break="no"/>ṟē-y Aṟumā-v-arai arai-k-kāṇi-k kīḻ mukkālē Arai-k-kāliṉ kīḻ Araiyē Iraṇṭu mā
+				
+				<lb n="5" break="no"/>vilum Ūrnattamuṅ kuḷaṅkaḷum <hi rend="grantha">śrī</hi>kōyilum Aiyyaṉ kōyilum piṭāri kōyiluṅ
+				
+				<lb n="6"/>kaḻaṉi-k kuḷaṅkaḷum paṟai-c cēri nattamum Iṟai Ili nilam mūṉṟ' araiyē nāṉku mā-
+
+<lb n="7" break="no"/>k-kāṇi arai-k-kāṇi nīkki Iṟai kaṭṭiṉa nilam nūṟṟu Eḻaraiyē iraṇṭu mā-k-kā-
+
+<lb n="8"/>ṇi-k kīḻ mukkālē arai-k-kāliṉ kīḻ Araiyē Iraṇṭu māviṉāl Iṟai kaṭṭiṉa
+
+<lb n="9"/>kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭōkkum Āṭavallāṉ Eṉṉum marakkālāl Aḷa-
+			</p>
+		</div>
+		<div type="textpart" n="C">
+			<p>
+				
+				<lb n="1" break="no"/>kka-k-kaṭava nellu-p patiṉ āyirattu Eḻunūṟṟu nāṟppattu Aiṅkalaṉē Irutūṇi-p-patakku muṉṉāḻi <g type="gomutraFinal">.</g> 
+			</p>
+			<p>
+				iṉṉāṭṭukkīraṉatevaṉkuṭi <gap reason="lost" quantity="8" unit="character"></gap>
+				
+				<lb n="2"/>Iraṇṭe mukkālē nāṉku mā-k-kāṇi muntirikai-k kīḻ Araiyē mūṉṟu mā mukkāṇi arai-k-kāṇi-k kīḻ Eṭṭu māvilum Ūrnttamum • • •
+				
+				<lb n="3"/>[3.] śrīkoyilum nanta vaṉamuṅkuḷaṅkaḷum iṟaiili nilam iraṇṭe orumāvarai araikkāṇi muntirikaikkīḻ nāṉku mā muntiri• • • •
+
+<lb n="4"/>[4.] ṉa nilam nāṟpatey mukkāle irumāvarai araikkāṇikkīḻ oṉpatu mā mukkāṇikkīḻ mukkāle orumāviṉāl iṟai kaṭṭiṉa • • • •
+
+<lb n="5"/>[5.] llāṉ eṉṉum marakkālāl aḷakkakkaṭava nellu nālāyirattu eḻupatiṉ kalaṉe aiṅkuṟuṇi aiññāḻi ||| [4*] iṉṉāṭṭu nākaṉka • • •
+
+<lb n="6"/>[6.] yey iraṇṭu mā mukkāṇi araikkāṇikkīḻ irumāvarai araikkāṇikkīḻ eṭṭu māvilum ūrirukkaiyuṅkuḷaṅkaḷum aiyyaṉ • • • • •
+
+<lb n="7"/>[7.] yum ivvūr nilattaiyūṭaṟuttuppoṉa vāykkālkaḷālum cuṭukāṭṭālum iraiili nilam mukkāle orumā araikkā[ṇi] • • • • •
+
+<lb n="8"/>[8.] nilam irupattu oṉṟey mukkāle orumāvarai araikkāṇi muntirikaikkīḻ araikkāṇikkīḻ eṭṭu māviṉāl iṟ[ai] kaṭṭi • • • • •
+
+<lb n="9"/>[9.] lāṉ eṉṉum marakkālāl aḷakkakkaṭava nellu iraṇṭāyirattu orunūṟṟu eṇpattu mukkalaṉe aiṅkuṟuṇi n[āṉāḻi |||] [5*]• • •
+		</p>
+		</div>
+		
+</div>
+			
+<div type="apparatus">
+				
+	<listApp>		
+										
+		<!--<app loc="0">
+			<lem></lem>
+			<rdg source="bib:Hultzsch1899_01"></rdg>
+		</app>-->
+		
+		<app loc="01">
+			<lem>svasti śrī</lem>
+			<rdg source="bib:Hultzsch1899_01"/>
+			<note><ptr target="bib:Hultzsch1899_01"/> notes: <quote>These two words are engraved in large letters to the left of lines <unclear>1</unclear> to 3.</quote></note>
+		</app>
+		
+		<app loc="5">
+			<lem>°<hi rend="grantha">catu<supplied reason="undefined">r</supplied>vve</hi>ti°</lem>
+			<rdg source="bib:Hultzsch1899_01"/>
+			<note><ptr target="bib:Hultzsch1899_01"/> notes: <quote>Read <hi rend="grantha">caturvedi</hi>.</quote></note>
+			
+		</app>
+		
+		<app loc="8">
+			<lem>O<supplied reason="undefined">ru</supplied> nā<supplied reason="undefined">ḷai</supplied>k=ku <del><hi rend="grantha">A</hi></del></lem>
+			<rdg source="bib:Hultzsch1899_01"/>
+			<note><ptr target="bib:Hultzsch1899_01"/> notes: <quote>Here follows a Grantha, <foreign>a</foreign>, which appears to have been cancelled by placing over it a curve resembling <foreign>i</foreign>.</quote></note>
+		</app>
+					
+		<app loc="9">
+			<lem><num value="20">2 <g type="numeral">10</g></num> <g type="undefined"/> Eṇṇai-y-āka</lem>
+			<rdg source="bib:Hultzsch1899_01"/>
+			<note><ptr target="bib:Hultzsch1899_01"/> notes: <quote>The symbol following 20 looks like <foreign><hi rend="grantha">nr̥</hi> </foreign>and may be an abbreviation of a word denoting some small measure for liquids.</quote></note>
+		</app>
+		
+		<app loc="9">
+			<lem><choice><sic><supplied reason="undefined">cū</supplied></sic><corr>Ā</corr></choice>ḻ<supplied reason="undefined">ā</supplied>kkē-<supplied reason="undefined">y</supplied></lem>
+			<rdg source="bib:Hultzsch1899_01"/>
+			<note>Initial <foreign>a</foreign> and <foreign>cu</foreign> are sometimes not easily distinguishable. It is possible that the original letter is an initial <foreign>a</foreign>, more or less well executed.</note>
+		</app>
+		
+		<app loc="9">
+			<lem><g type="undefined"/>-m</lem>
+			<rdg source="bib:Hultzsch1899_01"><gap reason="lost" quantity="1" unit="character"/> m</rdg>
+			<note><ptr target="bib:Hultzsch1899_01"/> notes: <quote>The symbol preceding <foreign>m</foreign> looks like <foreign><hi rend="grantha">nda</hi></foreign>.</quote></note>
+		</app>
+		
+		<app loc="9">
+			<lem><supplied reason="undefined"><g type="nellu"/></supplied></lem>
+			<rdg source="bib:Hultzsch1899_01"><supplied reason="undefined"><hi rend="grantha">ja</hi></supplied></rdg>
+			<note><ptr target="bib:Hultzsch1899_01"/> notes: <quote>This symbol is an abbreviation for <foreign>nellu;</foreign> see p. 7, note 8.</quote></note>
+		</app>		
+			
+		<app loc="14">
+			<lem>°ma<surplus>ta</surplus>t<supplied reason="undefined">tu</supplied></lem>
+			<rdg source="bib:Hultzsch1899_01">°matat<supplied reason="undefined">tu</supplied></rdg>
+			<note><ptr target="bib:Hultzsch1899_01"/> notes: <quote>Read <foreign>mattukku</foreign>.</quote></note>
+		</app>
+		
+		<app loc="14">
+			<lem>vi<supplied reason="lost"><hi rend="grantha">ghna</hi>m</supplied></lem>
+			<rdg source="bib:Hultzsch1899_01">vi<gap reason="lost" quantity="2" unit="character"/></rdg>
+			<note><ptr target="bib:Hultzsch1899_01"/> notes: <quote>Read <hi rend="grantha">ghna</hi>m.</quote></note>
+			
+		</app>
+	
+		<app loc="23">
+			<lem>I</lem>
+			<rdg source="bib:Hultzsch1899_01"><choice><sic>I</sic><corr>śrī</corr></choice></rdg>
+		</app>
+		
+	</listApp>    			
+	
+</div>
+    	
+<div type="translation" source="bib:Hultzsch1899_01">
+	
+	<p n="1">Hail! Prosperity! In the 1<supplied reason="undefined">7</supplied>th year <supplied reason="subaudible">of the reign</supplied> of king Rājarāja-Rājakesarivarman, who, in his long life<note>This inscription reads <foreign>taṉṉeḻil vaḷarūḻi ūḻiyuḷ</foreign> instead of <foreign>taṉṉeḻil vaḷarūḻiyuḷ</foreign>.</note> of growing strength, during which,——<supplied reason="subaudible">in</supplied> the belief that, as well as the goddess of fortune, the goddess of the great earth had become his wife,——he was pleased to destroy the ships <supplied reason="subaudible">at</supplied> Kāntaḷūr-Cālai, and conquered by <supplied reason="subaudible">his</supplied> army, which was victorious in great battles, Vēṅkai-nāṭu, Kaṅka-pāṭi, Taṭikai-pāṭi, Nuḷampa-pāṭi, Kuṭamalai-nāṭu, Kollam and Kaliṅkam,——deprived the Ceḻiñas of <supplied reason="subaudible">their</supplied> splendour at the very moment when Utakai, which is worshipped everywhere, was <supplied reason="subaudible">most</supplied> resplendent;——<supplied reason="subaudible">the subjoined</supplied> document was drawn up by <supplied reason="subaudible">the following persons</supplied> who were present in the temple of Mahāśāstā, in the hall <supplied reason="explanation"><foreign>ampalam</foreign></supplied> to the north <supplied reason="subaudible">of it</supplied>: We, the great assembly of Śivacūḷāmaṇimaṅgala, <hi rend="italic">alias</hi> Śrī-Vikramābharaṇa-caturvēdimaṅgala, <supplied reason="subaudible">a village</supplied> in its own subdivision of Kāliyūr-kōṭṭam, including the great men elected for <supplied reason="subaudible">the management of</supplied> charities (?) during this year; <gap reason="lost" quantity="10" unit="character"/> in our village; and the commissioners<note>The term <foreign>kaṇattār</foreign> occurred before in No. 1, l. 4.</note> <supplied reason="subaudible">in charge of the temple</supplied> of Cāttaṉ in our village.</p>
+
+	<p n="8">To <supplied reason="subaudible">the temple of</supplied> Mahāśāstā in our village, at each of the three times of the day<note>The ‘three times of the day’ (<foreign>trisaṃdhi</foreign> or <foreign>trikāla</foreign>) are sunrise, noon, and nightfall. Compare Vol. I. No. 53, and Vol. II. No. 9, paragraph 2; No. 24, paragraphs 2 and 3; and No. 35, paragraph 2.</note> two <foreign>nāḻi</foreign>s <supplied reason="subaudible">of rice</supplied>, <hi rend="italic">i.e.</hi> on each day six <foreign>nāḻi</foreign>s; at each of the three times of the day, 20 <gap reason="lost" quantity="5" unit="character"/> of oil, <hi rend="italic">i.e.</hi> <supplied reason="subaudible">one</supplied> <foreign>āḻākku</foreign> and two <foreign>ceviṭu</foreign>s and a half of oil <gap reason="lost" quantity="10" unit="character"/></p>
+
+	<p n="9">Aruḷś<supplied reason="undefined">ar</supplied>man, <hi rend="italic">alias</hi> Eḻunū<supplied reason="undefined">ṟṟuvaṉ</supplied>, the son of Caṭai<supplied reason="undefined">na</supplied>kkaś<supplied reason="undefined">ar</supplied>ma<supplied reason="undefined">n</supplied>, the headman of <supplied reason="undefined">Taṭṭū</supplied>r, who is <supplied reason="subaudible">also</supplied> the headman of our village, <gap reason="lost" quantity="10" unit="character"/> having taken paddy <supplied reason="subaudible">in his hand</supplied> and having taken <supplied reason="subaudible">one</supplied> <foreign>uri</foreign> of paddy <supplied reason="subaudible">on </supplied>a betel-leaf tray <supplied reason="explanation"><foreign>vaṭṭil</foreign></supplied> and one bundle (?) of betel-leaves on a betel-leaf plate <supplied reason="explanation"><foreign>paṭalikai</foreign></supplied>,——it shall thus be done without fail as long as the moon and the sun exist.</p>
+
+	<p n="13">The commissioners <supplied reason="subaudible">of the temple</supplied> of Cāttaṉ shall protect this charity. Those who cause obstruction to this charity, shall incur <supplied reason="subaudible">all</supplied> the sins committed between the Gaṅgā and Kumari.</p>
+	<p n="15"> The great men elected for <supplied reason="subaudible">the supervision of</supplied> the tank shall be entitled to levy a fine of <supplied reason="subaudible">one</supplied> <foreign>kaḻañcu</foreign> of gold in favour of the tank-fund from those betel-leaf sellers in this village, who sell <supplied reason="subaudible">betel-leaves</supplied> elsewhere but at the temple of Piṭāri.</p>
+
+	<p n="21">Thus we, the great assembly, have ordered. Having been present in the assembly and having heard <supplied reason="subaudible">their</supplied> order, I, the arbitrator Dharmapriyaṉ, the son of <supplied reason="undefined">Veṟ</supplied>ṟikkuṟi Nālāyiravaṉ, wrote <supplied reason="subaudible">this</supplied>. Prosperity !</p>
+
+</div>
+	
+<div type="translation" resp="part:emfr">
+								
+	<p n="01">Prosperity! Fortune!</p>
+	
+	<p n="4-5">17th year of the king Rājarāja Rājakesarivarman,</p>
+	
+	<p n="1-4">who ... [<foreign>meykkīrtti</foreign> of Rājarāja I Cōḻa]</p>
+	
+	<p n="5">Writ that, We, the members of the great assembly, including
+		...
+		ordered, while seating in the temple of Mahāśāsta
+	...</p>
+	
+	<p n="8-13">
+		<list>
+			<item>So that there be ... and</item>
+			<item>so that there be ...</item>
+		</list>
+		...
+		should be done as long as the moon and the sun.
+	</p>
+	
+	<p n="13">The ... <supplied reason="explanation"><foreign>cāttakaṇattār</foreign></supplied> should be the protectors of this <foreign>dharma</foreign>.</p>
+	
+	<p n="13-15">He who stands as an obstacle to this <foreign>dharma</foreign> should encur ...</p>
+	
+	<p n="16-21">...</p>
+		
+	<p n="21-22">Thus We ordered, We, the members of the great assembly.</p>	
+	
+	<p n="22-23">...</p>		
+		
+</div>
+	
+<!--<div type="commentary">
+				
+</div>-->
+			
+<div type="bibliography">
+				
+	<p>Reported in <bibl><ptr target="bib:ARIE1892-1893"/></bibl> (ARIE/1892-1893/B/1893/23).</p>
+	<p>Edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>, with English translation (SII 3.6).</p>
+	<p>This edition by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>, published visual documentation and photos (Valérie Gillet, 2008).</p>	
+	
+	<listBibl type="primary">
+		
+		<bibl n="SII ">
+			<ptr target="bib:Hultzsch1899_01"/>
+			<citedRange unit="page">9-11</citedRange>
+			<citedRange unit="item">6</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+	<listBibl type="secondary">
+				
+		<bibl>
+			<ptr target="bib:ARIE1892-1893"/>
+			<citedRange unit="page">13</citedRange>
+			<citedRange unit="appendix">B/1893</citedRange>
+			<citedRange unit="item">23</citedRange>			
+		</bibl>		
+		
+	</listBibl>
+	
+</div>
+</body>
+</text>
+</TEI>
