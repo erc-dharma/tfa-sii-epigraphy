@@ -88,7 +88,7 @@
     <lg met="āciriyappā">          
         <l n="1">tiru-makaḷ pōla<unclear>p peru</unclear>-nila-c-celviyum</l>
         <l n="2">ta<unclear>ṉakkē y-urimai</unclear> pūṇṭamai maṉakko<lb n="2" break="no"/>ḷa</l>
-        <l n="3">kānta<sic>ḷḷ</sic>ūrc cā<sic>ll</sic>ai kala<sic>mm</sic> aṟutt-aru<sic>ḷḷ</sic>i</l>
+        <l n="3">kānta<choice><sic>ḷḷ</sic><corr>ḷ</corr></choice>ūrc cā<choice><sic>ll</sic><corr>l</corr></choice>ai kala<choice><sic>mm</sic><corr>m</corr></choice> aṟutt-aru<choice><sic>ḷḷ</sic><corr>ḷ</corr></choice>i</l>
         <l n="4">vēṅkai-nāṭu kaṅ<lb n="3" break="no"/><unclear>ka</unclear>pāṭiyum</l>
         <l n="5">nuḷampa-pāṭiyum taṭi<unclear>k</unclear>ai-pāṭiyum</l>
         <l n="6">kuṭama<unclear>lai-n</unclear>āṭum kol<lb n="4" break="no"/>lamum kaliṅkamum</l>
@@ -99,71 +99,92 @@
     </lg>
     
     <p>
-        <hi rend="grantha">śrī</hi>-kōvirā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>kē<hi rend="grantha">sari</hi>-paṉma[r]kku yāṇṭu <num value="16"><g type="numeral">10</g> 6</num>-Āvatu
+        <hi rend="grantha">śrī</hi>-kōvirā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>kē<hi rend="grantha">sari</hi>-paṉma<unclear>r</unclear>kku yāṇṭu <num value="16"><g type="numeral">10</g> 6</num>-Āvatu
     </p>
     <p>
-        <lb n="7"/>Ūṟaiyū[r]-kūṟṟattu ciṟṟam[pal] tiruccirāppaḷi
-        Initirun[taru]ḷiya tiripūva
+        <lb n="7"/>Ūṟaiyū<unclear>r</unclear>-kūṟṟattu ciṟṟam<unclear>pal</unclear> tiruccirāppaḷi
+        Initirun<unclear>taru</unclear>ḷiya tiripūva
         <lb n="8" break="no"/>ṉapatikku mula<hi rend="grantha">bṛttya</hi> ṉāṉa
         ta<unclear>ṇ</unclear>ṭe<hi rend="grantha">svara</hi>-p-perumāḷ Aruḷā<unclear>l</unclear> patipātamulap        
-        <lb n="9" break="no"/>paṭṭuṭaip [pa]ñcācā<choice><sic>ṟṟ</sic><corr>r</corr></choice>iya 
+        <lb n="9" break="no"/>paṭṭuṭaip <unclear>pa</unclear>ñcācā<choice><sic>ṟṟ</sic><corr>r</corr></choice>iya 
         <unclear>tē</unclear>vakaṉmikaḷōmum ciṟṟampa<unclear>l</unclear> Ūrōmum It⌈
-        <lb n="10" break="no"/><unclear>t</unclear>ēvar tēva[tāṉam] viḷattūr n[ā]ṭṭu Ālaṅkuṭi
+        <lb n="10" break="no"/><unclear>t</unclear>ēvar tēva<unclear>tāṉam</unclear> viḷattūr n<unclear>ā</unclear>ṭṭu Ālaṅkuṭi
         Uttama-cōḻap perāṟṟu kiḻak
         <lb n="11"/><gap reason="lost" quantity="2" unit="character"/> kka <gap reason="lost" quantity="6" unit="character"/> maṇaliṭum kaḷarum tiṭalum-āy-k kiṭanta nilaṉ 2
     </p>
     <p>
         Iṉṉi
-        <lb n="12" break="no"/>lam [Iraṇṭarai]yum cūralūr kūṟ[ṟat]tu cūra[lūṟ]
-        kiḻavaṉ kampaṉ ma[ṇiya][ṉ]nāṉa vik
-        <lb n="13" break="no"/>[ki]rama-ciṅka-muvē<surplus>va</surplus>ntavēḷā[n I]ttēvar cit[ti]rai tirunāḷ
-        [On]patu nāḷum <hi rend="grantha">brā</hi>
-        <lb n="14" break="no"/><hi rend="grantha">hma</hi>ṇarum civay[ō]kikaḷum tapa<hi rend="grantha">sya</hi>rum Uṇṇa Ivaṉ Iṉṉi[lam ti]rutti vacakkikko        
-        <lb n="15" break="no"/>ḷḷap peṟuvāṉāka viṟṟukku[ṭut]ta nilattukk' icai[n]ta
+        <lb n="12" break="no"/>lam <unclear>Iraṇṭarai</unclear>yum cūralūr-kūṟ<unclear>ṟat</unclear>tu cūra<unclear>lūṟ</unclear>
+        kiḻavaṉ kampaṉ ma<unclear>ṇiyaṉ</unclear>n-āṉa vik
+        <lb n="13" break="no"/><unclear>ki</unclear>rama-ciṅka-muvē<surplus>va</surplus>ntavēḷā<unclear>n I</unclear>ttēvar cit<unclear>ti</unclear>rai tirunāḷ
+        <unclear>On</unclear>patu nāḷum <hi rend="grantha">brā</hi>
+        <lb n="14" break="no"/><hi rend="grantha">hma</hi>ṇarum civa-<unclear>yō</unclear>kikaḷum tapa<hi rend="grantha">sya</hi>rum Uṇṇa Ivaṉ Iṉṉi<unclear>lam ti</unclear>rutti vacakkikko        
+        <lb n="15" break="no"/>ḷḷap peṟuvāṉāka viṟṟu-k ku<unclear>ṭut</unclear>ta nilattukk’ icai<unclear>n</unclear>ta
         
         <list>
-            <item>kiḻ-pā[ṟ-k]' ellai tiruvaraṅ
-        <lb n="16" break="no"/>ka tēvatevat[āṉa]m koṭṭiṭav[ai]yum pañcakkālattu nilattukku
-        [mē]ṟkum</item>
-        
-        <item>teṉ
-        <lb n="17" break="no"/>-pāṟkk' ellai <gap reason="lost" quantity="2" unit="character"/> varaṅkatevatāṉam tāḷum pu<unclear>lat</unclear>tu<supplied reason="omitted">k</supplied>ku
-        vaṭakkum</item>            
-        
-        <item>mēlpārkk' e
-        <lb n="18" break="no"/>llai [nakkaṉ] <gap reason="lost" quantity="2" unit="character"/> ṅkulamuḷḷiṭṭārum [na] mamaṭṭi[yum]
-        nakkaṉ koṟṟa virāṭi
-        <lb n="19"/>[U]ḷḷiṭṭār [ni]laṅkaḷu<supplied reason="omitted">k</supplied>ku kiḻakkum</item>
-        
-        <item>vaṭa-pāṟ[l]elai
-        tiruvaraṅka-tēvatāṉam cā
-        <lb n="20" break="no"/>ntakuṭikkut teṟkum</item>
+            <item>kiḻ-pā<unclear>ṟk</unclear>’ ellai tiruvaraṅ
+                <lb n="16" break="no"/>ka tēvatevat<unclear>āṉa</unclear>m koṭṭiṭa<unclear>v</unclear>aiyum pañcakkālattu nilattukku
+                <unclear>mē</unclear>ṟkum</item>
+            
+            <item>teṉ
+                <lb n="17" break="no"/>-pāṟkk’ ellai <gap reason="lost" quantity="2" unit="character"/> varaṅkatevatāṉam tāḷum pu<unclear>lat</unclear>tu<supplied reason="omitted">k</supplied>ku
+                vaṭakkum</item>            
+            
+            <item>mēl-pārkk’ e
+                <lb n="18" break="no"/>llai <unclear>nakkaṉ</unclear> <gap reason="lost" quantity="2" unit="character"/> ṅkulamuḷḷiṭṭārum <unclear>na</unclear> mamaṭṭi<unclear>yum</unclear>
+                nakkaṉ koṟṟa virāṭi
+                <lb n="19"/><unclear>U</unclear>ḷḷiṭṭār <unclear>ni</unclear>laṅkaḷu<supplied reason="omitted">k</supplied>ku kiḻakkum</item>
+            
+            <item>vaṭa-pāṟ<supplied reason="omitted">k</supplied>’ ellai
+                tiruvaraṅka-tēvatāṉam cā
+                <lb n="20" break="no"/>ntakuṭikkut teṟkum</item>
         </list>
     </p>
     <p>        
-        Ivvicai[n]ta peru-nāṅk' ellaiyuḷḷ akappaṭṭa
+        Ivvicai<unclear>n</unclear>ta peru-nāṅk' ellaiyuḷḷ akappaṭṭa
         nilam
-        <lb n="21"/>Iraṇṭaraiyum viṟ<supplied reason="omitted">ṟu</supplied>-k kuṭut[tu Iṉ-ṉi]lattukku vilai <gap reason="lost" quantity="3" unit="character"/>
+        <lb n="21"/>Iraṇṭaraiyum viṟ<supplied reason="omitted">ṟu</supplied>-k kuṭut<unclear>tu Iṉ-ṉi</unclear>lattukku vilai <gap reason="lost" quantity="3" unit="character"/>
         <unclear>ka</unclear>ḻañc' āka Ippoṉ añ-ka
-        <lb n="22" break="no"/>ḻaiñcukkum Iṉṉilam [vi]ṟṟu-k kuṭuttu Ipp[oṉ añ-kaḻa]ñcum
+        <lb n="22" break="no"/>ḻaiñcukkum Iṉṉilam <unclear>vi</unclear>ṟṟu-k kuṭuttu Ipp<unclear>oṉ añ-kaḻa</unclear>ñcum
         paṇṭārattu vaip
-        <lb n="23" break="no"/>pittu-<supplied reason="omitted">k</supplied> koṇṭu Iṉṉilam citti[rai ti]runāḷ Oṉpatu ṉāḷum <hi rend="grantha">br<choice><sic>a</sic><corr>ā</corr></choice>hma</hi>ṇa[ru]m <hi rend="grantha">śi</hi>va-<choice><sic>c</sic><corr>y</corr></choice>ōki<supplied reason="omitted">ka</supplied>ḷum tapa<hi rend="grantha">sya</hi>rum Uṇṇa        
-        <lb n="24"/>Iṉṉilam Ipparicu kalmel veṭṭik k[o]ḷḷa-p peṟuvāṉ āka
+        <lb n="23" break="no"/>pittu-<supplied reason="omitted">k</supplied> koṇṭu Iṉṉilam citti<unclear>rai ti</unclear>ru-nāḷ Oṉpatu ṉāḷum <hi rend="grantha">br<choice><sic>a</sic><corr>ā</corr></choice>hma</hi>ṇa<unclear>ru</unclear>m <hi rend="grantha">śi</hi>va-<choice><sic>c</sic><corr>y</corr></choice>ōki<supplied reason="omitted">ka</supplied>ḷum tapa<hi rend="grantha">sya</hi>rum Uṇṇa        
+        <lb n="24"/>Iṉṉilam Ipparicu kalmel veṭṭik <unclear>k</unclear>oḷḷa-p peṟuvāṉ āka
         cūralūr kiḻavaṉ kampaṉ maṇiyaṉ-āna vikkirama-ciñka-mu        
         <lb n="25" break="no"/><unclear>vē</unclear>n=tavēḷāṉukku viṟṟu-<supplied reason="omitted">k</supplied> kuṭuttō<unclear>m</unclear>
-        <unclear>ca</unclear>ṇṭē<hi rend="grantha">śva</hi>ra-perumāḷ Aruḷāl patip[ā]ta mulappaṭṭuṭaip
-        pañcā<supplied reason="omitted">cā</supplied><hi rend="grantha">ryya</hi>-tēvaka[ṉmika]        
-        <lb n="26" break="no"/>ḷ[ō]m cinṟampala Ūrōmum
+        <unclear>ca</unclear>ṇṭē<hi rend="grantha">śva</hi>ra-perumāḷ Aruḷāl patip<unclear>ā</unclear>ta mulappaṭṭuṭaip
+        pañcā<supplied reason="omitted">cā</supplied><hi rend="grantha">ryya</hi>-tēvaka<unclear>ṉmika</unclear>        
+        <lb n="26" break="no"/><unclear>ḷō</unclear>m cinṟampala Ūrōmum
     </p>
     <p>        
-        Ivva <gap reason="lost" quantity="3" unit="character"/> m paṇikka Eḻutiṉēṉ
-        vaṇṇaka<gap reason="lost" quantity="1" unit="character"/>ṇa ku[ṭu] nak <gap reason="lost" quantity="10" unit="character"/>
+        Ivv-a <gap reason="lost" quantity="3" unit="character"/> m paṇikka Eḻutiṉēṉ
+        vaṇṇaka<gap reason="lost" quantity="1" unit="character"/>ṇa ku<unclear>ṭu</unclear> nak <gap reason="lost" quantity="10" unit="character"/>
     </p>
 </div>
 
-<!--   <div type="apparatus">
-            
-</div>-->
+<div type="apparatus">
+         
+    <listApp>
+        
+        <!--
+            <app loc="0">
+            <lem>...</lem>
+            <rdg source="bib:Krishnan1964_01"/>
+            </app>
+        -->
+        
+        <app loc="14">
+            <lem>civa<unclear>yō</unclear>kikaḷum</lem>
+            <note>The <foreign>kompu</foreign> in <foreign>yō</foreign> is clear.</note>
+        </app>
+        
+        <app loc="25">
+            <lem>°tēvaka<unclear>ṉmika</unclear><lb n="26" break="no"/><unclear>ḷō</unclear>m</lem>
+            <note>The <foreign>kompu</foreign> in <foreign>ḷō</foreign> is clear.</note>
+        </app> 
+        
+    </listApp>
+    
+</div>
 
 <div type="translation" resp="part:emfr">
 	
@@ -217,8 +238,3 @@
       </body>
 	</text>
 </TEI>
-
-<!--METADATA:
-	year 14 = 1264 CE.
-	On the south wall of the <foreign>maṇḍapa</foreign> in front of central shrine in the cuddalore taluk
-Tirukaṇṭheśvaram [Tirukaṇṭēcuvaram]-->
