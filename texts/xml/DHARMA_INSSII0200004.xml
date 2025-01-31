@@ -26,6 +26,10 @@
 						<forename>Renato</forename>
 						<surname>Dávalos</surname>
 					</persName>
+					<persName ref="part:vimu">
+						<forename>Vigneshwaran</forename>
+						<surname>Muralidaran</surname>
+					</persName>
 				</respStmt>
 			</titleStmt>
 			<publicationStmt>
@@ -211,28 +215,16 @@
 			
 <div type="bibliography">
 				
-	<p>Reported in <bibl><ptr target="bib:ARIE1892-1893"/></bibl> (ARIE/1892-1893/B/1893/23).</p>
-	<p>Edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>, with English translation (SII 3.6).</p>
-	<p>This edition by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>, published visual documentation and photos (Valérie Gillet, 2008).</p>	
+	<p>Reported and edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>, with English translation (SII 2.4).</p>
+	<p>This edition by Renato Dávalos and Vigneshwaran Muralidaran (2025), based on <bibl><ptr target="bib:Hultzsch1895_01"/></bibl>.</p>	
 	
 	<listBibl type="primary">
 		
 		<bibl n="SII ">
-			<ptr target="bib:Hultzsch1899_01"/>
+			<ptr target="bib:Hultzsch1895_01"/>
 			<citedRange unit="page">9-11</citedRange>
 			<citedRange unit="item">6</citedRange>
 		</bibl>
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-				
-		<bibl>
-			<ptr target="bib:ARIE1892-1893"/>
-			<citedRange unit="page">13</citedRange>
-			<citedRange unit="appendix">B/1893</citedRange>
-			<citedRange unit="item">23</citedRange>			
-		</bibl>		
 		
 	</listBibl>
 	
