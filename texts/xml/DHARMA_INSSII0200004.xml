@@ -93,23 +93,23 @@
 	</teiHeader>
 
 	<text xml:space="preserve">
-<body>
-
-	<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-		
-		<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-			<lb n="1"/>svasti śrī
-		</ab>
-		
-		<div type="textpart" n="A">
-			<p>
+		<body>
+			
+			<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 				
-				<lg n="1" met="āciriyappā" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-					<l n="1">tirumakaḷ pōla-p perunila-c celviyun</l>
-					<l n="2">taṉakkē-y Urimai pūṇṭamai ma<choice><orig>n</orig><reg>ṉ</reg></choice>akkoḷa-k</l>
-					<l n="3">kāntaḷūr-c cālai kalamaṟu-t taruḷi</l>
-					<l n="4">veṅkai nāṭuṅ kaṅka pāṭiyun</l>
-					<l n="5">taṭi kaipāṭiyum nuḷampa-p <lb n="2"/>pāṭiyuṅ</l>
+				<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+					<lb n="1"/>svasti śrī
+				</ab>
+				
+				<div type="textpart" n="A">
+					<p>
+						
+						<lg n="1" met="āciriyappā" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+							<l n="1">tirumakaḷ pōla-p perunila-c celviyun</l>
+							<l n="2">taṉakkē-y Urimai pūṇṭamai ma<choice><orig>n</orig><reg>ṉ</reg></choice>akkoḷa-k</l>
+							<l n="3">kāntaḷūr-c cālai kalamaṟu-t taruḷi</l>
+							<l n="4">veṅkai nāṭuṅ kaṅka pāṭiyun</l>
+							<l n="5">taṭi kaipāṭiyum nuḷampa-p <lb n="2"/>pāṭiyuṅ</l>
 					<l n="6">kuṭamalai nāṭuṅ kollamuṅ kaliṅkamum</l>
 					<l n="7">muraṭṭ<choice><sic>e</sic><corr>o</corr></choice>ḻil ciṅkaḷar Īḻamaṇ ṭalamum</l>
 					<l n="8">Iraṭṭa pāṭi Eḻarai-y ilakkamum</l>
@@ -129,7 +129,7 @@
 			</p>
 			<p>
 				teṉkaṭuvāyāṉa
-				<lb n="7"/>Arumoḻi-tēva-vaḷa-nāṭṭu Iṅka-ṇāṭṭu-p pālaiyūr paḷḷiyuṅ kaṇi muṟṟūṭṭum Uṭpaṭa Aḷantapaṭi nilam nūṟṟu muppattu nāṉkē-y Eṭṭu māviṉ kīḻ mukkāle mummāvarai y-araikkā
+				<lb n="7"/>Arumoḻi-tēva-vaḷa-nāṭṭu Iṅka-ṇāṭṭu-p pālaiyūr paḷḷiyuṅ kaṇi muṟṟūṭṭum Uṭpaṭa Aḷantapaṭi nilam nūṟṟu muppattu nāṉkē-y Eṭṭu māviṉ kīḻ mukkālē mummāvarai y-araikkā
 				<lb n="8" break="no"/>ṇi muntirikai-k kīḻ nāṉku māvilum Ū<unclear>r</unclear>nattamuṅ kuḷamuṅ kammāṇa cēriyum paṟai-c cēriyuñ cuṭukāṭum Ivvūr nilattai Ūṭaṟuttu-p poṉa vāykkālkaḷālum Iṟai Ili nilam oṉpatē-y kāṇi
 				<lb n="9" break="no"/>Araikkāṇi muntirikai-k kīḻ arai nīk<unclear>ki</unclear> Iṟai kaṭṭiṉa nilam nūṟṟu Irupattu Aiñcē-y Eḻumāvarai muntirikai-k kīḻ Eṇmāvarai araikkāṇi muntirikaikkīḻ nāṉku māviṉāl iṟai kaṭṭiṉa kāṇi
 			</p>
@@ -159,6 +159,7 @@
 <lb n="9"/>kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭōkkum Āṭavallāṉ Eṉṉum marakkālāl Aḷa-
 			</p>
 		</div>
+		
 		<div type="textpart" n="C">
 			<p>
 				
@@ -171,7 +172,7 @@
 				
 				<lb n="3"/><hi rend="grantha">śrī</hi>-koyilum nan=tavaṉamuṅ kuḷaṅkaḷum Iṟai Ili nilam Iraṇṭē orumā-v-arai arai-k-kāṇi muntirikai-k kīḻ nāṉkumā muntiri<supplied reason="lost">kai</supplied><gap reason="lost" quantity="5" unit="character"></gap>
 				
-				<lb n="4" break="no"/>ṉa nilam nāṟpatē-y mukkāle Irumā-v-arai Arai-k-kāṇi-k kīḻ Oṉpatumā mukkāṇi-k kīḻ mukkālē orumāviṉāl Iṟai kaṭṭiṉa<gap reason="lost" quantity="8" unit="character"></gap>
+				<lb n="4" break="no"/>ṉa nilam nāṟpatē-y mukkālē Irumā-v-arai Arai-k-kāṇi-k kīḻ Oṉpatumā mukkāṇi-k kīḻ mukkālē orumāviṉāl Iṟai kaṭṭiṉa<gap reason="lost" quantity="8" unit="character"></gap>
 				
 				<lb n="5" break="no"/>llāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu nālāyirattu Eḻupatiṉ kalaṉē Aiṅkuṟuṇi Aiññāḻi <g type="gomutraFinal">.</g> iṉṉāṭṭu nākaṉka <gap reason="lost" quantity="5" unit="character"></gap>
 				
@@ -189,24 +190,85 @@
 			<p>
 				<lb n="1"/><gap reason="lost" quantity="10" unit="character"></gap> <unclear>paṟai</unclear>- c cēriyu<unclear>m</unclear> kuḷa<unclear>ṅka</unclear>ḷum Oṭaikaḷum Iṟai-y-ili nīṅku nilam Aiñciṉ kīḻ Araiyē mūṉṟumā mukkāṇi-k kīḻ mukkālē Orumā nīkki Iṟai kaṭṭiṉa nilam nūṟṟu Orupattu Aiñcē kālē Arai-k-kāṇi muntirikai-k kīḻ Araiyē mūṉṟumā muntirikai-k kīḻ Araiyē Iraṇṭu māviṉāl Iṟai kaṭṭiṉa kāṇikkaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭōkkum
 
-<lb n="2"/><gap reason="lost" quantity="10" unit="character"></gap> <unclear>ṭa</unclear>va nellu-p patiṉōr āyirattu Aiññūṟṟu Irupattu Aṟukalaṉe kuṟuṇi Eḻunāḻi <g type="ddanda"></g>
+<lb n="2"/><gap reason="lost" quantity="10" unit="character"></gap> <unclear>ṭa</unclear>va nellu-p patiṉōr āyirattu Aiññūṟṟu Irupattu Aṟukalaṉē kuṟuṇi Eḻunāḻi <g type="ddanda"></g>
 				</p>
 			
-			<p>><!--@reda:aqui me quede--> Innāṭṭuttaṇṇīrkkuṉṟamāṉa rājarājanallūr aḷantapaṭi nilam muppattu āṟaraiye orumā araikkāṇi muntirikaikkīḻ mukkāle mā kāṇikkīḻ mukkāle orumāvilum ūrirukkaiyum kuḷamum śrīkoyilkaḷum cuṭukāṭum paṟaicceriyum nāṭṭā-
+			<p>Innāṭṭu-t taṇṇīr-k kuṉṟamāṉa <hi rend="grantha">rājarāja</hi>-nallūr Aḷantapaṭi nilam muppattu Āṟaraiye Orumā Araikkāṇi muntirikai-k kīḻ mukkālē mā kāṇi-k kīḻ mukkālē Orumāvilum Ūrirukkaiyum kuḷamum <hi rend="grantha">śrī</hi>-kōyilkaḷum cuṭukāṭum paṟai-c-cēriyum nāṭṭā
 
-<lb n="3"/>[3.] • • • • • • nilamum ivvūr nilattai ūṭaṟuttuppuṟavūrkkup poṉa vāykkālālum iṟaiili nilam iraṇṭe eḻumā araikkāṇi muntirikaikkīḻ mukkāle orumāvarai muntirikaikkīḻ araiye iraṇṭu mā nīkki nilam muppattu nāṉke mūṉṟu mā mukkāṇi araikkāṇi muntirikaikkīḻ mukkāle nāṉmāvarai araikkāṇi muntirikaik-
+<lb n="3" break="no"/><gap reason="lost" quantity="3" unit="character"></gap> nilamum Ivvūr nilattai Ūṭaṟuttu-p puṟavūrkku-p poṉa vāykkālālum Iṟai Ili nilam iraṇṭē Eḻumā Araikkāṇi muntirikai-k kīḻ mukkālē Orumā-v-arai muntirikai-k kīḻ Araiye Iraṇṭu mā nīkki nilam muppattu nāṉkē mūṉṟu mā mukkāṇi Araikkāṇi muntirikai-k kīḻ mukkālē nāṉmā-v-arai Araikkāṇi muntirikaik
 
-<lb n="4"/>[4.] • • • • • • jakesariyoṭokkum āṭavallāṉ eṉṉum marakkālāl aḷakkakkaṭava nellu mūvāyirattu munnūṟṟu eḻupattu eṇkalaṉe patakku nāṉāḻi ||| [7*] innāṭṭu uccipāṭi aḷantapaṭi nilam aimpattu eḻaraiye orumā mukkāṇi araikkāṇi muntirikaikkīḻ araiye nāṉku mā mukkāṇiyilum ūrirukkaiyuṅkuḷaṅkaḷum śrīkoyilkaḷum īḻacceriyum ka-
-
-<lb n="5"/>[5.] • • • • • • ka iraiyili [nila]m oṉṟe mukkāle mūṉṟu mā mukkāṇi araikkāṇi muntirikaikkīḻ irumāvarai muntirikaikkīḻ araiye iraṇṭu mā nīkki iṟai kaṭṭiṉa nilam aiympattaiñcaraiye mūṉṟu māviṉ kīḻ araiye iraṇṭu māvaraikkāṇikkīḻ eṭṭu māviṉāl iṟai kaṭṭiṉa kāṇikkaṭaṉ rājakesariyoṭokkum āṭavallāṉ eṉṉum marakkālā-
-
-<lb n="6"/>[6.] • • • • • • ṟṟu irupa[t]tu [aṟu]kalaṉey tūṇi nāṉāḻi ||| [8*] innāṭṭukkīḻvaṭukakkuṭi aḷantapaṭi nilam irupatteḻaraiye orumāvarai araikkāṇikkīḻ nāṉku mā araikkāṇi muntirikaikkīḻ nāṉku māvilum ūrirukkaiyum kuḷamum śrīkoyilkaḷum cuṭukāṭum īḻacceriyuṅkammāṇaceriyum paṟaicceriyum vaṇṇāracceriyum paṟaikkuḷakkuḻiyum
-
-<lb n="7"/>[7.] • • • • • • [r]aikkāṇi mu[ntirikai]kkīḻ mūṉṟu mākkāṇi araikkāṇikkīḻ eṭṭu mā nīkki iṟai kaṭṭiṉa nilam irupattāṟey oṉpatu mākkāṇi araikkāṇi muntirikaikkīḻ mukkāṇikkīḻ mukkāle orumāviṉāl iṟai kaṭṭiṉa kāṇikkaṭaṉ rājakesariyoṭokkum āṭavallāṉ eṉṉum marakkālāl aḷakkakkaṭava nellu iraṇṭāyirattu a
+				<lb n="4" break="no"/><supplied reason="lost">kīḻ</supplied><gap reason="lost" quantity="2" unit="character"></gap> <supplied reason="lost"><hi rend="grantha">rājarā</hi></supplied><hi rend="grantha">jakesari</hi>y-ōṭōkkum Āṭavallāṉ Eṉṉum marakkālāl Aḷakkakkaṭava nellu mūvāyirattu mu<choice><orig>nn</orig><reg>ṉṉ</reg></choice>ūṟṟu Eḻupattu Eṇkalaṉē patakku nāṉāḻi <g type="gomutraFinal">.</g> 
+			</p>
+			<p>
 				
+				Innāṭṭu Uccipāṭi Aḷantapaṭi nilam Aimpattu Eḻaraiye Orumā mukkāṇi Araikkāṇi muntirikai-k kīḻ Araiyē nāṉku mā mukkāṇiyilum Ūrirukkaiyuṅ kuḷaṅkaḷum <hi rend="grantha">śrī</hi>-kōyilkaḷum Īḻaccēriyum ka
+
+				<lb n="5" break="no"/> <gap reason="lost" quantity="10" unit="character"></gap> ka Iraiy-i-ili <unclear>nila</unclear>m Oṉṟe mukkālē mūṉṟu mā mukkāṇi Araikkāṇi muntirikai-k kīḻ Irumā-v-arai muntirikai-k kīḻ Araiyē Iraṇṭu mā nīkki Iṟai kaṭṭiṉa nilam Aiympattaiñcaraiyē mūṉṟu māviṉ kīḻ Araiyē Iraṇṭu mā-v-araikkāṇi-k kīḻ Eṭṭu māviṉāl Iṟai kaṭṭiṉa kāṇikkaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭōkkum Āṭavallāṉ Eṉṉum marakkālāl 
+				
+				<lb n="6"/> <gap reason="lost" quantity="10" unit="character"></gap>ṟṟu Irupa<unclear>t</unclear>tu <unclear>Aṟu</unclear>kalaṉē-y tūṇi nāṉāḻi <g type="gomutraFinal">.</g> 
+			</p>
+			<p>
+				Innāṭṭu-k kīḻ vaṭuka-k kuṭi Aḷantapaṭi nilam Irupatteḻaraiyē orumā-v-arai Araikkāṇi-k kīḻ nāṉku mā Araikkāṇi muntirikai-k kīḻ nāṉku māvilum Ūrirukkaiyum kuḷamum <hi rend="grantha">śrī</hi>kōyilkaḷum cuṭukāṭum īḻa-c-cēriyuṅ kammāṇa-cēriyum paṟai-c-cēriyum vaṇṇāra-c-cēriyum paṟai-k-kuḷa-k kuḻiyum 
+
+<lb n="7"/> <gap reason="lost" quantity="9" unit="character"></gap><supplied reason="lost">a</supplied>r<unclear>ai</unclear>kkāṇi mu<unclear>ntirikai</unclear>-k kīḻ mūṉṟu mākkāṇi Araikkāṇi-k kīḻ Eṭṭu mā nīkki Iṟai kaṭṭiṉa nilam irupattāṟē-y Oṉpatu mākkāṇi Araikkāṇi muntirikai-k kīḻ mukkāṇi-k kīḻ mukkālē Orumāviṉāl Iṟai kaṭṭiṉa kāṇikkaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭōkkum Āṭavallāṉ Eṉṉum marakkālāl Aḷakkakkaṭava nellu Iraṇṭāyirattu Aṟunūṟṟu nāṟ
+
+<lb n="8" break="no"/> <gap reason="lost" quantity="10" unit="character"></gap> āṭṭu-k kañcāṟa<unclear>ṉa</unclear>kar <gap reason="lost" quantity="1" unit="character"></gap> aḷantapaṭi nilam āṟe mukkālē Iraṇṭu mā mukkāṇi Araikkāṇi muntirikai-k kīḻ mukkālē Orumā mukkāṇi-k kīḻ mukkālē Orumāvilum Ivvūr-k kuḷaṅkaḷāl Iṟai-y-ili nilam Orumā mukkāṇi Araikkāṇi muntirikai-k kīḻ Aṟu mākkāṇi Araikkāṇi-k kīḻ eṭṭu mā nīkk<choice><sic>ī</sic><corr>i</corr></choice> Iṟai kaṭṭiṉa nilam Āṟē mukkālē Orumāviṉ kīḻ Araiyē kāṇi 
+
+<lb n="9"/><gap reason="lost" quantity="10" unit="character"></gap> <unclear>ṉa</unclear> kā<unclear>ṇikkaṭa</unclear>ṉ <hi rend="grantha">rājak<unclear>e</unclear>sari</hi>yōṭōkkum <unclear>Ā</unclear>ṭavallāṉ Eṉṉum marakkālāl Aḷakkakkaṭava nellu Aṟunūṟṟu Eḻupattu nāṟkalaṉē Irutūṇi-k kuṟuṇi nāṉāḻi <g type="gomutraFinal">.</g> 
+			</p>
+			<p>
+				Innāṭṭu Ūcakkaṇṇaṅ kuṭikk<choice><sic>a</sic><corr>u</corr></choice>ḷ tevatāṉamāy varukiṉṟa nilam Aḷantapaṭi nilam Aiñcaraiyē Irumā-v-arai Araikkāṇi-k kīḻ mukkālē mukkāṇi Araikkāṇi muntirikai-k kīḻ nāṉku māvilum 
+			</p>
+		</div>
+
+<div type="textpart" n="E">
+	
+<p>
+	<lb n="1"/>Ūrirukkaiyuṅ kuḷamuñ cuṭukāṭum pāṇṭavāykkarai-k kulaiyum āka Iṟai-y-ili nilam mummā-v-arai Araikkāṇi-k kīḻ mukkā
+	<lb n="2" break="no"/>lē mūṉṟu mā mukkāṇi-k kīḻ mukkālē Orumā nīkki Iṟai kaṭṭiṉa nilam Aiñcē Eṭṭu mā mukkāṇi Araikkāṇi muntirikai-k 
+	<lb n="3"/>kīḻ mukkālē y-iraṇṭu mā Araikkāṇi-k kīḻ Eṭṭu māviṉāl Iṟai kaṭṭiṉa kāṇikkaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭōkkum Āṭava
+	<lb n="4"/>llāṉ Eṉṉum marakkālāl Aḷakkakkaṭava nellu Aiññūṟṟu Orupattu eṇkalaṉē Irutūṇi Irunāḻi <g type="gomutraFinal">.</g> 
+	</p>
+	<p>
+		"/><gap reason="lost" quantity="11" unit="character"></gap> Innāṭṭu ārva
+		<lb n="5" break="no"/>la-k kūṟṟattu vaṭaviṟaiyāṉ paḷḷam Aḷantapaṭi nilam Irupattu nāle kāle Araikkāṇi-k kīḻ Oṉpatu mākkāṇi A
+		<lb n="6" break="no"/>raikkāṇi-k kīḻ Eṭṭu māvilum Ivvūr Ūrnattamuṅ kuḷaṅkaḷuñ cuṭukāṭum Ivvūr nilattai Ūṭaṟuttu-p puṟavūrkaḷu
+		<lb n="7" break="no"/>kku nīr pāyappoṉa vāykkālum Āka Iṟai-y-ili nilam Āṟu mākkāṇi Araikkāṇi-k kīḻ Āṟu mākkāṇi Araikkāṇi-k kīḻ 
+		<lb n="8" break="no"/>Eṭṭu mā nīkki nilam Irupattu mūṉṟe mukkālē mūṉṟu mā mukkāṇi-k kīḻ mūṉṟu māviṉāl Iṟai kaṭṭiṉa kāṇikkaṭaṉ <hi rend="grantha">rājake-</hi>
+		
+		<lb n="9" break="no"/><hi rend="grantha">sari</hi>  yoṭokkum Āṭavallāṉ eṉṉum ma<unclear>ra</unclear>kkālāl Aḷakkakkaṭava nellu iraṇṭāyirattu muṉṉūṟṟuttoṇ
+</p>
+</div>
+
+<div type="textpart" n="F">
+<p>
+	ṇūṟṟu mukkalaṉe irutūṇikkuṟuṇi aiññāḻi <g type="gomutraFinal">.</g> <gap reason="lost" quantity="12" unit="character"></gap> innāṭṭu naka- ram tirutteṅkūr aḷantapaṭi nilam muppattu nāle kāle mukkāṇi muntirikaikkīḻ mukkālē orumā mukkāṇi muntiri-
+kaikkīḻ iraṇṭu māvilum ivvūr ūrnattamuṅkuḷaṅkaḷum pulattil kuḷaṅkaḷum tīṇṭāccheriyum paṟaiccheriyuñcuṭukāṭum āka iṟaiyili nilam nāṉkaraiye mukkāṇi araikkāṇikkīḻ mukkālē arai mā araikkāṇi muntirikaikkīḻ nāṉku mā nīkki nilam irupattoṉpataraiye nāṉku mā mukkāṇi araikkāṇi muntirikaikkīḻ orumā muntirikaikkīḻ mukkālē mūṉṟu māviṉāl iṟai kaṭṭiṉa poṉ irunūṟṟuttoṇṇūṟṟu eḻukaḻañcey nālu mañcāṭiyum mūṉṟu mā mukkāṇi <g type="gomutraFinal">.</g> <gap reason="lost" quantity="13" unit="character"></gap> vaṭaka- ṭuvāyāṉa <hi rend="grantha">kṣatriyaśikhā</hi>  maṇivaḷa-
+nāṭṭuttirunaṟaiyūrnāṭṭu arakkaṉkuṭi aḷantapaṭi nilam eḻe āṟu mākkāṇi araikkāṇikkīḻ <unclear>k</unclear>āṇi muntirikaikkīḻ eṭṭu mā mukkāṇikkīḻ mukkālē orumāvilum ivvūr ūr-
+nattamuṅkuḷaṅkaḷālum iṟaiyili nilam eṭṭu mākkāṇikkīḻ oṉpatu mā nīkki nilam āṟe muk<unclear>kā</unclear>le mūṉṟu mā muntirikaikkīḻ araiye mā kāṇi muntirikaikkīḻ eṭṭu mā mukkāṇikkīḻ mukkālē orumāviṉāl iṟai kaṭṭiṉa kāṇikkaṭaṉ <hi rend="grantha">rājake- sari</hi>  Yoṭo<unclear>kku</unclear>m Āṭavallāṉ eṉṉum marakkālāl Aḷakkakkaṭava nellu aṟunūṟṟu aiympattu aṟukalaṉe eḻukuṟuṇi muṉṉāḻi <g type="gomutraFinal">.</g> <gap reason="lost" quantity="14" unit="character"></gap> innāṭṭuppiṭāraceri aḷantapaṭi nilam <unclear>ai</unclear>ñcaraiye iraṇṭu mā mukkāṇi muntirikaikkīḻ a- raiye muntirikaikkīḻ araiye iraṇṭu māvilum ivvūr ūrnattamuṅkuḷaṅkaḷum āka iṟaiyili nilam nāṉku mākkā<unclear>ṇi ar</unclear>aikkāṇi muntirikaikkīḻ mā kāṇi araikkāṇikkīḻ eṭṭu mā nīkki nilam aiñce
+</p>
+</div>
+
+<div type="textpart" n="G">
+	<p>
+eṭṭu marakkāṇi araikkāṇikkīḻ eṇmāvarai araikkāṇi muntirikaikkīḻ nāṉku māviṉāl iṟai ka-
+ṭṭiṉa kāṇikkaṭaṉ <hi rend="grantha">rājakesari</hi>  Yoṭokkum Āṭavallāṉ eṉṉum ma<unclear>ra</unclear>kkā- lāl aḷakkakka-ṭava nellu aiññū<unclear>ṟ</unclear>ṟu muppattaiṅkalane irutūṇippatakku nāṉāḻi <g type="gomutraFinal">.</g> <gap reason="lost" quantity="15" unit="character"></gap> innāṭṭu veḷānāṭṭu
+maṇaṟkālappaḷḷiyuntiṟappāṉ <hi rend="grantha">mahādevar de</hi>  vatāṉaṅkaḷum tiruvaṭikaḷ <hi rend="grantha">deva-</hi> tāṉaṅkaḷum
+ivvūroṭum eṟiṉa peṇpaḷḷiyum āka aḷantapaṭi nilam aiympattoṉṟe mukkā-
+le orumākkāṇi muntarikai kkīḻ mukkālē mummāvaraiyar<unclear>ai</unclear>kk<unclear>ā</unclear>ṇikkīḻ arai-
+lum ūrnattaṅkaḷuṅkuḷaṅkaḷum piṭāri koyilum peruvaḻi<unclear>yu</unclear>m āka iṟai- yili nīṅkuni-
+		lam oṉṟe mukk<unclear>ā</unclear>le iraṇṭu mākkāṇi muntirikaikkīḻ araiye iraṇṭu mā- kkāṇikkīḻ mukkāl<unclear>e o</unclear>rumā nīkki nilam nāṟpattonpate mukkālē nāṉku māvi-
+	</p>
+</div>
+		
+		<div type="textpart" n="H">
+			<p>
+				ṉ kīḻ āṟu mākkāṇi muntirikaikkīḻ araiye nāṉku māviṉāl iṟai kaṭṭiṉa kāṇikkaṭaṉ <hi rend="grantha">rājakesari</hi>  Yoṭokkum Āṭavallāṉ eṉṉum marak- kālāl aḷakkakkaṭava n<supplied reason="lost">ellu</supplied> • •
 			</p>
 		</div>
 	</div>
+				
+
 	
 <!--<div type="apparatus">
 				
@@ -222,34 +284,33 @@
 	
 <!--</div>-->
     	
-<div type="translation" source="bib:Hultzsch1899_01">
+<!--<div type="translation" source="bib:Hultzsch1899_01">
 	
 	
 	
 	
 		
-</div>
-	
-<!--<div type="commentary">
-				
 </div>-->
-			
-<div type="bibliography">
+	
+		<div type="bibliography">
 				
-	<p>Reported and eirupadited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>, with English translation (SII 2.4).</p>
-	<p>This edition by Renato Dávalos and Vigneshwaran Muralidaran (2025), based on <bibl><ptr target="bib:Hultzsch1895_01"/></bibl>.</p>	
+	<p>First reported and edited <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.4).</p>
+	<p>This edition by Renato Dávalos and Vigneshwaran Muralidaran (2025) based on <bibl><ptr target="bib:Hultzsch1895_01"/></bibl>.</p>
+	
 	
 	<listBibl type="primary">
 		
-		<bibl n="SII ">
+		<bibl n="SII">
 			<ptr target="bib:Hultzsch1895_01"/>
-			<citedRange unit="page">9-11</citedRange>
-			<citedRange unit="item">6</citedRange>
+			<citedRange unit="page">142-155</citedRange>
+			<citedRange unit="item">4</citedRange>
 		</bibl>
 		
 	</listBibl>
-	
-</div>
+			
+			
+			
+		</div>
 </body>
-</text>
+	</text>
 </TEI>
