@@ -82,54 +82,71 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 				
-    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215"> 
-        <lb n="1"/>svasti śrī
-    </ab>		
-    <p>
-    </p>	
+    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+    <lb n="1"/>svasti śrī
+</ab>
+	<p>
+		pukaḻ cūḻnta puṇari Akaḻ cū<unclear>ḻ</unclear>nta pu<supplied reason="omitted">vi</supplied>yil poṉ-nemi Aḷavum taṉ-nemi naṭappa viḷaṅku jaya-makaḷai y-iḷaṅko-p-paruvattu-c cakkara-koṭṭattu vikkirama-t toḻilāl putu-maṇam puṇarntu matuvarai y-iṭṭam vayirā-karattu vāri Ayi<supplied reason="omitted">r</supplied> muṉai-k kontaḷavaraicar tan-taḷam iriya vāḷ-uṟai kaḻittu-t toḷ-vali kāṭṭiya po
 		
+		<lb n="2" break="no"/>r-p-pari naṭātti kirttiyai niṟutti vaṭa-ticai vākai cūṭi-t ten-ticai-t temaru kamala-p pū-makaḷ potumaiyum ponni-y-āṭaiyum naṉnila-p-pāvaiyum taṉimaiyum tavira punitaṟ tiru-makuṭam Urimaiyiṟ cūṭi-t taṉ-ṉaṭi y-iraṇṭum taṭa-muṭi-y-āka-t tonnila ventar cūṭa munṉai manu-v-āṟu peruka-k kali-y-āṟu vaṟu
+		
+		<lb n="3" break="no"/>ppa-c ceṅkol ticai toṟuñ cella veṇkuṭai Iru-nila viḷākamum veṅkaṇum tanātu tiru-niḻal veṇṇalā-t tikaḻ Oru tani-meruviṟ puli viḷaiyāṭa vār kaṭaṟṟi vāntarattu pūpālar tiṟaiviṭutanta kalañcorikaḷirum muṟai niṟpa viḷaṅkiya tennavan karu-n-talai paru-n-talai-t-tiṭa-t tan poṉ
+		
+		<lb n="4" break="no"/>nakar-p puṟatt' iṭai-k kiṭappa I-n-nāḷ piṟkula-p piṟai pol niṟ-piḻai Ennuñ coll' etir koṭiṟṟ' allatu tan kai-vikk' etir koṭā vikkalan kallatar naṅkili tuṭaṅki maṇalūr n<choice><sic>a</sic><corr>ā</corr></choice>ṭu-v-eṉa tuṅkapattirai y-aḷav' uṟṟu veṅkaṇum paṭṭa veṅkaḷiṟum viṭṭa tan mānamum kūṟiṉa v<choice><sic>i</sic><corr>ī</corr></choice>ramum kiṭappa Ēṟiṉa malaikaḷum mu
+		
+		<lb n="5" break="no"/>tuku neḷippa Iḻinta natikaḷum <seg rend="check">cuḻanṟuṭaintoṭa</seg> viḻun<supplied reason="omitted">ta</supplied> kaṭalkaḷum talaivirittalamara kuṭa-ticai-t tan-nāḷ ukantu tānum tāṉaiyum pannāḷ iṭṭa<unclear>mum</unclear> pala-pala mutukum paḻi y-ukantu kuṭutta pukaḻiṉ celviyum vāḷeri <choice><orig>r</orig><reg>ṟ</reg></choice>oṇkaṇ maṭaṉtaiyar iṭṭamum miḷātu kuṭutta veṅkari niraiyum kaṅka maṇṭalamum pa<unclear>ra</unclear>ṇi Iraṇṭum Oru-vi
+		
+		<lb n="6" break="no"/>cai-k kaikkoṇṭīṇṭi-p pukaḻoṭum pāṇṭi maṇṭaḷaṅ koḷḷa-t tiruvuḷḷattaṭaittu veḷḷavaru paṟittaraṅkamum poruparittalaṅkaḷum tantiravāriyum Uṭaittāy vantu vaṭakaṭal teṉ kaṭal pāyvatu pola-t tan peruñceṉaiyai <unclear>Evi-p</unclear> pañcavarai-y varum poruta porkaḷattañci veru neḷi<choice><orig>ta</orig><reg>ṭa</reg></choice>n toṭi Araṇe
+	</p>
 </div>
+	
+	<div type="apparatus">
+		<listApp>
+		<app loc="1">
+            <lem>por-p-pari</lem>
+            <rdg source="bib:Narasimhaswamy1982_01"/>
+            <note>Probably read <foreign>pōr-p-parai</foreign>.</note>
+        </app>
+	</listApp>
+</div>
+	
+	<div type="translation" resp="part:doop">
+		
+		<p n="1">
+			Prosperity! Fortune!		
+		</p>
+	</div>
+	
+	<!--<div type="commentary">		
+		
+		</div>-->
+	
+	<div type="bibliography">
+		
+		<p>Reported in <bibl><ptr target="bib:ARIE1936-1937"/></bibl> (ARIE/1936-1937/B/1936-1937/31).</p>
+		<p>Edited in <bibl><ptr target="bib:Narasimhaswamy1982_01"/></bibl> (SII 24.53).</p>
+		<p>This digital edition by Dorotea Operato, based on <bibl><ptr target="bib:Narasimhaswamy1982_01"/></bibl>.</p>
+		
+		<listBibl type="primary">
 			
-<div type="translation" resp="part:doop">
-								
-    <p n="1">
-        Prosperity! Fortune!		
-    </p>
-    
-   
-    
-</div>
-	
-<!--<div type="commentary">		
-	
-</div>-->
-    	
-<div type="bibliography">
-	
-    <p>Reported in <bibl><ptr target="bib:ARIE1936-1937"/></bibl> (ARIE/1936-1937/B/1936-1937/31).</p>
-    <p>Edited in <bibl><ptr target="bib:Narasimhaswamy1982_01"/></bibl> (SII 24.53).</p>
-    <p>This digital edition by Dorotea Operato, based on <bibl><ptr target="bib:Narasimhaswamy1982_01"/></bibl>.</p>
-    
-    <listBibl type="primary">
-        
-        <bibl n="SII">
-            <ptr target="bib:SubrahmanyaAiyer1932_01"/>
-            <citedRange unit="page">53-55</citedRange>
-            <citedRange unit="item">53</citedRange>
-        </bibl>
-    </listBibl>
-    
-    <listBibl type="secondary">
-        
-        <bibl>
-            <ptr target="bib:ARIE1936-1937"/>
-            <citedRange unit="page">11</citedRange>
-            <citedRange unit="appendix">B/1936-1937</citedRange>
-            <citedRange unit="item">31</citedRange>
-        </bibl>
-    </listBibl>
-    
-</div>
-        </body>
-    </text>
+			<bibl n="SII">
+				<ptr target="bib:SubrahmanyaAiyer1932_01"/>
+				<citedRange unit="page">53-55</citedRange>
+				<citedRange unit="item">53</citedRange>
+			</bibl>
+		</listBibl>
+		
+		<listBibl type="secondary">
+			
+			<bibl>
+				<ptr target="bib:ARIE1936-1937"/>
+				<citedRange unit="page">11</citedRange>
+				<citedRange unit="appendix">B/1936-1937</citedRange>
+				<citedRange unit="item">31</citedRange>
+			</bibl>
+		</listBibl>
+		
+	</div>
+</body>
+</text>
 </TEI>
