@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			    <title>Śrīraṅgam, Raṅganāthasvāmin temple, time of Rājakēsarivarman alias Chakravartin Kulōttuṅga-Chōḷadēva, 11th regnal year</title>
+			    <title>Śrīraṅgam, Raṅganāthasvāmin temple, time of Rājakesarivarman alias Cakravartin Kulōttuṅga-Chōḷadēva, year 11</title>
 				<respStmt>
 				    <resp>author of digital edition</resp>
 					<persName ref="part:doop">
@@ -72,7 +72,7 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:doop" when="2024-11-06">Creation of the file on the
+			<change who="part:doop" when="2025-02-03">Creation of the file on the
 				repository</change>
 		</revisionDesc>
 	</teiHeader>
@@ -83,75 +83,130 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 				
     <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-    <lb n="1"/>svasti śrī
-</ab>
-	<p>
-		pukaḻ cūḻnta puṇari Akaḻ cū<unclear>ḻ</unclear>nta pu<supplied reason="omitted">vi</supplied>yil poṉ-nemi Aḷavum taṉ-nemi naṭappa viḷaṅku jaya-makaḷai y-iḷaṅko-p-paruvattu-c cakkara-koṭṭattu vikkirama-t toḻilāl putu-maṇam puṇarntu matuvarai y-iṭṭam vayirā-karattu vāri Ayi<supplied reason="omitted">r</supplied> muṉai-k kontaḷavaraicar tan-taḷam iriya vāḷ-uṟai kaḻittu-t toḷ-vali kāṭṭiya po
+        <lb n="1"/>svasti śrī
+    </ab>
+    <lg>
+        <l n="1">pukaḻ cūḻnta puṇari Akaḻ cū<unclear>ḻ</unclear>nta pu<supplied reason="omitted">vi</supplied>yil</l>
+        <l n="2">poṉ-nemi Aḷavum taṉ-nemi naṭappa</l>
+        <l n="3">viḷaṅku jaya-makaḷai y-iḷaṅko-p-paruvattu-c cakkara-koṭṭattu vikkirama-t toḻilāl putu-maṇam puṇarntu matuvarai y-iṭṭam vayirā-karattu vāri Ayi<supplied reason="omitted">r</supplied> muṉai-k kontaḷavaraicar tan-taḷam iriya vāḷ-uṟai kaḻittu-t toḷ-vali kāṭṭiya po
+            
+            <lb n="2" break="no"/>r-p-pari naṭātti kirttiyai niṟutti vaṭa-ticai vākai cūṭi-t ten-ticai-t temaru kamala-p pū-makaḷ potumaiyum ponni-y-āṭaiyum naṉnila-p-pāvaiyum taṉimaiyum tavira punitaṟ tiru-makuṭam Urimaiyiṟ cūṭi-t taṉ-ṉaṭi y-iraṇṭum taṭa-muṭi-y-āka-t tonnila ventar cūṭa munṉai manu-v-āṟu peruka-k kali-y-āṟu vaṟu
+            
+            <lb n="3" break="no"/>ppa-c ceṅkol ticai toṟuñ cella veṇkuṭai Iru-nila viḷākamum veṅkaṇum tanātu tiru-niḻal veṇṇalā-t tikaḻ Oru tani-meruviṟ puli viḷaiyāṭa vār kaṭaṟṟi vāntarattu pūpālar tiṟaiviṭutanta kalañcorikaḷirum muṟai niṟpa viḷaṅkiya tennavan karu-n-talai paru-n-talai-t-tiṭa-t tan poṉ
+            
+            <lb n="4" break="no"/>nakar-p puṟatt' iṭai-k kiṭappa I-n-nāḷ piṟkula-p piṟai pol niṟ-piḻai Ennuñ coll' etir koṭiṟṟ' allatu tan kai-vikk' etir koṭā vikkalan kallatar naṅkili tuṭaṅki maṇalūr n<choice><sic>a</sic><corr>ā</corr></choice>ṭu-v-eṉa tuṅkapattirai y-aḷav' uṟṟu veṅkaṇum paṭṭa veṅkaḷiṟum viṭṭa tan mānamum kūṟiṉa v<choice><sic>i</sic><corr>ī</corr></choice>ramum kiṭappa Ēṟiṉa malaikaḷum mu
+            
+            <lb n="5" break="no"/>tuku neḷippa Iḻinta natikaḷum <seg rend="check">cuḻanṟuṭaintoṭa</seg> viḻun<supplied reason="omitted">ta</supplied> kaṭalkaḷum talaivirittalamara kuṭa-ticai-t tan-nāḷ ukantu tānum tāṉaiyum pannāḷ iṭṭa<unclear>mum</unclear> pala-pala mutukum paḻi y-ukantu kuṭutta pukaḻiṉ celviyum vāḷeri <choice><orig>r</orig><reg>ṟ</reg></choice>oṇkaṇ maṭaṉtaiyar iṭṭamum miḷātu kuṭutta veṅkari niraiyum kaṅka maṇṭalamum pa<unclear>ra</unclear>ṇi Iraṇṭum Oru-vi
+            
+            <lb n="6" break="no"/>cai-k kaikkoṇṭīṇṭi-p pukaḻoṭum pāṇṭi maṇṭaḷaṅ koḷḷa-t tiruvuḷḷattaṭaittu veḷḷavaru paṟittaraṅkamum poruparittalaṅkaḷum tantiravāriyum Uṭaittāy vantu vaṭakaṭal teṉ kaṭal pāyvatu pola-t tan peruñceṉaiyai <unclear>Evi-p</unclear> pañcavarai-y varum poruta porkaḷattañci veru neḷi<choice><orig>ta</orig><reg>ṭa</reg></choice>n toṭi Araṇe
+            
+            <lb n="7" break="no"/><unclear>ṉa-p-pukka</unclear> kāṭaṟa-t tuṭaittu nāṭṭi-p paṭuttu maṟṟavar tammai vanacarar tiriyum koṟṟa veñcura meṟṟi koṟṟa vi<hi rend="grantha"><choice><orig>jjaiya</orig><reg>jaya</reg></choice>-sta</hi>mpam ticai toṟum niṟutti muttin calāpamum mu-t-tamiḻ-p po<unclear>ti</unclear>yilum mattaveṅkaripaṭu mayya-c ceyyum kanniyum kai-k-koṇṭ' aruḷi-t tennāṭṭ’ ellai kāṭṭiya kaṭal-malai nāṭ
+            
+            <lb n="8" break="no"/><gap reason="lost" quantity="2" unit="character"/> tani v<choice><sic>i</sic><corr>ī</corr></choice>cum peṟa mā-v-eṟiya tan varutani-t talai-varai-k kuṟukalar kulaiya-k koṭṭāṟuṭ-paṭa neṟi-toṟum nilaikaḷ iṭṭ’ aruḷi tiṟai koḷ vīra-<hi rend="grantha">si<choice><orig>ṁ</orig><reg>ṃ</reg></choice>hāḷa</hi>nam tiriya viṭṭ’ aruḷi poṅkoḷiyāramum tiru-p-puya-t-talaṅkaḷum pola v<choice><sic>i</sic><corr>ī</corr></choice>ramum tiyākamum viḷaṅka pār-micai mevalar vaṇaṅka vīra-<hi rend="grantha">siṁhāsa</hi>nattu viṟṟirun
+            
+            <lb n="9" break="no"/>t' aruḷiya</l>
+    </lg>
+        
+    <p>
+        kō-v-irāja-kēcari-pa<hi rend="grantha">ndya</hi>r-āna cakkara-va<choice><orig>t</orig><reg>r</reg></choice>tikaḷ <hi rend="grantha">śrī</hi>-kulottuṅka-coḻa-<hi rend="grantha">de</hi>vaṟku y-āṇṭu
+        <num value="11"><g type="numeral">10</g> 1</num>-Āvatu <g type="gomutraFinal">.</g>
+    </p>
+    <p>
+        nitta-vinōta-vaḷa-nāṭṭu kāntāra-nāṭṭu <hi rend="grantha">brahma-de</hi>yam <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">ja</hi>-ma<hi rend="grantha">hentra-c-catur-vedi</hi>-maṅ<unclear>ka</unclear>lattu peruṅ-kuṟi-p-peru-makkaḷōm I-vv-āṭṭai kaṟkaṭaka nāyaṟṟu <hi rend="grantha">Apara-pakṣa</hi>ttu pa<hi rend="grantha">ñca-deśi</hi>yum nāyiṟṟu-k kiḻamaiyum Āyi<choice><orig>l</orig><reg>li</reg></choice>yamum peṟṟa Inṟu
 		
-		<lb n="2" break="no"/>r-p-pari naṭātti kirttiyai niṟutti vaṭa-ticai vākai cūṭi-t ten-ticai-t temaru kamala-p pū-makaḷ potumaiyum ponni-y-āṭaiyum naṉnila-p-pāvaiyum taṉimaiyum tavira punitaṟ tiru-makuṭam Urimaiyiṟ cūṭi-t taṉ-ṉaṭi y-iraṇṭum taṭa-muṭi-y-āka-t tonnila ventar cūṭa munṉai manu-v-āṟu peruka-k kali-y-āṟu vaṟu
-		
-		<lb n="3" break="no"/>ppa-c ceṅkol ticai toṟuñ cella veṇkuṭai Iru-nila viḷākamum veṅkaṇum tanātu tiru-niḻal veṇṇalā-t tikaḻ Oru tani-meruviṟ puli viḷaiyāṭa vār kaṭaṟṟi vāntarattu pūpālar tiṟaiviṭutanta kalañcorikaḷirum muṟai niṟpa viḷaṅkiya tennavan karu-n-talai paru-n-talai-t-tiṭa-t tan poṉ
-		
-		<lb n="4" break="no"/>nakar-p puṟatt' iṭai-k kiṭappa I-n-nāḷ piṟkula-p piṟai pol niṟ-piḻai Ennuñ coll' etir koṭiṟṟ' allatu tan kai-vikk' etir koṭā vikkalan kallatar naṅkili tuṭaṅki maṇalūr n<choice><sic>a</sic><corr>ā</corr></choice>ṭu-v-eṉa tuṅkapattirai y-aḷav' uṟṟu veṅkaṇum paṭṭa veṅkaḷiṟum viṭṭa tan mānamum kūṟiṉa v<choice><sic>i</sic><corr>ī</corr></choice>ramum kiṭappa Ēṟiṉa malaikaḷum mu
-		
-		<lb n="5" break="no"/>tuku neḷippa Iḻinta natikaḷum <seg rend="check">cuḻanṟuṭaintoṭa</seg> viḻun<supplied reason="omitted">ta</supplied> kaṭalkaḷum talaivirittalamara kuṭa-ticai-t tan-nāḷ ukantu tānum tāṉaiyum pannāḷ iṭṭa<unclear>mum</unclear> pala-pala mutukum paḻi y-ukantu kuṭutta pukaḻiṉ celviyum vāḷeri <choice><orig>r</orig><reg>ṟ</reg></choice>oṇkaṇ maṭaṉtaiyar iṭṭamum miḷātu kuṭutta veṅkari niraiyum kaṅka maṇṭalamum pa<unclear>ra</unclear>ṇi Iraṇṭum Oru-vi
-		
-		<lb n="6" break="no"/>cai-k kaikkoṇṭīṇṭi-p pukaḻoṭum pāṇṭi maṇṭaḷaṅ koḷḷa-t tiruvuḷḷattaṭaittu veḷḷavaru paṟittaraṅkamum poruparittalaṅkaḷum tantiravāriyum Uṭaittāy vantu vaṭakaṭal teṉ kaṭal pāyvatu pola-t tan peruñceṉaiyai <unclear>Evi-p</unclear> pañcavarai-y varum poruta porkaḷattañci veru neḷi<choice><orig>ta</orig><reg>ṭa</reg></choice>n toṭi Araṇe
-		
-		<lb n="7" break="no"/><unclear>ṉa-p-pukka</unclear> kāṭaṟa-t tuṭaittu nāṭṭi-p paṭuttu maṟṟavar tammai vanacarar tiriyum koṟṟa veñcura meṟṟi koṟṟa vi<hi rend="grantha"><choice><orig>jjaiya</orig><reg>jaya</reg></choice>-sta</hi>mpam ticai toṟum niṟutti muttin calāpamum mu-t-tamiḻ-p po<unclear>ti</unclear>yilum mattaveṅkaripaṭu mayya-c ceyyum kanniyum kai-k-koṇṭ' aruḷi-t tennāṭṭ’ ellai kāṭṭiya kaṭal-malai nāṭ
-		
-		<lb n="8" break="no"/><gap reason="lost" quantity="2" unit="character"/> tani v<choice><sic>i</sic><corr>ī</corr></choice>cum peṟa mā-v-eṟiya tan varutani-t talai-varai-k kuṟukalar kulaiya-k koṭṭāṟuṭ-paṭa neṟi-toṟum nilaikaḷ iṭṭ’ aruḷi tiṟai koḷ vīra-<hi rend="grantha">si<choice><orig>ṁ</orig><reg>ṃ</reg></choice>hāḷa</hi>nam tiriya viṭṭ’ aruḷi poṅkoḷiyāramum tiru-p-puya-t-talaṅkaḷum pola v<choice><sic>i</sic><corr>ī</corr></choice>ramum tiyākamum viḷaṅka pār-micai mevalar vaṇaṅka vīra-<hi rend="grantha">siṁhāsa</hi>nattu viṟṟirun
-		
-		<lb n="9" break="no"/>t' aruḷiya kovi-rāja-kecari-pa<hi rend="grantha">ndya</hi>r-āna cakkara-va<choice><orig>t</orig><reg>r</reg></choice>tikaḷ <hi rend="grantha">śrī</hi>-kulottuṅka-coḻa-devaṟku y-āṇṭu
-		<num value="11"><g type="numeral">10</g> 1</num> Āvatu <g type="gomutraFinal">.</g> nitta-vinota vaḷa-nāṭṭu kāntāra nāṭṭu <hi rend="grantha">brahma-de</hi>yam <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">ja</hi>-ma<hi rend="grantha">hentra-c-catur-vedi</hi>-maṅ<unclear>ka</unclear>lattu peruṅ-kuṟi-p-peru-makkaḷom I-vv-āṭṭai kaṟkaṭaka nāyaṟṟu <hi rend="grantha">Apara-pakṣa</hi>ttu pa<hi rend="grantha">ñca-deśi</hi>yum nāyiṟṟu-k kiḻamaiyum Āyi<choice><orig>l</orig><reg>li</reg></choice>yamum peṟṟa Inṟu
-		
-		<lb n="10" break="no"/><gap reason="lost" quantity="4" unit="character"/> puḷi-v-illi-varai <gap reason="lost" quantity="3" unit="character"/> nallāṉ paṭṭaṅ kuḷa-k-karaiyile <hi rend="grantha">dhanmi</hi> ceytu peruṅ-kuṟi kūṭi y-iruntu <hi rend="grantha">vyavasthai</hi> paṇṇi nammūr tiru-mel-koyil āna śrī-mummuṭi-coḻa-viṇṇakar-āḻvār nilaṅkaḷ Iṟaiyili ceytu kuṭutta paric' āvatu I-t-tevar <hi rend="grantha">śrī</hi> paṇṭārattu y-āṇṭu <num value="2"><g type="numeral">2</g></num> āvatu Āni-t-tiṅkaḷ Iṭaṅkai valaṅkai y-āy Ūrum cu
-		
-		<lb n="11" break="no"/>ṭum Oṭukki tiru-muṟṟaṅkaḷum Aḻittu tiru-v-urukkaḷum <hi rend="grantha">śrī</hi> paṇṭāraṅkaḷum kaḷḷar eṭuttu-k koṇṭu poy Irunta Iṭattu kaḷḷarkku piḻaitta tiru-v-viyamu<supplied reason="omitted">m</supplied> <hi rend="grantha">srī</hi> paṇṭārattu Ira<hi rend="grantha">kṣi</hi>kka Uṇṇāmai-y-ālum Ūr irukka ci<unclear>lar Ūr</unclear> Eṟum iṭattukku <hi rend="grantha">sabhā</hi>vini-yokattukku <hi rend="grantha">dravyaṁ</hi> veṇṭutalālum tiru-muṟṟaṅkaḷ aḻivu coravum <hi rend="grantha">puna-pratiṣṭ</hi>ai paṇ
-		
-		<lb n="12" break="no"/>ṇavu matiḷ <unclear>kaṭṭavum</unclear> veṇṭutalālum I-t-tevar-k kanmikaḷ pakkal nāṅkaḷ koṇṭa pon kuṭiñai-k-kallāl Irājentira coḻan māṭaikku Arai māṟṟu-t tāḻum pon Aympatin kaḻañcum I-p-ponnukku palicai y-āka poliñca pon Irupat<unclear>t' ayṅ</unclear>-kaḻañcum Āka-p pon Eḻupat<unclear>t' a</unclear>yṅ-
-		
-		<lb n="13"/>kaḻañcum palicai polinta pon Irupattaiy-kaḻañcum Āka-p pon Eḻupatt' aiyṅ kaḻañcil y-āṇṭu m<choice><sic>u</sic><corr>ū</corr></choice>ṉṟ' āvatu tiru-muṟṟam Aḻivu coravum puna-<hi rend="grantha">pratiṣṭhai</hi> paṇṇavum kuṭutta pon Ayṅ kaḻañcu nikki-p pon Eḻupatin kaḻañcukkum cantirātitta-vaṟ Iṟaiyili ceytu kuṭutta nilaṅ-kaḷāvati <hi rend="grantha">trai-lo</hi>
-
-		<lb n="14" break="no"/>kkiya mā-tevi-vatikku kiḻakkum viknecuvara vāy-k-kālukku vaṭakkum mutaṟ-kaṇṇāṟṟu mutaṟ catirattu cūḻnta vilai nilam Ēḻu mākkāṇi-c cinnattil kiḻa-k-kaṭaiya nila mākāṇi-c cinnamum I-t-tevar ciy paṇṭārattu-p <surplus>pon kuṭuttu-p</surplus> pon kuṭuttu-k koṇṭatu kuṇṭur nilam kuḻi <gap reason="lost" quantity="3" unit="character"/> pakkal koṇṭa<surplus>tu</surplus> Iṅke Iraṇṭāñ catirattu-t tani nilam mu
-		
-		<lb n="15" break="no"/>ntirikaiyum Iṅke-y <hi rend="grantha">trai</hi>-lokkiya mā-tevi-vatikku kiḻakku mummuṭi-coḻa vāykkālukku vaṭakku Eḻāṅ-kaṇṇāṟṟu mutal catirattu-k kiḻ-k-kaṭaiya nilam m<choice><sic>u</sic><corr>ū</corr></choice>nṟu māvil Itan meṟku nilam vempūr pocan viṉaiya-dāma-paṭṭan pakkal tevar cipaṇṭārattu-p pon kuṭuttu-k koṇṭa nilam Oru mā
-		
-		<lb n="16"/><unclear>muntirikaiyum</unclear> Inke Eṭṭāṅ-kaṇṇāṟṟu Iraṇṭāñ-catirattu meṟ-kaṭaiya nilam Otumā-varai-c cinnattil Itin kiḻakku nilam mukkāṇi-c cinnattil vaṭa-k-kaṭaiya natta-nilam kāṇi muntirikai-k kiḻa-k kālin meṟ-kaṭaiya nilam Arai-k-kāṇi nikki meṟ-paṭiyāṉ pakkal-<surplus>k</surplus> koṇṭa nilam muntirikaiyum loka-mā-tevi-vatikku meṟku mum
-		
-		<lb n="17" break="no"/>muṭi coḻa vāy-k-kālukku vaṭakkum Añcāṅ-kaṇṇāṟṟu mutaṟ catirattu vaṭa-meṟ-kaṭaiya nilam kāṇi muntirikai-k kiḻaraiyil kiḻa-k-kaṭaiya nilam <supplied reason="undefined">m</supplied> Arai-k-kāṇi muntirikaiyum Āka nilam m<choice><sic>u</sic><corr>ū</corr></choice>nṟu-mā muntirikaiyum I-vv-āṇṭu mutal ca<hi rend="grantha">ntrā</hi>titta-vaṟ tevar taṅkaḷ pannirant’ āntarattile Iṟai Iṟukka nāṅkaḷ I-vv-āḻvār ciy-paṇṭārat
-		
-		<lb n="18" break="no"/>tu nāṅkaḷ koṇṭa poṉnukkum palicaikkum cilav' āka I-n-nilattāl vanta peru-vari<surplus>y</surplus>yum ma<unclear>ñ</unclear>cikkamum cila-variyum veḷḷān veṭṭiyum makamaiyum paṇṭai veṭṭiyum Antarāyamum kulai-kurampum E-c-cāṟum cūṟṟ' ariciyum Ūrāṭṭu variyum Uḷḷiṭṭa tiru-vācalil ponta <unclear>kiṭamai</unclear>yum maṟṟum E
-		
-		<lb n="19" break="no"/> p-peṟpaṭṭat’ ellām nāṅkaley Iṟukka-k kaṭavom āka I-n-nilaṅkaḷ ca<hi rend="grantha">ntrā</hi>titta-vaṟ Iṟaiyiliye Anupavikka peṟuvār ākavum I-<hi rend="grantha">pra</hi>māṇa-p paṭiye tevar-kanmikaḷ kallilum cempilum ceṭṭu-vittu-k koḷḷa-p peṟuvārkaḷ ākavum I-p-paṭikku I-n-nilaṅkaḷ cantirātitta-vaṟ Iṟaiyil ceytu kuṭu<choice><orig>t</orig><reg>tt</reg></choice>om peruṅ-kuṟi peru-makkalom
-		
-		<lb n="20"/>I-p-paricu <hi rend="grantha">sabhai</hi> y-uḷi<supplied reason="omitted">ru</supplied>ntu karai-p-ponnu paṇittār <hi rend="grantha">śrī rājentra</hi>-coḻa-c-ceri kalikkili-maṅkalattu kaṭampan tiru-virām-icuvara-paṭṭan paṇiyālum rā<hi rend="grantha">ja</hi>-ma<hi rend="grantha">hentra</hi>-c-ceri kirāmpi-c-ceṭṭu U<unclear>ru</unclear><hi rend="grantha"><unclear>dra</unclear></hi>-nārāyaṇa-<hi rend="grantha">bha</hi>ṭṭan paṇiyālum mummuṭi-coḻa-c-ceri nampūr-k kāṭṭukkai vira-nāta-pa<hi rend="grantha">ndya-bha</hi>ṭṭar paṇiyālum vikkirama-ciṅka-c-ceri kuṇṭūr ca<hi rend="grantha">ntra-kṛṣṇa</hi>ṉ paṭṭaṉ paṇiyālum <hi rend="grantha">tri-bhu</hi>vana-mā-
-		
-		<lb n="21" break="no"/>tevi-c-ceri Irāyūr kecuva paṭṭar paṇiyālum Irā<hi rend="grantha">jādhirāja</hi>-c-ceri Irāyūr-t tiru-varaṅka-teva-<hi rend="grantha">daśa-pra</hi>ya-paṭṭan paṇiyālum Ivai ceyya tāmarai-k kaṇṇaṉ tiru-vāy-k-kula muṭaiyānāna <hi rend="grantha">śrī</hi>-rāma-<hi rend="grantha">pri</hi>yan eḻuttu <g type="gomutraFinal">.</g> I-p-paṭikku kuṇṭur keḷa<hi rend="grantha">śi</hi>ka<hi rend="grantha">bha</hi>ṭṭanen <g type="gomutraFinal">.</g> I-p-paṭikku kuṇṭur rāmi<hi rend="grantha"><unclear>śva</unclear></hi><unclear>ra</unclear>nen <g type="gomutraFinal">.</g> I-p-paṭikku kuṇṭur keraṉa-paṭṭanen I-p-paṭikku vaṅki-p-puṟa
-		
-		<lb n="22" break="no"/>ttu coṭṭa <hi rend="grantha">bhoja</hi>n tiru-veṇkāṭu pa<hi rend="grantha">ṭṭa</hi>n eḻuttu <g type="ddanda">.</g> I<hi rend="grantha">tṭham· vigutam·</hi> keḷa<hi rend="grantha">śi</hi>kā<hi rend="grantha">nvayajā</hi>tena <hi rend="grantha">bhavasvāmisūnu</hi>nā<surplus>ya</surplus> <hi rend="grantha">caṁdrakumare</hi><supplied reason="omitted">ṇa</supplied> <g type="gomutraFinal">.</g> I-p-paṭikku <hi rend="grantha">hā</hi>rita ti<hi rend="grantha">lośana</hi> paṭṭanen <g type="gomutraFinal">.</g> <hi rend="grantha">Itṭham· videntavotṭhana śrīkraṣṇanādam·</hi> <g type="gomutraFinal">.</g> I-p-patikku piṟāntūr tiru-nāṭuṭaiyānen <g type="gomutraFinal">.</g> <gap reason="lost" quantity="5" unit="character"></gap>
-	
-		<lb n="23"/><hi rend="grantha">svāmi-pāda catur-veta</hi> paṭṭanen <g type="gomutraFinal">.</g> I-p-pati Aṟiven Uṟu<hi rend="grantha">pu</hi>ṭṭūr ke<hi rend="grantha">śa</hi>va <hi rend="grantha">nārā</hi>yaṇa paṭṭanen <g type="gomutraFinal">.</g> I-p-pati Aṟiven ceṭṭi <hi rend="grantha">bhojan</hi> pa<hi rend="grantha">ra-vāsu-de</hi>va paṭṭanen <g type="gomutraFinal">.</g> I-p-pati Aṟiven <hi rend="grantha"><unclear>sakasai</unclear></hi> <hi rend="grantha">somādityadaṣapriya</hi> paṭṭanen <g type="gomutraFinal">.</g> I-p-pati Aṟiven kāram<surplus>m·</surplus> piceṭṭu <hi rend="grantha"><unclear>drāgakai</unclear> śrī-kṛṣṇa-bha</hi>ṭṭan makan <hi rend="grantha">suriya-bha</hi>ṭṭanen <g type="gomutraFinal">.</g>
-		
-		<lb n="24"/><hi rend="grantha">timma</hi>yar vinaya-tā<hi rend="grantha">śarmmaṇātreya-gotra</hi> <g type="gomutraFinal">.</g> <hi rend="grantha">Itṭham· vigatam· bhara-dvāja gotreṇa kumāra</hi> paṭṭanen <g type="ddanda">.</g> <hi rend="grantha">Itṭham· vigatam· kuṇthanya gotreṇa vaina</hi> <gap reason="lost" unit="character" quantity="5"></gap> kurava-c-ceri vi<hi rend="grantha">pranāta-bha</hi>ṭṭa<hi rend="grantha">sya</hi> <g type="ddanda">.</g> I-p-patikku <hi rend="grantha">śrī-kraṣṇa-deśa-priya-bhaṭṭasya</hi> <g type="ddanda">.</g> I-p-patikku kurava-c-ceri <gap reason="lost" unit="character" quantity="4"></gap> <unclear>nanti</unclear> <hi rend="grantha">bha</hi>ṭṭanen <g type="gomutraFinal">.</g> I-p-patikku <hi rend="grantha">dveya-gom</hi>a-puṟattu-
-		
-		<lb n="25"/>cakara-pāṇi-<hi rend="grantha">c catur</hi>-vetipa<hi rend="grantha">ṭṭasya</hi> <g type="ddanda">.</g> I-p-pati Aṟiven <hi rend="grantha">bhara-dvāji viṣṇu-sarmma</hi>ṇena <g type="danda">.</g> I-p-pati Aṟiven <hi rend="grantha">bhara-dvāja gotreṇa tri</hi>-vikkira<surplus>ma</surplus> paṭṭanen <unclear>I-p-pati</unclear> Aṟiven ma<hi rend="grantha">dhusūde</hi>nanen <g type="ddanda">.</g> I-p-pati Aṟiven <hi rend="grantha">dāmodarabha</hi>ṭṭanen <g type="gomutraFinal">.</g> I-p-pati Aṟiven <hi rend="grantha">daśapriyabha</hi>ṭṭanen <g type="gomutraFinal">.</g> I-p-pati Aṟiven kura-vaicari
-		
-		<lb n="26"/><hi rend="grantha">bhārggavan lokṣama</hi>ṇenen <g type="ddanda">.</g> 		
-	</p>
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">svasti
-	</ab>
+        <lb n="10" break="no"/><gap reason="lost" quantity="4" unit="character"/> puḷi-v-illi-varai <gap reason="lost" quantity="3" unit="character"/> nallāṉ paṭṭaṅ kuḷa-k-karaiyile <hi rend="grantha">dhanmi</hi> ceytu peruṅ-kuṟi kūṭi y-iruntu <hi rend="grantha">vyavasthai</hi> paṇṇi nammūr tiru-mel-koyil āna śrī-mummuṭi-coḻa-viṇṇakar-āḻvār nilaṅkaḷ Iṟaiyili ceytu kuṭutta paric' āvatu
+    </p>
+    <p>
+        I-t-tevar <hi rend="grantha">śrī</hi>-paṇṭārattu y-āṇṭu <num value="2"><g type="numeral">2</g></num> āvatu Āni-t-tiṅkaḷ Iṭaṅkai valaṅkai y-āy Ūrum cu
+        
+        <lb n="11" break="no"/>ṭum Oṭukki tiru-muṟṟaṅkaḷum Aḻittu tiru-v-urukkaḷum <hi rend="grantha">śrī</hi> paṇṭāraṅkaḷum kaḷḷar eṭuttu-k koṇṭu poy Irunta Iṭattu kaḷḷarkku piḻaitta tiru-v-viyamu<supplied reason="omitted">m</supplied> <hi rend="grantha">srī</hi> paṇṭārattu Ira<hi rend="grantha">kṣi</hi>kka Uṇṇāmai-y-ālum Ūr irukka ci<unclear>lar Ūr</unclear> Eṟum iṭattukku <hi rend="grantha">sabhā</hi>vini-yokattukku <hi rend="grantha">dravyaṁ</hi> veṇṭutalālum tiru-muṟṟaṅkaḷ aḻivu coravum <hi rend="grantha">puna-pratiṣṭ</hi>ai paṇ
+        
+        <lb n="12" break="no"/>ṇavu matiḷ <unclear>kaṭṭavum</unclear> veṇṭutalālum I-t-tevar-k kanmikaḷ pakkal nāṅkaḷ koṇṭa pon kuṭiñai-k-kallāl Irājentira coḻan māṭaikku Arai māṟṟu-t tāḻum pon Aympatin kaḻañcum I-p-ponnukku palicai y-āka poliñca pon Irupat<unclear>t' ayṅ</unclear>-kaḻañcum Āka-p pon Eḻupat<unclear>t' a</unclear>yṅ-
+        
+        <lb n="13"/>kaḻañcum palicai polinta pon Irupattaiy-kaḻañcum Āka-p pon Eḻupatt' aiyṅ kaḻañcil y-āṇṭu m<choice><sic>u</sic><corr>ū</corr></choice>ṉṟ' āvatu tiru-muṟṟam Aḻivu coravum puna-<hi rend="grantha">pratiṣṭhai</hi> paṇṇavum kuṭutta pon Ayṅ kaḻañcu nikki-p pon Eḻupatin kaḻañcukkum cantirātitta-vaṟ Iṟaiyili ceytu kuṭutta nilaṅ-kaḷāvati <hi rend="grantha">trai-lo</hi>
+        
+        <lb n="14" break="no"/>kkiya mā-tēvi-vatikku kiḻakkum viknēcuvara-vāy-k-kālukku vaṭakkum mutaṟ-kaṇṇāṟṟu mutaṟ catirattu cūḻnta vilai nilam Ēḻu mākkāṇi-c cinnattil kiḻa-k-kaṭaiya nila mākāṇi-c cinnamum I-t-tēvar ciy-paṇṭārattu-p <surplus>pon kuṭuttu-p</surplus> pon kuṭuttu-k koṇṭatu kuṇṭur nilam kuḻi <gap reason="lost" quantity="3" unit="character"/> pakkal koṇṭa<surplus>tu</surplus> Iṅke Iraṇṭāñ catirattu-t tani nilam mu
+        
+        <lb n="15" break="no"/>ntirikaiyum
+    </p>
+    <p>        
+        Iṅke-y <hi rend="grantha">trai</hi>-lokkiya mā-tevi-vatikku kiḻakku mummuṭi-coḻa vāykkālukku vaṭakku Eḻāṅ-kaṇṇāṟṟu mutal catirattu-k kiḻ-k-kaṭaiya nilam m<choice><sic>u</sic><corr>ū</corr></choice>nṟu māvil Itan meṟku nilam vempūr pocan viṉaiya-dāma-paṭṭan pakkal tēvar ci-paṇṭārattu-p pon kuṭuttu-k koṇṭa nilam Oru mā
+        
+        <lb n="16"/><unclear>muntirikaiyum</unclear>
+        </p>
+    
+    <p>
+        Inkē Eṭṭāṅ-kaṇṇāṟṟu Iraṇṭāñ-catirattu meṟ-kaṭaiya nilam Otumā-varai-c cinnattil Itin kiḻakku nilam mukkāṇi-c cinnattil vaṭa-k-kaṭaiya natta-nilam kāṇi muntirikai-k kiḻa-k kālin meṟ-kaṭaiya nilam Arai-k-kāṇi nikki meṟ-paṭiyāṉ pakkal-<surplus>k</surplus> koṇṭa nilam muntirikaiyum loka-mā-tevi-vatikku meṟku mum
+        
+        <lb n="17" break="no"/>muṭi coḻa vāy-k-kālukku vaṭakkum Añcāṅ-kaṇṇāṟṟu mutaṟ catirattu vaṭa-meṟ-kaṭaiya nilam kāṇi muntirikai-k kiḻaraiyil kiḻa-k-kaṭaiya nilam <supplied reason="undefined">m</supplied> Arai-k-kāṇi muntirikaiyum Āka nilam m<choice><sic>u</sic><corr>ū</corr></choice>nṟu-mā muntirikaiyum I-vv-āṇṭu mutal ca<hi rend="grantha">ntrā</hi>titta-vaṟ tevar taṅkaḷ pannirant’ āntarattile Iṟai Iṟukka nāṅkaḷ I-vv-āḻvār ciy-paṇṭārat
+        
+        <lb n="18" break="no"/>tu nāṅkaḷ koṇṭa poṉnukkum palicaikkum cilav' āka
+        
+        I-n-nilattāl vanta peru-vari<surplus>y</surplus>yum ma<unclear>ñ</unclear>cikkamum cila-variyum veḷḷān veṭṭiyum makamaiyum paṇṭai veṭṭiyum Antarāyamum kulai-kurampum E-c-cāṟum cūṟṟ' ariciyum Ūrāṭṭu variyum Uḷḷiṭṭa tiru-vācalil ponta <unclear>kiṭamai</unclear>yum maṟṟum E
+        
+        <lb n="19" break="no"/> p-peṟpaṭṭat’ ellām nāṅkaley Iṟukka-k kaṭavōm āka I-n-nilaṅkaḷ ca<hi rend="grantha">ntrā</hi>titta-vaṟ Iṟaiyiliye Anupavikka peṟuvār ākavum
+        </p>
+    
+    <p>
+        I-<hi rend="grantha">pra</hi>māṇa-p paṭiye tevar-kanmikaḷ kallilum cempilum ceṭṭu-vittu-k koḷḷa-p peṟuvārkaḷ ākavum
+    </p>
+    
+    <p>
+        I-p-paṭikku I-n-nilaṅkaḷ cantirātitta-vaṟ Iṟaiyili ceytu kuṭu<choice><orig>t</orig><reg>tt</reg></choice>ōm peruṅ-kuṟi peru-makkalōm
+    </p>
+    
+    <p>        
+        <lb n="20"/>I-p-paricu <hi rend="grantha">sabhai</hi>y-uḷ i<supplied reason="omitted">ru</supplied>ntu karai-p-ponnu paṇittār 
+        
+        <list>
+            <item><hi rend="grantha">śrī-rājentra</hi>-cōḻa-c-cēri-kalikkili-maṅkalattu kaṭampan tiru-virām-icuvara-paṭṭan paṇiyālum</item>
+            <item>rā<hi rend="grantha">ja</hi>-ma<hi rend="grantha">hentra</hi>-c-ceri kirāmpi-c-ceṭṭu U<unclear>ru</unclear><hi rend="grantha"><unclear>dra</unclear></hi>-nārāyaṇa-<hi rend="grantha">bha</hi>ṭṭan paṇiyālum</item>
+            <item>mummuṭi-cōḻa-c-cēri nampūr-k kāṭṭukkai vira-nāta-pa<hi rend="grantha">ndya-bha</hi>ṭṭar paṇiyālum</item>
+            <item>ikkirama-ciṅka-c-cēri kuṇṭūr ca<hi rend="grantha">ntra-kṛṣṇa</hi>ṉ paṭṭaṉ paṇiyālum</item>
+            <item><hi rend="grantha">tri-bhu</hi>vana-mā        
+        <lb n="21" break="no"/>tevi-c-cēri Irāyūr kecuva paṭṭar paṇiyālum</item>
+            <item>Irā<hi rend="grantha">jādhirāja</hi>-c-cēri Irāyūr-t tiru-varaṅka-tēva-<hi rend="grantha">daśa-pra</hi>ya-paṭṭan paṇiyālum</item></list>
+    </p>
+    
+    <p>
+        <list>
+            <item>Ivai ceyya tāmarai-k kaṇṇaṉ tiru-vāy-k-kula muṭaiyān-āna <hi rend="grantha">śrī</hi>-rāma-<hi rend="grantha">pri</hi>yan eḻuttu <g type="gomutraFinal">.</g></item>
+            <item>I-p-paṭikku kuṇṭur keḷa<hi rend="grantha">śi</hi>ka<hi rend="grantha">bha</hi>ṭṭanen <g type="gomutraFinal">.</g></item>
+            <item>                        
+                I-p-paṭikku kuṇṭur rāmi<hi rend="grantha"><unclear>śva</unclear></hi><unclear>ra</unclear>nen <g type="gomutraFinal">.</g></item>
+            <item>
+                I-p-paṭikku kuṇṭur keraṉa-paṭṭanen
+            </item>
+            <item>
+                I-p-paṭikku vaṅki-p-puṟa        
+        <lb n="22" break="no"/>ttu coṭṭa <hi rend="grantha">bhoja</hi>n tiru-veṇkāṭu pa<hi rend="grantha">ṭṭa</hi>n eḻuttu <g type="ddanda">.</g></item></list>
+    </p>
+    
+    <p>
+        
+        I<hi rend="grantha">tṭham· vigutam·</hi> keḷa<hi rend="grantha">śi</hi>kā<hi rend="grantha">nvayajā</hi>tena <hi rend="grantha">bhavasvāmisūnu</hi>nā<surplus>ya</surplus> <hi rend="grantha">caṁdrakumare</hi><supplied reason="omitted">ṇa</supplied> <g type="gomutraFinal">.</g> I-p-paṭikku <hi rend="grantha">hā</hi>rita ti<hi rend="grantha">lośana</hi> paṭṭanen <g type="gomutraFinal">.</g> <hi rend="grantha">Itṭham· videntavotṭhana śrīkraṣṇanādam·</hi> <g type="gomutraFinal">.</g> I-p-patikku piṟāntūr tiru-nāṭuṭaiyānen <g type="gomutraFinal">.</g> <gap reason="lost" quantity="5" unit="character"></gap>
+        
+        <lb n="23"/><hi rend="grantha">svāmi-pāda catur-veta</hi> paṭṭanen <g type="gomutraFinal">.</g> I-p-pati Aṟiven Uṟu<hi rend="grantha">pu</hi>ṭṭūr ke<hi rend="grantha">śa</hi>va <hi rend="grantha">nārā</hi>yaṇa paṭṭanen <g type="gomutraFinal">.</g> I-p-pati Aṟiven ceṭṭi <hi rend="grantha">bhojan</hi> pa<hi rend="grantha">ra-vāsu-de</hi>va paṭṭanen <g type="gomutraFinal">.</g> I-p-pati Aṟiven <hi rend="grantha"><unclear>sakasai</unclear></hi> <hi rend="grantha">somādityadaṣapriya</hi> paṭṭanen <g type="gomutraFinal">.</g> I-p-pati Aṟiven kāram<surplus>m·</surplus> piceṭṭu <hi rend="grantha"><unclear>drāgakai</unclear> śrī-kṛṣṇa-bha</hi>ṭṭan makan <hi rend="grantha">suriya-bha</hi>ṭṭanen <g type="gomutraFinal">.</g>
+        
+        <lb n="24"/><hi rend="grantha">timma</hi>yar vinaya-tā<hi rend="grantha">śarmmaṇātreya-gotra</hi> <g type="gomutraFinal">.</g> <hi rend="grantha">Itṭham· vigatam· bhara-dvāja gotreṇa kumāra</hi> paṭṭanen <g type="ddanda">.</g> <hi rend="grantha">Itṭham· vigatam· kuṇthanya gotreṇa vaina</hi> <gap reason="lost" unit="character" quantity="5"></gap> kurava-c-ceri vi<hi rend="grantha">pranāta-bha</hi>ṭṭa<hi rend="grantha">sya</hi> <g type="ddanda">.</g> I-p-patikku <hi rend="grantha">śrī-kraṣṇa-deśa-priya-bhaṭṭasya</hi> <g type="ddanda">.</g> I-p-patikku kurava-c-ceri <gap reason="lost" unit="character" quantity="4"></gap> <unclear>nanti</unclear> <hi rend="grantha">bha</hi>ṭṭanen <g type="gomutraFinal">.</g> I-p-patikku <hi rend="grantha">dveya-gom</hi>a-puṟattu-
+        
+        <lb n="25"/>cakara-pāṇi-<hi rend="grantha">c catur</hi>-vetipa<hi rend="grantha">ṭṭasya</hi> <g type="ddanda">.</g> I-p-pati Aṟiven <hi rend="grantha">bhara-dvāji viṣṇu-sarmma</hi>ṇena <g type="danda">.</g> I-p-pati Aṟiven <hi rend="grantha">bhara-dvāja gotreṇa tri</hi>-vikkira<surplus>ma</surplus> paṭṭanen <unclear>I-p-pati</unclear> Aṟiven ma<hi rend="grantha">dhusūde</hi>nanen <g type="ddanda">.</g> I-p-pati Aṟiven <hi rend="grantha">dāmodarabha</hi>ṭṭanen <g type="gomutraFinal">.</g> I-p-pati Aṟiven <hi rend="grantha">daśapriyabha</hi>ṭṭanen <g type="gomutraFinal">.</g> I-p-pati Aṟiven kura-vaicari
+        
+        <lb n="26"/><hi rend="grantha">bhārggavan lokṣama</hi>ṇenen <g type="ddanda">.</g> 		
+    </p>
+    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">svasti
+    </ab>
 </div>
 	
-	<div type="apparatus">
-		<listApp>
-		<app loc="1">
-            <lem>por-p-pari</lem>
-            <rdg source="bib:Narasimhaswamy1982_01"/>
-            <note>Probably read <foreign>pōr-p-parai</foreign>.</note>
-        </app>
-	</listApp>
-</div>
+    <div type="apparatus">
+        <listApp>
+            <app loc="1">
+                <lem>por-p-pari</lem>
+                <rdg source="bib:Narasimhaswamy1982_01"/>
+                <note>Probably read <foreign>pōr-p-parai</foreign>.</note>
+            </app>
+        </listApp>
+    </div>
 	
 	<div type="translation" resp="part:doop">
 		
@@ -173,7 +228,7 @@
 		<listBibl type="primary">
 			
 			<bibl n="SII">
-				<ptr target="bib:SubrahmanyaAiyer1932_01"/>
+				<ptr target="bib:Narasimhaswamy1982_01"/>
 				<citedRange unit="page">53-55</citedRange>
 				<citedRange unit="item">53</citedRange>
 			</bibl>
