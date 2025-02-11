@@ -121,8 +121,7 @@
     </p> 
                 
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        kṣatriya-vaiṣyānulomā<surplus>na</surplus>ntarajotpanno
-        rathakāraḥ tasyej yādhānopanayana-saṃskāra-kriyāś ca prati-ṣiddhās tasyāśva-ratha  
+        kṣatriya-vaiṣyānulomā<surplus>na</surplus>ntarajotpanno rathakāraḥ tasyejyādhānopanayana-saṃskāra-kriyāś ca prati<seg rend="check">ṣiddh</seg>ās tasyāśva-ratha  
         <lb n="2" break="no"/>-sūtra-śilpa-vāstu-vidyādy-addhyayana-kramaḥ vṛttitā ceti
     </p>
     
@@ -143,27 +142,27 @@
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">Attra gautamīya-vivaraṇaṁ kurvvatā maskara-paṭhitaṁ smṛtty-antara-vacanam·
     </p>
     
-    <lg n="6" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        <l n="a">Anulomānām upanaya<supplied reason="lost">m eva</supplied> na vedāddhyaya<supplied reason="omitted">na</supplied>n na</l>
-        <l n="b">pañca-mahāyajñā naupāsanan nāgihotran na samit·kāryan na</l>
-        <l n="c">sandhyopāsanam upanayanam api tūṣṇīm eveti</l>
-    </lg>
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        Anulomānām upanaya<supplied reason="lost">m eva</supplied> na vedāddhyaya<supplied reason="omitted">na</supplied>n na pañca-mahāyajñ<choice><sic>ā</sic><corr>aṃ</corr></choice> naupāsanan nāg<supplied reason="omitted">ni</supplied>hotran na samit·kāryan na
+       sandhyopāsanam upanayanam api tūṣṇīm eveti
+    </p>
 
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         vi<choice><orig>s</orig><reg>ś</reg></choice>vakarmmīye
     </p>
     
-    <lg n="7" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+    <lg n="6" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="a">Am·baṣṭhena karaṇyān tu</l>
         <l n="b">rathakāraḥ prajāyate</l>
         <l n="c">jāya <seg met="==-+-="><gap reason="lost" unit="character" quantity="6"/></seg></l>
         <l n="d"><seg met="===="><gap reason="lost" unit="character" quantity="4"/></seg> samarcita<unclear>ḥ</unclear></l>
     </lg>
     
-    <lg n="8" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+    <lg n="7" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="ab">na jāyate viśva <gap reason="lost" unit="character" quantity="17"></gap> sarvataḥ priyaḥ</l>
     </lg>
     
+    <!--From here onwards, stanza number should be updated: 9 becomes 8, and so on ...-->
     <lg n="9" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="a">Anulomeṣu sarvveṣu</l>
         <l n="b">tūṣṇīm upanayaḥ kriyā <g type="danda">.</g></l>
@@ -605,13 +604,10 @@
     
     <p><lb n="13"/><quote>kṣatriya-vaiśyānulomāntarajotpanno rathakāra</quote><supplied reason="omitted">r</supplied> Āna kammāḷar<choice><orig>o</orig><reg>ō</reg></choice>m Anul<choice><orig>o</orig><reg>ō</reg></choice><supplied reason="omitted">ma</supplied><hi rend="grantha">rom prati</hi>l<choice><orig>o</orig><reg>ō</reg></choice>mar āna jātikaḷil Iḻi-toḻil ceyy<choice><orig>o</orig><reg>ō</reg></choice>m ākavum</p>
         <p>Eṉṟu coṉṉār <gap reason="lost" unit="character" quantity="6"></gap> kku Iḻi-toḻil ceyy<choice><orig>o</orig><reg>ō</reg></choice>m ākavum</p>
-        <p><hi rend="grantha">smṛti-vacanaṁ</hi>kaḷi<supplied reason="omitted">l</supplied> collutalālum paṇṇin<choice><orig>o</orig><reg>ō</reg></choice>m</p>
+        <p><hi rend="grantha">smṛti-vacanaṁ</hi>kaḷi<supplied reason="omitted">l</supplied> collutalālum paṇṇin<choice><orig>o</orig><reg>ō</reg></choice>m <hi rend="grantha">rathakāraro</hi>m</p>
     
-    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional"> 
-        
-        rathakārarom kṣatriya-vaiśyānulom<supplied reason="omitted">ā</supplied>ntarajotpannar rathakāra<unclear>r</unclear>
-        tasyej· <supplied reason="omitted">yā</supplied>dhānopanayana-kriyāś cā pratiṣi<unclear>ddhatvāt·</unclear>
-        tasyāśva-ratha-sūtra-śilpa-vāstu-vidyā-dhanur-vvi<supplied reason="omitted">dyā</supplied>nvitāś ceti
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        kṣatriya-vaiśyānulom<supplied reason="omitted">ā</supplied>ntarajotpanna<seg rendition="class:tamil maturity:regional">r</seg> rathakāra<supplied reason="omitted"><seg rendition="class:tamil maturity:regional">r</seg></supplied> tasyej·<supplied reason="omitted">yā</supplied>dhānopanayana-kriyāś cā prati<seg rend="check">ṣi<unclear>ddhatvāt·</unclear></seg> tasyāśva-ratha-sūtra-śilpa-vāstu-vidyā-dhanur-vvi<supplied reason="omitted">dyā</supplied>nvitāś ceti
     </p>
     
     <p>Ampaṭṭanukku karaṇikku piṟa<hi rend="grantha">ntān rathakāran-āna</hi> kammāḷan Iva<choice><orig>n</orig><reg>ṉ</reg></choice>ukku toḻil <hi rend="grantha">Aśva</hi>jātīyamum tēr teruvi
@@ -641,8 +637,24 @@
      <p n="1">...</p>
      
      <p n="1" rend="stanza">
-         <note>The <foreign>pada</foreign>s a and b = <title>Yājñavalkyadharmaśāstra</title> 91.4ab.</note>
+         <note>The <foreign>pada</foreign>s a and b = <title>Yājñavalkyadharmaśāstra</title> 1.91.4ab.</note>
      </p>
+     
+     <p n="1">...</p>
+     <p n="2" rend="stanza">
+     </p>
+         
+     <p n="3" rend="stanza">
+     </p>
+     
+     <p n="1">...</p>     
+     <p>... <note>See <title>Mitākṣarā</title> ad <title>Yājñavalkyadharmaśāstra</title> 1.95.</note></p>
+     
+     <p>...</p>
+     
+     <p n="13">...</p>     
+     <p>... <note>See <title>Mitākṣarā</title> ad <title>Yājñavalkyadharmaśāstra</title> 1.95.</note></p>
+     
 
 </div>
 	
@@ -654,7 +666,7 @@
 	
     <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/558). Summary in <bibl><ptr target="bib:Mahalingam1992_01"/></bibl> (Tj 1668).</p>
     <p>Edited in <bibl><ptr target="bib:Krishnan1964_01"/></bibl> (SII 17.603). Discussed in <bibl><ptr target="bib:Derrett1971_01"/></bibl>.</p>
-    <p>This digital edition by Dorotea Operato and Emmanuel Francis, based on <bibl><ptr target="bib:Krishnan1964_01"/></bibl> and <bibl><ptr target="bib:Derrett1971_01"/></bibl>.</p>
+    <p>This digital edition by Dorotea Operato and Emmanuel Francis, based on <bibl><ptr target="bib:Krishnan1964_01"/></bibl> and <bibl><ptr target="bib:Derrett1971_01"/></bibl>. Dharmaśāstric sources assessed with <ref target="https://sites.utexas.edu/sanskrit/resources/dharmasastra/">Resource Library for Dharmaśāstra Studies</ref> of the University of Texas at Austin.</p>
     
     <listBibl type="primary">
         
