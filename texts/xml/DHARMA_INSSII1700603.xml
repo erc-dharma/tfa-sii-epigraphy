@@ -436,24 +436,24 @@
         <l n="d">dhana-dhānya-gajādibhiḥ</l>
     </lg>
     
-    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">parama-puruṣa saṁhitāyām· <g type="ddanda">.</g>
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">parama-puruṣa-saṁhitāyām· <g type="ddanda">.</g>
     </p>
     
      <lg n="36" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="ab"><gap reason="lost" unit="character" quantity="6"></gap> sāreṇa kārayet· <gap reason="lost" unit="character" quantity="4"></gap> ṇam· <g type="pc">.</g></l>
     </lg>
   
-   <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">śrī-vaikhānasamahāstave<g type="danda">.</g>
+   <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">śrī-vaikhānasa-mahāstave<g type="danda">.</g>
     </p>
     
      <lg n="37" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="a">śilpa-śāstrokta-vidhinā</l>
         <l n="b">śilpinas samyag ācaret·</l>
-        <l n="c">tasmāt· sarvvaprayatnena</l>
+        <l n="c">tasmāt· sarvva-prayatnena</l>
         <l n="d">Ācāryyaś śilpibhis saha</l>
     </lg>
   
-  <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">Atriprokte<g type="ddanda">.</g>
+  <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">Atri-prokte<g type="ddanda">.</g>
     </p>
     
      <lg n="38" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
@@ -461,28 +461,28 @@
          <l n="b">śilpibhiś śāstra-kovidai<supplied reason="omitted">ḥ</supplied></l>
     </lg>
     
-    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">Āgastyavāstuśāstre<g type="ddanda">.</g>
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">Āgastya-vāstu-śāstre<g type="ddanda">.</g>
     </p>
     
      <lg n="39" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        <l n="a">svatantraḥ paratantra-jña<supplied reason="omitted">ḥ</supplied></l>
+        <l n="a">svatantra<surplus>ḥ</surplus>-paratantra-jña<supplied reason="omitted">ḥ</supplied></l>
         <l n="b">kṛta-kṛtyas sumānasaḥ</l>
-        <l n="c"><lb n="9"/><unclear>dha</unclear>rmma-jñas satya-sam·panna</l>
-        <l n="d">sarvendriyaḥ jitendriyaḥ</l>
+        <l n="c"><lb n="9"/><unclear>dha</unclear>rmma-jñas satya-sam·panna<supplied reason="omitted">s</supplied></l>
+        <l n="d">sarvendriya<surplus>ḥ</surplus>-jitendriyaḥ</l>
     </lg>
     
     
     <lg n="40" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="a">Itihāsa-purāṇa-jñaḥ</l>
-        <l n="b">smṛtivit· vāstuvit· suthīḥ</l>
-        <l n="c">Ata <seg met="=="><gap reason="lost" quantity="2" unit="character"/></seg> dha bhaktaś ca</l>
+        <l n="b">smṛti-vit· vāstu-vit· su<choice><sic>t</sic><corr>d</corr></choice>hīḥ</l>
+        <l n="c">Ata<supplied reason="lost">ndrī śu</supplied>dha-bhaktaś ca</l>
         <l n="d">Alubdha<unclear>ś cā</unclear>malātmakaḥ</l>
     </lg>
     
     <lg n="41" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        <l n="a">nimittātām· krama-jñaś-ca</l>
+        <l n="a">nimittātām· krama-jñaś ca</l>
         <l n="b"><supplied reason="omitted">ci</supplied>tra-karmma-viśāradaḥ</l>
-        <l n="c">sarvāvayava niṣpanne</l>
+        <l n="c">sarvāvayava-niṣpanne</l>
         <l n="d">vimāne cottarāyaṇe</l>
     </lg>
     
@@ -490,14 +490,14 @@
         <l n="a">pra<unclear>śa</unclear>sta-<unclear>pa</unclear>kṣa-nakṣatre</l>
         <l n="b">yajamāno janārddanaḥ</l>
         <l n="c"><seg met="====-+-="><gap reason="lost" unit="character" quantity="8"/></seg></l>
-        <l n="d"><seg met="="><gap reason="lost" unit="character" quantity="1"/></seg> patiś ca mahātmanaḥ</l>
+        <l n="d"><supplied reason="lost">stha</supplied>patiś ca mahātmanaḥ</l>
     </lg>
     
     <lg n="43" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="a"><seg met="===="><gap reason="lost" unit="character" quantity="4"/></seg> śarīrāṁgam·</l>
-        <l n="b">pāce bhautikasaṃjñi<surplus>ta</surplus>ta<unclear>m·</unclear></l>
+        <l n="b">pāce bhautika-saṃjñi<surplus>ta</surplus>ta<unclear>m·</unclear></l>
         <l n="c">vimānaṁ vidhinā samyak·</l>
-        <l n="d">jalasaṁprokṣaṇañ care<unclear>t</unclear></l>
+        <l n="d">jala-saṁprokṣaṇañ care<unclear>t</unclear></l>
     </lg>
     
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">vāstu-vidyāyāṁ<g type="gomutraFinal">.</g>
@@ -507,11 +507,11 @@
         <l n="a">viśva-karmmā <unclear>ca Ā</unclear>cāryo</l>
         <l n="b">gurutvāt· viśva-karmmaṇām·</l>
         <l n="c">sthapatiḥ sthāpanaṁ kurvan·</l>
-        <l n="d">Iti śilpi <seg met="-+-="><gap reason="lost" unit="character" quantity="4"/></seg></l>
+        <l n="d">Iti śilpi<supplied reason="lost">r vvidhīyate</supplied></l>
     </lg>
         
     <lg n="45" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        <l n="a"><seg met="==="><gap reason="lost" unit="character" quantity="3"/></seg> sthapatis sa<unclear>tya</unclear></l>
+        <l n="a" enjamb="yes"><seg met="==="><gap reason="lost" unit="character" quantity="3"/></seg> sthapatis sa<unclear>tya</unclear></l>
         <l n="b">śāstra-karmma-vicakṣaṇaḥ</l>
         <l n="c">kṛta-kṛtyaḥ kulīnaś ca</l>
         <l n="d">Ahīnādhika-lakṣaṇaḥ</l>
@@ -519,50 +519,48 @@
     
     <lg n="46" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="a">dhārmmikaḥ satyavādī ca</l>
-        <l n="b">gaṇitajñaḥ purāṇavit·</l>
-        <l n="c">citravit· sarvvadeśajña-s</l>
-        <l n="d">sunāmāyamanāmayaḥ</l>
+        <l n="b">gaṇita-jñaḥ purāṇa-vit·</l>
+        <l n="c">citra-vit· sarvva-deśa-jñas</l>
+        <l n="d">sunāmā yamanāmayaḥ</l>
     </lg>
    
     <lg n="47" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="a">dṛḍhayonasū</l>
         <l n="b"><lb n="10"/><unclear>yo</unclear>nalasobhayaḥ</l>
-        <l n="c" enjamb="yes"><supplied reason="subaudible">a</supplied>lubdhośanadodīno</l>
+        <l n="c"><supplied reason="subaudible">a</supplied>lubdhośanadodīno</l>
         <l n="d">pramādī ca jitendriya<supplied reason="lost">ḥ</supplied></l>
     
     </lg>
     
     <lg n="48" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        <l n="a">saptavya sanajiddhīmān·</l>
-        <l n="b">Ūhāpohavicakṣaṇaḥ <g type="ddanda">.</g></l>
+        <l n="a">sapta-vyasana-jid dhīmān·</l>
+        <l n="b">Ūhāpoha-vicakṣaṇaḥ <g type="ddanda">.</g></l>
     </lg>
     
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">sārasvatīye <g type="ddanda">.</g>
     </p>
     
     <lg n="49" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        <l n="a">viśvakarmmā  ṛṣer nnāmnā</l>
+        <l n="a">viśvakarmmā ṛṣer nnāmnā</l>
         <l n="b">gurutvā<unclear>t·</unclear> viśva-karmmaṇaḥ</l>
         <l n="c">sthapatiḥ sthāpanaṁ kurvvan·</l>
         <l n="d">Iti śilpir vvidhīyate <g type="danda">.</g></l>
     </lg>
     
     <lg n="50" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        <l n="a">tatva-jñaḥ sthapatis sarva</l>
+        <l n="a" enjamb="yes">tatva-jñaḥ sthapatis sarva</l>
         <l n="b">śāstrāṇāñ ca viśeṣataḥ</l>
         <l n="c">dhārmmikas satya-vādī ca</l>
         <l n="d">kṛta-kṛtya<supplied reason="omitted">ḥ</supplied> kulotbhavaḥ</l>
     </lg>
-    
-   
+       
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional"><lb n="11"/>
        <unclear>nārāyaṇa-bha</unclear>ṭṭa-so<supplied reason="omitted">ma</supplied>yājinaḥ <g type="gomutraFinal">.</g></p>
     
     <p>
         <hi rend="grantha">śrī-rājādhirāja-caturvvedi</hi>maṅkala<hi rend="grantha">ttu</hi> nampūr kaṭṭukke <hi rend="grantha">śrī-raṁganātha-bhaṭṭa-vājape<supplied reason="omitted">ya</supplied>yāji</hi>y<choice><orig>en</orig><reg>ēṉ</reg></choice> <hi rend="grantha">śrī-raṁganātha-bhaṭṭa</hi><unclear>nēn</unclear> <gap reason="lost" quantity="3" unit="character"></gap>
     </p>
-    
-    
+        
       <p xml:lang="san-Latn" rendition="class:grantha maturity:regional"><lb n="12"/>svasti śrī <g type="gomutraFinal">.</g></p>
     
     <lg n="51" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
@@ -572,7 +570,11 @@
         <l n="d">rathakāra Iti smṛta<supplied reason="omitted">ḥ</supplied></l>
     </lg>
     
-    <p> veḷḷāḻa peṇ pi<supplied reason="omitted">ḷ</supplied>ḷai <gap reason="lost" unit="character" quantity="7"></gap> Eṟi<choice><orig>n</orig><reg>ṉ</reg></choice>a vaiśyanukku  <gap reason="lost" quantity="10" unit="character"></gap> piṟanta rathakā<supplied reason="omitted">ra</supplied>nātavan taccan<hi rend="grantha"> atra gautamī[ya]m· vivaraṇa<supplied reason="omitted">m·</supplied></hi>
+    <p> veḷḷāḻa peṇ pi<supplied reason="omitted">ḷ</supplied>ḷai <gap reason="lost" unit="character" quantity="7"></gap> Eṟi<choice><orig>n</orig><reg>ṉ</reg></choice>a vaiśyanukku  <gap reason="lost" quantity="10" unit="character"></gap> piṟanta rathakā<supplied reason="omitted">ra</supplied>nātavan tacca<choice><orig>n</orig><reg>ṉ</reg></choice>
+    </p>
+    
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
+        Atra gautamī<unclear>ya</unclear>m· vivaraṇa<supplied reason="omitted">m·</supplied>
     </p>
 
     <lg n="52" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
@@ -583,36 +585,36 @@
     </lg>
     
     <lg n="53" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        <l n="a">sūtrasya vājino vāstu</l>
+        <l n="a" enjamb="yes">sūtrasya vājino vāstu</l>
         <l n="b">śilpayos syandranasya ca</l>
         <l n="c">vidyayā<supplied reason="omitted">bhya</supplied>dhika<supplied reason="omitted">ḥ</supplied> svasya</l>
         <l n="d">śarīraṁ varttayed ayam·</l>
     </lg>
        
     <p>
-        <hi rend="grantha">māhiṣya</hi><unclear>nu</unclear>kku <hi rend="grantha">karṇikku</hi> piṟa<unclear>ntā</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">rathakāran-āna</hi> tacca<choice><orig>n</orig><reg>ṉ</reg></choice> i<surplus>va</surplus>va<supplied reason="omitted"><choice><orig>n</orig><reg>ṉ</reg></choice>u</supplied>kku to<choice><orig>l</orig><reg>ḻ</reg></choice>i <gap reason="lost" quantity="10" unit="character"></gap> ku<unclear>ru</unclear>taikku Ilakkaṇamum <hi rend="grantha">vāstu-śāstra</hi>mum cilpa toḻi<surplus>la</surplus>lum to<surplus>r</surplus>paṇṇum i<supplied reason="omitted">la</supplied>kka<unclear>ṇamu</unclear>m Ākiṟa I<hi rend="grantha">nta vijai</hi>ka<surplus>ḷ</surplus>ḷāle ta<choice><orig>n</orig><reg>ṉ</reg></choice> car<choice><sic>i</sic><corr>ī</corr></choice>ra<supplied reason="omitted">m</supplied> I<hi rend="grantha">rakṣi</hi>kkum Itu <hi rend="grantha">rathakāran-āna</hi> tacca<choice><orig>n</orig><reg>ṉ</reg></choice>ukku <hi rend="grantha">vṛtti</hi> e<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu
-        co<choice><orig>nn</orig><reg>ṉṉ</reg></choice>ār <g type="pc">.</g>
+        <hi rend="grantha">māhiṣya</hi><unclear>nu</unclear>kku <hi rend="grantha">karṇikku</hi> piṟa<unclear>ntā</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">rathakāran-āna</hi> tacca<choice><orig>n</orig><reg>ṉ</reg></choice> i<surplus>va</surplus>va<supplied reason="omitted"><choice><orig>n</orig><reg>ṉ</reg></choice>u</supplied>kku to<choice><orig>l</orig><reg>ḻ</reg></choice>i <gap reason="lost" quantity="10" unit="character"></gap> ku<unclear>ru</unclear>taikku Ilakkaṇamum <hi rend="grantha">vāstu-śāstra</hi>mum cilpa-toḻi<surplus>la</surplus>lum to<surplus>r</surplus>paṇṇum i<supplied reason="omitted">la</supplied>kka<unclear>ṇamu</unclear>m Ākiṟa I<hi rend="grantha">nta vijai</hi>ka<surplus>ḷ</surplus>ḷāle ta<choice><orig>n</orig><reg>ṉ</reg></choice> car<choice><sic>i</sic><corr>ī</corr></choice>ra<supplied reason="omitted">m</supplied> I<hi rend="grantha">rakṣi</hi>kkum Itu <hi rend="grantha">rathakāran-āna</hi> tacca<choice><orig>n</orig><reg>ṉ</reg></choice>ukku <hi rend="grantha">vṛtti</hi> e<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu
+        co<choice><orig>nn</orig><reg>ṉṉ</reg></choice>ār <g type="dash">.</g>
     </p>
     
     <p>
         <hi rend="grantha">yājña</hi>valkīye ta <gap reason="lost" quantity="2" unit="character"></gap>      
     </p>
     
-     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">Atra śaṁkhava<unclear>cana</unclear>ṁ <g type="gomutraFinal">.</g>
+     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">Atra śaṁkha-va<unclear>cana</unclear>ṁ <g type="gomutraFinal">.</g>
     </p>
     
-    <p><lb n="13"/><foreign><q>kṣatriya-vaiśyānulomāntarajotpanno rathakāra<supplied reason="omitted">r</supplied></q></foreign> Āna kammāḷar<choice><orig>o</orig><reg>ō</reg></choice>m Anul<choice><orig>o</orig><reg>ō</reg></choice><supplied reason="omitted">ma</supplied><hi rend="grantha">rom prati</hi>l<choice><orig>o</orig><reg>ō</reg></choice>mar āna jātikaḷil Iḻi-toḻil ceyy<choice><orig>o</orig><reg>ō</reg></choice>m ākavum</p>
+    <p><lb n="13"/><quote>kṣatriya-vaiśyānulomāntarajotpanno rathakāra</quote><supplied reason="omitted">r</supplied> Āna kammāḷar<choice><orig>o</orig><reg>ō</reg></choice>m Anul<choice><orig>o</orig><reg>ō</reg></choice><supplied reason="omitted">ma</supplied><hi rend="grantha">rom prati</hi>l<choice><orig>o</orig><reg>ō</reg></choice>mar āna jātikaḷil Iḻi-toḻil ceyy<choice><orig>o</orig><reg>ō</reg></choice>m ākavum</p>
         <p>Eṉṟu coṉṉār <gap reason="lost" unit="character" quantity="6"></gap> kku Iḻi-toḻil ceyy<choice><orig>o</orig><reg>ō</reg></choice>m ākavum</p>
         <p><hi rend="grantha">smṛti-vacanaṁ</hi>kaḷi<supplied reason="omitted">l</supplied> collutalālum paṇṇin<choice><orig>o</orig><reg>ō</reg></choice>m</p>
     
-    <lg n="54" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:regional"> 
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional"> 
         
-        <l n="a">rathakārarom kṣatriya-vaiśyānulom<supplied reason="omitted">ā</supplied>ntarajotpannar rathakāra<unclear>r</unclear></l>
-        <l n="b">tasyej· <supplied reason="omitted">yā</supplied>dhānopanayana kriyāś cā pratiṣi<unclear>ddhatvāt·</unclear></l>
-        <l n="c">tasyāśvaratha sūtra-śilpa-vāstu-vidyā dhanur-vvi<supplied reason="omitted">dyā</supplied>nvitāś ceti</l>
-    </lg>
+        rathakārarom kṣatriya-vaiśyānulom<supplied reason="omitted">ā</supplied>ntarajotpannar rathakāra<unclear>r</unclear>
+        tasyej· <supplied reason="omitted">yā</supplied>dhānopanayana-kriyāś cā pratiṣi<unclear>ddhatvāt·</unclear>
+        tasyāśva-ratha-sūtra-śilpa-vāstu-vidyā-dhanur-vvi<supplied reason="omitted">dyā</supplied>nvitāś ceti
+    </p>
     
-    <p>Ampaṭṭanukku karaṇikku piṟa<hi rend="grantha">ntān rathakāran-āna</hi> kammāḷan Iva<choice><orig>n</orig><reg>ṉ</reg></choice>ukku toḻil <hi rend="grantha">Aśva</hi>jātīyamum terteruvi
+    <p>Ampaṭṭanukku karaṇikku piṟa<hi rend="grantha">ntān rathakāran-āna</hi> kammāḷan Iva<choice><orig>n</orig><reg>ṉ</reg></choice>ukku toḻil <hi rend="grantha">Aśva</hi>jātīyamum tēr teruvi
     </p>
 
 </div>
@@ -623,7 +625,7 @@
                 <lem>
                     <choice><sic>mānosura</sic><corr>mānasa</corr></choice> 
                 </lem> 
-                <note>Emendation following Derrett (1971).</note>
+                <note>Emendation following <ptr target="bib:Derrett1971_01"/>.</note>
             </app>
         </listApp>
    
@@ -650,9 +652,8 @@
     
 <div type="bibliography">
 	
-    <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/558). Summary in <bibl><ptr target="bib:Mahalingam1992_01"/></bibl></p>
-    <p>Edited in <bibl><ptr target="bib:Krishnan1964_01"/></bibl> (SII 17.603).</p>
-    <p>Discussed in <bibl><ptr target="bib:Derrett1971_01"/></bibl>.</p>
+    <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/558). Summary in <bibl><ptr target="bib:Mahalingam1992_01"/></bibl> (Tj 1668).</p>
+    <p>Edited in <bibl><ptr target="bib:Krishnan1964_01"/></bibl> (SII 17.603). Discussed in <bibl><ptr target="bib:Derrett1971_01"/></bibl>.</p>
     <p>This digital edition by Dorotea Operato and Emmanuel Francis, based on <bibl><ptr target="bib:Krishnan1964_01"/></bibl> and <bibl><ptr target="bib:Derrett1971_01"/></bibl>.</p>
     
     <listBibl type="primary">
@@ -679,7 +680,7 @@
             <citedRange unit="item">1668</citedRange>
         </bibl>
         
-        <bibl>
+        <bibl n="D">
             <ptr target="bib:Derrett1971_01"/>
         </bibl>
         
