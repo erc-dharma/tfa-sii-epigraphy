@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			    <title>Guḍimallūr, Bhūmīśvara temple, time of Vijayanagarar Ariyaṇa-Uḍaiyar, year 1382</title>
+			    <title>Guḍimallūr, Bhūmīśvara temple, time of Ariyaṇa-Uḍaiyar, Tuntumi year</title>
 				<respStmt>
 				    <resp>author of digital edition</resp>
 					<persName ref="part:doop">
@@ -87,33 +87,55 @@
     </ab>
     <p>Ariṇa Uṭaiyārkku cellā niṉṟa <unclear>tu</unclear>mtumi varu
         
-        <lb n="2" break="no"/><hi rend="bold">ṣa</hi>m tai mātam mutal tiyati valliyūr Uṭaiyār ma<supplied reason="omitted">ṇ</supplied>ṇai nāyanār
+        <lb n="2" break="no"/><hi rend="bold">ṣa</hi>m tai mātam mutal tiyati
+    </p>
+    <p>
+        valliyūr Uṭaiyār ma<supplied reason="omitted">ṇ</supplied>ṇai-nāyanār
         <lb n="3"/>k<choice><orig>o</orig><reg>ō</reg></choice>yil tānattār<choice><orig>o</orig><reg>ō</reg></choice>m Iṉ-ṉāyanār <unclear>ti</unclear>ru-maṭai-viḷākattil
         
         <lb n="4"/><unclear>ka</unclear>varipiṇā poṟk<choice><orig>o</orig><reg>ō</reg></choice>yil kaikk<choice><orig>o</orig><reg>ō</reg></choice>ḷaṟakku Aṟu<unclear>ti</unclear> paṇṇi-k kuṭutta
         
-        <lb n="5"/><unclear>paṭi</unclear> Iv-ūr valaṅkai Iṭaṅkai ciluk' āy nālu-varu<hi rend="grantha">ṣa</hi>m pāḻ-<unclear>ki</unclear>ṭakkaiyil
-        <lb n="6"/><supplied reason="omitted">ku</supplied>ṭi Ēṟa-k-kaṭavarkaḷ Ākavum kuṭi Ēṟi Iṭattu taṟi-k-kaṭamai-vācal paṇam
+        <lb n="5"/><unclear>paṭi</unclear>
+    </p>
+    
+    <p>
+        Iv-ūr valaṅkai Iṭaṅkai ciluk' āy nālu-varu<hi rend="grantha">ṣa</hi>m pāḻ-<unclear>ki</unclear>ṭakkaiyil
+        <lb n="6"/><supplied reason="omitted">ku</supplied>ṭi Ēṟa-k-kaṭavarkaḷ Ākavum
+    </p>
+    
+    <p>        
+        kuṭi Ēṟi Iṭattu taṟi-k-kaṭamai-vācal paṇam
         
-        <lb n="7"/>Aiñcu paṇam koḷḷa-k-kaṭavatu Ākavum paṭṭaṭai nāṇayattuku pattil
+        <lb n="7"/>Aiñcu paṇam koḷḷa-k-kaṭavatu Ākavum
+    </p>
+    
+    <p>        
+        paṭṭaṭai nāṇayattuku pattil
         
         <lb n="8"/>Aiñcu māṉiyattu Āṇṭu Oṉṟukku taṟi Oṉṟukku Oru paṇam ko<unclear>ḷḷavum</unclear>
-        
+    </p>
+    
+    <p>        
         <lb n="9"/>maṟṟum Uḷḷa cakala Upātikaḷum Uṭpaṭa Āṇṭ’ oṉṟukku taṟi Oṉṟukku     
     </p>
 </div>
 	
-	
-	<div type="translation" resp="part:doop">
+<div type="translation" resp="part:doop">
 		
-		<p n="1">
-			Prosperity! Fortune!		
-		</p>
-	</div>
+    <p n="1">
+        Prosperity! Fortune!		
+    </p>
+    
+    <p>...</p>
+    
+    <p n="9">...<note>The rest of the inscription is built in.</note></p>
+    
+    
+</div>
 	
 	<div type="commentary">			
 <p>This inscription is incomplete.</p>
-<p>Year 1382 (Śaka 1304)  according to  <bibl><ptr target="bib:Rajagopal2019_01"/></bibl>; Śaka year 1305 according to <bibl><ptr target="bib:ARIE1905-1906"/></bibl></p>
+<p>Tuntumi year = year 1382 (Śaka 1304)  according to  <bibl><ptr target="bib:Rajagopal2019_01"/></bibl>; Śaka year 1305 according to <bibl><ptr target="bib:ARIE1905-1906"/></bibl></p>
 </div>
         
         <div type="apparatus">               
