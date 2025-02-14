@@ -87,6 +87,13 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 				
+    <p>
+        <lb n="01"/><hi rend="grantha">śrī-rājamahe
+        <lb n="02" break="no"/>ṃdra-caturvve
+        <lb n="03" break="no"/>di</hi>-maṅkalattu-k ka
+        <lb n="04" break="no"/>lveṭṭu
+    </p>
+    
     <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
         <lb n="1"/>svasti śrī
     </ab>
@@ -181,7 +188,11 @@
             <item>tiru-muṟṟaṅkaḷ aḻivu cora-v-um <hi rend="grantha">puna<supplied reason="omitted">ḥ</supplied>-pratiṣṭ</hi>ai paṇ        
                 <lb n="12" break="no"/>ṇa-v-u<supplied reason="subaudible">m</supplied> matiḷ <unclear>kaṭṭa-v-um</unclear> vēṇṭutalālum</item></list>
         
-        It-tēvar-k kanmikaḷ pakkal nāṅkaḷ koṇṭa po<choice><orig>n</orig><reg>ṉ</reg></choice> kuṭiñai-k-kallāl Irā<hi rend="grantha">je</hi>ntira-cōḻa<choice><orig>n</orig><reg>ṉ</reg></choice> māṭaikku Arai māṟṟu-t tāḻum po<choice><orig>n</orig><reg>ṉ</reg></choice> Aym-patin kaḻañcum
+        It-tēvar-k kanmikaḷ pakkal nāṅkaḷ koṇṭa po<choice><orig>n</orig><reg>ṉ</reg></choice>
+    </p>
+    
+    <p>
+        kuṭiñai-k-kallāl Irā<hi rend="grantha">je</hi>ntira-cōḻa<choice><orig>n</orig><reg>ṉ</reg></choice> māṭaikku Arai māṟṟu-t tāḻum po<choice><orig>n</orig><reg>ṉ</reg></choice> Aym-patin kaḻañcum
     </p>
     <p>
         Ip-po<choice><orig>nn</orig><reg>ṉṉ</reg></choice>ukku palicai y-āka
@@ -232,7 +243,7 @@
     </p>
     
     <p>
-        Ip-paṭikku In-nilaṅkaḷ cantirātitta-vaṟ Iṟaiyili ceytu kuṭuttōm peruṅ-kuṟi peru-makkalōm
+        Ip-paṭikku In-nilaṅkaḷ cantirātitta-vaṟ Iṟaiyili ceytu kuṭuttōm peruṅ-kuṟi peru-makkalōm <g type="dash">.</g>
     </p>
     
     <p>        
@@ -241,7 +252,7 @@
         <list>
             <item><hi rend="grantha">śrī-rājentra</hi>-cōḻa-c-cēri-kalikkili-maṅkalattu kaṭampan tiru-virām-icuvara-paṭṭan paṇiyālum</item>
             <item>rā<hi rend="grantha">ja</hi>-ma<hi rend="grantha">hentra</hi>-c-cēri kirāmpi-c-ceṭṭu U<unclear>ru</unclear><hi rend="grantha"><unclear>dra</unclear></hi>-nārāyaṇa-<hi rend="grantha">bha</hi>ṭṭan paṇiyālum</item>
-            <item>mummuṭi-cōḻa-c-cēri nampūr-k kāṭṭukkai vira-nāta-pa<hi rend="grantha">ndya-bha</hi>ṭṭar paṇiyālum</item>
+            <item>mummuṭi-cōḻa-c-cēri nampūr-k kāṭṭukkai vira-nāta-pa<hi rend="grantha">nma-bha</hi>ṭṭar paṇiyālum</item>
             <item>vikkirama-ciṅka-c-cēri kuṇṭūr ca<hi rend="grantha">ntra-kṛṣṇa</hi>ṉ paṭṭaṉ paṇiyālum</item>
             <item><hi rend="grantha">tri-bhu</hi>vana-mā        
                 <lb n="21" break="no"/>tevi-c-cēri Irāyūr kēcuva-paṭṭar paṇiyālum</item>
@@ -309,7 +320,7 @@
     <listApp>
         
         <app loc="1">
-            <lem>por-p-pari</lem>
+            <lem>pō<lb n="2" break="no"/>r-p-pari</lem>
             <rdg source="bib:Narasimhaswamy1982_01"/>
             <note>Probably read <foreign>pōr-p-parai</foreign>.</note>
         </app>
@@ -322,14 +333,77 @@
     </listApp>
 </div>
     
-    <div type="translation" resp="part:doop">
+    <div type="translation" resp="part:doop part:emfr">
+        
+        <p n="01-04">
+            Inscription of the glorious Rājamahendracaturvedimaṅgalam<note>See <ptr target="bib:Narasimhaswamy1982_01"/> (p. 55, fn. 1): <quote>The following lines are engraved on the margin of the record on the left of lines 1-4.</quote></note>
+        </p>
         
         <p n="1">
             Prosperity! Fortune!		
         </p>
         
-        <p>...</p>
+        <p n="9">
+            Year 11th of the emperor, the glorious king Kulottuṅga Cōḻa <hi rend="italic">alias</hi> the king Rājakesarivarman,
+        </p>
+        
+        <p n="1-9">
+            who <gap reason="ellipsis"/> [<foreign>meykkīrtti</foreign> of Kulottuṅga I Cōḻa]
+        </p>
+        
+        <p n="9-10">
+            This is the manner in which
+            we, the great men of the great assembly of
+            ...
+            have given
+            ...
+        </p>
+        
+        <p n="10-12">
+            ...
+            there is gold that we obtained from the temple officers of this god.            
+        </p>
+        
+        <p n="10-12">
+            The gold which ... <supplied reason="explanation"><foreign>tāḻum</foreign></supplied>
+            ...
+            is fifty <foreign>kaḻañcu</foreign>s.
+        </p>
+        
+        <p n="12-13">
+            The gold which <supplied reason="subaudible">we</supplied> have given 
+            for ... 
+            and for ...
+            is five <foreign>kaḻañcu</foreign>s.
+        </p>
+        
+        <p n="13-17">
+            There are lands which <supplied reason="subaudible">we</supplied> have given
+            ..., that is:
+            <list>
+                <item>...</item>
+                <item>...</item>
+                <item>...</item>
+                <item>...</item>
+                <item>...</item>
+            </list>
+        </p>
+        
+        <p n="17-19">
+            Starting from this year ...
+            they should obtain to enjoy these lands tax-free as long as the moon and the sun.
+        </p>        
          
+        <p n="19">
+            The temple officers should obtain to have <supplied reason="subaudible">this agreement</supplied> engraved on stone and copper according to this ...
+        </p>
+        
+        <p n="19">
+            In this manner we ...
+            have given
+            ...
+        </p>
+        
         <p n="20-21">
             In this manner, sitting in assembly, those who ordered <supplied reason="subaudible">so</supplied>:
             
@@ -371,7 +445,7 @@
 		
     <p>Reported in <bibl><ptr target="bib:ARIE1936-1937"/></bibl> (ARIE/1936-1937/B/1936-1937/31).</p>
     <p>Edited in <bibl><ptr target="bib:Narasimhaswamy1982_01"/></bibl> (SII 24.53).</p>
-    <p>This digital edition by Dorotea Operato, based on <bibl><ptr target="bib:Narasimhaswamy1982_01"/></bibl>.</p>
+    <p>This digital edition by Dorotea Operato and Emmanuel Francis, based on <bibl><ptr target="bib:Narasimhaswamy1982_01"/></bibl>.</p>
     
     <listBibl type="primary">
         
