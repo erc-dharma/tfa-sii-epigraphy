@@ -160,8 +160,8 @@
     </p>
     <p>
         Ip-paṭikku Ivai Iṭaṅkai mīkāmaveḷāṉ eḻuttu
-        <gap reason="ellipsis"/><!--kannaḍa: ask Antonella-->
     </p>
+    <p xml:lang="kan-Latn" rendition="class:kannada maturity:regional">nāṣi prabākaranu</p>
 </div>
 	
 <div type="translation" resp="part:doop">
@@ -172,10 +172,10 @@
     
 </div>
 	
-	<div type="commentary">			
-<p>This inscription has words in Kannada script at the end.</p>
-<p>Year 1427 A.D. according to <bibl><ptr target="bib:Shanmugam2018_01"/></bibl>.</p>
-</div>
+        <div type="commentary">
+            <p>This inscription has a signature in Kannaḍa at the end.</p>
+            <p>Year 1427 A.D. according to <bibl><ptr target="bib:Shanmugam2018_01"/></bibl>.</p>
+        </div>
         
         <div type="apparatus">               
             <listApp>
