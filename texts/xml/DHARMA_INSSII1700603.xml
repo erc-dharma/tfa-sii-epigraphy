@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Tiruvārūr, Tyāgarājasvāmin temple</title>
+                <title>Tiruvārūr, Tyāgarājasvāmin temple</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:doop">
@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Assessment of the social status, rights, and duties of Rathakāras or Kammāḷars, based on the Śāstras, Āgamas, and Purāṇas examined by Brāhmaṇas residing in Pāṇṭikulāntaka-caturvedimaṅkalam.</summary>
+                        <summary>Assessment of the conduct (<foreign>vṛtti</foreign>) of Rathakāras or Kammāḷars, based on the Śāstras, Āgamas, and Purāṇas examined by Brāhmaṇas residing in Pāṇṭikulāntaka-caturvedimaṅkalam.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -91,7 +91,7 @@
     </ab>
     
    <p>
-       <gap reason="lost" quantity="10" unit="character"></gap> <hi rend="grantha">rathakāranā</hi>y-ulḷa kaṇmāḷa<choice><orig>n</orig><reg>ṉ</reg></choice>ukku <hi rend="grantha"> vṛti-vidhānañ co</hi>llukiṟa <hi rend="grantha">smṛti</hi>kaḷil <hi rend="grantha">gautama-vācaka</hi>ttālum <hi rend="grantha">nārada-vacanattā</hi>lum <hi rend="grantha">maskara-vacanattā</hi>lum <hi rend="grantha">yājñavalkya-vacana</hi>ttālum  <gap reason="lost" quantity="2" unit="character"></gap> <hi rend="grantha">lla-vṛtti-vacana</hi>ttālum <hi rend="grantha">brāhma<surplus>m·</surplus>-purāṇa-vacana</hi>ttālum <hi rend="grantha">kṣatriya-vaiśyā</hi>ṉu<hi rend="grantha">lo</hi>mā<surplus>n</surplus><hi rend="grantha">ntarajōtpanno rath<choice><sic>ā</sic><corr>a</corr></choice>kāraḥ</hi>
+       <gap reason="lost" quantity="10" unit="character"/> <hi rend="grantha">rathakāra</hi>n-āy-ulḷa kaṇmāḷa<choice><orig>n</orig><reg>ṉ</reg></choice>ukku <hi rend="grantha">vṛ</hi><choice><orig>t</orig><reg>tt</reg></choice>i-vi<hi rend="grantha">dhā</hi>na<hi rend="grantha">ñ co</hi>llukiṟa <hi rend="grantha">smṛ</hi>tikaḷil <hi rend="grantha">gau</hi>ta<hi rend="grantha">ma</hi>-vā<hi rend="grantha">ca</hi>kattālum nā<hi rend="grantha">rada</hi>-va<hi rend="grantha">ca</hi>nat=tālum <hi rend="grantha">maskara</hi>-va<hi rend="grantha">ca</hi>nat=tālum yā<hi rend="grantha">jña</hi>va<hi rend="grantha">lkya</hi>-va<hi rend="grantha">ca</hi>nattālum  <gap reason="lost" quantity="2" unit="character"/> <hi rend="grantha">lla-vṛ</hi>tti-va<hi rend="grantha">ca</hi>nattālum <hi rend="grantha">brāhma<surplus>m·</surplus>-purā</hi>ṇa-va<hi rend="grantha">ca</hi>nattālum <hi rend="grantha">kṣatri</hi>ya-vai<hi rend="grantha">śyā</hi>ṉu<hi rend="grantha">lo</hi>mā<surplus>n</surplus>n=ta<hi rend="grantha">rajōtpanno rath<choice><sic>ā</sic><corr>a</corr></choice>kāraḥ</hi>
    </p>
     <p>
            <hi rend="grantha">Anu</hi>l<choice><orig>o</orig><reg>ō</reg></choice>ma<choice><orig>n</orig><reg>ṉ</reg></choice> e<choice><orig>n</orig><reg>ṉ</reg></choice>ṟa Ita<choice><orig>n</orig><reg>ṉ</reg></choice>ukku <hi rend="grantha">vacana</hi>m
@@ -235,7 +235,7 @@
             <lb n="4" break="no"/>-vāstu</hi>kkaḷaiyu<supplied reason="omitted">m</supplied> <hi rend="grantha">prāsādādi-vāstu</hi>kkaḷaiyum <hi rend="grantha">pratimā-bheda</hi>ṅkaḷaiyum <hi rend="grantha">pañcāyudhādy-āyutaṁ</hi>kaḷaiyum <hi rend="grantha">brahma-sṛṣṭy-ādi <gap reason="lost" unit="character" quantity="5"></gap> di-karmmaṁ</hi>kaḷaiyum ceyya <hi rend="grantha">vidhāna</hi>m uṇṭātalāl
            </item>
        </list>
-        Iv-va<hi rend="grantha">riṣṭhomāpatti</hi>yai-y-uṭaiya <hi rend="grantha">rathakārānuloman-ākiya karmmārane</hi> Ivai
+        Iv-va<hi rend="grantha">riṣṭhomāpatti</hi>yai-y-uṭaiya <hi rend="grantha">rathakārānuloman-ākiya karmmāra</hi>nē Ivai
         y-ellāñ ceyvā<choice><orig>n</orig><reg>ṉ</reg></choice> e<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu kallilum cempilum veṭṭi-k-koḷka v-e<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu co<choice><orig>nno</orig><reg>ṉṉō</reg></choice>m
         
         <list>
@@ -254,7 +254,7 @@
             </item>
             <item>
                 I-p-pati co<choice><orig>nnen</orig><reg>ṉṉēṉ</reg></choice> ce<hi rend="grantha">nti</hi>ṟattu
-                <gap reason="lost" unit="character" quantity="7"/> <hi rend="grantha">devabhaṭṭa Ag<supplied reason="omitted">n</supplied>i-cidatirātrayājiyen Agni-cidatirātra-yājinaḥ</hi> <g type="ddanda">.</g>
+                <gap reason="lost" unit="character" quantity="7"/> <hi rend="grantha">devabhaṭṭa Ag<supplied reason="omitted">n</supplied>i-cidatirātrayāji</hi>yē<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">Agni-cidatirātra-yājinaḥ</hi> <g type="ddanda">.</g>
             </item>
             <item>
                 <hi rend="grantha">kānni</hi>kkuṟi <hi rend="grantha">keśava<unclear>n</unclear> so<unclear>ma</unclear>yājinopy evam·</hi>
@@ -277,9 +277,9 @@
     </p>
     
     <p>         
-        <hi rend="grantha">kṣatriya-vaiśyayā</hi>tanāy uḷḷa
+        <hi rend="grantha">kṣatriya-vaiśya-jā</hi>ta<choice><orig>n</orig><reg>ṉ</reg></choice>-āy-uḷḷa
         <gap reason="lost" unit="character" quantity="7"/>
-        <hi rend="grantha">śūdra</hi>-jātiyāy uḷḷa
+        <hi rend="grantha">śūdra-jā</hi>ti-y-āy-uḷḷa
         <lb n="6"/><gap reason="lost" unit="character" quantity="2"/>
         <hi rend="grantha">Āgamam·</hi> <gap reason="lost" unit="character" quantity="2"></gap> <hi rend="grantha">ditta-vacanam·</hi><g type="danda">.</g>
     </p>
@@ -567,10 +567,10 @@
             <item>
                 <lb n="11"/><hi rend="grantha"><unclear>nārāyaṇa-bha</unclear>ṭṭa-so<supplied reason="omitted">ma</supplied>yājinaḥ</hi> <g type="gomutraFinal">.</g></item>
             <item>
-                <hi rend="grantha">śrī-rājādhirāja-caturvvedi</hi>maṅkala<hi rend="grantha">ttu</hi> nampūr kaṭṭukke <hi rend="grantha">śrī-raṁganātha-bhaṭṭa-vājape<supplied reason="omitted">ya</supplied>yāji</hi>y<choice><orig>en</orig><reg>ēṉ</reg></choice>
+                <hi rend="grantha">śrī-rājādhirāja-caturvvedi</hi>-maṅkala<hi rend="grantha">ttu</hi> nampūr kaṭṭukkē <hi rend="grantha">śrī-raṁganātha-bhaṭṭa-vājape<supplied reason="omitted">ya</supplied>yāji</hi>y<choice><orig>en</orig><reg>ēṉ</reg></choice>
             </item>
             <item>
-                <hi rend="grantha">śrī-raṁganātha-bhaṭṭa</hi><unclear>nēn</unclear> <gap reason="lost" quantity="3" unit="character"></gap>
+                <hi rend="grantha">śrī-raṁga-nātha-bhaṭṭa</hi><choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice><unclear>ē</unclear><choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice> <gap reason="lost" quantity="3" unit="character"/>
             </item>
         </list>
     </p>
@@ -590,7 +590,7 @@
         <l n="d">rathakāra Iti smṛta<supplied reason="omitted">ḥ</supplied></l>
     </lg>
     
-    <p> veḷḷāḻa peṇ pi<supplied reason="omitted">ḷ</supplied>ḷai <gap reason="lost" unit="character" quantity="7"></gap> Eṟi<choice><orig>n</orig><reg>ṉ</reg></choice>a vaiśyanukku  <gap reason="lost" quantity="10" unit="character"></gap> piṟanta rathakā<supplied reason="omitted">ra</supplied>nātavan tacca<choice><orig>n</orig><reg>ṉ</reg></choice>
+    <p> veḷḷāḻa-peṇ pi<supplied reason="omitted">ḷ</supplied>ḷai <gap reason="lost" unit="character" quantity="7"/> Eṟi<choice><orig>n</orig><reg>ṉ</reg></choice>a vai<hi rend="grantha">śyanu</hi>kku  <gap reason="lost" quantity="10" unit="character"/> piṟan=ta <hi rend="grantha">rathakā</hi><supplied reason="omitted">ra</supplied>nātava<choice><orig>n</orig><reg>ṉ</reg></choice> tacca<choice><orig>n</orig><reg>ṉ</reg></choice>
     </p>
     
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
@@ -612,7 +612,7 @@
     </lg>
        
     <p>
-        <hi rend="grantha">māhiṣya</hi><unclear>nu</unclear>kku <hi rend="grantha">karṇikku</hi> piṟa<unclear>ntā</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">rathakāran-āna</hi> tacca<choice><orig>n</orig><reg>ṉ</reg></choice> i<surplus>va</surplus>va<supplied reason="omitted"><choice><orig>n</orig><reg>ṉ</reg></choice>u</supplied>kku to<choice><orig>l</orig><reg>ḻ</reg></choice>i <gap reason="lost" quantity="10" unit="character"></gap> ku<unclear>ru</unclear>taikku Ilakkaṇamum <hi rend="grantha">vāstu-śāstra</hi>mum cilpa-toḻi<surplus>la</surplus>lum to<surplus>r</surplus>paṇṇum i<supplied reason="omitted">la</supplied>kka<unclear>ṇamu</unclear>m Ākiṟa I<hi rend="grantha">nta vijai</hi>ka<surplus>ḷ</surplus>ḷālē ta<choice><orig>n</orig><reg>ṉ</reg></choice> car<choice><sic>i</sic><corr>ī</corr></choice>ra<supplied reason="omitted">m</supplied> I<hi rend="grantha">rakṣi</hi>kkum Itu <hi rend="grantha">rathakāran-āna</hi> tacca<choice><orig>n</orig><reg>ṉ</reg></choice>ukku <hi rend="grantha">vṛtti</hi> e<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu
+        <hi rend="grantha">māhiṣya</hi><unclear>nu</unclear>kku <hi rend="grantha">karṇi</hi>kku piṟa<unclear>ntā</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">rathakāra</hi><choice><orig>n</orig><reg>ṉ</reg></choice>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a tacca<choice><orig>n</orig><reg>ṉ</reg></choice> I<surplus>v</surplus>va<supplied reason="omitted"><choice><orig>n</orig><reg>ṉ</reg></choice>u</supplied>kku to<choice><orig>l</orig><reg>ḻ</reg></choice>i <gap reason="lost" quantity="10" unit="character"/> ku<unclear>ru</unclear>taikku Ilakkaṇamum <hi rend="grantha">vāstu-śāstra</hi>mum cilpa-toḻi<surplus>la</surplus>lum to<surplus>r</surplus>paṇṇum i<supplied reason="omitted">la</supplied>kka<unclear>ṇamu</unclear>m Ākiṟa In=ta vi<hi rend="grantha">jai</hi>ka<surplus>ḷ</surplus>ḷālē ta<choice><orig>n</orig><reg>ṉ</reg></choice> car<choice><sic>i</sic><corr>ī</corr></choice>ra<supplied reason="omitted">m</supplied> I<hi rend="grantha">rakṣi</hi>kkum Itu <hi rend="grantha">rathakāra</hi><choice><orig>n</orig><reg>ṉ</reg></choice>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a tacca<choice><orig>n</orig><reg>ṉ</reg></choice>ukku <hi rend="grantha">vṛ</hi>t=ti E<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu
         co<choice><orig>nn</orig><reg>ṉṉ</reg></choice>ār <g type="dash">.</g>
     </p>
     
@@ -623,17 +623,16 @@
      <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">Atra śaṁkha-va<unclear>cana</unclear>ṁ <g type="gomutraFinal">.</g>
     </p>
     
-    <p><lb n="13"/>kṣatriya-vaiśyānulomāntarajotpanno rathakāra<supplied reason="omitted">r</supplied> Āna kammāḷar<choice><orig>o</orig><reg>ō</reg></choice>m Anul<choice><orig>o</orig><reg>ō</reg></choice><supplied reason="omitted">ma</supplied><hi rend="grantha">rom prati</hi>l<choice><orig>o</orig><reg>ō</reg></choice>mar āna jātikaḷil Iḻi-toḻil ceyy<choice><orig>o</orig><reg>ō</reg></choice>m ākavum Eṉṟu coṉṉār
+    <p><lb n="13"/><hi rend="grantha">kṣatri</hi>ya-<hi rend="grantha">vaiśyānulomā</hi>n=ta<hi rend="grantha">rajot·pa</hi>nno <hi rend="grantha">rathakāra</hi><supplied reason="omitted">r</supplied>-Āna kammāḷar<choice><orig>o</orig><reg>ō</reg></choice>m Anul<choice><orig>o</orig><reg>ō</reg></choice><supplied reason="omitted">ma</supplied><hi rend="grantha">ro</hi>m <hi rend="grantha">pra</hi>til<choice><orig>o</orig><reg>ō</reg></choice>mar-āna <hi rend="grantha">jā</hi>tikaḷil Iḻi-toḻil ceyy<choice><orig>o</orig><reg>ō</reg></choice>m ākavum Eṉṟu coṉṉār
     </p>
     <p>
-        <gap reason="lost" unit="character" quantity="6"></gap> kku Iḻi-toḻil ceyy<choice><orig>o</orig><reg>ō</reg></choice>m ākavum</p>
-        <p><hi rend="grantha">smṛti-vacanaṁ</hi>kaḷi<supplied reason="omitted">l</supplied> collutalālum paṇṇin<choice><orig>o</orig><reg>ō</reg></choice>m <hi rend="grantha">rathakāraro</hi>m</p>
+        <gap reason="lost" unit="character" quantity="6"/> kku Iḻi-toḻil ceyy<choice><orig>o</orig><reg>ō</reg></choice>m ākavum <hi rend="grantha">smṛ</hi>ti-va<hi rend="grantha">ca</hi>na<hi rend="grantha">ṁ</hi>kaḷi<supplied reason="omitted">l</supplied> collutalālum paṇṇin<choice><orig>o</orig><reg>ō</reg></choice>m <hi rend="grantha">rathakāraro</hi>m</p>
     
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         kṣatriya-vaiśyānulom<supplied reason="omitted">ā</supplied>ntarajotpanna<seg rendition="class:tamil maturity:regional">r</seg> rathakāra<supplied reason="omitted"><seg rendition="class:tamil maturity:regional">r</seg></supplied> tasyej·<supplied reason="omitted">yā</supplied>dhānopanayana-kriyāś cā prati<seg rend="check">ṣi<unclear>ddhatvāt·</unclear></seg> tasyāśva-ratha-sūtra-śilpa-vāstu-vidyā-dhanur-vvi<supplied reason="omitted">dyā</supplied>nvitāś ceti
     </p>
     
-    <p>Ampaṭṭanukku karaṇikku piṟa<hi rend="grantha">ntān rathakāran-āna</hi> kammāḷan Iva<choice><orig>n</orig><reg>ṉ</reg></choice>ukku toḻil <hi rend="grantha">Aśvajā</hi>tīyamum tēr teruvi
+    <p>Ampaṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice>ukku karaṇikku piṟa<hi rend="grantha">n=tā<choice><orig>n</orig><reg>ṉ</reg></choice> rathakāra</hi><choice><orig>n</orig><reg>ṉ</reg></choice>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a kammāḷa<choice><orig>n</orig><reg>ṉ</reg></choice> Iva<choice><orig>n</orig><reg>ṉ</reg></choice>ukku toḻil <hi rend="grantha">Aśvajā</hi>tīyamum tēr teruvi
     </p>
 
 </div>
@@ -658,8 +657,8 @@
     </p>
      
      <p n="1">
-         Among the <foreign>smṛti</foreign>s which state the rules of conduct for the Kaṇmāḷa who is a Rathakāra <gap reason="lost"/> ...
-         in view of a statement by Gautama, a statement by Nārada, a statement by Maskara<note>That is, Maskarin</note>, a statement by Yājñavalkya, a statement in the commentary <gap reason="lost"/>, and a statement in the Brahmapurāṇa,
+         Among the <foreign>smṛti</foreign>s which state the rules of conduct for the Kaṇmāḷa<note>That is, the Kammāḷa.</note> who is a Rathakāra <gap reason="lost"/>,
+         in view of/as per a statement by Gautama, a statement by Nārada, a statement by Maskara<note>That is, Maskarin</note>, a statement by Yājñavalkya, a statement in the commentary <gap reason="lost"/>, and a statement in the Brahmapurāṇa,
          a <foreign>rathakāra</foreign> is ...
      </p>
      <p n="1">
@@ -693,7 +692,7 @@
          ...
      </p>
      
-     <p n="2">Here a statement from a <foreign>smṛti</foreign> mentioned by Maskara<foreign>That is, Maskarin</foreign> ...:</p>
+     <p n="2">Here a statement from a <foreign>smṛti</foreign> mentioned by Maskara<note>That is, Maskarin</note>, while making a comment on Gautama:</p>
      
      <p n="2">...</p>
      
@@ -718,14 +717,14 @@
      <p n="3-4">
          <list>
              <item>
-                 Since are said so <supplied reason="explanation"><foreign>collutalālum</foreign></supplied> his origin and rules of conduct in the Śaivāgamas, the Pañcarātrasaṃhitās, ...
+                 Since his origin and rules of conduct are stated so <supplied reason="explanation"><foreign>collutalālum</foreign></supplied> in the Śaivāgamas, the Pañcarātrasaṃhitās, ...
              </item>
              <item>
-                 and since is <supplied reason="explanation"><foreign>uṇṭalālum</foreign></supplied> his duty to ...
+                 and since the rule is <supplied reason="explanation"><foreign>uṇṭalālum</foreign></supplied> to do<note>That is, since his duty is to.</note> ...
                  
              </item>
          </list>
-         we have declared that they should engrave on stone and copper that he does so all of these ...
+         we have declared that they engrave on stone and copper <supplied reason="subaudible">a statement</supplied> specifying <supplied reason="explanation"><foreign>eṉṟu</foreign></supplied> that the Karmmāra<note>That is, the Kammāḷa.</note> does so all of these ...
          that is,
          <list>
              <item>I, Yajñāta-bhaṭṭa-somayājin ...</item>
