@@ -84,6 +84,8 @@
     <text xml:space="preserve">
 <body>	
 
+<!--Encoding of Grantha should be revised-->
+    
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:regional">
 				
     <ab xml:lang="san-Latn" rendition="class:grantha maturity:regional"> 
@@ -532,6 +534,8 @@
         <l n="d">sunāmā yamanāmayaḥ</l>
     </lg>
    
+   <!--The metre of pādas ab of stanza 47 is incorrect. Or is it stanzas46? -->
+    
     <lg n="47" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="a">dṛḍhayonasū</l>
         <l n="b"><lb n="10"/><unclear>yo</unclear>nalasobhayaḥ</l>
@@ -578,7 +582,7 @@
         <!--
             Beginning of another, though related, inscription.
             Create another XML for this one = 603B or 603-1.
-            The we here = the Kammāḷars.
+            The Kammāḷars speaking here, whereas the Brahmins were speaking in 603A or 603-1
         -->
     
       <ab xml:lang="san-Latn" rendition="class:grantha maturity:regional"><lb n="12"/>svasti śrī <g type="gomutraFinal">.</g></ab>
@@ -648,7 +652,6 @@
         </listApp>
    
 </div>
-<!--The metre of pādas ab of stanza 47 is incorrect  -->
     
  <div type="translation" resp="part:doop part:emfr">
 								
