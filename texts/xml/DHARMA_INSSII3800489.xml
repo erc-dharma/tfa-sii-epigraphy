@@ -240,49 +240,48 @@
                 
 </div>
     
-            <div type="translation" resp="part:doop">
-                
-                <p n="1">Prosperity! Fortune!
-                </p>
-                
-            </div>
+ <div type="translation" resp="part:doop">
+     
+     <p n="1">Prosperity! Fortune!
+     </p>
+     
+ </div>
+    
+    <div type="commentary">
+        <p>This inscription is incomplete.</p>
+        <p>This inscriptions belongs to the time of Kulōttuṅka Cōḻa III according to <bibl><ptr target="bib:ARIE1912-1913"/></bibl> and <bibl><ptr target="bib:Mahalingam1991_01"/></bibl>; it belongs to the time of Kulōttuṅka Cōḻa I according to <bibl><ptr target="bib:Swaminathan2019_01"/></bibl>.</p>
+        <p>Based on the association to different Cōḻa kings, this inscription is dated to 1218 A.D. according to <bibl><ptr target="bib:Mahalingam1991_01"/></bibl> and to 1110 A.D. according to <bibl><ptr target="bib:Swaminathan2019_01"/></bibl>.</p>
+    </div>
+        
+    <div type="bibliography">
+        <p>Reported in <bibl><ptr target="bib:ARIE1912-1913"/></bibl> (ARIE/1912-1913/B/1912/489). Summary in <bibl><ptr target="bib:Mahalingam1991_01"/></bibl> (Tp. 658).</p>
+        <p>Edited in <bibl><ptr target="bib:Swaminathan2019_01"/></bibl> (SII 38.489).</p>
+        <p>This digital edition by Dorotea Operato, based on <bibl><ptr target="bib:Swaminathan2019_01"/></bibl>.</p>
+        
+        <listBibl type="primary">
+            <bibl n="SII">
+                <ptr target="bib:Swaminathan2019_01"/>
+                <citedRange unit="page">580-583</citedRange>
+                <citedRange unit="item">489</citedRange>
+            </bibl>
+        </listBibl>
+        
+        <listBibl type="secondary">
+            <bibl>
+                <ptr target="bib:ARIE1912-1913"/>
+                <citedRange unit="page">55</citedRange>
+                <citedRange unit="appendix">B/1912</citedRange>
+                <citedRange unit="item">489</citedRange>
+            </bibl>
             
-            <div type="commentary">
-                <p>This inscription is incomplete.</p>
-                <p>This inscriptions belongs to the time of Kulōttuṅka Cōḻa III according to <bibl><ptr target="bib:ARIE1912-1913"/></bibl> and <bibl><ptr target="bib:Mahalingam1991_01"/></bibl>; it belongs to the time of Kulōttuṅka Cōḻa I according to <bibl><ptr target="bib:Swaminathan2019_01"/></bibl>.</p>
-                <p>Based on the association to different Cōḻa kings, this inscription is dated to 1218 A.D. according to <bibl><ptr target="bib:Mahalingam1991_01"/></bibl> and to 1110 A.D. according to <bibl><ptr target="bib:Swaminathan2019_01"/></bibl>.</p>
-            </div>
-                                    
-            
-            <div type="bibliography">
-                <p>Reported in <bibl><ptr target="bib:ARIE1912-1913"/></bibl> (ARIE/1912-1913/B/1912/489).</p>
-                <p>Edited in <bibl><ptr target="bib:Swaminathan2019_01"/></bibl> (SII 38.489).</p>
-                <p>This digital edition by Dorotea Operato, based on <bibl><ptr target="bib:Swaminathan2019_01"/></bibl>.</p>
-                
-                <listBibl type="primary">
-                    <bibl n="SII">
-                        <ptr target="bib:Swaminathan2019_01"/>
-                        <citedRange unit="page">580-583</citedRange>
-                        <citedRange unit="item">489</citedRange>
-                    </bibl>
-                </listBibl>
-                
-                <listBibl type="secondary">
-                    <bibl>
-                        <ptr target="bib:ARIE1912-1913"/>
-                        <citedRange unit="page">55</citedRange>
-                        <citedRange unit="appendix">B/1912</citedRange>
-                        <citedRange unit="item">489</citedRange>
-                    </bibl>
-                    
-                    <bibl>
-            <ptr target="bib:Mahalingam1991_01"/>
-            <citedRange unit="page">140</citedRange>
-            <citedRange unit="item">658</citedRange>
-        </bibl>
-                </listBibl>
-            </div>
-        </body>
-    </text>
+            <bibl>
+                <ptr target="bib:Mahalingam1991_01"/>
+                <citedRange unit="page">140</citedRange>
+                <citedRange unit="item">Tp. 658</citedRange>
+            </bibl>
+        </listBibl>
+    </div>
+</body>
+</text>
 </TEI>
 
