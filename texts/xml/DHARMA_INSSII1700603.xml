@@ -96,7 +96,7 @@
        <gap reason="lost" quantity="10" unit="character"/> <hi rend="grantha">rathakāra</hi>n-āy-ulḷa kaṇmāḷa<choice><orig>n</orig><reg>ṉ</reg></choice>ukku <hi rend="grantha">vṛ</hi><choice><orig>t</orig><reg>tt</reg></choice>i-vi<hi rend="grantha">dhā</hi>na<hi rend="grantha">ñ co</hi>llukiṟa <hi rend="grantha">smṛ</hi>tikaḷil <hi rend="grantha">gau</hi>ta<hi rend="grantha">ma</hi>-vā<hi rend="grantha">ca</hi>kattālum nā<hi rend="grantha">rada</hi>-va<hi rend="grantha">ca</hi>nat=tālum <hi rend="grantha">maskara</hi>-va<hi rend="grantha">ca</hi>nat=tālum yā<hi rend="grantha">jña</hi>va<hi rend="grantha">lkya</hi>-va<hi rend="grantha">ca</hi>nattālum  <gap reason="lost" quantity="2" unit="character"/> <hi rend="grantha">lla-vṛ</hi>tti-va<hi rend="grantha">ca</hi>nattālum <hi rend="grantha">brāhma<surplus>m·</surplus>-purā</hi>ṇa-va<hi rend="grantha">ca</hi>nattālum <hi rend="grantha">kṣatri</hi>ya-vai<hi rend="grantha">śyā</hi>ṉu<hi rend="grantha">lo</hi>mā<surplus>n</surplus>n=ta<hi rend="grantha">rajōtpanno rath<choice><sic>ā</sic><corr>a</corr></choice>kāraḥ</hi>
    </p>
     <p>
-           <hi rend="grantha">Anu</hi>l<choice><orig>o</orig><reg>ō</reg></choice>ma<choice><orig>n</orig><reg>ṉ</reg></choice> e<choice><orig>n</orig><reg>ṉ</reg></choice>ṟa Ita<choice><orig>n</orig><reg>ṉ</reg></choice>ukku <hi rend="grantha">vacana</hi>m
+           <hi rend="grantha">Anu</hi>l<choice><orig>o</orig><reg>ō</reg></choice>ma<choice><orig>n</orig><reg>ṉ</reg></choice> e<choice><orig>n</orig><reg>ṉ</reg></choice>ṟa Ita<choice><orig>n</orig><reg>ṉ</reg></choice>ukku va<hi rend="grantha">ca</hi>nam
    </p>
             
     <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
@@ -273,7 +273,7 @@
             <item><gap reason="lost" unit="character" quantity="3"/> ḷu<hi rend="grantha">ka<unclear>-mū</unclear>rtti dakṣaṇāmūrti-bhaṭṭa-vasanta-yājinaḥ</hi> <g type="gomutraFinal">.</g>
             </item>
             <item>
-                <hi rend="grantha">śrī-rājādhirāja-c-catur-vedi-maṁ</hi>kalattu muppurā <hi rend="grantha">bhavaskaṁda <gap reason="lost" unit="character" quantity="2"></gap> somayāji</hi>y<choice><orig>e</orig><reg>ē</reg></choice>ṉ <hi rend="grantha">bhava-skanta</hi> <gap reason="lost" unit="character" quantity="6"/> 
+                <hi rend="grantha">śrī-rājādhirāja-c-catur-vedi-maṁ</hi>kalattu muppurā <hi rend="grantha">bha</hi>va<hi rend="grantha">skaṁda <gap reason="lost" unit="character" quantity="2"></gap> soma</hi>yā<hi rend="grantha">ji</hi>y<choice><orig>e</orig><reg>ē</reg></choice>ṉ <hi rend="grantha">bhava-skanta</hi> <gap reason="lost" unit="character" quantity="6"/> 
             </item>
         </list>
     </p>
