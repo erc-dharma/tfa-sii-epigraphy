@@ -48,7 +48,7 @@
 					</msIdentifier>
 					<msContents>
 					    <summary>
-					    	Sale of 4 <foreign>mā</foreign> of tax-free land <supplied reason="explanation"><foreign>iṟaiyiḻi</foreign></supplied> by the <foreign>sabhai</foreign> of Cāttaṉūr for the maintenance of coconut garden <supplied reason="explanation"><foreign>teṅku-nantavāṉam</foreign></supplied> and a flower garden <supplied reason="explanation"><foreign>pū-nandavāṉam</foreign></supplied> for the Māhadeva at Tiruvāvaṭutuṟai.
+					    	Sale of 4 <foreign>mā</foreign> of tax-free land <supplied reason="explanation"><foreign>iṟaiyiḻi</foreign></supplied> by the <foreign>sabhai</foreign> of Cāttaṉūr for the maintenance of coconut garden <supplied reason="explanation"><foreign>teṅku-nantavāṉam</foreign></supplied> and a flower garden <supplied reason="explanation"><foreign>pū-nandavāṉam</foreign></supplied> to the Māhadeva at Tiruvāvaṭutuṟai.
 					    </summary>
 					</msContents>
 					<physDesc>
@@ -101,8 +101,8 @@
 	</p>
 	
 	<p>
-		tiruvāvaṭutuṟai <hi rend="grantha">mahāde</hi>vaṟku Āyiravaṉāḷ teṅkunan=tavāṉañ ceyta Ātittapa<hi rend="grantha">ṉma</hi>-t-terin=ta kaikkoḷaril caṅkayaṉ eṟṟikku
-		<lb n="2"/>Eṅkaḷ<choice><sic>u</sic><corr>ū</corr></choice>r miṟṟalaṅkuṭi eṅkaḷ potunilam-āṉa nālmā-c ceyum <hi rend="grantha">cantrā</hi>tittavaṟ ni<supplied reason="lost">ṟ</supplied>kka iṟaiyiḻicci viṟṟu-k kuṭutta nilattukk' ellai Uṭciṟuvāykkālukku me<supplied reason="lost">ṟ</supplied>kkum kāmakkāṇi kumaraṉaṅki nilattukku <unclear>vaṭa</unclear><gap reason="lost" quantity="6" unit="character"></gap>
+		tiruvāvaṭutuṟai <hi rend="grantha">mahāde</hi>vaṟku Āyiravaṉāḷ teṅkunan=tavāṉañ ceyta Ātittapa<hi rend="grantha">ṉma</hi>-t-terin=ta kaikkōḷaril caṅkayaṉoṟṟikku
+		<lb n="2"/>Eṅkaḷ<choice><sic>u</sic><corr>ū</corr></choice>r miṟṟalaṅkuṭi eṅkaḷ potunilam-āṉa nālmā-c ce<supplied reason="omitted">y</supplied>yum <hi rend="grantha">cantrā</hi>tittavaṟ ni<supplied reason="lost">ṟ</supplied>kka iṟaiyiḻicci viṟṟu-k-kuṭutta nilattukk' ellai Uṭciṟuvāykkālukku me<supplied reason="lost">ṟ</supplied>kkum kāmakkāṇi kumaraṉaṅki nilattukku <unclear>vaṭa</unclear><gap reason="lost" quantity="6" unit="character"></gap>
 		<lb n="3" break="no"/>m pāratāyaṉ nāraṇanaṅki nilattukku teṟkum Iv-v-icaitta I-ṉ-ṉāṉkellaiyilum akap<supplied reason="lost">pa</supplied>ṭṭa nila<supplied reason="lost">m</supplied> nantavāṉappuṟam āka viṟṟukkuṭuttōm <hi rend="grantha">sabhai</hi>yōm 
 		</p>
 	
@@ -128,7 +128,12 @@
 <div type="translation" resp="part:reda">
 				
     <p n="1">Prosperity! Fortune!</p>
-    			
+	<p n="1"> This is the second year of king Parakēsari-paṉma.</p>
+	<p n="1">We are the assembly <supplied reason="explanation"><foreign>sabhaiyōm</foreign></supplied> of Cattaṉūr, a <foreign>brahmadeya</foreign> on the south bank of Tiraimūr-nāṭu.</p>
+	<p n="1-3">The land for the Mahādeva of Tiruvāvaṭutuṟai was sold as tax-free land <supplied reason="explanation"><foreign>iṟaiyiḻicci viṟṟu-k-kuṭutta</foreign></supplied> to Caṅkayaṉ Oṟṟi –a member of the Ātittapaṉma-terinta army <supplied reason="explanation"><foreign>kaikkōḷar</foreign></supplied>–, which will remain as long as the sun and the moon, and for which four <foreign>mā</foreign>s of our general land <supplied reason="explanation"><foreign>potunilam</foreign></supplied> in our village, Miṟṟalan-kuṭi, were stipulated <supplied reason="explanation"><foreign>ceyyum</foreign></supplied>.</p>
+	<p n="3-4">The boundaries of the land are to the west of the Uṭciṟu channel <supplied reason="explanation"><foreign>vāykkāl</foreign></supplied>, to the north of the Kāmakkāṇi Kumaraṉaṅki land <gap extent="unknown" reason="lost"></gap>, and to the south of the Pāratāyaṉ Nāraṇanaṅki land. These are the four contiguous boundaries of the land that we, the assembly <supplied reason="subaudible">of Cattaṉūr</supplied>, have sold as land for the flower garden of the temple <supplied reason="explanation"><foreign>nantavāṉappuṟam</foreign></supplied>.</p>
+
+	
 </div>	
 		
 <!--<div type="commentary">
