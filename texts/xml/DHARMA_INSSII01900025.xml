@@ -18,9 +18,9 @@
 				</respStmt>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
 					</persName>
 				</respStmt>
 			</titleStmt>
@@ -79,7 +79,7 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:emfr" when="2024-09-05" status="draft">Creation of the file</change>
+			<change who="part:reda" when="2025-02-22" status="draft">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -95,7 +95,7 @@
 		kō-p-parakē<hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">ṉma</hi>ṟku 2 yāṇṭu Āvatu teṉkarai-t tiraim<choice><sic>u</sic><corr>ū</corr></choice>r-nāṭṭu <hi rend="grantha">brahma</hi>tēyam cāttuṉūr <hi rend="grantha">sabhai</hi>yōm tiruvāvaṭutuṟai <hi rend="grantha">mahāde</hi>vaṟku Āyiravaṉāḷ teṅkunan=tavāṉañ ceyta Ātittaṭa<hi rend="grantha">ṉma</hi>tterin=ta kaikkoḷaril caṅkayaṉ eṟṟikku
 <lb n="2"/>Eṅkaḷ<choice><sic>u</sic><corr>ū</corr></choice>r miṟṟalaṅkuṭi eṅkaḷ potunilam-āṉa nālmā-c ceyum <hi rend="grantha">cantrā</hi>tittavaṟ ni<supplied reason="lost">ṟ</supplied>kka iṟaiyiḻicci viṟṟu-k kuṭutta nilattukk' ellai Uṭciṟuvāykkālukku me<supplied reason="lost">ṟ</supplied>kkum kāmakkāṇi kumaraṉaṅki nilattukku <unclear>vaṭa</unclear><gap reason="lost" quantity="6" unit="character"></gap>
 <lb n="3" break="no"/>m pāratāyaṉ nāraṇanaṅki nilattukku teṟkum Iv-v-icaitta I-ṉ-ṉāṉkellaiyilum akap<supplied reason="lost">pa</supplied>ṭṭa nila<supplied reason="lost">m</supplied> nantavāṉappuṟam āka viṟṟukkuṭuttōm <hi rend="grantha">sabhai</hi>yōm teṅkāyiramum kāccaṉ nūṟu nūṟu teṅkiṉ pōkaṅ koṇṭu O<gap reason="lost" quantity="8" unit="character"></gap>
-<lb n="4"/>piṉ<unclear>pic</unclear>cey Uṇṭu pūna<hi rend="grantha">nda</hi>vāṉañ ceyyavum v<supplied reason="lost">ai</supplied>ccatu pa<hi rend="grantha">nmāheśvara-rakṣai</hi><g type="gomutraFinal">.</g> 
+<lb n="4"/>piṉ<unclear>pic</unclear>cey Uṇṭu pū-na<hi rend="grantha">nda</hi>vāṉañ ceyyavum v<supplied reason="lost">ai</supplied>ccatu pa<hi rend="grantha">nmāheśvara-rakṣai</hi><g type="gomutraFinal">.</g> 
 	
 	</p>
           
