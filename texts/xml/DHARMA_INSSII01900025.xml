@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			    <title>Tiruvāvaṭutuṟai, Gomuktīṡvara, time of Parāntaka I, </title>
+			    <title>Tiruvāvaṭutuṟai, Gomuktīṡvara, time of Parāntaka I, year 2</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -47,7 +47,9 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-					    <summary></summary>
+					    <summary>
+					    	Sale of 4 <foreign>mā</foreign> of tax-free land <supplied reason="explanation"><foreign>iṟaiyiḻi</foreign></supplied> by the <foreign>sabhai</foreign> of Cāttaṉūr for the maintenance of coconut garden <supplied reason="explanation"><foreign>teṅku-nantavāṉam</foreign></supplied> and a flower garden <supplied reason="explanation"><foreign>pū-nandavāṉam</foreign></supplied> for the Māhadeva at Tiruvāvaṭutuṟai.
+					    </summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -92,10 +94,21 @@
     </ab>
 	
 	<p>
-		kō-p-parakē<hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">ṉma</hi>ṟku 2 yāṇṭu Āvatu teṉkarai-t tiraim<choice><sic>u</sic><corr>ū</corr></choice>r-nāṭṭu <hi rend="grantha">brahma</hi>tēyam cāttuṉūr <hi rend="grantha">sabhai</hi>yōm tiruvāvaṭutuṟai <hi rend="grantha">mahāde</hi>vaṟku Āyiravaṉāḷ teṅkunan=tavāṉañ ceyta Ātittaṭa<hi rend="grantha">ṉma</hi>tterin=ta kaikkoḷaril caṅkayaṉ eṟṟikku
-<lb n="2"/>Eṅkaḷ<choice><sic>u</sic><corr>ū</corr></choice>r miṟṟalaṅkuṭi eṅkaḷ potunilam-āṉa nālmā-c ceyum <hi rend="grantha">cantrā</hi>tittavaṟ ni<supplied reason="lost">ṟ</supplied>kka iṟaiyiḻicci viṟṟu-k kuṭutta nilattukk' ellai Uṭciṟuvāykkālukku me<supplied reason="lost">ṟ</supplied>kkum kāmakkāṇi kumaraṉaṅki nilattukku <unclear>vaṭa</unclear><gap reason="lost" quantity="6" unit="character"></gap>
-<lb n="3" break="no"/>m pāratāyaṉ nāraṇanaṅki nilattukku teṟkum Iv-v-icaitta I-ṉ-ṉāṉkellaiyilum akap<supplied reason="lost">pa</supplied>ṭṭa nila<supplied reason="lost">m</supplied> nantavāṉappuṟam āka viṟṟukkuṭuttōm <hi rend="grantha">sabhai</hi>yōm teṅkāyiramum kāccaṉ nūṟu nūṟu teṅkiṉ pōkaṅ koṇṭu O<gap reason="lost" quantity="8" unit="character"></gap>
-<lb n="4"/>piṉ<unclear>pic</unclear>cey Uṇṭu pū-na<hi rend="grantha">nda</hi>vāṉañ ceyyavum v<supplied reason="lost">ai</supplied>ccatu pa<hi rend="grantha">nmāheśvara-rakṣai</hi><g type="gomutraFinal">.</g> 
+		kō-p-parakē<hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">ṉma</hi>ṟku 2 yāṇṭu Āvatu</p>
+	
+	<p>
+		teṉkarai-t tiraim<choice><sic>u</sic><corr>ū</corr></choice>r-nāṭṭu <hi rend="grantha">brahma</hi>tēyam cāttuṉūr <hi rend="grantha">sabhai</hi>yōm
+	</p>
+	
+	<p>
+		tiruvāvaṭutuṟai <hi rend="grantha">mahāde</hi>vaṟku Āyiravaṉāḷ teṅkunan=tavāṉañ ceyta Ātittapa<hi rend="grantha">ṉma</hi>-t-terin=ta kaikkoḷaril caṅkayaṉ eṟṟikku
+		<lb n="2"/>Eṅkaḷ<choice><sic>u</sic><corr>ū</corr></choice>r miṟṟalaṅkuṭi eṅkaḷ potunilam-āṉa nālmā-c ceyum <hi rend="grantha">cantrā</hi>tittavaṟ ni<supplied reason="lost">ṟ</supplied>kka iṟaiyiḻicci viṟṟu-k kuṭutta nilattukk' ellai Uṭciṟuvāykkālukku me<supplied reason="lost">ṟ</supplied>kkum kāmakkāṇi kumaraṉaṅki nilattukku <unclear>vaṭa</unclear><gap reason="lost" quantity="6" unit="character"></gap>
+		<lb n="3" break="no"/>m pāratāyaṉ nāraṇanaṅki nilattukku teṟkum Iv-v-icaitta I-ṉ-ṉāṉkellaiyilum akap<supplied reason="lost">pa</supplied>ṭṭa nila<supplied reason="lost">m</supplied> nantavāṉappuṟam āka viṟṟukkuṭuttōm <hi rend="grantha">sabhai</hi>yōm 
+		</p>
+	
+	<p>
+		teṅkāyiramum kāccaṉ nūṟu nūṟu teṅkiṉ pōkaṅ koṇṭu O<gap reason="lost" quantity="8" unit="character"></gap>
+		<lb n="4"/>piṉ<unclear>pic</unclear>cey Uṇṭu  -na<hi rend="grantha">nda</hi>vāṉañ ceyyavum v<supplied reason="lost">ai</supplied>ccatu pa<hi rend="grantha">nmāheśvara-rakṣai</hi><g type="gomutraFinal">.</g> 
 	
 	</p>
           
