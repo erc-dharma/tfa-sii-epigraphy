@@ -912,10 +912,6 @@
             <ptr target="bib:SrinivasaRao1967_01"/>
             <citedRange unit="page">183-186</citedRange>
             <citedRange unit="item">357</citedRange>
-        </bibl>
-        
-        <bibl n="SR">
-            <ptr target="bib:SrinivasaRao1967_01"/>      
             <citedRange unit="plate">II-III</citedRange>
         </bibl>
         
@@ -928,14 +924,8 @@
         
         <bibl n="VG">
             <ptr target="bib:Gillet2023_01"/>
-            <citedRange unit="page">69, 81-82</citedRange>
-            <citedRange unit="item">11</citedRange>
-        </bibl>
-        
-        <bibl n="VG">
-            <ptr target="bib:Gillet2023_01"/>
-            <citedRange unit="page">82-85</citedRange>
-            <citedRange unit="item">12</citedRange>
+            <citedRange unit="page">69, 81-82, 82-85</citedRange>
+            <citedRange unit="item">11-12</citedRange>
         </bibl>
         
     </listBibl>
