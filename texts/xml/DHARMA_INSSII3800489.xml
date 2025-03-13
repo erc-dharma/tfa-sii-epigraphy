@@ -117,7 +117,7 @@
                 
                 <item>                    
                     Arintaman-cakkara-va<reg>r</reg>tti A
-                    <lb n="9" break="no"/>ntar v<choice><orig>e</orig><reg>ē</reg></choice>ti <hi rend="grantha">ṛṣi</hi>kaḷai Akaram eṟṟi tēril<choice><orig>e</orig><reg>ē</reg></choice> Eḻunt’ aruḷuvikkiṟa kālat<unclear>tu</unclear>
+                    <lb n="9" break="no"/>ntar v<choice><orig>e</orig><reg>ē</reg></choice>ti <hi rend="grantha">ṛṣi</hi>kaḷai Akaram <choice><orig>e</orig><reg>ē</reg></choice>ṟṟi tēril<choice><orig>e</orig><reg>ē</reg></choice> Eḻunt’ aruḷuvikkiṟa kālat<unclear>tu</unclear>
                 </item>
                 
                 <item>
@@ -125,7 +125,7 @@
                     
                     <lb n="11" break="no"/>ṭu pōntu tiru-ve<unclear>ḷḷa</unclear>ṟaiyilum pāccililum tiru-p-piṭ<choice><orig>a</orig><reg>ā</reg></choice>vūrilum Ū
                     
-                    <lb n="12" break="no"/>ṟṟattūrilum ceṉṉi-vala-kūṟṟa kārai-k-kāṭṭilum Eṟṟi Eṅka
+                    <lb n="12" break="no"/>ṟṟattūrilum ceṉṉi-vala-kūṟṟa kārai-k-kāṭṭilum <choice><orig>E</orig><reg>Ē</reg></choice>ṟṟi Eṅka
                     
                     <lb n="13" break="no"/>ḷukku mutalikaḷ-āṉa <hi rend="grantha">ṛṣi</hi>kaḷ kai Aṭaikkiṟa<surplus>kkiṟa</surplus> kālattu
                 </item>
@@ -137,48 +137,46 @@
             
             <lb n="15" break="no"/>ṅkaḷum Iṭṭu-p-pōtukaiyālum Ip-paṭiyai Iṉṉāḷ varaiyum Aṟiyā
             
-            <lb n="16" break="no"/>mal niṉṟa Eṅkaḷ piṟa-p-puṇarntu kai-y-aṭai-p-paṟikaiyāl It-t<choice><orig>e</orig><reg>ē</reg></choice>vaṟku
+            <lb n="16" break="no"/>mal niṉṟa Eṅkaḷ piṟa-p-puṇarntu kai-y-aṭai-p-paṟikaiyāl
             
-            <lb n="17"/>nāṟpat’ āvatu mutal cantirātittaya-varai Iṭaṅkai toṇṇūṟṟ’ eṭṭu E
-            
-            <lb n="18" break="no"/>camayatt’ uṭaṉum kūṭa Oru niḻaṟ-kiḻ iruntu Orutti peṟṟa makkaḷ-āy Oruva
-            
-            <lb n="19" break="no"/>ṟku vantaṉa Aṉaiva<unclear>ṟku</unclear>m Oppat’ ākavum
-        </p>
-        
-        <p>
-            Iṭaṅkaikku-t tāḻvu vantaṉa
-            
-            <lb n="20"/>nāṅkaḷ<choice><orig>e</orig><reg>ē</reg></choice> Eṟaṭṭu cāti-k kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m ākavum
-        </p>
-        <p>
-            
-            n<choice><orig>e</orig><reg>ē</reg></choice>r v<choice><orig>e</orig><reg>ē</reg></choice>ṇṭuvaṉa Umi kaṭai māṇi
-            
-            <lb n="21" break="no"/>kkan talai Āka Iviḻu-k-kāṭu Okka Iṭa-k kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m ākavum
-        </p>
-        <p>
-            Eṅkaḷukku <unclear>mi</unclear>kka
-            
-            <lb n="22"/>ciṟa-p<unclear>ō</unclear>r-āka kulataṇṭa Iṭum iṭattum <choice><orig>e</orig><reg>ē</reg></choice>ḻi-kompuṅ kāḷam kuṭai Uḷḷiṭṭa cātaṉa
-            
-            <lb n="23" break="no"/>ṅ<supplied reason="omitted">ka</supplied><unclear>l</unclear> Iṭṭār<choice><orig>e</orig><reg>ē</reg></choice> namakkum piḷḷaikaḷ āka-k kaṭavarkaḷ ākavum
-        </p>
-        <p>
-            Eṅkaḷ Aṭaiyāḷam pe
-            
-            <lb n="24" break="no"/>ṟa-k kaṭavār kokkiṟku viṭu-<unclear>ma</unclear>yir Uḷḷiṭṭa Aṭaiyāḷam peṟavum Eṅkaḷ muṉṉu
-            
-            <lb n="25"/>I-vv-aṭaiyāḷaṅkaḷ<choice><orig>e</orig><reg>ē</reg></choice> Eṭuppat’ ākavum
-        </p>
-        <p>
-            Eṅkaḷ kāṇi-p-paṟṟ’ āṉa Iṭaṅkaḷilum cūra<unclear>tu</unclear>
-            
-            <lb n="26" break="no"/>ṅkal nāṭṭavum Āṇai kompuṅ kāḷamum Eṅkaḷ mun kompu caṅkūtavum kāḷam Iṭaṅ
-            
-            <lb n="27" break="no"/>kai niyāyam piṭikkavum Iṭakkuṅ kalappai koṭṭavum Ip-paṭi tavira kai-yy-aṭai pa
-            
-            <lb n="28" break="no"/>ṭi vaḻuviṉār Uḷur’ ākil Eṅkaḷ cāti-p-pakaivarkaḷ paṭṭatu paṭutta-k kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m ākavum
+            <list>
+                <item>It-t<choice><orig>e</orig><reg>ē</reg></choice>vaṟku
+                    
+                    <lb n="17"/>nāṟpat’ āvatu mutal cantirātittaya-varai Iṭaṅkai toṇṇūṟṟ’ eṭṭu E
+                    
+                    <lb n="18" break="no"/>camayatt’ uṭaṉum kūṭa Oru niḻaṟ-kiḻ iruntu Orutti peṟṟa makkaḷ-āy Oruva
+                    
+                    <lb n="19" break="no"/>ṟku vantaṉa Aṉaiva<unclear>ṟku</unclear>m Oppat’ ākavum</item>
+                
+                <item>Iṭaṅkaikku-t tāḻvu vantaṉa
+                    
+                    <lb n="20"/>nāṅkaḷ<choice><orig>e</orig><reg>ē</reg></choice> <choice><orig>E</orig><reg>Ē</reg></choice>ṟaṭṭu cāti-k kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m ākavum</item>
+                
+                
+                <item>n<choice><orig>e</orig><reg>ē</reg></choice>r v<choice><orig>e</orig><reg>ē</reg></choice>ṇṭuvaṉa Umi kaṭai māṇi
+                    
+                    <lb n="21" break="no"/>kkan talai Āka Iviḻu-k-kāṭu Okka Iṭa-k kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m ākavum</item>
+                
+                <item>Eṅkaḷukku <unclear>mi</unclear>kka
+                    
+                    <lb n="22"/>ciṟa-p<unclear>ō</unclear>r-āka kulataṇṭa Iṭum iṭattum <choice><orig>e</orig><reg>ē</reg></choice>ḻi-kompuṅ kāḷam kuṭai Uḷḷiṭṭa cātaṉa
+                    
+                    <lb n="23" break="no"/>ṅ<supplied reason="omitted">ka</supplied><unclear>l</unclear> Iṭṭār<choice><orig>e</orig><reg>ē</reg></choice> namakkum piḷḷaikaḷ āka-k kaṭavarkaḷ ākavum</item>
+                
+                <item>Eṅkaḷ Aṭaiyāḷam pe
+                    
+                    <lb n="24" break="no"/>ṟa-k kaṭavār kokkiṟku viṭu-<unclear>ma</unclear>yir Uḷḷiṭṭa Aṭaiyāḷam peṟavum Eṅkaḷ muṉṉu
+                    
+                    <lb n="25"/>I-vv-aṭaiyāḷaṅkaḷ<choice><orig>e</orig><reg>ē</reg></choice> Eṭuppat’ ākavum</item>
+                
+                <item>Eṅkaḷ kāṇi-p-paṟṟ’ āṉa Iṭaṅkaḷilum cūra<unclear>tu</unclear>
+                    
+                    <lb n="26" break="no"/>ṅkal nāṭṭavum Āṇai kompuṅ kāḷamum Eṅkaḷ mun kompu caṅkūtavum kāḷam Iṭaṅ
+                    
+                    <lb n="27" break="no"/>kai niyāyam piṭikkavum Iṭakkuṅ kalappai koṭṭavum Ip-paṭi tavira kai-yy-aṭai pa
+                    
+                    <lb n="28" break="no"/>ṭi vaḻuviṉār Uḷur’ ākil Eṅkaḷ cāti-p-pakaivarkaḷ paṭṭatu paṭutta-k kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m ākavum</item>
+            </list>
         </p>
         
        <p>           
@@ -242,9 +240,41 @@
     
  <div type="translation" resp="part:doop">
      
-     <p n="1">Prosperity! Fortune!
+     <p n="1-6">Prosperity! Fortune!
+         On the 14th regnal year of king Tribhuvanacakravartin Śrī Tribhuvana <gap reason="lost"/>
+         
+         This is the manner in which a binding agreement <supplied reason="explanation"><foreign>kacca-p piṭipāṭu</foreign></supplied> was issued in the glorious <foreign>maṇḍapa</foreign> of Uttamacōḻaṉ in the temple of <gap reason="lost"/> of Uṟṟattūr for all the ninety-eight sub-sects of the Left-hand caste to be established <supplied reason="explanation"><foreign>irunt' uṟa</foreign></supplied> and prosper <supplied reason="explanation"><foreign>peruka</foreign></supplied> fully, without deficiency.
      </p>
-     
+     <p n="6-14">
+         We <supplied reason="subaudible">are called Left-hand caste</supplied> since:
+         
+         <list>
+             <item>at the time when, in order to kill <supplied reason="explanation"><foreign>vadham paṇṇa</foreign></supplied> the demons <supplied reason="subaudible">who desecrated</supplied> the sacrifice <supplied reason="explanation"><foreign>yagam</foreign></supplied> of sage Kāśyapa, we were made to emerge from the sacred fire <supplied reason="explanation"><foreign>agni-kuṇḍattilē</foreign></supplied> and we are still protecting <supplied reason="explanation"><foreign>kāttu-c cellā niṉṟa</foreign></supplied> the sacrifice,</item>
+             <item>at the time when Arintaman Cakravartin Antar honoured <supplied reason="explanation"><foreign>aruḷuvikkiṟa</foreign></supplied> the Vedic sages by establishing a settlement of Brahmins <supplied reason="explanation"><foreign>Akaram ēṟṟi</foreign></supplied> and <supplied reason="subaudible">conducting them there</supplied> by raising <supplied reason="explanation"><foreign>Eḻuntu</foreign></supplied> <supplied reason="subaudible">them</supplied> on a charriot,</item>
+             <item>at the time when we took their shoes and umbrellas <supplied reason="explanation"><foreign>ceruppum kuṭaiyum</foreign></supplied> and carried them <supplied reason="explanation"><foreign>koṭu pōntu</foreign></supplied> on the chariot <supplied reason="subaudible">as a symbol</supplied>of triumph, driving <supplied reason="subaudible">them</supplied> in Tiruveḷḷaṟai, Pāccili, Tiruppiṭāvūr, Ūṟṟattūr, and Kāraikkāṭu of Ceṉṉivalakūṟṟam <supplied reason="subaudible">and</supplied> the sages stretched out their hands to us <hi rend="italic">alias</hi> to <supplied reason="subaudible">our</supplied> ancestors <supplied reason="subaudible">seeking for help</supplied>,</item>
+         </list>    
+         they had strecthed out their left hand <gap reason="lost"></gap> <supplied reason="lost">on the left side</supplied>.         
+     </p>
+     <p n="14-32">
+         Since the people of this caste had thrown <supplied reason="explanation"><foreign>Iṭṭu-p-pōtukaiyālum</foreign></supplied> all our <foreign>insigna</foreign> <supplied reason="explanation"><foreign>cātaṉaṅkaḷum</foreign></supplied> in bushes and backwaters <supplied reason="explanation"><foreign>ceṭiyilum mukattilum</foreign></supplied>, we have not known <supplied reason="explanation"><foreign>Aṟiyāmal niṉṟa</foreign></supplied> about this untill this day.
+         Having learnt about our origins, <gap reason="ellipsis"/><seg rend="check"><supplied reason="explanation"><foreign>kai-y-aṭai-p-paṟikaiyāl</foreign></supplied></seg> <supplied reason="subaudible">we made an agreement</supplied>
+         <list>
+             <item>so that, starting from the 40th year of this lord and till the moon and sun endure, the ninety-eight sub-castes of the Left-hand shall join together and be considered egual as people who were born from <supplied reason="subaudible">the same</supplied> mother and from the same shadow <note>Probably an expression to say "from the same parents"</note>,</item>
+             <item>so that our sub-castes should take upon <supplied reason="explanation"><foreign>ēṟaṭṭu</foreign></supplied> themselves the faults <supplied reason="explanation"><foreign>tāḻvu</foreign></supplied> that come to the Left-hand caste,</item>
+             <item>so that we should grant <supplied reason="explanation"><foreign>iṭa-k-kaṭavōm</foreign></supplied> to raise/set apart <supplied reason="explanation"><foreign>Okka</foreign></supplied> those who seek justice <supplied reason="explanation"><foreign>nēr vēṇṭuvaṉa</foreign></supplied> <gap reason="ellipsis"/><seg rend="check"><supplied reason="explanation"><foreign>Umi kaṭai māṇikkan talai Āka Iviḻu-k-kāṭu</foreign></supplied></seg>,</item>
+             <item>so that in all the places where <supplied reason="subaudible">our</supplied> communities settled <supplied reason="explanation"><foreign>kula taṇṭa</foreign></supplied>, that are very important to us, we should also have the <foreign>insigna</foreign> of <supplied reason="explanation">these</supplied> venerable people <supplied reason="explanation">Iṭṭārē</supplied>, that include long horns <supplied reason="explanation"><foreign>ēḻi-kompu</foreign></supplied>, trumpet horns <supplied reason="explanation"><foreign>kāḷam</foreign></supplied> and parasol <supplied reason="explanation"><foreign>kuṭai</foreign></supplied>, as <supplied reason="subaudible">their</supplied> descendants <supplied reason="explanation"><foreign>piḷḷaikaḷ āka</foreign></supplied>,</item>
+         <item>so that those who desire <supplied reason="explanation"><foreign>kaṭavār</foreign></supplied> to obtain our insignia and also to obtain the insigna that include feathers taken from a rooster <seg rend="check"><supplied reason="explanation"><foreign>kokkiṟku viṭu-mayir</foreign></supplied></seg>, should <supplied reason="explanation"><foreign>sound</foreign></supplied> these insigna in front of us,</item>
+             <item>so that if there is anyone who deviates from and transgress this by establishing terror in all the places that belong to us <supplied reason="explanation"><foreign>Eṅkaḷ kāṇi-p-paṟṟ’ āṉa</foreign></supplied>, by blowing <supplied reason="subaudible">our</supplied> insignia <supplied reason="explanation"><foreign>āṇai</foreign></supplied>, <supplied reason="subaudible">that is</supplied>,the horn and trumpet, in our presence, by <supplied reason="subaudible">illegally</supplied> taking possession of the Left-hand right <supplied reason="subaudible">to blow</supplied> the trumpet horn, by beating the drum <supplied reason="explanation"><foreign>kalappai</foreign></supplied>, we shall punish the enemies of our caste,</item>
+             <item>so that, if we deviate from this, not acting according to what comes from our birth <supplied reason="subaudible">rights</supplied>, swerving from the rights of the Left-hand caste, from that day itself we shall not forgotten as cultivators and become enemies (māṟu-pāṭ’ āṉa) as we have done wrong to our caste.</item>
+         </list>
+     </p>
+     <p n="32-33">
+         Having thus agreed and having issued a binding rule for all the ninety-eight sub-castes of the Left-hand caste, we have engraved this here <supplied reason="subaudible">in Ūṟṟattūr</supplied> and at the temple of the lord of Uṭaiyār Tiruppaññili. We, the cultivators of this country.
+   </p>
+     <p n="33-34">
+         I have written this binding agreement by order of the five representatives <supplied reason="subaudible">of this lands.</supplied>
+     </p>
+     <p n="34-39"><supplied reason="subaudible">List of signatories</supplied></p>
  </div>
     
     <div type="commentary">
