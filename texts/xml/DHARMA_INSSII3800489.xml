@@ -90,15 +90,15 @@
             
             <lb n="2"/>yāṇṭu <num value="40">4 <g type="numeral">10</g></num>-Āvatu
         </p>
-        <p>
+        
+        <p>            
+            Ūṟṟattūr Uṭaiyār tokam a <gap reason="lost" unit="character" quantity="5"/>
             
-            Ūṟṟattūr uṭaiyār tokam a<gap reason="lost" unit="character" quantity="5"></gap>
-            
-            <lb n="3"/>k<choice><orig>o</orig><reg>ō</reg></choice>yil Uttama-c<choice><orig>o</orig><reg>ō</reg></choice>ḻan-tiru-maṇṭapattu <gap reason="lost" unit="character" quantity="5"></gap>
+            <lb n="3"/>k<choice><orig>o</orig><reg>ō</reg></choice>yil Uttama-c<choice><orig>o</orig><reg>ō</reg></choice>ḻa<choice><orig>n</orig><reg>ṉ</reg></choice> tiru-maṇṭapattu <gap reason="lost" unit="character" quantity="5"></gap>
             
             <lb n="4"/><unclear>ni</unclear>ṟai-vaṟa niṟaintu kuṟai-vaṟa-p peruka Irunt’ uṟa kārai muta
             
-            <lb n="5" break="no"/>l-ā<supplied reason="omitted">ṉa</supplied> Iṭaṅkai toṇṇūṟṟ’ eṭṭu-c camayattukkum I<gap reason="lost" unit="character" quantity="2"></gap>
+            <lb n="5" break="no"/>l-ā<supplied reason="omitted">ṉa</supplied> Iṭaṅkai toṇṇūṟṟ’ eṭṭu-c camayattukkum I <gap reason="lost" unit="character" quantity="2"/>
             
             <lb n="6"/>kacca-p-piṭi-pāṭu Iṭṭa paric’ āvatu
         </p>
@@ -116,7 +116,7 @@
                 </item>
                 
                 <item>                    
-                    Arintaman-cakkara-va<reg>r</reg>tti A
+                    Arintama<choice><orig>n</orig><reg>ṉ</reg></choice> cakkara-va<reg>r</reg>tti A
                     <lb n="9" break="no"/>ntar v<choice><orig>e</orig><reg>ē</reg></choice>ti <hi rend="grantha">ṛṣi</hi>kaḷai Akaram <choice><orig>e</orig><reg>ē</reg></choice>ṟṟi tēril<choice><orig>e</orig><reg>ē</reg></choice> Eḻunt’ aruḷuvikkiṟa kālat<unclear>tu</unclear>
                 </item>
                 
@@ -125,7 +125,7 @@
                     
                     <lb n="11" break="no"/>ṭu pōntu tiru-ve<unclear>ḷḷa</unclear>ṟaiyilum pāccililum tiru-p-piṭ<choice><orig>a</orig><reg>ā</reg></choice>vūrilum Ū
                     
-                    <lb n="12" break="no"/>ṟṟattūrilum ceṉṉi-vala-kūṟṟa kārai-k-kāṭṭilum <choice><orig>E</orig><reg>Ē</reg></choice>ṟṟi Eṅka
+                    <lb n="12" break="no"/>ṟṟattūrilum ceṉṉi-vala-kūṟṟa-kārai-k-kāṭṭilum <choice><orig>E</orig><reg>Ē</reg></choice>ṟṟi Eṅka
                     
                     <lb n="13" break="no"/>ḷukku mutalikaḷ-āṉa <hi rend="grantha">ṛṣi</hi>kaḷ kai Aṭaikkiṟa<surplus>kkiṟa</surplus> kālattu
                 </item>
@@ -137,7 +137,7 @@
             
             <lb n="15" break="no"/>ṅkaḷum Iṭṭu-p-pōtukaiyālum Ip-paṭiyai Iṉṉāḷ varaiyum Aṟiyā
             
-            <lb n="16" break="no"/>mal niṉṟa Eṅkaḷ piṟa-p-puṇarntu kai-y-aṭai-p-paṟikaiyāl
+            <lb n="16" break="no"/>mal niṉṟa Eṅkaḷ piṟapp' uṇarntu kai-y-aṭai-p-paṟikaiyāl
             
             <list>
                 <item>It-t<choice><orig>e</orig><reg>ē</reg></choice>vaṟku
