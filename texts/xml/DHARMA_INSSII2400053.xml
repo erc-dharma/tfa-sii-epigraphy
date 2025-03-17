@@ -363,7 +363,7 @@
         </p>
         
         <p n="10-12">
-            During the month of Āṉi, on the 2nd year <supplied reason="subaudible">of this king</supplied>, while the Right-hand and Left-hand communities brought down the village and the <seg rend="check">ground</seg> <supplied reason="explanation"><foreign>cuṭum</foreign></supplied>,<note>Probably an abbreviation of <foreign>cuṭu-kāṭum</foreign></note> and destroyed the courtyards of the temple, thieves stole the sacred idols <supplied reason="explanation"><foreign>tiru-v-urukkalum</foreign></supplied> and treasures from the glorious treasury of this god.
+            During the month of Āṉi, on the 2nd year <supplied reason="subaudible">of this king</supplied>, while the Right-hand and Left-hand communities brought down the village and the <seg rend="check">ground</seg> <supplied reason="explanation"><foreign>cuṭum</foreign></supplied>,<note>Probably an abbreviation for <foreign>cuṭu-kāṭum</foreign>.</note> and destroyed the courtyards of the temple, thieves stole the sacred idols <supplied reason="explanation"><foreign>tiru-v-urukkalum</foreign></supplied> and treasures from the glorious treasury of this god.
             
             <list>
                 <item>Since it was not possible <supplied reason="explanation"><foreign>uṇṇāmai-y-ālum</foreign></supplied> to protect the glorious treasury and the gold  <supplied reason="explanation"><foreign>tiraviyam</foreign></supplied> from the thieves in the place where they had been kept,</item>
@@ -463,6 +463,12 @@
             <citedRange unit="appendix">B/1936-1937</citedRange>
             <citedRange unit="item">31</citedRange>
         </bibl>
+        
+        <bibl>
+            <ptr target="bib:NilakantaSastri1955_01"/>
+            <citedRange unit="page">551</citedRange>
+        </bibl>
+            
     </listBibl>
     
 </div>
