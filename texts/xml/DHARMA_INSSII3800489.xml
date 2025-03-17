@@ -109,7 +109,7 @@
             
             <list>
                 <item>
-                    <hi rend="grantha">kāśyapa-ṛṣi</hi>-yā<hi rend="grantha">gam· Asura</hi>-va
+                    <hi rend="grantha">kāśyapa-ṛṣi</hi>-yā<hi rend="grantha">gam· Asu</hi>ra-va
                     
                     <lb n="7" break="no"/><hi rend="grantha">dha</hi>m paṇṇa Eṅkaḷaiyum Agni-kuṇṭattil<choice><orig>e</orig><reg>ē</reg></choice> t<choice><orig>o</orig><reg>ō</reg></choice>ṟṟi vitta nāṅkaḷum
                     
@@ -124,7 +124,7 @@
                 <item>
                     <lb n="10"/>Ivarkaḷ ceruppum kuṭaiyum Eṭukka tēriyiṟ taṭṭi veṟṟi ko
                     
-                    <lb n="11" break="no"/>ṭu pōntu tiru-ve<unclear>ḷḷa</unclear>ṟaiyilum pāccililum tiru-p-piṭ<choice><orig>a</orig><reg>ā</reg></choice>vūrilum Ū
+                    <lb n="11" break="no"/>ṭu-pōntu tiru-ve<unclear>ḷḷa</unclear>ṟaiyilum pāccililum tiru-p-piṭ<choice><orig>a</orig><reg>ā</reg></choice>vūrilum Ū
                     
                     <lb n="12" break="no"/>ṟṟattūrilum ceṉṉi-vala-kūṟṟa-kārai-k-kāṭṭilum <choice><orig>E</orig><reg>Ē</reg></choice>ṟṟi Eṅka
                     
@@ -144,7 +144,7 @@
         
         <p>            
             It-t<choice><orig>e</orig><reg>ē</reg></choice>vaṟku
-            <lb n="17"/>nāṟpat’ āvatu mutal cantirātittiya-varai Iṭaṅkai toṇṇūṟṟ’ eṭṭu E
+            <lb n="17"/>nāṟpat-āvatu mutal cantirātittiya-varai Iṭaṅkai toṇṇūṟṟ’ eṭṭu E
             <lb n="18" break="no"/>camayatt’<!--emend to eccamayattu?--> uṭaṉum kūṭa Oru niḻaṟkiḻiruntu Orutti peṟṟa makkaḷ-āy Oruva
             <lb n="19" break="no"/>ṟku vantaṉa Aṉaiva<unclear>ṟku</unclear>m Oppat’ ākavum
         </p>
@@ -168,7 +168,7 @@
         <p>
             Eṅkaḷ Aṭaiyāḷam pe
             <lb n="24" break="no"/>ṟa-k kaṭavār kokkiṟku viṭu-<unclear>ma</unclear>yir Uḷḷiṭṭa Aṭaiyāḷam peṟavum Eṅkaḷ muṉṉu
-            <lb n="25"/>I-vv-aṭaiyāḷaṅkaḷ<choice><orig>e</orig><reg>ē</reg></choice> Eṭuppat’ ākavum
+            <lb n="25"/>Ivv-aṭaiyāḷaṅkaḷ<choice><orig>e</orig><reg>ē</reg></choice> Eṭuppat’ ākavum
         </p>
         
         <p>
@@ -234,7 +234,7 @@
                 
 </div>
     
- <div type="translation" resp="part:doop">
+ <div type="translation" resp="part:doop part:emfr">
      
      <p n="1">Prosperity! Fortune!</p>
      
@@ -243,47 +243,46 @@
      </p>
      
      <p n="2-6">         
-         This is the manner in which the Left-hand caste <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>kārai mutal-<supplied reason="omitted">āṉa</supplied></foreign></supplied>
-         made/issued a binding agreement/compact <supplied reason="explanation"><foreign>kacca-p piṭipāṭu</foreign></supplied> in the glorious <foreign>maṇḍapa</foreign> of Uttamacōḻaṉ in the temple of <gap reason="lost"/> of the lord of Uṟṟattūr for all the ninety-eight groups 
-         to be established <supplied reason="explanation"><foreign>irunt' uṟa</foreign></supplied> and prosper <supplied reason="explanation"><foreign>peruka</foreign></supplied> fully, without deficiency.
+         This is the manner in which the Left-hand class <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>kārai mutal-<supplied reason="omitted">āṉa</supplied></foreign></supplied>
+         made/issued a binding agreement/compact <supplied reason="explanation"><foreign>kacca-p-piṭi_pāṭu</foreign></supplied> in the glorious <foreign>maṇḍapa</foreign> of Uttamacōḻaṉ in the temple of <gap reason="lost"/> of the lord of Uṟṟattūr for all the ninety-eight subgroups <supplied reason="explanation"><foreign>camayattukku</foreign></supplied>
+         so as to be established <supplied reason="explanation"><foreign>irunt' uṟa</foreign></supplied> and to prosper <supplied reason="explanation"><foreign>peruka</foreign></supplied> fully, without deficiency.
      </p>
      
      <p n="6-16">
-         We <supplied reason="subaudible">the members of the Left-hand caste</supplied>,
-         since         
+         We <supplied reason="subaudible">the members of the Left-hand class</supplied>,               
          
          <list>
              
-             <item>at the time when, in order to kill <supplied reason="explanation"><foreign>vadham paṇṇa</foreign></supplied> the demons <supplied reason="subaudible">who desecrated</supplied> the sacrifice <supplied reason="explanation"><foreign>yāgam</foreign></supplied> of sage Kāśyapa, we were made to emerge from the sacred fire <supplied reason="explanation"><foreign>agni-kuṇḍattilē</foreign></supplied> and we are still protecting <supplied reason="explanation"><foreign>kāttu-c cellā niṉṟa</foreign></supplied> the sacrifice,</item>
+             <item>at the time when, in order to kill <supplied reason="explanation"><foreign>vadham paṇṇa</foreign></supplied> the demons <supplied reason="subaudible">who disturbed</supplied> the sacrifice <supplied reason="explanation"><foreign>yāgam</foreign></supplied> of the sage Kāśyapa, we were made to emerge from the sacred fire <supplied reason="explanation"><foreign>agni-kuṇṭattilē</foreign></supplied> and were continuously protecting <supplied reason="explanation"><foreign>kāttu-c cellā niṉṟa</foreign></supplied> the sacrifice,</item>
              
-             <item>at the time when Arintaman Cakravartin Antar established a Brahmin settlement <supplied reason="explanation"><foreign>Akaram ēṟṟi</foreign></supplied> for the Vedic sages and graciously appeared <supplied reason="explanation"><foreign>aruḷuvikkiṟa</foreign></supplied> on a chariot <supplied reason="subaudible">to lead them there</supplied>,</item>
+             <item>at the time when Arintaman Cakravartin established a Brahmin settlement <supplied reason="explanation"><foreign>akaram ēṟṟi</foreign></supplied> for the sages within the sacrificial ground <supplied reason="explanation"><foreign>antarveti</foreign></supplied> and graciously appeared <supplied reason="explanation"><foreign>aruḷuvikkiṟa</foreign></supplied> on a chariot <supplied reason="subaudible">to lead them there</supplied>,</item>
              
-             <item>at the time when, while we took their shoes and umbrellas <supplied reason="explanation"><foreign>ceruppum kuṭaiyum</foreign></supplied> and carried them <supplied reason="explanation"><foreign>koṭu pōntu</foreign></supplied> on the chariot <supplied reason="subaudible">as a symbol</supplied> of triumph, driving <supplied reason="subaudible">them</supplied> in Tiruveḷḷaṟai, Pāccili, Tiruppiṭāvūr, Ūṟṟattūr, and Kāraikkāṭu of Ceṉṉivalakūṟṟam <supplied reason="subaudible">and</supplied>, the sages who are religious leaders <supplied reason="explanation"><foreign>mutalikaḷ</foreign></supplied> to us stretched out their hands <supplied reason="subaudible">seeking for help</supplied>,</item>
+             <item>at the time when―while we took their <supplied reason="explanation"><foreign>ivarkaḷ</foreign></supplied> shoes and umbrellas <supplied reason="explanation"><foreign>ceruppum kuṭaiyum</foreign></supplied>, and he<note>Arintaman Cakravartin.</note> <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>taṭṭi</foreign></supplied> in the chariot, carried them <supplied reason="explanation"><foreign>koṭu pōntu</foreign></supplied> on the chariot <supplied reason="subaudible">as a symbol</supplied> of triumph (?), and drove <supplied reason="subaudible">them</supplied> in Tiruveḷḷaṟai, Pāccili, Tiruppiṭāvūr, Ūṟṟattūr, and Kāraikkāṭu of Ceṉṉivalakūṟṟam―the sages who are religious leaders <supplied reason="explanation"><foreign>mutalikaḷ</foreign></supplied> to us stretched out their hands <supplied reason="subaudible">seeking for help</supplied>,</item>
              
          </list>    
          
-         they had strecthed out their left hand <gap reason="lost"/>,     
-         and since the people of this caste had thrown <supplied reason="explanation"><foreign>Iṭṭu-p-pōtukaiyālum</foreign></supplied> all our <foreign>insigna</foreign> <supplied reason="explanation"><foreign>cātaṉaṅkaḷum</foreign></supplied> in bushes and backwaters <supplied reason="explanation"><foreign>ceṭiyilum mukattilum</foreign></supplied>,
-         and since, having learnt about our origins <supplied reason="explanation"><foreign>piṟapp' uṇarntu</foreign><note>Literally: having realised our birth.</note></supplied> of which remained unknown <supplied reason="explanation"><foreign>Aṟiyāmal niṉṟa</foreign></supplied> <supplied reason="subaudible">to us</supplied> until this day, <gap reason="ellipsis"/><seg rend="check"><supplied reason="explanation"><foreign>kai-y-aṭai-p-paṟikaiyāl</foreign></supplied></seg> <supplied reason="subaudible">we made the following agreement.</supplied>
+         since they had stretched out their left hand <gap reason="lost"/>,     
+         and since the members of this subgroup had thrown <supplied reason="explanation"><foreign>Iṭṭu-p-pōtukaiyālum</foreign></supplied> all our <foreign>insigna</foreign> <supplied reason="explanation"><foreign>cātaṉaṅkaḷum</foreign></supplied> in bushes and backwaters <supplied reason="explanation"><foreign>ceṭiyilum mukattilum</foreign></supplied>,
+         and since, having learnt about our origins <supplied reason="explanation"><foreign>piṟapp' uṇarntu</foreign><note>Literally: having realised our birth.</note></supplied>, of which we remained unaware <supplied reason="explanation"><foreign>Aṟiyāmal niṉṟa</foreign></supplied> <supplied reason="subaudible">to us</supplied> until this day, <gap reason="ellipsis"/><seg rend="check"><supplied reason="explanation"><foreign>kai-y-aṭai-p-paṟikaiyāl</foreign></supplied></seg> <supplied reason="subaudible">we made the following agreement.</supplied><note>We translate here as sentence what in fact is a series of three instrumental-case phrases governed by <foreign>oppat’ ākavum</foreign>.</note>
      </p>
      
      <p n="16-19">         
-         Starting from the 40th year of this lord<note>That is, the king of the date given at the beginning of the inscription.</note> and till the moon and sun endure, whereas the ninety-eight sub-castes of the Left-hand join together, such people should considered equal as people who were born from <supplied reason="subaudible">the same</supplied> mother and from the same shadow.<note>Probably an expression to say "from the same parents"</note></p>
+         Starting from the 40th year of this lord<note>That is, the king of the date given at the beginning of the inscription.</note> and till the moon and sun endure, whereas the ninety-eight sub-groups of the Left-hand class join together, such people should be considered equal as people who were born from <supplied reason="subaudible">the same</supplied> mother and from the <seg rend="check">same shadow</seg>.<note>Probably an expression to say "from the same parents"</note></p>
      
-     <p n="19-20">Our sub-castes should take upon <supplied reason="explanation"><foreign>ēṟaṭṭu</foreign></supplied> themselves the faults <supplied reason="explanation"><foreign>tāḻvu</foreign></supplied> that come to the Left-hand caste.</p>
+     <p n="19-20">Our sub-castes should take upon <supplied reason="explanation"><foreign>ēṟaṭṭu</foreign></supplied> themselves the faults <supplied reason="explanation"><foreign>tāḻvu</foreign></supplied> that come to the Left-hand group.</p>
      
-     <p n="20-21">We should grant <supplied reason="explanation"><foreign>iṭa-k-kaṭavōm</foreign></supplied> to raise/set apart <supplied reason="explanation"><foreign>Okka</foreign></supplied> those who seek justice <supplied reason="explanation"><foreign>nēr vēṇṭuvaṉa</foreign></supplied> <gap reason="ellipsis"/><seg rend="check"><supplied reason="explanation"><foreign>Umi kaṭai māṇikkan talai Āka Iviḻu-k-kāṭu</foreign></supplied></seg>.</p>
+     <p n="20-21">We should grant <supplied reason="explanation"><foreign>iṭa-k-kaṭavōm</foreign></supplied> to raise/set apart <supplied reason="explanation"><foreign>okka</foreign></supplied> those who seek justice <supplied reason="explanation"><foreign>nēr vēṇṭuvaṉa</foreign></supplied> <gap reason="ellipsis"/> <seg rend="check"><supplied reason="explanation"><foreign>umi kaṭai māṇikkan talai Āka Iviḻu-k-kāṭu</foreign></supplied></seg>.</p>
      
      <p n="21-23">In all the places where <supplied reason="subaudible">our</supplied> communities settled <supplied reason="explanation"><foreign>kulataṇṭa</foreign></supplied>, that are very important to us, we should also have the <foreign>insigna</foreign> of <supplied reason="explanation">these</supplied> venerable people <supplied reason="explanation"><foreign>iṭṭārē</foreign></supplied>, that include long horns <supplied reason="explanation"><foreign>ēḻi-kompu</foreign></supplied>, trumpet horns <supplied reason="explanation"><foreign>kāḷam</foreign></supplied> and parasol <supplied reason="explanation"><foreign>kuṭai</foreign></supplied>, as <supplied reason="subaudible">their</supplied> descendants <supplied reason="explanation"><foreign>piḷḷaikaḷ āka</foreign></supplied>.</p>
      
-     <p n="23-25">Those who desire <supplied reason="explanation"><foreign>kaṭavār</foreign></supplied> to obtain our insignia and also to obtain the insigna that include feathers taken from a rooster <seg rend="check"><supplied reason="explanation"><foreign>kokkiṟku viṭu-mayir</foreign></supplied></seg>, should sound these <foreign>insigna</foreign> in front of us.</p>
+     <p n="23-25">Those who desire <supplied reason="explanation"><foreign>kaṭavār</foreign></supplied> to obtain our <foreign>insignia</foreign> and also to obtain the <foreign>insignia</foreign> that include feathers taken from a rooster <seg rend="check"><supplied reason="explanation"><foreign>kokkiṟku viṭu-mayir</foreign></supplied></seg>, should sound these <foreign>insigna</foreign> in front of us.</p>
      
-     <p n="25-28">If there is anyone who deviates from and transgress this by establishing terror in all the places that belong to us <supplied reason="explanation"><foreign>Eṅkaḷ kāṇi-p-paṟṟ’ āṉa</foreign></supplied>, by blowing <supplied reason="subaudible">our</supplied> insignia <supplied reason="explanation"><foreign>āṇai</foreign></supplied>, <supplied reason="subaudible">that is</supplied>, the horn and trumpet, in our presence, by <supplied reason="subaudible">illegally</supplied> taking possession of the Left-hand right <supplied reason="subaudible">to blow</supplied> the trumpet horn, by beating the drum <supplied reason="explanation"><foreign>kalappai</foreign></supplied>, they should endure what endures the enemies of our caste.</p>
+     <p n="25-28">If there is anyone who deviates from and transgress this by establishing terror in all the places that belong to us <supplied reason="explanation"><foreign>eṅkaḷ kāṇi-p-paṟṟ’ āṉa</foreign></supplied>, by blowing <supplied reason="subaudible">our</supplied> insignia <supplied reason="explanation"><foreign>āṇai</foreign></supplied>, <supplied reason="subaudible">that is</supplied>, the horn and trumpet, in our presence, by <supplied reason="subaudible">illegally</supplied> taking possession of the Left-hand right <supplied reason="subaudible">to blow</supplied> the trumpet horn, by beating the drum <supplied reason="explanation"><foreign>kalappai</foreign></supplied>, they should endure what endures the enemies of our caste.</p>
      
-     <p n="28-31">If we deviate from this, not acting according to what comes from our birth <supplied reason="subaudible">rights</supplied>, swerving from the rights of the Left-hand caste, from that day itself we should be forgotten as cultivators and become enemies <supplied reason="explanation"><foreign>māṟu-pāṭ’ āṉa</foreign></supplied> as we have done wrong to our caste.</p>
+     <p n="28-31">If we deviate from this, not acting according to what comes from our birth <supplied reason="subaudible">rights</supplied>, swerving from the rights of the Left-hand group, from that day itself we should be forgotten as <foreign>curutimāṉ</foreign>s<note>Sanskrit <foreign>śrutimant</foreign>.</note> and become enemies <supplied reason="explanation"><foreign>māṟu-pāṭ’ āṉa</foreign></supplied> as we have done wrong to our caste.</p>
      
      <p n="32-33">
-         Having thus agreed and having issued a binding rule for all the ninety-eight sub-castes of the Left-hand caste, we, the cultivators of this district, have engraved this here <supplied reason="subaudible">in Ūṟṟattūr</supplied> and at the temple of the lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied>, the lord <supplied reason="explanation"><foreign>nāyanār</foreign></supplied> of Tiruppaññili.
+         Having thus agreed and having issued a binding rule for all the ninety-eight sub-groups of the Left-hand class, we, the cultivators of this district, have engraved this here <supplied reason="subaudible">in Ūṟṟattūr</supplied> and at the temple of the lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied>, the lord <supplied reason="explanation"><foreign>nāyanār</foreign></supplied> of Tiruppaññili.
      </p>
      <p n="33-34">
          I have written this binding agreement by order of the five <foreign>nāṭṭār</foreign>s.<note>That is, members of the district assembly.</note>
