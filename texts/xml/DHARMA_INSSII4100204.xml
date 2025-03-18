@@ -85,7 +85,7 @@
     <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
         <lb n="1"/>svasti śrī
     </ab>
-    <p>Ariṇa Uṭaiyārkku cellā niṉṟa <unclear>tu</unclear>mtumi varu
+    <p>Ari<reg>ya</reg>ṇa Uṭaiyārkku cellā niṉṟa <unclear>tu</unclear>mtumi varu
         
         <lb n="2" break="no"/><hi rend="bold">ṣa</hi>m tai mātam mutal tiyati
     </p>
@@ -99,23 +99,18 @@
     </p>
     
     <p>
-        Iv-ūr valaṅkai Iṭaṅkai ciluk' āy nālu-varu<hi rend="grantha">ṣa</hi>m pāḻ-<unclear>ki</unclear>ṭakkaiyil
-        <lb n="6"/><supplied reason="omitted">ku</supplied>ṭi Ēṟa-k-kaṭavarkaḷ Ākavum
-    </p>
-    
-    <p>        
-        kuṭi Ēṟi Iṭattu taṟi-k-kaṭamai-vācal paṇam
+    	<list>
+    		<item>Iv-ūr valaṅkai Iṭaṅkai ciluk' āy nālu-varu<hi rend="grantha">ṣa</hi>m pāḻ-<unclear>ki</unclear>ṭakkaiyil
+        <lb n="6"/><supplied reason="omitted">ku</supplied>ṭi Ēṟa-k-kaṭavarkaḷ Ākavum</item>       
+        <item>kuṭi Ēṟi Iṭattu taṟi-k-kaṭamai-vācal paṇam
         
-        <lb n="7"/>Aiñcu paṇam koḷḷa-k-kaṭavatu Ākavum
+        <lb n="7"/>Aiñcu paṇam koḷḷa-k-kaṭavatu Ākavum</item></list>
     </p>
     
     <p>        
         paṭṭaṭai nāṇayattuku pattil
         
-        <lb n="8"/>Aiñcu māṉiyattu Āṇṭu Oṉṟukku taṟi Oṉṟukku Oru paṇam ko<unclear>ḷḷavum</unclear>
-    </p>
-    
-    <p>        
+        <lb n="8"/>Aiñcu māṉiyattu Āṇṭu Oṉṟukku taṟi Oṉṟukku Oru paṇam ko<unclear>ḷḷavum</unclear>  
         <lb n="9"/>maṟṟum Uḷḷa cakala Upātikaḷum Uṭpaṭa Āṇṭ’ oṉṟukku taṟi Oṉṟukku     
     </p>
 </div>
@@ -126,10 +121,16 @@
         Prosperity! Fortune!		
     </p>
     
-    <p>...</p>
-    
+    <p n="1-2">On the first lunar day of the month of Tai in the year Dundubhi, durig the reign of Ariyaṇa Uṭaiyār,</p>
+<p n="3-4"><unclear>this is the manner in which</unclear> we, the executors of temple endowments at the temple of god Maṇṇai who owns Valliyūr, have drafted and issued an order in the area surrounding the glorious temple <supplied reason="explanation"><foreign>tiru-maṭai-viḷākattil</foreign></supplied> of this god, for the temple functionaries and trustees <supplied reason="explanation"><foreign>kavarppiṇā, porkoyil kaikkōlarkku</foreign></supplied></p>
+	<p n="5-9">
+		<list>
+			<item>so that those who have assembled in Pāḻkiṭakkail <supplied reason="subaudible">during the past</supplied> four years, that is during the dispute <supplied reason="explanation"><foreign>ciluku</foreign></supplied> between the Right-hand and Left-hand castes of this village, shall remain <supplied reason="explanation"><foreign>ēṟa-k-kaṭavarkaḷ</foreign></supplied> <supplied reason="subaudible">there</supplied></item>
+			<item>and so that those who assembled and reside in this place shall collect five <foreign>paṇam</foreign>s <supplied reason="subaudible">for</supplied> taxes on looms <supplied reason="explanation"><foreign>taṟi-kaṭamai</foreign></supplied> <supplied reason="subaudible">and</supplied> dues at the place gate <supplied reason="explanation"><foreign>vācal paṇam</foreign></supplied>.</item>
+		</list>
+		In the five low-rent lands <supplied reason="explanation"><foreign>māṉiyattil</foreign></supplied> in the village, one <foreign>paṇam</foreign> per one loom <supplied reason="explanation"><foreign>taṟi</foreign></supplied> shall be collected per year for tax on trade <supplied reason="explanation"><foreign>paṭṭaṭai nāṇayattuku</foreign></supplied>. <gap reason="lost"/>per one loom per year, including all the other dues <supplied reason="explanation"><foreign>cakala upātikaḷum</foreign></supplied> that exist <gap reason="lost"/>.
+  </p>
     <p n="9">...<note>The rest of the inscription is built in.</note></p>
-    
     
 </div>
 	
