@@ -81,7 +81,10 @@
     <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
         <lb n="1"/>svasti śrī
     </ab>
-    <p><hi rend="grantha">ṣa</hi>vumiya varu<hi rend="grantha">ṣam·</hi> cittirai <g type="mācam"/> <num value="16"><g type="numeral">10</g> 6</num> <g type="tēti"/> kāveri vaṭa-karai virutarāca-payaṅkara-vaḷa-nāṭṭu m<choice><orig>e</orig><reg>ē</reg></choice>ṟkā
+    <p><hi rend="grantha">ṣa</hi>vumiya varu<hi rend="grantha">ṣam·</hi> cittirai <g type="mācam"/> <num value="16"><g type="numeral">10</g> 6</num> <g type="tēti"/>
+    </p>
+    <p>
+        kāveri vaṭa-karai virutarāca-payaṅkara-vaḷa-nāṭṭu m<choice><orig>e</orig><reg>ē</reg></choice>ṟkā
         
         <lb n="2" break="no"/>nāṭṭu iruṅkoḷappāṭi-p-pāṇṭiya-vaḷa-nāṭṭu-p poṉparappi cūḻnta patiṉ-<unclear>eṭ</unclear>ṭu-p paṟṟil viṭṭa-paṟṟu
         
@@ -113,6 +116,13 @@
 	
 	
         <div type="apparatus">               
+         <listApp>
+                 <app loc="6">
+            <lem>ṇeṭukkam</lem>
+            <rdg source="bib:Sundaram2010_01"/>
+            <note>Probably read <foreign>naṭukkam</foreign>.</note>
+        </app>	
+            </listApp>
         </div>
         
 	<div type="translation" resp="part:doop">
