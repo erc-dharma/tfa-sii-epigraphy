@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tiruvoṟṟiyūr, Ādhipurīśvara temple, time of Parakesarivarman, year 30</title>
+                <title>Tiruvoṟṟiyūr, Ādhipurīśvara temple, time of Rājakesarivarman, year 5</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -20,7 +20,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_INSSII0300105</idno>
+                <idno type="filename">DHARMA_INStfaSIIv03p0i0115</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -72,54 +72,39 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:emfr" when="2024-02-17" status="draft">Creation of the file</change>
+            <change who="part:emfr" when="2024-02-18" status="draft">Creation of the file</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
         <body>
             
-            <div type="edition">
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
-                <div type="textpart" xml:lang="san-Latn" n="A" rendition="class:grantha maturity:83215">
-                    <head xml:lang="eng">Sanskrit Portion</head>		
-                    
-                    <lg met="uncertain" n="1">
-                        
-                        <l n="abcd"><lb n="1"/>dī<supplied reason="undefined">pa</supplied>daṇḍau ca <gap reason="lost" quantity="6" unit="character"/> <lb n="2"/>pratidina<choice><sic>m· ni</sic><corr>m adi</corr></choice>śa<choice><sic>n</sic><corr>d</corr></choice> dīpadī<choice><sic>ṣ</sic><corr>p</corr></choice>tyai <gap reason="lost" quantity="5" unit="character"/></l>
-                        
-                    </lg>
-                    
-                </div>
                 
-                <div type="textpart" xml:lang="tam-Latn" n="B" rendition="class:tamil maturity:83215">
-                    <head xml:lang="eng">Tamil Portion</head>
+                <ab>
+                    <lb n="1"/><hi rend="grantha"><supplied reason="undefined">svasti</supplied> śrī</hi>
+                </ab>
+                
+                <p>
+                    matirai koṇṭa kō-v-irācakē
+                    <lb n="2"/>caripa<hi rend="grantha">nma</hi><supplied reason="omitted"></supplied>k=ku yāṇṭu ...
                     
-                    <p>
-                        <lb n="3"/>matirai koṇṭa kō-p-parakēcari-va<hi rend="grantha">rmma</hi>ṟku yā<unclear>ṇṭu</unclear>
-                        <lb n="4"/>mu-p-pat<supplied reason="omitted">t</supplied>-āvatu
-                    </p>
-                    
-                    <p>
-                        tiruvoṟṟiyūr <hi rend="grantha">mahāde</hi>vark=ku <unclear>cōḻa-p</unclear>
-                        <lb n="5" break="no"/>-perumā<choice><orig>nn</orig><reg>ṉ</reg></choice>aṭikaḷ
-                        
-                    </p>
-                </div>
+                </p>
                 
             </div>
             
-            <div type="apparatus">
+            <!--<div type="apparatus">
                 
                 <listApp>
-                    
-                    <app loc="4">
-                        <lem>yā<unclear>ṇṭu</unclear></lem>
-                        <rdg source="bib:Hultzsch1903_01">yā<supplied reason="undefined">ṇṭu</supplied> <gap reason="lost" quantity="1" unit="character"/></rdg>
-                    </app>
-                    
+                
+                <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:KrishnaSastri1925_01"/>
+                </app>
+                
                 </listApp>
                 
-            </div>
+                </div>-->
             
             <div type="translation" resp="part:emfr">
                 
@@ -131,16 +116,16 @@
             
             <div type="bibliography">
                 
-                <p>First edited <bibl><ptr target="bib:Hultzsch1903_01"/></bibl> (SII 3, no. 105).</p>
-                <p>This edition by Emmanuel Francis based on <bibl><ptr target="bib:Hultzsch1903_01"/></bibl> and on photos (2019).</p>
+                <p>First edited <bibl><ptr target="bib:Hultzsch1903_01"/></bibl> (SII 3, no. 115).</p>
+                <p>This edition by Emmanuel Francis based on <bibl><ptr target="bib:Hultzsch1903_01"/></bibl>.</p>
                 
                 
                 <listBibl type="primary">
                     
                     <bibl n="H">
                         <ptr target="bib:Hultzsch1903_01"/>
-                        <citedRange unit="page">237-238</citedRange>
-                        <citedRange unit="item">105</citedRange>
+                        <citedRange unit="page">251</citedRange>
+                        <citedRange unit="item">115</citedRange>
                     </bibl>
                     
                 </listBibl>
@@ -149,9 +134,9 @@
                     
                     <bibl>
                         <ptr target="bib:ARIE1912-1913"/>
-                        <citedRange unit="page">24</citedRange>
+                        <citedRange unit="page">33</citedRange>
                         <citedRange unit="appendix">B/1912</citedRange>
-                        <citedRange unit="item">164</citedRange>
+                        <citedRange unit="item">246</citedRange>
                     </bibl>	
                     
                 </listBibl>
