@@ -5,260 +5,249 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Ukkal, Perumāḷ temple, time of Kaṇṇaradeva, year 16</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName>
-						<forename>Eugen</forename>
-						<surname>Hultzsch</surname>
-					</persName>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSSII0300007</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary>...</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p/>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union's Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-04-08">Creation of the file on the
-				repository</change>
-		</revisionDesc>
-	</teiHeader>
-
-	<text xml:space="preserve">
-<body>
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-			
-	<!--Revise with VG photos-->
-	
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="01"/>svasti śrī
-	</ab>
-	
-	<p>
-		<lb n="1"/>kacciyun ta<supplied reason="undefined">ñ</supplied>caiyuṅ koṇṭa <hi rend="grantha">śrī</hi>-ka<hi rend="grantha">ṇṇara-de</hi>vaṟku yāṇṭu patiṉ ā<supplied reason="undefined">ṟ-ā</supplied>vatu
-	</p>
-	<p>
-		kāliyūr-k-kōṭṭattu-t taṉ kūṟṟu-c civa-cūḷamaṇi-maṅkalam-ākiya vi<hi rend="grantha">krama</hi>			
-		<lb n="2" break="no"/><hi rend="grantha">bhara</hi>ṇa-c-c<choice><sic>u</sic><corr>a</corr></choice>tu<hi rend="grantha"><supplied reason="undefined">rvve</supplied></hi>ti-maṅkalattu
-		<hi rend="grantha">sabhai</hi>yōm Emm-ūr-p puvaṉi-māṇikka-vi<hi rend="grantha">ṣṇu-gr̥ha</hi>ttu
-		muka-maṇṭakattē-y kūṭi y-i<unclear>ru</unclear>ntu Emm-iṟ ceyta <hi rend="grantha">vya</hi>va<hi rend="grantha">stai</hi>
-		<lb n="3"/>y-āvatu
-	</p>
-	<p>
-		Em<supplied reason="undefined">mū</supplied>r-k kuṭikaḷ Emm<choice><orig>u</orig><reg>ū</reg></choice>r-p paṭākai-vaṭṭattu ku<supplied reason="undefined">ṭu</supplied>pp-ōlai m<choice><sic>o</sic><corr>ē</corr></choice>ṟ-paṭṭa nilaṅkaḷu maṟṟum eppērppaṭṭa<add place="unspecified">ṉa</add>vum<!--<ref t="3:12-5"/>: The <ta>ṉa</ta> of <ta>ṉavum</ta> has been added subsequently; behind <ta>ṉavum</ta>, a cross above the line marks an omission, and the words <ta>kuḻi <gap reason="lost" quantity="3" unit="character"/> taṉ</ta> are entered below <ta>m</ta> <gr>sabhai</gr>--> <hi rend="grantha">sabhai-ma<supplied reason="lost">dhya</supplied></hi>mam āvaṉa v-ākavum
-	</p>
-	<p>
-		Ip-pari
-		<lb n="4" break="no"/>cu
-		<hi rend="grantha">madhya</hi>mam-āy-k kiṭa<add place="unspecified">n</add>ta nilaṅkaḷ kuḻi-va<supplied reason="undefined">ri</supplied> y-eṟṟi<!--EF: y-ēṟṟi?--> <supplied reason="undefined">I</supplied>ṟai
-		<supplied reason="undefined">I</supplied>ṟuppōm eṉṟa ku<supplied reason="undefined">ṭi</supplied>kaḷukku viṟṟu-k kuṭuppōm ākavum
-	</p>
-	<p>
-		Iv-viṟṟu-k kuṭutta <hi rend="grantha">bhū</hi>mikaḷ Emmut' eṉṟu Eppērppaṭṭāruṅ kuṭupp-ōlaiyum Āvaṇamuṅ kāṭṭa-<supplied reason="undefined">p</supplied> peṟā<supplied reason="undefined">t</supplied>ār ākavum
-	</p>
-	<p>
-		Ip-paricu kāṭṭiṉa kuṭi-ma<supplied reason="undefined">kkaḷai</supplied> ta <gap reason="lost" quantity="8" unit="character"/> <supplied reason="lost">kaḻañ</supplied>
-		<lb n="5" break="no"/><supplied reason="undefined">cu</supplied> poṉ <hi rend="grantha">sabhai</hi>yōmē <hi rend="grantha">daṇḍi</hi>ppōm ākavum
-	</p>
-	<p>
-		It-taṭu<supplied reason="undefined">t</supplied>ta kuṭi-makkaḷ<choice><sic>ai</sic><corr>ē</corr></choice>
-		<hi rend="grantha">dha<supplied reason="undefined">r</supplied>mmāsa</hi>ṉattu nicati mey-vē<supplied reason="undefined">ṟu nū</supplied>ṟṟ' eṭṭu-k kāṇam <hi rend="grantha">daṇḍa</hi>m iṭa-p pe<supplied reason="undefined">ṟu</supplied>vār ākavum 
-	</p>
-	<p>
-		I<hi rend="grantha"><supplied reason="omitted">d</supplied>-daṇḍa</hi>m iṭa-p p<supplied reason="undefined">o</supplied>ṅ kuṭi-makkaḷukku Av<choice><sic>ap</sic><corr>v</corr></choice>avv-āṇṭu<!--<ref t="3:12-11"/>--> vāriyañ ceyyum peru-makkaḷē-y pērāl nicataṅ kuṉṟi-p po<supplied reason="undefined">ṉ</supplied>
-		<gap reason="lost" quantity="10" unit="character"/>
-	</p>
-	<p>
-		<lb n="6"/><supplied reason="undefined">I</supplied>p-paricu <hi rend="grantha">śraddhā</hi>ma<supplied reason="undefined">n</supplied>tar<!--<ref t="3:12-12"/>: Read <gr>mandar</gr>.-->
-		<hi rend="grantha">daṇḍa</hi>m iṭṭārkku vārppal kuṭuttum tāṅkaḷē-y <hi rend="grantha">daṇḍi</hi>ttum Āṭci-yiṭai-y-ūṟu<!--EF: check split--> <supplied reason="undefined">tī</supplied>rttu-k kuṭār ākil a<supplied reason="omitted">v</supplied><supplied reason="undefined">v-ā</supplied>ṇṭu vāriyañ <supplied reason="undefined">ce</supplied>yyum peru-mak<add place="below">kaḷ<choice><sic>aiyu</sic><corr>ē</corr></choice></add> mey-vē<surplus>ṟ</surplus>ṟu vakai Iru-pattu nālu kāṇam <hi rend="grantha">daṇḍa</hi>m iṭa-p peṟuvār ākavu<supplied reason="undefined">m</supplied>
-	</p>
-	<p>
-		It-ta<hi rend="grantha">ṇḍa</hi>-p paṭṭum
-		Avv<choice><orig>a-Ā</orig><reg>avv-a</reg></choice>ṇṭu<!--<ref t="3:12-14"/>--> vāri<supplied reason="undefined">ya</supplied>ñ ce<supplied reason="undefined">y</supplied> <gap reason="lost" quantity="10" unit="character"/>
-	</p>	
-		
-</div>
-			
-<div type="apparatus">
-				
-	<listApp>		
-										
-		<app loc="01">
-			<lem><hi rend="grantha">svasti śrī</hi></lem>
-			<rdg source="bib:Hultzsch1899_01"/>
-			<note>These blessings are written in bigger characters, to the left of lines 2-3.</note>
-		</app>
-						
-		<app loc="1">
-			<lem>civa-cūḷamaṇi-maṅkalam-ākiya vi<hi rend="grantha">krama</hi>°</lem>
-			<rdg source="bib:Hultzsch1899_01">ci<supplied reason="undefined">va</supplied>cū <gap reason="lost" quantity="10" unit="character"/></rdg>
-			<note><ptr target="bib:Hultzsch1899_01"/> notes: <quote>Here the following syllables are built in: <foreign>ḷāmaṇimaṅkalamākiya <hi rend="grantha">śrīvikramā-</hi></foreign>.</quote> If this was really the case (and not a missing estampage), this was not the case any more in 2008.</note>
-		</app>
-		
-		<app loc="2">
-			<lem>kūṭi y-i<unclear>ru</unclear>ntu Emmiṟ ceyta <hi rend="grantha">vya</hi>va<hi rend="grantha">stai</hi></lem>
-			<rdg source="bib:Hultzsch1899_01">kū<supplied reason="undefined">ṭi</supplied> yirun<supplied reason="undefined">tu</supplied> <gap reason="lost" quantity="10" unit="character"/></rdg>
-		</app>	
-		
-		<app loc="3">
-			<lem><hi rend="grantha">ma<supplied reason="lost">dhya</supplied></hi>mam āvaṉa v-ākavum Ip-pari<lb n="4" break="no"/>cu</lem>
-			<rdg source="bib:Hultzsch1899_01"><hi rend="grantha">madhya</hi><supplied reason="undefined">ma</supplied> <gap reason="lost" quantity="6" unit="character"/> <supplied reason="lost">Ip-pari</supplied><lb n="4" break="no"/>cu</rdg>			
-		</app>
-		
-		<app loc="6">
-			<lem>peru-makkaḷ<choice><sic>aiyu</sic><corr>ē</corr></choice> mey-vē<surplus>ṟ</surplus>ṟu</lem>
-			<rdg source="bib:Hultzsch1899_01">perumakkaḷaiyumēy veṟṟu</rdg>
-		</app>			
-	
-	</listApp>    			
-	
-</div>
-    	
-<div type="translation" source="bib:Hultzsch1899_01">
-	
-	<p n="1">Hail! Prosperity! In the sixteenth year <supplied reason="subaudible">of the reign</supplied> of the glorious Kaṇṇaradeva who conquered Kacci and Tañcai,——we, the assembly of Śivacū-<supplied reason="undefined">ḷāmaṇimaṅgala, <hi rend="italic">alias</hi> Śrī-Vikramā</supplied>bharaṇa-caturvedimaṅgala, <supplied reason="subaudible">a village</supplied> in its own subdivision of Kāliyūr-kōṭṭam, being assembled in the front hall<note><foreign>mukamaṇṭakam</foreign> is a Tamil form of the Sanskrit <foreign>mukha-maṇḍapa</foreign>.</note> of the Puvaṉimāṇikka-Viṣṇugr̥ha in our village, <supplied reason="undefined">ordered</supplied> as follows:——</p>
-	
-	<p n="3">The inhabitants of our village <gap reason="lost" quantity="10" unit="character"/> the land and everything else that is not the object of deeds of gift,<note>Literally, ‘that is beyond deeds of gift’ (<foreign>kuṭupp-ōlai</foreign>).</note> in the environs<note>Literally, ‘in the circle of hamlets’ (<foreign>paṭākai-vaṭṭam</foreign>).</note> of our village <gap reason="lost" quantity="10" unit="character"/> the common property <supplied reason="explanation"><foreign>madhyama</foreign></supplied> of the assembly.</p>
-	
-	<p n="4">We shall sell the land which has thus become the common property <supplied reason="subaudible">of the assembly</supplied>, to those inhabitants who promise to pay taxes on each <foreign>kuḻi</foreign>. No persons shall be allowed to produce deeds of gift or deeds of sale <supplied reason="explanation"><foreign>āvaṇam</foreign></supplied> in order to show that the land thus sold belongs to themselves. We, the assembly, shall levy a fine of <gap reason="lost" quantity="5" unit="character"/> <supplied reason="subaudible"><foreign>kaḻañcu</foreign></supplied> of gold <gap reason="lost" quantity="10" unit="character"/> from those inhabitants who produce such <supplied reason="subaudible">deeds</supplied>.</p>
-	
-	<p n="5">Those inhabitants who do not submit to this, shall be liable to pay into court <supplied reason="explanation"><foreign>dharmāsana</foreign></supplied> a fine of one hundred and eight <foreign>kāṇam</foreign>s <gap reason="lost" quantity="5" unit="character"/><note>The two obscure words <foreign>mey veṟu</foreign> occur again in No. 12, line 11.</note> per day. To each of the inhabitants who have to pay this fine, the great men elected for that year <gap reason="lost" quantity="10" unit="character"/> <supplied reason="subaudible">one</supplied> <foreign>kuṉṟi</foreign> of gold per day.</p>
-	
-	<p n="6">If, through indifference, though <gap reason="lost" quantity="5" unit="character"/> was thus given to those who pay the fine and though they themselves have fined <supplied reason="subaudible">them</supplied>, they are not able to remove the obstacles to the possession <supplied reason="explanation"><foreign>āṭci</foreign></supplied>, the great men elected for that year shall be liable to pay an additional fine of twenty-four <foreign>kāṇam</foreign>s. Though they are fined thus, <supplied reason="undefined">the great men</supplied> elected for that year <gap reason="lost" quantity="10" unit="character"/></p>
-
-</div>
-	
-<div type="translation" resp="part:emfr">
-								
-	<p n="01">Prosperity! Fortune!</p>
-	
-	<p n="1">Sixteenth year of the glorious king Kaṇṇara who took Kacci and Tañcai.</p>
-	
-	<p n="1-3">This is the agreement <supplied reason="explanation"><foreign><hi rend="grantha">vya</hi>va<hi rend="grantha">stai</hi></foreign></supplied> that We, the members of the assembly of Vikramābharaṇacaturvedimaṅgala,<hi rend="italic">alias</hi>Śivacūḍāmaṇimaṅgala, in the Kāliyūrkkōṭtam and the namesake subdivision <supplied reason="explanation"><foreign>kūṟu</foreign></supplied>, made, while seating altogether in the <foreign>mukhamaṇḍapa</foreign> of the Puvaṉimānikkaviṣṇugṛha <supplied reason="subaudible">in</supplied> our village.</p>
-	
-	<p n="3">The lands and whatsoever is beyond <supplied reason="explanation"><foreign>mēṟpaṭṭa</foreign></supplied> <supplied reason="subaudible">the purpose of the present agreement as already object of</supplied> a leaf <supplied reason="explanation"><foreign>ōlai</foreign><note>That is, document.</note></supplied> of donation <supplied reason="explanation"><foreign>kuṭuppu</foreign></supplied>, in the surrounding hamlets <supplied reason="subaudible">of</supplied> our village <supplied reason="subaudible">and</supplied> the tenants <supplied reason="subaudible">of</supplied> our village should be things <supplied reason="explanation"><foreign>āvaṉa</foreign><note>Litteraly, that which are.</note></supplied> <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>sabhai-madhyama</foreign></supplied>.</p>
-	
-	<p n="3-4">In this manner, We shall give <supplied reason="subaudible">these lands</supplied> after sale to tenants who say <quote>We will pay taxes ...</quote></p>
-	
-	<p n="4">These lands so given after sale, there should be no one, whoever, obtaining<note>That is, whoever do so is a fraud.</note> to show a leaf or a document of donation saying <quote>This is ours</quote>.</p>
-	
-	<p n="4-5">In this manner, the tenants who show <supplied reason="subaudible">such documents</supplied> <gap reason="lost"/>, We, the members of the assembly, shall fine <supplied reason="subaudible">them</supplied> <gap reason="lost"/> <foreign>kaḻañcu</foreign>s of gold.</p>
-		
-	<p n="5">The tenants who do not ...
-		should obtain to pay <supplied reason="explanation"><foreign>iṭa</foreign><note>Literally, to put.</note></supplied> a fine of one hundred and eight <foreign>kāṇam</foreign>s, individually/per head <supplied reason="explanation"><foreign>meyvēru</foreign></supplied>, per day, in the seat of <foreign>dharma</foreign>.</p>
-		
-	<p n="5">To the tenants ...</p>
-		
-	<p n="6">In this manner ...</p>
-		
-	<p n="6">Even though so fined, ...</p>	
-		
-</div>
-	
-<!--<div type="commentary">
-				
-</div>-->
-			
-<div type="bibliography">
-				
-	<p>Reported in <bibl><ptr target="bib:ARIE1892-1893"/></bibl> (ARIE/1892-1893/B/1893/25).</p>
-	<p>Edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>, with English translation (SII 3.7).</p>
-	<p>Edited in <bibl><ptr target="bib:Swaminathan2000_01"/></bibl> (no. 7).</p>
-	<p>This edition by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>, published visual documentation and photos (Valérie Gillet, 2008).</p>	
-	
-	<listBibl type="primary">
-		
-		<bibl n="SII ">
-			<ptr target="bib:Hultzsch1899_01"/>
-			<citedRange unit="page">11-13</citedRange>
-			<citedRange unit="item">6</citedRange>
-		</bibl>
-		
-		<bibl>
-			<ptr target="bib:Swaminathan2000_01"/>
-			<citedRange unit="page">5-6-</citedRange>
-			<citedRange unit="item">7</citedRange>
-		</bibl>	
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-				
-		<bibl>
-			<ptr target="bib:ARIE1892-1893"/>
-			<citedRange unit="page">13</citedRange>
-			<citedRange unit="appendix">B/1893</citedRange>
-			<citedRange unit="item">25</citedRange>			
-		</bibl>		
-		
-	</listBibl>
-	
-</div>
-</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ukkal, Perumāḷ temple, time of Kaṇṇaradeva, year 16</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSSII0300007</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>...</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-04-08">Creation of the file on the
+                repository</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <!--Revise with VG photos-->
+                
+                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <lb n="01"/>svasti śrī
+                </ab>
+                
+                <p>
+                    <lb n="1"/>kacciyun ta<supplied reason="undefined">ñ</supplied>caiyuṅ koṇṭa <hi rend="grantha">śrī</hi>-ka<hi rend="grantha">ṇṇara-de</hi>vaṟku yāṇṭu patiṉ ā<supplied reason="undefined">ṟ-ā</supplied>vatu
+                </p>
+                <p>
+                    kāliyūr-k-kōṭṭattu-t taṉ kūṟṟu-c civa-cūḷamaṇi-maṅkalam-ākiya vi<hi rend="grantha">krama</hi>			
+                    <lb n="2" break="no"/><hi rend="grantha">bhara</hi>ṇa-c-c<choice><sic>u</sic><corr>a</corr></choice>tu<hi rend="grantha"><supplied reason="undefined">rvve</supplied></hi>ti-maṅkalattu
+                    <hi rend="grantha">sabhai</hi>yōm Emm-ūr-p puvaṉi-māṇikka-vi<hi rend="grantha">ṣṇu-gr̥ha</hi>ttu
+                    muka-maṇṭakattē-y kūṭi y-i<unclear>ru</unclear>ntu Emm-iṟ ceyta <hi rend="grantha">vya</hi>va<hi rend="grantha">stai</hi>
+                    <lb n="3"/>y-āvatu
+                </p>
+                <p>
+                    Em<supplied reason="undefined">mū</supplied>r-k kuṭikaḷ Emm<choice><orig>u</orig><reg>ū</reg></choice>r-p paṭākai-vaṭṭattu ku<supplied reason="undefined">ṭu</supplied>pp-ōlai m<choice><sic>o</sic><corr>ē</corr></choice>ṟ-paṭṭa nilaṅkaḷu maṟṟum eppērppaṭṭa<add place="unspecified">ṉa</add>vum<!--<ref t="3:12-5"/>: The <ta>ṉa</ta> of <ta>ṉavum</ta> has been added subsequently; behind <ta>ṉavum</ta>, a cross above the line marks an omission, and the words <ta>kuḻi <gap reason="lost" quantity="3" unit="character"/> taṉ</ta> are entered below <ta>m</ta> <gr>sabhai</gr>--> <hi rend="grantha">sabhai-ma<supplied reason="lost">dhya</supplied></hi>mam āvaṉa v-ākavum
+                </p>
+                <p>
+                    Ip-pari
+                    <lb n="4" break="no"/>cu
+                    <hi rend="grantha">madhya</hi>mam-āy-k kiṭa<add place="unspecified">n</add>ta nilaṅkaḷ kuḻi-va<supplied reason="undefined">ri</supplied> y-eṟṟi<!--EF: y-ēṟṟi?--> <supplied reason="undefined">I</supplied>ṟai
+                    <supplied reason="undefined">I</supplied>ṟuppōm eṉṟa ku<supplied reason="undefined">ṭi</supplied>kaḷukku viṟṟu-k kuṭuppōm ākavum
+                </p>
+                <p>
+                    Iv-viṟṟu-k kuṭutta <hi rend="grantha">bhū</hi>mikaḷ Emmut' eṉṟu Eppērppaṭṭāruṅ kuṭupp-ōlaiyum Āvaṇamuṅ kāṭṭa-<supplied reason="undefined">p</supplied> peṟā<supplied reason="undefined">t</supplied>ār ākavum
+                </p>
+                <p>
+                    Ip-paricu kāṭṭiṉa kuṭi-ma<supplied reason="undefined">kkaḷai</supplied> ta <gap reason="lost" quantity="8" unit="character"/> <supplied reason="lost">kaḻañ</supplied>
+                    <lb n="5" break="no"/><supplied reason="undefined">cu</supplied> poṉ <hi rend="grantha">sabhai</hi>yōmē <hi rend="grantha">daṇḍi</hi>ppōm ākavum
+                </p>
+                <p>
+                    It-taṭu<supplied reason="undefined">t</supplied>ta kuṭi-makkaḷ<choice><sic>ai</sic><corr>ē</corr></choice>
+                    <hi rend="grantha">dha<supplied reason="undefined">r</supplied>mmāsa</hi>ṉattu nicati mey-vē<supplied reason="undefined">ṟu nū</supplied>ṟṟ' eṭṭu-k kāṇam <hi rend="grantha">daṇḍa</hi>m iṭa-p pe<supplied reason="undefined">ṟu</supplied>vār ākavum 
+                </p>
+                <p>
+                    I<hi rend="grantha"><supplied reason="omitted">d</supplied>-daṇḍa</hi>m iṭa-p p<supplied reason="undefined">o</supplied>ṅ kuṭi-makkaḷukku Av<choice><sic>ap</sic><corr>v</corr></choice>avv-āṇṭu<!--<ref t="3:12-11"/>--> vāriyañ ceyyum peru-makkaḷē-y pērāl nicataṅ kuṉṟi-p po<supplied reason="undefined">ṉ</supplied>
+                    <gap reason="lost" quantity="10" unit="character"/>
+                </p>
+                <p>
+                    <lb n="6"/><supplied reason="undefined">I</supplied>p-paricu <hi rend="grantha">śraddhā</hi>ma<supplied reason="undefined">n</supplied>tar<!--<ref t="3:12-12"/>: Read <gr>mandar</gr>.-->
+                    <hi rend="grantha">daṇḍa</hi>m iṭṭārkku vārppal kuṭuttum tāṅkaḷē-y <hi rend="grantha">daṇḍi</hi>ttum Āṭci-yiṭai-y-ūṟu<!--EF: check split--> <supplied reason="undefined">tī</supplied>rttu-k kuṭār ākil a<supplied reason="omitted">v</supplied><supplied reason="undefined">v-ā</supplied>ṇṭu vāriyañ <supplied reason="undefined">ce</supplied>yyum peru-mak<add place="below">kaḷ<choice><sic>aiyu</sic><corr>ē</corr></choice></add> mey-vē<surplus>ṟ</surplus>ṟu vakai Iru-pattu nālu kāṇam <hi rend="grantha">daṇḍa</hi>m iṭa-p peṟuvār ākavu<supplied reason="undefined">m</supplied>
+                </p>
+                <p>
+                    It-ta<hi rend="grantha">ṇḍa</hi>-p paṭṭum
+                    Avv<choice><orig>a-Ā</orig><reg>avv-a</reg></choice>ṇṭu<!--<ref t="3:12-14"/>--> vāri<supplied reason="undefined">ya</supplied>ñ ce<supplied reason="undefined">y</supplied> <gap reason="lost" quantity="10" unit="character"/>
+                </p>	
+                
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>		
+                    
+                    <app loc="01">
+                        <lem><hi rend="grantha">svasti śrī</hi></lem>
+                        <rdg source="bib:Hultzsch1899_01"/>
+                        <note>These blessings are written in bigger characters, to the left of lines 2-3.</note>
+                    </app>
+                    
+                    <app loc="1">
+                        <lem>civa-cūḷamaṇi-maṅkalam-ākiya vi<hi rend="grantha">krama</hi>°</lem>
+                        <rdg source="bib:Hultzsch1899_01">ci<supplied reason="undefined">va</supplied>cū <gap reason="lost" quantity="10" unit="character"/></rdg>
+                        <note><ptr target="bib:Hultzsch1899_01"/> notes: <quote>Here the following syllables are built in: <foreign>ḷāmaṇimaṅkalamākiya <hi rend="grantha">śrīvikramā-</hi></foreign>.</quote> If this was really the case (and not a missing estampage), this was not the case any more in 2008.</note>
+                    </app>
+                    
+                    <app loc="2">
+                        <lem>kūṭi y-i<unclear>ru</unclear>ntu Emmiṟ ceyta <hi rend="grantha">vya</hi>va<hi rend="grantha">stai</hi></lem>
+                        <rdg source="bib:Hultzsch1899_01">kū<supplied reason="undefined">ṭi</supplied> yirun<supplied reason="undefined">tu</supplied> <gap reason="lost" quantity="10" unit="character"/></rdg>
+                    </app>	
+                    
+                    <app loc="3">
+                        <lem><hi rend="grantha">ma<supplied reason="lost">dhya</supplied></hi>mam āvaṉa v-ākavum Ip-pari<lb n="4" break="no"/>cu</lem>
+                        <rdg source="bib:Hultzsch1899_01"><hi rend="grantha">madhya</hi><supplied reason="undefined">ma</supplied> <gap reason="lost" quantity="6" unit="character"/> <supplied reason="lost">Ip-pari</supplied><lb n="4" break="no"/>cu</rdg>			
+                    </app>
+                    
+                    <app loc="6">
+                        <lem>peru-makkaḷ<choice><sic>aiyu</sic><corr>ē</corr></choice> mey-vē<surplus>ṟ</surplus>ṟu</lem>
+                        <rdg source="bib:Hultzsch1899_01">perumakkaḷaiyumēy veṟṟu</rdg>
+                    </app>			
+                    
+                </listApp>    			
+                
+            </div>
+            
+            <div type="translation" source="bib:Hultzsch1899_01">
+                
+                <p n="1">Hail! Prosperity! In the sixteenth year <supplied reason="subaudible">of the reign</supplied> of the glorious Kaṇṇaradeva who conquered Kacci and Tañcai,——we, the assembly of Śivacū-<supplied reason="undefined">ḷāmaṇimaṅgala, <hi rend="italic">alias</hi> Śrī-Vikramā</supplied>bharaṇa-caturvedimaṅgala, <supplied reason="subaudible">a village</supplied> in its own subdivision of Kāliyūr-kōṭṭam, being assembled in the front hall<note><foreign>mukamaṇṭakam</foreign> is a Tamil form of the Sanskrit <foreign>mukha-maṇḍapa</foreign>.</note> of the Puvaṉimāṇikka-Viṣṇugr̥ha in our village, <supplied reason="undefined">ordered</supplied> as follows:——</p>
+                
+                <p n="3">The inhabitants of our village <gap reason="lost" quantity="10" unit="character"/> the land and everything else that is not the object of deeds of gift,<note>Literally, ‘that is beyond deeds of gift’ (<foreign>kuṭupp-ōlai</foreign>).</note> in the environs<note>Literally, ‘in the circle of hamlets’ (<foreign>paṭākai-vaṭṭam</foreign>).</note> of our village <gap reason="lost" quantity="10" unit="character"/> the common property <supplied reason="explanation"><foreign>madhyama</foreign></supplied> of the assembly.</p>
+                
+                <p n="4">We shall sell the land which has thus become the common property <supplied reason="subaudible">of the assembly</supplied>, to those inhabitants who promise to pay taxes on each <foreign>kuḻi</foreign>. No persons shall be allowed to produce deeds of gift or deeds of sale <supplied reason="explanation"><foreign>āvaṇam</foreign></supplied> in order to show that the land thus sold belongs to themselves. We, the assembly, shall levy a fine of <gap reason="lost" quantity="5" unit="character"/> <supplied reason="subaudible"><foreign>kaḻañcu</foreign></supplied> of gold <gap reason="lost" quantity="10" unit="character"/> from those inhabitants who produce such <supplied reason="subaudible">deeds</supplied>.</p>
+                
+                <p n="5">Those inhabitants who do not submit to this, shall be liable to pay into court <supplied reason="explanation"><foreign>dharmāsana</foreign></supplied> a fine of one hundred and eight <foreign>kāṇam</foreign>s <gap reason="lost" quantity="5" unit="character"/><note>The two obscure words <foreign>mey veṟu</foreign> occur again in No. 12, line 11.</note> per day. To each of the inhabitants who have to pay this fine, the great men elected for that year <gap reason="lost" quantity="10" unit="character"/> <supplied reason="subaudible">one</supplied> <foreign>kuṉṟi</foreign> of gold per day.</p>
+                
+                <p n="6">If, through indifference, though <gap reason="lost" quantity="5" unit="character"/> was thus given to those who pay the fine and though they themselves have fined <supplied reason="subaudible">them</supplied>, they are not able to remove the obstacles to the possession <supplied reason="explanation"><foreign>āṭci</foreign></supplied>, the great men elected for that year shall be liable to pay an additional fine of twenty-four <foreign>kāṇam</foreign>s. Though they are fined thus, <supplied reason="undefined">the great men</supplied> elected for that year <gap reason="lost" quantity="10" unit="character"/></p>
+                
+            </div>
+            
+            <div type="translation" resp="part:emfr">
+                
+                <p n="01">Prosperity! Fortune!</p>
+                
+                <p n="1">Sixteenth year of the glorious king Kaṇṇara who took Kacci and Tañcai.</p>
+                
+                <p n="1-3">This is the agreement <supplied reason="explanation"><foreign><hi rend="grantha">vya</hi>va<hi rend="grantha">stai</hi></foreign></supplied> that We, the members of the assembly of Vikramābharaṇacaturvedimaṅgala,<hi rend="italic">alias</hi>Śivacūḍāmaṇimaṅgala, in the Kāliyūrkkōṭtam and the namesake subdivision <supplied reason="explanation"><foreign>kūṟu</foreign></supplied>, made, while seating altogether in the <foreign>mukhamaṇḍapa</foreign> of the Puvaṉimānikkaviṣṇugṛha <supplied reason="subaudible">in</supplied> our village.</p>
+                
+                <p n="3">The lands and whatsoever is beyond <supplied reason="explanation"><foreign>mēṟpaṭṭa</foreign></supplied> <supplied reason="subaudible">the purpose of the present agreement as already object of</supplied> a leaf <supplied reason="explanation"><foreign>ōlai</foreign><note>That is, document.</note></supplied> of donation <supplied reason="explanation"><foreign>kuṭuppu</foreign></supplied>, in the surrounding hamlets <supplied reason="subaudible">of</supplied> our village <supplied reason="subaudible">and</supplied> the tenants <supplied reason="subaudible">of</supplied> our village should be things <supplied reason="explanation"><foreign>āvaṉa</foreign><note>Litteraly, that which are.</note></supplied> <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>sabhai-madhyama</foreign></supplied>.</p>
+                
+                <p n="3-4">In this manner, We shall give <supplied reason="subaudible">these lands</supplied> after sale to tenants who say <quote>We will pay taxes ...</quote></p>
+                
+                <p n="4">These lands so given after sale, there should be no one, whoever, obtaining<note>That is, whoever do so is a fraud.</note> to show a leaf or a document of donation saying <quote>This is ours</quote>.</p>
+                
+                <p n="4-5">In this manner, the tenants who show <supplied reason="subaudible">such documents</supplied> <gap reason="lost"/>, We, the members of the assembly, shall fine <supplied reason="subaudible">them</supplied> <gap reason="lost"/> <foreign>kaḻañcu</foreign>s of gold.</p>
+                
+                <p n="5">The tenants who do not ...
+                    should obtain to pay <supplied reason="explanation"><foreign>iṭa</foreign><note>Literally, to put.</note></supplied> a fine of one hundred and eight <foreign>kāṇam</foreign>s, individually/per head <supplied reason="explanation"><foreign>meyvēru</foreign></supplied>, per day, in the seat of <foreign>dharma</foreign>.</p>
+                
+                <p n="5">To the tenants ...</p>
+                
+                <p n="6">In this manner ...</p>
+                
+                <p n="6">Even though so fined, ...</p>	
+                
+            </div>
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1892-1893"/></bibl> (ARIE/1892-1893/B/1893/25).</p>
+                <p>Edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>, with English translation (SII 3.7).</p>
+                <p>Edited in <bibl><ptr target="bib:Swaminathan2000_01"/></bibl> (no. 7).</p>
+                <p>This edition by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>, published visual documentation and photos (Valérie Gillet, 2008).</p>	
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII ">
+                        <ptr target="bib:Hultzsch1899_01"/>
+                        <citedRange unit="page">11-13</citedRange>
+                        <citedRange unit="item">6</citedRange>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:Swaminathan2000_01"/>
+                        <citedRange unit="page">5-6-</citedRange>
+                        <citedRange unit="item">7</citedRange>
+                    </bibl>	
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1892-1893"/>
+                        <citedRange unit="page">13</citedRange>
+                        <citedRange unit="appendix">B/1893</citedRange>
+                        <citedRange unit="item">25</citedRange>			
+                    </bibl>		
+                    
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
 </TEI>
