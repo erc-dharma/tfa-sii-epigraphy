@@ -20,7 +20,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_INSSII2200103</idno>
+                <idno type="filename">DHARMA_INStfaSIIv22p0i0103</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -40,11 +40,11 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary/>
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             <p/>
                         </handDesc>
                     </physDesc>
@@ -57,16 +57,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -104,7 +101,7 @@
 
 <lb n="4" break="no"/>ḷar ceṭṭiyaḷ k<choice><orig>o</orig><reg>ō</reg></choice>yil c<choice><orig>i</orig><reg>ī</reg></choice>rmai<unclear>yi</unclear>l Uḷḷa
       perum kaṟcūla paṟvatammāḷ kāttayar ci<hi rend="grantha">ṣ</hi>yaṉ ci<hi rend="grantha">ṣ</hi><supplied reason="omitted">ya</supplied>ṉ kāḷatti Āṇṭār makataimaṇṭala civaṉukku
-       nammuṭa k<choice><orig>o</orig><reg>ō</reg></choice>yil c<choice><orig>i</orig><reg>ī</reg></choice>mai Āṉa caṇpaiyu<unclear>m</unclear> maṟṟum Uṇṭāṉa kiṟāmam <gap reason="lost" quantity="2" unit="character"></gap>
+       nammuṭa k<choice><orig>o</orig><reg>ō</reg></choice>yil c<choice><orig>i</orig><reg>ī</reg></choice>mai Āṉa caṇpaiyu<unclear>m</unclear> maṟṟum Uṇṭāṉa kiṟāmam <gap reason="lost" quantity="2" unit="character"/>
        pala-paṭṭaṭaiyum Iṭaṅkai vala
        
        <lb n="5" break="no"/>ṅkai toṇṇūṟṟu eṭṭu cātiyum Ākavum

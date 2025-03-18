@@ -31,7 +31,7 @@
 			<publicationStmt>
 				<authority>DHARMA</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSSII0300012</idno>
+				<idno type="filename">DHARMA_INStfaSIIv03p0i0012</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -67,16 +67,13 @@
 					under the European Union's Horizon 2020 research and innovation programme (grant
 					agreement no 809994).</p>
 			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
 			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
 					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
 						ERC-DHARMA whose data are open to the public.</p>
 				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
 					<p>Internal URIs using the part prefix to point to person elements in the
 							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
 				</prefixDef>
@@ -162,7 +159,7 @@
 	<p n="2">To the god of the Puvaṉimāṇikka-Viṣṇugr̥ham in our village shall belong, as a divine gift <supplied reason="explanation"><foreign>deva-bhoga</foreign></supplied>, the village called Cōtiyampākkam, a hamlet <supplied reason="explanation"><foreign>piṭākai</foreign></supplied> to the north of our village,——including the great flower-garden which belonged to this <supplied reason="subaudible">temple</supplied> previously,——the site of the village,<note>The term <foreign>ūr-irukkai</foreign> occurs in the Tañjāvūr inscriptions, Vol. II. Nos. 4 and 5.</note> the tank, the wet land, the dry land, and everything within <supplied reason="subaudible">its</supplied> limits, on which the iguana runs and the tortoise crawls,<note>Compare Vol. II. p. 360, note 1.</note> for the worshippers of the god of this Puvaṉimāṇikka-Viṣṇugr̥ha, for the requirements of the worship, for oblations <supplied reason="explanation"><foreign>tiruvamr̥du</foreign></supplied> at the three times <supplied reason="subaudible">of the day</supplied>,<note>See above, p. 11, note 3.</note> for two perpetual lamps, for rows of lamps at twilight, for festivals, for the bathing <supplied reason="subaudible">of the idol</supplied> at solstices, equinoxes and eclipses, for offerings <supplied reason="explanation"><foreign>śrībali</foreign></supplied>, <supplied reason="subaudible">for</supplied> supplies<note>On <foreign>puṟam</foreign> see above, p. 6, note 9.</note> to the store-room<note>This translation of <foreign>uṇṇāḻikai</foreign> is conjectural. The same word occurs in Vol. I. Nos. 82, 83, 145 and 150. Compare <foreign>iṭanāḻi</foreign>, ‘a passage between two rooms,’ in Dr. Gundert's <hi rend="italic">Malayāḷam Dictionary</hi>, p. 100.</note> of the temple, and for all other purposes.</p>
 	<p n="7">We shall not be entitled to levy any kind of tax from this village. We, <supplied reason="subaudible">the great men</supplied> elected for the year, we, <supplied reason="subaudible">the great men</supplied> elected for <supplied reason="subaudible">the supervision of</supplied> the tank, and we, <supplied reason="subaudible">the great men</supplied> elected for <supplied reason="subaudible">the supervision of</supplied> gardens, shall not be entitled to claim, at the order of the assembly, forced labour  <foreign>veṭṭi</foreign>,<note>See <hi rend="italic">Ep. Ind</hi>. Vol. III. p. 323, note 1.</note> <foreign>vēti<supplied reason="undefined">ḷai</supplied></foreign> and <foreign>vālakkāṇam</foreign> from the inhabitants settled in this village.</p>
 	<p n="9"><supplied reason="subaudible">If</supplied> a crime <supplied reason="subaudible">or</supplied> sin becomes public, the god <supplied reason="subaudible">i.e. the temple authorities</supplied> alone shall punish the inhabitants of this village <supplied reason="subaudible">for it</supplied>. Having agreed <supplied reason="subaudible">thus</supplied>, we, the assembly, engraved <supplied reason="subaudible">this</supplied> on stone.<note>The ‘engraving’ is expressed twice, first in Sanskrit and then in Tamil.</note></p>
-	<p n="10">If we utter the untruth that this is not <supplied reason="subaudible">as stated above</supplied>, in order to injure <supplied reason="subaudible">the charity</supplied>, we shall incur <supplied reason="subaudible">all</supplied> the sins committed between the Gaṅgā and Kumari. We, the assembly, agree to pay a fine of one hundred and eight <foreign>kāṇam</foreign>s per day, if we fail in this through indifference<note>Compare above, No. 7, 1. 6.</note> <gap reason="lost" quantity="5" unit="character"></gap> <note>On <foreign>mey veṟu</foreign> see above, p. 13, note 1.</note></p>
+	<p n="10">If we utter the untruth that this is not <supplied reason="subaudible">as stated above</supplied>, in order to injure <supplied reason="subaudible">the charity</supplied>, we shall incur <supplied reason="subaudible">all</supplied> the sins committed between the Gaṅgā and Kumari. We, the assembly, agree to pay a fine of one hundred and eight <foreign>kāṇam</foreign>s per day, if we fail in this through indifference<note>Compare above, No. 7, 1. 6.</note> <gap reason="lost" quantity="5" unit="character"/> <note>On <foreign>mey veṟu</foreign> see above, p. 13, note 1.</note></p>
 	<p n="11">Having been present in this assembly, I, the arbitrator of this village, <supplied reason="undefined">Po</supplied>ṟṟikkuṟi Brahmapriyaṉ, wrote <supplied reason="subaudible">this</supplied> at the order of the assembly.</p>
 </div>
 	
@@ -183,7 +180,7 @@
 	
 	<listBibl type="primary">
 		
-		<bibl n="SII ">
+		<bibl n="SII">
 			<ptr target="bib:Hultzsch1899_01"/>
 			<citedRange unit="page">18-20</citedRange>
 			<citedRange unit="item">12</citedRange>			

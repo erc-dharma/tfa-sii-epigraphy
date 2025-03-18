@@ -24,7 +24,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_INSSII1700603</idno>
+                <idno type="filename">DHARMA_INStfaSIIv17p0i0603</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -60,16 +60,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -165,7 +162,7 @@
     </lg>
     
     <lg n="7" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        <l n="ab">na jāyate viśva <gap reason="lost" unit="character" quantity="17"></gap> sarvataḥ priyaḥ</l>
+        <l n="ab">na jāyate viśva <gap reason="lost" unit="character" quantity="17"/> sarvataḥ priyaḥ</l>
     </lg>
     
     <lg n="8" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
@@ -234,7 +231,7 @@
            </item>
            <item>
                Iva<choice><orig>ne</orig><reg>ṉē</reg></choice> <hi rend="grantha">grāmā<unclear>di</unclear>
-            <lb n="4" break="no"/>-vāstu</hi>kkaḷaiyu<supplied reason="omitted">m</supplied> <hi rend="grantha">prāsādādi-vāstu</hi>kkaḷaiyum <hi rend="grantha">pratimā-bheda</hi>ṅkaḷaiyum <hi rend="grantha">pañcāyudhādy-āyutaṁ</hi>kaḷaiyum <hi rend="grantha">brahma-sṛṣṭy-ādi <gap reason="lost" unit="character" quantity="5"></gap> di-karmmaṁ</hi>kaḷaiyum ceyya <hi rend="grantha">vidhāna</hi>m uṇṭātalāl
+            <lb n="4" break="no"/>-vāstu</hi>kkaḷaiyu<supplied reason="omitted">m</supplied> <hi rend="grantha">prāsādādi-vāstu</hi>kkaḷaiyum <hi rend="grantha">pratimā-bheda</hi>ṅkaḷaiyum <hi rend="grantha">pañcāyudhādy-āyutaṁ</hi>kaḷaiyum <hi rend="grantha">brahma-sṛṣṭy-ādi <gap reason="lost" unit="character" quantity="5"/> di-karmmaṁ</hi>kaḷaiyum ceyya <hi rend="grantha">vidhāna</hi>m uṇṭātalāl
            </item>
        </list>
         Iv-va<hi rend="grantha">riṣṭhomāpatti</hi>yai-y-uṭaiya <hi rend="grantha">rathakārānuloman-ākiya karmmāra</hi>nē Ivai
@@ -251,7 +248,7 @@
                 <g type="ddanda">.</g>
             </item>
             <item>
-                <gap reason="lost" unit="character" quantity="6"></gap> <hi rend="grantha">pratibhāsa<surplus>ḥ</surplus> śaṁkara-nārāyaṇa-bhaṭṭa-somayājinaḥ</hi> <g type="gomutraFinal">.</g>
+                <gap reason="lost" unit="character" quantity="6"/> <hi rend="grantha">pratibhāsa<surplus>ḥ</surplus> śaṁkara-nārāyaṇa-bhaṭṭa-somayājinaḥ</hi> <g type="gomutraFinal">.</g>
                 <hi rend="grantha">cakra<unclear>pā</unclear>ṇi-bhaṭṭasya</hi> <g type="ddanda">.</g>
             </item>
             <item>
@@ -273,7 +270,7 @@
             <item><gap reason="lost" unit="character" quantity="3"/> ḷu<hi rend="grantha">ka<unclear>-mū</unclear>rtti dakṣaṇāmūrti-bhaṭṭa-vasanta-yājinaḥ</hi> <g type="gomutraFinal">.</g>
             </item>
             <item>
-                <hi rend="grantha">śrī-rājādhirāja-c-catur-vedi-maṁ</hi>kalattu muppurā <hi rend="grantha">bha</hi>va<hi rend="grantha">skaṁda <gap reason="lost" unit="character" quantity="2"></gap> soma</hi>yā<hi rend="grantha">ji</hi>y<choice><orig>e</orig><reg>ē</reg></choice>ṉ <hi rend="grantha">bhava-skanta</hi> <gap reason="lost" unit="character" quantity="6"/> 
+                <hi rend="grantha">śrī-rājādhirāja-c-catur-vedi-maṁ</hi>kalattu muppurā <hi rend="grantha">bha</hi>va<hi rend="grantha">skaṁda <gap reason="lost" unit="character" quantity="2"/> soma</hi>yā<hi rend="grantha">ji</hi>y<choice><orig>e</orig><reg>ē</reg></choice>ṉ <hi rend="grantha">bhava-skanta</hi> <gap reason="lost" unit="character" quantity="6"/> 
             </item>
         </list>
     </p>
@@ -283,7 +280,7 @@
         <gap reason="lost" unit="character" quantity="7"/>
         <hi rend="grantha">śūdra-jā</hi>ti-y-āy-uḷḷa
         <lb n="6"/><gap reason="lost" unit="character" quantity="2"/>
-        <hi rend="grantha">Āgamam·</hi> <gap reason="lost" unit="character" quantity="2"></gap> <hi rend="grantha">ditta-vacanam·</hi><g type="danda">.</g>
+        <hi rend="grantha">Āgamam·</hi> <gap reason="lost" unit="character" quantity="2"/> <hi rend="grantha">ditta-vacanam·</hi><g type="danda">.</g>
     </p>
     
     <lg n="17" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
@@ -297,7 +294,7 @@
         <l n="a">ta <seg met="===-+-="><gap reason="lost" unit="character" quantity="7"/></seg></l>
         <l n="b">sahitau kāryyam ācare<unclear>t·</unclear></l>
         <l n="c">tāveva sahitau <seg met="-="><gap reason="lost" unit="character" quantity="2"/></seg></l>
-        <l n="d"><unclear>sarvasaṁ</unclear>pat· kara<supplied reason="omitted">ṁ</supplied> nṛṇām·<g type="ddanda"></g></l>
+        <l n="d"><unclear>sarvasaṁ</unclear>pat· kara<supplied reason="omitted">ṁ</supplied> nṛṇām·<g type="ddanda"/></l>
     </lg>
     
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
@@ -306,9 +303,9 @@
 
     <lg n="19" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="a" enjamb="yes">sulekhas suguṇaś śilpa</l>
-        <l n="b">śāstra-jñaḥ karmma-yogyakaḥ<g type="ddanda"></g></l>
+        <l n="b">śāstra-jñaḥ karmma-yogyakaḥ<g type="ddanda"/></l>
         <l n="c">mānādi-rasa-māna-jñaś</l>
-        <l n="d">śalyoddhāra-viśāradaḥ<g type="ddanda"></g></l>
+        <l n="d">śalyoddhāra-viśāradaḥ<g type="ddanda"/></l>
     </lg>
     
     <lg n="20" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
@@ -411,8 +408,8 @@
     </p>
     
     <lg n="31" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        <l n="ab">prasiddha-deśe saṁkīrnna-jātijobhīṣṭa la <gap reason="lost" quantity="8" unit="character"></gap>
-            <lb n="8"/><gap reason="lost" quantity="2" unit="character"></gap> ṇaḥ</l>
+        <l n="ab">prasiddha-deśe saṁkīrnna-jātijobhīṣṭa la <gap reason="lost" quantity="8" unit="character"/>
+            <lb n="8"/><gap reason="lost" quantity="2" unit="character"/> ṇaḥ</l>
     </lg>
     
     <lg n="32" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
@@ -450,7 +447,7 @@
     </p>
     
      <lg n="36" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        <l n="ab"><gap reason="lost" unit="character" quantity="6"></gap> sāreṇa kārayet· <gap reason="lost" unit="character" quantity="4"></gap> ṇam· <g type="pc">.</g></l>
+        <l n="ab"><gap reason="lost" unit="character" quantity="6"/> sāreṇa kārayet· <gap reason="lost" unit="character" quantity="4"/> ṇam· <g type="pc">.</g></l>
     </lg>
   
    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">śrī-vaikhānasa-mahāstave<g type="danda">.</g>
@@ -621,7 +618,7 @@
     </p>
     
     <p>
-        <hi rend="grantha">yājña</hi>valkīye ta <gap reason="lost" quantity="2" unit="character"></gap>      
+        <hi rend="grantha">yājña</hi>valkīye ta <gap reason="lost" quantity="2" unit="character"/>      
     </p>
     
      <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">Atra śaṁkha-va<unclear>cana</unclear>ṁ <g type="gomutraFinal">.</g>

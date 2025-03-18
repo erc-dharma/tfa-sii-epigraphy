@@ -20,7 +20,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_INSSII4100201</idno>
+                <idno type="filename">DHARMA_INStfaSIIv41p0i0201</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary/>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -56,16 +56,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -92,7 +89,7 @@
         
         <lb n="2"/>valliyūr Uṭaiyār kiṭāraṅ-koṇṭa-cōḷicuram-uṭaiya nāyiṉār kōyil keṅkai-koṇṭa-cōḻaṉ tiru-k-kāvaṇattu kalavai-p-paṟṟu Ānti-nāṭu Atti-p-paṟṟu muṟukaṉ-maṅkala-p-paṟṟu nāṭṭārum Akampaṭiyārum-āṉa nāṭṭārum maṟṟum valaṅkai-k-kaṭaitta cāti y-uḷḷārum Iṭaṅkai-k-kaṭaitta cā
         
-        <lb n="3" break="no"/>ti<unclear>yil uḷḷārum</unclear> niṟai-vaṟa niṟaintu kuṟai-v-aṟa-k kūṭi-y-iruntu Eṅkaḷil icaintu <gap reason="lost" quantity="4" unit="character"></gap> ṉāyaṉāṟku Upaya-niccayittu-k kuṭutta paṭi
+        <lb n="3" break="no"/>ti<unclear>yil uḷḷārum</unclear> niṟai-vaṟa niṟaintu kuṟai-v-aṟa-k kūṭi-y-iruntu Eṅkaḷil icaintu <gap reason="lost" quantity="4" unit="character"/> ṉāyaṉāṟku Upaya-niccayittu-k kuṭutta paṭi
     </p>
     <p>
         
@@ -107,7 +104,7 @@
     
     <item>tiru-malai <supplied reason="omitted">y-iṟakki</supplied> koṉṟāl-t tiru-malaiku ceṉṟālē Iḻintu veḷḷiyilē puri-k kaṭṭavum</item></list>
   
-        pūcaikku <gap reason="lost" unit="character" quantity="4"></gap>
+        pūcaikku <gap reason="lost" unit="character" quantity="4"/>
         
         <lb n="6"/><unclear>ṇakka</unclear> nāṅkaḷ vaitta Upaiyañ cantirātitta-varaiyu naṭatta-k-kaṭavat’ eṉṟu cammatittu Aṟuti paṇṇi-k-kuṭutta paṭi
     </p>
@@ -115,20 +112,20 @@
     <p>
         Āṇṭ’ oṉṟu<unclear>kku vēli</unclear> Oṉṟukku kala-nellu Arai-p-paṇamum puñce-p-paṟṟukku-k kalatā<supplied reason="omitted">ṉiyam</supplied>
         
-        <lb n="7"/>y-eṟu cāttiṟaṅku cāttu pākku miḷaku potikku poti Oṉṟukku Oru paṇamu muppu-p-poti Eḷ-potikku poti Oṉṟukku Arai-p-paṇamu nellu <gap reason="lost" unit="character" quantity="7"></gap> potikku kāl-p paṇamu <gap reason="lost" unit="character" quantity="4"></gap> Oṉṟukku <gap reason="lost" unit="character" quantity="4"></gap> <unclear>cāla</unclear><surplus>?</surplus>taṟi Oṉṟukk’ oru paṇamu vāṇikar cekkuvāṇikar <unclear>ce</unclear>
+        <lb n="7"/>y-eṟu cāttiṟaṅku cāttu pākku miḷaku potikku poti Oṉṟukku Oru paṇamu muppu-p-poti Eḷ-potikku poti Oṉṟukku Arai-p-paṇamu nellu <gap reason="lost" unit="character" quantity="7"/> potikku kāl-p paṇamu <gap reason="lost" unit="character" quantity="4"/> Oṉṟukku <gap reason="lost" unit="character" quantity="4"/> <unclear>cāla</unclear><surplus>?</surplus>taṟi Oṉṟukk’ oru paṇamu vāṇikar cekkuvāṇikar <unclear>ce</unclear>
         
         <lb n="8"/>koḷḷa-k kaṭavat’ ākavum
     </p>
     <p>
-        Ip-paṭi cammatittu Inta Upaiyañc cantirātitta-varai naṭatti-k kuṭukka-k <gap reason="lost" unit="character" quantity="4"></gap>
+        Ip-paṭi cammatittu Inta Upaiyañc cantirātitta-varai naṭatti-k kuṭukka-k <gap reason="lost" unit="character" quantity="4"/>
         
-        <lb n="9"/>ṭuta turōkiyum-āṉa kollattaraiyṉai-k kolla tiru-malai Iṟakki y-ivaṉaiyuṅ koṉeṟu Inta <gap reason="lost" unit="character" quantity="6"></gap>
+        <lb n="9"/>ṭuta turōkiyum-āṉa kollattaraiyṉai-k kolla tiru-malai Iṟakki y-ivaṉaiyuṅ koṉeṟu Inta <gap reason="lost" unit="character" quantity="6"/>
         
         <lb n="10"/>m eṭuttu-t taṇṭi-k koḷḷum paṭikku Uṭaiyār kiṭāraṅ-koṇṭa-cōḷīcuram-uṭaiya nāyaṉār
         
-        <lb n="11"/><gap reason="lost" unit="character" quantity="3"></gap> Uruttira-<hi rend="grantha">śrī</hi>-māyēcurar <hi rend="grantha">śrī</hi>-kāriyañ <gap reason="lost" unit="character" quantity="3"></gap> <unclear>ttārukkum</unclear> kavari<choice><orig>p</orig><reg>pp</reg></choice>iṇā poṟkōyil kaikkōḷarkkum <hi rend="grantha">śrī</hi>-vīra-pattirakkum Ip-paṭi <unclear>ca</unclear>mmatittu
+        <lb n="11"/><gap reason="lost" unit="character" quantity="3"/> Uruttira-<hi rend="grantha">śrī</hi>-māyēcurar <hi rend="grantha">śrī</hi>-kāriyañ <gap reason="lost" unit="character" quantity="3"/> <unclear>ttārukkum</unclear> kavari<choice><orig>p</orig><reg>pp</reg></choice>iṇā poṟkōyil kaikkōḷarkkum <hi rend="grantha">śrī</hi>-vīra-pattirakkum Ip-paṭi <unclear>ca</unclear>mmatittu
         
-        <lb n="12"/>kalliluñ cempilum veṭṭi-k kuṭuttōm <gap reason="lost" unit="character" quantity="11"></gap> maṟṟum valaṅkai Iṭaṅkai-k-kaṭaitta cātiyilu<unclear>ḷ</unclear> <gap reason="lost" unit="character" quantity="6"></gap> cantirātitta-varaiyum naṭatti-k koḷḷum paṭi
+        <lb n="12"/>kalliluñ cempilum veṭṭi-k kuṭuttōm <gap reason="lost" unit="character" quantity="11"/> maṟṟum valaṅkai Iṭaṅkai-k-kaṭaitta cātiyilu<unclear>ḷ</unclear> <gap reason="lost" unit="character" quantity="6"/> cantirātitta-varaiyum naṭatti-k koḷḷum paṭi
         
         <lb n="13"/>nāṭṭavarum Akampaṭi vēḷāṉum paḷḷiveḷāṉum I-vv-aṉaivōm 
     </p>

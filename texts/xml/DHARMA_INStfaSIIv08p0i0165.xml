@@ -35,7 +35,7 @@
 			<publicationStmt>
 				<authority>DHARMA</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSSII0800165</idno>
+				<idno type="filename">DHARMA_INStfaSIIv08p0i0165</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -74,16 +74,13 @@
 					under the European Union's Horizon 2020 research and innovation programme (grant
 					agreement no 809994).</p>
 			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
 			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
 					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
 						ERC-DHARMA whose data are open to the public.</p>
 				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
 					<p>Internal URIs using the part prefix to point to person elements in the
 							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
 				</prefixDef>
@@ -141,18 +138,18 @@
         mīḷa-k <unclear>ka</unclear>
         <lb n="28" break="no"/>ḷiṅka-tēca-tikku-vicaiyam āka <unclear>p</unclear><choice><sic>e</sic><corr>a</corr></choice>cavāṭaikku Eḻu
         <lb n="29" break="no"/>nt-aruḷi koṇṭa-paḷḷi-tuṟkkam koṇṭu Anta tuṟ
-        <lb n="30"/>kattilē piṟakarāca-ciṟa-c-cantiṟa-ma<hi rend="grantha">hā</hi>-pāttira <gap reason="lost" quantity="4" unit="character"></gap>
+        <lb n="30"/>kattilē piṟakarāca-ciṟa-c-cantiṟa-ma<hi rend="grantha">hā</hi>-pāttira <gap reason="lost" quantity="4" unit="character"/>
         <lb n="31" break="no"/>ma<hi rend="grantha">hā</hi>-pāttiram pi<hi rend="grantha">ji</hi>likkāṉaṉ y-ivarkaḷ mutal-āṉa
         <lb n="32"/>pāttiṟaṅka<hi rend="grantha">ḷai</hi> c<choice><orig>i</orig><reg>ī</reg></choice>vat=tuṭaṉē piṭittu-k koṇṭu A
         <lb n="33"/>paiya<hi rend="grantha">stam·</hi> koṭuttu Aṉantakiri Uṇṭaṟ-koṇṭa
         <lb n="34"/>Uruḷa-k-koṇṭa Aruva-p-paḷḷi calli-p-paḷ<supplied reason="omitted">ḷi</supplied> <unclear>At</unclear>
-        <lb n="35" break="no"/>ti-k-koṇṭa <unclear>ka</unclear>ppaluvāyi nallaṅ-koṇṭa <gap reason="lost" unit="character" quantity="2"></gap>
-        <lb n="36"/><gap reason="lost" unit="character" quantity="3"/> kaṉaka-kiri caṅkara-kiri <gap reason="lost" unit="character" quantity="6"></gap>
-        <lb n="37"/><gap reason="lost" unit="character" quantity="10"></gap> tiṟamal<unclear>li</unclear> kai-k-koṇṭu
+        <lb n="35" break="no"/>ti-k-koṇṭa <unclear>ka</unclear>ppaluvāyi nallaṅ-koṇṭa <gap reason="lost" unit="character" quantity="2"/>
+        <lb n="36"/><gap reason="lost" unit="character" quantity="3"/> kaṉaka-kiri caṅkara-kiri <gap reason="lost" unit="character" quantity="6"/>
+        <lb n="37"/><gap reason="lost" unit="character" quantity="10"/> tiṟamal<unclear>li</unclear> kai-k-koṇṭu
         <lb n="38"/>ciṅkāttiri poṭṭuṉūrkku Eḻunt-aruḷi Aṅkē ce
-        <lb n="39" break="no"/>yattampam <unclear>nā</unclear>ṭṭi <unclear>cim</unclear><hi rend="grantha">hā</hi>tti <gap reason="lost" unit="character" quantity="6"></gap> <unclear>tiru</unclear>m
-        <lb n="40" break="no"/><unclear>pi</unclear> Irāca-mayēntiṟāvarattukku Eḻunt-aruḷi <gap reason="lost" unit="character" quantity="2"></gap>
-        <lb n="41"/><gap reason="lost" unit="character" quantity="2"></gap> tēviyār ciṉṉācci-Ammaṉ tiru-malai-tēvi-A<unclear>m</unclear>
+        <lb n="39" break="no"/>yattampam <unclear>nā</unclear>ṭṭi <unclear>cim</unclear><hi rend="grantha">hā</hi>tti <gap reason="lost" unit="character" quantity="6"/> <unclear>tiru</unclear>m
+        <lb n="40" break="no"/><unclear>pi</unclear> Irāca-mayēntiṟāvarattukku Eḻunt-aruḷi <gap reason="lost" unit="character" quantity="2"/>
+        <lb n="41"/><gap reason="lost" unit="character" quantity="2"/> tēviyār ciṉṉācci-Ammaṉ tiru-malai-tēvi-A<unclear>m</unclear>
         <lb n="42" break="no"/>maṉ y-ivarkaḷum ma<hi rend="grantha">hā</hi>tānam paṇṇi vicaiya-na
         <lb n="43" break="no"/>karattukku Eḻunt-aruḷi
     </p>
@@ -163,14 +160,14 @@
     
     <p>
         vicaiyāṟputa
-        <lb n="44" break="no"/>ya-cālivākaṉa-caka <g type="varuṣam"></g> <num value="1438">1 <g type="numeral">1000</g> 4 <g type="numeral">100</g> 3 <g type="numeral">10</g> 8</num>-l mēl cellā
-        <lb n="45" break="no"/>⌉ niṉṟa tātu <g type="varuṣam"></g> makara-nāyaṟṟu pūṟuva-pa<hi rend="grantha">kṣa</hi>ttil
+        <lb n="44" break="no"/>ya-cālivākaṉa-caka <g type="varuṣam"/> <num value="1438">1 <g type="numeral">1000</g> 4 <g type="numeral">100</g> 3 <g type="numeral">10</g> 8</num>-l mēl cellā
+        <lb n="45" break="no"/>⌉ niṉṟa tātu <g type="varuṣam"/> makara-nāyaṟṟu pūṟuva-pa<hi rend="grantha">kṣa</hi>ttil
         <lb n="46"/>tiraiyoteciyum cōma-vārattu nāḷ
         <hi rend="grantha">śrī</hi>-kā<hi rend="grantha">ḷa</hi>
         <lb n="47" break="no"/><hi rend="grantha">sti</hi>kku vant-aruḷi kāḷatti-<unclear>nāta</unclear>ṉai c-cevittu U
         <lb n="48" break="no"/>ṭaiyavaṟku nū<supplied reason="omitted">ṟ</supplied>ṟukkāl maṇṭapamum periya 
         <lb n="49" break="no"/>-kōpuramum kaṭṭivittu Aruḷi ⌈
-        <lb n="50" break="no"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg><hi rend="grantha">ai</hi></seg> <gap reason="lost" quantity="9" unit="character"></gap>
+        <lb n="50" break="no"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg><hi rend="grantha">ai</hi></seg> <gap reason="lost" quantity="9" unit="character"/>
         <lb n="51" break="no"/><gap reason="lost" quantity="3" unit="character"/> camama <gap reason="lost" quantity="4" unit="character"/>
         <lb n="52" break="no"/><gap reason="lost" quantity="11" unit="character"/>
     </p>
@@ -323,7 +320,7 @@
         he graciously appeared in Pacavāṭai,
         he took the fort of Koṇṭapaḷḷi, 
         in that fort, he captured alive <supplied reason="explanation"><foreign>cīvattuṭaṉē</foreign></supplied> the <foreign>pāttiram</foreign>s such Piṟakarāca Ciṟaccantira Mahāpāttiraṉ, <gap reason="lost" extent="unknown"/> Mahāpāttiraṉ, Pijilikkāṉaṉ,<note>Pijili Khān.</note> etc., and gave them a secure position,
-        he captured Aṉantakiri, Uṇṭaṟkoṇṭa, Uruḷakkoṇṭa, Aruvappaḷḷi, Callippaḷḷi, Attikkoṇṭa, Kappaluvāyi Nallaṅkoṇṭa, <gap reason="lost" extent="unknown"/>, Kaṉakakiri, Caṅkarakiri, <gap reason="lost" extent="unknown"></gap>, and tiṟamalli,
+        he captured Aṉantakiri, Uṇṭaṟkoṇṭa, Uruḷakkoṇṭa, Aruvappaḷḷi, Callippaḷḷi, Attikkoṇṭa, Kappaluvāyi Nallaṅkoṇṭa, <gap reason="lost" extent="unknown"/>, Kaṉakakiri, Caṅkarakiri, <gap reason="lost" extent="unknown"/>, and tiṟamalli,
         he graciously appeared in Ciṅkāttiri Poṭṭuṉūr and there erected a victory pillar,
         he returned <gap reason="lost"/> Cimhātti,
         he graciously appeared in Irācamayēntiṟāvaram,

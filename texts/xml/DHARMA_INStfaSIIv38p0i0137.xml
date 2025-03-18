@@ -35,7 +35,7 @@
 			<publicationStmt>
 				<authority>DHARMA</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSSII3800137</idno>
+				<idno type="filename">DHARMA_INStfaSIIv38p0i0137</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -72,16 +72,13 @@
 					under the European Union’s Horizon 2020 research and innovation programme (grant
 					agreement no 809994).</p>
 			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
 			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
 					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
 						ERC-DHARMA whose data are open to the public.</p>
 				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
 					<p>Internal URIs using the part prefix to point to person elements in the
 						<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
 				</prefixDef>
@@ -145,31 +142,31 @@
 	</p>
 	<p>
 		piṟ
-		<lb n="4" break="no"/>ṟai nāṉṟu Uṭaiyār tū n<choice><sic>i</sic><corr>ī</corr></choice>r āṭṭu Āṭi Aruḷa vāca v-eṇṇai-k kāppu Āḻ<unclear>ā</unclear>kkum mañcaḷ Iru-palamum Amutukku Arici patakkum caṭṭi-c coṟukku Arici kuṟuṇiyum Amutukku ney Uḻakku-p paruppu Uriyum miḷaku Iru-cevuṭum kaṭuku nāṟ ceviṭum tayir Iru-nāḻiyum palakaṟi nūṟṟup<unclear>pa</unclear>lamum veṟuṅkāy Irupatum veṟṟilaikkaṭṭu Oṉṟu Uppu Uḻakku nilai viḷakkukku Eṇ<unclear>ṇai</unclear> Uriyum pattakaḷ tirumēṉikku Eṇṇai āḻ<supplied reason="omitted">ā</supplied>kkum mañcaḷ Oru pala <gap reason="lost" unit="character" quantity="3"></gap>raicum 
+		<lb n="4" break="no"/>ṟai nāṉṟu Uṭaiyār tū n<choice><sic>i</sic><corr>ī</corr></choice>r āṭṭu Āṭi Aruḷa vāca v-eṇṇai-k kāppu Āḻ<unclear>ā</unclear>kkum mañcaḷ Iru-palamum Amutukku Arici patakkum caṭṭi-c coṟukku Arici kuṟuṇiyum Amutukku ney Uḻakku-p paruppu Uriyum miḷaku Iru-cevuṭum kaṭuku nāṟ ceviṭum tayir Iru-nāḻiyum palakaṟi nūṟṟup<unclear>pa</unclear>lamum veṟuṅkāy Irupatum veṟṟilaikkaṭṭu Oṉṟu Uppu Uḻakku nilai viḷakkukku Eṇ<unclear>ṇai</unclear> Uriyum pattakaḷ tirumēṉikku Eṇṇai āḻ<supplied reason="omitted">ā</supplied>kkum mañcaḷ Oru pala <gap reason="lost" unit="character" quantity="3"/>raicum 
 		Amutukku Arici kuṟuṇi Iru nāḻiyum kaṟi Irupati<choice><orig>n</orig><reg>ṉ</reg></choice> palamum ney āḻ<supplied reason="omitted">ā</supplied>kkum caṟkarai āḻ<supplied reason="omitted">ā</supplied>kkum paruppu Uḻakkum tag
 		<lb n="5" break="no"/>yir nāḻi Uḻakkum ve<unclear>ṟu</unclear>ṅkāy pattum veṟṟilai nāṟpatu
 		Uppu Uḻakkum miḷaku Oru ceviṭum an=tiyam potu tiruviḻā
-		<gap reason="lost" unit="character" quantity="9"></gap> ciṟu-kuṟuṇi<unclear>yu</unclear>m ney Uriyum <unclear>caṟ</unclear>karai Uḻakkup puḷiṅkaṟikku caṟkarai Uriyum paruppu nāḻiyum miḷaku āḻ<supplied reason="lost">ā</supplied>kkum kaṭuku Uḻak<unclear>ku</unclear>m ta<unclear>yi</unclear>r nāṉāṉiyum palakaṟi Iru-nūṟṟu palamum Uppu nāḻiyum veṟuṅkāyi Irupatum veṟṟilaik kaṭṭoṉṟum nilai viḷakku nālu<unclear>kku</unclear> Eṇṇai nāḻiyum tiruviḻāvukku v-eṇṇai
+		<gap reason="lost" unit="character" quantity="9"/> ciṟu-kuṟuṇi<unclear>yu</unclear>m ney Uriyum <unclear>caṟ</unclear>karai Uḻakkup puḷiṅkaṟikku caṟkarai Uriyum paruppu nāḻiyum miḷaku āḻ<supplied reason="lost">ā</supplied>kkum kaṭuku Uḻak<unclear>ku</unclear>m ta<unclear>yi</unclear>r nāṉāṉiyum palakaṟi Iru-nūṟṟu palamum Uppu nāḻiyum veṟuṅkāyi Irupatum veṟṟilaik kaṭṭoṉṟum nilai viḷakku nālu<unclear>kku</unclear> Eṇṇai nāḻiyum tiruviḻāvukku v-eṇṇai
 		nāṟpati nāḻiyum tiruttoṇṭatt<choice><sic>u</sic><corr>o</corr></choice>kai keṭṭaruḷi pattarkaḷn=nukku kuṭukkucaṭṭi-c coṟu
-		<lb n="6" break="no"/>kku Arici kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇiyum miḷaku Uḻakkum pala<unclear>kaṟi</unclear> mu<choice><orig>nn</orig><reg>ṉṉ</reg></choice> ūṟṟu-p palamum tayiramutu nā<choice><orig>n</orig><reg>ṉ</reg></choice>āṉiyum <unclear>maṟṟum</unclear> <gap reason="lost" unit="character" quantity="10"></gap> ṇai-k
+		<lb n="6" break="no"/>kku Arici kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇiyum miḷaku Uḻakkum pala<unclear>kaṟi</unclear> mu<choice><orig>nn</orig><reg>ṉṉ</reg></choice> ūṟṟu-p palamum tayiramutu nā<choice><orig>n</orig><reg>ṉ</reg></choice>āṉiyum <unclear>maṟṟum</unclear> <gap reason="lost" unit="character" quantity="10"/> ṇai-k
 		kāppu āḻ<supplied reason="lost">ā</supplied>kkukku nellu kuṟuṇiyum po<choice><orig>n</orig><reg>ṉ</reg></choice>akattukku Arici Eḻu-kuṟuṇikku Aiñ-ciraṇṭu vaṇṇattāl nellu kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē Aiṅ-kuṟuṇi nā-ṉāṉiyum patt-eṭṭu-k kuttal Arici kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi-p-patakku Iru-nāḻikku Aiñ-ciraṇṭu vaṇṇattāl nellu mukkala<choice><orig>n</orig><reg>ṉ</reg></choice>ē Iru-tūṇi-k kuṟuṇi Aiññāḻiyum ney mū-v-uḻakkukku nellu
-		<lb n="7" break="no"/>t- tūṇi Iru nāḻiyum <gap reason="lost" unit="character" quantity="8"></gap> nāḻiyu <gap reason="lost" unit="character" quantity="2"></gap> ku nellu tūṇi <gap reason="lost" unit="character" quantity="5"></gap> ceviṭukku nellu Aiñ-ñāḻiyum tayir-amutu Eḻu-nāḻi Uḻakkukku nellu kuṟuṇi Aiñ-ñāḻi Uḻakkum palakaṟi mu<choice><orig>nn</orig><reg>ṉṉ</reg></choice>ūṟṟu
+		<lb n="7" break="no"/>t- tūṇi Iru nāḻiyum <gap reason="lost" unit="character" quantity="8"/> nāḻiyu <gap reason="lost" unit="character" quantity="2"/> ku nellu tūṇi <gap reason="lost" unit="character" quantity="5"/> ceviṭukku nellu Aiñ-ñāḻiyum tayir-amutu Eḻu-nāḻi Uḻakkukku nellu kuṟuṇi Aiñ-ñāḻi Uḻakkum palakaṟi mu<choice><orig>nn</orig><reg>ṉṉ</reg></choice>ūṟṟu
 		Irupatiṉ palattukku nellu tūṇi-p-patakku Iru-nāḻiyum A<unclear>ṭai-k </unclear> kāyamutukku veṟuṅkāy Ai<unclear>m</unclear>-patukku nellu Ai-ñāḻiyum veṟṟilaikkaṭṭu Iraṇṭ-araikku <supplied reason="lost">ne</supplied>llu mu-ṉ-ṉāḻi
 		mū-v-uḻakkum mañcaḷ mu-p-palaṉē
 		<lb n="8"/>tūṇi-p-patakkum pattarkaḷ tirumē<choice><orig>n</orig><reg>ṉ</reg></choice>ikku eṇṇai āḻ<supplied reason="omitted">ā</supplied>kkukku nellu nāḻiyum pat<supplied reason="omitted">ta</supplied>rkaḷ tiruviḻā Eḻun=taru<supplied reason="omitted">ḷa</supplied> Eṇṇai nāṟ-p-patiṉāḻikku nellu patiṉ kalamum pattarkaḷ caṭṭi-c <unclear>coṟṟu</unclear>kku miḷaku Uḻakkukku <unclear>ne</unclear>llu-k kuṟuṇi nā-ṉāḻiyum palakaṟi niṟai muṉ-<choice><orig>n</orig><reg>ṉ</reg></choice>ūṟṟu palattukku nellu-t tūṇi-p-patakku<unclear>m</unclear> tayir-patiṉ Aṟu-nāḻikku nel 
-		<lb n="9"/><gap reason="lost" unit="character" quantity="6"></gap> nāḻi Uriyum pattar-cālaikku Arici nāṟ-kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi-p-patakkukku Aiñ-ciraṇṭu vaṇṇattāl nellu-p patiṉ<choice><orig>n</orig><reg>ṉ</reg></choice>oru kalaṉē-y mu-k-kuṟuṇiyum ney nā-ṉāḻikku nellu kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi-y pata<unclear>ṟ</unclear>kku <gap reason="lost" unit="character" quantity="4"></gap>-ñāḻi nellu kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē Iru-tūṇiyum payaṟu-kuṟuṇi nā-ṉāḻikku nellu-t tūṇi nā-ṉāḻiyum miḷaku nāḻikku nellu Ai<choice><orig>n</orig><reg>ṅ</reg></choice>kuṟu
-		<lb n="10"/><gap reason="lost" unit="character" quantity="10"></gap>tukku nellu-k kalaṉē mu-k-kuṟuṇi Aiñ-ñāḻiyum veṟṟilai-k kaṭṭu Aim-patukku <unclear>nellu</unclear> Iru-<unclear>tūṇi</unclear>-k kuṟuṇi Iru-nāḻiyum kalamiṭu<supplied reason="omitted">ṅ</supplied> kucavaṉukku nellu-k kalamum viṟaku Iṭuvāṉukku nellu Irukala<choice><orig>n</orig><reg>ṉ</reg></choice>e tūṇi-p
-		<lb n="11"/>patakkum Aṭum e<gap reason="lost" unit="character" quantity="1"></gap> yaṉukkum paric-ārakam āṇikkum tirumañcaṉa-nīr cumappārkkum
+		<lb n="9"/><gap reason="lost" unit="character" quantity="6"/> nāḻi Uriyum pattar-cālaikku Arici nāṟ-kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi-p-patakkukku Aiñ-ciraṇṭu vaṇṇattāl nellu-p patiṉ<choice><orig>n</orig><reg>ṉ</reg></choice>oru kalaṉē-y mu-k-kuṟuṇiyum ney nā-ṉāḻikku nellu kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi-y pata<unclear>ṟ</unclear>kku <gap reason="lost" unit="character" quantity="4"/>-ñāḻi nellu kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē Iru-tūṇiyum payaṟu-kuṟuṇi nā-ṉāḻikku nellu-t tūṇi nā-ṉāḻiyum miḷaku nāḻikku nellu Ai<choice><orig>n</orig><reg>ṅ</reg></choice>kuṟu
+		<lb n="10"/><gap reason="lost" unit="character" quantity="10"/>tukku nellu-k kalaṉē mu-k-kuṟuṇi Aiñ-ñāḻiyum veṟṟilai-k kaṭṭu Aim-patukku <unclear>nellu</unclear> Iru-<unclear>tūṇi</unclear>-k kuṟuṇi Iru-nāḻiyum kalamiṭu<supplied reason="omitted">ṅ</supplied> kucavaṉukku nellu-k kalamum viṟaku Iṭuvāṉukku nellu Irukala<choice><orig>n</orig><reg>ṉ</reg></choice>e tūṇi-p
+		<lb n="11"/>patakkum Aṭum e<gap reason="lost" unit="character" quantity="1"/> yaṉukkum paric-ārakam āṇikkum tirumañcaṉa-nīr cumappārkkum
 		<lb n="12"/>tiruvārātaṉai ceyvārkkum tiruppatiyam pāṭuvārkkum tiruvāy-k keḻvi Uṭai
 		<lb n="13" break="no"/>yāṉukkum taḷiyilārkkum tevaraṭiyārkkum kān=taṟ varkkum tiruppaḷḷi-c-civikaiyārkkum tiruppaḷḷi-t-toṅkal-iṭuvārkkum tiruppaḷḷit tā
 		<lb n="14" break="no"/>mam paṟiccu-toṭu-p-pataṟkum Ukaccarkkum āka nellu eṇkala<choice><orig>n</orig><reg>ṅ</reg></choice>ē tūṇi-p-pataṟkum <hi rend="grantha">prasāda</hi>ṅ kuṭukkum paricaṭṭattukku nellu
 		<lb n="15"/>pati<choice><orig>n</orig><reg>ṉ</reg></choice>aṟu kalamum tirun<supplied reason="omitted">e</supplied>l patakk-āka Eṇṇai Irupati-nāḻikku <surplus>ai</surplus>Aiṅ-kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē Iru-tūṇiyu-p piḷḷaiyārkku tiṉpaṇṭattukku Aiṅ-kuṟuṇi nā-nāḻiyu- 
 		<lb n="16" break="no"/>m ari<supplied reason="omitted">ci</supplied> nellu ai<unclear>ym</unclear>pattāṟu kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē patakkiru nāḻiyum
-		Āka nāḷ Oṉṟukku <g type="poṉ"></g> Eḻu-patt-aiṅ-kalam Iru-nellu Eḻu-patt-aiṅ-kalattukkum <unclear>k</unclear>ā
-		<lb n="17" break="no"/>vaṉūr-āna kamala-nārāyaṇa-c caruppeti-maṅkalattu <hi rend="grantha">sabhai</hi>yōm koṇṭa kācu mu-p-patukku kācu Oṉṟukku <g type="poṉ"></g> Arumoḻitevaṉāl
+		Āka nāḷ Oṉṟukku <g type="poṉ"/> Eḻu-patt-aiṅ-kalam Iru-nellu Eḻu-patt-aiṅ-kalattukkum <unclear>k</unclear>ā
+		<lb n="17" break="no"/>vaṉūr-āna kamala-nārāyaṇa-c caruppeti-maṅkalattu <hi rend="grantha">sabhai</hi>yōm koṇṭa kācu mu-p-patukku kācu Oṉṟukku <g type="poṉ"/> Arumoḻitevaṉāl
 		I<unclear>ru</unclear>kala tū
-		<lb n="18" break="no"/>ṇi-p pata<unclear>k</unclear>k-āka van=ta <g type="poṉ"></g>  Eḻu-patt-aiṅ-kalamum Āṭṭ-āṇṭu tōṟum poliyūṭṭ-āka Ācan=tira-kālamum tēvar-paṇṭā<unclear>ra</unclear>-tey koṭuvantu Aḷa
-		<lb n="19" break="no"/>p pomāṉōm kāvaṉūr-āṉa kamala-nārāyaṇa-c caruppeti-maṅkalattu <hi rend="grantha">sabhai</hi>yōm <g type="ddanda"></g>
+		<lb n="18" break="no"/>ṇi-p pata<unclear>k</unclear>k-āka van=ta <g type="poṉ"/>  Eḻu-patt-aiṅ-kalamum Āṭṭ-āṇṭu tōṟum poliyūṭṭ-āka Ācan=tira-kālamum tēvar-paṇṭā<unclear>ra</unclear>-tey koṭuvantu Aḷa
+		<lb n="19" break="no"/>p pomāṉōm kāvaṉūr-āṉa kamala-nārāyaṇa-c caruppeti-maṅkalattu <hi rend="grantha">sabhai</hi>yōm <g type="ddanda"/>
 	</p>
 	
 </div>	

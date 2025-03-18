@@ -20,7 +20,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_INSSII2300047</idno>
+                <idno type="filename">DHARMA_INStfaSIIv23p0i0047</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -44,7 +44,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                             <p/>
                         </handDesc>
                     </physDesc>
@@ -57,16 +57,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -122,10 +119,10 @@
         <lb n="12" break="no"/>licaikku koṇṭa kācu pati<choice><orig>n</orig><reg>ṉ</reg></choice>-mu<choice><orig>n</orig><reg>ṉ</reg></choice>ṟ' arai 
         </p>
     <p>
-        Āritan<gap reason="lost" unit="character" quantity="6"></gap>kālukkum Iva<choice><orig>n</orig><reg>ṉ</reg></choice> māma<choice><orig>n</orig><reg>ṉ</reg></choice>
+        Āritan<gap reason="lost" unit="character" quantity="6"/>kālukkum Iva<choice><orig>n</orig><reg>ṉ</reg></choice> māma<choice><orig>n</orig><reg>ṉ</reg></choice>
         
-        <lb n="13"/>civapaṭṭāla <supplied reason="omitted">kar</supplied>kku ci<gap reason="lost" unit="character" quantity="6"></gap>mu-k-kālukku<unclear>m</unclear>
-        maṟaikkāṭa<unclear>n</unclear> koṇṭa kācu <gap reason="lost" unit="character" quantity="6"></gap>mu-k-kā
+        <lb n="13"/>civapaṭṭāla <supplied reason="omitted">kar</supplied>kku ci<gap reason="lost" unit="character" quantity="6"/>mu-k-kālukku<unclear>m</unclear>
+        maṟaikkāṭa<unclear>n</unclear> koṇṭa kācu <gap reason="lost" unit="character" quantity="6"/>mu-k-kā
         
         <lb n="14" break="no"/>ṇi 
         </p>
@@ -139,10 +136,10 @@
         
         <lb n="16" break="no"/>ṇṭān picca<supplied reason="omitted">n</supplied> nāḷukkum tiru-k kaḻi-p-pālai Uṭaiyār k<choice><orig>o</orig><reg>ō</reg></choice>yil kāṇi Uṭaiya <hi rend="grantha">je</hi>yatara-<hi rend="grantha">brahma</hi>rāyar koṇ
         
-        <lb n="17" break="no"/>ṭa kācu Iraṇṭ' araiyum Āka nān koṇṭa kācu Irupatt' āṟ<choice><orig>e</orig><reg>ē</reg></choice>-kālum <gap reason="lost" unit="character" quantity="6" ></gap>
+        <lb n="17" break="no"/>ṭa kācu Iraṇṭ' araiyum Āka nān koṇṭa kācu Irupatt' āṟ<choice><orig>e</orig><reg>ē</reg></choice>-kālum <gap reason="lost" unit="character" quantity="6"/>
         Uḷpaṭa Itil mantira-p<choice><orig>o</orig><reg>ō</reg></choice>
         
-        <lb n="18" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>akattāl niṅkuṅ kācu nāl' arai maṭattukku kācu <unclear>Irupat</unclear>t' o<choice><orig>n</orig><reg>ṉ</reg></choice>ṟ<choice><orig>e</orig><reg>ē</reg></choice> mu-k-kālum <gap reason="lost" unit="character" quantity="6"></gap>n
+        <lb n="18" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>akattāl niṅkuṅ kācu nāl' arai maṭattukku kācu <unclear>Irupat</unclear>t' o<choice><orig>n</orig><reg>ṉ</reg></choice>ṟ<choice><orig>e</orig><reg>ē</reg></choice> mu-k-kālum <gap reason="lost" unit="character" quantity="6"/>n
         </p>
     <p>
         caṅkaran civac<choice><orig>o</orig><reg>ō</reg></choice><unclear>ki</unclear> mu<choice><orig>n</orig><reg>ṉ</reg></choice>pi
@@ -242,7 +239,7 @@
         <gap reason="lost" unit="character" quantity="6"/>
         </p>
     <p>
-        <lb n="40"/>paṅku <gap reason="lost" quantity="6" unit="character"></gap>va nāṭ<unclear>ṭu</unclear>
+        <lb n="40"/>paṅku <gap reason="lost" quantity="6" unit="character"/>va nāṭ<unclear>ṭu</unclear>
         marutāntakan paṅkukku koṇṭa kācu O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu
         </p>
     <p>
@@ -306,19 +303,19 @@
     <p>
         I-k-k<choice><orig>o</orig><reg>ō</reg></choice>yil kāṇiyuṭai<unclear>yā</unclear>ṉakkan paṟpanāpan periyān maṭattukku koṇ
         
-        <lb n="50" break="no"/>ṭa kācu <gap reason="lost" unit="character" quantity="6"></gap>vac<unclear>ca</unclear>n perumān Eṇṇā<gap reason="lost" quantity="6" unit="character"></gap>k koṇṭa kācu mu<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu
+        <lb n="50" break="no"/>ṭa kācu <gap reason="lost" unit="character" quantity="6"/>vac<unclear>ca</unclear>n perumān Eṇṇā<gap reason="lost" quantity="6" unit="character"/>k koṇṭa kācu mu<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu
         </p>
     <p> <unclear>pū</unclear>vaccan viccātiran Uṭaiyā na<unclear>m</unclear>
         
-        <lb n="51" break="no"/><gap reason="lost" unit="character" quantity="6"></gap> koṇṭa kā<unclear>cu Iraṇṭ' arai</unclear>
+        <lb n="51" break="no"/><gap reason="lost" unit="character" quantity="6"/> koṇṭa kā<unclear>cu Iraṇṭ' arai</unclear>
     </p>
         <p>
-       <gap reason="lost" quantity="6" unit="character"></gap>ppi Iṭaiyan Aṭaippu-p pa<unclear>ṅ</unclear>kukku koṇṭa kācu Iraṇṭu
+       <gap reason="lost" quantity="6" unit="character"/>ppi Iṭaiyan Aṭaippu-p pa<unclear>ṅ</unclear>kukku koṇṭa kācu Iraṇṭu
             </p>
     <p>
-        Iva<choice><orig>n</orig><reg>ṉ</reg></choice> ta<gap reason="lost" unit="character" quantity="6"></gap>
+        Iva<choice><orig>n</orig><reg>ṉ</reg></choice> ta<gap reason="lost" unit="character" quantity="6"/>
         
-        <lb n="52"/><gap reason="lost" quantity="3" unit="character"></gap>k<choice><orig>o</orig><reg>ō</reg></choice>yil picca<choice><orig>n</orig><reg>ṉ</reg></choice> paṅkukku koṇṭa kācu O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu
+        <lb n="52"/><gap reason="lost" quantity="3" unit="character"/>k<choice><orig>o</orig><reg>ō</reg></choice>yil picca<choice><orig>n</orig><reg>ṉ</reg></choice> paṅkukku koṇṭa kācu O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu
         </p>
     <p>
         Iva<choice><orig>n</orig><reg>ṉ</reg></choice> maru-<unclear>maka</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> vānama <surplus>mana</surplus>nāyaka-p-picca<choice><orig>n</orig><reg>ṉ</reg></choice> paṅkukku koṇṭa kācu O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu
@@ -374,24 +371,24 @@
     <p>
         I-t-tiru-maṭattukku Āṇṭā
         
-        <lb n="60" break="no"/>ṉ Amutu ceykaikku <unclear>Itil</unclear> <gap reason="lost" unit="character" quantity="6"></gap>ṇṭārattu civa-<hi rend="grantha">brāhma</hi>ṇar  pakkal Oṭukki<choice><orig>n</orig><reg>ṉ</reg></choice>a A<gap reason="lost" quantity="6" unit="character"></gap>
+        <lb n="60" break="no"/>ṉ Amutu ceykaikku <unclear>Itil</unclear> <gap reason="lost" unit="character" quantity="6"/>ṇṭārattu civa-<hi rend="grantha">brāhma</hi>ṇar  pakkal Oṭukki<choice><orig>n</orig><reg>ṉ</reg></choice>a A<gap reason="lost" quantity="6" unit="character"/>
         
-        <lb n="61"/>ni <gap reason="lost" unit="character" quantity="6"></gap> Irupatinālu
+        <lb n="61"/>ni <gap reason="lost" unit="character" quantity="6"/> Irupatinālu
         </p>
     <p>
-        <gap reason="lost" quantity="6" unit="character"></gap> Āḷuṭaiyār Amutu ceytu <gap reason="lost" unit="character" quantity="6"></gap>
+        <gap reason="lost" quantity="6" unit="character"/> Āḷuṭaiyār Amutu ceytu <gap reason="lost" unit="character" quantity="6"/>
         
-        <lb n="62"/><gap reason="lost" quantity="3" unit="character"></gap> O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟinālum <gap reason="lost" unit="character" quantity="3"></gap>kkuri-k-kāl <gap reason="lost" quantity="6" unit="character"></gap>m
-        Āṟu <gap reason="lost" unit="character" quantity="3"></gap>ṭai nūṟṟ' eḻupatin palam Ārita tampi
+        <lb n="62"/><gap reason="lost" quantity="3" unit="character"/> O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟinālum <gap reason="lost" unit="character" quantity="3"/>kkuri-k-kāl <gap reason="lost" quantity="6" unit="character"/>m
+        Āṟu <gap reason="lost" unit="character" quantity="3"/>ṭai nūṟṟ' eḻupatin palam Ārita tampi
         
-        <lb n="63" break="no"/>kkā <gap reason="lost" quantity="3" unit="character"></gap>n picca<choice><orig>n</orig><reg>ṉ</reg></choice> Iraṇṭām vicai
+        <lb n="63" break="no"/>kkā <gap reason="lost" quantity="3" unit="character"/>n picca<choice><orig>n</orig><reg>ṉ</reg></choice> Iraṇṭām vicai
         </p>
     <p>
         maṭattukku koṇṭa kācu <unclear>Oṉṟu</unclear>
         </p>
     <p>pāratāyan kaṅkai-k
         
-        <lb n="64" break="no"/>ōṇṭa<gap reason="lost" unit="character" quantity="6"></gap>t<choice><orig>e</orig><reg>ē</reg></choice>va nā<unclear>ḷu</unclear>kku maṭattukku koṇṭa kācu O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟ<choice><orig>e</orig><reg>ē</reg></choice> mu-k-kāl<choice><orig>e</orig><reg>ē</reg></choice> Arai-k-kāṇi muntiri
+        <lb n="64" break="no"/>ōṇṭa<gap reason="lost" unit="character" quantity="6"/>t<choice><orig>e</orig><reg>ē</reg></choice>va nā<unclear>ḷu</unclear>kku maṭattukku koṇṭa kācu O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟ<choice><orig>e</orig><reg>ē</reg></choice> mu-k-kāl<choice><orig>e</orig><reg>ē</reg></choice> Arai-k-kāṇi muntiri
  </p>
     
 </div>
