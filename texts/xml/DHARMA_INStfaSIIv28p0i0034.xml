@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Records a resolution of the 98 sub-castes of Left-hand and Right-hand castes to meet to hear complains about royal officials.</summary>
+                        <summary>Records a resolution of the 98 sub-castes of Left-hand and Right-hand castes to meet to hear complains about royal officials, Brahmins and Veḷḷāḷars.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -111,30 +111,46 @@
         <lb n="9" break="no"/><unclear>ku</unclear>ṭiyaiyum Aḻittāl Ivaṉai-y-varum y-iṉṟu-p<choice><sic>o</sic><corr>ō</corr></choice>la kūṭi Iruntu keṭṭu-k-koḷḷa-k kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m ā<unclear>ka</unclear>
     </p>
     <p>
-        <lb n="10"/>ṇṭalattukkuḷḷ<choice><orig>e</orig><reg>ē</reg></choice> <unclear>y</unclear>-ātoruttar nāṭṭu-t tur<choice><orig>o</orig><reg>ō</reg></choice>kam paṇṇukutal kāri<unclear>ya</unclear>m <unclear>c</unclear>eyttal kaṇa<unclear>kku</unclear> Eḻutu<surplus>ku</surplus>tal <gap reason="lost"/>e<note>The rest of the inscription is lost.</note>
+        <lb n="10"/><seg rend="check">ṇṭalattukkuḷḷ</seg><choice><orig>e</orig><reg>ē</reg></choice> <unclear>y</unclear>-ātoruttar nāṭṭu-t tur<choice><orig>o</orig><reg>ō</reg></choice>kam paṇṇukutal kāri<unclear>ya</unclear>m <unclear>c</unclear>eyttal kaṇa<unclear>kku</unclear> Eḻutu<surplus>ku</surplus>tal <gap reason="lost"/>e<note>The rest of the inscription is lost.</note>
     </p>
 </div>
 	
-	
         <div type="apparatus">               
-         <listApp>
-                 <app loc="6">
-            <lem>ṇeṭukkam</lem>
-            <rdg source="bib:Sundaram2010_01"/>
-            <note>Probably read <foreign>naṭukkam</foreign>.</note>
-        </app>	
+            <listApp>
+                <app loc="6">
+                    <lem>ṇeṭukkam</lem>
+                    <rdg source="bib:Sundaram2010_01"/>
+                    <note>Probably read <foreign>naṭukkam</foreign>.</note>
+                </app>
+                <app loc="10">
+                    <lem>ṇṭalattukkuḷḷē</lem>
+                    <rdg source="bib:Sundaram2010_01"/>
+                    <note>Probably read <foreign>maṇṭalattukkuḷḷē</foreign>.</note>                    
+                </app>
             </listApp>
         </div>
         
 	<div type="translation" resp="part:doop">
-		
-		<p n="1">
+	<p n="1">
 			Prosperity! Fortune!		
-		</p>    
+		</p>
+	   <p n="1">On the 16th day of the month of Cittirai, in Saumya year.
+	   </p>
+	    
+	    <p n="1-5">As stated in the stone inscription, the ninety-eight sub-castes of the Right-hand caste and the ninety-eight sub-castes of the Left-hand caste in Vaḻutalampaṭṭu-ucāvaṭi, having assembled in full without deficiency in the glorious endowed land <supplied reason="explanation"><foreign>tiru-kaṭṭalai</foreign></supplied> of the temple of Kuṟṟampoṟuttaruḷiya Nāyiṉār of Kuraṅkāṭiyatuṟai, in Viṭṭapaṟṟu-ukaḷḷūṟ-kūṟṟam, in the eighteen villages that surround Poṉparappi in Iruṅkoḷappāṭipāṇṭiya-vaḷanāṭu, in Mēṟkā-nāṭu, in Virutarācapayaṅkara-vaḷanāṭu, on the northern banks of the Kāveri,</p>
+	    
+	    <p n="5-6">
+	        since the <foreign>ucāvaṭippiṟatāṉi</foreign>s, the <foreign>vaṉṉiyar</foreign>s, and the <foreign>cīvitakāṟar</foreign>s in this region have caused <supplied reason="subaudible">us</supplied> distress,</p>
+	    <p n="6-7">and since the Brahmanas who own the lands, the Veḷḷāḷars, and men such as these <supplied reason="explanation"><foreign>ip-paṭikkotta</foreign></supplied> plan <supplied reason="explanation"><foreign>niṉaittālum</foreign></supplied> our degradation, allying with the royal officials <supplied reason="explanation"><foreign>irāja-karattārai</foreign></supplied>,</p>
+<p n="7-9">
+<supplied reason="subaudible">made an agreement</supplied> <gap reason="ellipsis"/>
+ 
+<unclear>so that</unclear> we should all gather and sit like today and hear <supplied reason="subaudible">the complaints</supplied>. <gap reason="lost"/> anyone <supplied reason="explanation"><foreign>yātoruttar</foreign></supplied> inside the region behaves and acts as a traitor to the country, writes <supplied reason="subaudible">a report</supplied> to the assembly, <gap reason="lost"/>
+	</p>
 	</div>
 	
 	<div type="commentary">		
-	<p>Date = c.a. 14th-15th century according to <bibl><ptr target="bib:Sundaram2010_01"/></bibl></p>
+	<p>Date = c.a. 14th-15th century according to <bibl><ptr target="bib:Sundaram2010_01"/></bibl>.</p>
 </div>
         
 
