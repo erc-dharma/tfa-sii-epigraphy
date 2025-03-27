@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>complete</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName>
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
+					</persName>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">DHARMA_INStfaSIIv38p0i0140</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+					    <summary/>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC)
+					under the European Union’s Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
+						<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2025-03-27" status="draft">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+	<body>
+		
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+	             	
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215"> 
+    	<lb n="1"/>svasti śrī</ab>
+	
+	<p>
+		tirumaṉnivaḷara Irunilamaṭa<hi rend="grantha">ntai</hi>yum porccaya-p pā
+
+<lb n="2" break="no"/>vaiyuñ c<choice><sic>i</sic><corr>ī</corr></choice>rttanil celviyum
+		
+		<unclear>taṉ</unclear> peru<hi rend="grantha">nta</hi> viyar<unclear>āki iṉpu</unclear>ṟa neṭutuyiluṉiyul iṭaituṟai nāṭu tuṭar vaṉaveli paṭarvaṉa 
+
+<lb n="3"/>3 <unclear>vā</unclear>ciyuñ cuḷḷiccūṉmatiṭ koḷḷi<unclear>pākkaiyu</unclear> naṇṇaṟa karumuraṇ maṇṇaikkaṭa<gap reason="lost" quantity="7" unit="character"/>mu<unclear>m</unclear>-
+
+<lb n="4"/>4 poru <unclear>kaṭali</unclear>ṉattaraicar tamuṭiyum Āgkavaṉ ṟeviya rogkeṉil muṭiyum muṉṉavar pakka<unclear>l</unclear>-
+
+<lb n="5"/>5 teṉṉavaṉ vaitta cu<hi rend="grantha">nta</hi> ramuṭiyum <unclear>intiranāramu teṇṭicaiyiṉama</unclear>ṇṭala muṉuvatum <unclear>eṟipaṭ</unclear>ai- 
+
+<lb n="6"/>6 k keraḷaṉ muṟaimaiyiṟ cūṭugkulataṉamākiya palar pukaṉ muṭiyuñ cegkatir mālaiyuñ cag-
+
+<lb n="7"/>7 katir velait tolperugkāval palpaṉa<hi rend="grantha">nti</hi>vum ceruviṟ ciṉavil irupattorukālavaraicu- 
+
+<lb n="8"/>8 kaḷai kaṭ<gap reason="lost" quantity="7" unit="character"/> paracurāmaṉ mevaruñ cā<hi rend="grantha">nti</hi> mantivaraṇ karuti iruttiya cempoṟṟirut taku muṭiyum payag 
+
+<lb n="9"/>9 koṭu paṉi mika muyagkiyil mutukiṭṭoḷitta cayacigkaṉ Aḷapperum pukaṉoṭum piṭi ira-
+
+<lb n="10"/>10 ṭṭapāṭi e<gap reason="lost" quantity="7" unit="character"/>raiyilakkamum navanitikkulapperumalai<gap reason="lost" quantity="7" unit="character"/>ḷum vikkiramavirar cakkarakoṭṭamum mutirvaṭaval-
+
+<lb n="11"/>11 lai maturamaṇṭalamum kāmiṭaivaḷar nāmaṇaik ko<unclear>ṇamum</unclear> veñcina virar pañcappaḷḷiyum pācaṭai
+
+<lb n="12"/>12 <unclear>p pa</unclear>ṉana mācuṇitecamum ayarvil vaṇ<unclear>ki</unclear>rtti yātinakaravaiyiṟ ca<hi rend="grantha">nti</hi> ranṟol kulatti <hi rend="grantha">nti</hi> raracaṉai viḷaiyama-
+
+<lb n="13"/>13 rkkaḷattuk kiḷaiyoṭum piṭittup palatanattoṭu niṟaikula tanakkuvaiyug kiṭṭaruñ ceṟimiḷai oṭ<gap reason="lost" quantity="7" unit="character"/>-
+
+<lb n="14"/>14 viṣayamum pūcurar cera nalkkocalaināṭu <hi rend="grantha">ntanma</hi> pālaṉai vemmuṉai yaṉittu vaṇṭuṟai colait taṇṭa-
+
+<lb n="15"/>15 puttiyu miraṇacūraṇai muraṇu<unclear>ra</unclear>t tākkit tikkaṉaikirttit ta<unclear>k</unclear>kaṇalāṭamug kovi<hi rend="grantha">nta</hi> ca <hi rend="grantha">nta</hi>n māviṉi <hi rend="grantha">ntO</hi>ṭat ta-
+
+<lb n="16"/>16 gkātacāral vagkāḷatecamu<hi rend="grantha">ntO</hi>ṭu kaṭaṟ cagka voṭṭal mahipālaṉai veñcamar viḷākat tañcuvittaru<unclear>ḷi</unclear>-
+
+<lb n="17"/>17 oṇṭiṟal yāṉaiyum peṇṭir paṇṭāramum nittalar neṭug kaṭaluttiralāṭamum veḷi malar tatta teṟipunal 
+
+<lb n="18"/>18 kagkaiyum alaikaṭal naṭuvuḷ palakalañceluttic cagkirāma vicayottugkapa<hi rend="grantha">nma</hi>nākiya kaṭārattaraicaṉai 
+
+<lb n="19"/>19 vākaiyam porukaṭal kumpakkariyoṭu makappaṭu makappaṭum kaṭappaturimaiyil piṟakkiya perunetippiṟakkamu-
+
+<lb n="20"/>20 mārttavan<supplied reason="lost">kara</supplied> nakara porttoṉil vācalil viccātira toraṇamum mottoṉipuna maṇipputava-
+
+<lb n="21"/>21 mug kanamaṇikkatavam niṟai jī vijayamu tuṟainirppanṇaiyum vanmalaiyuraiyiṟ ceran malaiyurumāṉ kaṭalaka-
+
+<lb n="22"/>22 ṉ cūṉ māyiriṭagkamug kalagkā valviṉai ilagkātopamug kāppuṟu niṟaipunal māppapāḷamug kāvalam 
+
+<lb n="23"/>23 puricai mevili <unclear>pa</unclear>gkamug viḷaippa<hi rend="grantha">n</hi> tūṟuṭai vaḷaippa <hi rend="grantha">n</hi> tūṟu <hi rend="grantha">nta</hi> lait takkor pukaṉ kalaittakkolamug kitamar 
+
+<lb n="24"/>24 valviṉai mātamaligkamug kalāmutir<unclear>ka</unclear>ṭu<hi rend="grantha">nti</hi> ṟalilāmuri tecamu <hi rend="grantha">ntE</hi> nakka vārpoṉil mānakkavāramu <hi rend="grantha">ntO</hi>ṭukaṭaṟ kā-
+
+<lb n="25"/>25 val ka<unclear>ru</unclear>mura<unclear>ṭ</unclear> kaṭāramum māpporutaṇṭāṟ <gap reason="lost" quantity="7" unit="character"/> kopparakesariva<hi rend="grantha">nma</hi>rāna uṭaiyār śrī rāje <hi rend="grantha">ndracOLadE</hi> varkku yā-
+
+<lb n="26"/>26 ṇṭu <hi rend="grantha">29</hi> āvatu jayagkoṇṭacoṉa maṇṭalattu eyiṟkoṭṭattu nakaram kāñcipurattu tiruvekam-
+
+<lb n="27"/>27 pamuṭaiya <hi rend="grantha">ma</hi> hātevar makaḷ nakkaṉkotaiyāṉa kāñcipuranagkai tiruvoṟṟiyūruṭaiya <hi rend="grantha">mahAteva</hi>-
+
+<lb n="28"/>28 rkku āṭṭāṇṭu toṟum putiyitutiruvamirtu ceytaruḷavum cattiracālaikaḷukkum pa<unclear>la</unclear>paṇi <hi rend="grantha">nivanta</hi>-
+
+<lb n="29"/>29 kkāṟarkkum putiyituṇṇavum veṇṭum vicattukku ittevar tevatāṉam ikaṇaiyūruro-
+
+<lb n="30"/>30 m koṇṭa poṉṉāl āṭṭāṇṭutoṟum uṭaiyār perum paṇṭārattu kārā-
+
+<lb n="31"/>31 ṇaiviṭagkṉmarakkālāl aḷappatāṉa palicai nellu irupattaigkalam iṉṉel-
+
+<lb n="32"/>32 lu irupattaig kalattukkuñ celavāka uṭaiyārkku amirtu ceytaruḷa arici kalamum neyya-
+
+<lb n="33"/>33 mirtu nāṉikkum caṟkaraiyamirtu nāṉiyurikkum paruppamirtu nāṉikkum tayiramirtu
+
+<lb n="34"/>34 nā nāṉikkum puḷigkaṟiyamirtukkum miḷakug kaṭukuñ cirakamum mañcaḷukkum pala kaṟiyamir-
+
+<lb n="35"/>35 tukkum vāṉaippaṉattukkum aṭaikkāyamirtukkumāka nellu mukkalane tūṇippatakkum kārā-
+
+<lb n="36"/>36 ṇaiviṭagkatevarkku tiruvamirtukku arici kuṟuṇiyum <hi rend="grantha">kSEtra</hi> pāla tevarkum cūriyatevaṟkum a-
+
+<lb n="37"/>37 ṟiñci<hi rend="grantha">zva</hi> ramuṭaiyārkkum kampi <hi rend="grantha">zva</hi> ramuṭaiyārkkum viṭelviṭuki <hi rend="grantha">zva</hi> ramuṭaiyārkkum arici nānāṉi 
+
+<lb n="38"/>38 ppaṭiyum tuṟkaiyārkkum aṇukkappiḷḷaiyārkkum arici iru nāṉip paṭiyum ittevarkaḷu-
+
+<lb n="39"/>39 kku neyyamirtukkum kaṟiyamirtukkumāṉa nelluk kalamum māṭāpattiyañ ceyvārkku
+
+<lb n="40"/>40 <gap reason="lost" quantity="1" unit="character"/>y kuṟuṇiyum tiruvārātaṉai ceyvārkku arici aṟunāṉiyum tevarā māṇikaḷukku arici tūṇiyum tiruppatiyamviṇṇappañ ceyvārkku aricikuṟuṇiyum tiru<supplied reason="lost">ṉa</supplied>nir cumappā<gap reason="lost" quantity="7" unit="character"/>kku aricikuṇṇi
+
+<lb n="41"/>41 <unclear>iru</unclear>nāṉiyum tiru<gap reason="lost" quantity="7" unit="character"/>ḷḷittāmam paṟippā<gap reason="lost" quantity="7" unit="character"/>kku arici patakkun nāṉiyum tiruppaḷḷittogkaliṭuvārkku aricu mu-
+
+<lb n="42"/>42 kkuṟuṇiyum tirumeykāppārkku aricitūṇiyum tiruppiṭamekak kāvitiraṉukku aricikuṟuṇi nānāṉiyum
+
+<lb n="43"/>43 <unclear>ci</unclear>va taruma<unclear>vā</unclear>cippānukkum śrīmaṟkirtti vācippānu<unclear>kku</unclear>m <hi rend="grantha">stOtra</hi>m viṇṇappañ cevānukkum sāma-
+
+<lb n="44"/>44 vetam viṇṇappañceyvānukkum tirupūcaikaṭ<unclear>ṭu</unclear>vānukkum tiruvāykkeṉvi uṭaiyānukkum
+
+<lb n="45"/>45 civapaṇṭārikaḷukkum tevarka<hi rend="grantha">nmi</hi>kaḷukkum tirumuṉṉaṭippā<gap reason="lost" quantity="7" unit="character"/>kku <hi rend="grantha">tanmAsa</hi> nañ cey-
+
+<lb n="46"/>46 vānukkum vakkāṇikkum paṭṭanukkum āka patinālvarkku arici kuṟuṇi nānāṉiyum taḷai
+
+<lb n="47"/>47 <gap reason="lost" quantity="3" unit="character"/>va <gap reason="lost" quantity="2" unit="character"/> kala nel tūṇi pata <gap reason="lost" quantity="4" unit="character"/> vārkku arici tūṇiyum uṭu<gap reason="lost" quantity="7" unit="character"/>vācippānukkum viṇaivā-
+
+<lb n="48"/>48 cippānukkum pāṭaviyanukkum <gap reason="lost" quantity="9" unit="character"/> kku arici kuṟu<unclear>ṇiyum</unclear> tevaraṭiyārkku arici kalane
+
+<lb n="49"/>49 <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" quantity="2" unit="character"/>kum <gap reason="lost" quantity="2" unit="character"/> arici eṉu kuṟuṇiyum <gap reason="lost" quantity="5" unit="character"/> arici tūṇippatakkum tiruppaḷḷiccivikaiyārkku arici
+
+<lb n="50"/>50 kuṟuṇi <unclear>nā</unclear>nāṉiyum āṉai meyppārkkum <supplied reason="lost">kucavanukkum</supplied> mālaikāranukkum aṇu<supplied reason="lost">kki vāḷ</supplied> māṟuvanukkum tevar ce-
+
+<lb n="51"/>51 vi <gap reason="lost" quantity="6" unit="character"/>kum perāl arici iru nāṉiyum <gap reason="lost" quantity="8" unit="character"/> kku arici kalamum <gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">aṭikaḷ mā</supplied>rkku arici tūṇippatak-
+
+<lb n="52"/>52 kum kālumpiṭāruñ ceyvārkku arici kuṟuṇiyum <gap reason="lost" quantity="5" unit="character"/> kku arici iru tūṇiyum paṭṭarkaḷukku a-
+
+<lb n="53"/>53 rici tūṇippatakkum cāttira<gap reason="lost" quantity="7" unit="character"/>kku aricikku aricikalane tūṇiyum maṭaiyarkku <gap reason="lost" quantity="7" unit="character"/>ricikuṟuṇiyum āka aricipatiṉ kalane
+
+<lb n="54"/>54 mukkuṟuṇiyināl iraṭṭi nellu irupatiṉ <unclear>ka</unclear>lane <unclear>tū</unclear>ṇippatakkum āka nellu irupattaigkalamum āṭṭāṇ-
+
+<lb n="55"/>55 ṭu toṟum <hi rend="grantha">candrAdi</hi> ttavarai ittevar paṇṭārattu aḷappomānom ikaṇaiyūrrom <g type="gomutraFinal">.</g>
+	
+	</p>
+
+          
+</div>	
+	
+<div type="apparatus">
+			
+    <!--<listApp>
+    	<app loc="0">
+    		<lem>...</lem>
+    		<rdg source="bib:Swaminathan2019_01">...</rdg>
+    	</app>
+    	
+    </listApp>-->
+	
+</div>
+		
+<div type="translation" resp="part:reda">
+				
+    <p n="1">Prosperity! Fortune!</p>
+    			
+</div>	
+		
+<!--<div type="commentary">
+	
+</div>-->
+		
+<div type="bibliography">
+	        
+    <p>Reported in <bibl><ptr target="bib:ARIE1912-1913"/></bibl> (ARIE/1912-1913/B/1912/140).</p>
+    <p>Edited in <bibl><ptr target="bib:Swaminathan2019_01"/></bibl> (SII 38.140).</p>
+    <p>This edition by Renato Dávalos (2025), based on <bibl><ptr target="bib:Swaminathan2019_01"/></bibl>.</p>
+	
+    <listBibl type="primary">
+        
+        <bibl n="SII">
+            <ptr target="bib:Swaminathan2019_01"/>
+            <citedRange unit="page">153-156</citedRange>
+            <citedRange unit="item">140</citedRange>
+        </bibl>
+        
+    </listBibl>           
+    
+    <listBibl type="secondary">
+        
+        <bibl>
+            <ptr target="bib:ARIE1912-1913"/>
+            <citedRange unit="page">21</citedRange>
+            <citedRange unit="appendix">B/1912</citedRange>
+            <citedRange unit="item">140</citedRange>
+        </bibl>	
+        
+    </listBibl>
+</div>
+	</body>
+	</text>
+</TEI>
+
+<!--METADATA:
+	
+-->
