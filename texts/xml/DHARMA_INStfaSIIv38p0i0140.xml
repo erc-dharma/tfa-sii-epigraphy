@@ -21,7 +21,7 @@
 					</persName>
 				</respStmt>
 				<respStmt>
-					<resp>intellectual authorship of edition</resp>
+					<resp>Intellectual authorship of edition</resp>
 					<persName ref="part:reda">
 						<forename>Renato</forename>
 						<surname>Dávalos</surname>
@@ -67,10 +67,10 @@
 					under the European Union’s Horizon 2020 research and innovation programme (grant
 					agreement no 809994).</p>
 			</projectDesc>
-			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<schemaRef type="guide" key="EgDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
 			<listPrefixDef>
 				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+					<p>Public URIs with the prefix bib to point to a Zotero group Library named
 						ERC-DHARMA whose data are open to the public.</p>
 				</prefixDef>
 				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
@@ -80,7 +80,7 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:emfr" when="2025-03-27" status="draft">Creation of the file</change>
+			<change who="part:reda" when="2025-03-27" status="draft">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -94,59 +94,59 @@
 	<p>
 		tirumaṉnivaḷara Irunilamaṭa<hi rend="grantha">ntai</hi>yum porccaya-p pā
 
-<lb n="2" break="no"/>vaiyuñ c<choice><sic>i</sic><corr>ī</corr></choice>rttanil celviyum
+<lb n="2" break="no"/>vaiyuñ c<choice><sic>i</sic><corr>ī</corr></choice>rttanil celviyum taṉ peru<hi rend="grantha">nte</hi>viyar āki Iṉpuṟa ne
+
+<lb n="3" break="no"/>ṭu tuyilāḻiyuḷ Iṭaituṟai-nāṭum tuṭarvaṉa vēlippaṭarvaṉa vāciyu
+
+<lb n="4" break="no"/>ñ cuḷḷi-<supplied reason="lost">c</supplied> cūḻmatiḷ koḷḷi-p pākkaiyum naṇṇaṟ karumuraṇ maṇṇaikkaṭakka 
+
+<lb n="5" break="no"/>mum porukaṭalīḻattaraicar ta<supplied reason="lost">m</supplied> muṭiyum Āṅkavaṉ ṟeviya roṅkeḻil muṭi
+
+<lb n="6" break="no"/>yum muṉṉavar pakkal teṉṉavaṉ vaitta cu<hi rend="grantha">nta</hi>ramuṭiyum Intiranāramum te
+
+<lb n="7" break="no"/>ṉṟicai yīḻa maṇṭala<unclear>ṉ</unclear> muṉuvatum Eṟipaṭai-k kēraḷaṉ muṟaimaiyiṟ cūṭu<hi rend="grantha">m</hi> kulataṉa
 		
-		<unclear>taṉ</unclear> peru<hi rend="grantha">nta</hi> viyar<unclear>āki iṉpu</unclear>ṟa neṭutuyiluṉiyul iṭaituṟai nāṭu tuṭar vaṉaveli paṭarvaṉa 
+		
+<lb n="8" break="no"/>m ākiya palarpukaḻ muṭiyuñ ceṅkatir mālaiyuñ caṅkatir vēlai-t tol peruṅkāva
+		
+<lb n="9" break="no"/>l paḻan=tivum ceruvin ciṉavil irupattoru kālaraicukaḷai kaṭṭa<unclear>ṭa</unclear> pa<supplied reason="lost">ra</supplied>curā<supplied reason="lost">ma</supplied>ṉ mevaru
+		
+<lb n="10" break="no"/>ñ cān=timattīvaraṇ karuti Iruttiya cempoṟṟirut takumuṭiyum payaṅkoṭu paḻi mika muyaṅkiyi
+		
 
-<lb n="3"/>3 <unclear>vā</unclear>ciyuñ cuḷḷiccūṉmatiṭ koḷḷi<unclear>pākkaiyu</unclear> naṇṇaṟa karumuraṇ maṇṇaikkaṭa<gap reason="lost" quantity="7" unit="character"/>mu<unclear>m</unclear>-
-
-<lb n="4"/>4 poru <unclear>kaṭali</unclear>ṉattaraicar tamuṭiyum Āgkavaṉ ṟeviya rogkeṉil muṭiyum muṉṉavar pakka<unclear>l</unclear>-
-
-<lb n="5"/>5 teṉṉavaṉ vaitta cu<hi rend="grantha">nta</hi> ramuṭiyum <unclear>intiranāramu teṇṭicaiyiṉama</unclear>ṇṭala muṉuvatum <unclear>eṟipaṭ</unclear>ai- 
-
-<lb n="6"/>6 k keraḷaṉ muṟaimaiyiṟ cūṭugkulataṉamākiya palar pukaṉ muṭiyuñ cegkatir mālaiyuñ cag-
-
-<lb n="7"/>7 katir velait tolperugkāval palpaṉa<hi rend="grantha">nti</hi>vum ceruviṟ ciṉavil irupattorukālavaraicu- 
-
-<lb n="8"/>8 kaḷai kaṭ<gap reason="lost" quantity="7" unit="character"/> paracurāmaṉ mevaruñ cā<hi rend="grantha">nti</hi> mantivaraṇ karuti iruttiya cempoṟṟirut taku muṭiyum payag 
-
-<lb n="9"/>9 koṭu paṉi mika muyagkiyil mutukiṭṭoḷitta cayacigkaṉ Aḷapperum pukaṉoṭum piṭi ira-
-
-<lb n="10"/>10 ṭṭapāṭi e<gap reason="lost" quantity="7" unit="character"/>raiyilakkamum navanitikkulapperumalai<gap reason="lost" quantity="7" unit="character"/>ḷum vikkiramavirar cakkarakoṭṭamum mutirvaṭaval-
-
-<lb n="11"/>11 lai maturamaṇṭalamum kāmiṭaivaḷar nāmaṇaik ko<unclear>ṇamum</unclear> veñcina virar pañcappaḷḷiyum pācaṭai
+<lb n="11"/>l mutukiṭṭoḷitta cayaciṅkaṉ Aḷapperum pukaṉoṭum piṭi ira- ṭṭapāṭi e<gap reason="lost" quantity="7" unit="character"/>raiyilakkamum navanitikkulapperumalai<gap reason="lost" quantity="7" unit="character"/>ḷum vikkiramavirar cakkarakoṭṭamum mutirvaṭaval- lai maturamaṇṭalamum kāmiṭaivaḷar nāmaṇaik ko<unclear>ṇamum</unclear> veñcina virar pañcappaḷḷiyum pācaṭai
 
 <lb n="12"/>12 <unclear>p pa</unclear>ṉana mācuṇitecamum ayarvil vaṇ<unclear>ki</unclear>rtti yātinakaravaiyiṟ ca<hi rend="grantha">nti</hi> ranṟol kulatti <hi rend="grantha">nti</hi> raracaṉai viḷaiyama-
 
-<lb n="13"/>13 rkkaḷattuk kiḷaiyoṭum piṭittup palatanattoṭu niṟaikula tanakkuvaiyug kiṭṭaruñ ceṟimiḷai oṭ<gap reason="lost" quantity="7" unit="character"/>-
+<lb n="13"/>13 rkkaḷattuk kiḷaiyoṭum piṭittup palatanattoṭu niṟaikula tanakkuvaiyuṅ kiṭṭaruñ ceṟimiḷai oṭ<gap reason="lost" quantity="7" unit="character"/>-
 
 <lb n="14"/>14 viṣayamum pūcurar cera nalkkocalaināṭu <hi rend="grantha">ntanma</hi> pālaṉai vemmuṉai yaṉittu vaṇṭuṟai colait taṇṭa-
 
-<lb n="15"/>15 puttiyu miraṇacūraṇai muraṇu<unclear>ra</unclear>t tākkit tikkaṉaikirttit ta<unclear>k</unclear>kaṇalāṭamug kovi<hi rend="grantha">nta</hi> ca <hi rend="grantha">nta</hi>n māviṉi <hi rend="grantha">ntO</hi>ṭat ta-
+<lb n="15"/>15 puttiyu miraṇacūraṇai muraṇu<unclear>ra</unclear>t tākkit tikkaṉaikirttit ta<unclear>k</unclear>kaṇalāṭamuṅ kovi<hi rend="grantha">nta</hi> ca <hi rend="grantha">nta</hi>n māviṉi <hi rend="grantha">ntO</hi>ṭat ta-
 
-<lb n="16"/>16 gkātacāral vagkāḷatecamu<hi rend="grantha">ntO</hi>ṭu kaṭaṟ cagka voṭṭal mahipālaṉai veñcamar viḷākat tañcuvittaru<unclear>ḷi</unclear>-
+<lb n="16"/>16 ṅkātacāral vaṅkāḷatecamu<hi rend="grantha">ntO</hi>ṭu kaṭaṟ caṅka voṭṭal mahipālaṉai veñcamar viḷākat tañcuvittaru<unclear>ḷi</unclear>-
 
-<lb n="17"/>17 oṇṭiṟal yāṉaiyum peṇṭir paṇṭāramum nittalar neṭug kaṭaluttiralāṭamum veḷi malar tatta teṟipunal 
+<lb n="17"/>17 oṇṭiṟal yāṉaiyum peṇṭir paṇṭāramum nittalar neṭuṅ kaṭaluttiralāṭamum veḷi malar tatta teṟipunal 
 
-<lb n="18"/>18 kagkaiyum alaikaṭal naṭuvuḷ palakalañceluttic cagkirāma vicayottugkapa<hi rend="grantha">nma</hi>nākiya kaṭārattaraicaṉai 
+<lb n="18"/>18 kaṅkaiyum alaikaṭal naṭuvuḷ palakalañceluttic caṅkirāma vicayottuṅkapa<hi rend="grantha">nma</hi>nākiya kaṭārattaraicaṉai 
 
 <lb n="19"/>19 vākaiyam porukaṭal kumpakkariyoṭu makappaṭu makappaṭum kaṭappaturimaiyil piṟakkiya perunetippiṟakkamu-
 
 <lb n="20"/>20 mārttavan<supplied reason="lost">kara</supplied> nakara porttoṉil vācalil viccātira toraṇamum mottoṉipuna maṇipputava-
 
-<lb n="21"/>21 mug kanamaṇikkatavam niṟai jī vijayamu tuṟainirppanṇaiyum vanmalaiyuraiyiṟ ceran malaiyurumāṉ kaṭalaka-
+<lb n="21"/>21 muṅ kanamaṇikkatavam niṟai jī vijayamu tuṟainirppanṇaiyum vanmalaiyuraiyiṟ ceran malaiyurumāṉ kaṭalaka-
 
-<lb n="22"/>22 ṉ cūṉ māyiriṭagkamug kalagkā valviṉai ilagkātopamug kāppuṟu niṟaipunal māppapāḷamug kāvalam 
+<lb n="22"/>22 ṉ cūṉ māyiriṭaṅkamuṅ kalaṅkā valviṉai ilaṅkātopamuṅ kāppuṟu niṟaipunal māppapāḷamuṅ kāvalam 
 
-<lb n="23"/>23 puricai mevili <unclear>pa</unclear>gkamug viḷaippa<hi rend="grantha">n</hi> tūṟuṭai vaḷaippa <hi rend="grantha">n</hi> tūṟu <hi rend="grantha">nta</hi> lait takkor pukaṉ kalaittakkolamug kitamar 
+<lb n="23"/>23 puricai mevili <unclear>pa</unclear>ṅkamuṅ viḷaippa<hi rend="grantha">n</hi> tūṟuṭai vaḷaippa <hi rend="grantha">n</hi> tūṟu <hi rend="grantha">nta</hi> lait takkor pukaṉ kalaittakkolamuṅ kitamar 
 
-<lb n="24"/>24 valviṉai mātamaligkamug kalāmutir<unclear>ka</unclear>ṭu<hi rend="grantha">nti</hi> ṟalilāmuri tecamu <hi rend="grantha">ntE</hi> nakka vārpoṉil mānakkavāramu <hi rend="grantha">ntO</hi>ṭukaṭaṟ kā-
+<lb n="24"/>24 valviṉai mātamaliṅkamuṅ kalāmutir<unclear>ka</unclear>ṭu<hi rend="grantha">nti</hi> ṟalilāmuri tecamu <hi rend="grantha">ntE</hi> nakka vārpoṉil mānakkavāramu <hi rend="grantha">ntO</hi>ṭukaṭaṟ kā-
 
 <lb n="25"/>25 val ka<unclear>ru</unclear>mura<unclear>ṭ</unclear> kaṭāramum māpporutaṇṭāṟ <gap reason="lost" quantity="7" unit="character"/> kopparakesariva<hi rend="grantha">nma</hi>rāna uṭaiyār śrī rāje <hi rend="grantha">ndracOLadE</hi> varkku yā-
 
-<lb n="26"/>26 ṇṭu <hi rend="grantha">29</hi> āvatu jayagkoṇṭacoṉa maṇṭalattu eyiṟkoṭṭattu nakaram kāñcipurattu tiruvekam-
+<lb n="26"/>26 ṇṭu <hi rend="grantha">29</hi> āvatu jayaṅkoṇṭacoṉa maṇṭalattu eyiṟkoṭṭattu nakaram kāñcipurattu tiruvekam-
 
-<lb n="27"/>27 pamuṭaiya <hi rend="grantha">ma</hi> hātevar makaḷ nakkaṉkotaiyāṉa kāñcipuranagkai tiruvoṟṟiyūruṭaiya <hi rend="grantha">mahAteva</hi>-
+<lb n="27"/>27 pamuṭaiya <hi rend="grantha">ma</hi> hātevar makaḷ nakkaṉkotaiyāṉa kāñcipuranaṅkai tiruvoṟṟiyūruṭaiya <hi rend="grantha">mahAteva</hi>-
 
 <lb n="28"/>28 rkku āṭṭāṇṭu toṟum putiyitutiruvamirtu ceytaruḷavum cattiracālaikaḷukkum pa<unclear>la</unclear>paṇi <hi rend="grantha">nivanta</hi>-
 
@@ -154,17 +154,17 @@
 
 <lb n="30"/>30 m koṇṭa poṉṉāl āṭṭāṇṭutoṟum uṭaiyār perum paṇṭārattu kārā-
 
-<lb n="31"/>31 ṇaiviṭagkṉmarakkālāl aḷappatāṉa palicai nellu irupattaigkalam iṉṉel-
+<lb n="31"/>31 ṇaiviṭaṅkṉmarakkālāl aḷappatāṉa palicai nellu irupattaiṅkalam iṉṉel-
 
-<lb n="32"/>32 lu irupattaig kalattukkuñ celavāka uṭaiyārkku amirtu ceytaruḷa arici kalamum neyya-
+<lb n="32"/>32 lu irupattaiṅ kalattukkuñ celavāka uṭaiyārkku amirtu ceytaruḷa arici kalamum neyya-
 
 <lb n="33"/>33 mirtu nāṉikkum caṟkaraiyamirtu nāṉiyurikkum paruppamirtu nāṉikkum tayiramirtu
 
-<lb n="34"/>34 nā nāṉikkum puḷigkaṟiyamirtukkum miḷakug kaṭukuñ cirakamum mañcaḷukkum pala kaṟiyamir-
+<lb n="34"/>34 nā nāṉikkum puḷiṅkaṟiyamirtukkum miḷakuṅ kaṭukuñ cirakamum mañcaḷukkum pala kaṟiyamir-
 
 <lb n="35"/>35 tukkum vāṉaippaṉattukkum aṭaikkāyamirtukkumāka nellu mukkalane tūṇippatakkum kārā-
 
-<lb n="36"/>36 ṇaiviṭagkatevarkku tiruvamirtukku arici kuṟuṇiyum <hi rend="grantha">kSEtra</hi> pāla tevarkum cūriyatevaṟkum a-
+<lb n="36"/>36 ṇaiviṭaṅkatevarkku tiruvamirtukku arici kuṟuṇiyum <hi rend="grantha">kSEtra</hi> pāla tevarkum cūriyatevaṟkum a-
 
 <lb n="37"/>37 ṟiñci<hi rend="grantha">zva</hi> ramuṭaiyārkkum kampi <hi rend="grantha">zva</hi> ramuṭaiyārkkum viṭelviṭuki <hi rend="grantha">zva</hi> ramuṭaiyārkkum arici nānāṉi 
 
@@ -174,7 +174,7 @@
 
 <lb n="40"/>40 <gap reason="lost" quantity="1" unit="character"/>y kuṟuṇiyum tiruvārātaṉai ceyvārkku arici aṟunāṉiyum tevarā māṇikaḷukku arici tūṇiyum tiruppatiyamviṇṇappañ ceyvārkku aricikuṟuṇiyum tiru<supplied reason="lost">ṉa</supplied>nir cumappā<gap reason="lost" quantity="7" unit="character"/>kku aricikuṇṇi
 
-<lb n="41"/>41 <unclear>iru</unclear>nāṉiyum tiru<gap reason="lost" quantity="7" unit="character"/>ḷḷittāmam paṟippā<gap reason="lost" quantity="7" unit="character"/>kku arici patakkun nāṉiyum tiruppaḷḷittogkaliṭuvārkku aricu mu-
+<lb n="41"/>41 <unclear>iru</unclear>nāṉiyum tiru<gap reason="lost" quantity="7" unit="character"/>ḷḷittāmam paṟippā<gap reason="lost" quantity="7" unit="character"/>kku arici patakkun nāṉiyum tiruppaḷḷittoṅkaliṭuvārkku aricu mu-
 
 <lb n="42"/>42 kkuṟuṇiyum tirumeykāppārkku aricitūṇiyum tiruppiṭamekak kāvitiraṉukku aricikuṟuṇi nānāṉiyum
 
@@ -200,7 +200,7 @@
 
 <lb n="53"/>53 rici tūṇippatakkum cāttira<gap reason="lost" quantity="7" unit="character"/>kku aricikku aricikalane tūṇiyum maṭaiyarkku <gap reason="lost" quantity="7" unit="character"/>ricikuṟuṇiyum āka aricipatiṉ kalane
 
-<lb n="54"/>54 mukkuṟuṇiyināl iraṭṭi nellu irupatiṉ <unclear>ka</unclear>lane <unclear>tū</unclear>ṇippatakkum āka nellu irupattaigkalamum āṭṭāṇ-
+<lb n="54"/>54 mukkuṟuṇiyināl iraṭṭi nellu irupatiṉ <unclear>ka</unclear>lane <unclear>tū</unclear>ṇippatakkum āka nellu irupattaiṅkalamum āṭṭāṇ-
 
 <lb n="55"/>55 ṭu toṟum <hi rend="grantha">candrAdi</hi> ttavarai ittevar paṇṭārattu aḷappomānom ikaṇaiyūrrom <g type="gomutraFinal">.</g>
 	
