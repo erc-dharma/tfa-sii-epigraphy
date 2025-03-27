@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Registers an agreement by the assembly of Parāntakanāḍu and  the Right-Hand and Left-Hand 98 sub-castes, regarding the payment of dues to the king.</summary>
+                        <summary>Registers an agreement by the assembly of Parāntakanāṭu and the Right-Hand and Left-Hand ninety-eight sub-castes, regarding the payment of dues to the king.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -77,9 +77,231 @@
 
     <body>	
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-		<p>
-        <lb n="1"/>
+    <p>
+        <lb n="1"/><gap reason="lost" unit="character" quantity="3"/><hi rend="grantha">ha</hi>riyarāya vi<hi rend="grantha">bhā</hi>ṭaṉ <hi rend="grantha">bhāṣ</hi>aikku-t
+        <lb n="2" break="no"/>tappuva-<reg>i</reg>rāyara kaṇṭaṉ mūvarāyara kaṇṭaṉ kaṇṭa-nāṭu koṇṭu koṇṭa nāṭu koṭātāṉ
+        <lb n="3"/>pūrvva <hi rend="grantha">dakṣi</hi>ṇa pa<hi rend="grantha">ści</hi>ma Uttara catu-samu<hi rend="grantha">drādhi</hi>-pati <hi rend="grantha">śrī</hi>-vīra-p-piratāpa <hi rend="grantha">de</hi>varāyar pru<hi rend="grantha">dhi</hi>virā<hi rend="grantha">jyam· pa</hi>ṇṇi <hi rend="grantha">A</hi>ruḷāniṉṟa <hi rend="grantha">śakāpdam· <num value="1351"><g type="numeral">1000</g> 3 <g type="numeral">100</g> 5 <g type="numeral">10</g> 1</num></hi> ṉ mēl cellā niṉṟa <hi rend="grantha">saumya saṁ</hi>vaṟcarattu
+        <lb n="4"/><hi rend="grantha">vṛicci</hi>ka nāyaṟṟu <hi rend="grantha">A</hi>pa<hi rend="grantha">rapakṣa</hi>ttu tecamiyum cōma-vāramum peṟṟa Attattu nāḷ
     </p>
+    
+    <p>
+        <lb n="5"/>vaṭa-karai vikkiṟama-cōḻa-vaḷa-nāṭṭu Iṉṉampar-nāṭṭu <hi rend="grantha">śrī</hi>-parāntaka-nāṭu sa<hi rend="grantha">bh</hi>aiyārum
+        <lb n="6"/>valaṅkai toṇṇūṟṟu Eṭṭum Iṭaṅkai toṇṇūṟṟu Eṭṭum kuṟai-v-aṟa kūṭi niṟai-v-aṟa ni
+        <lb n="7" break="no"/>ṟaintu nammil Orimai Ottu-c ceytu koṇṭa paṭi
+    </p>
+    
+    <p>
+        vaḻutalampaṭṭu Ucaravaṭi pala-nāṭṭukkum Irāca 
+        <lb n="8" break="no"/>karam Iṟai-muṟaimaikku-t taṅkaḷil Ottu Orimai Iṭṭu-k koṇṭu kal-veṭṭiṉa paṭi <reg>y</reg>-Ālē
+    </p>
+    <p>
+        <lb n="9"/>nammuṭaiya nāṭu kaṉṉaṭiya vāṇam Āṉa nāḷ mutal cīvita-p-paṟṟu Āka naṭakkaiyil naṭanta cīvita-k-kāṟar
+        <lb n="10"/><gap reason="lost" quantity="3" unit="character"/><unclear>kāṇikkai</unclear> taram Oruttar koḷḷāmal Aṭai ōlai <unclear>maṉaintu</unclear> puṟa-vari kūṭṭi Aṉṉi
+        <lb n="11"/>yā<unclear>ya</unclear>m ceytu I-k-kuṭi pāḻāy-p pōṉa paṭiyālē
+    </p>
+    <p>
+        nammil Ottu <gap reason="lost" quantity="3" unit="character"/> rum Iṟai-mu
+        <lb n="12" break="no"/>ṟaimaikku-k kal-veṭṭiṉa paṭi nāyaṉār tiruvaikāvūr uṭaiya nāyaṉārukku-p periya
+        
+        <lb n="13"/><unclear>nāṭ</unclear>ṭāṉ canti Amutu ceyt' aruḷa Amutu paṭikku
+    </p>
+    <p>
+        Iṉ-ṉāṭṭu-t taḷikai Ūril
+        <lb n="14"/><unclear>Irāca-vipāṭa</unclear>-ṉāl vēli <gap reason="lost" quantity="3" unit="character"/> tēva-tāṉa Iṟaiyili Āka naṭakka-k kaṭavat' ākavum
+    </p>
+    <p>
+        Iṉ-ṉāṭṭil tāṉa māṉiyam I
+        <lb n="15" break="no"/>ṟaiyili cantirātitta-varaiyum naṭakka-k kaṭavatu Ākavum
+    </p>
+    <p>
+        Iṉ-ṉāṭṭil <unclear>Iṟaiyili</unclear> paṟṟu paṇṭāra-vāṭai cīvita-p-
+        <lb n="16" break="no"/>paṟṟu Aṭaippu nipatti kuttokai cērvai Eṉṟu koḷḷa-k kaṭavatu Alla-v-ākavum
+    </p>
+    <p>
+        kaṭamai koḷḷa Aḷantu <note>Here some part seems to be inscribed over an erased writing.See <bibl><ptr target="bib:Subbarayalu2015_01"/><citedRange unit="page">61</citedRange></bibl></note> Iṭṭa
+        <lb n="17"/><surplus>ṭṭa</surplus> vakai-p paṭi
+        
+    </p>
+    <p>
+        kāṇi-<reg>y</reg>-ā<unclear>ḷar pērkku</unclear> Irāca-vipāṭa-ṉāl Aḷantu kaṇṭa nilattukkum kuṭi-p-paṟṟu-k
+        
+        <lb n="18"/>ku <unclear>Aḷantu</unclear> kaṇṭa nilattukkum kār pacāṉattukku nel mutalukku-k kūṭṭum
+        
+        <lb n="19"/>mutal Aracu-pēṟu <unclear>Ilakkai</unclear> Uṭpaṭṭa vaippaṭa nellu Uṭpaṭa vēli Oṉṟukku nellu
+        
+        <lb n="20"/>Aimpatiṉ kalamum
+    </p>
+    <p>
+        paṇa mutalukku <gap reason="lost" quantity="2" unit="character"/> m <unclear>kāṇikkai nēr-ōlai</unclear>-c cammātam paṭṭavaṭṭam ka
+       
+        <lb n="21" break="no"/>ṇ-kūli kāṇikkai maṟṟum <gap reason="lost" quantity="3" unit="character"/> Uṭpaṭṭa pala Upātikaḷum Uṭpaṭa vēli Oṉṟukku paṇam
+        
+        <lb n="22"/>Irupatum
+    </p>
+    <p>
+        <unclear>kaṭaiyīṭṭu</unclear> varicaikkum taricukkum nel mutalukku vēli Oṉṟukku nellu nāṟpatiṉ kalamu
+        
+        <lb n="23" break="no"/>m paṇam patiṉ Eṭṭum
+    </p>
+    <p>
+        kāṭu-veṭṭu viḻal veṭṭukku vēli Oṉṟukku nel Irupatiṉ kalamum <unclear>paṇam</unclear>
+        
+        <lb n="24"/><unclear>Eṭṭum</unclear>
+    </p>
+    <p>
+        kaṭaippūvukku Iṟaiyppu-p-paṟṟukkum vēli Oṉṟukku nellu Irupatiṉ kalamum paṇam pattum Ā
+        
+        <lb n="25" break="no"/>ka
+    </p>
+    <p>
+        Iv-vakai-p paṭi nellukku nellum paṇattukku paṇamum Iṟukka-k kaṭavat' ākavum
+    </p>
+    <p>
+        nellu nāṭṭu-k kālāl
+        
+        <lb n="26"/><unclear>tara</unclear>viṭṭu Uḷḷūr koṭṭārattilē Aḷakka-k kaṭavatu Ākavum
+    </p>
+    <p>
+        vāṉ payir kamuku Oṉṟukku Āyirattu Aññūṟu pākku mu
+        
+        <lb n="27" break="no"/>tal varicai Āka-k koṇṭu taram Iṭṭu payir kaṇṭa kamuku Uru Añcukku Aracu-pēṟu Uṭpaṭa-p paṇam Oṉṟu
+        
+        <lb n="28"/>Iṟukka-k kaṭavatu Ākavum
+    </p>
+    <p>
+        cuṟṟu marattukku <unclear>tara paṇam</unclear> Iṟukka-k kaṭavatu Alla-v-ākavum
+    </p>
+    <p>
+        teṉṉa marattukku 
+        
+        <lb n="29"/>maṉai-puḻai-k-kaṭai maram nīkki-k kāyāta kaṉṟu palami<unclear>li</unclear> nīkki niṉṟa marattukku nāṟpatu kāykku mēṟpaṭa-k kāyk
+        
+        <lb n="30" break="no"/>ku maram Oṉṟukku Aracu-p-pēṟu Uṭpaṭa-p paṇam Araiyum palāvukku palamili nīkki Irupatu kāykku-k me
+        
+        <lb n="31"/><gap reason="lost" quantity="11" unit="character"/>
+       
+        <lb n="32"/>ṟukku Aracu-pēṟu kāṇikkai Uṭpaṭa nāṉūṟu <unclear>pati</unclear> koḻuntukku Itil Oṉṟu pātiyum
+        
+        <lb n="33"/><unclear>Oḷi muḻu</unclear> koḻuntukku mutal varicaiyil Oṉṟu kālum vāḻai karumpu Aracu pēṟu <unclear>Uṭpaṭa</unclear>
+        
+        <lb n="34"/>pala Upātiyum Uṭpaṭa viḷaic<unclear>ca</unclear>ttil vāḻai-k karumpukku-p paṇam Aṟupatum paṭukai taratti
+        
+        <lb n="35" break="no"/>l vāḻai-k-karumpukku-p paṇam Aṉpatum ceṅ-kaḻu-nīr vēli Oṉṟukku-p pala Upāti
+       
+        <lb n="36"/><gap reason="lost" quantity="7" unit="character"/> Iñci Uḷḷi<unclear>ṭṭu</unclear> <gap reason="lost" quantity="3" unit="character"/>
+        
+        <lb n="37"/>vaḻutilai pūcaṇi <gap reason="lost" quantity="3" unit="character"/>yum Uṭpaṭa-p paṇa <gap reason="lost" quantity="5" unit="character"/>
+       
+        <lb n="38"/><gap reason="lost" quantity="3" unit="character"/>Oṉṟu tiruppa <gap reason="lost" quantity="2" unit="character"/> parutti kēḻ-varaku Āmaṇa
+       
+        <lb n="39" break="no"/>kku varaku parutti ka <gap reason="lost" quantity="3" unit="character"/> tumpai kucumpai Ēriv' āy tāṅkal-vāy puḻuti nellu<unclear>k</unclear>
+       
+        <lb n="40"/><gap reason="lost" quantity="4" unit="character"/> ṇam cāmpal-āṭi<unclear>na</unclear> <gap reason="lost" quantity="10" unit="character"/> vakaikku-p paṇam Aracu-pēṟu kāṇikkai nēr-ōlai-c cam
+       
+        <lb n="41" break="no"/>mātam paṭṭa vaṭṭam kaṇ-kūli Uṭpaṭa vēli Oṉṟukku-p paṇam Irupatum koḷḷu-p payaṟu taṉi-p-paru
+        
+        <lb n="42" break="no"/>tti taṉi Āmaṇakku kūṟu Eḷḷu <unclear>Iru</unclear>ṅku kaṇpu cōḷam tiṉai paṉi-varaku cāmai
+    </p>
+    <p>
+        Iv-vakaikku vēli Oṉ
+        
+        <lb n="43" break="no"/>ṟukku-p paṇam <unclear>patiṉ a</unclear>yntu Ēriv' āy tāṅkal vāy taṉi <gap reason="lost" quantity="10" unit="character"/> Eḷḷukku mutal varicaiyil Oṉ
+        
+        <lb n="44" break="no"/>ṟu mukkālum Āka Iv-va <gap reason="lost" quantity="10" unit="character"/> kaṭavatu Ākavum
+    </p>
+    <p>
+        kārpa-cāṉattukkum <gap reason="lost" quantity="2" unit="character"/> paṟṟukkum
+        
+        <lb n="45"/>naṭṭu-p-pāḻ cāvi<unclear>yu</unclear>mu <gap reason="lost" quantity="3" unit="character"/>puṉ-payirkku vitaittu-p-pāḻum cāvi Aḻivum nīkki ni
+        
+        <lb n="46"/>ṉṟa nilattukku-p pattukku Oṉṟu Arai tuṇṭam nellum paṇamum kaḻiyittaḻitta tuṇṭattukku-p <gap reason="lost" quantity="7" unit="character"/> paṟṟāta payir pā
+        
+        <lb n="47" break="no"/><unclear>r</unclear>ttu tara-p pārvaikku-p paṟṟāta payir mūṉṟil Oṉṟukku vāram peṟa-k kaṭavatu Ākavum
+    </p>
+    <p>
+        vācal maṉaikkuk koḷ
+        
+        <lb n="48" break="no"/>ḷāta maṉai nīkki niṉṟa maṉaikku vilai Ācaṟuti vācal paṇattukkup- pala Upātiyum Uṭpaṭa nāṭṭār pēṟ
+        
+        <lb n="49" break="no"/>ku maṉai Oṉṟukku paṇam mūṉṟum tantarimār pēṟku maṉai Oṉṟukku-p paṇam Oṉṟu Araiyum
+        
+        <lb n="50"/><unclear>kuṭi</unclear> makkaḷ pēṟku maṉai Oṉṟukku paṇam Oṉṟu Araiyum Āka Iv-vakaikku-c cāyppukku Itil Oṉṟu pātiyu
+        
+        <lb n="51" break="no"/>m Iṟukka-k kaṭavat' ākavum
+    </p>
+    <p>
+        paṟṟaṭaikku-c ceṭṭikaḷ pēṟku Aracu pēṟu vaṭṭam kāṇikkai Uṭpaṭa mutal-p pēṟ
+        
+        <lb n="52" break="no"/>kup pēr Oṉṟukku-p paṇam mūṉṟum Āyattukku mutal-p pēṟku pēr Oṉṟukku-p paṇam nālum kaiy<unclear>kōḷar</unclear>
+        
+        <lb n="53"/>pēṟku taṟi Oṉṟukku-p pala Upātiyum Uṭpaṭa-p paṇam nālum Aṭai-taṟikku Itil Oṉṟu pātiyum
+        
+        <lb n="54"/><unclear>cē</unclear>ṉai-k kaṭaiyār pērku-p pala Upātiyum Uṭpaṭa-p pēr Oṉṟukku-p paṇam mūṉṟum cālikar nilai-<unclear>t-taṟi</unclear>
+        
+        <lb n="55" break="no"/>yār pēṟku-p pala Upātiyum Uṭpaṭa taṟi Oṉṟukku-p paṇam Oṉpatum niyāyattār pēṟku pala Upā<unclear>tiyum</unclear>
+        
+        <lb n="56"/>Uṭpaṭa-t taṟi Oṉṟukku-p paṇam Añcum maṉṟāṭikaḷ pērkku-p pēr Oṉṟukku-p paṇam Arai
+        
+        <lb n="57" break="no"/>yum <unclear>kompu-t</unclear> taṟikku-p pala Upātiyum Uṭpaṭa taṟi Oṉṟukku paṇam mūṉṟum Aṭai-taṟikku Itil O
+        
+        <lb n="58" break="no"/>ṉṟu pātiyum Iṟukka-k kaṭavat' ākavum
+    </p>
+    <p>
+        kollaṉ taccaṉ taṭṭāṉ Ivarkaḷ pēṟku kottu-k kīṟṟu Aracu-
+        
+        <lb n="59" break="no"/>pēṟu kāṇikkai Uṭpaṭa-p pēr Oṉṟukku-p paṇam Añcum kucavaṉ pēṟku-t tirikai<reg>y</reg>āyam Uṭpaṭa mutalu
+        
+        <lb n="60" break="no"/>kku pēr Oṉṟum paṇam Añcum nāvitaṉ pēṟku-k karuvi Āyam Uṭpaṭṭa mutalukkum pēr Oṉṟu
+        
+        <lb n="61"/>kku-p paṇam nālum vaṇṇāṉ pēṟku kallāyam Uṭpaṭṭa mutalukku pēr Oṉṟukkum paṇam nālum
+        
+        <lb n="62"/><unclear>ka</unclear>ṉṉakkāṉ pēṟku pala Upātiyum Uṭpaṭa pēr Oṉṟukku-p paṇam Āṟum cekku vāṇiyar pēṟku
+        
+        <lb n="63"/>karu Āyam Uṭpaṭṭa mutalukku-p paṇam Irupatum kuḷavaṭai maṭuvaṭaikku <unclear>Ēḻu</unclear> paṇamum paṟaiyar pēṟku
+        
+        <lb n="64"/><unclear>Uḻamai-p</unclear>-paṟaiyar <unclear>nīkki</unclear> kaiviṉai-p-paṟaiyar pēṟku pēr Oṉṟukku-p paṇam Araiyum Āka
+    </p>
+    <p>
+        Iv-vakai-p paṭi Iṟu
+        
+        <lb n="65" break="no"/>kka-k kaṭavatu Ākavum
+    </p>
+    <p>
+        cāra<unclear>va</unclear>laikkāṟar pēṟku payir kaṇṭu Iṟukka-k kaṭavatu Ākavum
+    </p>
+    <p>
+        paṭai-p-paṟṟu cīvita-p-paṟṟukku In
+        
+        <lb n="66" break="no"/>ta vakaiyil Oṉṟu mukkāl Iṟukka-k kaṭavatu Ākavum
+    </p>
+    <p>
+        tiru-<unclear>p-puḷḷam</unclear> pūtaṅkuṭi-p perumāḷ <unclear>valvilli</unclear>rāma-p perumāḷu
+        <lb n="67" break="no"/>kku-p periya nāṭṭāṉ canti Amutu ceyt' aruḷa Amutu paṭikku Iṉ-ṉāṭṭil taḷikai Ūril Irāca vip<unclear>ā</unclear>ṭaṉāl Arai nilam tiruvi
+        
+        <lb n="68" break="no"/>ṭai Āṭṭam Iṟaiyili Āka naṭakka-k kaṭavatu Ākavum
+    </p>
+    <p>
+        Inta kal-veṭṭu-p paṭi cantiṟāti<reg>t</reg>ta-varaiyum naṭakka-k kaṭavatu Āka
+        
+        <lb n="69" break="no"/>vum
+    </p>
+    <p>
+        Inta <unclear>kal- veṭṭu-p</unclear> paṭi Oḻittu maṉaintu koṇṭār uṇṭāṉāl maṇṭalañ cēra-k kūṭi-c ceytu koḷḷa-
+        
+        <lb n="70" break="no"/>k-kaṭavatu Ākavum
+    </p>
+    <p>
+        Im-maṇṭalattil Iyāvar Oruvar kuttokai nipatti cērvai Eṉṟu koṇṭu niṟka-k kaṭavatu A
+        
+        <lb n="71" break="no"/>lla-v-ākavum
+    </p>
+    <p>
+        Ip-paṭikku nammil Orimai Ottu-c ceytu koṇṭa kal-veṭṭukku Akitam ceytār Uṇṭāṉāl
+        
+        <lb n="72"/>keṅkai-k karaiyil kārām pacuvai-k koṉṟa pāvattilē pōka kaṭavār Ākavum <g type="gomutraFinal">.</g>
+    </p>
+    
+    
 </div>
 	
         <div type="apparatus">               
