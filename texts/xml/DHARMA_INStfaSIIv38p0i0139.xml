@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>complete</title>
+				<title>Tiruvōṟṟiyūr, Ādhipurīśvara, time of Rājendra Cōḻa, year 29</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName>
@@ -25,6 +25,14 @@
 					<persName ref="part:reda">
 						<forename>Renato</forename>
 						<surname>Dávalos</surname>
+					</persName>
+					<persName ref="part:matr">
+						<forename>Margherita</forename>
+						<surname>Trento</surname>
+					</persName>
+					<persName ref="part:vija">
+						<forename>G.</forename>
+						<surname>Vijayavenugopal</surname>
 					</persName>
 				</respStmt>
 			</titleStmt>
@@ -299,7 +307,7 @@
 	
 </div>
 		
-<div type="translation" resp="part:reda">
+<div type="translation" resp="part:reda part:matr">
 				
     <p n="1">Prosperity! Fortune!</p>
     			
