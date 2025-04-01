@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sankaranayinarkōyil, Śankaralingasvāmi temple.</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:doop">
+                        <forename>Dorotea</forename>
+                        <surname>Operato</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INStfaSIIv34p0i0432</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>This records the rights and privileges enjoyed by the communities of <foreign>kuṭumpar</foreign> and the Paṟaiyas as given by some unnamed Pāṇḍya king.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:doop" when="2025-04-01" status="draft">Creation of the file on the repository</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:space="preserve">
+        <body>
+
+<div type="edition" xml:lang="tam" rendition="class:tamil maturity:vernacular">
+    
+    <p>
+        <lb n="1"/>vicu-vācu <g type="varuṣam"/> vaikāci mātam <num value="14"><g type="numeral">10</g> 4</num> tiṅkaḷ kiḻamaiyum Uttirāṭamum peṟṟa nāḷ
+    </p>
+    <p>
+        teyvēntira kuṭumpaṉ vālāttumpaṭi muṉ Eṭutta tūvāpara-yukattil Ukkira peruvaḷutiyum cēraṉum
+        <lb n="2"/>cōḻaṉum lōkam vaṟumai paṭṭu Irukkiṟa kālattilē tēvēntiraṉ pakkal maḻai kēḷkka pōṉa Iṭattilē makavāṉum maṉam kuḻirntu Irummeṉa cēraṉum cōḻaṉum vaṇaṅki
+        
+        <lb n="3"/>Irukka pāṇṭiyaṉ teyvēntiraṉuṭaṉē kūṭi Irukka teyvēntiraṉum varucai ceyyiṟā-p pōlē kavaṭu niṉaikka pāṇṭiyaṉum kōpittu y-eḷuntu tevvakaṉṉi makkaḷ
+        
+        <lb n="4"/>nālu kuṭumpattārai kaippiṭiyā-k kūṭṭi koṇṭu ceṉṉal viraiyum kaṉṉal viraiyum katali viraiyum paṉai viraiyum Itu mutalāṉa palavittum Oru I<hi rend="grantha">ṣa</hi>vum curaviyum koṇṭu pūmiyilē vantāṉ
+        
+        <lb n="5"/>nālvar mutavaṉai teyvēntira kuṭumpaṉ paṭṭamṅkaṭṭi mūṉṟu pērukku vāriyaṉ Akkālai Iḷakatāripaṭṭam kaṭṭi Oru nāḷaikku <gap reason="lost" quantity="6" unit="character"/> kaṉṟu veṭṭi veḷḷāmai kaṇṭa paṭiyiṉālē rācāvum manam makintu
+        
+        <lb n="6"/>veḷḷai yāṉaiyum veḷḷi vaṭṭa kuṭaiyum keṟāṭiyum pakal pantam pāvāṭai raṭṭai cilampum raṭṭai-c coṭukkum naṉmaikku patiṉ-āṟu pantakkālum tīmmaikku raṇṭu tērum pañcavaṉṉa virutum pati<choice><orig>n</orig><reg>ṉ</reg></choice>-eṭṭu me
+        
+        <lb n="7" break="no"/><gap reason="lost" quantity="12" unit="character"/> Eṉṟu naṭa-p-piccākaḷ-Āṉa paṭiyiṉālē <gap reason="lost" quantity="15" unit="character"/>
+        
+        <lb n="8"/>kuṭṭi kuṭumpaṉum Allāttar kuṭumpaṉum kūṭi-k koṇṭu cumukam āka <unclear>kuṭi</unclear>-
+        
+        <lb n="9" break="no"/>y-ēṟa Ātipūṟuvam rācākkaḷ kuṭutta paṭṭayam pāttu paṟaiyārukku Uṇṭā
+        <lb n="10" break="no"/>ṉa varucai nammaikku mūṉṟu kāl pantakālum Oru cilampum Oru-k koṭukkum
+        
+        <lb n="11"/>Oṟṟai mārāppum Oru pantamum kīḻ-pāvāṭaiyum mañci kaṇṭiya-k kompu
+        
+        <lb n="12"/>y-illāta vīṭum tīmmaikku-k kaṭṭaṇamum paṭṭaya piṟakaram kaṭṭaḷai Iṭṭōm
+    </p>
+    <p>
+        <lb n="13"/>kuṭumpakaḷukku kutirai kuṭaiyum Iṭṭu kuṭai <unclear>virutā</unclear> <gap reason="lost" quantity="3" unit="character"/> koṇṭa virai<reg>p</reg>pāṭu kuṭuttu Inta varucai
+        
+        <lb n="14"/>piṟa-kāram kaṭṭaḷai Iṭuvittōm</p>
+    <p>
+        <gap reason="lost" quantity="12" unit="character"/>keṅkai-k karaiyilē kārām pacuvai koṉṟa <gap reason="lost" quantity="9" unit="character"/>
+    </p>
+</div>
+
+<div type="apparatus">
+
+</div>
+
+<div type="commentary"><p>This inscriptions belongs to the 17th-18th century, according to <bibl><ptr target="bib:Subbarayalu2015_01"/></bibl>.</p>
+</div>
+
+<div type="bibliography">
+
+	<listBibl type="primary">
+
+		<bibl n="SII">
+			<ptr target="bib:Subbarayalu2015_01"/>
+			<citedRange unit="page">385-386</citedRange>
+			<citedRange unit="item">432</citedRange>
+		</bibl>
+
+	</listBibl>
+
+	<listBibl type="secondary">
+
+		<bibl n="ARIE">
+		    <ptr target="bib:ARIE1914-1915"/>
+		    <citedRange unit="page">43</citedRange>
+		    <citedRange unit="appendix">B/1914</citedRange>
+		    <citedRange unit="item">432</citedRange>
+		</bibl>
+	    
+	</listBibl>
+
+
+</div>
+
+	</body>
+</text>
+</TEI>
