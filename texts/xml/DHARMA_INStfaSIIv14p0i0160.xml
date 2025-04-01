@@ -84,7 +84,7 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:reda" when="2025-03-27" status="draft">Creation of the file</change>
+			<change who="part:reda" when="2025-04-01" status="draft">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -93,140 +93,145 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 	             	
 	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215"> 
-    	<lb n="1"/><supplied reason="lost">svasti śrī</supplied></ab>
+		<lb n="1"/><supplied reason="lost">svasti śrī</supplied></ab>
 	
 	
 	
 	<p>
-		 muḷḷināṭṭu <hi rend="grantha">bra-</hi>
+		muḷḷi-nāṭṭu <hi rend="grantha">bra</hi>
+		
+		<lb n="2" break="no"/><hi rend="grantha">hma</hi>-tēyam <hi rend="grantha">rājarāja</hi>
+		
+		<lb n="3" break="no"/><hi rend="grantha">caturve</hi> ti-maṅkalat-
+		
+		<lb n="4" break="no"/>tu tiruvāl<choice><sic>i</sic><corr>ī</corr></choice><hi rend="grantha">śva</hi>ram Uṭai
+		
+		<lb n="5" break="no"/>yār <hi rend="grantha">mahā-de</hi> vaṟ
+		
+		<lb n="6" break="no"/>ku-t tēvatāṉam āka vari
+		
+		<lb n="7" break="no"/>yiliṭṭa <supplied reason="lost">k</supplied>e<supplied reason="lost">ḻ</supplied>vi <g type="gomutraFinal">.</g>
+	</p>
+	<p>
+		
+		<lb n="8"/>yāṇṭu <gap reason="lost" quantity="2" unit="character"/>eṉ 2
+		
+		<lb n="9"/>Uṭaiyār <hi rend="grantha">śrī</hi>-su<hi rend="grantha">nda</hi>ra-cō
+		
+		<lb n="10" break="no"/>ḻa-pāṇṭiya-<hi rend="grantha">de</hi>var rāje
 
-<lb n="2"/><hi rend="grantha">hma</hi> teyam <hi rend="grantha">rAjarAja-</hi>
+<lb n="11" break="no"/>n<hi rend="grantha">tra</hi>-cōḻa-purattu-k kōyili
 
-<lb n="3"/><hi rend="grantha">caturvE</hi> timaṅkalat-
+<lb n="12" break="no"/>ṉ uḷḷāl Āṭṭattuveḷi me
 
-<lb n="4"/>tu tiruvāli <hi rend="grantha">śva</hi> ramuṭai-
+<lb n="13" break="no"/>lai-maṇṭapatt' eḻuntaruḷi Iru
 
-<lb n="5"/>yār <hi rend="grantha">mahAdE</hi> vaṟ-
+<lb n="14" break="no"/>ntu rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>-p pāṇṭi-nāṭṭu
 
-<lb n="6"/>kut tevatāḻamāka vari-
+<lb n="15"/>muṭikoṇṭa-cōḻa-vaḷanāṭ
 
-<lb n="7"/>yiliṭṭa keḻvi <g type="gomutraFinal">.</g>
+<lb n="16" break="no"/>ṭu muḷḷi-nāṭṭu <hi rend="grantha">brahma</hi>tēyam
 
-<lb n="8"/>yāṇṭu<gap reason="lost" quantity="2" unit="character"/>eḻ 2
+<lb n="17"/>rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>-c<gap reason="lost" quantity="4" unit="character"/>
 
-<lb n="9"/>uṭaiyār śrīsu<hi rend="grantha">nda</hi> raco-
+<lb n="18" break="no"/><hi rend="grantha">sabhai</hi>yāṟku kā<supplied reason="lost">cu ku</supplied>ṭuttu vilai
+		
+<lb n="19" break="no"/>ku-k koṇṭa Ivvūr nilattil
 
-<lb n="10"/>ḻapāṇṭiya<hi rend="grantha">dE</hi> var rāje-
+<lb n="20"/>kākkalūr mēlellai peruṅ
 
-<lb n="11"/>n<hi rend="grantha">tra</hi> coḻapurattuk koyili-
+<lb n="21" break="no"/>kāliṉ k<choice><sic>i</sic><corr>ī</corr></choice>ḻkaraikku-k kiḻakkum
 
-<lb n="12"/>ḻuḷḷāl āṭṭattuveḷi me-
+<lb n="22" break="no"/>vaṭavellai civācutēva-vā<supplied reason="omitted">ykkā</supplied>
+		
+<lb n="23" break="no"/>lukku vaṭakkum <gap reason="lost" quantity="4" unit="character"/>
 
-<lb n="13"/>laimaṇṭapat teḻuntaruḷi iru-
+<lb n="24" break="no"/>ṟu vaṭavācaṟutikku-t teṟkum k<choice><sic>i</sic><corr>ī</corr></choice>
 
-<lb n="14"/>ntu rājarājap pāṇṭināṭṭu
+<lb n="25" break="no"/>ḻellai kaṭiñai Āṟṟukku
 
-<lb n="15"/>muṭikoṇṭacoḻavaḷanāṭ-
+<lb n="26" break="no"/>⌈meṟkum teṉṉellai civā
 
-<lb n="16"/>ṭu muḷḷināṭṭu <hi rend="grantha">brahma</hi> teyam
+<lb n="27" break="no"/>cuteva-vāykkālukku vaṭakku
 
-<lb n="17"/>rājarājac<gap reason="lost" quantity="4" unit="character"/>
+<lb n="28" break="no"/>m Āka Iv-v-icaitta perunāṈ
 
-<lb n="18"/>sa<hi rend="grantha">bh</hi> aiyāṟku kā<supplied reason="lost">cu ku</supplied>ṭuttu vilai-
-kukkoṇṭa ivvūr nilattil
+<lb n="29" break="no"/>kellaiyuḷ Akappaṭṭa nilam
 
-<lb n="20"/>kākkalūr melellai peruṅ-
+<lb n="30" break="no"/>Aivēliyum <hi rend="grantha">brahma</hi> teyamāy
 
-<lb n="21"/>kāliḻ kiḻkaraikkuk kiḻakkum
+<lb n="31"/>varukiṉṟapaṭi yāṇṭu <num value="16">1 <g type="numeral">10</g> 6</num> Ā
 
-<lb n="22"/>vaṭavellai civācutevavā<supplied reason="omitted">ykkā</supplied>-
-lukku vaṭakkum<gap reason="lost" quantity="4" unit="character"/>
+<lb n="32" break="no"/>vatu mutal tavirn=tu veḷḷā
 
-<lb n="24"/>ṟu vaṭavācaṟutikkut teṟkum ki-
+<lb n="33" break="no"/>ṉ vakaiyil mutalākki I<supplied reason="lost">nila</supplied>
 
-<lb n="25"/>ḻellai kaṭiñai āṟṟukku
+<lb n="34" break="no"/>m Iv-v-ūrt tiruvāl<choice><sic>i</sic><corr>ī</corr></choice>
 
-<lb n="26"/>meṟkum teḻḻellai civā-
+<lb n="35" break="no"/><hi rend="grantha">śva</hi>ram uṭaiya <hi rend="grantha">ma</hi>
 
-<lb n="27"/>cutevavāykkālukku vaṭakku-
+<lb n="36" break="no"/><hi rend="grantha">hāde</hi>vaṟkku-t tiruvi
 
-<lb n="28"/>m āka ivvicaitta perunāḻ-
+<lb n="37" break="no"/>ḻā-p po<unclear>t</unclear>tavum nittam
 
-<lb n="29"/>kellaiyuḷ akappaṭṭa nilam
+<lb n="38"/>Irupattaivar <hi rend="grantha">br</hi>
 
-<lb n="30"/>aiveliyum <hi rend="grantha">brahma</hi> teyamāy
+<lb n="39" break="no"/><hi rend="grantha">āhma</hi>ṇar Uṇṇavum
+<hi rend="grantha">śiva-dha</hi>
 
-<lb n="31"/>varukiḻṟapaṭi yāṇṭu <hi rend="grantha">16</hi>- ā-
+<lb n="40" break="no"/><hi rend="grantha">rmma</hi>m vācippāṉ oruvaṉuk
 
-<lb n="32"/>vatumutal tavirntu veḷḷā-
+<lb n="41" break="no"/>kum maṟṟum It-tēvaṟku
 
-<lb n="33"/>ḻ vakaiyil mutalākki i<supplied reason="lost">nila</supplied>-
+<lb n="42" break="no"/>⌈vēṇṭum nivan=taṅkaḷukku I
 
-<lb n="34"/>m ivvūrt tiruvāli-
+<lb n="43" break="no"/>ṟuppatāka-k kuṭukka v-eṉṟu
 
-<lb n="35"/><hi rend="grantha">śva</hi> ramuṭaiya <hi rend="grantha">ma-</hi>
+<lb n="44" break="no"/>Ammāṉ Aruḷi-c ceytam
 
-<lb n="36"/>hā<hi rend="grantha">dE</hi> vaṟkkut tiruvi-
+<lb n="45"/>⌈maiyil In-nilattāl In-nāṭu
 
-<lb n="37"/>ḻāp po<supplied reason="lost">t</supplied>tavum nittam
+<lb n="46"/>veḷḷāṉ vakai varicai-k k<choice><sic>i</sic><corr>ī</corr></choice>
 
-<lb n="38"/>irupattaivar <hi rend="grantha">bra-</hi>
+<lb n="47" break="no"/>ḻ Iṟai-k-kaṭaṉ Aiññāḻi n
 
-<lb n="39"/>ra<hi rend="grantha">hma</hi> ṇar uṇṇavum
-<hi rend="grantha">śivadha-</hi>
+<lb n="48" break="no"/>ārāyattāl nellu Aṟu
 
-<lb n="40"/><hi rend="grantha">rmma</hi> m vācippāḻ oruvaḻuk-
+<lb n="49" break="no"/>nūṟṟu nāṟppatt' iru kalaṉē
 
-<lb n="41"/>kum maṟṟum ittevaṟku
+<lb n="50"/>Aṟu-kuṟuṇi y-iru-nāḻi muḻak
+		
+<lb n="51" break="no"/>kē-y Iru-ceviṭaraiyum
 
-<lb n="42"/>veṇṭum nivantagkaḷukku i-
+<lb n="52"/>U<supplied reason="lost">ruvu-kōl</supplied> nilaṉ kācu mup
 
-<lb n="43"/>ṟuppatākak kuṭukkaveḻṟu
+<lb n="53" break="no"/>patt' Aiñce kālē mukk<supplied reason="lost">ā</supplied>-
 
-<lb n="44"/>ammāḻ aruḷic ceytamai-
+<lb n="54" break="no"/>ṇiyum kāṭci Erutu kācu Ai
 
-<lb n="45"/>yil innilattāl innāṭu
+<lb n="55" break="no"/>ñcum Iṟai kaṭṭi Ivviṟ
 
-<lb n="46"/>veḷḷāḻ vakai varicaikki-
+<lb n="56" break="no"/>⌈<hi rend="grantha">ai</hi> Ivv-ūr tiruvāli ī<hi rend="grantha">śva</hi>ram uṭaiya
+<hi rend="grantha">mahā</hi><supplied reason="lost">tēva</supplied>-
 
-<lb n="47"/>ḻ iṟaikkaṭaḻ aiññāḻi-
+<lb n="57" break="no"/>ṟkku-t tiruviḻā-p po<unclear>t</unclear>tavum It-tēvar kōyili
 
-<lb n="48"/>nārāyattāl nellu aṟu-
+<lb n="58" break="no"/>l nittam Irupattaivar <hi rend="grantha">brāhma</hi>ṇar uṇṇavum
+<hi rend="grantha">śi</hi>va-taṉma-
 
-<lb n="49"/>nūṟṟu nāṟppattiru kalaḻe
+<lb n="59" break="no"/>m vācippāṉ Oruvaṉukkum maṟṟum It-tēvaṟku vēṇṭu-
 
-<lb n="50"/>aṟukuṟuṇi yirunāḻimuḻak-
-key iruceviṭaraiyum
+<lb n="60" break="no"/>m nivan=taṅkaḷukku yāṇṭu <num value="16">1 <g type="numeral">10</g> 6</num> Āvatu mutal Iṟu-<supplied reason="lost">p</supplied>-
 
-<lb n="52"/>u<supplied reason="lost">ruvukol</supplied> nilaḻ kācu mup-
+<lb n="61"/>pat' ākavum In-nilattāl vanta Iṟai <hi rend="grantha"><hi rend="grantha">rājarāja</hi></hi>-c carup
 
-<lb n="53"/>pattaiñce kāle muk<supplied reason="lost">kā</supplied>-
+<lb n="62"/>⌈pēti-maṅkalattu-c curukkavum In-nila<supplied reason="lost">m</supplied> muṉ piyar tavirntu
 
-<lb n="54"/>ṇiyum kāṭcierutu kācu ai-
+<lb n="63"/><gap reason="lost" quantity="10" unit="character"/>llū<supplied reason="lost">r</supplied> Eṉṉum <gap reason="lost" quantity="3" unit="character"/>mam ākavum<gap reason="lost" quantity="2" unit="character"/>
 
-<lb n="55"/>ñcum iṟai kaṭṭi ivviṟ<hi rend="grantha">ai</hi>
+<lb n="64" break="no"/>riyiliṭṭu-k kuṭukkat tiruvāymoḻintaruḷiṉār eṉṟu tirumanti
 
-<lb n="56"/>ivvūr tiruvarali ī<hi rend="grantha">śva</hi> ramuṭaiya
-<hi rend="grantha">ma</hi> hā<supplied reason="lost">teva</supplied>-
-
-<lb n="57"/>ṟkkut tiruviḻāp po<supplied reason="lost">t</supplied>tavum ittevar keramili-
-
-<lb n="58"/>l nittam irupattaivar <hi rend="grantha">brAhma</hi> ṇaruṇṇavum
-<hi rend="grantha">śi</hi> vataḻma-
-
-<lb n="59"/>m vācippāḻ oruvaḻukkum maṟṟum ittevaṟku veṇṭu-
-
-<lb n="60"/>m niva<hi rend="grantha">nta</hi> gkaḷukku yāṇṭu <hi rend="grantha">16</hi>- āvatu mutal iṟu<supplied reason="lost">p</supplied>-
-
-<lb n="61"/>patākavum innilattāl vanta iṟai <hi rend="grantha">rAjarAja</hi>ccaruppe-
-
-<lb n="62"/>timagkalattuc curukkavum innila<supplied reason="lost">m</supplied> muḻ piyar tavirntu
-
-<lb n="63"/><gap reason="lost" quantity="10" unit="character"/>llū<supplied reason="lost">r</supplied> eḻḻum<gap reason="lost" quantity="3" unit="character"/>mākavum<gap reason="lost" quantity="2" unit="character"/>
-
-<lb n="64"/>riyiliṭṭuk kuṭukkat tiruvāymoḻintaruḷiḻāreḻṟu tirumanti-
-
-<lb n="65"/>raolai coḻamaṇṭalattu nittavinerata vaḷanāṭṭu āvūṟ-
+<lb n="65" break="no"/>ra Olai cōḻa-maṇṭalattu nittaviṉota vaḷa-nāṭṭu Āvūṟ AQU'I ME QUEDE
 
 <lb n="66"/>k kūṟṟattu ālattūr uṭaiyāḻ kuvāvaḻ jayagkoṇ-
 
