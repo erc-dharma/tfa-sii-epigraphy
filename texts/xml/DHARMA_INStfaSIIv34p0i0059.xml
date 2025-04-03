@@ -78,34 +78,34 @@
     <body>	
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
     <p>
-        <lb n="1"/><gap reason="lost" unit="character" quantity="3"/><hi rend="grantha">ha</hi>riyarāya vi<hi rend="grantha">bhā</hi>ṭaṉ <hi rend="grantha">bhāṣ</hi>aikku-t
+        <lb n="1"/><gap reason="lost" unit="character" quantity="3"/> <hi rend="grantha">ha</hi>riyarāya vi<hi rend="grantha">bhā</hi>ṭaṉ <hi rend="grantha">bhāṣ</hi>aikku-t
         <lb n="2" break="no"/>tappuva-<reg>i</reg>rāyara kaṇṭaṉ mūvarāyara kaṇṭaṉ kaṇṭa-nāṭu koṇṭu koṇṭa nāṭu koṭātāṉ
         <lb n="3"/>pūrvva <hi rend="grantha">dakṣi</hi>ṇa pa<hi rend="grantha">ści</hi>ma Uttara catu-samu<hi rend="grantha">drādhi</hi>-pati <hi rend="grantha">śrī</hi>-vīra-p-piratāpa <hi rend="grantha">de</hi>varāyar pru<hi rend="grantha">dhi</hi>virā<hi rend="grantha">jyam· pa</hi>ṇṇi <hi rend="grantha">A</hi>ruḷāniṉṟa <hi rend="grantha">śakāpdam· <num value="1351"><g type="numeral">1000</g> 3 <g type="numeral">100</g> 5 <g type="numeral">10</g> 1</num></hi> ṉ mēl cellā niṉṟa <hi rend="grantha">saumya saṁ</hi>vaṟcarattu
         <lb n="4"/><hi rend="grantha">vṛicci</hi>ka nāyaṟṟu <hi rend="grantha">A</hi>pa<hi rend="grantha">rapakṣa</hi>ttu tecamiyum cōma-vāramum peṟṟa Attattu nāḷ
     </p>
     
     <p>
+   <list> <item>
         <lb n="5"/>vaṭa-karai vikkiṟama-cōḻa-vaḷa-nāṭṭu Iṉṉampar-nāṭṭu <hi rend="grantha">śrī</hi>-parāntaka-nāṭu sa<hi rend="grantha">bh</hi>aiyārum
         <lb n="6"/>valaṅkai toṇṇūṟṟu Eṭṭum Iṭaṅkai toṇṇūṟṟu Eṭṭum kuṟai-v-aṟa kūṭi niṟai-v-aṟa ni
         <lb n="7" break="no"/>ṟaintu nammil Orimai Ottu-c ceytu koṇṭa paṭi
-    </p>
+    </item>
     
-    <p>
+    <item>
         vaḻutalampaṭṭu Ucaravaṭi pala-nāṭṭukkum Irāca 
-        <lb n="8" break="no"/>karam Iṟai-muṟaimaikku-t taṅkaḷil Ottu Orimai Iṭṭu-k koṇṭu kal-veṭṭiṉa paṭi <reg>y</reg>-Ālē
-    </p>
-    <p>
+        <lb n="8" break="no"/>karam Iṟai-muṟaimaikku-t taṅkaḷil Ottu Orimai Iṭṭu-k koṇṭu kal-veṭṭiṉa paṭi<reg>y</reg>-Ālē
+    </item>
+    <item>
         <lb n="9"/>nammuṭaiya nāṭu kaṉṉaṭiya vāṇam Āṉa nāḷ mutal cīvita-p-paṟṟu Āka naṭakkaiyil naṭanta cīvita-k-kāṟar
         <lb n="10"/><gap reason="lost" quantity="3" unit="character"/><unclear>kāṇikkai</unclear> taram Oruttar koḷḷāmal Aṭai ōlai <unclear>maṉaintu</unclear> puṟa-vari kūṭṭi Aṉṉi
         <lb n="11"/>yā<unclear>ya</unclear>m ceytu I-k-kuṭi pāḻāy-p pōṉa paṭiyālē
-    </p>
-    <p>
+    </item></list>
+    
         nammil Ottu <gap reason="lost" quantity="3" unit="character"/> rum Iṟai-mu
         <lb n="12" break="no"/>ṟaimaikku-k kal-veṭṭiṉa paṭi nāyaṉār tiruvaikāvūr uṭaiya nāyaṉārukku-p periya
         
         <lb n="13"/><unclear>nāṭ</unclear>ṭāṉ canti Amutu ceyt' aruḷa Amutu paṭikku
-    </p>
-    <p>
+    
         Iṉ-ṉāṭṭu-t taḷikai Ūril
         <lb n="14"/><unclear>Irāca-vipāṭa</unclear>-ṉāl vēli <gap reason="lost" quantity="3" unit="character"/> tēva-tāṉa Iṟaiyili Āka naṭakka-k kaṭavat' ākavum
     </p>
@@ -117,12 +117,12 @@
         Iṉ-ṉāṭṭil <unclear>Iṟaiyili</unclear> paṟṟu paṇṭāra-vāṭai cīvita-p-
         <lb n="16" break="no"/>paṟṟu Aṭaippu nipatti kuttokai cērvai Eṉṟu koḷḷa-k kaṭavatu Alla-v-ākavum
     </p>
+    
     <p>
-        kaṭamai koḷḷa Aḷantu <note>Here some part seems to be inscribed over an erased writing.See <bibl><ptr target="bib:Subbarayalu2015_01"/><citedRange unit="page">61</citedRange></bibl></note> Iṭṭa
+        kaṭamai koḷḷa Aḷantu Iṭṭa
         <lb n="17"/><surplus>ṭṭa</surplus> vakai-p paṭi
-        
-    </p>
-    <p>
+            
+    <list><item>
         kāṇi-<reg>y</reg>-ā<unclear>ḷar pērkku</unclear> Irāca-vipāṭa-ṉāl Aḷantu kaṇṭa nilattukkum kuṭi-p-paṟṟu-k
         
         <lb n="18"/>ku <unclear>Aḷantu</unclear> kaṇṭa nilattukkum kār pacāṉattukku nel mutalukku-k kūṭṭum
@@ -130,30 +130,30 @@
         <lb n="19"/>mutal Aracu-pēṟu <unclear>Ilakkai</unclear> Uṭpaṭṭa vaippaṭa nellu Uṭpaṭa vēli Oṉṟukku nellu
         
         <lb n="20"/>Aimpatiṉ kalamum
-    </p>
-    <p>
+    </item>
+    <item>
         paṇa mutalukku <gap reason="lost" quantity="2" unit="character"/> m <unclear>kāṇikkai nēr-ōlai</unclear>-c cammātam paṭṭavaṭṭam ka
        
         <lb n="21" break="no"/>ṇ-kūli kāṇikkai maṟṟum <gap reason="lost" quantity="3" unit="character"/> Uṭpaṭṭa pala Upātikaḷum Uṭpaṭa vēli Oṉṟukku paṇam
         
         <lb n="22"/>Irupatum
-    </p>
-    <p>
+    </item>
+    <item>
         <unclear>kaṭaiyīṭṭu</unclear> varicaikkum taricukkum nel mutalukku vēli Oṉṟukku nellu nāṟpatiṉ kalamu
         
         <lb n="23" break="no"/>m paṇam patiṉ Eṭṭum
-    </p>
-    <p>
+    </item>
+    <item>
         kāṭu-veṭṭu viḻal veṭṭukku vēli Oṉṟukku nel Irupatiṉ kalamum <unclear>paṇam</unclear>
         
         <lb n="24"/><unclear>Eṭṭum</unclear>
-    </p>
-    <p>
+    </item>
+    <item>
         kaṭaippūvukku Iṟaiyppu-p-paṟṟukkum vēli Oṉṟukku nellu Irupatiṉ kalamum paṇam pattum Ā
         
         <lb n="25" break="no"/>ka
-    </p>
-    <p>
+    </item></list>
+        
         Iv-vakai-p paṭi nellukku nellum paṇattukku paṇamum Iṟukka-k kaṭavat' ākavum
     </p>
     <p>
@@ -201,8 +201,7 @@
         <lb n="41" break="no"/>mātam paṭṭa vaṭṭam kaṇ-kūli Uṭpaṭa vēli Oṉṟukku-p paṇam Irupatum koḷḷu-p payaṟu taṉi-p-paru
         
         <lb n="42" break="no"/>tti taṉi Āmaṇakku kūṟu Eḷḷu <unclear>Iru</unclear>ṅku kaṇpu cōḷam tiṉai paṉi-varaku cāmai
-    </p>
-    <p>
+   
         Iv-vakaikku vēli Oṉ
         
         <lb n="43" break="no"/>ṟukku-p paṇam <unclear>patiṉ a</unclear>yntu Ēriv' āy tāṅkal vāy taṉi <gap reason="lost" quantity="10" unit="character"/> Eḷḷukku mutal varicaiyil Oṉ
@@ -247,9 +246,9 @@
         <lb n="58" break="no"/>ṉṟu pātiyum Iṟukka-k kaṭavat' ākavum
     </p>
     <p>
-        kollaṉ taccaṉ taṭṭāṉ Ivarkaḷ pēṟku kottu-k kīṟṟu Aracu-
+        kollaṉ taccaṉ taṭṭāṉ Ivarkaḷ pēṟku kottu-k kīṟṟu Aracu
         
-        <lb n="59" break="no"/>pēṟu kāṇikkai Uṭpaṭa-p pēr Oṉṟukku-p paṇam Añcum kucavaṉ pēṟku-t tirikai<reg>y</reg>āyam Uṭpaṭa mutalu
+        <lb n="59" break="no"/>-pēṟu kāṇikkai Uṭpaṭa-p pēr Oṉṟukku-p paṇam Añcum kucavaṉ pēṟku-t tirikai<reg>y</reg>āyam Uṭpaṭa mutalu
         
         <lb n="60" break="no"/>kku pēr Oṉṟum paṇam Añcum nāvitaṉ pēṟku-k karuvi Āyam Uṭpaṭṭa mutalukkum pēr Oṉṟu
         
@@ -260,8 +259,7 @@
         <lb n="63"/>karu Āyam Uṭpaṭṭa mutalukku-p paṇam Irupatum kuḷavaṭai maṭuvaṭaikku <unclear>Ēḻu</unclear> paṇamum paṟaiyar pēṟku
         
         <lb n="64"/><unclear>Uḻamai-p</unclear>-paṟaiyar <unclear>nīkki</unclear> kaiviṉai-p-paṟaiyar pēṟku pēr Oṉṟukku-p paṇam Araiyum Āka
-    </p>
-    <p>
+   
         Iv-vakai-p paṭi Iṟu
         
         <lb n="65" break="no"/>kka-k kaṭavatu Ākavum
@@ -304,7 +302,13 @@
     
 </div>
 	
-        <div type="apparatus">               
+        <div type="apparatus">
+            <listApp>
+                <app loc="16">
+                    <lem>Aḷantu</lem>
+                    <note><ptr target="bib:Subbarayalu2015_01"/> notes: <quote>Here some part seems to be inscribed over an erased writing. See <bibl><ptr target="bib:Subbarayalu2015_01"/><citedRange unit="page">61</citedRange></bibl>.</quote></note>
+                </app>
+            </listApp>
         </div>
         
 	<div type="translation" resp="part:doop">
