@@ -100,8 +100,9 @@
 		    </div>
 		    
 		    <div type="bibliography">
-		        
-		        <p>Digital edition of SII 22.161 by <bibl><ptr target="bib:SrinivasaRao1983_01"/></bibl> converted to DHARMA conventions by Dorotea Operato.</p>
+		<p>Reported in <bibl><ptr target="bib:ARIE1906-1907"/></bibl> (ARIE/1906-1907/B/1906/161).</p>
+		<p>Edited in <bibl><ptr target="bib:Sundaram2010_01"/></bibl> (SII 22.161).</p>
+		<p>This digital edition by Dorotea Operato, based on <bibl><ptr target="bib:SrinivasaRao1983_01"/></bibl>.</p>
 		        
 		        <listBibl type="primary">
 		            
