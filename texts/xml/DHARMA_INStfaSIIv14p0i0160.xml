@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvalīśvaram, Valīśvara, time of Sundara Cōḻapāṇḍya, year 2</title>
+				<title>Tiruvalīśvaram, Valīśvara, time of Sundara Cōḻapāṇḍya, year 2-3</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName>
@@ -55,7 +55,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-					    <summary/>
+					    <summary>The inscription seems to be divided in two portions which are connected to each other and they are two years appart (to which ARIE and SII think they are in fact two inscriptions). The first portions records the change of a <foreign>brahmadeya</foreign> into a <foreign>devadāṉa</foreign>, which a certain Ammaṉ made, and seems to include taxes that the community <supplied reason="explanation"><foreign>ūrār</foreign></supplied> had to pay in order to feed twenty-five brahmaṇas, a reciter of the <foreign>śivadharma</foreign> and the provisions <supplied reason="explanation"><foreign>nivantakaḷ</foreign></supplied> necessary for worshipping the god of the temple. The taxes seem to have being collected either by paddy obtained for the land given, or by gold coins <supplied reason="explanation"><foreign>kācu</foreign></supplied>. The second section, almost identical to the first one but including new signatories, seems to be the actual implementation of the royal order,which apparently was made into effect one year after the first one.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -91,7 +91,7 @@
 	<body>
 		
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-	             	
+	             		
 	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215"> 
 		<lb n="1"/><supplied reason="lost">svasti śrī</supplied></ab>
 	
@@ -348,8 +348,15 @@
 <lb n="114"/>ṅkāṉa-nāṭṭuk karai Irukkai nara-loka<hi rend="grantha">sunda</hi>ra-nallūr Uṭaiyāṉ centaṉ cātta<note>Inscription stops here.</note>	
 		
 	</p>
-          
-</div>	
+	
+
+		
+	
+
+	</div>
+	
+	
+          	
 	
 <div type="apparatus">
     
@@ -375,7 +382,6 @@
     		<rdg source="bib:RamanathaAyyar1962_01">ca<supplied reason="lost">r</supplied>ṇṭili<supplied reason="omitted">ya</supplied></rdg>
     	</app>
     </listApp>
-	
 	
 	
 	
