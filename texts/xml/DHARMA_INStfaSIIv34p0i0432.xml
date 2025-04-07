@@ -120,7 +120,10 @@
 </div>
 
 <div type="bibliography">
-
+		<p>Reported in <bibl><ptr target="bib:ARIE1914-1915"/></bibl> (ARIE/1914-1915/B/1914/432).</p>
+		<p>Edited in <bibl><ptr target="bib:Sundaram2010_01"/></bibl> (SII 34.432).</p>
+		<p>This digital edition by Dorotea Operato, based on <bibl><ptr target="bib:Subbarayalu2015_01"/></bibl>.</p>
+    
 	<listBibl type="primary">
 
 		<bibl n="SII">
