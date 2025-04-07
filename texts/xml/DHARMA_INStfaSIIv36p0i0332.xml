@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tirumeyñānam, Jñānaparamēśvara temple, time of Tribhuvanachakravartin Rājarājadēva, year 17
+                </title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:doop">
+                        <forename>Dorotea</forename>
+                        <surname>Operato</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INStfaSIIv36p0i0332</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p>Registers the resolution of the assembly of Nālūr <hi rend="italic">alias</hi> not to engage certain persons for doing the temple services. It further declared that those persons who act against the resolution are enemies of the village.</p></summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>n</foreign> and <foreign>ṉ</foreign>, nor between <foreign>e</foreign> and <foreign>ē</foreign>, or between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:doop" when="2025-04-07">Creation of the file on the repository</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:space="preserve">
+		<body>
+
+			<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+				
+			    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215"> 
+			        <lb n="1"/>svasti śrī
+			    </ab>		
+			    
+			    <p>
+			        <lb n="1"/>tiri-puvaṉa-c-cakkara-vattikaḷ <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>⌈
+			        <lb n="2" break="no"/><hi rend="grantha">de</hi>vaṟkku yāṇṭu <num value="16"><g type="numeral">10</g> 6</num> vataṉ Etirām-āṇṭu Āvaṇi
+			        <lb n="3"/>mātatoru nāḷ
+			    </p>
+			    <p>nālūr-āna vānavan-mā-t<choice><orig>e</orig><reg>ē</reg></choice>vi-caru-p<choice><orig>e</orig><reg>ē</reg></choice>
+			        <lb n="4" break="no"/>ti-maṅkala peruṅ-kuṟi ma<hi rend="grantha">hā-sabhai</hi>yo<hi rend="grantha"/> nam<reg>m</reg>ūr pā
+			        <lb n="5" break="no"/>⌉ṇṭaneri puḷi <reg>y</reg>-aṭiyile kuṟai-vaṟa-k kūṭi Iruntu <unclear>vi</unclear>
+			        <lb n="6" break="no"/>yava<hi rend="grantha">st</hi>ai paṇṇina paṭi
+			    </p>
+			    <p>
+			        nammūril Ūrār na<unclear>m</unclear>mūrkkum nam
+<lb n="7"/>mūril Uṭaiyār tiru-mayānam uṭaiyār k<choice><orig>o</orig><reg>ō</reg></choice>
+<lb n="8" break="no"/>yil Uḷḷuṭṭa <unclear>kō</unclear>yilkaḷukkum tiru-muṟṟaṅkaḷu
+<lb n="9" break="no"/>kkum kāriya-t<choice><orig>e</orig><reg>ē</reg></choice>vai-k kūṟu-vakaikku k<choice><orig>o</orig><reg>ō</reg></choice>yiṟṟa
+<lb n="10" break="no"/><gap reason="lost" quantity="2" unit="character"/> ṭṭa <gap reason="lost" quantity="10" unit="character"/> tavarai ceyāt' o
+<lb n="11" break="no"/>ḻiyavum kāriyañ cetāruṇṭ' ākil kirāma-<hi rend="grantha">trohi</hi>
+<lb n="12"/>kaḷ paṭṭatu pa<hi rend="grantha">ṭu</hi>tta<unclear>vu</unclear>m nammūr Āṇṭu t<choice><orig>o</orig><reg>ō</reg></choice>ṟum
+<lb n="13"/>Āṭṭai-vāṇam āka niṟka kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m ākavu
+<lb n="14" break="no"/>m
+			        </p>
+			    <p>
+			        Ippaṭikaḷ tavira ceyt' āruṇṭ' ākil Ivar
+<lb n="15"/>kaḷuṭaṉ <hi rend="grantha">śi</hi>va<hi rend="grantha">śdāśādi</hi>kaḷ tavira-k kaṭavat' ākavu
+<lb n="16" break="no"/>m <hi rend="grantha">sarvva</hi>rum Eḻuttiṭṭa ma<hi rend="grantha">hā-sa</hi>pā niy<choice><orig>o</orig><reg>ō</reg></choice>kam
+<lb n="17"/>Ivarkaḷ Aruḷi ceyya Eḻutiṉ<choice><orig>e</orig><reg>ē</reg></choice>n
+			        </p>
+			    <p>
+			        Ūṟ kaṇakku
+<lb n="18"/>nālūr-uṭaiyāṉ t<choice><orig>e</orig><reg>ē</reg></choice>varāna tiru-c-ciṟṟampalam-u⌈
+<lb n="19" break="no"/>ṭaiyān Uttamappiriyaṉ Eḻuttu
+</p>
+
+
+</div>
+			<div type="apparatus"/>
+			
+			<div type="commentary"/>
+			
+			
+			<div type="bibliography">
+		<p>Reported in <bibl><ptr target="bib:ARIE1910-1911"/></bibl> (ARIE/1910-1911/B/1910/332).</p>
+		<p>Edited in <bibl><ptr target="bib:Shanmugam2018_01"/></bibl> (SII 36.332).</p>
+		<p>This digital edition by Dorotea Operato, based on <bibl><ptr target="bib:Shanmugam2018_01"/></bibl>.</p>
+				
+				<listBibl type="primary">
+					
+					<bibl n="SII">
+						<ptr target="bib:Shanmugam2018_01"/>
+						<citedRange unit="page">287-288</citedRange>
+						<citedRange unit="item">332</citedRange>
+					</bibl>
+					
+				</listBibl>
+				
+				<listBibl type="secondary">
+					
+					<bibl n="ARIE">
+						<ptr target="bib:ARIE1910-1911"/>
+						<citedRange unit="page">30</citedRange>
+					    <citedRange unit="appendix">B/1910</citedRange>
+						<citedRange unit="item">332</citedRange>
+					</bibl>
+					
+				</listBibl>
+				
+			</div>
+			
+		</body>
+	</text>
+</TEI>
