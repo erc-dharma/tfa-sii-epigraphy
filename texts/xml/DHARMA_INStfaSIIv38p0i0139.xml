@@ -9,28 +9,21 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Tiruvōṟṟiyūr, Ādhipurīśvara, time of Rājendra Cōḻa, year 29</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName>
-						<forename>Renato</forename>
-						<surname>Dávalos</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>Intellectual authorship of edition</resp>
-					<persName ref="part:reda">
-						<forename>Renato</forename>
-						<surname>Dávalos</surname>
-					</persName>
-					<persName ref="part:matr">
-						<forename>Margherita</forename>
-						<surname>Trento</surname>
-					</persName>
-					<persName ref="part:vija">
-						<forename>G.</forename>
-						<surname>Vijayavenugopal</surname>
-					</persName>
-				</respStmt>
+			    <respStmt>
+			        <resp>author of digital edition</resp>
+			        <persName ref="part:reda">
+			            <forename>Renato</forename>
+			            <surname>Dávalos</surname>
+			        </persName>
+			        <persName ref="part:matr">
+			            <forename>Margherita</forename>
+			            <surname>Trento</surname>
+			        </persName>
+			        <persName ref="part:vija">
+			            <forename>G.</forename>
+			            <surname>Vijayavenugopal</surname>
+			        </persName>
+			    </respStmt>
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
@@ -92,8 +85,8 @@
 		
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 	             	
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215"> 
-    	<lb n="1"/><supplied reason="lost">svasti śrī</supplied></ab>
+	<ab> 
+    	<lb n="1"/><supplied reason="lost"><hi rend="grantha">svasti śrī</hi></supplied></ab>
 	
 	<p>
 		<lg n="1" met="āciriyappā"> 
@@ -267,52 +260,32 @@
     		<lem><foreign>naṇṇaṟk' arumaraṇ</foreign></lem>
     		<rdg source="bib:Swaminathan2019_01">naṇṇaṟa karumuraṇ</rdg>
     	</app>
-    </listApp>
-	
-	<listApp>
+    
     	<app loc="14">
     		<lem><foreign>cērnal</foreign></lem>
     		<rdg source="bib:Swaminathan2019_01">cēranal </rdg>
     	</app>
-    </listApp>
-	
-	<listApp>
+    
     	<app loc="15">
     		<lem><foreign>muraṇu<supplied reason="lost">ṟa</supplied></foreign></lem>
     		<rdg source="bib:Swaminathan2019_01">muraṇu<supplied reason="lost">ra</supplied></rdg>
     	</app>
-    </listApp>
-	
-	<listApp>
+    
     	<app loc="20">
     		<lem><foreign>ārttava<choice><orig>n a</orig><reg>ṉ a</reg></choice><supplied reason="lost">ka</supplied></foreign></lem>
     		<rdg source="bib:Swaminathan2019_01">ārttava<choice><orig>n</orig><reg>ṉ</reg></choice><supplied reason="lost">kara</supplied></rdg>
     	</app>
-    </listApp>
-	
-	<listApp>
-    	<app loc="l n=62">
-    		<lem><foreign>kalāmutir kaṭuntiṟal ilāmuri tēcamum</foreign></lem>
-    		<note>Original inverts lines: content of verse no. 65 appears as verse no. 62, disrupting the verse sequence.</note>
-    	</app>
-    </listApp>
-	
-	<listApp>
+       	    
     	<app loc="24">
     		<lem><foreign>kalārpoḻil</foreign></lem>
     		<rdg source="bib:Swaminathan2019_01">kavārpoḻil</rdg>
     	</app>
-    </listApp>
-	
-	<listApp>
+    
     	<app loc="25">
     		<lem><foreign>ka<supplied reason="lost">ṭu</supplied>mura<supplied reason="lost">ṭ</supplied></foreign></lem>
     		<rdg source="bib:Swaminathan2019_01">ka<supplied reason="lost">ru</supplied>mura<supplied reason="lost">ṭ</supplied></rdg>
     	</app>
-    </listApp>
-	
-	
-	
+    </listApp>	
 	
 </div>
 		
@@ -322,9 +295,11 @@
     			
 </div>	
 		
-<!--<div type="commentary">
-	
-</div>-->
+<div type="commentary">
+	<p n="23">
+    		<foreign>kalāmutir kaṭuntiṟal ilāmuri tēcamum</foreign>. Original inverts lines: content of verse no. 65 appears as verse no. 62, disrupting the verse sequence.
+    	</p>
+</div>
 		
 <div type="bibliography">
 	        

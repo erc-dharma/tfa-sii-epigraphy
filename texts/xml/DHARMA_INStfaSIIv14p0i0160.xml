@@ -9,28 +9,21 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Tiruvalīśvaram, Valīśvara, time of Sundara Cōḻapāṇḍya, year 2-3</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName>
-						<forename>Renato</forename>
-						<surname>Dávalos</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>Intellectual authorship of edition</resp>
-					<persName ref="part:reda">
-						<forename>Renato</forename>
-						<surname>Dávalos</surname>
-					</persName>
-					<persName ref="part:matr">
-						<forename>Margherita</forename>
-						<surname>Trento</surname>
-					</persName>
-					<persName ref="part:vija">
-						<forename>G.</forename>
-						<surname>Vijayavenugopal</surname>
-					</persName>
-				</respStmt>
+			    <respStmt>
+			        <resp>author of digital edition</resp>
+			        <persName ref="part:reda">
+			            <forename>Renato</forename>
+			            <surname>Dávalos</surname>
+			        </persName>
+			        <persName ref="part:matr">
+			            <forename>Margherita</forename>
+			            <surname>Trento</surname>
+			        </persName>
+			        <persName ref="part:vija">
+			            <forename>G.</forename>
+			            <surname>Vijayavenugopal</surname>
+			        </persName>
+			    </respStmt>
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
