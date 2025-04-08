@@ -44,7 +44,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>...</summary>
+					    <summary>Records a feud between a local chief and the three sons of his brother, who were banned from the country as traitors.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -84,7 +84,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 				
     <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215"> 
-        <lb n="1"/>svasti śrī <g type="gomutraFinal">.</g>
+        <lb n="1"/>svasti śrī
     </ab>		
     
     <p>
@@ -93,22 +93,37 @@
         <hi rend="grantha">tṛ</hi>tiyaiyum nā<supplied reason="omitted">ya</supplied>ṟṟu-k-kiḻamaiyum peṟṟa <hi rend="grantha">re</hi>vati nāḷ
     </p>
     
+    <list>
+        <item>Āṭaiyūr-nāṭṭu Eliyūṟṟukku m<choice><orig>e</orig><reg>ē</reg></choice>ṟkum nam <gap reason="lost" quantity="9" unit="character" precision="low"/>kku Uḷḷuppaṭṭa nāṭum malaiyum Aṭivāramum teṉ-karai-nāṭu m<choice><orig>u</orig><reg>ū</reg></choice>varai-v-eṉṟa-nallūṟku
+            m<choice><orig>e</orig><reg>ē</reg></choice>ṟku ciṟṟiṅkai<supplied reason="omitted">k</supplied>ku-k kiḻakku Uṭpaṭṭa
+            
+            <lb n="2"/>nāṭum malaiyum Uṭpaṭṭa nāṭum Inta Iraṇṭu-karai-nāṭṭukku Uḷḷuppaṭṭa nāṭṭavarum nāṭṭu-nāyakañ ceyvārkaḷum maṉṟāṭuvārkaḷum piḷḷai-mutalikaḷum <unclear>taṉi</unclear>yāṭkaḷum 
+            paṭai-nāyakañ ceyvārkaḷum taṉiyāḷ mutalikaḷum <gap reason="lost" quantity="2" unit="character" precision="low"/>mpaṉāyakaru
+            <gap reason="lost" quantity="7" unit="character" precision="low"/>likaḷum kūlicc<choice><orig>e</orig><reg>ē</reg></choice>vakarum konta-vi-c-cātirarum navira-malai-t teṉ-paṟṟu nāṭṭavarum nāṭṭu-mutalikaḷum vaṭa-malai-nāṭṭavarum nāṭṭu-mutalikaḷum Uḷḷuppaṭṭa
+            
+            <lb n="3"/>pala-caṉatt<choice><orig>o</orig><reg>ō</reg></choice>mum</item>
+    </list>
+    
+    <list>        
+        <item>Aṭivārattu malaiyāḷarum malaiyāḷa-mutalikaḷum mutun<choice><orig>i</orig><reg>ī</reg></choice>r-malaiyāḷarum
+            malaiyaraṇ-mutalikaḷum ceṭṭikaḷum vāṇikarum kaṇakkarum karuma-p-p<choice><orig>e</orig><reg>ē</reg></choice>rum paṉṉāṭṭavarum
+            paṉṉāṭṭu mutalikaḷum poṟko<unclear>ṟṟa-</unclear>kai-k-<unclear>koḷarum Āṇ</unclear>ṭārkaḷum
+            civa-<hi rend="grantha">brāhma</hi>ṇarum maṉṟāṭikaḷum uvaccarum teṉ-karai-nāṭṭu vaṭa-talai-nāṭṭavarum 
+            teṉ-malai-nāṭṭārum Uṭpaṭṭa nāṭṭavarum
+        </item>
+    </list>
+    <list>
+        <item>tella <gap reason="lost" quantity="3" unit="character" precision="low"/>pulava<unclear>ru</unclear>m paṇ
+        
+        <lb n="4" break="no"/>ṇūvārum niyāyattārum paṉṉiraṇṭu paṇi-makkaḷum Uḷḷiṭṭa p<choice><orig>e</orig><reg>ē</reg></choice>rum
+    </item></list>
+        
+    <list>
+        <item>v<choice><orig>e</orig><reg>ē</reg></choice>ṭarum pāṇarum 
+            paṟaiyarum paṟai-mutalikaḷum c<seg rend="check">e</seg>kkiliyarum I<choice><orig>ṟ</orig><reg>r</reg></choice>uḷarum Uḷḷiṭṭa Aṉaittu-c-cātikaḷu<supplied reason="omitted">m</supplied>
+        </item>
+    </list>
     <p>
-        Āṭaiyūr-nāṭṭu Eliyūṟṟukku m<choice><orig>e</orig><reg>ē</reg></choice>ṟkum nam <gap reason="lost" quantity="9" unit="character" precision="low"/>kku Uḷḷuppaṭṭa nāṭum malaiyum Aṭivāramum teṉ-karai-nāṭu m<choice><orig>u</orig><reg>ū</reg></choice>varai-v-eṉṟa-nallūṟku
-        m<choice><orig>e</orig><reg>ē</reg></choice>ṟku ciṟṟiṅkai<supplied reason="omitted">k</supplied>ku-k kiḻakku Uṭpaṭṭa
-        
-        <lb n="2"/>nāṭum malaiyum Uṭpaṭṭa nāṭum Inta Iraṇṭu-karai-nāṭṭukku Uḷḷuppaṭṭa nāṭṭavarum nāṭṭu-nāyakañ ceyvārkaḷum maṉṟāṭuvārkaḷum piḷḷai-mutalikaḷum <unclear>taṉi</unclear>yāṭkaḷum 
-        paṭai-nāyakañ ceyvārkaḷum taṉiyāḷ mutalikaḷum <gap reason="lost" quantity="2" unit="character" precision="low"/>mpaṉāyakaru
-        <gap reason="lost" quantity="7" unit="character" precision="low"/>likaḷum kūlicc<choice><orig>e</orig><reg>ē</reg></choice>vakarum konta-vi-c-cātirarum navira-malai-t teṉ-paṟṟu nāṭṭavarum nāṭṭu-mutalikaḷum vaṭa-malai-nāṭṭavarum nāṭṭu-mutalikaḷum Uḷḷuppaṭṭa
-        
-        <lb n="3"/>pala-caṉatt<choice><orig>o</orig><reg>ō</reg></choice>mum Aṭivārattu malaiyāḷarum malaiyāḷa-mutalikaḷum mutun<choice><orig>i</orig><reg>ī</reg></choice>r-malaiyāḷarum
-        malaiyaraṇ-mutalikaḷum ceṭṭikaḷum vāṇikarum kaṇakkarum karuma-p-p<choice><orig>e</orig><reg>ē</reg></choice>rum paṉṉāṭṭavarum
-        paṉṉāṭṭu mutalikaḷum poṟko<unclear>ṟṟa-</unclear>kai-k-<unclear>koḷarum Āṇ</unclear>ṭārkaḷum
-        civa-<hi rend="grantha">brāhma</hi>ṇarum maṉṟāṭikaḷum uvaccarum teṉ-karai-nāṭṭu vaṭa-talai-nāṭṭavarum 
-        teṉ-malai-nāṭṭārum Uṭpaṭṭa nāṭṭavarum tella <gap reason="lost" quantity="3" unit="character" precision="low"/>pulava<unclear>ru</unclear>m paṇ
-        
-        <lb n="4" break="no"/>ṇūvārum niyāyattārum paṉṉiraṇṭu paṇi-makkaḷum Uḷḷiṭṭa p<choice><orig>e</orig><reg>ē</reg></choice>rum-v<choice><orig>e</orig><reg>ē</reg></choice>ṭarum pāṇarum 
-        paṟaiyarum paṟai-mutalikaḷum c<seg rend="check">e</seg>kkiliyarum I<choice><orig>ṟ</orig><reg>r</reg></choice>uḷarum Uḷḷiṭṭa Aṉaittu-c-cātikaḷu<supplied reason="omitted">m</supplied> 
         Antaṇaṉ-talai-y-āka Arippaṉ-kaṭai-y-āka Uḷḷuppaṭṭa Anai<supplied reason="omitted">t</supplied>tu-c-cāti-<unclear>m</unclear>āṟkku te <gap reason="lost" quantity="3" unit="character" precision="low"/> llārum <gap reason="lost" quantity="6" unit="character" precision="low"/> <supplied reason="lost"><hi rend="grantha">pra</hi>mā</supplied><unclear>ṇa</unclear>m 
         paṇṇiṉa paṭi y-āvatu
     </p>
@@ -247,33 +262,70 @@
     </p>
     
     <p n="1">
-        On the day of Revati which coincides <supplied reason="explanation"><foreign>peṟṟa</foreign></supplied> with ... 		
+        On the day of Revati which coincides <supplied reason="explanation"><foreign>peṟṟa</foreign></supplied> with the third day of the dark fortnight of Āvaṇi month, in <foreign>Śaka</foreign> year 1180.	
     </p>
     
     <p n="1-4">
-        This is the way ...
-        have done the <supplied reason="subaudible">following</supplied> decision <supplied reason="explanation"><foreign>piramāṇam</foreign><note>Sanskrit <foreign>pramāṇa</foreign>.</note></supplied>.
+        This is the way <gap reason="lost"/> have done the <supplied reason="subaudible">following</supplied> decision <supplied reason="explanation"><foreign>piramāṇam</foreign><note>Sanskrit <foreign>pramāṇa</foreign>.</note></supplied> <gap reason="lost"/> for all the <foreign>jāti</foreign>s <supplied reason="explanation">anaittu-c cāti-māṟkku</supplied>, including those who are the highest of the Brahmins and those who belong to the lowest classes:
+        
+    <list>
+        <item>we, the many village assemblies <supplied reason="explanation">palacanottōmum</supplied> which comprise the district representatives, administrators <supplied reason="explanation">nāṭṭu-nāyakañ ceyvārkaḷum</supplied>, officals <supplied reason="explanation">maṉṟāṭuvārkaḷum</supplied>, leaders of Piḷḷai caste, eremits <supplied reason="explanation">taṉiyāṭkaḷum</supplied>, military commanders, leaders of secluded people <supplied reason="explanation">taṉiyāḷ mutalikaḷum</supplied>, merchenary soldiers <supplied reason="explanation">kūliccēvakarum</supplied>, and people of other castes <supplied reason="explanation">konta-vi-c-cātirarum</supplied> belonging to these two Karai-<foreign>nāṭu</foreign>s, that are  the districts, hills and foothills to the west of Eliyūr in Āṭaiyūrnāṭu and the districts to the west of Nallur, also called Muvarai, along with the territories that include the districts and foothills to the east of Ciṟṟiṅkai in Teṉkaraināṭu; the district representatives and administrators in Teṉpaṟṟu, in Navira hills; and the district representatives and administrators of the country on the northen hills;
+        </item>
+    </list>
+    
+    <list>
+        <item>the district representatives, who include: the Malaiyārs and their chiefs on Aṭivāram <supplied reason="subaudible">mountains</supplied>, the Mutunīrmalaiyārs and their chiefs, along with the Ceṭṭis, the merchants, accountants, artisans, inhabitants and chiefs of Paṉṉāṭu, the goldsmiths, the devotees, the <foreign>Śiva Brāhmaṇa</foreign>s, the officials, and the temple drummers; and the district representatives, who include the chiefs of Vaṭatalai, in Teṉkaraināṭu, and the chiefs of Teṉmalai;
+        </item>
+    </list>
+    
+    <list>
+        <item>
+          the people, who include: <gap reason="lost"/>, poets, musicians, judges, and people doing the twelve professions <supplied reason="explanation">paṉṉiraṇṭu paṇi-makkaḷum;</supplied>
+        </item>
+    </list>
+   
+    <list>
+        <item>
+            all the castes <supplied reason="explanation">aṉaittuccātikaḷum</supplied> including hunters, bards, drummers, the chiefs of drummers’ caste <supplied reason="explanation">paṟai-mutalikaḷ</supplied>, shoemaker castes, and the Iṟuḷa tribes.
+        </item>
+    </list>
     </p>
     
     <p n="4-6">
         <list>
-            <item>Whereas our lord, Amaṭṭaṉ Karikālaccōḻa Āṭaiyūrnāṭāḻvār ...,</item>
-            <item>whereas the lord Naraciṅkapaṉmar,<note>Sanskrit Narasiṃhavarman.</note> his glorious younger brother, ...,</item>
-            <item>whereas Periyuṭaiyāṉ, the son of  the lord Naraciṅkapaṉmar, and Ara(caka)ṇāyaṉ, his younger brother, ...,</item>
+            <item>Whereas our lord, Amaṭṭaṉ Karikālaccōḻa Āṭaiyūrnāṭāḻvār has come having established a glorious reign,</item>
+            <item>whereas the lord Naraciṅkapaṉmar,<note>Sanskrit Narasiṃhavarman.</note> his glorious younger brother, has come, acting according to his orders,</item>
+            <item>whereas Periyuṭaiyāṉ, the son of  the lord Naraciṅkapaṉmar, and Ara(caka)ṇāyaṉ, his younger brother, allied with Karuppukkaṭṭi Nāyakkar and became traitors, having opposed to our lord and to us,</item>
         </list>
-        We ...
+        
+        <gap reason="ellipsis"/>We expell <supplied reason="explanation">puṟakkaṭittōm</supplied> the three of them, these Periyuṭaiyān, Aracakaṇāyaṉ and their younger brother Amaṭṭāḻvaraṉ, all together with their wives and progeny <supplied reason="explanation">peṇṭiḻantāṉkuṭṭattil</supplied> as traitors to our king and traitors to our country.
     </p>
     
-    <p n="6-11">
-        ...
+    <p n="6-8">
+          <gap reason="ellipsis"/>
+        We agreed <supplied reason="explanation">oṭṭōm</supplied> that our people from generation to generation shall replace these Periyuṭaiyāṉ, Aracakaṇāyaṉ, their younger brother Amaṭṭāḻvār and their progeny from generation to generation <supplied reason="subaudible">in ruling</supplied> these lands, hills and all that is between.
+       
+        <list>
+            <item>We will give them a place <supplied reason="subaudible">where to reside</supplied>.</item>
+            <item> We will assemble them together with those who gave them hospitality.</item>
+            <item>We shall not give hospitality to those who say (colluvarku) that these three are the heirs (uriyar) to these lands</item>
+        </list>
     </p>
-    
+     
+    <p n="8-11">
+        <list><item>so that...</item></list>
+        <list><item>so that...</item></list>
+        <list><item>so that...</item></list>
+        <list><item>so that...</item></list>
+        For this reason, we, this whole <supplied reason="subaudible">assembly</supplied>..., have issued this document as per our position.
+     </p>
+         
     <p n="11">
         Whereas the <foreign>nāṭṭavar</foreign>s ordered so, I, [...]yanāṭṭ-ācāriyaṉ ...
     </p>
     
     <p n="11">
-        These are my writing.
+        The one who transgress this stone inscription will incur the sin of killing a cow on the banks of the river Ganges.This are my writings.
     </p>
     
 </div>
