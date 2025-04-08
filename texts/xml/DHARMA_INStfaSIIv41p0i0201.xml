@@ -40,11 +40,11 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary/>
+                        <summary><p>Gathering of representatives of different villages, comprising members of the Right and Left hand classes, for the punishment of a culprit.</p></summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>Gathering of representatives of different villages, comprising members of the Right and Left hand classes, for the punishment of a culprit</p>
+                            <p></p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -181,7 +181,7 @@ Having agreed that the offerings we have collected <gap reason="lost"/> for the 
 
 	
 	<div type="bibliography">
-		<p>Reported in <bibl><ptr target="bib:ARIE1905-1906"/></bibl> (ARIE/1905-1906/B/1905/419).</p>
+		<p>Reported in <bibl><ptr target="bib:ARIE1905-1906"/></bibl> (ARIE/1905-1906/B/1905/419).  Summary in <bibl><ptr target="bib:Mahalingam1985_01"/></bibl> (NA/728).</p>
 		<p>Edited in <bibl><ptr target="bib:Rajagopal2019_01"/></bibl> (SII 41.201).</p>
 		<p>This digital edition by Dorotea Operato, based on <bibl><ptr target="bib:Rajagopal2019_01"/></bibl>.</p>
 		
@@ -200,6 +200,13 @@ Having agreed that the offerings we have collected <gap reason="lost"/> for the 
 				<citedRange unit="appendix">B/1905</citedRange>
 				<citedRange unit="item">419</citedRange>
 			</bibl>
+		    
+		     <bibl>
+            <ptr target="bib:Mahalingam1985_01"/>
+            <citedRange unit="page">227</citedRange>
+            <citedRange unit="item">NA-935</citedRange>
+        </bibl>
+		    
 		</listBibl>
 	</div>
 </body>
