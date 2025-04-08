@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tiruppukuḻi, Vijayaraghavaperuumāḷ temple, time of Vīra Harihararāya
+                <title>Tiruppukuḻi, Vijayaraghavaperumāḷ temple, time of Vīra Harihararāya
                 </title>
                 <respStmt>
                     <resp>author of digital edition</resp>
@@ -90,25 +90,49 @@
 			    <p>
 		<lb n="12"/>Inta tarmattukku vir<choice><orig>o</orig><reg>ō</reg></choice>tam paṇṇiṉavaṉ keṅkai karaiyil
 		<lb n="13"/>kurāl pacuvai-k koṉṟa pāpamuṅ koṇṭa nā <gap reason="lost" quantity="1" unit="character"/> paṭu-t-tur<choice><orig>o</orig><reg>ō</reg></choice>kam Āka
-		<lb n="14" break="no"/>-k kaṭavatu Inta taṟmam caṉtiṟātitta-varaiyum naṭakka-k kaṭavatu Ippaṭi
+		<lb n="14" break="no"/>-k kaṭavatu
+			        </p>
+			    <p>
+			        Inta taṟmam caṉtiṟātitta-varaiyum naṭakka-k kaṭavatu </p>
+			    <p>
+			        Ippaṭi
 		<lb n="15" break="no"/>kku Ivai <surplus>Ivai</surplus> Iṭaṅkai kāmaveḷān<choice><orig>e</orig><reg>ē</reg></choice>ṉ Eḻuttu teṟku Āka ticai Iṉ-ṉāṉku Ellaikku Uṭpaṭṭa
 		<lb n="16"/>naṉ-cey <g type="nilam"/> <num>6</num> li In-nilam Aṟu veliyum Ivv-ūr nattamum cettalai-t tiṭallum mēl n<choice><orig>o</orig><reg>ō</reg></choice>kkiṉa mara
 		<lb n="17" break="no"/>mum kīḻ-n<choice><orig>o</orig><reg>ō</reg></choice>kkiṉa kiṇaṟum Uṭpa<supplied reason="omitted">ṭ</supplied>ṭatu Ivarkku Iṟṟai-nāḷ viṟṟu-k kuṭuttu-k koḷvat' āṉa Emmil i
 		<lb n="18" break="no"/>cainta vilai-p-poruḷ <gap reason="lost" quantity="5" unit="character"/> ṭu naṟkāciṉāl Āk<hi rend="grantha">ra</hi>-vāram <g type="paṇam"/> <num value="90">9 <g type="numeral">10</g></num> Ip-paṇam toṇṇūṟṟukkum Ivv-ūr
 		<lb n="19"/>nāṉku Ellaikku Uṭpaṭṭa naṉ-cey <g type="nilam"/> Aṟu veliyum nattamum cettalai-t tiṭarum kuḷamum vilai Āvat' ākavum
 		<lb n="20"/>Ip-paṇam toṇṇūṟum Ik-kiḻppaṭa paṟṟi-k koṇṭu Intaṅ karuppūr viṟṟu vilai-p piṟamāṇam pa
-		<lb n="21" break="no"/>ṇṇi-k kuṭutt<choice><orig>e</orig><reg>ē</reg></choice>ṉ Uṭaiyār tiru-v-ampalam-uṭaiyār toṇṭai-māṉāṟkku kaḷañ<supplied reason="omitted">ca</supplied>lūr kiḻavaṉ ⌈
-		<lb n="22"/>cellappiḷḷai-y-āṉa koṉār<choice><orig>e</orig><reg>ē</reg></choice>ṉ Ip-paṭikku Ivai cempiyaṉ t<choice><orig>e</orig><reg>ē</reg></choice>ṟaṉār Eḻuttu
-		<lb n="23"/>vi<hi rend="grantha">śvesva</hi>ra t<choice><orig>e</orig><reg>ē</reg></choice>va<choice><orig>n</orig><reg>ṉ</reg></choice> puṅkaṉūr kiḻavaṉ Eḻuttu
-		<lb n="24"/>Ivai tiru-vīraṭṭ' āṉa muṭaiyāṉ Eḻuttu puṅkaṉūr kiḻavaṉ Umaiyuruva <gap reason="lost" quantity="5" unit="character"/>
-		<lb n="25"/>Eḻuttu Ivai peru-maṅkala muṭaiyān tiru-meṉi Aḻakiyāṉ Eḻuttu
+		<lb n="21" break="no"/>ṇṇi-k kuṭutt<choice><orig>e</orig><reg>ē</reg></choice>ṉ
+			        </p>
+			    <p>
+			        Uṭaiyār tiru-v-ampalam-uṭaiyār toṇṭai-māṉāṟkku kaḷañ<supplied reason="omitted">ca</supplied>lūr kiḻavaṉ ⌈
+		<lb n="22"/>cellappiḷḷai-y-āṉa koṉār<choice><orig>e</orig><reg>ē</reg></choice>ṉ
+			        </p>
+			    
+			    <list>
+			        <item>Ip-paṭikku Ivai cempiyaṉ t<choice><orig>e</orig><reg>ē</reg></choice>ṟaṉār Eḻuttu</item>
+			        <item>
+			            <lb n="23"/>vi<hi rend="grantha">śvesva</hi>ra t<choice><orig>e</orig><reg>ē</reg></choice>va<choice><orig>n</orig><reg>ṉ</reg></choice> puṅkaṉūr kiḻavaṉ Eḻuttu</item>
+			        <item>
+			            <lb n="24"/>Ivai tiru-vīraṭṭ' āṉa muṭaiyāṉ Eḻuttu </item>
+			        <item>puṅkaṉūr kiḻavaṉ Umaiyuruva <gap reason="lost" quantity="5" unit="character"/>
+			            <lb n="25"/>Eḻuttu</item>
+			        <item>
+			            Ivai peru-maṅkala muṭaiyān tiru-meṉi Aḻakiyāṉ Eḻuttu</item>
+			    </list>
+			    <p>
 		<lb n="26"/>Ip-paṭikku Ivai Ākkāṭu kiḻāṉ cellappiḷḷaiyān<choice><orig>e</orig><reg>ē</reg></choice>n
 		<lb n="27"/>Ip-paṭi Aṟiv<choice><orig>e</orig><reg>ē</reg></choice>ṉ <gap reason="lost" quantity="5" unit="character"/> ṭunan
-	</p>
-
-
-</div>
-			<div type="apparatus"/>
+			    </p>
+			</div>
+		    
+		    <div type="apparatus">
+		        <listApp>
+		            <app loc="15"><lem>Ivai</lem><rdg source="bib:Karuppiah2020_01"/>
+		                <note>Probably a surplus.</note>
+		            </app>	
+		        </listApp>
+		    </div>
 			
 			<div type="commentary"><p>This inscription is dated to A.D. 1398 according to <bibl><ptr target="bib:Karuppiah2020_01"/></bibl>.</p></div>
 			
