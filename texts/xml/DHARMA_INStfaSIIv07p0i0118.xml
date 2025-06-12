@@ -5,368 +5,368 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Ceṅkama, Ṛṣabheśvara temple, Śaka year 1180</title>
-				<respStmt>
-				    <resp>author of digital edition</resp>
-					<persName ref="part:doop">
-						<forename>Dorotea</forename>
-						<surname>Operato</surname>
-					</persName>
-				    <persName ref="part:emfr">
-				        <forename>Emmanuel</forename>
-				        <surname>Francis</surname>
-				    </persName>
-				</respStmt>
-			</titleStmt>
-		    <publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INStfaSIIv07p0i0118</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-					    <summary>Records a feud between a local chief and the three sons of his brother, who were banned from the country as traitors.</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-						    <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union's Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:doop" when="2024-11-06">Creation of the file on the
-				repository</change>
-		</revisionDesc>
-	</teiHeader>
-
-<text xml:space="preserve">
-<body>	
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-				
-    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215"> 
-        <lb n="1"/>svasti śrī
-    </ab>		
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ceṅkama, Ṛṣabheśvara temple, Śaka year 1180</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:doop">
+                        <forename>Dorotea</forename>
+                        <surname>Operato</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INStfaSIIv07p0i0118</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Records a feud between a local chief and the three sons of his brother, who were banned from the country as traitors.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:doop" when="2024-11-06">Creation of the file on the
+                repository</change>
+        </revisionDesc>
+    </teiHeader>
     
-    <p>
-        <hi rend="grantha">śakābdam·</hi>		
-        Āyirattu Oru nūṟṟu Eṇpatiṉ mēl cellā niṉṟa <hi rend="grantha">siṃha</hi>-nāyaṟṟu  <hi rend="grantha">Apara-pakṣa</hi>ttu
-        <hi rend="grantha">tṛ</hi>tiyaiyum nā<supplied reason="omitted">ya</supplied>ṟṟu-k-kiḻamaiyum peṟṟa <hi rend="grantha">re</hi>vati nāḷ
-    </p>
-    
-    <list>
-        <item>Āṭaiyūr-nāṭṭu Eliyūṟṟukku m<choice><orig>e</orig><reg>ē</reg></choice>ṟkum nam <gap reason="lost" quantity="9" unit="character" precision="low"/>kku Uḷḷuppaṭṭa nāṭum malaiyum Aṭivāramum teṉ-karai-nāṭu m<choice><orig>u</orig><reg>ū</reg></choice>varai-v-eṉṟa-nallūṟku
-            m<choice><orig>e</orig><reg>ē</reg></choice>ṟku ciṟṟiṅkai<supplied reason="omitted">k</supplied>ku-k kiḻakku Uṭpaṭṭa
+    <text xml:space="preserve">
+        <body>	
             
-            <lb n="2"/>nāṭum malaiyum Uṭpaṭṭa nāṭum Inta Iraṇṭu-karai-nāṭṭukku Uḷḷuppaṭṭa nāṭṭavarum nāṭṭu-nāyakañ ceyvārkaḷum maṉṟāṭuvārkaḷum piḷḷai-mutalikaḷum <unclear>taṉi</unclear>yāṭkaḷum 
-            paṭai-nāyakañ ceyvārkaḷum taṉiyāḷ mutalikaḷum <gap reason="lost" quantity="2" unit="character" precision="low"/>mpaṉāyakaru
-            <gap reason="lost" quantity="7" unit="character" precision="low"/>likaḷum kūlicc<choice><orig>e</orig><reg>ē</reg></choice>vakarum konta-vi-c-cātirarum navira-malai-t teṉ-paṟṟu nāṭṭavarum nāṭṭu-mutalikaḷum vaṭa-malai-nāṭṭavarum nāṭṭu-mutalikaḷum Uḷḷuppaṭṭa
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215"> 
+                    <lb n="1"/>svasti śrī
+                </ab>		
+                
+                <p>
+                    <hi rend="grantha">śakābdam·</hi>		
+                    Āyirattu Oru nūṟṟu Eṇpatiṉ mēl cellā niṉṟa <hi rend="grantha">siṃha</hi>-nāyaṟṟu  <hi rend="grantha">Apara-pakṣa</hi>ttu
+                    <hi rend="grantha">tṛ</hi>tiyaiyum nā<supplied reason="omitted">ya</supplied>ṟṟu-k-kiḻamaiyum peṟṟa <hi rend="grantha">re</hi>vati nāḷ
+                </p>
+                
+                <list>
+                    <item>Āṭaiyūr-nāṭṭu Eliyūṟṟukku m<choice><orig>e</orig><reg>ē</reg></choice>ṟkum nam <gap reason="lost" quantity="9" unit="character" precision="low"/>kku Uḷḷuppaṭṭa nāṭum malaiyum Aṭivāramum teṉ-karai-nāṭu m<choice><orig>u</orig><reg>ū</reg></choice>varai-v-eṉṟa-nallūṟku
+                        m<choice><orig>e</orig><reg>ē</reg></choice>ṟku ciṟṟiṅkai<supplied reason="omitted">k</supplied>ku-k kiḻakku Uṭpaṭṭa
+                        
+                        <lb n="2"/>nāṭum malaiyum Uṭpaṭṭa nāṭum Inta Iraṇṭu-karai-nāṭṭukku Uḷḷuppaṭṭa nāṭṭavarum nāṭṭu-nāyakañ ceyvārkaḷum maṉṟāṭuvārkaḷum piḷḷai-mutalikaḷum <unclear>taṉi</unclear>yāṭkaḷum 
+                        paṭai-nāyakañ ceyvārkaḷum taṉiyāḷ mutalikaḷum <gap reason="lost" quantity="2" unit="character" precision="low"/>mpaṉāyakaru
+                        <gap reason="lost" quantity="7" unit="character" precision="low"/>likaḷum kūlicc<choice><orig>e</orig><reg>ē</reg></choice>vakarum konta-vi-c-cātirarum navira-malai-t teṉ-paṟṟu nāṭṭavarum nāṭṭu-mutalikaḷum vaṭa-malai-nāṭṭavarum nāṭṭu-mutalikaḷum Uḷḷuppaṭṭa
+                        
+                        <lb n="3"/>pala-caṉatt<choice><orig>o</orig><reg>ō</reg></choice>mum</item>
+                </list>
+                
+                <list>        
+                    <item>Aṭivārattu malaiyāḷarum malaiyāḷa-mutalikaḷum mutun<choice><orig>i</orig><reg>ī</reg></choice>r-malaiyāḷarum
+                        malaiyaraṇ-mutalikaḷum ceṭṭikaḷum vāṇikarum kaṇakkarum karuma-p-p<choice><orig>e</orig><reg>ē</reg></choice>rum paṉṉāṭṭavarum
+                        paṉṉāṭṭu mutalikaḷum poṟko<unclear>ṟṟa-</unclear>kai-k-<unclear>koḷarum Āṇ</unclear>ṭārkaḷum
+                        civa-<hi rend="grantha">brāhma</hi>ṇarum maṉṟāṭikaḷum uvaccarum teṉ-karai-nāṭṭu vaṭa-talai-nāṭṭavarum 
+                        teṉ-malai-nāṭṭārum Uṭpaṭṭa nāṭṭavarum
+                    </item>
+                </list>
+                <list>
+                    <item>tella <gap reason="lost" quantity="3" unit="character" precision="low"/>pulava<unclear>ru</unclear>m paṇ
+                        
+                        <lb n="4" break="no"/>ṇūvārum niyāyattārum paṉṉiraṇṭu paṇi-makkaḷum Uḷḷiṭṭa p<choice><orig>e</orig><reg>ē</reg></choice>rum
+                    </item></list>
+                
+                <list>
+                    <item>v<choice><orig>e</orig><reg>ē</reg></choice>ṭarum pāṇarum 
+                        paṟaiyarum paṟai-mutalikaḷum c<seg rend="check">e</seg>kkiliyarum I<choice><orig>ṟ</orig><reg>r</reg></choice>uḷarum Uḷḷiṭṭa Aṉaittu-c-cātikaḷu<supplied reason="omitted">m</supplied>
+                    </item>
+                </list>
+                <p>
+                    Antaṇaṉ-talai-y-āka Arippaṉ-kaṭai-y-āka Uḷḷuppaṭṭa Anai<supplied reason="omitted">t</supplied>tu-c-cāti-<unclear>m</unclear>āṟkku te <gap reason="lost" quantity="3" unit="character" precision="low"/> llārum <gap reason="lost" quantity="6" unit="character" precision="low"/> <supplied reason="lost"><hi rend="grantha">pra</hi>mā</supplied><unclear>ṇa</unclear>m 
+                    paṇṇiṉa paṭi y-āvatu
+                </p>
+                
+                <p>
+                    <list>
+                        <item>Eṅka-ṉāyaṉār amaṭṭaṉ karikāla-c-c<choice><orig>o</orig><reg>ō</reg></choice>ḻa Āṭaiyūr-nāṭ-āḻvār tiru-v-irācciyam paṇṇi Eḻuntu Aruḷi <unclear>Iru</unclear>kka</item>
+                        <item>Ivar Evi Aruḷiṉa paṭiy<choice><orig>e</orig><reg>ē</reg>
+                        </choice> Ivarkaḷ tiru-t-tampi        
+                            <lb n="5" break="no"/>yār nāyaṉār naraciṅka-paṉmar ceytu Eḻuntu Aruḷi-y-irukka</item>
+                        
+                        <item>nāyaṉār naraciṅka-paṉmar makaṉ periyuṭaiyāṉum Ivaṉ tampi Ara<unclear>caka</unclear>ṇāyaṉum karuppu-k-kaṭṭi-nāyakka<unclear>r-uṭa</unclear>ṉ<choice><orig>e</orig><reg>ē</reg></choice>
+                            kūṭi Eṅkaḷ nāyaṉ<unclear>māṟ</unclear>kum Eṅkalukku<unclear>m</unclear> pakai-t<choice><orig>e</orig><reg>ē</reg></choice>ṭi-k kiḻaṟṟu-p-p<choice><orig>o</orig><reg>ō</reg></choice>y-Irukka</item>
+                    </list> 
+                    
+                    Ivarkaḷ ceyta piḻaiyum poṟuttu Ivarkaḷ kūccan ti<unclear>rttu</unclear>-t tiru-v-eḻuttu-c cāttiṉa 
+                    tiru-mukamum kuṭuttu-c ceṭṭi-puṇai-<unclear>pa</unclear>ṭṭu Amaittu viṭṭa
+                    
+                    Iṭattu tiru-mukamu<supplied reason="subaudible">m</supplied> maṟuttu Eṅkaḷ nāyaṉ-māṟku
+                    
+                    <lb n="6" break="no"/>m Eṅkaḷukkum pakai-t<choice><orig>e</orig><reg>ē</reg></choice>ṭi veṟuppāṉa-pēruṭaṉē kūṭi Eṅkaḷukku-p pakai-y-āka y-iṉālum
+                    Ivarkaḷ piriti-kaṅkar va<unclear>ḻiyi</unclear>l Uḷḷa perākaiyālum I-p-periyuṭaiyānum Aracakaṇāyaṉum Ivarkaḷ <unclear>ta</unclear>mpi
+                    Amaṭṭāḻva<supplied reason="omitted">ra</supplied>ṉum Eṅkaḷ nāyaṉ-māṟku Irāca-t-tur<choice><orig>o</orig><reg>ō</reg></choice>kikaḷum nāṭṭu-t-tur<choice><orig>o</orig><reg>ō</reg></choice>kikaḷum-Āy
+                    Ivarkaḷ m<choice><orig>u</orig><reg>ū</reg></choice>varaiyum peṇṭiḻantāṉ kuṭṭattil Oṉṟ' āka-p puṟa-<unclear>k</unclear>-kaṭitt<choice><orig>o</orig><reg>ō</reg></choice>m
+                </p>
+                
+                <p>        
+                    piri<unclear>ti</unclear>-kaṅkar makkaḷ Eṅkaḷ nāyaṉ
+                    <lb n="7" break="no"/>māṟku-p pukunta nam-pirāṭṭiyār vayiṟṟiṟ piṟanta piḷḷaikaḷai Aracuk<unclear>ku</unclear> koḷḷa-k-kaṭavat' alla v-ākavum
+                </p>
+                
+                <p>        
+                    Allāta piḷḷaikaḷ pūrvar-muṟaiyil<choice><orig>e</orig><reg>ē</reg></choice> Irācciyam paṇṇa-k-kaṭavarkaḷ ākavum        
+                </p>
+                
+                <p>
+                    I-m-maṇ<unclear>ṇu</unclear>m malaiyum Uḷḷat' aṉaiyum
+                    
+                    Eṅkaḷ <unclear>ma</unclear>kkaḷ makkaḷ vaḻi-vaḻi I-p-periyuṭaiyāṉaiyum Araca<unclear>kaṇā</unclear>yaṉaiyum Ivarka-ṭampi <unclear>A</unclear>maṭṭāḻvāraiyum Ivarkaḷ makkaḷi<supplied reason="omitted">l</supplied>
+                    <unclear>vaḻi</unclear>-vaḻi Oruttaraiyum I-m-maṇṇila<supplied reason="subaudible">m</supplied> pukuta Oṭṭ<choice><orig>o</orig><reg>ō</reg></choice>m
+                </p>
+                
+                <p>
+                    <lb n="8"/>Ivarkaḷukku Iṭaṅ kuṭuppatuñ ceyy<choice><orig>o</orig><reg>ō</reg></choice>m
+                </p>
+                <p>
+                    Iṭaṅ kuṭuppār<choice><orig>o</orig><reg>ō</reg></choice>ṭu kūṭuvatuñ ceyy<choice><orig>o</orig><reg>ō</reg></choice>m
+                </p>
+                <p>	
+                    Ivarka<supplied reason="omitted">ḷ</supplied> m<choice><orig>u</orig><reg>ū</reg></choice>varum I-m-maṇṇukku Uriyar eṉṟu collu<unclear>ta</unclear>l colluva<unclear>rkku</unclear>
+                    Iṭaṅ kuṭuk<unclear>ka</unclear> c<unclear>e</unclear>yya-kaṭav<choice><orig>o</orig><reg>ō</reg></choice>mum All<choice><orig>o</orig><reg>ō</reg></choice>m
+                </p>
+                
+                <p>
+                    Ivarkaḷukku-k kiḻolai viṭutal Ivarkaḷai-k kā<unclear>t</unclear>tal Ivarka<unclear>ḷ</unclear><gap reason="lost" quantity="2" unit="character"/> caruṭan p<choice><orig>e</orig><reg>ē</reg></choice>cutal ceytār Uṇṭ' ākil Irāca-t-tur<choice><orig>o</orig><reg>ō</reg></choice>kikaḷum-Ākki nāyilum paṉṟi-y-ilum kaṭaiyā<supplied reason="lost">kaku</supplied>-t tanū-k-kakkaṭa
+                    <gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">ā</supplied>kavum
+                </p>
+                
+                <p>        
+                    Ivarkaḷ peṇṭukaḷai m<choice><orig>u</orig><reg>ū</reg></choice>kku mulaiyum Aṟuttu viṭa
+                    <lb n="9" break="no"/>k-kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m ākavum
+                </p>
+                <p>
+                    Ivarkaḷ pakkal <unclear>p</unclear>eṇṭukaḷ p<choice><orig>o</orig><reg>ō</reg></choice>ṉavaḷ kuṭi-y-āka I-p-paṭi <unclear>Āka-c</unclear> ceyya-kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m ākavum
+                </p>
+                <p>
+                    Ivarkaḷ pakkal p<choice><orig>o</orig><reg>ō</reg></choice>ṉa p<choice><orig>e</orig><reg>ē</reg></choice>rai-p pa<unclear>ṇi</unclear>-cey-mak<unclear>kaḷai</unclear>
+                    Iṭṭu-k-koṉṟu pokaṭa-k-kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m ā<unclear>ka</unclear>vum        
+                </p>
+                
+                <p>
+                    I-p-paṭikku nāṅkaḷ Aṉaivarum puṇai Olai-p-pāṭiyu<unclear>m na</unclear>nti-maṅkalamum Uḷḷuppaṭṭa Inta Aṉaittu<unclear>ṅ</unclear><gap reason="lost" quantity="5" unit="character"/>
+                    I-p-paṭi nilaimai-k <gap reason="lost" quantity="3" unit="character"/>ḷ <hi rend="grantha">pra</hi>māṇam Iṭṭ<choice><orig>o</orig><reg>ō</reg></choice>m
+                </p>
+                
+                <p>
+                    <lb n="10"/>I-p-paṭi Aṟṟumaṟavum ceytil<choice><orig>o</orig><reg>ō</reg></choice>m-ākil vallavaraiyaṉ cattiyam taṅkaḷ ammaikku-t tāṉe miṇāḷaṉ Acal-vaṉṉiyar kutiraikku-p pullu-p paṟukki<unclear>ṟa</unclear> pa<unclear>ṟ</unclear>aiyaṟku Eṅkaḷ peṇṭukaḷai-k kuṭutt<choice><orig>o</orig><reg>ō</reg></choice>m-ākil
+                    paṭukka<unclear>ta</unclear> Olai-p-paṭikku-t tappiṉ' āruṇṭ' ākil ceyaṅ-koṇṭanācciy<choice><sic>a</sic><corr>ā</corr></choice>r k<choice><orig>o</orig><reg>ō</reg></choice>yilil cevvāy-k-kiḻamaiyil paṭṭ<unclear>a</unclear>ṭu-paṭṭatu paṭa-k-kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m-āka ceyaṅ-koṇṭa-nācciyār tiri<gap reason="lost" quantity="6" unit="character"/>tam iṭṭu-c ciṅka-nāyaṟṟu Iru-pattu-muṉṟā
+                    
+                    <lb n="11" break="no"/>n tiyati-y-āṉa pañcamiyum <hi rend="grantha">aśva</hi>tiyum peṟṟa cevvāy-k-kiḻamai nāḷ
+                </p>
+                
+                <p>
+                    Āṭu-veṭṭi-p pūta mutai<unclear>t</unclear>tu <unclear>ni</unclear>lai<unclear>m</unclear>ai pa<unclear>ṇṇi</unclear>
+                    I-p-paṭikku-t <unclear>ti</unclear>ru-Iṭavantuṟai nāyaṉār k<choice><orig>o</orig><reg>ō</reg></choice>yililē kallum veṭṭi-k kuṭutt<choice><orig>o</orig><reg>ō</reg></choice>m
+                </p>
+                
+                <p>
+                    I-vv-aṉaiv<choice><orig>o</orig><reg>ō</reg></choice>m I-k-kal veṭṭiṉa-paṭikku-t tappiṉavaṉ keṅkai kumari-y-iṭai-k kurāṟ-pacu-k ku<supplied reason="omitted">t</supplied>tiṉavaṉ pāvaṅ koḷvāṉ I-p-paṭikku
+                </p>
+                <p>
+                    Iv-aṉaittu nāṭṭavarum
+                    paṇikka-k kallu veṭ <gap reason="lost" quantity="7" unit="character"/> yanāṭṭ-ācāriyaṉ-<choice><orig>e</orig><reg>ē</reg></choice>ṉ
+                </p>
+                <p>
+                    Ivai E<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> Eḻuttu <g type="gomutraFinal">.</g>    	
+                </p>	
+                
+            </div>
             
-            <lb n="3"/>pala-caṉatt<choice><orig>o</orig><reg>ō</reg></choice>mum</item>
-    </list>
-    
-    <list>        
-        <item>Aṭivārattu malaiyāḷarum malaiyāḷa-mutalikaḷum mutun<choice><orig>i</orig><reg>ī</reg></choice>r-malaiyāḷarum
-            malaiyaraṇ-mutalikaḷum ceṭṭikaḷum vāṇikarum kaṇakkarum karuma-p-p<choice><orig>e</orig><reg>ē</reg></choice>rum paṉṉāṭṭavarum
-            paṉṉāṭṭu mutalikaḷum poṟko<unclear>ṟṟa-</unclear>kai-k-<unclear>koḷarum Āṇ</unclear>ṭārkaḷum
-            civa-<hi rend="grantha">brāhma</hi>ṇarum maṉṟāṭikaḷum uvaccarum teṉ-karai-nāṭṭu vaṭa-talai-nāṭṭavarum 
-            teṉ-malai-nāṭṭārum Uṭpaṭṭa nāṭṭavarum
-        </item>
-    </list>
-    <list>
-        <item>tella <gap reason="lost" quantity="3" unit="character" precision="low"/>pulava<unclear>ru</unclear>m paṇ
-        
-        <lb n="4" break="no"/>ṇūvārum niyāyattārum paṉṉiraṇṭu paṇi-makkaḷum Uḷḷiṭṭa p<choice><orig>e</orig><reg>ē</reg></choice>rum
-    </item></list>
-        
-    <list>
-        <item>v<choice><orig>e</orig><reg>ē</reg></choice>ṭarum pāṇarum 
-            paṟaiyarum paṟai-mutalikaḷum c<seg rend="check">e</seg>kkiliyarum I<choice><orig>ṟ</orig><reg>r</reg></choice>uḷarum Uḷḷiṭṭa Aṉaittu-c-cātikaḷu<supplied reason="omitted">m</supplied>
-        </item>
-    </list>
-    <p>
-        Antaṇaṉ-talai-y-āka Arippaṉ-kaṭai-y-āka Uḷḷuppaṭṭa Anai<supplied reason="omitted">t</supplied>tu-c-cāti-<unclear>m</unclear>āṟkku te <gap reason="lost" quantity="3" unit="character" precision="low"/> llārum <gap reason="lost" quantity="6" unit="character" precision="low"/> <supplied reason="lost"><hi rend="grantha">pra</hi>mā</supplied><unclear>ṇa</unclear>m 
-        paṇṇiṉa paṭi y-āvatu
-    </p>
-    
-    <p>
-        <list>
-            <item>Eṅka-ṉāyaṉār amaṭṭaṉ karikāla-c-c<choice><orig>o</orig><reg>ō</reg></choice>ḻa Āṭaiyūr-nāṭ-āḻvār tiru-v-irācciyam paṇṇi Eḻuntu Aruḷi <unclear>Iru</unclear>kka</item>
-            <item>Ivar Evi Aruḷiṉa paṭiy<choice><orig>e</orig><reg>ē</reg>
-            </choice> Ivarkaḷ tiru-t-tampi        
-                <lb n="5" break="no"/>yār nāyaṉār naraciṅka-paṉmar ceytu Eḻuntu Aruḷi-y-irukka</item>
+            <div type="apparatus">
+                
+                <listApp>
+                    
+                    <!--<app loc="0">
+                        <lem>...</lem>
+                        <rdg source="bib:SubrahmanyaAiyer1932_01">...</rdg>
+                        <note>...</note>
+                        </app>-->
+                    
+                    <app loc="1">
+                        <lem>teṉ-karai-nāṭu</lem>
+                        <rdg source="bib:SubrahmanyaAiyer1932_01"/>
+                        <note>Probably read <foreign>teṉ-karai-nāṭṭu</foreign>.</note>
+                    </app>	
+                    
+                    <app loc="4">
+                        <lem><gap reason="lost" quantity="3" unit="character" precision="low"/> llārum</lem>
+                        <rdg source="bib:SubrahmanyaAiyer1932_01">...</rdg>
+                        <note>Probably read <foreign>ellārum</foreign>.</note>
+                    </app>
+                    
+                    <app loc="4">
+                        <lem><gap reason="lost" quantity="6" unit="character" precision="low"/> <supplied reason="lost"><hi rend="grantha">pra</hi>mā</supplied><unclear>ṇa</unclear>m</lem>
+                        <rdg source="bib:SubrahmanyaAiyer1932_01"><gap reason="lost" quantity="8" unit="character" precision="low"/> <unclear>ṇa</unclear>m</rdg>
+                    </app>
+                    
+                </listApp>	
+                
+            </div>
             
-            <item>nāyaṉār naraciṅka-paṉmar makaṉ periyuṭaiyāṉum Ivaṉ tampi Ara<unclear>caka</unclear>ṇāyaṉum karuppu-k-kaṭṭi-nāyakka<unclear>r-uṭa</unclear>ṉ<choice><orig>e</orig><reg>ē</reg></choice>
-                kūṭi Eṅkaḷ nāyaṉ<unclear>māṟ</unclear>kum Eṅkalukku<unclear>m</unclear> pakai-t<choice><orig>e</orig><reg>ē</reg></choice>ṭi-k kiḻaṟṟu-p-p<choice><orig>o</orig><reg>ō</reg></choice>y-Irukka</item>
-        </list> 
-    
-        Ivarkaḷ ceyta piḻaiyum poṟuttu Ivarkaḷ kūccan ti<unclear>rttu</unclear>-t tiru-v-eḻuttu-c cāttiṉa 
-        tiru-mukamum kuṭuttu-c ceṭṭi-puṇai-<unclear>pa</unclear>ṭṭu Amaittu viṭṭa
-    
-        Iṭattu tiru-mukamu<supplied reason="subaudible">m</supplied> maṟuttu Eṅkaḷ nāyaṉ-māṟku
-        
-        <lb n="6" break="no"/>m Eṅkaḷukkum pakai-t<choice><orig>e</orig><reg>ē</reg></choice>ṭi veṟuppāṉa-pēruṭaṉē kūṭi Eṅkaḷukku-p pakai-y-āka y-iṉālum
-        Ivarkaḷ piriti-kaṅkar va<unclear>ḻiyi</unclear>l Uḷḷa perākaiyālum I-p-periyuṭaiyānum Aracakaṇāyaṉum Ivarkaḷ <unclear>ta</unclear>mpi
-        Amaṭṭāḻva<supplied reason="omitted">ra</supplied>ṉum Eṅkaḷ nāyaṉ-māṟku Irāca-t-tur<choice><orig>o</orig><reg>ō</reg></choice>kikaḷum nāṭṭu-t-tur<choice><orig>o</orig><reg>ō</reg></choice>kikaḷum-Āy
-        Ivarkaḷ m<choice><orig>u</orig><reg>ū</reg></choice>varaiyum peṇṭiḻantāṉ kuṭṭattil Oṉṟ' āka-p puṟa-<unclear>k</unclear>-kaṭitt<choice><orig>o</orig><reg>ō</reg></choice>m
-    </p>
-    
-    <p>        
-        piri<unclear>ti</unclear>-kaṅkar makkaḷ Eṅkaḷ nāyaṉ
-                <lb n="7" break="no"/>māṟku-p pukunta nam-pirāṭṭiyār vayiṟṟiṟ piṟanta piḷḷaikaḷai Aracuk<unclear>ku</unclear> koḷḷa-k-kaṭavat' alla v-ākavum
-    </p>
-    
-    <p>        
-        Allāta piḷḷaikaḷ pūrvar-muṟaiyil<choice><orig>e</orig><reg>ē</reg></choice> Irācciyam paṇṇa-k-kaṭavarkaḷ ākavum        
-    </p>
-    
-    <p>
-        I-m-maṇ<unclear>ṇu</unclear>m malaiyum Uḷḷat' aṉaiyum
-    
-        Eṅkaḷ <unclear>ma</unclear>kkaḷ makkaḷ vaḻi-vaḻi I-p-periyuṭaiyāṉaiyum Araca<unclear>kaṇā</unclear>yaṉaiyum Ivarka-ṭampi <unclear>A</unclear>maṭṭāḻvāraiyum Ivarkaḷ makkaḷi<supplied reason="omitted">l</supplied>
-        <unclear>vaḻi</unclear>-vaḻi Oruttaraiyum I-m-maṇṇila<supplied reason="subaudible">m</supplied> pukuta Oṭṭ<choice><orig>o</orig><reg>ō</reg></choice>m
-    </p>
-    
-    <p>
-        <lb n="8"/>Ivarkaḷukku Iṭaṅ kuṭuppatuñ ceyy<choice><orig>o</orig><reg>ō</reg></choice>m
-    </p>
-    <p>
-        Iṭaṅ kuṭuppār<choice><orig>o</orig><reg>ō</reg></choice>ṭu kūṭuvatuñ ceyy<choice><orig>o</orig><reg>ō</reg></choice>m
-    </p>
-    <p>	
-        Ivarka<supplied reason="omitted">ḷ</supplied> m<choice><orig>u</orig><reg>ū</reg></choice>varum I-m-maṇṇukku Uriyar eṉṟu collu<unclear>ta</unclear>l colluva<unclear>rkku</unclear>
-        Iṭaṅ kuṭuk<unclear>ka</unclear> c<unclear>e</unclear>yya-kaṭav<choice><orig>o</orig><reg>ō</reg></choice>mum All<choice><orig>o</orig><reg>ō</reg></choice>m
-    </p>
-    
-    <p>
-            Ivarkaḷukku-k kiḻolai viṭutal Ivarkaḷai-k kā<unclear>t</unclear>tal Ivarka<unclear>ḷ</unclear><gap reason="lost" quantity="2" unit="character"/> caruṭan p<choice><orig>e</orig><reg>ē</reg></choice>cutal ceytār Uṇṭ' ākil Irāca-t-tur<choice><orig>o</orig><reg>ō</reg></choice>kikaḷum-Ākki nāyilum paṉṟi-y-ilum kaṭaiyā<supplied reason="lost">kaku</supplied>-t tanū-k-kakkaṭa
-        <gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">ā</supplied>kavum
-    </p>
-    
-    <p>        
-        Ivarkaḷ peṇṭukaḷai m<choice><orig>u</orig><reg>ū</reg></choice>kku mulaiyum Aṟuttu viṭa
-        <lb n="9" break="no"/>k-kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m ākavum
-    </p>
-    <p>
-        Ivarkaḷ pakkal <unclear>p</unclear>eṇṭukaḷ p<choice><orig>o</orig><reg>ō</reg></choice>ṉavaḷ kuṭi-y-āka I-p-paṭi <unclear>Āka-c</unclear> ceyya-kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m ākavum
-    </p>
-    <p>
-        Ivarkaḷ pakkal p<choice><orig>o</orig><reg>ō</reg></choice>ṉa p<choice><orig>e</orig><reg>ē</reg></choice>rai-p pa<unclear>ṇi</unclear>-cey-mak<unclear>kaḷai</unclear>
-        Iṭṭu-k-koṉṟu pokaṭa-k-kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m ā<unclear>ka</unclear>vum        
-    </p>
-    
-    <p>
-        I-p-paṭikku nāṅkaḷ Aṉaivarum puṇai Olai-p-pāṭiyu<unclear>m na</unclear>nti-maṅkalamum Uḷḷuppaṭṭa Inta Aṉaittu<unclear>ṅ</unclear><gap reason="lost" quantity="5" unit="character"/>
-    	I-p-paṭi nilaimai-k <gap reason="lost" quantity="3" unit="character"/>ḷ <hi rend="grantha">pra</hi>māṇam Iṭṭ<choice><orig>o</orig><reg>ō</reg></choice>m
-	</p>
-	
-	<p>
-    	<lb n="10"/>I-p-paṭi Aṟṟumaṟavum ceytil<choice><orig>o</orig><reg>ō</reg></choice>m-ākil vallavaraiyaṉ cattiyam taṅkaḷ ammaikku-t tāṉe miṇāḷaṉ Acal-vaṉṉiyar kutiraikku-p pullu-p paṟukki<unclear>ṟa</unclear> pa<unclear>ṟ</unclear>aiyaṟku Eṅkaḷ peṇṭukaḷai-k kuṭutt<choice><orig>o</orig><reg>ō</reg></choice>m-ākil
-    	paṭukka<unclear>ta</unclear> Olai-p-paṭikku-t tappiṉ' āruṇṭ' ākil ceyaṅ-koṇṭanācciy<choice><sic>a</sic><corr>ā</corr></choice>r k<choice><orig>o</orig><reg>ō</reg></choice>yilil cevvāy-k-kiḻamaiyil paṭṭ<unclear>a</unclear>ṭu-paṭṭatu paṭa-k-kaṭav<choice><orig>o</orig><reg>ō</reg></choice>m-āka ceyaṅ-koṇṭa-nācciyār tiri<gap reason="lost" quantity="6" unit="character"/>tam iṭṭu-c ciṅka-nāyaṟṟu Iru-pattu-muṉṟā
-    	
-    	<lb n="11" break="no"/>n tiyati-y-āṉa pañcamiyum <hi rend="grantha">aśva</hi>tiyum peṟṟa cevvāy-k-kiḻamai nāḷ
-	</p>
-    
-	<p>
-		Āṭu-veṭṭi-p pūta mutai<unclear>t</unclear>tu <unclear>ni</unclear>lai<unclear>m</unclear>ai pa<unclear>ṇṇi</unclear>
-    	I-p-paṭikku-t <unclear>ti</unclear>ru-Iṭavantuṟai nāyaṉār k<choice><orig>o</orig><reg>ō</reg></choice>yililē kallum veṭṭi-k kuṭutt<choice><orig>o</orig><reg>ō</reg></choice>m
-	</p>
-    
-	<p>
-		I-vv-aṉaiv<choice><orig>o</orig><reg>ō</reg></choice>m I-k-kal veṭṭiṉa-paṭikku-t tappiṉavaṉ keṅkai kumari-y-iṭai-k kurāṟ-pacu-k ku<supplied reason="omitted">t</supplied>tiṉavaṉ pāvaṅ koḷvāṉ I-p-paṭikku
-	</p>
-    <p>
-        Iv-aṉaittu nāṭṭavarum
-        paṇikka-k kallu veṭ <gap reason="lost" quantity="7" unit="character"/> yanāṭṭ-ācāriyaṉ-<choice><orig>e</orig><reg>ē</reg></choice>ṉ
-    </p>
-    <p>
-        Ivai E<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> Eḻuttu <g type="gomutraFinal">.</g>    	
-    </p>	
-		
-</div>
-			
-<div type="apparatus">
-	
-    <listApp>
-        
-        <!--<app loc="0">
-            <lem>...</lem>
-            <rdg source="bib:SubrahmanyaAiyer1932_01">...</rdg>
-            <note>...</note>
-        </app>-->
-        
-        <app loc="1">
-            <lem>teṉ-karai-nāṭu</lem>
-            <rdg source="bib:SubrahmanyaAiyer1932_01"/>
-            <note>Probably read <foreign>teṉ-karai-nāṭṭu</foreign>.</note>
-        </app>	
-        
-        <app loc="4">
-            <lem><gap reason="lost" quantity="3" unit="character" precision="low"/> llārum</lem>
-            <rdg source="bib:SubrahmanyaAiyer1932_01">...</rdg>
-            <note>Probably read <foreign>ellārum</foreign>.</note>
-        </app>
-        
-         <app loc="4">
-            <lem><gap reason="lost" quantity="6" unit="character" precision="low"/> <supplied reason="lost"><hi rend="grantha">pra</hi>mā</supplied><unclear>ṇa</unclear>m</lem>
-            <rdg source="bib:SubrahmanyaAiyer1932_01"><gap reason="lost" quantity="8" unit="character" precision="low"/> <unclear>ṇa</unclear>m</rdg>
-        </app>
-        
-    </listApp>	
-	
-</div>
-			
-<div type="translation" resp="part:doop">
-								
-    <p n="1">
-        Prosperity! Fortune!		
-    </p>
-    
-    <p n="1">
-        On the day of Revati which coincides <supplied reason="explanation"><foreign>peṟṟa</foreign></supplied> with the third day of the dark fortnight of Āvaṇi month, in <foreign>Śaka</foreign> year 1180.	
-    </p>
-    
-    <p n="1-4">
-        This is the way <gap reason="lost"/> have done the <supplied reason="subaudible">following</supplied> decision <supplied reason="explanation"><foreign>piramāṇam</foreign><note>Sanskrit <foreign>pramāṇa</foreign>.</note></supplied> <gap reason="lost"/> for all the <foreign>jāti</foreign>s <supplied reason="explanation">anaittu-c cāti-māṟkku</supplied>, including those who are the highest of the Brahmins and those who belong to the lowest classes:
-        
-    <list>
-        <item>we, the many village assemblies <supplied reason="explanation">palacanottōmum</supplied> which comprise the district representatives, administrators <supplied reason="explanation">nāṭṭu-nāyakañ ceyvārkaḷum</supplied>, officals <supplied reason="explanation">maṉṟāṭuvārkaḷum</supplied>, leaders of Piḷḷai caste, eremits <supplied reason="explanation">taṉiyāṭkaḷum</supplied>, military commanders, leaders of secluded people <supplied reason="explanation">taṉiyāḷ mutalikaḷum</supplied>, merchenary soldiers <supplied reason="explanation">kūliccēvakarum</supplied>, and people of other castes <supplied reason="explanation">konta-vi-c-cātirarum</supplied> belonging to these two Karai-<foreign>nāṭu</foreign>s, that are  the districts, hills and foothills to the west of Eliyūr in Āṭaiyūrnāṭu and the districts to the west of Nallur, also called Muvarai, along with the territories that include the districts and foothills to the east of Ciṟṟiṅkai in Teṉkaraināṭu; the district representatives and administrators in Teṉpaṟṟu, in Navira hills; and the district representatives and administrators of the country on the northen hills;
-        </item>
-    </list>
-    
-    <list>
-        <item>the district representatives, who include: the Malaiyārs and their chiefs on Aṭivāram <supplied reason="subaudible">mountains</supplied>, the Mutunīrmalaiyārs and their chiefs, along with the Ceṭṭis, the merchants, accountants, artisans, inhabitants and chiefs of Paṉṉāṭu, the goldsmiths, the devotees, the <foreign>Śiva Brāhmaṇa</foreign>s, the officials, and the temple drummers; and the district representatives, who include the chiefs of Vaṭatalai, in Teṉkaraināṭu, and the chiefs of Teṉmalai;
-        </item>
-    </list>
-    
-    <list>
-        <item>
-          the people, who include: <gap reason="lost"/>, poets, musicians, judges, and people doing the twelve professions <supplied reason="explanation">paṉṉiraṇṭu paṇi-makkaḷum;</supplied>
-        </item>
-    </list>
-   
-    <list>
-        <item>
-            all the castes <supplied reason="explanation">aṉaittuccātikaḷum</supplied> including hunters, bards, drummers, the chiefs of drummers’ caste <supplied reason="explanation">paṟai-mutalikaḷ</supplied>, shoemaker castes, and the Iṟuḷa tribes.
-        </item>
-    </list>
-    </p>
-    
-    <p n="4-6">
-        <list>
-            <item>Whereas our lord, Amaṭṭaṉ Karikālaccōḻa Āṭaiyūrnāṭāḻvār has come having established a glorious reign,</item>
-            <item>whereas the lord Naraciṅkapaṉmar,<note>Sanskrit Narasiṃhavarman.</note> his glorious younger brother, has come, acting according to his orders,</item>
-            <item>whereas Periyuṭaiyāṉ, the son of  the lord Naraciṅkapaṉmar, and Ara(caka)ṇāyaṉ, his younger brother, allied with Karuppukkaṭṭi Nāyakkar and became traitors, having opposed to our lord and to us,</item>
-        </list>
-        
-        <gap reason="ellipsis"/>We expell <supplied reason="explanation">puṟakkaṭittōm</supplied> the three of them, these Periyuṭaiyān, Aracakaṇāyaṉ and their younger brother Amaṭṭāḻvaraṉ, all together with their wives and progeny <supplied reason="explanation">peṇṭiḻantāṉkuṭṭattil</supplied> as traitors to our king and traitors to our country.
-    </p>
-    
-    <p n="6-8">
-          <gap reason="ellipsis"/>
-        We agreed <supplied reason="explanation">oṭṭōm</supplied> that our people from generation to generation shall replace these Periyuṭaiyāṉ, Aracakaṇāyaṉ, their younger brother Amaṭṭāḻvār and their progeny from generation to generation <supplied reason="subaudible">in ruling</supplied> these lands, hills and all that is between.
-       
-        <list>
-            <item>We will give them a place <supplied reason="subaudible">where to reside</supplied>.</item>
-            <item> We will assemble them together with those who gave them hospitality.</item>
-            <item>We shall not give hospitality to those who say (colluvarku) that these three are the heirs (uriyar) to these lands</item>
-        </list>
-    </p>
-     
-    <p n="8-11">
-        <list><item>so that...</item></list>
-        <list><item>so that...</item></list>
-        <list><item>so that...</item></list>
-        <list><item>so that...</item></list>
-        For this reason, we, this whole <supplied reason="subaudible">assembly</supplied>..., have issued this document as per our position.
-     </p>
-         
-    <p n="11">
-        Whereas the <foreign>nāṭṭavar</foreign>s ordered so, I, [...]yanāṭṭ-ācāriyaṉ ...
-    </p>
-    
-    <p n="11">
-        The one who transgress this stone inscription will incur the sin of killing a cow on the banks of the river Ganges.This are my writings.
-    </p>
-    
-</div>
-	
-<!--<div type="commentary">		
-	
-</div>-->
-    	
-<div type="bibliography">
-	
-    <p>Reported in <bibl><ptr target="bib:ARIE1899-1900"/></bibl> (ARIE/1899-1900/B/1900/106). Summary in <bibl><ptr target="bib:Mahalingam1985_01"/></bibl> (NA/728).</p>
-    <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.118).</p>
-    <p>This digital edition by Emmanuel Francis and Dorotea Operato, based on <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl>.</p>
-    
-    <listBibl type="primary">
-        
-        <bibl n="SII">
-            <ptr target="bib:SubrahmanyaAiyer1932_01"/>
-            <citedRange unit="page">49-50</citedRange>
-            <citedRange unit="item">118</citedRange>
-        </bibl>
-    </listBibl>
-    
-    <listBibl type="secondary">
-        
-        <bibl>
-            <ptr target="bib:ARIE1899-1900"/>
-            <citedRange unit="page">54</citedRange>
-            <citedRange unit="appendix">B/1900</citedRange>
-            <citedRange unit="item">106</citedRange>
-        </bibl>
-        
-        <bibl>
-            <ptr target="bib:Mahalingam1985_01"/>
-            <citedRange unit="page">176-177</citedRange>
-            <citedRange unit="item">NA-728</citedRange>
-        </bibl>
-        
-    </listBibl>
-    
-</div>
+            <div type="translation" resp="part:doop">
+                
+                <p n="1">
+                    Prosperity! Fortune!		
+                </p>
+                
+                <p n="1">
+                    On the day of Revati which coincides <supplied reason="explanation"><foreign>peṟṟa</foreign></supplied> with the third day of the dark fortnight of Āvaṇi month, in <foreign>Śaka</foreign> year 1180.	
+                </p>
+                
+                <p n="1-4">
+                    This is the way <gap reason="lost"/> have done the <supplied reason="subaudible">following</supplied> decision <supplied reason="explanation"><foreign>piramāṇam</foreign><note>Sanskrit <foreign>pramāṇa</foreign>.</note></supplied> <gap reason="lost"/> for all the <foreign>jāti</foreign>s <supplied reason="explanation">anaittu-c cāti-māṟkku</supplied>, including those who are the highest of the Brahmins and those who belong to the lowest classes:
+                    
+                    <list>
+                        <item>we, the many village assemblies <supplied reason="explanation">palacanottōmum</supplied> which comprise the district representatives, administrators <supplied reason="explanation">nāṭṭu-nāyakañ ceyvārkaḷum</supplied>, officals <supplied reason="explanation">maṉṟāṭuvārkaḷum</supplied>, leaders of Piḷḷai caste, eremits <supplied reason="explanation">taṉiyāṭkaḷum</supplied>, military commanders, leaders of secluded people <supplied reason="explanation">taṉiyāḷ mutalikaḷum</supplied>, merchenary soldiers <supplied reason="explanation">kūliccēvakarum</supplied>, and people of other castes <supplied reason="explanation">konta-vi-c-cātirarum</supplied> belonging to these two Karai-<foreign>nāṭu</foreign>s, that are  the districts, hills and foothills to the west of Eliyūr in Āṭaiyūrnāṭu and the districts to the west of Nallur, also called Muvarai, along with the territories that include the districts and foothills to the east of Ciṟṟiṅkai in Teṉkaraināṭu; the district representatives and administrators in Teṉpaṟṟu, in Navira hills; and the district representatives and administrators of the country on the northen hills;
+                        </item>
+                    </list>
+                    
+                    <list>
+                        <item>the district representatives, who include: the Malaiyārs and their chiefs on Aṭivāram <supplied reason="subaudible">mountains</supplied>, the Mutunīrmalaiyārs and their chiefs, along with the Ceṭṭis, the merchants, accountants, artisans, inhabitants and chiefs of Paṉṉāṭu, the goldsmiths, the devotees, the <foreign>Śiva Brāhmaṇa</foreign>s, the officials, and the temple drummers; and the district representatives, who include the chiefs of Vaṭatalai, in Teṉkaraināṭu, and the chiefs of Teṉmalai;
+                        </item>
+                    </list>
+                    
+                    <list>
+                        <item>
+                            the people, who include: <gap reason="lost"/>, poets, musicians, judges, and people doing the twelve professions <supplied reason="explanation">paṉṉiraṇṭu paṇi-makkaḷum;</supplied>
+                        </item>
+                    </list>
+                    
+                    <list>
+                        <item>
+                            all the castes <supplied reason="explanation">aṉaittuccātikaḷum</supplied> including hunters, bards, drummers, the chiefs of drummers’ caste <supplied reason="explanation">paṟai-mutalikaḷ</supplied>, shoemaker castes, and the Iṟuḷa tribes.
+                        </item>
+                    </list>
+                </p>
+                
+                <p n="4-6">
+                    <list>
+                        <item>Whereas our lord, Amaṭṭaṉ Karikālaccōḻa Āṭaiyūrnāṭāḻvār has come having established a glorious reign,</item>
+                        <item>whereas the lord Naraciṅkapaṉmar,<note>Sanskrit Narasiṃhavarman.</note> his glorious younger brother, has come, acting according to his orders,</item>
+                        <item>whereas Periyuṭaiyāṉ, the son of  the lord Naraciṅkapaṉmar, and Ara(caka)ṇāyaṉ, his younger brother, allied with Karuppukkaṭṭi Nāyakkar and became traitors, having opposed to our lord and to us,</item>
+                    </list>
+                    
+                    <gap reason="ellipsis"/>We expell <supplied reason="explanation">puṟakkaṭittōm</supplied> the three of them, these Periyuṭaiyān, Aracakaṇāyaṉ and their younger brother Amaṭṭāḻvaraṉ, all together with their wives and progeny <supplied reason="explanation">peṇṭiḻantāṉkuṭṭattil</supplied> as traitors to our king and traitors to our country.
+                </p>
+                
+                <p n="6-8">
+                    <gap reason="ellipsis"/>
+                    We agreed <supplied reason="explanation">oṭṭōm</supplied> that our people from generation to generation shall replace these Periyuṭaiyāṉ, Aracakaṇāyaṉ, their younger brother Amaṭṭāḻvār and their progeny from generation to generation <supplied reason="subaudible">in ruling</supplied> these lands, hills and all that is between.
+                    
+                    <list>
+                        <item>We will give them a place <supplied reason="subaudible">where to reside</supplied>.</item>
+                        <item> We will assemble them together with those who gave them hospitality.</item>
+                        <item>We shall not give hospitality to those who say (colluvarku) that these three are the heirs (uriyar) to these lands</item>
+                    </list>
+                </p>
+                
+                <p n="8-11">
+                    <list><item>so that...</item></list>
+                    <list><item>so that...</item></list>
+                    <list><item>so that...</item></list>
+                    <list><item>so that...</item></list>
+                    For this reason, we, this whole <supplied reason="subaudible">assembly</supplied>..., have issued this document as per our position.
+                </p>
+                
+                <p n="11">
+                    Whereas the <foreign>nāṭṭavar</foreign>s ordered so, I, [...]yanāṭṭ-ācāriyaṉ ...
+                </p>
+                
+                <p n="11">
+                    The one who transgress this stone inscription will incur the sin of killing a cow on the banks of the river Ganges.This are my writings.
+                </p>
+                
+            </div>
+            
+            <!--<div type="commentary">		
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1899-1900"/></bibl> (ARIE/1899-1900/B/1900/106). Summary in <bibl><ptr target="bib:Mahalingam1985_01"/></bibl> (NA/728).</p>
+                <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.118).</p>
+                <p>This digital edition by Emmanuel Francis and Dorotea Operato, based on <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl>.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:SubrahmanyaAiyer1932_01"/>
+                        <citedRange unit="page">49-50</citedRange>
+                        <citedRange unit="item">118</citedRange>
+                    </bibl>
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1899-1900"/>
+                        <citedRange unit="page">54</citedRange>
+                        <citedRange unit="appendix">B/1900</citedRange>
+                        <citedRange unit="item">106</citedRange>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:Mahalingam1985_01"/>
+                        <citedRange unit="page">176-177</citedRange>
+                        <citedRange unit="item">NA-728</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
         </body>
     </text>
 </TEI>
