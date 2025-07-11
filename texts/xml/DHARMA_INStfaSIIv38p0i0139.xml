@@ -5,333 +5,333 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Tiruvōṟṟiyūr, Ādhipurīśvara, time of Rājendra Cōḻa, year 29</title>
-			    <respStmt>
-			        <resp>author of digital edition</resp>
-			        <persName ref="part:reda">
-			            <forename>Renato</forename>
-			            <surname>Dávalos</surname>
-			        </persName>
-			        <persName ref="part:matr">
-			            <forename>Margherita</forename>
-			            <surname>Trento</surname>
-			        </persName>
-			        <persName ref="part:vija">
-			            <forename>G.</forename>
-			            <surname>Vijayavenugopal</surname>
-			        </persName>
-			    </respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INStfaSIIv38p0i0139</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-					    <summary/>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p/>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union’s Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EgDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-						<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:reda" when="2025-03-27" status="draft">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-	<body>
-		
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-	             	
-	<ab> 
-    	<lb n="1"/><supplied reason="lost"><hi rend="grantha">svasti śrī</hi></supplied></ab>
-	
-	<p>
-		<lg n="1" met="āciriyappā"> 
-			<l n="1">tirumaṉ<choice><orig>n</orig><reg>ṉ</reg></choice>vaḷara Irunila maṭan=taiyum</l>
-			<l n="2">pōrcc<choice><sic>a</sic><corr>e</corr></choice>ya-p pāvaiyum c<choice><sic>i</sic><corr>ī</corr></choice>rttanic ce<supplied reason="lost">lviyum</supplied></l>
-			<l n="3"><lb n="2"/><supplied reason="lost">taṉ</supplied> perun=t<choice><sic>a</sic><corr>ē</corr></choice>viyar <supplied reason="lost">āki iṉpu</supplied>ṟa</l>
-			<l n="4"> neṭ<choice><sic>u</sic><corr>i</corr></choice>t<choice><sic>u</sic><corr>i</corr></choice>y<choice><sic>i</sic><corr>a</corr></choice>l<choice><sic>u</sic><corr>ū</corr></choice>ḻiyu<choice><sic>l</sic><corr>ḷ</corr></choice> Iṭ<choice><sic>ai</sic><corr>a</corr></choice>tuṟai nāṭu<supplied reason="omitted">m</supplied></l>
-			<l n="5">tuṭarvaṉa vēli paṭarvaṉa <lb n="3"/><supplied reason="lost">vā</supplied>ciyuñ</l>
-			<l n="6">cuḷḷi-c cūḻmati<choice><sic>ṭ</sic><corr>l</corr></choice> koḷḷi <supplied reason="lost">pākkaiyu</supplied><supplied reason="subaudible">m</supplied></l>
-			<l n="7">naṇṇaṟa karumuraṇ maṇṇai-k kaṭa<supplied reason="omitted">kka</supplied>mu<supplied reason="lost">m</supplied></l>
-			<l n="8"><lb n="4"/>poru<supplied reason="lost">kaṭal <choice><sic>i</sic><corr>ī</corr></choice></supplied>ḻatt' ar<choice><orig>ai</orig><reg>a</reg></choice>cartam <supplied reason="subaudible">m</supplied>uṭiyum</l>
-			<l n="9">Āṅkavaṉ ṟēviyar oṅkeḻil muṭiyum</l>
-			<l n="10">muṉṉavar pakka<supplied reason="lost">l</supplied> <lb n="5"/>teṉṉavaṉ vaitta</l>
-			<l n="11">cun=tara muṭiyum <supplied reason="lost">Intiraṉ āramu</supplied><supplied reason="subaudible">m</supplied></l>
-			<l n="12"><supplied reason="lost">teṇṭi<choice><sic>c</sic><corr>r</corr></choice>ai y-<choice><sic>i</sic><corr>ī</corr></choice>ḻa-ma</supplied>ṇṭala<supplied reason="subaudible">m</supplied> muḻuvatum</l>
-			<l n="13"><supplied reason="lost">Eṟipa</supplied> <lb n="6" break="no"/>⌈ṭ<supplied reason="lost">ai</supplied>-k kēraḷaṉ muṟaimaiyiṟ cūṭuṅ</l>
-			<l n="14">kulataṉam ākiya palarpukaḻ muṭiyuñ</l>
-			<l n="15">ceṅkatir mālaiyuñ c<choice><sic>a</sic><corr>e</corr></choice>ṅ<lb n="7" break="no"/>katir vēlai-t</l>
-			<l n="16">tol peruṅkāval palpaḻan=t<choice><sic>i</sic><corr>ī</corr></choice>vum</l>
-			<l n="17">ceruviṟ ciṉavil irupattoru kāl</l>
-			<l n="18"><surplus>av</surplus>araicu <lb n="8"/>kaḷaikaṭ<supplied reason="omitted">ṭa</supplied> paracurāmaṉ</l>
-			<l n="19">mēvaruñ cān=timan t<choice><sic>i</sic><corr>ī</corr></choice>varaṇ karuti</l>
-			<l n="20">Iruttiya cempoṟ ṟiruttaku muṭiyum </l>
-			<l n="21">payaṅ<lb n="9" break="no"/>⌈koṭu paḻimika muyaṅkiyil mutukiṭṭ'</l>
-			<l n="22">oḷitta cayaciṅkaṉ Aḷapperum pukaḻoṭum</l>
-			<l n="23">p<choice><sic>i</sic><corr>ī</corr></choice>ṭi<supplied reason="omitted">yal</supplied> Ira<lb n="10" break="no"/>ṭṭa pāṭi Ē<supplied reason="omitted">ḻa</supplied>rai</l>
-			<l n="24">y-ilakkamum navaniti-k kulapperu malai<supplied reason="omitted">ka</supplied>ḷum</l>
-			<l n="25">vikkirama virar cakkara-<supplied reason="omitted">k</supplied> koṭṭamum</l>
-			<l n="26">mutir <choice><sic>v</sic><corr>p</corr></choice>aṭa val<lb n="11" break="no"/>lai matura-maṇṭalamum</l>
-			<l n="27">kāmiṭai vaḷa<choice><sic>r</sic><corr>iya</corr></choice> nāmaṇaik kō<supplied reason="lost">ṇamum</supplied></l>
-			<l n="28">veñci<choice><orig>na</orig><reg>lai</reg></choice>  v<choice><sic>i</sic><corr>ī</corr></choice>rar pañca-p paḷḷiyum</l>
-			<l n="29">pācaṭai <lb n="12" break="no"/><supplied reason="lost">-p pa</supplied>ḻana mācuṇi-<supplied reason="omitted">t</supplied> tēcamum</l>
-			<l n="30">ayarvil<surplus>v</surplus>aṇ k<choice><sic>i</sic><corr>ī</corr></choice>rtti yātinaka ravaiyiṟ</l>
-			<l n="31">can=tira<choice><orig>n</orig><reg>ṉ</reg></choice> ṟolkulat tin=tira ra<choice><orig>caḻai</orig><reg>taṉai</reg></choice></l>
-			<l n="32">viḷiyama<lb n="13" break="no"/>r-k kaḷattu-k kiḷaiyoṭum piṭittu-p</l>
-			<l n="33">palata<choice><orig>n</orig><reg>ṉ</reg></choice>a-t toṭuniṟai kulata<choice><orig>n</orig><reg>ṉ</reg></choice>a-k kuvaiyuṅ</l>
-			<l n="34">kiṭṭaruñ ceṟimiḷai y-oṭ<supplied reason="lost">ṭa</supplied> <lb n="14"/>vi<hi rend="grantha"><supplied reason="omitted">k</supplied>ṣ</hi>ayamum</l>
-			<l n="35">pūcurar cēranal-k kōcal<choice><orig>ai</orig><reg>a</reg></choice> nāṭun=</l>
-			<l n="36">ta pālaṉai vemmuṉai y-aḻittu</l>
-			<l n="37">vaṇ<choice><orig>ṭuṟai</orig><reg>ṭamar</reg></choice> cōlai-t taṇṭa <lb n="15"/> puttiyum</l>
-			<l n="38">iraṇa cūraṇai muraṇu<supplied reason="lost">ṟa</supplied>t tākkit</l>
-			<l n="39">tikka<choice><sic>ṉ</sic><corr>ṇ</corr></choice>ai k<choice><sic>i</sic><corr>ī</corr></choice>rtti-t ta<supplied reason="lost">k</supplied>kaṇa lāṭamuṅ</l>
-			<l n="40">kōvin=ta can=ta<choice><orig>n</orig><reg>ṉ</reg></choice> māviḻin=tōṭa-t</l>
-			<l n="41">ta<lb n="16" break="no"/>ṅkāta cāral vaṅkāḷa tēcamun=</l>
-			<l n="42">toṭukaṭaṟ caṅk<choice><orig>a</orig><reg>u</reg></choice> <choice><orig>voṭṭal</orig><reg>koṭṭaṉ</reg></choice> ma<choice><orig><hi rend="grantha">hi</hi></orig><reg>ki</reg></choice>-pālaṉai</l>
-			<l n="43">veñcamar viḷākatt' añcuvi-t taru<supplied reason="lost">ḷi</supplied></l>
-			<l n="44"><lb n="17"/>oṇṭiṟal yāṉaiyum peṇṭirpaṇ ṭāramum</l>
-			<l n="45">nittala<surplus>r</surplus> neṭuṅkaṭal uttira lāṭamum</l>
-			<l n="46">ve<choice><sic>ḷ</sic><corr>ṟ</corr></choice>imalar t<choice><sic>a</sic><corr>īr</corr></choice>tta-t eṟipu<choice><orig>n</orig><reg>ṉ</reg></choice>al <lb n="18"/>kaṅkaiyum</l>
-			<l n="47">alaikaṭal naṭuvuḷ palakalañ celutti-c</l>
-			<l n="48">caṅkirāma vicayō-t tuṅka <hi rend="grantha">vanma</hi><choice><orig>n</orig><reg>ṉ</reg></choice></l>
-			<l n="49">ākiya kaṭāratt' ar<choice><orig>ai</orig><reg>a</reg></choice>caṉai <lb n="19" break="no"/>vāk<choice><orig>ai</orig><reg>a</reg></choice>yam</l>
-			<l n="50">porukaṭal kumpa-k kariyoṭum akappaṭum  <surplus>akappaṭum kaṭappat'</surplus></l>
-			<l n="51">urimaiyil piṟakkiya perun<choice><orig>e</orig><reg>i</reg></choice>ti-p piṟakkamu<lb n="20" break="no"/>m</l>
-			<l n="52">ārttava<choice><orig>n a</orig><reg>ṉ a</reg></choice><supplied reason="lost">ka</supplied> nakara pōr-t toḻil vācalil</l>
-			<l n="53">viccātira toraṇamum m<choice><orig>o</orig><reg>u</reg></choice>ttoḷi<supplied reason="omitted">r</supplied></l>
-			<l n="54">pu<choice><orig>n</orig><reg>ṉ</reg></choice>a maṇi-p putava<lb n="21" break="no"/>muṅ ka<choice><orig>n</orig><reg>ṉ</reg></choice>amaṇi-k katavam<supplied reason="omitted">um</supplied></l>
-			<l n="55">niṟai-<choice><orig><hi rend="grantha">jī</hi></orig><reg>cī</reg></choice><supplied reason="omitted">r</supplied> vi<choice><orig><hi rend="grantha">ja</hi></orig><reg>ca</reg></choice>yamu<supplied reason="subaudible">m</supplied> tuṟain<choice><sic>i</sic><corr>ī</corr></choice>r-p panṇaiyum</l>
-			<l n="56"><choice><orig>v</orig><reg>n</reg></choice>a<choice><orig>n</orig><reg>ṉ</reg></choice>malai y-<choice><sic>u</sic><corr>ū</corr></choice>r<choice><orig>ai</orig><reg>e</reg></choice>yiṟ <choice><orig>ceran</orig><reg>toṉ</reg></choice> malai y-<choice><sic>u</sic><corr>ū</corr></choice>rum</l>
-			<l n="57">āḻkaṭal aka<lb n="22" break="no"/>ḻ cūḻ māyir<choice><orig>i</orig><reg>u</reg></choice> ṭ<choice><orig>a</orig><reg>i</reg></choice>ṅkamuṅ</l>
-			<l n="58">kalaṅkā valviṉai ilaṅkā <choice><orig>t</orig><reg>c</reg></choice>ō<choice><orig>p</orig><reg>k</reg></choice>amuṅ</l>
-			<l n="59">kāppuṟu niṟaipu<choice><orig>n</orig><reg>ṉ</reg></choice>al māppa pāḷamuṅ</l>
-			<l n="60">
-		 kāval<surplus>am</surplus> <lb n="23"/>puricai mēvili <supplied reason="lost">pa</supplied>ṅkamuṅ</l>
-			<l n="61">viḷaippan= tūṟuṭai vaḷaippan= tūṟun=</l>
-			<l n="62">kalāmutir <supplied reason="lost">ka</supplied>ṭun=tiṟal ilāmuri tēcamun=</l>
-			<l n="63"><choice><sic>ta</sic><corr>ka</corr></choice>laitta-k kōrpukaḻ <choice><sic>ka</sic><corr>ta</corr></choice>lai-t takkōlamuṅ</l>
-			<l n="64"><choice><sic>ki</sic><corr>tī</corr></choice>tamar <lb n="24"/>valviḻai mātam<choice><sic>a</sic><corr>ā</corr></choice> liṅkamuṅ</l>
-			<l n="65">t<choice><sic>a</sic><corr>ē</corr></choice><choice><orig>n</orig><reg>ṉ</reg></choice>a-k kalārpoḻil mānakka vāramu=n</l>
-			<l n="66">toṭ<choice><orig>u</orig><reg>o</reg></choice>kaṭaṟ kā<lb n="25" break="no"/>val ka<supplied reason="lost">ru</supplied>mura<supplied reason="lost">ṭ</supplied> kaṭāramum</l>
-			<l n="67">māpporu taṇṭāṟ <supplied reason="lost">koṇṭa</supplied></l>
-		</lg>
-	</p>
-<p>	
-			
-         kō-p-para-kē<hi rend="grantha">sa</hi>ri-va<hi rend="grantha">nma</hi>r-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a Uṭaiyār <hi rend="grantha">śrī</hi> rā<hi rend="grantha">jendra-coḷa-de</hi>varkku yā 
-
-<lb n="26"/>ṇṭu <num value="29">2 <g type="numeral">10</g> 9</num> Āvatu 
-	</p>
-	<p>
-	
-	<hi rend="grantha">ja</hi>yaṅkoṇṭa-coḻa maṇṭalattu eyiṟ-koṭṭattu nakaram kāñcipurattu tiruvēkam 
-
-<lb n="27" break="no"/>pam-uṭaiya <hi rend="grantha">mahā</hi>-tevar makaḷ nakkaṉ-kōtai-y-āṉa kāñcipura naṅkai tiruvoṟṟiyūr-uṭaiya-<hi rend="grantha">mahā</hi>tēva
-
-<lb n="28" break="no"/>rkku Āṭṭāṇṭu tōṟum putiyitu tiruvamirtu ceytaruḷavum cattira-cālaikaḷukkum pa<supplied reason="lost">la</supplied>paṇi nivan=ta
-
-<lb n="29" break="no"/>kkāṟarkkum putiyit' uṇṇavum vēṇṭum 
-		
-		</p>
-	<p>
-		
-		vicattukku It-tēvar tēvatāṉam Ikaṇaiyūr-<choice><sic>u</sic><corr>ū</corr></choice>r
-
-<lb n="30" break="no"/>⌉ōm 
-		</p>
-	<p>
-		
-		koṇṭa poṉṉāl Āṭṭāṇṭu tōṟum Uṭaiyār pērum paṇṭārattu kārā
-
-<lb n="31" break="no"/>ṇai viṭaṅkaṉ marakkālāl aḷappatāṉa palicai nellu irupattaiṅ kalam iṉ-ṉel
-
-<lb n="32" break="no"/>lu irupattaiṅ kalattukkuñ celav'āka
-	</p>
-	<p>
-		
-		uṭaiyārkku Amirtu ceytaruḷa Arici kalamum neyya
-
-<lb n="33" break="no"/>mirtu nāḻikkum caṟkaraiyamirtu nāḻiyurikkum paruppamirtu nāḻikkum tayiramirtu n
-
-<lb n="34" break="no"/>ā-nāḻikkum puḷiṅkaṟi-y-amirtukkum miḷakuṅ kaṭukuñ cirakamum mañcaḷukkum pala-kaṟiyamir
-
-<lb n="35" break="no"/>tukkum vāḻaippaḻattukkum Aṭaikkāy-amirtukkum āka nellu mukkala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi-p-patakkum kārā
-
-<lb n="36" break="no"/>ṇai viṭaṅka-tēvarkku tiruvamirtukku Arici kuṟuṇiyum <hi rend="grantha">kṣetra</hi>pāla tēvarkum cūriya-tevaṟkum A
-
-<lb n="37"/>ṟiñc<choice><sic>i</sic><corr>ī</corr></choice><hi rend="grantha">śva</hi>ram-uṭaiyārkkum kampi<hi rend="grantha">śva</hi>ram-uṭaiyārkkum viṭelviṭuki<hi rend="grantha">śva</hi>ram-uṭaiyārkkum Arici nā-nāḻi 
-
-<lb n="38" break="no"/>-p paṭiyum tuṟkaiyārkkum Aṇukka-p piḷḷaiyārkkum Arici Iru-nāḻi-p paṭiyum It-tēvarkaḷu
-
-<lb n="39" break="no"/>kku ney-y-amirtukkum kaṟi-y-amirtukkum-āṉa nelluk kalamum māṭā-pattiyañ  ceyvārkku
-
-<lb n="40"/><gap reason="lost" quantity="1" unit="character"/>y kuṟuṇiyum tiruvārātaṉai ceyvārkku Arici Aṟu-nāḻiyum tēvarā-māṇikaḷukku Arici tūṇiyum tiruppatiyam viṇṇappañ ceyvārkku Arici kuṟuṇiyum tiru<supplied reason="lost">ṉa</supplied>nir cumappā<supplied reason="lost">r</supplied>kku ariciku<choice><sic>ṇ</sic><corr>ṟu</corr></choice>ṇi
-
-<lb n="41"/><supplied reason="lost">Iru</supplied>nāḻiyum tiru<supplied reason="omitted">p</supplied><supplied reason="lost">pa</supplied>ḷḷittāmam paṟippā<supplied reason="omitted">r</supplied>kku Arici patakkun nāḻiyum tiruppaḷḷittoṅkal iṭuvārkku Aric<choice><sic>u</sic><corr>i</corr></choice> mu
-
-<lb n="42" break="no"/>-k kuṟuṇiyum tirumeykāppārkku Arici tūṇiyum tirupp<choice><sic>i</sic><corr>ī</corr></choice>ṭameka-k kāvitiraṉukku Arici-kuṟuṇi nā-nāḻiyum
-
-<lb n="43"/><supplied reason="lost">ci</supplied>va taruma<supplied reason="lost">vā</supplied>cippā<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum <hi rend="grantha">śrī</hi>maṟ-k<choice><sic>i</sic><corr>ī</corr></choice>rtti vācippā<choice><orig>n</orig><reg>ṉ</reg></choice>u<unclear>kku</unclear>m <hi rend="grantha">stotra</hi>m viṇṇappañ cevānukkum sāma 
-
-<lb n="44" break="no"/>vētam viṇṇappañ ceyvā<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum tirupūcaikaṭ<supplied reason="lost">ṭu</supplied>vā<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum tiruvāykkē<choice><sic>ḻ</sic><corr>ḷ</corr></choice>vi Uṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum
-
-<lb n="45"/>civa-paṇṭār<choice><sic>i</sic><corr>a</corr></choice>kaḷukkum tēvarka<hi rend="grantha">nmi</hi>kaḷukkum tirumuṉṉaṭippā<supplied reason="omitted">r</supplied>kkum ta<hi rend="grantha">nmāsa</hi><choice><orig>n</orig><reg>ṉ</reg></choice>añ cey
-
-<lb n="46" break="no"/>vā<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum vakkāṇikkum paṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum āka
-		
-	</p>
-	<p>
-		pati<choice><orig>n</orig><reg>ṉ</reg></choice>ālvarkku Arici-k kuṟuṇi nā-nāḻiyum taḷai
-
-<lb n="47"/><gap reason="lost" quantity="3" unit="character"/>va <gap reason="lost" quantity="2" unit="character"/>kala nel tūṇi pata <gap reason="lost" quantity="4" unit="character"/>vārkku Arici tūṇiyum Uṭu<supplied reason="omitted">k</supplied><supplied reason="lost">kai</supplied> vācippā<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum viṇaivā
-
-<lb n="48" break="no"/>cippā<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum pāṭaviya<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum <gap reason="lost" quantity="9" unit="character"/>kku Arici kuṟu<supplied reason="lost">ṇiyum</supplied> tēvaraṭiyārkku Arici kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē
-
-<lb n="49"/><gap reason="lost" quantity="2" unit="character"/>kkum <gap reason="lost" quantity="2" unit="character"/> Arici Eḻu kuṟuṇiyum <gap reason="lost" quantity="5" unit="character"/> arici tūṇippatakkum tiruppaḷḷiccivikaiyārkku arici
-
-<lb n="50"/>kuṟuṇi <supplied reason="lost">nā</supplied>-nāḻiyum Āṉai meyppārkkum <supplied reason="lost">kucava<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum</supplied> mālaikāra<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum Aṇu<supplied reason="lost">kki vāḷ</supplied> māṟuva<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum tēvar ce
-
-<lb n="51" break="no"/>vi<gap reason="lost" quantity="6" unit="character"/>kum pērāl Arici Iru-nāḻiyum <gap reason="lost" quantity="8" unit="character"/>kku Arici kalamum <gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">Aṭikaḷ mā</supplied>rkku Arici tūṇi-p-patak
-
-<lb n="52" break="no"/>kum kālum piṭāruñ ceyvārkku Arici kuṟuṇiyum <gap reason="lost" quantity="5" unit="character"/>kku Arici Iru-tūṇiyum paṭṭarkaḷukku A
-
-<lb n="53" break="no"/>rici tūṇi-p-patakkum cāttira<supplied reason="omitted">ttu</supplied>kku Aricikku aricikala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇiyum maṭaiyarkku <supplied reason="omitted">a</supplied>rici kuṟuṇiyum Āka aricipatiṉ kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē
-
-<lb n="54"/>mukkuṟuṇiyi<choice><orig>n</orig><reg>ṉ</reg></choice>āl Iraṭṭi nellu Irupatiṉ <supplied reason="lost">ka</supplied>la<choice><orig>n</orig><reg>ṉ</reg></choice>ē <supplied reason="lost">tū</supplied>ṇi-p-patakkum āka
-		
-		</p>
-	
-	<p>
-	nellu irupattaiṅ kalamum Āṭṭāṇ
-
-<lb n="55" break="no"/>ṭu tōṟum <hi rend="grantha">candrādi</hi>ttavarai It-tēvar paṇṭārattu Aḷappomā<choice><orig>n</orig><reg>ṉ</reg></choice>ōm Ikaṇaiyūr <supplied reason="omitted">ū</supplied>rōm 
-	</p>
-
-          
-</div>	
-	
-<div type="apparatus">
-    <listApp>
-    	<app loc="3">
-    		<lem><foreign>naṇṇaṟk' arumaraṇ</foreign></lem>
-    		<rdg source="bib:Swaminathan2019_01">naṇṇaṟa karumuraṇ</rdg>
-    	</app>
-    
-    	<app loc="14">
-    		<lem><foreign>cērnal</foreign></lem>
-    		<rdg source="bib:Swaminathan2019_01">cēranal </rdg>
-    	</app>
-    
-    	<app loc="15">
-    		<lem><foreign>muraṇu<supplied reason="lost">ṟa</supplied></foreign></lem>
-    		<rdg source="bib:Swaminathan2019_01">muraṇu<supplied reason="lost">ra</supplied></rdg>
-    	</app>
-    
-    	<app loc="20">
-    		<lem><foreign>ārttava<choice><orig>n a</orig><reg>ṉ a</reg></choice><supplied reason="lost">ka</supplied></foreign></lem>
-    		<rdg source="bib:Swaminathan2019_01">ārttava<choice><orig>n</orig><reg>ṉ</reg></choice><supplied reason="lost">kara</supplied></rdg>
-    	</app>
-       	    
-    	<app loc="24">
-    		<lem><foreign>kalārpoḻil</foreign></lem>
-    		<rdg source="bib:Swaminathan2019_01">kavārpoḻil</rdg>
-    	</app>
-    
-    	<app loc="25">
-    		<lem><foreign>ka<supplied reason="lost">ṭu</supplied>mura<supplied reason="lost">ṭ</supplied></foreign></lem>
-    		<rdg source="bib:Swaminathan2019_01">ka<supplied reason="lost">ru</supplied>mura<supplied reason="lost">ṭ</supplied></rdg>
-    	</app>
-    </listApp>	
-	
-</div>
-		
-<div type="translation" resp="part:reda part:matr">
-				
-    <p n="1">Prosperity! Fortune!</p>
-    			
-</div>	
-		
-<div type="commentary">
-	<p n="23">
-    		<foreign>kalāmutir kaṭuntiṟal ilāmuri tēcamum</foreign>. Original inverts lines: content of verse no. 65 appears as verse no. 62, disrupting the verse sequence.
-    	</p>
-</div>
-		
-<div type="bibliography">
-	        
-    <p>Reported in <bibl><ptr target="bib:ARIE1912-1913"/></bibl> (ARIE/1912-1913/B/1912/139).</p>
-    <p>Edited in <bibl><ptr target="bib:Swaminathan2019_01"/></bibl> (SII 38.139).</p>
-    <p>This edition by Renato Dávalos (2025), based on <bibl><ptr target="bib:Swaminathan2019_01"/></bibl>.</p>
-	
-    <listBibl type="primary">
-        
-        <bibl n="SII">
-            <ptr target="bib:Swaminathan2019_01"/>
-            <citedRange unit="page">149-152</citedRange>
-            <citedRange unit="item">139</citedRange>
-        </bibl>
-        
-    </listBibl>           
-    
-    <listBibl type="secondary">
-        
-        <bibl>
-            <ptr target="bib:ARIE1912-1913"/>
-            <citedRange unit="page">21</citedRange>
-            <citedRange unit="appendix">B/1912</citedRange>
-            <citedRange unit="item">139</citedRange>
-        </bibl>	
-        
-    </listBibl>
-</div>
-	</body>
-	</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tiruvōṟṟiyūr, Ādhipurīśvara, time of Rājendra Cōḻa, year 29</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                    <persName ref="part:matr">
+                        <forename>Margherita</forename>
+                        <surname>Trento</surname>
+                    </persName>
+                    <persName ref="part:vija">
+                        <forename>G.</forename>
+                        <surname>Vijayavenugopal</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INStfaSIIv38p0i0139</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union’s Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EgDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:reda" when="2025-03-27" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab> 
+                    <lb n="1"/><supplied reason="lost"><hi rend="grantha">svasti śrī</hi></supplied></ab>
+                
+                <p>
+                    <lg n="1" met="āciriyappā"> 
+                        <l n="1">tirumaṉ<choice><orig>n</orig><reg>ṉ</reg></choice>vaḷara Irunila maṭan=taiyum</l>
+                        <l n="2">pōrcc<choice><sic>a</sic><corr>e</corr></choice>ya-p pāvaiyum c<choice><sic>i</sic><corr>ī</corr></choice>rttanic ce<supplied reason="lost">lviyum</supplied></l>
+                        <l n="3"><lb n="2"/><supplied reason="lost">taṉ</supplied> perun=t<choice><sic>a</sic><corr>ē</corr></choice>viyar <supplied reason="lost">āki iṉpu</supplied>ṟa</l>
+                        <l n="4"> neṭ<choice><sic>u</sic><corr>i</corr></choice>t<choice><sic>u</sic><corr>i</corr></choice>y<choice><sic>i</sic><corr>a</corr></choice>l<choice><sic>u</sic><corr>ū</corr></choice>ḻiyu<choice><sic>l</sic><corr>ḷ</corr></choice> Iṭ<choice><sic>ai</sic><corr>a</corr></choice>tuṟai nāṭu<supplied reason="omitted">m</supplied></l>
+                        <l n="5">tuṭarvaṉa vēli paṭarvaṉa <lb n="3"/><supplied reason="lost">vā</supplied>ciyuñ</l>
+                        <l n="6">cuḷḷi-c cūḻmati<choice><sic>ṭ</sic><corr>l</corr></choice> koḷḷi <supplied reason="lost">pākkaiyu</supplied><supplied reason="subaudible">m</supplied></l>
+                        <l n="7">naṇṇaṟa karumuraṇ maṇṇai-k kaṭa<supplied reason="omitted">kka</supplied>mu<supplied reason="lost">m</supplied></l>
+                        <l n="8"><lb n="4"/>poru<supplied reason="lost">kaṭal <choice><sic>i</sic><corr>ī</corr></choice></supplied>ḻatt' ar<choice><orig>ai</orig><reg>a</reg></choice>cartam <supplied reason="subaudible">m</supplied>uṭiyum</l>
+                        <l n="9">Āṅkavaṉ ṟēviyar oṅkeḻil muṭiyum</l>
+                        <l n="10">muṉṉavar pakka<supplied reason="lost">l</supplied> <lb n="5"/>teṉṉavaṉ vaitta</l>
+                        <l n="11">cun=tara muṭiyum <supplied reason="lost">Intiraṉ āramu</supplied><supplied reason="subaudible">m</supplied></l>
+                        <l n="12"><supplied reason="lost">teṇṭi<choice><sic>c</sic><corr>r</corr></choice>ai y-<choice><sic>i</sic><corr>ī</corr></choice>ḻa-ma</supplied>ṇṭala<supplied reason="subaudible">m</supplied> muḻuvatum</l>
+                        <l n="13"><supplied reason="lost">Eṟipa</supplied> <lb n="6" break="no"/>⌈ṭ<supplied reason="lost">ai</supplied>-k kēraḷaṉ muṟaimaiyiṟ cūṭuṅ</l>
+                        <l n="14">kulataṉam ākiya palarpukaḻ muṭiyuñ</l>
+                        <l n="15">ceṅkatir mālaiyuñ c<choice><sic>a</sic><corr>e</corr></choice>ṅ<lb n="7" break="no"/>katir vēlai-t</l>
+                        <l n="16">tol peruṅkāval palpaḻan=t<choice><sic>i</sic><corr>ī</corr></choice>vum</l>
+                        <l n="17">ceruviṟ ciṉavil irupattoru kāl</l>
+                        <l n="18"><surplus>av</surplus>araicu <lb n="8"/>kaḷaikaṭ<supplied reason="omitted">ṭa</supplied> paracurāmaṉ</l>
+                        <l n="19">mēvaruñ cān=timan t<choice><sic>i</sic><corr>ī</corr></choice>varaṇ karuti</l>
+                        <l n="20">Iruttiya cempoṟ ṟiruttaku muṭiyum </l>
+                        <l n="21">payaṅ<lb n="9" break="no"/>⌈koṭu paḻimika muyaṅkiyil mutukiṭṭ'</l>
+                        <l n="22">oḷitta cayaciṅkaṉ Aḷapperum pukaḻoṭum</l>
+                        <l n="23">p<choice><sic>i</sic><corr>ī</corr></choice>ṭi<supplied reason="omitted">yal</supplied> Ira<lb n="10" break="no"/>ṭṭa pāṭi Ē<supplied reason="omitted">ḻa</supplied>rai</l>
+                        <l n="24">y-ilakkamum navaniti-k kulapperu malai<supplied reason="omitted">ka</supplied>ḷum</l>
+                        <l n="25">vikkirama virar cakkara-<supplied reason="omitted">k</supplied> koṭṭamum</l>
+                        <l n="26">mutir <choice><sic>v</sic><corr>p</corr></choice>aṭa val<lb n="11" break="no"/>lai matura-maṇṭalamum</l>
+                        <l n="27">kāmiṭai vaḷa<choice><sic>r</sic><corr>iya</corr></choice> nāmaṇaik kō<supplied reason="lost">ṇamum</supplied></l>
+                        <l n="28">veñci<choice><orig>na</orig><reg>lai</reg></choice>  v<choice><sic>i</sic><corr>ī</corr></choice>rar pañca-p paḷḷiyum</l>
+                        <l n="29">pācaṭai <lb n="12" break="no"/><supplied reason="lost">-p pa</supplied>ḻana mācuṇi-<supplied reason="omitted">t</supplied> tēcamum</l>
+                        <l n="30">ayarvil<surplus>v</surplus>aṇ k<choice><sic>i</sic><corr>ī</corr></choice>rtti yātinaka ravaiyiṟ</l>
+                        <l n="31">can=tira<choice><orig>n</orig><reg>ṉ</reg></choice> ṟolkulat tin=tira ra<choice><orig>caḻai</orig><reg>taṉai</reg></choice></l>
+                        <l n="32">viḷiyama<lb n="13" break="no"/>r-k kaḷattu-k kiḷaiyoṭum piṭittu-p</l>
+                        <l n="33">palata<choice><orig>n</orig><reg>ṉ</reg></choice>a-t toṭuniṟai kulata<choice><orig>n</orig><reg>ṉ</reg></choice>a-k kuvaiyuṅ</l>
+                        <l n="34">kiṭṭaruñ ceṟimiḷai y-oṭ<supplied reason="lost">ṭa</supplied> <lb n="14"/>vi<hi rend="grantha"><supplied reason="omitted">k</supplied>ṣ</hi>ayamum</l>
+                        <l n="35">pūcurar cēranal-k kōcal<choice><orig>ai</orig><reg>a</reg></choice> nāṭun=</l>
+                        <l n="36">ta pālaṉai vemmuṉai y-aḻittu</l>
+                        <l n="37">vaṇ<choice><orig>ṭuṟai</orig><reg>ṭamar</reg></choice> cōlai-t taṇṭa <lb n="15"/> puttiyum</l>
+                        <l n="38">iraṇa cūraṇai muraṇu<supplied reason="lost">ṟa</supplied>t tākkit</l>
+                        <l n="39">tikka<choice><sic>ṉ</sic><corr>ṇ</corr></choice>ai k<choice><sic>i</sic><corr>ī</corr></choice>rtti-t ta<supplied reason="lost">k</supplied>kaṇa lāṭamuṅ</l>
+                        <l n="40">kōvin=ta can=ta<choice><orig>n</orig><reg>ṉ</reg></choice> māviḻin=tōṭa-t</l>
+                        <l n="41">ta<lb n="16" break="no"/>ṅkāta cāral vaṅkāḷa tēcamun=</l>
+                        <l n="42">toṭukaṭaṟ caṅk<choice><orig>a</orig><reg>u</reg></choice> <choice><orig>voṭṭal</orig><reg>koṭṭaṉ</reg></choice> ma<choice><orig><hi rend="grantha">hi</hi></orig><reg>ki</reg></choice>-pālaṉai</l>
+                        <l n="43">veñcamar viḷākatt' añcuvi-t taru<supplied reason="lost">ḷi</supplied></l>
+                        <l n="44"><lb n="17"/>oṇṭiṟal yāṉaiyum peṇṭirpaṇ ṭāramum</l>
+                        <l n="45">nittala<surplus>r</surplus> neṭuṅkaṭal uttira lāṭamum</l>
+                        <l n="46">ve<choice><sic>ḷ</sic><corr>ṟ</corr></choice>imalar t<choice><sic>a</sic><corr>īr</corr></choice>tta-t eṟipu<choice><orig>n</orig><reg>ṉ</reg></choice>al <lb n="18"/>kaṅkaiyum</l>
+                        <l n="47">alaikaṭal naṭuvuḷ palakalañ celutti-c</l>
+                        <l n="48">caṅkirāma vicayō-t tuṅka <hi rend="grantha">vanma</hi><choice><orig>n</orig><reg>ṉ</reg></choice></l>
+                        <l n="49">ākiya kaṭāratt' ar<choice><orig>ai</orig><reg>a</reg></choice>caṉai <lb n="19" break="no"/>vāk<choice><orig>ai</orig><reg>a</reg></choice>yam</l>
+                        <l n="50">porukaṭal kumpa-k kariyoṭum akappaṭum  <surplus>akappaṭum kaṭappat'</surplus></l>
+                        <l n="51">urimaiyil piṟakkiya perun<choice><orig>e</orig><reg>i</reg></choice>ti-p piṟakkamu<lb n="20" break="no"/>m</l>
+                        <l n="52">ārttava<choice><orig>n a</orig><reg>ṉ a</reg></choice><supplied reason="lost">ka</supplied> nakara pōr-t toḻil vācalil</l>
+                        <l n="53">viccātira toraṇamum m<choice><orig>o</orig><reg>u</reg></choice>ttoḷi<supplied reason="omitted">r</supplied></l>
+                        <l n="54">pu<choice><orig>n</orig><reg>ṉ</reg></choice>a maṇi-p putava<lb n="21" break="no"/>muṅ ka<choice><orig>n</orig><reg>ṉ</reg></choice>amaṇi-k katavam<supplied reason="omitted">um</supplied></l>
+                        <l n="55">niṟai-<choice><orig><hi rend="grantha">jī</hi></orig><reg>cī</reg></choice><supplied reason="omitted">r</supplied> vi<choice><orig><hi rend="grantha">ja</hi></orig><reg>ca</reg></choice>yamu<supplied reason="subaudible">m</supplied> tuṟain<choice><sic>i</sic><corr>ī</corr></choice>r-p panṇaiyum</l>
+                        <l n="56"><choice><orig>v</orig><reg>n</reg></choice>a<choice><orig>n</orig><reg>ṉ</reg></choice>malai y-<choice><sic>u</sic><corr>ū</corr></choice>r<choice><orig>ai</orig><reg>e</reg></choice>yiṟ <choice><orig>ceran</orig><reg>toṉ</reg></choice> malai y-<choice><sic>u</sic><corr>ū</corr></choice>rum</l>
+                        <l n="57">āḻkaṭal aka<lb n="22" break="no"/>ḻ cūḻ māyir<choice><orig>i</orig><reg>u</reg></choice> ṭ<choice><orig>a</orig><reg>i</reg></choice>ṅkamuṅ</l>
+                        <l n="58">kalaṅkā valviṉai ilaṅkā <choice><orig>t</orig><reg>c</reg></choice>ō<choice><orig>p</orig><reg>k</reg></choice>amuṅ</l>
+                        <l n="59">kāppuṟu niṟaipu<choice><orig>n</orig><reg>ṉ</reg></choice>al māppa pāḷamuṅ</l>
+                        <l n="60">
+                            kāval<surplus>am</surplus> <lb n="23"/>puricai mēvili <supplied reason="lost">pa</supplied>ṅkamuṅ</l>
+                        <l n="61">viḷaippan= tūṟuṭai vaḷaippan= tūṟun=</l>
+                        <l n="62">kalāmutir <supplied reason="lost">ka</supplied>ṭun=tiṟal ilāmuri tēcamun=</l>
+                        <l n="63"><choice><sic>ta</sic><corr>ka</corr></choice>laitta-k kōrpukaḻ <choice><sic>ka</sic><corr>ta</corr></choice>lai-t takkōlamuṅ</l>
+                        <l n="64"><choice><sic>ki</sic><corr>tī</corr></choice>tamar <lb n="24"/>valviḻai mātam<choice><sic>a</sic><corr>ā</corr></choice> liṅkamuṅ</l>
+                        <l n="65">t<choice><sic>a</sic><corr>ē</corr></choice><choice><orig>n</orig><reg>ṉ</reg></choice>a-k kalārpoḻil mānakka vāramu=n</l>
+                        <l n="66">toṭ<choice><orig>u</orig><reg>o</reg></choice>kaṭaṟ kā<lb n="25" break="no"/>val ka<supplied reason="lost">ru</supplied>mura<supplied reason="lost">ṭ</supplied> kaṭāramum</l>
+                        <l n="67">māpporu taṇṭāṟ <supplied reason="lost">koṇṭa</supplied></l>
+                    </lg>
+                </p>
+                <p>	
+                    
+                    kō-p-para-kē<hi rend="grantha">sa</hi>ri-va<hi rend="grantha">nma</hi>r-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a Uṭaiyār <hi rend="grantha">śrī</hi> rā<hi rend="grantha">jendra-coḷa-de</hi>varkku yā 
+                    
+                    <lb n="26"/>ṇṭu <num value="29">2 <g type="numeral">10</g> 9</num> Āvatu 
+                </p>
+                <p>
+                    
+                    <hi rend="grantha">ja</hi>yaṅkoṇṭa-coḻa maṇṭalattu eyiṟ-koṭṭattu nakaram kāñcipurattu tiruvēkam 
+                    
+                    <lb n="27" break="no"/>pam-uṭaiya <hi rend="grantha">mahā</hi>-tevar makaḷ nakkaṉ-kōtai-y-āṉa kāñcipura naṅkai tiruvoṟṟiyūr-uṭaiya-<hi rend="grantha">mahā</hi>tēva
+                    
+                    <lb n="28" break="no"/>rkku Āṭṭāṇṭu tōṟum putiyitu tiruvamirtu ceytaruḷavum cattira-cālaikaḷukkum pa<supplied reason="lost">la</supplied>paṇi nivan=ta
+                    
+                    <lb n="29" break="no"/>kkāṟarkkum putiyit' uṇṇavum vēṇṭum 
+                    
+                </p>
+                <p>
+                    
+                    vicattukku It-tēvar tēvatāṉam Ikaṇaiyūr-<choice><sic>u</sic><corr>ū</corr></choice>rō
+                    
+                    <lb n="30" break="no"/>⌉m 
+                </p>
+                <p>
+                    
+                    koṇṭa poṉṉāl Āṭṭāṇṭu tōṟum Uṭaiyār pērum paṇṭārattu kārā
+                    
+                    <lb n="31" break="no"/>ṇai viṭaṅkaṉ marakkālāl aḷappatāṉa palicai nellu irupattaiṅ kalam iṉ-ṉel
+                    
+                    <lb n="32" break="no"/>lu irupattaiṅ kalattukkuñ celav'āka
+                </p>
+                <p>
+                    
+                    uṭaiyārkku Amirtu ceytaruḷa Arici kalamum neyya
+                    
+                    <lb n="33" break="no"/>mirtu nāḻikkum caṟkaraiyamirtu nāḻiyurikkum paruppamirtu nāḻikkum tayiramirtu n
+                    
+                    <lb n="34" break="no"/>ā-nāḻikkum puḷiṅkaṟi-y-amirtukkum miḷakuṅ kaṭukuñ cirakamum mañcaḷukkum pala-kaṟiyamir
+                    
+                    <lb n="35" break="no"/>tukkum vāḻaippaḻattukkum Aṭaikkāy-amirtukkum āka nellu mukkala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi-p-patakkum kārā
+                    
+                    <lb n="36" break="no"/>ṇai viṭaṅka-tēvarkku tiruvamirtukku Arici kuṟuṇiyum <hi rend="grantha">kṣetra</hi>pāla tēvarkum cūriya-tevaṟkum A
+                    
+                    <lb n="37"/>ṟiñc<choice><sic>i</sic><corr>ī</corr></choice><hi rend="grantha">śva</hi>ram-uṭaiyārkkum kampi<hi rend="grantha">śva</hi>ram-uṭaiyārkkum viṭelviṭuki<hi rend="grantha">śva</hi>ram-uṭaiyārkkum Arici nā-nāḻi 
+                    
+                    <lb n="38" break="no"/>-p paṭiyum tuṟkaiyārkkum Aṇukka-p piḷḷaiyārkkum Arici Iru-nāḻi-p paṭiyum It-tēvarkaḷu
+                    
+                    <lb n="39" break="no"/>kku ney-y-amirtukkum kaṟi-y-amirtukkum-āṉa nelluk kalamum māṭā-pattiyañ  ceyvārkku
+                    
+                    <lb n="40"/><gap reason="lost" quantity="1" unit="character"/>y kuṟuṇiyum tiruvārātaṉai ceyvārkku Arici Aṟu-nāḻiyum tēvarā-māṇikaḷukku Arici tūṇiyum tiruppatiyam viṇṇappañ ceyvārkku Arici kuṟuṇiyum tiru<supplied reason="lost">ṉa</supplied>nir cumappā<supplied reason="lost">r</supplied>kku ariciku<choice><sic>ṇ</sic><corr>ṟu</corr></choice>ṇi
+                    
+                    <lb n="41"/><supplied reason="lost">Iru</supplied>nāḻiyum tiru<supplied reason="omitted">p</supplied><supplied reason="lost">pa</supplied>ḷḷittāmam paṟippā<supplied reason="omitted">r</supplied>kku Arici patakkun nāḻiyum tiruppaḷḷittoṅkal iṭuvārkku Aric<choice><sic>u</sic><corr>i</corr></choice> mu
+                    
+                    <lb n="42" break="no"/>-k kuṟuṇiyum tirumeykāppārkku Arici tūṇiyum tirupp<choice><sic>i</sic><corr>ī</corr></choice>ṭameka-k kāvitiraṉukku Arici-kuṟuṇi nā-nāḻiyum
+                    
+                    <lb n="43"/><supplied reason="lost">ci</supplied>va taruma<supplied reason="lost">vā</supplied>cippā<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum <hi rend="grantha">śrī</hi>maṟ-k<choice><sic>i</sic><corr>ī</corr></choice>rtti vācippā<choice><orig>n</orig><reg>ṉ</reg></choice>u<unclear>kku</unclear>m <hi rend="grantha">stotra</hi>m viṇṇappañ cevānukkum sāma 
+                    
+                    <lb n="44" break="no"/>vētam viṇṇappañ ceyvā<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum tirupūcaikaṭ<supplied reason="lost">ṭu</supplied>vā<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum tiruvāykkē<choice><sic>ḻ</sic><corr>ḷ</corr></choice>vi Uṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum
+                    
+                    <lb n="45"/>civa-paṇṭār<choice><sic>i</sic><corr>a</corr></choice>kaḷukkum tēvarka<hi rend="grantha">nmi</hi>kaḷukkum tirumuṉṉaṭippā<supplied reason="omitted">r</supplied>kkum ta<hi rend="grantha">nmāsa</hi><choice><orig>n</orig><reg>ṉ</reg></choice>añ cey
+                    
+                    <lb n="46" break="no"/>vā<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum vakkāṇikkum paṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum āka
+                    
+                </p>
+                <p>
+                    pati<choice><orig>n</orig><reg>ṉ</reg></choice>ālvarkku Arici-k kuṟuṇi nā-nāḻiyum taḷai
+                    
+                    <lb n="47"/><gap reason="lost" quantity="3" unit="character"/>va <gap reason="lost" quantity="2" unit="character"/>kala nel tūṇi pata <gap reason="lost" quantity="4" unit="character"/>vārkku Arici tūṇiyum Uṭu<supplied reason="omitted">k</supplied><supplied reason="lost">kai</supplied> vācippā<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum viṇaivā
+                    
+                    <lb n="48" break="no"/>cippā<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum pāṭaviya<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum <gap reason="lost" quantity="9" unit="character"/>kku Arici kuṟu<supplied reason="lost">ṇiyum</supplied> tēvaraṭiyārkku Arici kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē
+                    
+                    <lb n="49"/><gap reason="lost" quantity="2" unit="character"/>kkum <gap reason="lost" quantity="2" unit="character"/> Arici Eḻu kuṟuṇiyum <gap reason="lost" quantity="5" unit="character"/> arici tūṇippatakkum tiruppaḷḷiccivikaiyārkku arici
+                    
+                    <lb n="50"/>kuṟuṇi <supplied reason="lost">nā</supplied>-nāḻiyum Āṉai meyppārkkum <supplied reason="lost">kucava<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum</supplied> mālaikāra<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum Aṇu<supplied reason="lost">kki vāḷ</supplied> māṟuva<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum tēvar ce
+                    
+                    <lb n="51" break="no"/>vi<gap reason="lost" quantity="6" unit="character"/>kum pērāl Arici Iru-nāḻiyum <gap reason="lost" quantity="8" unit="character"/>kku Arici kalamum <gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">Aṭikaḷ mā</supplied>rkku Arici tūṇi-p-patak
+                    
+                    <lb n="52" break="no"/>kum kālum piṭāruñ ceyvārkku Arici kuṟuṇiyum <gap reason="lost" quantity="5" unit="character"/>kku Arici Iru-tūṇiyum paṭṭarkaḷukku A
+                    
+                    <lb n="53" break="no"/>rici tūṇi-p-patakkum cāttira<supplied reason="omitted">ttu</supplied>kku Aricikku aricikala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇiyum maṭaiyarkku <supplied reason="omitted">a</supplied>rici kuṟuṇiyum Āka aricipatiṉ kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē
+                    
+                    <lb n="54"/>mukkuṟuṇiyi<choice><orig>n</orig><reg>ṉ</reg></choice>āl Iraṭṭi nellu Irupatiṉ <supplied reason="lost">ka</supplied>la<choice><orig>n</orig><reg>ṉ</reg></choice>ē <supplied reason="lost">tū</supplied>ṇi-p-patakkum āka
+                    
+                </p>
+                
+                <p>
+                    nellu irupattaiṅ kalamum Āṭṭāṇ
+                    
+                    <lb n="55" break="no"/>ṭu tōṟum <hi rend="grantha">candrādi</hi>ttavarai It-tēvar paṇṭārattu Aḷappomā<choice><orig>n</orig><reg>ṉ</reg></choice>ōm Ikaṇaiyūr <supplied reason="omitted">ū</supplied>rōm 
+                </p>
+                
+                
+            </div>	
+            
+            <div type="apparatus">
+                <listApp>
+                    <app loc="3">
+                        <lem><foreign>naṇṇaṟk' arumaraṇ</foreign></lem>
+                        <rdg source="bib:Swaminathan2019_01">naṇṇaṟa karumuraṇ</rdg>
+                    </app>
+                    
+                    <app loc="14">
+                        <lem><foreign>cērnal</foreign></lem>
+                        <rdg source="bib:Swaminathan2019_01">cēranal </rdg>
+                    </app>
+                    
+                    <app loc="15">
+                        <lem><foreign>muraṇu<supplied reason="lost">ṟa</supplied></foreign></lem>
+                        <rdg source="bib:Swaminathan2019_01">muraṇu<supplied reason="lost">ra</supplied></rdg>
+                    </app>
+                    
+                    <app loc="20">
+                        <lem><foreign>ārttava<choice><orig>n a</orig><reg>ṉ a</reg></choice><supplied reason="lost">ka</supplied></foreign></lem>
+                        <rdg source="bib:Swaminathan2019_01">ārttava<choice><orig>n</orig><reg>ṉ</reg></choice><supplied reason="lost">kara</supplied></rdg>
+                    </app>
+                    
+                    <app loc="24">
+                        <lem><foreign>kalārpoḻil</foreign></lem>
+                        <rdg source="bib:Swaminathan2019_01">kavārpoḻil</rdg>
+                    </app>
+                    
+                    <app loc="25">
+                        <lem><foreign>ka<supplied reason="lost">ṭu</supplied>mura<supplied reason="lost">ṭ</supplied></foreign></lem>
+                        <rdg source="bib:Swaminathan2019_01">ka<supplied reason="lost">ru</supplied>mura<supplied reason="lost">ṭ</supplied></rdg>
+                    </app>
+                </listApp>	
+                
+            </div>
+            
+            <div type="translation" resp="part:reda part:matr">
+                
+                <p n="1">Prosperity! Fortune!</p>
+                
+            </div>	
+            
+            <div type="commentary">
+                <p n="23">
+                    <foreign>kalāmutir kaṭuntiṟal ilāmuri tēcamum</foreign>. Original inverts lines: content of verse no. 65 appears as verse no. 62, disrupting the verse sequence.
+                </p>
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1912-1913"/></bibl> (ARIE/1912-1913/B/1912/139).</p>
+                <p>Edited in <bibl><ptr target="bib:Swaminathan2019_01"/></bibl> (SII 38.139).</p>
+                <p>This edition by Renato Dávalos (2025), based on <bibl><ptr target="bib:Swaminathan2019_01"/></bibl>.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:Swaminathan2019_01"/>
+                        <citedRange unit="page">149-152</citedRange>
+                        <citedRange unit="item">139</citedRange>
+                    </bibl>
+                    
+                </listBibl>           
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1912-1913"/>
+                        <citedRange unit="page">21</citedRange>
+                        <citedRange unit="appendix">B/1912</citedRange>
+                        <citedRange unit="item">139</citedRange>
+                    </bibl>	
+                    
+                </listBibl>
+            </div>
+        </body>
+    </text>
 </TEI>
 
 <!--METADATA:
-	
+    
 -->
