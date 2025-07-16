@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tiruvōṟṟiyūr, Ādhipurīśvara temple, time of Vīrarājendra, year (16-17)</title>
+				<respStmt>
+					<resp>author of digital edition</resp>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">DHARMA_INStfaSIIv38p010128</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Record of the king learning about unused lands belonging to the temple and later allocating them  as <foreign>nivantams</foreign>. The income from these lands was meant for covering temple expenses, festivals, and staff, which included priests, musicians, dancers, and temple women. Among the signatories appears the pontiff of the <foreign>maṭha</foreign>, Caturānapaṇṭitaṉ.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:reda" when="2025-07-16" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+		<body>
+
+			<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+				
+				<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+					<lb n="1"/>svasti śrī
+				</ab>
+				
+				<lg n="1" met="meykkīrtti"> 
+					<l n="1">vīramē tuṇaiyākavuṉ tiyākamēyaṇiyākavum ceṅko<surplus>l</surplus></l>
+					<l n="2">lōccik karuṅkali kaṭi<hi rend="grantha">n</hi>tu</l>
+					<l n="3"><supplied reason="omitted">taḷiya</supplied> kūṭal caṅka<supplied reason="omitted">ma</supplied>ttu Ākava</l>
+					<l n="4">malla<surplus>ṉ</surplus>ṉai y-añcu vittu vikkalaṉaiyuñ</l>
+					<l n="5">ciṅkaṇaṉai<supplied reason="omitted">yu</supplied>m uṭaipuṟaṅ k<choice><sic>a</sic><corr>ā</corr></choice>ṇṭu maṟṟavar</l>
+					<l n="6">mā<supplied reason="omitted">kā</supplied> tēviya rōṭum va<hi rend="grantha">st<choice><sic>a</sic><corr>u</corr></choice></hi></l>
+					<l n="7">vā<hi rend="grantha">ha</hi> na<choice><sic>m</sic><corr>ṅ</corr></choice>kai-k koṇṭu Iraṇṭām</l>
+					<l n="8">vicaiyinum kuṟitta kaḷattākava</l>
+					<l n="9">mallaṉai y-añcu vittu vēṅkai</l>
+					<l n="10">nāṭu m<choice><sic>i</sic><corr>ī</corr></choice>ṭṭuk koṇṭu taṉṉuṭan</l>
+					<l n="11">piṟan=ta munnavar viratamum muṭittu</l>
+					<l n="12">muṉṟām vicaiy<surplus>iṉ</surplus>umcō m<choice><sic>i</sic><corr>ī</corr></choice><hi rend="grantha">śva</hi>raṉ kaṭṭiya</l>
+					<l n="13">kaṇṭikai Aviḻppataṉ munnam kampili</l>
+					<l n="14">cuṭṭu-k kaṟaṭi-k kallil <hi rend="grantha">ja</hi>ya<hi rend="grantha">sta</hi>mpa</l>
+					<l n="15">nāṭṭit tēvanātaṉ mutal mācu</l>
+					<l n="16">mantarai cakkara-<supplied reason="omitted">k</supplied> kōṭṭattu turatti</l>
+					<l n="17">maṟṟavariṉattār muṭipiṭittu-k koṇṭu<note>This verse is not found in any other <foreign>meykkīrtti</foreign>.</note></l>
+					<l n="18"><supplied reason="omitted">kuṉṉa</supplied> kucci<supplied reason="omitted">yu</supplied> m<choice><sic>i</sic><corr>ī</corr></choice>ṭṭu Ellai</l>
+					<l n="19">kaṭa<hi rend="grantha">n</hi>tu nilaiyiṭṭu vi<hi rend="grantha">j</hi><choice><sic>e</sic><corr>aya</corr></choice>
+						<hi rend="grantha">j</hi></l>
+					<l n="20"><hi rend="grantha">abhiṣeka</hi>m paṇṇi vira<hi rend="grantha">siṁhāsa</hi>nattu Ulaka muḻutu<gap reason="lost" quantity="9" unit="character"/><note>The <foreign>meykkīrtti</foreign> appears in its complete form, which suggests that it was made in the king's final year, i.e. year 17.</note></l>
+				</lg>
+				<p>
+	
+	<lb n="2"/>koṇṭa coḻamaṇṭalattu<unclear>p</unclear> puḻaṟkoṭṭattup puḻa<supplied reason="omitted">l</supplied>nāṭṭu Uṭaiyār tiru Oṟṟiyūruṭaiyār tevatāṉa(m)māṉa Ūrkaḷil muṉpu nivaṉtañ ceyyātu kiṭakkum nilattilum nellilum poṉnilum kācilum Uḷḷaṉa Aṟi<hi rend="grantha">n</hi>tu namakkum naṅkulattukkum nam piḷḷaikaḷukkum naṉṟāka tiruvoṟṟiyūruṭaiyārkkum Aṅkuḷḷa <unclear>taḷumaṅkaḷukkum</unclear> nivantañ ceyya veṇṭuvaṉa Aṟintu nivantañ ceytu kalveṭṭu <unclear>vik</unclear>kaveṉṟu tiruvāymoḻintaruḷa Ittevatāṉamāṉa Ūrkaḷil ciṅkaviṣṇaccaruppetimaṅkalattu <unclear>Uvañcaḻarum</unclear>kaḻikoppumāyt taram peṟātu kiṭakkum nilattu nilaṉ Aṟupatinaṟu veliyum vi<hi rend="grantha">rarāje</hi>nta<unclear>ra</unclear> viḷākameṉṉu nāmattāl putu tiruttākki Iṉ nilattāl veli Oṉṟiṉukku <hi rend="grantha">rāja</hi>kecariyāl nel Arupatiṉ <gap reason="lost" quantity="7" unit="character"/> 
+<lb n="3"/>pu nivantañ ceyyātu niṉṟa kācu Aiñnūṟṟaṟupatteṭṭuṅ koṇṭu cakkaravatti <hi rend="grantha">śrī</hi>vi<hi rend="grantha">rarāje</hi>n<hi rend="grantha">tra</hi>tevar tirumeṉi kalliyāṇa tirumeṉiyākavum tirukkulam vattikkavum nampirāṭṭimār tirumaṅkalliyam perukavum piḷḷaikaḷti<unclear>ru</unclear>meṉi kalliyāṇa tirumeṉiyākavum coḻamaṇṭalattu tiruveṇkāṭṭu poṉṉūruṭaiyāṉ tani<hi rend="grantha">māheśva</hi>raṉ Āccaṉ civalokanātaṉ Ikkoyilil patipātamulap paṭṭuṭaip pañcācāriya tevakaṉmikaḷaiyum <hi rend="grantha">śrī</hi> kāriyam k<choice><sic>a</sic><corr>ā</corr></choice>vanu<supplied reason="omitted">ru</supplied>ṭaiyāṉ piccaṉ <hi rend="grantha">ja</hi>yaṅkoṇṭāṉaiyum Ikkoyilil mutaṟ kaṇakku nūṟṟeṇmaṉ Oruppaṉayaṉaiyum Ik koyilil maṭamuṭaiya caturāṉapaṇṭitaraiyum kūṭa vaittuk ko<supplied reason="omitted">ṇ</supplied>ṭiruntu ni<unclear>vanta</unclear>ñ ceytum Uṭaiyār tiruvoṟṟiyūruṭaiyār <unclear>koyilil</unclear> vaikācit tiṅkaḷ tiruviḻāveḻuntaruḷit tiruvāyilaiya nāḷāl tīrttam Āṭiyaruḷa veṇṭum nivantaṅkaḷukkuk kācu Irunūṟṟi<unclear>rupatu Ākavum</unclear> virarā<hi rend="grantha">je</hi>n<hi rend="grantha">tra</hi>ṉ tirucā<unclear>ṉ</unclear> <gap reason="lost" quantity="6" unit="character"/> veṇṭum nivanta<unclear>ṅ</unclear>ka(ḷ)ḷukku kācu nūṟṟeṇpatteṭṭu <gap reason="lost" quantity="10" unit="character"/> 
+<lb n="4"/>ṇippāṉ Oruvaṉukku nellukkum poṉṉukkum kācu muppattāṟum Uṭaiyārai tiruvār<choice><sic>a</sic><corr>ā</corr></choice>tiṉai ceyvār Iruvarkku kācu nāṟpatum virarā<hi rend="grantha">je</hi>n<hi rend="grantha">tra</hi>ṉtiruppaḷḷieḻiccikku man<hi rend="grantha">trage</hi>yam viṇṇappañceyyum tillaiviṭa<unclear>ṅ</unclear>kaṉ poṟkā<unclear>cu</unclear>kku nellukkum poṉṉukkum <gap reason="lost" quantity="3" unit="character"/> tānukku Itu Ivaṉukku kāṇiyākavum mārkaḻit tiru<supplied reason="omitted">vā</supplied>tirait tirunāḷāl kāraṇaiviṭaṅkar tiruvolakkamāy Eḻuntaruḷi Iruntu tiruvempāvai keṭṭaruḷit tiruvamirtu ceytaruḷukaikkum Innāḷālu<supplied reason="omitted">m</supplied> <unclear>Eṉ</unclear> vaḻakkattukku kācu Aimpattu muṉṟum Ākak kācu Aiññūṟṟupatteṭṭum Ittirunāṭkaḷ Uḷḷiṭṭu Ittevarkku Āṭavum pāṭavu muṉpuḷḷa taḷiyilār mel Eṟṟamāka Eṟṟiṉa taḷiyilārirupat tiruvarkku nāḷ Oṉṟukkup poṉ Irā<hi rend="grantha">ja</hi>kecariyāl <unclear>nel</unclear>k kuṟuṇiyāka van=ta nellu Aṟunūṟṟarupatiṉ kalaṉe Itil <gap reason="lost" quantity="1" unit="character"/> Aṭuv<choice><sic>a</sic><corr>ā</corr></choice>rkaḷ Āṭṭuvikkum naṭṭuvaṉ Oruvaṉukku nāḷ Oṉṟukku nellut tūṇippatakkāka nellu nūṟṟeṇpatiṉ <gap reason="lost" quantity="6" unit="character"/> maṭṭuvāṉukku nāḷoṉṟiṉukku nellu mukkuṟuṇiyāka nellut toṇṇūṟṟuk kalamum muṉpu nima
+<lb n="5" break="no"/>ntamuṭaiya tevaraṭiyā<supplied reason="omitted">r</supplied> mel Eṟṟamāka tiruppatiyam viṇṇappañ ceyya peṇṭukaḷ paṉniruvarkkum ka<unclear>va</unclear> <gap reason="lost" quantity="1" unit="character"/> piṇi ceyvār nālvarkkum Ittevaraṭiyār patinaṟuvarkku nāḷ Oṉṟukkup perāl nellu nānāḻiyāka nāḷ Oṉṟukku nellu Iru tūṇiyāka Orāṭṭaikku nellu Iruṉūṟṟunāṟpatin <unclear>ka</unclear>lamum paruppamirtu camaippār nālvarkkup perāl nellu Iru nāḻiyāka nāḷ Oṉṟukku nelluk kuṟuṇiyāka nellu muppatiṉ kalamum Āka nellu Āyirattiru nūṟṟuk kalam Iṉ nellukkuc ciṅka<unclear>viṣṇu</unclear>ccaruppetimaṅkalattuk kiḻ <gap reason="lost" quantity="3" unit="character"/> kiḻ pāṟkellai kaṇapativatikku meṟku tirucciṟṟampala vatikku kiḻakkum teṉpāṟkellai cuntaracoḻac caruppetimaṅkalattum vāṉavaṉ māteviccaruppetimaṅkalattum kiḻpi<unclear>ṭ</unclear>ākai cerkkāṭṭur Ellaikku vaṭakku Icaṇaiyūr Ellaiyāka Uṭpaṭum nilattil <hi rend="grantha">śrī</hi> <gap reason="lost" quantity="3" unit="character"/> kolāl nilaṉ <unclear>patiṟṟu</unclear> veliyum van=ta nellukkum <hi rend="grantha">(1)</hi> kācukkum can=tirātittavaṟ <supplied reason="omitted">ce</supplied>l<unclear>vat</unclear>āka nivan=tañ
+<lb n="6"/>ceytu kalveṭṭuvitteṉ puravuvaritiṇaikkaḷanāyakañ ceyta marutūruṭaiyāṉ kā <gap reason="lost" quantity="5" unit="character"/> ḻuttu I<supplied reason="omitted">p</supplied>paṭikku Ikkoyilil mutaṟkaṇakku nūṟṟeṇmaṉ Iruppāṉaiyaneṉ Ivai Eṉ Eḻuttu Ippaṭikku maṭamuṭaiya caturānapaṇṭitaneṉ Ivai Eṉ Eḻuttu Ippaṭi ni[ van=tañ] ceytu veṭṭuvitteṉ coḻamaṇṭalattut tiruveṇkāṭṭup poṉṉū(r)ruṭaiyān tanimā<hi rend="grantha">heśva</hi>ran Āccaṉ civalokanātaneṉ Ivai Eṉ Eḻuttu <hi rend="grantha">śrīpa</hi>n<hi rend="grantha">māheśvara<supplied reason="omitted">ra</supplied>kṣai <g type="ddanda">.</g>§</hi> 
+</p>
+
+</div>
+
+<div type="apparatus">
+
+</div>
+
+<div type="commentary">
+
+</div>
+
+<div type="bibliography">
+	
+	
+
+		<p>First reported in <bibl><ptr target="bib:ARIE1912-1913"/></bibl> (ARIE/1912-1913/B/1912/128).</p>
+	<p>First edited in <bibl><ptr target="bib:Swaminathan2019_01"/></bibl> (SII 38.128).</p>
+	
+	<p>Edited here for DHARMA (ERC n° 809994) by Renato Dávalos based on previous edition <bibl><ptr target="bib:Hultzsch1898-1899_02"/></bibl>.</p>
+	
+	
+	
+	<listBibl type="primary">
+
+		<bibl n="SII">
+			<ptr target="bib:Swaminathan2019_01"/>
+			<citedRange unit="page">115-117</citedRange>
+			<citedRange unit="item">128</citedRange>
+		</bibl>
+
+	</listBibl>
+
+	<listBibl type="secondary">
+<bibl n="ARIE">
+            <ptr target="bib:ARIE1912-1913"/>
+            <citedRange unit="page">19</citedRange>
+            <citedRange unit="item">128</citedRange>
+        </bibl>
+		<bibl/>
+
+	</listBibl>
+
+</div>
+
+	</body>
+</text>
+</TEI>
