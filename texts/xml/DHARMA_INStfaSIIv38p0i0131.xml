@@ -86,7 +86,7 @@
 			<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 				
 				<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215"> 
-					<lb n="1"/><supplied reason="lost">svasti śrī</supplied></ab>
+					<lb n="1"/>svasti śrī</ab>
 				
 				<p>
 					<lg n="1" met="āciriyappā"> 
@@ -94,7 +94,7 @@
 						<l n="2"> tōḷum vāḷun=tuṇaiyeṉa-k keḷalar</l>
 						<l n="3">vañcaṉai kaṭan=ta vayirā karattu-k</l>
 						<l n="4">kuñcara-k kuḻāmpala vāri y-eñcalil</l>
-						<l n="5">cakkara-<supplied reason="omitted">k</supplied> koṭṭattu-t tārā varacaṉai-t</l>
+						<l n="5">cakkara-<supplied reason="omitted">k</supplied> kōṭṭattu-t tārā varacaṉai-t</l>
 						<l n="6">tikku nikaḻat<supplied reason="omitted">ar</supplied> tiṟaikoṇ ṭaruḷi</l>
 						<l n="7">arukka <choice><orig>n</orig><reg>ṉ</reg></choice>utaiya-t tācaiyi lirukkuṅ</l>
 						<l n="8"><surplus>kamalam aṉaiya arukka<choice><orig>n</orig><reg>ṉ</reg></choice>utaiya-t tācaiyi lirukkuṅ</surplus> kamalam aṉaiya nilamakaḷ taṉṉai</l>
@@ -104,7 +104,7 @@
 						<l n="12">taṉkuṭai niḻaṟk<choice><sic>i</sic><corr>ī</corr></choice>ḻ Iṉpuṟa v-iruttit</l>
 						<l n="13">tikiriyām puliyān<note>The version in <ptr target="bib:Cuppiramaniyam1983_01"/> reads <foreign>tikiriyum puliyum </foreign></note> ticaitoṟum naṭātti-p</l>
 						<l n="14">pukaḻuṉ tarumamum puvitoṟum niṟutti</l>
-						<l n="15">v<choice><sic>i</sic><corr>ī</corr></choice>ramun= tiyākumum māṉamuṅ karuṇaiyum</l>
+						<l n="15">v<choice><sic>i</sic><corr>ī</corr></choice>ramun=tiyākumum māṉamuṅ karuṇaiyum</l>
 						<l n="16">urimai-c cuṟṟam āka-p piriyā-t ta<supplied reason="omitted">rā</supplied>tala<supplied reason="subaudible">m</supplied></l>
 						<l n="17">nikaḻa cayamu=n tāṉumv<choice><sic>i</sic><corr>ī</corr></choice>ṟ ṟirun=tu</l>
 						<l n="18">kulamaṇi makuṭa<supplied reason="subaudible">m</supplied> muṟaimaiyil cūṭi-t</l>
@@ -115,27 +115,27 @@
 				<p>	
 					<hi rend="grantha">korājakesaripanma</hi>r-āṉa Uṭaiyār <hi rend="grantha">śrī-</hi>rā<hi rend="grantha">jentra</hi>-cōḻa-tēvarkku yāṇṭu iraṇṭāvatu 
 				</p>
-				<p>	jayaṅkoṇṭa-cōḻa-maṇṭalattu puḻaṟ-koṭṭattu-p puḻal-ṉāṭṭu tiruvōṟṟiyūr-uṭaiyār-kōyil kārāṇai viṭaṅka tēvar<supplied reason="lost">tiruccā</supplied>n=tāṭalukku vēṇṭum nivan=taṅkaḷukku 
+				<p>	jayaṅkoṇṭa-cōḻa-maṇṭalattu puḻaṟ-kōṭṭattu-p puḻal-ṉāṭṭu tiruvōṟṟiyūr-uṭaiyār-kōyil kārāṇai viṭaṅka tēvar<supplied reason="omitted">tiruccā</supplied>n=tāṭalukku vēṇṭum nivan=taṅkaḷukku 
 				</p>
 				<p>	
-					<hi rend="grantha">se</hi>ṉāpatikaḷ cōḻa-maṇṭalatt' uyyakkoṇṭār'vaḷaṉāṭṭu tir<supplied reason="lost">ai</supplied>m<choice><sic>u</sic><corr>ū</corr></choice>r-ṉāṭṭu na<supplied reason="lost">ṭā</supplied>r kiḻār rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>ṉ paranirupa rāk<hi rend="grantha">ṣasa</hi>ṉār-āṉa v<choice><sic>i</sic><corr>ī</corr></choice>ra-coḻa Iḷaṅkōveḷār It-tēvar paṇṭārattu Oṭukkiṉa aṉṟāṭu ṉaṟkācu Irunūṟṟu ṉāṟpatu 
+					<hi rend="grantha">se</hi>ṉāpatikaḷ cōḻa-maṇṭalatt' uyyakkoṇṭār vaḷaṉāṭṭu tir<unclear>ai</unclear>m<choice><sic>u</sic><corr>ū</corr></choice>r-ṉāṭṭu na<unclear>ṭā</unclear>r kiḻār rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>ṉ paranirupa rāk<hi rend="grantha">ṣasa</hi>ṉār-āṉa v<choice><sic>i</sic><corr>ī</corr></choice>ra-cōḻa Iḷaṅkōveḷār It-tēvar paṇṭārattu Oṭukkiṉa aṉṟāṭu ṉaṟkācu Irunūṟṟu ṉāṟpatu 
 				</p>
 				<p>
 					
-					Ik-kācu Irunūṟṟu ṉāṟpatum It-tēvar paṇṭārattu Oṭukki Ik-kācukku It-<hi rend="grantha">de</hi>vatāṉam puḻaṟ-koṭṭattu-p puḻal-ṉāṭṭu maṇali-y-āṉa ciṅkavi<hi rend="grantha">ṣṇu</hi>-c-ca<hi rend="grantha">tu<supplied reason="lost">r</supplied>vēti-</hi>maṅkalattu<hi rend="grantha">sabhai</hi>yōm
+					Ik-kācu Irunūṟṟu ṉāṟpatum It-tēvar paṇṭārattu Oṭukki Ik-kācukku It-<hi rend="grantha">de</hi>vatāṉam puḻaṟ-kōṭṭattu-p puḻal-ṉāṭṭu maṇali-y-āṉa ciṅkavi<hi rend="grantha">ṣṇu</hi>-c-ca<hi rend="grantha">tu<unclear>r</unclear>vēti-</hi>maṅkalattu<hi rend="grantha">sabhai</hi>yōm
 				</p>
 				<p>	
-					iṉ-nāṭṭu Ampilvāyilum Ikaṇaiyūrum puliyūr-k-koṭṭattu tuṭarmuṉṉi nāṭṭu veḻcāṟṟum eḻumūr-ṉāṭṭu-p pirampukka-karattum ūrōm nilavilaiyā<lb n="2"/>vaṇa-k kaiyeḻuttu </p>
+					Iṉ-nāṭṭu Ampilvāyilum Ikaṇaiyūrum puliyūr-k-kōṭṭattu tuṭarmuṉṉi nāṭṭu veḻcāṟṟum eḻumūr-ṉāṭṭu-p pirampukka-karattum ūrōm nilavilaiyā<lb n="2"/>vaṇa-k kaiyeḻuttu </p>
 				<p>	
-					Ik-kōyilil āti<hi rend="grantha">dāsa-</hi>caṇṭe<hi rend="grantha">śva</hi>rar pakkal ciṅkavi<hi rend="grantha">ṣṇu</hi>-c-catu<hi rend="grantha">rvvēti</hi> maṅkalattu <hi rend="grantha">sabh</hi>aiyōm kācu Aṟupatu koṇṭuviṟṟu-k kuṭutta nilattukku-k
+					Ik-kōyilil āti<hi rend="grantha">dāsa-</hi>caṇṭe<hi rend="grantha">śva</hi>rar pakkal ciṅkavi<hi rend="grantha">ṣṇu</hi>-c-catu<hi rend="grantha"><unclear>r</unclear>vvēti</hi> maṅkalattu <hi rend="grantha">sabh</hi>aiyōm kācu Aṟupatu koṇṭuviṟṟu-k kuṭutta nilattukku-k
 				</p>
 				
 				<p> 
-					k<choice><sic>i</sic><corr>ī</corr></choice>ḻ pāṟkellai maturān=takavatikku mēṟkum teṉpāṟkellai Oṭaikkālukkum meṭṭu maḻapaṭṭi varampukku vaṭakkum mēlpāṟkellai karampai <supplied reason="lost">nārā</supplied>yaṇaṉ mēlaittaṭiyil kiḻvarampukkum Ēṟi<supplied reason="lost">lāṉa</supplied> taṭṭattukku-t teṟkil kuṇṭiliṉ k<choice><sic>i</sic><corr>ī</corr></choice>ḻ varampukkum paḷḷakkaḻuvaliṉ k<choice><sic>i</sic><corr>ī</corr></choice>ḻvarampukkum kiḻakkum vaṭapāṟkellai Āṭavallāṉ vāykkālukku teṟkum Āka 
+					k<choice><sic>i</sic><corr>ī</corr></choice>ḻ pāṟkellai maturān=taka-vatikku mēṟkum teṉpāṟkellai Oṭaikkālukkum meṭṭu maḻapaṭṭi varampukku vaṭakkum mēlpāṟkellai karampai <unclear>nārā</unclear>yaṇaṉ mēlaittaṭiyil k<choice><sic>i</sic><corr>ī</corr></choice>ḻvarampukkum Ēṟi<unclear>lāṉa</unclear> taṭṭattukku-t teṟkil kuṇṭiliṉ k<choice><sic>i</sic><corr>ī</corr></choice>ḻ varampukkum paḷḷakkaḻuvaliṉ k<choice><sic>i</sic><corr>ī</corr></choice>ḻvarampukkum kiḻakkum vaṭapāṟkellai Āṭavallāṉ vāykkālukku teṟkum Āka 
 				</p>
 				
 				<p>
-					iṉ-nāṟpāl Ellaikkum naṭuvupaṭṭa nilam pati<choice><orig>n</orig><reg>ṉ</reg></choice>aṟucāṇ kōlāl kuḻi Āṟāyiratti<choice><orig>n</orig><reg>ṉ</reg></choice>āl nilam muvēliyum 	
+					Iṉ-nāṟpāl Ellaikkum naṭuvupaṭṭa nilam pati<choice><orig>n</orig><reg>ṉ</reg></choice>aṟucāṇ kōlāl kuḻi Āṟāyiratti<choice><orig>n</orig><reg>ṉ</reg></choice>āl nilam muvēliyum 	
 				</p>
 				<p>
 					Iṉ-nāṭṭu Āmpilvāyil ūrōṅ kācu nāṟpatu koṇṭu viṟṟu-k-kuṭutta nilattukku-k
@@ -151,7 +151,7 @@
 					kuḻi nālāyirattiḻṉālum Iruvēliyum Iṉ-nāṭṭu Ikaṇaiyūr ūroṅ kācu aṟupatu koṇṭu viṟṟukkuṭutta n<choice><sic>i</sic><corr>ī</corr></choice>r-nilattukku-k
 				</p>
 				<p>
-					k<choice><sic>i</sic><corr>ī</corr></choice>ḻpāṟkellai paṉiccai pulattukuñ ciṟu-kaṇṇāṟṟukkum maṉaiyoṭa-p pulattukkum vaṇṇakkaṉ pulattiṉ k<choice><sic>i</sic><corr>ī</corr></choice>ḻvarampu teṉpāṟkellai vaṇṇakkaṉ pulattil ṉaṭuvu meṟku nōkkiṉa vāykkālukku vaṭakkum mēlpāṟkellai vaṇṇakkaṉ pulattiṉ mēlai-t taṭiyil k<choice><sic>i</sic><corr>ī</corr></choice>ḻvaram<supplied reason="lost">pu</supplied>-c caṟuti y-ākavum Iv-varampiṉ kottam ciṟu kaṇṇāṟṟiṉ teṉvarampu<lb n="3" break="no"/>kkē y-uṟavum k<choice><sic>i</sic><corr>ī</corr></choice>ḻakkum nāṟpāṟkellai paṉiccai pulattiṉ vaṭavarampukku-t teṟkum Āka
+					k<choice><sic>i</sic><corr>ī</corr></choice>ḻpāṟkellai paṉiccai pulattukuñ ciṟu-kaṇṇāṟṟukkum maṉaiyoṭa-p pulattukkum vaṇṇakkaṉ pulattiṉ k<choice><sic>i</sic><corr>ī</corr></choice>ḻvarampu teṉpāṟkellai vaṇṇakkaṉ pulattil ṉaṭuvu meṟku nōkkiṉa vāykkālukku vaṭakkum mēlpāṟkellai vaṇṇakkaṉ pulattiṉ mēlai-t taṭiyil k<choice><sic>i</sic><corr>ī</corr></choice>ḻvaram<unclear>pu</unclear>-c caṟuti y-ākavum Iv-varampiṉ kottam ciṟu kaṇṇāṟṟiṉ teṉvarampu<lb n="3" break="no"/>kkē y-uṟavum k<choice><sic>i</sic><corr>ī</corr></choice>ḻakkum nāṟpāṟkellai paṉiccai pulattiṉ vaṭavarampukku-t teṟkum Āka
 				</p>
 				<p>
 					Iṉ-nāṟpāl Ellaiyil ṉaṭuvuppaṭṭa nilaṉ pati<choice><orig>n</orig><reg>ṉ</reg></choice>aṟucāṇ kōlāl kuḻi āṟāyiratti<choice><orig>n</orig><reg>ṉ</reg></choice>āl nilaṉ muvēliyum 
@@ -161,13 +161,13 @@
 					veḻccāṟṟu ūroṅ kācu ṉāṟpatu koṇṭu viṟṟukkuṭutta n<choice><sic>i</sic><corr>ī</corr></choice>rnilattukku-k 
 				</p>
 				<p>
-					k<choice><sic>i</sic><corr>ī</corr></choice>ḻpāṟkellai oḻuṅkai kāṭṭikku meṟkum teṉpāṟkellai kōḷḷāṉ<supplied reason="lost">kula</supplied>māṉ Ēttattukku vaṭakkum mēlpāṟkellai vaṭuka-p peruvaḻikku-k kiḻakkum vaṭapāṟkellai viḷakkaṉ Ēttattukku-t teṟkum Āka Iṉ-nāṟpāl ellaiyil naṭuvupaṭṭa nilaṉ patiṉaṟucāṇ kōlāl kuḻi ṉālāyirattiṉāl nilaṉ Iruvēliyum 
+					k<choice><sic>i</sic><corr>ī</corr></choice>ḻpāṟkellai oḻuṅkai kāṭṭikku meṟkum teṉpāṟkellai kōḷḷāṉ<unclear>kula</unclear>māṉ Ēttattukku vaṭakkum mēlpāṟkellai vaṭuka-p peruvaḻikku-k kiḻakkum vaṭapāṟkellai viḷakkaṉ Ēttattukku-t teṟkum Āka Iṉ-nāṟpāl ellaiyil naṭuvupaṭṭa nilaṉ patiṉaṟucāṇ kōlāl kuḻi ṉālāyirattiṉāl nilaṉ Iruvēliyum 
 				</p>
 				<p>
 					piraiyapakkatt' ūrōmkācu ṉāṟpatu koṇṭu viṟṟukkuṭutta n<choice><sic>i</sic><corr>ī</corr></choice>rnilattukku-k 
 				</p>
 				<p>
-					k<choice><sic>i</sic><corr>ī</corr></choice>ḻpāṟkellai ciṟukaḷar mēlaivara<supplied reason="lost">p</supplied>pukku meṟkum teṉpāṟkellai maṭuvukku vaṭakkum mēlpāṟkellai parivārappaṭikku-k kiḻakkum vaṭapāṟkellai veṇkāṭu tēvaṉ tirunan=tavaṉakkuṭikaḷukku viṭṭa nilattukku-t teṟkum Āka 
+					k<choice><sic>i</sic><corr>ī</corr></choice>ḻpāṟkellai ciṟukaḷar mēlaivara<unclear>p</unclear>pukku meṟkum teṉpāṟkellai maṭuvukku vaṭakkum mēlpāṟkellai parivārappaṭikku-k kiḻakkum vaṭapāṟkellai veṇkāṭu tēvaṉ tirunan=tavaṉakkuṭikaḷukku viṭṭa nilattukku-t teṟkum Āka 
 				</p>
 				<p>
 					
@@ -179,9 +179,9 @@
 				<p>
 					
 					
-					Emmilicain=ta vilaipporuḷ muṟṟum Aṟakko<supplied reason="omitted">ṇ</supplied><supplied reason="lost">ṭu ku</supplied>ṭuttōm 
+					Emmilicain=ta vilaipporuḷ muṟṟum Aṟakko<supplied reason="omitted">ṇ</supplied><unclear>ṭu ku</unclear>ṭuttōm 
 					
-					Iṉ-nilattāl van=ta pūppoṉṉum pañcavāramum vēli-k kācum n<choice><sic>i</sic><corr>ī</corr></choice>rvilaiyum Uḷḷiṭṭa An=tarāyaṅkaḷum veṭṭi muṭṭaiyāḷ Eccoṟṟu kūṟṟu nel uḷḷiṭṭa kuṭimaikaḷ Eppeṟpaṭṭitum Eṅkaḷ Ūr<lb n="4" break="no"/>kaḷ mēlē Eṟṟi Iṉ-nilattuvan=ta Iṟai<supplied reason="lost">t</supplied>-<hi rend="grantha">dravya</hi>mum vilai<hi rend="grantha">dravya</hi>mum Āvaṇakkaḷiyē Aṟakkoṇṭu 
+					Iṉ-nilattāl van=ta pūppoṉṉum pañcavāramum vēli-k kācum n<choice><sic>i</sic><corr>ī</corr></choice>rvilaiyum Uḷḷiṭṭa An=tarāyaṅkaḷum veṭṭi muṭṭaiyāḷ Eccoṟṟu kūṟṟu nel uḷḷiṭṭa kuṭimaikaḷ Eppeṟpaṭṭitum Eṅkaḷ Ūr<lb n="4" break="no"/>kaḷ mēlē Eṟṟi Iṉ-nilattuvan=ta Iṟai<unclear>t</unclear>-<hi rend="grantha">dravya</hi>mum vilai<hi rend="grantha">dravya</hi>mum Āvaṇakkaḷiyē Aṟakkoṇṭu 
 				</p>
 				<p>
 					Iṉ-nilattāl van=ta Iṟai Iḻiicci Ik-kō<choice><sic>liyi</sic><corr>yili</corr></choice>l Āti<hi rend="grantha">dāsa</hi>caṇ<hi rend="grantha">ṭeśva</hi>raṟku Oru kālāvatum Iru-kālāvatum mukkāl āvatum Emmilicain=ta poruḷaṟakkoṇṭu vilaiyaṟaviṟṟu'k kuṭuttōm 
@@ -189,7 +189,7 @@
 				
 				<list>
 					<item>ciṅkavi<hi rend="grantha">ṣṇu</hi>-c-catu<hi rend="grantha">rvvēti</hi>-maṅkalattu <hi rend="grantha">sabh</hi>aiyōmum</item>
-					<item>Āmpilvāyilum Ikaṇaiyūrum veḻcāṟṟum piramapākkattum ūrkaḷōm ciṅkavi<hi rend="grantha">ṣṇu</hi>-c-catu<hi rend="grantha">rvvēti</hi>-maṅkalattu ya<hi rend="grantha">jña<supplied reason="lost">hma</supplied></hi><supplied reason="lost">ṇaṉ kaṇi</supplied>mattu-k karumāṇikka-k kiramavitta<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ</item>
+					<item>Āmpilvāyilum Ikaṇaiyūrum veḻcāṟṟum piramapākkattum ūrkaḷōm ciṅkavi<hi rend="grantha">ṣṇu</hi>-c-catu<hi rend="grantha">rvvēti</hi>-maṅkalattu ya<hi rend="grantha">jña<unclear>hma</unclear></hi><unclear>ṇaṉ kaṇi</unclear>mattu-k karumāṇikka-k kiramavitta<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ</item>
 					<item>ceṭṭayakkiramavitta<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ 
 					</item>
 					<item>Āmpilvāyil veḷḷā<supplied reason="omitted">ḷa</supplied>ṉ ē<supplied reason="omitted">ṉ</supplied>
@@ -197,10 +197,10 @@
 					<item>maṇalūr kiḻavaṉ cūṟṟi Oṟṟikoṇṭā<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ
 					</item>
 					<item>cūṟṟi kuñciramalla<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ</item>
-					<item>Ikaṇaiyūr veḷḷāḷaṉ Amutaṅkiḻavaṉ ṉiṉṟā<supplied reason="lost">ṉā</supplied>ṉa ūṉamiliyēṉ</item>
+					<item>Ikaṇaiyūr veḷḷāḷaṉ Amutaṅkiḻavaṉ ṉiṉṟā<unclear>ṉā</unclear>ṉa ūṉamiliyēṉ</item>
 					<item>veḻcāṟṟu-c civaṉ puṟavaṉ kāḷai Oṟṟikoṇṭānēṉ</item>
 					<item>ciṟṟāṉ pākkiḻāṉ veḷḷāḷa-p pākkā<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ </item>
-					<item>vic<supplied reason="lost">ai</supplied>ya-p pākkattu māyaṇam pocaṉ kāvaṉ perumā<choice><orig>n</orig><reg>ṉ</reg></choice>ē<supplied reason="lost">kē</supplied> 
+					<item>vic<unclear>ai</unclear>ya-p pākkattu māyaṇam pocaṉ kāvaṉ perumā<choice><orig>n</orig><reg>ṉ</reg></choice>ē<unclear>kē</unclear> 
 					</item>
 					
 					<item>māyaṇam pocaṉ perumāḷ kañca<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ <g type="gomutraFinal">.</g>
@@ -209,7 +209,7 @@
 				
 				<p>		
 					
-					Ivvūrkaḷilār pakkal Ik-kōyilil Āti<hi rend="grantha">dāsa</hi>-caṇṭe<hi rend="grantha">śva</hi>ra-kācu Iru-nūṟṟu ṉāṟpatu kuṭuttu-k koṇṭa nilaṉ paṉ<choice><orig>n</orig><reg>ṉ</reg></choice>iru-vēli Iṉveli ṉūṟṟu Eḻupattāṟu kalatti<choice><orig>n</orig><reg>ṉ</reg></choice>āl kācu oṉṟukku Arumoḻitēvaṉ marakkālāl nellu<supplied reason="lost">n</supplied>āṟkalam 
+					Ivvūrkaḷilār pakkal Ik-kōyilil Āti<hi rend="grantha">dāsa</hi>-caṇṭe<hi rend="grantha">śva</hi>ra-kācu Iru-nūṟṟu ṉāṟpatu kuṭuttu-k koṇṭa nilaṉ paṉ<choice><orig>n</orig><reg>ṉ</reg></choice>iru-vēli Iṉveli ṉūṟṟu Eḻupattāṟu kalatti<choice><orig>n</orig><reg>ṉ</reg></choice>āl kācu oṉṟukku Arumoḻitēvaṉ marakkālāl nellu<unclear>n</unclear>āṟkalam 
 				</p>
 				<p>	
 					āk-kācu ṉūṟṟu ṉāṟpattu nālu Ik-kācu ṉūṟṟu nāṟpattu nālum Āṭṭāṇṭu toṟum ṉiṉṟiṟaiyāka Iṟuppatāka 
@@ -219,11 +219,11 @@
 				</p>
 				<p>	
 					
-					Uṭaiyār kā<supplied reason="omitted">rā</supplied>ṇai viṭaṅka tēvar tiruccān=taṭal Eḻuntaruḷu Aṟṟaikku vēṇṭum <surplus>n=</surplus>tiruvamutukaḷukku a<supplied reason="lost">ri</supplied>ci coṟṟukku Arici kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi-p-patakk' aṟu ṉāḻiyum tirukkāppu nāṇ vaikka Arici kuṟuṇiyum Āka 
+					Uṭaiyār kā<supplied reason="omitted">rā</supplied>ṇai viṭaṅka tēvar tiruccān=taṭal Eḻuntaruḷu Aṟṟaikku vēṇṭum <surplus>n=</surplus>tiruvamutukaḷukku a<unclear>ri</unclear>ci coṟṟukku Arici kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi-p-patakk' aṟu ṉāḻiyum tirukkāppu nāṇ vaikka Arici kuṟuṇiyum Āka 
 				</p>
 				<list>
 					<item>Arici mukkala<choice><orig>n</orig><reg>ṉ</reg></choice>ē Iru-tūṇi Aṟu-ṉāḻiyiṉāl Iraṇṭañcākki ṉellu oṉpatiṉ kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē mukkuṟuṇiyum</item>
-					<item>kaṟiyamutukku<supplied reason="lost">kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē</supplied> tūṇi <lb n="5"/>nā-nāḻiyum</item>
+					<item>kaṟiyamutukku<unclear>kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē</unclear> tūṇi <lb n="5"/>nā-nāḻiyum</item>
 					<item>tayiramutukku nellu-t tūṇi-p-patakkum Āka</item>
 				</list>
 				<p>	
@@ -264,7 +264,7 @@
 			
 					<list>
 					<item>taḷiyilār Aivarkkum</item>
-					<item>kāttappar pañcācāriyar uḷḷiṭṭār Ai<supplied reason="lost">va</supplied>varkkum</item>
+					<item>kāttappar pañcācāriyar uḷḷiṭṭār Ai<unclear>varkkum</item>
 					<item><hi rend="grantha">ja</hi>lli vāci<supplied reason="omitted">p</supplied>pāṉum</item>
 					<item>Iṭakkai vācippāṉum </item>
 					<item>viṇai vācippāṉum</item>
@@ -285,7 +285,7 @@
 					<item>paricaṭṭam patt' oṉpatu<lb n="11" break="no"/>kku-k kācu pati<choice><orig>n</orig><reg>ṉ</reg></choice>ālē kālum</item>
 				</list>
 				
-				<p>taḷi Oṉṟu vilai kācu Arai peṟṟa mā<supplied reason="lost">va</supplied><hi rend="grantha">vra</hi>tikaḷ nālvarkkum</p>
+				<p>taḷi Oṉṟu vilai kācu Arai peṟṟa mā<unclear>va</unclear><hi rend="grantha">vra</hi>tikaḷ nālvarkkum</p>
 			<list>
 					
 					<item><hi rend="grantha">bhaṭṭa</hi>rkaḷ  nālvarum</item>
@@ -304,7 +304,7 @@
 					<item>tirumuṟṟam paṇi ceyvār Iṟuvarum</item>
 					<item>tirumañcaṉa Eṭuppār nālvarum</item>
 					<item><hi rend="grantha">śrī</hi>pātan=taṅkuvār paṉ<choice><orig>n</orig><reg>ṉ</reg></choice>iruvarum</item>
-					<item>vayirāki<supplied reason="lost">ka</supplied>ḷ Aivarum Āka</item>
+					<item>vayirāki<unclear>ka</unclear>ḷ Aivarum Āka</item>
 				<item>paricaṭṭam Aimpattaiñ ciṉāl kācu Irupatt' eḻaraiyum</item>
 				</list>
 				
@@ -345,7 +345,7 @@
 					It-<hi rend="grantha">dhanma</hi>m <hi rend="grantha">śrī-māheśvara-rakṣai</hi> 
 				</p>
 				<p>	
-					Ivar ēva-c ceyvittāṉ Īcūrkoṭṭattu <supplied reason="lost">paka</supplied>vūr-nāṭṭu-c cevūr-c cevuḻāṉ malaiyaṉ pallako<supplied reason="lost">ṉ</supplied> ceḷukki kula <supplied reason="lost">kāla muve</supplied>n=ta veḷār 
+					Ivar ēva-c ceyvittāṉ Īcūrkōṭṭattu <unclear>paka</unclear>vūr-nāṭṭu-c cevūr-c cevuḻāṉ malaiyaṉ pallako<unclear>ṉ</unclear> ceḷukki kula <unclear>kāla muve</unclear>n=ta veḷār 
 				</p>
 				<p>
 					
