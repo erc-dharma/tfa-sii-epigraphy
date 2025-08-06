@@ -144,7 +144,7 @@
 </div>-->
 			
 <div type="bibliography">
-	    <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/B/1905/136).</p>
+	    <p>Reported in <bibl><ptr target="bib:ARIE1890-1891_01"/></bibl> (ARIE/1890-1891/A/1890/66).</p>
 	<p>Edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>, with English translation (SII 3.25).</p>
 	<p>This edition by Dorotea Operato and Emmanuel Francis (2025), based on <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>.</p>	
 	
@@ -159,10 +159,10 @@
 	
 		    <listBibl type="secondary">
         <bibl n="ARIE">
-            <ptr target="bib:ARIE1904-1905"/>
-            <citedRange unit="page">37</citedRange>
-            <citedRange unit="appendix">B/1905</citedRange>
-            <citedRange unit="item">136</citedRange>
+            <ptr target="bib:ARIE1890-1891_01"/>
+            <citedRange unit="page">7</citedRange>
+            <citedRange unit="appendix">A/1890</citedRange>
+            <citedRange unit="item">66</citedRange>
         </bibl>
 		    </listBibl>
 		
