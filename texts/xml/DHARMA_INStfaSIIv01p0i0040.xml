@@ -5,264 +5,264 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Mahābalipuram, time of Rājarāja, year 25</title>
-				<respStmt>
-					<resp>author of digital edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">DHARMA_INStfaSIIv01p0i0040</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary/>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p/>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-						<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-03-26" status="draft">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-      <body>
-
-         <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-         	
-         	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-         		<lb n="1"/>svasti śrī
-         	</ab>
-         	
-         	 <lg n="1" met="āciriyappā">
-         	 	<l n="1">tirumakaḷ pō<lb n="2" break="no"/>la-p peru-nila-c-celvi<unclear>yu</unclear>n=</l>
-         	 	<l n="2">taṉakkē<lb n="3" break="no"/>-y urim<unclear>ai</unclear> pūṇ<unclear>ṭa</unclear>mai maṉa<unclear>kk</unclear>oḷa-k</l>
-         	 	<l n="3">kā<lb n="4" break="no"/>n=taḷuṟ cālai kalam aṟut<unclear>t-aruḷi</unclear></l>
-         	 	<l n="4">veṅkai<lb n="5" break="no"/>-nāṭuṅ <unclear>ka</unclear>ṅka-pāṭiyu</l>
-         	 	<l n="5"><unclear>nuḷa</unclear>mpa-pāṭiyun= ta<lb n="6" break="no"/>ṭikai-pāṭiyuṅ</l>
-         	 	<l n="6">kuṭama<unclear>lai</unclear>-ñāṭuṅ kol<lb n="7" break="no"/>lamuṅ kaliṅkamum</l>
-         	 	<l n="7">Eṇ-ṭicai pukaḻ tara <lb n="8"/>Īḻa-maṇṭalamum</l>
-         	 	<l n="8">Iraṭṭa-pāṭi Ēḻ' arai y-ila<lb n="9" break="no"/>kkamun=</l>
-         	 	<l n="9">tiṇ-ṭiṟal veṉṟi-t taṇṭāṟ ko<lb n="10" break="no"/>ṇṭa ta<choice><orig>ṉn</orig><reg>ṉ</reg></choice></l>
-         	 	<l n="10">eḻil vaḷa<unclear>r u</unclear>ḻiyuḷ ellā yā<lb n="11" break="no"/>ṇṭun=</l>
-         	 	<l n="11">toḻutaka viḷaṅkum yāṇṭē</l>
-         	 	<l n="12">ceḻi<lb n="12" break="no"/>yarai tēcu koḷ</l>
-         	 </lg>
-         	<p>
-         	 	<hi rend="grantha">śrī</hi>-kō<hi rend="grantha">rājarājarāja</hi>
-         	 	<lb n="13" break="no"/><hi rend="grantha">kesari</hi>va<hi rend="grantha">rmmar-ā</hi>ṉa <hi rend="grantha">śrī-rājarāja-de</hi>vaṟku yā
-         	 	<lb n="14" break="no"/>ṇṭu Iru-patt' aiñc-āvatu
-         	 </p>
-         	
-         	<p>
-         		Āmu<unclear>r-k-</unclear>kō
-         	 	<lb n="15" break="no"/>ṭṭam vakai ceykiṉṟa <unclear>pu</unclear>tukk-uṭai
-         	 	<lb n="16" break="no"/>yāṉ Ekatiraṉ Aiyampatiṉ maṉn<!--Check-->akara
-         	 	<lb n="17" break="no"/>-māmallapurattu <hi rend="grantha">jalaśa</hi>yaṉa-<hi rend="grantha">de</hi>var te
-         	 	<lb n="18" break="no"/>ṟkkil tiru-nan=tāvaṉattē Iruk<unclear>ka</unclear> I<choice><orig>ṉ-n</orig><reg>n-n</reg></choice>a
-         	 	<lb n="19" break="no"/>karattu nakarattōmum periḷamaiyō
-         		<lb n="20" break="no"/>mum Emmil icain=tu ceyta <hi rend="grantha">vya</hi>va<hi rend="grantha">stai</hi>
-         	 	<lb n="21"/> y-āvatu
-         	</p>
-         	
-         	<p>
-         		Emm-<choice><orig>u</orig><reg>ū</reg></choice>r n<choice><orig>i</orig><reg>ī</reg></choice>r-nilamum veṇ-ṇi
-         	 	<lb n="22" break="no"/>lamum toṭṭa-nilamum kollai-nilamu
-         	 	<lb n="23" break="no"/>m iṟai-nilamāmacc' eppeṟpaṭṭatu
-         	 	<lb n="24" break="no"/>m nūṟu ma<unclear>ṉai</unclear>-k-k<choice><orig>i</orig><reg>ī</reg></choice>ḻ nā<unclear>l kūṟā</unclear>ka Aṭai
-         	 	<lb n="25" break="no"/>ppat' ākavum
-         	</p>
-         	
-         	<p>
-         		Ip-pa<unclear>ri</unclear>cu Aṭaiccu n<unclear>ā</unclear>
-         	 	<lb n="26" break="no"/>lu kūṟiṭṭa Oru kūṟu In-nakarattu ka<unclear>ṭu</unclear>
-         	 	<lb n="27" break="no"/>mpiṭuku-cēri-c-caṅkara-p-pāṭiyā<unclear>rk</unclear>
-         	 	<lb n="28" break="no"/>ku Irupatt' aiñcu maṉaikku kūṟāva
-         	 	<lb n="29" break="no"/>t' ākavum
-         	</p>
-         	<p>
-         		niṉṟa m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟu kūṟum Ēḻu
-         	 	<lb n="30" break="no"/>patt' aiñcu maṉai-k-k<choice><orig>i</orig><reg>ī</reg></choice>ḻ <unclear>kū</unclear>ṟāvat' ā
-         	 	<lb n="31" break="no"/>kavum
-         	</p>
-         	<p>
-         		kūṟiṭṭa paricē maṉaiyum nilamu
-         	 	<lb n="32" break="no"/>m viṟkkavum Oṟṟivaikkavum <hi rend="grantha">dharmma</hi>
-         	 	<lb n="33" break="no"/>-<hi rend="grantha"><unclear>d</unclear>ā</hi>ṉañ ceyya peṟuvat' ākavum
-         	</p>
-         	
-         	<p>
-         		ni
-         	 	<lb n="34" break="no"/>lamum maṉaiyum kū<unclear>ṟ' aṭai</unclear>t<unclear>ta</unclear> paric<unclear>e</unclear>
-         	 	<lb n="35" break="no"/><hi rend="grantha"><unclear>la</unclear>kṣa</hi>ṇañ ceytu kuṭuppat' ākavu
-         	 	<lb n="36" break="no"/>m
-         	</p>
-         	<p>
-         		muṉp-uḷḷa <hi rend="grantha">lakṣa</hi>ṇañ c<unclear>āṅkam ki</unclear>
-         	 	<lb n="37" break="no"/>ḻivat' ākavum
-         	</p>
-         	<p>
-         		kūṟ' aṭaitta nilaṅka
-         	 	<lb n="38" break="no"/>ḷil niṉṟa palluruvil pa<unclear>ḻa</unclear>-maraṅka
-         	 	<lb n="39" break="no"/>ḷ Avvavakūṟuṭaiyāṉē peṟu
-         	 	<lb n="40" break="no"/>vāṉ ākavum
-         	</p>
-         	
-         	<p>
-         		mañcikkattil niṉṟa
-         	 	<lb n="41" break="no"/>ṉa nūṟu maṉaiekkuṅ kū<unclear>ṟā</unclear>vat' ākavum
-         	</p>
-         	
-         	<p>
-         	 	<lb n="42"/>nilam Iṉṟiyē patiṉ āṟu vaya<hi rend="grantha">si</hi>ṉ
-         	 	<lb n="43"/>mēl viyāpārañ ceyt-iruppārai
-         	 	<lb n="44"/>Arai-k kaḻañcu poṉṉum kūli
-         	 	<lb n="45" break="no"/>kku-c ceyt-iruppārai Arai-k kā
-         	 	<lb n="46" break="no"/>l poṉṉum E
-         	 	<lb n="47" break="no"/>ruṭaiyarāy va
-         	 	<lb n="48" break="no"/>ricaikku muvārai
-         	 	<lb n="49" break="no"/>kkāl-p poṉṉu
-         	 	<lb n="50" break="no"/>m Āṇṭu varai
-         	 	<lb n="51" break="no"/>-k koḷvat' ākavum
-         	</p>
-         	
-         	<p>
-         		<lb n="52"/>Ip-paricu Aṉṟe
-         	 	<lb n="53" break="no"/>ṉṟārai mē<unclear>l</unclear> vē
-         	 	<lb n="54" break="no"/>ṟu Irupatt' aiṅ-kaḻañcu poṉ <hi rend="grantha">da</hi>ṇ-
-         	 	<lb n="55" break="no"/>ṭaṅ koḷvat' ākavum
-         	</p>
-         	
-         	<p>
-         		Ip-paricu em
-         	 	<lb n="56" break="no"/>mill icain=tu <hi rend="grantha">vya</hi>va<hi rend="grantha">stai</hi>
-         	 	ceytō
-         	 	<lb n="57" break="no"/>m nakarattōmum periḷamaiyō
-         	 	<lb n="58" break="no"/>mum
-         	</p>
-         	
-         	<p>
-         		Ip-paricu nakarattārum periḷa
-         	 	<lb n="59" break="no"/>maiyāruñ colla Eḻutiṉēṉ
-         	 	<lb n="60"/>I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>akarattu karaṇattāṉ tiru-v-a
-         	 	<lb n="61" break="no"/>ṭikaḷ maṇi kaṇṭa ṉāṉ tiruveḷaṟai
-         	 	<lb n="62" break="no"/>muvāyirattu Eḻunūṟṟuvaṉēṉ
-         	</p>
-         	<p>
-         		I
-         	 	<lb n="63" break="no"/>vai E<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> eḻuttu   	 	
-         	 </p>
-         	           	
-         </div>
-
-<!--<div type="apparatus">
-
-	<listApp>
-		<app loc="0">
-			<lem></lem>
-			<rdg source="bib:Hultzsch1890_01"></rdg>
-			<note>...</note>
-		</app>
-		
-	</listApp>
-	
-</div>               	-->
-         
-      	
-<div type="translation" source="bib:Hultzsch1891_01">
-         	
-         
-</div>
-
-
-<div type="commentary">
-         	
-	
-</div>
-
-
-<div type="bibliography">
-	
-	<p>
-		Reported in <bibl><ptr target="bib:ARIE1886-1887"/></bibl> (ARIE/1886-1887/II/1886-1887/2).
-	</p>
-	
-	<p>
-		Edited <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.40), with English translation.
-	</p>
-	
-	<p>
-		This digital edition by Emmanuel Francis (2024) after <bibl><ptr target="bib:Hultzsch1890_01"/></bibl>.
-	</p>
-	
-	<listBibl type="primary">
-		
-		<bibl n="SII">
-			<ptr target="bib:Hultzsch1890_01"/>
-			<citedRange unit="page">63-66</citedRange>
-			<citedRange unit="item">40</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1886-1887"/>
-			<citedRange unit="page">5</citedRange>
-			<citedRange unit="appendix">II</citedRange>
-			<citedRange unit="item">2</citedRange>
-		</bibl>	
-		
-	</listBibl>
-	
-</div>
-
-</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mahābalipuram, time of Rājarāja, year 25</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INStfaSIIv01p0i0040</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-03-26" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <lb n="1"/>svasti śrī
+                </ab>
+                
+                <lg n="1" met="āciriyappā">
+                    <l n="1">tirumakaḷ pō<lb n="2" break="no"/>la-p peru-nila-c-celvi<unclear>yu</unclear>n=</l>
+                    <l n="2">taṉakkē<lb n="3" break="no"/>-y urim<unclear>ai</unclear> pūṇ<unclear>ṭa</unclear>mai maṉa<unclear>kk</unclear>oḷa-k</l>
+                    <l n="3">kā<lb n="4" break="no"/>n=taḷuṟ cālai kalam aṟut<unclear>t-aruḷi</unclear></l>
+                    <l n="4">veṅkai<lb n="5" break="no"/>-nāṭuṅ <unclear>ka</unclear>ṅka-pāṭiyu</l>
+                    <l n="5"><unclear>nuḷa</unclear>mpa-pāṭiyun= ta<lb n="6" break="no"/>ṭikai-pāṭiyuṅ</l>
+                    <l n="6">kuṭama<unclear>lai</unclear>-ñāṭuṅ kol<lb n="7" break="no"/>lamuṅ kaliṅkamum</l>
+                    <l n="7">Eṇ-ṭicai pukaḻ tara <lb n="8"/>Īḻa-maṇṭalamum</l>
+                    <l n="8">Iraṭṭa-pāṭi Ēḻ' arai y-ila<lb n="9" break="no"/>kkamun=</l>
+                    <l n="9">tiṇ-ṭiṟal veṉṟi-t taṇṭāṟ ko<lb n="10" break="no"/>ṇṭa ta<choice><orig>ṉn</orig><reg>ṉ</reg></choice></l>
+                    <l n="10">eḻil vaḷa<unclear>r u</unclear>ḻiyuḷ ellā yā<lb n="11" break="no"/>ṇṭun=</l>
+                    <l n="11">toḻutaka viḷaṅkum yāṇṭē</l>
+                    <l n="12">ceḻi<lb n="12" break="no"/>yarai tēcu koḷ</l>
+                </lg>
+                <p>
+                    <hi rend="grantha">śrī</hi>-kō<hi rend="grantha">rājarājarāja</hi>
+                    <lb n="13" break="no"/><hi rend="grantha">kesari</hi>va<hi rend="grantha">rmmar-ā</hi>ṉa <hi rend="grantha">śrī-rājarāja-de</hi>vaṟku yā
+                    <lb n="14" break="no"/>ṇṭu Iru-patt' aiñc-āvatu
+                </p>
+                
+                <p>
+                    Āmu<unclear>r-k-</unclear>kō
+                    <lb n="15" break="no"/>ṭṭam vakai ceykiṉṟa <unclear>pu</unclear>tukk-uṭai
+                    <lb n="16" break="no"/>yāṉ Ekatiraṉ Aiyampatiṉ maṉn<!--Check-->akara
+                    <lb n="17" break="no"/>-māmallapurattu <hi rend="grantha">jalaśa</hi>yaṉa-<hi rend="grantha">de</hi>var te
+                    <lb n="18" break="no"/>ṟkkil tiru-nan=tāvaṉattē Iruk<unclear>ka</unclear> I<choice><orig>ṉ-n</orig><reg>n-n</reg></choice>a
+                    <lb n="19" break="no"/>karattu nakarattōmum periḷamaiyō
+                    <lb n="20" break="no"/>mum Emmil icain=tu ceyta <hi rend="grantha">vya</hi>va<hi rend="grantha">stai</hi>
+                    <lb n="21"/> y-āvatu
+                </p>
+                
+                <p>
+                    Emm-<choice><orig>u</orig><reg>ū</reg></choice>r n<choice><orig>i</orig><reg>ī</reg></choice>r-nilamum veṇ-ṇi
+                    <lb n="22" break="no"/>lamum toṭṭa-nilamum kollai-nilamu
+                    <lb n="23" break="no"/>m iṟai-nilamāmacc' eppeṟpaṭṭatu
+                    <lb n="24" break="no"/>m nūṟu ma<unclear>ṉai</unclear>-k-k<choice><orig>i</orig><reg>ī</reg></choice>ḻ nā<unclear>l kūṟā</unclear>ka Aṭai
+                    <lb n="25" break="no"/>ppat' ākavum
+                </p>
+                
+                <p>
+                    Ip-pa<unclear>ri</unclear>cu Aṭaiccu n<unclear>ā</unclear>
+                    <lb n="26" break="no"/>lu kūṟiṭṭa Oru kūṟu In-nakarattu ka<unclear>ṭu</unclear>
+                    <lb n="27" break="no"/>mpiṭuku-cēri-c-caṅkara-p-pāṭiyā<unclear>rk</unclear>
+                    <lb n="28" break="no"/>ku Irupatt' aiñcu maṉaikku kūṟāva
+                    <lb n="29" break="no"/>t' ākavum
+                </p>
+                <p>
+                    niṉṟa m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟu kūṟum Ēḻu
+                    <lb n="30" break="no"/>patt' aiñcu maṉai-k-k<choice><orig>i</orig><reg>ī</reg></choice>ḻ <unclear>kū</unclear>ṟāvat' ā
+                    <lb n="31" break="no"/>kavum
+                </p>
+                <p>
+                    kūṟiṭṭa paricē maṉaiyum nilamu
+                    <lb n="32" break="no"/>m viṟkkavum Oṟṟivaikkavum <hi rend="grantha">dharmma</hi>
+                    <lb n="33" break="no"/>-<hi rend="grantha"><unclear>d</unclear>ā</hi>ṉañ ceyya peṟuvat' ākavum
+                </p>
+                
+                <p>
+                    ni
+                    <lb n="34" break="no"/>lamum maṉaiyum kū<unclear>ṟ' aṭai</unclear>t<unclear>ta</unclear> paric<unclear>e</unclear>
+                    <lb n="35" break="no"/><hi rend="grantha"><unclear>la</unclear>kṣa</hi>ṇañ ceytu kuṭuppat' ākavu
+                    <lb n="36" break="no"/>m
+                </p>
+                <p>
+                    muṉp-uḷḷa <hi rend="grantha">lakṣa</hi>ṇañ c<unclear>āṅkam ki</unclear>
+                    <lb n="37" break="no"/>ḻivat' ākavum
+                </p>
+                <p>
+                    kūṟ' aṭaitta nilaṅka
+                    <lb n="38" break="no"/>ḷil niṉṟa palluruvil pa<unclear>ḻa</unclear>-maraṅka
+                    <lb n="39" break="no"/>ḷ Avvavakūṟuṭaiyāṉē peṟu
+                    <lb n="40" break="no"/>vāṉ ākavum
+                </p>
+                
+                <p>
+                    mañcikkattil niṉṟa
+                    <lb n="41" break="no"/>ṉa nūṟu maṉaiekkuṅ kū<unclear>ṟā</unclear>vat' ākavum
+                </p>
+                
+                <p>
+                    <lb n="42"/>nilam Iṉṟiyē patiṉ āṟu vaya<hi rend="grantha">si</hi>ṉ
+                    <lb n="43"/>mēl viyāpārañ ceyt-iruppārai
+                    <lb n="44"/>Arai-k kaḻañcu poṉṉum kūli
+                    <lb n="45" break="no"/>kku-c ceyt-iruppārai Arai-k kā
+                    <lb n="46" break="no"/>l poṉṉum E
+                    <lb n="47" break="no"/>ruṭaiyarāy va
+                    <lb n="48" break="no"/>ricaikku muvārai
+                    <lb n="49" break="no"/>kkāl-p poṉṉu
+                    <lb n="50" break="no"/>m Āṇṭu varai
+                    <lb n="51" break="no"/>-k koḷvat' ākavum
+                </p>
+                
+                <p>
+                    <lb n="52"/>Ip-paricu Aṉṟe
+                    <lb n="53" break="no"/>ṉṟārai mē<unclear>l</unclear> vē
+                    <lb n="54" break="no"/>ṟu Irupatt' aiṅ-kaḻañcu poṉ <hi rend="grantha">da</hi>ṇ-
+                    <lb n="55" break="no"/>ṭaṅ koḷvat' ākavum
+                </p>
+                
+                <p>
+                    Ip-paricu em
+                    <lb n="56" break="no"/>mill icain=tu <hi rend="grantha">vya</hi>va<hi rend="grantha">stai</hi>
+                    ceytō
+                    <lb n="57" break="no"/>m nakarattōmum periḷamaiyō
+                    <lb n="58" break="no"/>mum
+                </p>
+                
+                <p>
+                    Ip-paricu nakarattārum periḷa
+                    <lb n="59" break="no"/>maiyāruñ colla Eḻutiṉēṉ
+                    <lb n="60"/>I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>akarattu karaṇattāṉ tiru-v-a
+                    <lb n="61" break="no"/>ṭikaḷ maṇi kaṇṭa ṉāṉ tiruveḷaṟai
+                    <lb n="62" break="no"/>muvāyirattu Eḻunūṟṟuvaṉēṉ
+                </p>
+                <p>
+                    I
+                    <lb n="63" break="no"/>vai E<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> eḻuttu   	 	
+                </p>
+                
+            </div>
+            
+            <!--<div type="apparatus">
+                
+                <listApp>
+                <app loc="0">
+                <lem></lem>
+                <rdg source="bib:Hultzsch1890_01"></rdg>
+                <note>...</note>
+                </app>
+                
+                </listApp>
+                
+                </div>               	-->
+            
+            
+            <div type="translation" source="bib:Hultzsch1891_01">
+                
+                
+            </div>
+            
+            
+            <div type="commentary">
+                
+                
+            </div>
+            
+            
+            <div type="bibliography">
+                
+                <p>
+                    Reported in <bibl><ptr target="bib:ARIE1886-1887"/></bibl> (ARIE/1886-1887/II/1886-1887/2).
+                </p>
+                
+                <p>
+                    Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.40), with English translation.
+                </p>
+                
+                <p>
+                    This online edition by Emmanuel Francis based on <bibl><ptr target="bib:Hultzsch1890_01"/></bibl>.
+                </p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:Hultzsch1890_01"/>
+                        <citedRange unit="page">63-66</citedRange>
+                        <citedRange unit="item">40</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1886-1887"/>
+                        <citedRange unit="page">5</citedRange>
+                        <citedRange unit="appendix">II</citedRange>
+                        <citedRange unit="item">2</citedRange>
+                    </bibl>	
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>

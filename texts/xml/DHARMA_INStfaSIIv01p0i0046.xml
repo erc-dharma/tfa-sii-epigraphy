@@ -150,14 +150,14 @@
             <div type="bibliography">
                 
                 <p>
-                    First reported in <bibl><ptr target="bib:ARIE1886-1887"/></bibl> (ARIE/1886-1887/II/1886-1887/40).
+                    Reported in <bibl><ptr target="bib:ARIE1886-1887"/></bibl> (ARIE/1886-1887/II/1886-1887/40).
                 </p>
                 
                 <p>
-                    First edited <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.44), with English translation.
+                    Edited in <bibl><ptr target="bib:Hultzsch1890_01"/></bibl> (SII 1.46), with English translation.
                 </p>
                 
-                <p>This digital edition by Emmanuel Francis (2024).</p>
+                <p>This online edition by Emmanuel Francis based on <bibl><ptr target="bib:Hultzsch1890_01"/></bibl>.</p>
                 
                 <listBibl type="primary">
                     
