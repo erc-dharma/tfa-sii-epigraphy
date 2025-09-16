@@ -94,8 +94,8 @@
 		Check from estampage
 		Check VG photos if any
 -->
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>svasti śrī <g type="gomutraFinal">.</g>
+	<ab>
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi> <g type="gomutraFinal">.</g>
 	</ab>
 	<p>
 		 kō-<hi rend="grantha">rāja</hi>kē<hi rend="grantha">sa-riva<unclear>r</unclear>mma</hi>ṟku yāṇṭu Iru-pattu m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟ-āvatu
