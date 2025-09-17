@@ -95,8 +95,8 @@
 		Check VG photos if any
 -->
 	
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>sva<unclear>sti śrī</unclear>
+	<ab>
+		<lb n="1"/><hi rend="grantha">sva<unclear>sti śrī</unclear></hi>
 	</ab>
 	<p>
 		cālai kalam aṟutta kō-I<hi rend="grantha">rāja-rāja</hi>-kē<hi rend="grantha">sari</hi>-va<hi rend="grantha">rma</hi>ṟku yāṇṭu <num value="13"><g type="numeral">10</g> 3</num>-Āvatu
@@ -117,8 +117,8 @@
 		<lb n="7" break="no"/>-<hi rend="grantha"><unclear>gu</unclear></hi>ṇāka<hi rend="grantha"><unclear>ra</unclear></hi>-<unclear>vi</unclear><hi rend="grantha"><choice><orig><unclear>j</unclear></orig><reg>d</reg></choice><unclear>yā-sth</unclear></hi><hi rend="grantha">ā</hi><unclear>na</unclear>-<hi rend="grantha">ma</hi><unclear>ṅ</unclear>kalāti<unclear>tta</unclear>-<hi rend="grantha"><unclear>sama</unclear></hi><hi rend="grantha">ñ<choice><orig>c</orig><reg>j</reg></choice>asa-pri</hi>ya<unclear>ṉ-ē</unclear>ṉ
 	</p>
 	
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
-		śrī
+	<ab>		
+		<hi rend="grantha">śrī</hi>
 	</ab>
 		
 </div>

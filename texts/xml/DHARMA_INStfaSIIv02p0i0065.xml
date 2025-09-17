@@ -5,594 +5,594 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Tanjore, Bṛhadīśvara, time of Rājakesarivarman Rājarāja, year 29</title>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:reda">
-						<forename>Renato</forename>
-						<surname>Dávalos</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INStfaSIIv02p0i0065</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary>Donation of paddy (<foreign>nellu</foreign>) by Rājarāja I Cōḻa, made up to the 29th year of his reign, to 48 reciters of the glorious hymns (<foreign>tiruppatiyam</foreign>) in the temple of Rājarājeśvara and to 2 drummers.</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p/>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tanjore, Bṛhadīśvara, time of Rājakesarivarman Rājarāja, year 29</title>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INStfaSIIv02p0i0065</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Donation of paddy (<foreign>nellu</foreign>) by Rājarāja I Cōḻa, made up to the 29th year of his reign, to 48 reciters of the glorious hymns (<foreign>tiruppatiyam</foreign>) in the temple of Rājarājeśvara and to 2 drummers.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:reda" when="2023-10-04">Creation of the file on the repository</change>
-		</revisionDesc>
-	</teiHeader>
-	
-<text xml:space="preserve">
-<body>       
-        
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-			
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>svasti śrī
-	</ab>
-	
-	<lg n="1" met="āciriyappā">	    
-		
-		<l n="1">tiru-makaḷ pōla-p peru-nila-c celvi<unclear>yu</unclear>n</l>
-		<l n="2">taṉakkē-y u<unclear>ri</unclear>mai pū<unclear>ṇ</unclear>ṭamai maṉa-k-ko<unclear>ḷa</unclear>-k</l>
-		<l n="3">kānta<unclear>ḷū</unclear>r-c cālai kalam aṟutt’ aru<unclear>ḷi</unclear></l>
-		<l n="4"><unclear>ve</unclear>ṅkai<unclear>-nā</unclear>ṭu<unclear>ṅ</unclear> kaṅka-pāṭiyun</l>
-		<l n="5">ta<unclear>ṭi</unclear>kai-p<unclear>ā</unclear>ṭiyu<unclear>m nuḷa</unclear>m<unclear>pa</unclear>-pāṭiyu<unclear>ṅ</unclear></l>
-		<l n="6"><unclear>ku</unclear>ṭamalai-nāṭuṅ kollamuṅ ka<unclear>li</unclear>ṅ<unclear>ka</unclear>mum</l>
-		<l n="7">muraṭṭ’ eḻil ciṅkaḷar Īḻa-ma<unclear>ṇ</unclear>ṭalamu<unclear>m</unclear></l>
-		<l n="8">Iraṭṭa-pāṭi Ēḻ' arai Ilakkamum</l>
-		<l n="9">muṉṉīr-p paḻan tīvu <unclear>pa</unclear>ṉṉīrāyiramun</l>
-		<l n="10">ti<unclear>ṅ</unclear>-ṭiṟa<unclear>l</unclear> veṉṟi-<unclear>t</unclear> ta<lb n="2" break="no"/>ṇṭāṟ koṇṭa<unclear>ta</unclear><choice><orig>ṉṉ</orig><reg>ṉ</reg></choice></l>
-		<l n="11">eḻil vaḷa<unclear>r ū</unclear>ḻiyuḷ ellā-yā<unclear>ṇ</unclear>ṭun</l>
-		<l n="12">toḻutaka viḷaṅkum yāṇṭē</l>
-		<l n="13">ceḻiyarai-t tēcu <unclear>koḷ</unclear></l>
-		
-	</lg>
-	
-	<p>
-		kō-<hi rend="grantha">rāja</hi>-kē<hi rend="grantha">sari</hi>var<hi rend="grantha"><unclear>mma</unclear></hi>r-āṉa <hi rend="grantha">śrī-rāja-rāja<unclear>de</unclear></hi>varkku yāṇṭu Irupatt’ oṉpat-āvatu varai Uṭai<unclear>y</unclear>ār <hi rend="grantha">śrī-rāja-rājīśvaram·</hi> Uṭaiyārk<unclear>ku-t</unclear> tiru-p-patiyam viṇ<unclear>ṇap</unclear>pañ ceyya Uṭaiyār <hi rend="grantha">śrī-rāja-rāja-de</hi>var kuṭutta piṭ<unclear>ā</unclear>rarkaḷ nāṟpatt’ eṇmarum Ivarka<unclear>ḷi</unclear>lē <unclear>ni</unclear>laiyāy Uṭukkai vācippā
-		
-		<lb n="3" break="no"/>ṉ <unclear>Oru</unclear>vaṉum Ivarkaḷilē nilaiyāy-k koṭṭimatta<unclear>ḷa</unclear>m vācippāṉ Oruvaṉum Āka Aimpatiṉmarkku-p pērāl nicatam nellu mukkuṟu<unclear>ṇi niva</unclear>ntamāy<hi rend="grantha"> rāja</hi>ke<hi rend="grantha">sari</hi>-y Oṭ<choice><sic>o</sic><corr>u</corr></choice>kkum Āṭava<unclear>llāṉ Eṉ</unclear>ṉum marakkāl<unclear>ā</unclear>l U<unclear>ṭ</unclear>aiyār Uḷḷūr-p pa<unclear>ṇ</unclear>ṭā<unclear>rat</unclear>tēy peṟavum Ivar<unclear>ka</unclear>ḷil ce<unclear>t</unclear>tārkkum Aṉātēcam pōṉārkku<unclear>n</unclear> talaimāṟu Avvavarkku Aṭutta muṟai kaṭavār An-nellu-p peṟṟu-<unclear>t</unclear> tiruppatiya<unclear>m vi</unclear>ṇ
-				
-		<lb n="4" break="no"/><unclear>ṇa</unclear>ppañ c<unclear>e</unclear>y<unclear>yavum Av</unclear>vavarkku Aṭutta muṟai kaṭavār tāntām yo<hi rend="grantha">gyar·</hi> A<unclear>l</unclear>lātu viṭil yo<hi rend="grantha">gya</hi>rā<unclear>y i</unclear>rup<unclear>pā</unclear>rai Āḷiṭṭu-t tiruppa<unclear>ti</unclear>yam viṇṇappañ ceyvittu An-nellu-p peṟavum Avvavark<unclear>ku Aṭu</unclear>tta muṟai kaṭavār Iṉṟi-y oḻi<unclear>yi</unclear>l Anta <unclear>niyā</unclear>yattārē yo<hi rend="grantha">gya</hi>rā<unclear>y I</unclear>ruppārai-<unclear>t ti</unclear>ru<unclear>p</unclear>patiyam vi<unclear>ṇ</unclear>ṇappañ ceyya Iṭṭu Iṭṭa Avaṉē Avvavar peṟumpaṭi nellu-p <unclear>pe</unclear>ṟavum Āka Ip-paṭi <unclear>U</unclear>ṭaiyār <hi rend="grantha">śrī-rā</hi>
-		
-		<lb n="5" break="no"/><hi rend="grantha">ja<unclear>rā</unclear>ja<unclear>de</unclear></hi>var <unclear>tiruvāy</unclear>moḻint’ Aruḷiṉa paṭi kallil veṭṭiyatu <g type="gomutra">.</g>
-	</p>
-	
-	<p>
-		<list>
-			<item>		
-		pālaṉ tiruvāñci<unclear>ya</unclear>ttaṭikaḷ-<unclear>āṉa</unclear> <hi rend="grantha">rājarāja</hi>-p-piccaṉ-āṉa <choice><sic><hi rend="grantha">ca</hi></sic><corr><hi rend="grantha">sa</hi></corr></choice>tā<hi rend="grantha">śi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>
-	
-	<item>	
-		tiruveṇāval cempoṟ<unclear>cōti-y-ā</unclear>ṉa <hi rend="grantha">dakṣi</hi>ṇa<hi rend="grantha">meru</hi>-viṭaṅka-<unclear>p</unclear>-piccaṉ-āṉa ñāna<hi rend="grantha">śi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>
-	
-	<item>
-		paṭṭālakaṉ <unclear>Am</unclear>palattāṭi-y-āṉa <hi rend="grantha"> ma</hi>nō<hi rend="grantha">tmaśi</hi>vaṉukku nica<unclear>ta</unclear>m nellu mukkuṟuṇi <g type="gomutra">.</g>			
-	</item>
-	
-	<item>
-		paṭṭālakaṉ cīru<unclear>ṭai</unclear>kkaḻal-āṉa <lb n="6"/><hi rend="grantha"><unclear>pū</unclear>rvvaśi</hi>vaṉukku <unclear>ni</unclear>catam nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>
-	
-	<item>          	
-		poṟcuvaraṉ ti<unclear>ru</unclear>nāvukkaraiyaṉ-āṉa <hi rend="grantha">pūrvvaśi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>
-	
-	<item>	
-		mā<unclear>tē</unclear>vaṉ tirunāṉacampantaṉ-āṉa ñāna<hi rend="grantha">śi</hi>vaṉu<unclear>kku nica</unclear>tam n<unclear>ellu mukkuṟuṇi</unclear> <g type="gomutra">.</g>
-	</item>
-	
-	<item>             
-		kayilāyaṉ Ārūr-āṉa <hi rend="grantha">dharmmaśi</hi>vaṉukku <unclear>ni</unclear>catam n<unclear>e</unclear>llu mu<unclear>kku</unclear>ṟu<unclear>ṇi</unclear> <g type="gomutra">.</g>	
-	</item>    
-	
-	<item>             	
-		<unclear>c</unclear>e<unclear>ṭ</unclear>ṭi Eṭuttap<unclear>ātam-ā</unclear>ṉa kava<choice><sic><hi rend="grantha">śa</hi></sic><corr><hi rend="grantha">ca</hi></corr></choice><hi rend="grantha">śi</hi>vaṉukku nicatam nellu mu<unclear>kkuṟu</unclear>ṇi <g type="gomutra">.</g>	
-	</item>    
-	
-	<item>             	
-		Irāmaṉ campantaṉ-āṉa <hi rend="grantha">satyaśi</hi>vaṉukku nicatam nel
-		<lb n="7" break="no"/> lu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>    
-	
-	<item>       
-		Ampa<unclear>la</unclear>vaṉ <unclear>pa</unclear>t<unclear>ta</unclear>rka<unclear>ḷ</unclear> <gap reason="lost" quantity="3" unit="character"/><unclear>ṭa</unclear>ṉ-āṉa vā<hi rend="grantha">maśi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>   
-	
-	<item>             
-		kam<unclear>pa</unclear>ṉ tirunāvukkaraiyaṉ-āṉa <choice><sic><hi rend="grantha">ca</hi></sic><corr><hi rend="grantha">sa</hi></corr></choice>tā<hi rend="grantha">śi</hi>vaṉukku nicata<unclear>m nellu mukkuṟu</unclear>ṇi <g type="gomutra">.</g>
-	</item>    
-	
-	<item>             	
-		nakkaṉ cīrāḷaṉ-āṉa <hi rend="grantha">vāmaśi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>    
-	
-	<item>      		
-		<unclear>A</unclear>ppi <unclear>ti</unclear>runāvukkaraiyaṉ-āṉa ne<hi rend="grantha">ttraśi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>     
-	
-	<item>
-		civakko<unclear>ḻu</unclear>ntu cīrāḷaṉ-āṉa <hi rend="grantha">dharmmaśi</hi>vaṉuk<lb n="8" break="no"/>ku nicatam <unclear>ne</unclear>llu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>     
-	
-	<item>  		
-		Aiññū<unclear>ṟṟu</unclear>vaṉ veṇkāṭaṉ-āṉa <hi rend="grantha">satyaśi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>     
-	
-	<item>  
-		Araiyaṉ A<unclear>ṇu</unclear>kkaṉ-āṉa tirumaṟaik<unclear>k</unclear>ā<gap reason="lost" quantity="4" unit="character"/><unclear>ṉ-āṉa</unclear> <hi rend="grantha"><unclear>dharmmaśi</unclear></hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>
-	
-	<item>  
-		Araiyaṉ Am<unclear>pala</unclear>kkū<unclear>t</unclear>taṉ-āṉa  
-		<hi rend="grantha"><unclear>Oṁ</unclear></hi><choice><sic><hi rend="grantha">gā</hi></sic><corr><hi rend="grantha">kā</hi></corr></choice><hi rend="grantha">ra<unclear>śi</unclear></hi><unclear>vaṉu</unclear>kku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>
-	
-	<item>  
-		Ārūraṉ tirunāvukkarai<unclear>ya</unclear>ṉ-āṉa ñāna<hi rend="grantha">śi</hi>vaṉukku nicatam ne<lb n="9" break="no"/>llu mukku<unclear>ṟuṇi</unclear> <g type="gomutra">.</g>
-	</item> 
-	
-	<item> 
-		kūttaṉ maḻalaiccilam<unclear>p</unclear>-āṉa <hi rend="grantha">pūrvva</hi>śivaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>		
-	</item>  
-	
-	<item>  
-		Aiññūṟṟuvaṉ cīy<unclear>ā</unclear>rūr-āṉa ta<hi rend="grantha"><unclear>tpu</unclear><supplied reason="omitted">ru</supplied>ṣaśi</hi><unclear>śi</unclear>vaṉukku nicatam nellu mu<unclear>kku</unclear>ṟu<unclear>ṇi</unclear> <g type="gomutra">.</g>
-	</item> 
-	
-	<item>  
-		<unclear>campa</unclear>n<unclear>ta</unclear>ṉ Ārūraṉ-āṉa <hi rend="grantha">vāmaśi</hi>vaṉukku nicata<unclear>m</unclear> nellu mu<unclear>k</unclear>kuṟu<unclear>ṇi</unclear> <g type="gomutra">.</g>
-	</item> 
-	
-	<item>  
-		Araiyaṉ pic<unclear>caṉ-ā</unclear>ṉa <hi rend="grantha"><unclear>dharmmaśi</unclear></hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>  
-	
-	<item>  
-		kā<hi rend="grantha"><unclear>śyapa</unclear><choice><orig>n</orig><reg>ṉ</reg></choice>·</hi> Eṭutta<unclear>pā</unclear>tappiccaṉ-āṉa <hi rend="grantha">Urudraśi</hi>vaṉukku <unclear>ni</unclear>catam<lb n="10" break="no"/> nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>    
-	
-	<item>  
-		<hi rend="grantha">subrahmaṇya<choice><orig>n</orig><reg>ṉ</reg></choice>·</hi> <unclear>Ā</unclear>ccaṉ-āṉa <hi rend="grantha">dharmma<unclear>śi</unclear></hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>    
-	
-	<item>  
-		kūttaṉ Amara<hi rend="grantha">bhujaṅ<choice><sic>k</sic><corr>g</corr></choice>a<choice><orig>n</orig><reg>ṉ</reg></choice>·</hi>-āṉa <hi rend="grantha">satya<unclear>śi</unclear></hi>vaṉukku nicatam ne<unclear>llu muk</unclear>ku<unclear>ṟuṇi</unclear> <g type="gomutra">.</g>
-	</item>    
-	
-	<item>		
-		<gap reason="lost" quantity="3" unit="character"/> veṇ<unclear>k</unclear>ā<unclear>ṭa</unclear>ṉ-āṉa <hi rend="grantha">A<unclear>gho</unclear>raśi</hi><unclear>va</unclear>ṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>    
-	
-	<item>  
-		mātēvaṉ tirunāvukkar<unclear>aiyaṉ-ā</unclear>ṉa vi<hi rend="grantha">jñā</hi>na<hi rend="grantha">śi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>    
-	
-	<item>  
-		kūtta<unclear>ṉ</unclear> veṇkāṭa<unclear>ṉ-ā</unclear>ṉa U<hi rend="grantha">ru</hi><hi rend="grantha"><unclear>dra</unclear>śi</hi>vaṉuk<unclear>ku</unclear> nicata<unclear>m</unclear><lb n="11"/><unclear>ne</unclear>llu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>    
-	
-	<item>  
-		Aiññūṟṟuvaṉ tiru<unclear>vā</unclear>y<unclear>mū</unclear>r-āṉa <hi rend="grantha">Agho<unclear>raśi</unclear></hi><unclear>vaṉu</unclear>kku nicata<unclear>m ne</unclear>llu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>    
-	
-	<item>  
-		tirumalai kūttaṉ-āṉa <hi rend="grantha">vāmaśi</hi>vaṉukku <unclear>nica</unclear>tam nellu <unclear>muk</unclear>kuṟuṇi <g type="gomutra">.</g>
-	</item>    
-	
-	<item>  
-		Aiññūṟṟuvaṉ Eṭuttapātam-āṉa <hi rend="grantha"> dharmmaśi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>    
-	
-	<item>  
-		Araiyaṉ ti<unclear>l</unclear>laikkaraic-āṉa <hi rend="grantha">pūrvvaśi</hi><unclear>va</unclear>ṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>    
-	
-	<item>  
-		kā<unclear>ḷi</unclear> campa<unclear>n</unclear>taṉ-ā<unclear>ṉa</unclear> <hi rend="grantha">dharmmaśi</hi><unclear>vaṉu</unclear>kku nicatam nellu mukkuṟu<unclear>ṇi</unclear> <g type="gomutra">.</g>
-	</item>    
-		
-	<item>		
-		kā<unclear>p</unclear>ā<lb n="12" break="no"/>likavāli-y-āṉa ñā<unclear>na</unclear><hi rend="grantha">śi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>   
-		
-	<item> 
-		v<unclear>e</unclear>ṇkāṭaṉ na<hi rend="grantha">maśśi</hi>vā<unclear>yam-ā</unclear>ṉa U<hi rend="grantha">rudra<unclear>śi</unclear></hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>
-	
-	<item> 
-		civaṉaṉantaṉ-ā<unclear>ṉa</unclear> <hi rend="grantha">yogaśi</hi>vaṉukku nicatam nellu mukkuṟu<unclear>ṇi</unclear> <g type="gomutra">.</g>
-	</item>
-	
-	<item> 
-		civa<unclear>kk</unclear>oḻu<unclear>ntu</unclear> campantaṉ-āṉa <hi rend="grantha">aghoraśi</hi>vaṉu<unclear>k</unclear>ku nicatam nellu mukkuṟu<unclear>ṇi</unclear> <g type="gomutra">.</g>
-	</item>
-	
-	<item> 
-		<unclear>irāmaṉ kaṇava</unclear>ti-y-āṉa ñāna<hi rend="grantha">śi</hi>vaṉukku nicatam nellu mukkuṟu<unclear>ṇi</unclear> <g type="gomutra">.</g>
-	</item>	
-	
-	<item> 
-		<unclear>pi</unclear>ccaṉ ve<unclear>ṇ</unclear>kāṭaṉ-āṉa <hi rend="grantha">a<unclear>gho</unclear>ra<unclear>śi</unclear></hi><lb n="13" break="no"/>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item> 	
-	
-	<item> 
-		maṟaikkāṭaṉ nampi Ārūraṉ-āṉa ñāna<hi rend="grantha"><unclear>śi</unclear></hi><unclear>va</unclear>ṉu<unclear>k</unclear>ku <unclear>ni</unclear>catam nellu mukkuṟuṇi
-	</item> 	
-	
-	<item>
-		cōmaṉ campantaṉ-āṉa ñā<unclear>na</unclear><hi rend="grantha">śi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item> 
-	
-	<item>
-		catti tirun<unclear>ā</unclear>vukkaraiyaṉ-āṉa <hi rend="grantha"><unclear>ī</unclear>śā</hi>na<hi rend="grantha"><unclear>śi</unclear></hi>vaṉukku ni<unclear>ca</unclear>tam ne<unclear>l</unclear>lu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>  	
-	
-	<item>
-		p<unclear>o</unclear>ṟcuvara<unclear>ṉ</unclear> nam<unclear>pi</unclear>yā<unclear>rūraṉ-ā</unclear>ṉa <hi rend="grantha">dharmmaśi</hi>vaṉukku nicatam nellu mukkuṟu<unclear>ṇi</unclear> <g type="gomutra">.</g>
-	</item>
-	
-	<item>	
-		Āccaṉ tirunāvu<unclear>k</unclear>karaiyaṉ-āṉa nē<hi rend="grantha">ttraśi</hi><unclear>va</unclear>ṉukku nica<unclear>ta</unclear>m<lb n="14"/>nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>
-	
-	<item>
-		Aiyāṟaṉ peṇṇōrpākaṉ-āṉa <hi rend="grantha">hṛda</hi><unclear>ya</unclear><hi rend="grantha"><unclear>śi</unclear></hi>vaṉu<unclear>kku ni</unclear>catam nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>
-	
-	<item>
-		<hi rend="grantha">rājādi<unclear>tta</unclear>n·</hi> Ampalattāṭi-y-āṉa <hi rend="grantha">śikhāśi</hi><unclear>va</unclear>ṉukku <unclear>ni</unclear>catam nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>
-	
-	<item>	       		  	
-		c<unclear>e</unclear>lvaṉ ka<unclear>ṇa</unclear>vati t<unclear>em</unclear>paṉ-ā<unclear>ṉa</unclear> <hi rend="grantha"><unclear>dharmmaśi</unclear></hi>vaṉukku nicatam nel<unclear>lu mu</unclear>kkuṟuṇi <g type="gomutra">.</g>
-	</item>
-	
-	<item>	  		
-		kūt<unclear>ta</unclear>ṉ tillaikkūttaṉ-āṉa ñāna<hi rend="grantha">śi</hi>vaṉu<unclear>kku</unclear> nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>
-	
-	<item>	
-		Uṭukkai vācikku<unclear>m</unclear> <hi rend="grantha">dve</hi>taikōmapuṟattum <unclear>ta</unclear><hi rend="grantha">tta</hi>ya<hi rend="grantha">krama</hi>vi<lb n="15" break="no"/><hi rend="grantha">ttan·</hi> makaṉ <hi rend="grantha">sūryyade</hi>va<hi rend="grantha">krama</hi>vitta<unclear>ṉ-ā</unclear>ṉa Ā<gap reason="lost" quantity="1" unit="character"/>laviṭaṅka Uṭukkai vi<hi rend="grantha">jjā</hi>tiraṉ-āṉa cōma<hi rend="grantha">śi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
-	</item>
-	
-	<item>	  	
-		koṭṭimatta<unclear>ḷa</unclear>m vācikkuṅkuṇappu<unclear>ka</unclear>ḻ marutaṉ-āṉa <hi rend="grantha">śikhāśi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>		
-	</item>
-	</list>
-	</p>
-	
-</div>
-       	
-<div type="apparatus">
-    	   
-	<listApp>
-		
-		<!--<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Hultzsch1895_01">...</rdg>
-		</app>	-->
-		
-		<app loc="1">
-			<lem>maṉakko<unclear>ḷa</unclear>k</lem>
-			<rdg source="bib:Hultzsch1895_01">maṉakko<unclear>ḷ</unclear>k</rdg>
-		</app>	
-		
-		<app loc="1">
-			<lem><unclear>veṅkaināṭu</unclear></lem>
-			<note>The <foreign>kompu</foreign> in <foreign>ve</foreign> is clear.</note>
-		</app>	
-						
-		<app loc="2">
-			<lem><unclear>koḷ</unclear></lem>
-			<note>The <foreign>kompu</foreign> in <foreign>ko</foreign> is clear.</note>
-		</app>	
-		
-		<app loc="2">
-			<lem><hi rend="grantha">śrīrājarāja<unclear>de</unclear></hi>varkku</lem>
-			<note>The <foreign>kompu</foreign> in <foreign><hi rend="grantha">de</hi></foreign> is clear.</note>
-		</app>	
-		
-		<app loc="4">
-			<lem>nellup<unclear>pe</unclear>ṟavum</lem>
-			<note>The <foreign>kompu</foreign> in <foreign>pe</foreign> is clear.</note>
-		</app>	
-		
-		<app loc="5">
-			<lem>cempoṟ<unclear>cōti-y-ā</unclear>ṉa</lem>
-			<note>The <foreign>kompu</foreign> in <foreign>cō</foreign> is clear.</note>
-		</app>	
-										
-		<app loc="5">
-			<lem>cīruṭaikkaḻal</lem>
-			<note>The <foreign>kompu</foreign> in <foreign>ṭai</foreign> is clear.</note>
-		</app>		
-		
-		<app loc="6">
-			<lem>mātēvaṉ</lem>
-			<note>The <foreign>kompu</foreign> in <foreign>tē</foreign> is clear.</note>
-		</app>	
-		
-		<app loc="6">
-			<lem>nellu</lem>
-			<note>The <foreign>kompu</foreign> in <foreign>ne</foreign> is clear.</note>
-		</app>
-		
-		<app loc="6">
-			<lem>ceṭṭi</lem>
-			<note>The <foreign>kompu</foreign> in <foreign>ce</foreign> is clear.</note>
-		</app>
-		
-		<app loc="8">
-			<lem>nellu</lem>
-			<note>The <foreign>kompu</foreign> in <foreign>ne</foreign> is clear.</note>
-		</app>
-		
-		<app loc="10">
-			<lem>nellu</lem>
-			<note>The <foreign>kompu</foreign> in <foreign>ne</foreign> is clear.</note>
-		</app>
-			
-			<app loc="10">
-			<lem>tirunāvukkaraiyaṉ</lem>
-			<note>The <foreign>kompu</foreign> in <foreign>rai</foreign> is clear.</note>
-		</app>
-		
-		<app loc="11">
-			<lem>nellu</lem>
-			<note>The <foreign>kompu</foreign> in <foreign>ne</foreign> is clear.</note>
-		</app>
-	</listApp>    			
-    	
-</div>
-    	
-<div type="translation" source="bib:Hultzsch1895_01">
-	
-	<!--Add SII notes-->
-	<!--Convert parentheses to proper markup-->
-	
-	<p n="§1">
-		Hail! Prosperity! Until the twenty-ninth year <supplied reason="subaudible">of the reign</supplied> of Kō-Rājakesarivarman, <hi rend="italic">alias</hi> Śrī-Rājarājadeva, who, in his life of growing strength, during which,— (in) the belief that, as well as the goddess of fortune, the goddess of the great earth had become his wife,— he was pleased to destroy the ships <supplied reason="subaudible">at</supplied> Kantaḷūr-cālai, and conquered by his army, which was victorious in great battles, Veṅkai-nāṭu, Kaṅka-pāṭi, Taṭikai-pāṭi, Nuḷamba-pāṭi, Kuṭamalai-nāṭu, Kollam, Kaliṅkam, Iḻa-maṇṭalam <supplied reason="subaudible">which was the country</supplied> of the Ciṅkaḷars who possessed rough strength, the seven and a half <hi rend="italic">ilakkam</hi> of <foreign>iraṭṭa-pāṭi</foreign>, and twelve thousand ancient islands of the sea,- deprived the Ceḻiyars of <supplied reason="subaudible">their</supplied> splendour at the very moment when <supplied reason="subaudible">they were</supplied> resplendent <supplied reason="subaudible">to such a degree</supplied> that <supplied reason="subaudible">they were</supplied> worthy to be worshipped everywhere;- the lord Śrī-Rājarājadeva had given,— for reciting the <foreign>Tiruppatiyam</foreign> before the lord of the Śrī-Rājarājadeva <supplied reason="subaudible">temple</supplied>,— forty-eight musicians <supplied reason="explanation">Piṭarār</supplied>, one person who should constantly beat the small drum<note>1</note> in their company, and one person who should constantly beat the big drum <supplied reason="explanation">koṭṭi-mattaḷum</supplied><note>2</note> in their company. These fifty persons were to receive from the city treasury of the lord a daily allowance <supplied reason="explanation">nibandha</supplied> of three <foreign>kuṟuṇi</foreign>s of paddy each, <supplied reason="subaudible">measured</supplied> by the <foreign>marakkāl</foreign> called <supplied reason="subaudible">after</supplied> Aṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>. Instead of those among these persons, who would die or emigrate,<note>3</note> the nearest relations of such persons were to receive that paddy and to recite the <foreign>Tiruppatiyam</foreign>. If the nearest relations of such persons were not qualified themselves, they were to select <supplied reason="subaudible">other</supplied> qualified persons, to let <supplied reason="subaudible">these</supplied> recite the <foreign>Tiruppatiyam</foreign>, and to receive that paddy. If there were no near relations to such persons, the <supplied reason="subaudible">other</supplied> incumbents of such appointments<note>5</note> were to select qualified persons for reciting the <foreign>Tiruppatiyam</foreign>, and the person selected was to receive the paddy in the same way, as that person <supplied reason="subaudible">whom he represented</supplied>, had received it. Accordingly, <supplied reason="subaudible">the names of the fifty persons</supplied> were engraved on stone, as the lord Śrī-Rājarājadeva had been pleased to order:—
-	</p>
-	<p n="§2">
-		To Pālaṉ <supplied reason="explanation"><hi rend="italic">i.e.</hi>, Bala</supplied> Tiruvañciyattaṭikaḷ,<note>5</note> <hi rend="italic">alias</hi> Rājarāja-Piccaṉ, <hi rend="italic">alias</hi> Catāśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§3">
-		To Tiruveṇāval Cempoṟcōti, <hi rend="italic">alias</hi> Dakṣiṇameru-Viṭaṅka-Piccaṉ, <hi rend="italic">alias</hi> Ñāṉaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§4">
-		To Paṭṭālakaṉ<note>6</note> Ampalattāṭi,<note>7</note> <hi rend="italic">alias</hi> Manotmaśivaṉ,<note>8</note> three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§5">
-		To Paṭṭālakaṉ Cīruṭaikkaḻal,<note>9</note> <hi rend="italic">alias</hi> Pūrvvaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§6">
-		To Poṟcuvaraṉ Tirunāvukkaraiyaṉ, <hi rend="italic">alias</hi> Pūrvvaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§7">
-		To Mātēvaṉ (i.e., Mahādeva) Tiruñāṉacampantaṉ, <hi rend="italic">alias</hi> Ñāṉaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§8">
-		To Kayilāyaṉ (i.e., Kailasa) Arūr, <hi rend="italic">alias</hi> Dharmmaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>		
-	<p n="§9">
-		To Ceṭṭi Eṭuttapātam, <hi rend="italic">alias</hi> Kavacaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§10">
-		To Irāmaṉ (i.e., Rāma) Campantaṉ, <hi rend="italic">alias</hi> Satyaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§11">		
-		To Ampalavaṉ-Pattarkaḷ <gap reason="lost"/> <hi rend="italic">alias</hi> Vāmaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>	
-	<p n="§12">	
-		To Kampaṉ Tirunāvukkaraiyaṉ, <hi rend="italic">alias</hi> Satāśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>	
-	<p n="§13">				
-		To Nakkaṉ (i.e., Nagna) Cīraḷaṉ, <hi rend="italic">alias</hi> Vamaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§14">
-		To Appi Tirunāvukkaraiyaṉ, <hi rend="italic">alias</hi> Nettraśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§15">
-		To Civakkoḻuntu Cīrāḷaṉ, <hi rend="italic">alias</hi> Dharmmaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§16">
-		To Aiññūṟṟuvaṉ Veṇkāṭaṉ, <hi rend="italic">alias</hi> Satyaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§17">
-		To Araiyaṉ Aṇukkaṉ <hi rend="italic">alias</hi> Tirumaṟaikka<gap reason="lost"/> <hi rend="italic">alias</hi> Dharmmaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§18">	
-		To Araiyaṉ Ampalakkūttaṉ, <hi rend="italic">alias</hi> Oṁkāraśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§19">
-		To Ārūraṉ Tirunāvukkaraiyaṉ, <hi rend="italic">alias</hi> Ñāṉaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§20">
-		To Kūttaṉ Maḻalaiccilampu, <hi rend="italic">alias</hi> Pūrvvaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§21">	
-		To Aiññūṟṟuvaṉ Cīyārūr, <hi rend="italic">alias</hi> Tatpuruṣaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§22">
-		To Campantaṉ Ārūraṉ, <hi rend="italic">alias</hi> Vāmaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§23">	
-		To Araiyaṉ Piccaṉ, <hi rend="italic">alias</hi> Dharmmaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§24">	
-		To Kāśyapaṉ Eṭuttapāta Piccaṉ, <hi rend="italic">alias</hi> Urudraśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§25">
-		To Subrahmaṇyaṉ Āccaṉ, <hi rend="italic">alias</hi> Dharmmaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§26">
-		To Kūttaṉ Amarabhujaṅkaṉ, <hi rend="italic">alias</hi> Satyaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§27">	
-		To <gap reason="lost"/> Veṅkāṭaṉ <hi rend="italic">alias</hi> Aghoraśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§28">
-		To Mātēvaṉ Tirunāvukkaraiyaṉ, <hi rend="italic">alias</hi> Vijñāṉaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§29">	
-		To Kūttaṉ Veṅkāṭaṉ, <hi rend="italic">alias</hi> Urudraśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§30">
-		To Aiññūṟṟuvaṉ Tiruvāymūr, <hi rend="italic">alias</hi> Aghoraśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§31">	
-		To Tirumalai Kūttaṉ, <hi rend="italic">alias</hi> Vāmaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§32">
-		To Aiññūṟṟuvaṉ Eṭuttapātam, <hi rend="italic">alias</hi> Dharmmaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§33">	
-		To Araiyaṉ Tillaikkaraicu, <hi rend="italic">alias</hi> Pūrvvaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§34">
-		To Kāḷi Campantaṉ, <hi rend="italic">alias</hi> Dharmmaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§35">	
-		To Kāpālikavāli, <hi rend="italic">alias</hi> Ñāṉaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§36">	
-		To Veṅkāṭaṉ Nāmaśśivāyam, <hi rend="italic">alias</hi> Rudraśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§37">	
-		To Civaṉaṉantaṉ <hi rend="italic">alias</hi> Yogaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§38">	
-		To Civakkoḻuntu Campantaṉ, <hi rend="italic">alias</hi> Aghoraśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§39">	
-		To Irāman Kaṇavati (i.e., Gaṇapati), <hi rend="italic">alias</hi> Aghoraśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§40">	
-		To Piccaṉ Veṅkāṭaṉ, <hi rend="italic">alias</hi> Aghoraśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§41">	
-		To Maṟaikkaṭaṉ, <hi rend="italic">alias</hi> Ñāṉaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§42">
-		To Cōmaṉ Campantaṉ, <hi rend="italic">alias</hi>. Ñāṉaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§43">
-		To Catti  (i.e., Śakti) Tirunāvukkaraiyaṉ, <hi rend="italic">alias</hi> īśānaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§44">
-		To Poṟcuvaraṉ Nampiyārūraṉ, <hi rend="italic">alias</hi> Dharmmaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§45">
-		To Āccaṉ Tirunāvukkaraiyaṉ, <hi rend="italic">alias</hi> Nēttraśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§46">
-		To Aiyāṟaṉ Peṇṇoṟpākaṉ, <hi rend="italic">alias</hi> Hṛdayaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§47">
-		To Rājādittan Ambalattāṭi, <hi rend="italic">alias</hi> Sikhāśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§48">
-		To Celvaṉ Kaṇavati Tempaṉ, <hi rend="italic">alias</hi> Dharmmaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§49">
-		To Kūttaṉ Tillaikkūttaṉ, <hi rend="italic">alias</hi> Ñāṉaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§50">
-		For beating the small drum, to Sūryadevakramavittaṉ,<note>1</note> <hi rend="italic">alias</hi> Viṭaṅka-Uṭukkai-Vijjātiraṉ<note>2</note> <hi rend="italic">alias</hi> Cōmaśivaṉ, the son of Tattayakramavittan of Dvetaikōmapuṟattum,<note>3</note> three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-	<p n="§51">
-		For beating the big drum, to Koṭṭimattaḷam Vācikkuṅkuṇappukaḻ Marutaṉ,<note>4</note> <hi rend="italic">alias</hi> Śikhāśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
-	</p>
-</div>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:reda" when="2023-10-04">Creation of the file on the repository</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:space="preserve">
+        <body>       
             
-<div type="commentary">
-    		
-    	<p><bibl><ptr target="bib:Swamy1972_01"/></bibl> (p. 103) notes: <quote>[...] all the 48 singers appointed by Rājarāja I possess a second name and two of them even a third. It is of interest to note that the second name (and the third in the case of two of them) are indicative of their having undergone some kind of religious initiation (<foreign>dīkṣā</foreign>), which therby qualified them for the sacred profession of hymn-offering.</quote></p>
-    
-</div>
-    	
-<div type="bibliography">
-    		
-    <!--<p>Reported in <bibl><ptr target="bib:ARIE1934-1935"/></bibl> (ARIE/1934-1935/B/1934-1935/104).</p>-->
-    <p>Edited, with English translation, in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.65).</p>
-    <p>This digital edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:Hultzsch1895_01"/></bibl>.</p>
-    
-    <listBibl type="primary">
-        
-        <bibl n="SII">
-            <ptr target="bib:Hultzsch1895_01"/>
-            <citedRange unit="page">252-259</citedRange>
-            <citedRange unit="item">65</citedRange>
-        </bibl>
-        
-    </listBibl>
-    
-    <listBibl type="secondary">
-        
-        <!--Add ARIE reference if any.-->
-        
-        <bibl>
-            <ptr target="bib:Swamy1972_01"/>
-        </bibl>
-        
-    </listBibl>
-	
-</div>
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                
+                <lg n="1" met="āciriyappā">	    
+                    
+                    <l n="1">tiru-makaḷ pōla-p peru-nila-c celvi<unclear>yu</unclear>n</l>
+                    <l n="2">taṉakkē-y u<unclear>ri</unclear>mai pū<unclear>ṇ</unclear>ṭamai maṉa-k-ko<unclear>ḷa</unclear>-k</l>
+                    <l n="3">kānta<unclear>ḷū</unclear>r-c cālai kalam aṟutt’ aru<unclear>ḷi</unclear></l>
+                    <l n="4"><unclear>ve</unclear>ṅkai<unclear>-nā</unclear>ṭu<unclear>ṅ</unclear> kaṅka-pāṭiyun</l>
+                    <l n="5">ta<unclear>ṭi</unclear>kai-p<unclear>ā</unclear>ṭiyu<unclear>m nuḷa</unclear>m<unclear>pa</unclear>-pāṭiyu<unclear>ṅ</unclear></l>
+                    <l n="6"><unclear>ku</unclear>ṭamalai-nāṭuṅ kollamuṅ ka<unclear>li</unclear>ṅ<unclear>ka</unclear>mum</l>
+                    <l n="7">muraṭṭ’ eḻil ciṅkaḷar Īḻa-ma<unclear>ṇ</unclear>ṭalamu<unclear>m</unclear></l>
+                    <l n="8">Iraṭṭa-pāṭi Ēḻ' arai Ilakkamum</l>
+                    <l n="9">muṉṉīr-p paḻan tīvu <unclear>pa</unclear>ṉṉīrāyiramun</l>
+                    <l n="10">ti<unclear>ṅ</unclear>-ṭiṟa<unclear>l</unclear> veṉṟi-<unclear>t</unclear> ta<lb n="2" break="no"/>ṇṭāṟ koṇṭa<unclear>ta</unclear><choice><orig>ṉṉ</orig><reg>ṉ</reg></choice></l>
+                    <l n="11">eḻil vaḷa<unclear>r ū</unclear>ḻiyuḷ ellā-yā<unclear>ṇ</unclear>ṭun</l>
+                    <l n="12">toḻutaka viḷaṅkum yāṇṭē</l>
+                    <l n="13">ceḻiyarai-t tēcu <unclear>koḷ</unclear></l>
+                    
+                </lg>
+                
+                <p>
+                    kō-<hi rend="grantha">rāja</hi>-kē<hi rend="grantha">sari</hi>var<hi rend="grantha"><unclear>mma</unclear></hi>r-āṉa <hi rend="grantha">śrī-rāja-rāja<unclear>de</unclear></hi>varkku yāṇṭu Irupatt’ oṉpat-āvatu varai Uṭai<unclear>y</unclear>ār <hi rend="grantha">śrī-rāja-rājīśvaram·</hi> Uṭaiyārk<unclear>ku-t</unclear> tiru-p-patiyam viṇ<unclear>ṇap</unclear>pañ ceyya Uṭaiyār <hi rend="grantha">śrī-rāja-rāja-de</hi>var kuṭutta piṭ<unclear>ā</unclear>rarkaḷ nāṟpatt’ eṇmarum Ivarka<unclear>ḷi</unclear>lē <unclear>ni</unclear>laiyāy Uṭukkai vācippā
+                    
+                    <lb n="3" break="no"/>ṉ <unclear>Oru</unclear>vaṉum Ivarkaḷilē nilaiyāy-k koṭṭimatta<unclear>ḷa</unclear>m vācippāṉ Oruvaṉum Āka Aimpatiṉmarkku-p pērāl nicatam nellu mukkuṟu<unclear>ṇi niva</unclear>ntamāy<hi rend="grantha"> rāja</hi>ke<hi rend="grantha">sari</hi>-y Oṭ<choice><sic>o</sic><corr>u</corr></choice>kkum Āṭava<unclear>llāṉ Eṉ</unclear>ṉum marakkāl<unclear>ā</unclear>l U<unclear>ṭ</unclear>aiyār Uḷḷūr-p pa<unclear>ṇ</unclear>ṭā<unclear>rat</unclear>tēy peṟavum Ivar<unclear>ka</unclear>ḷil ce<unclear>t</unclear>tārkkum Aṉātēcam pōṉārkku<unclear>n</unclear> talaimāṟu Avvavarkku Aṭutta muṟai kaṭavār An-nellu-p peṟṟu-<unclear>t</unclear> tiruppatiya<unclear>m vi</unclear>ṇ
+                    
+                    <lb n="4" break="no"/><unclear>ṇa</unclear>ppañ c<unclear>e</unclear>y<unclear>yavum Av</unclear>vavarkku Aṭutta muṟai kaṭavār tāntām yo<hi rend="grantha">gyar·</hi> A<unclear>l</unclear>lātu viṭil yo<hi rend="grantha">gya</hi>rā<unclear>y i</unclear>rup<unclear>pā</unclear>rai Āḷiṭṭu-t tiruppa<unclear>ti</unclear>yam viṇṇappañ ceyvittu An-nellu-p peṟavum Avvavark<unclear>ku Aṭu</unclear>tta muṟai kaṭavār Iṉṟi-y oḻi<unclear>yi</unclear>l Anta <unclear>niyā</unclear>yattārē yo<hi rend="grantha">gya</hi>rā<unclear>y I</unclear>ruppārai-<unclear>t ti</unclear>ru<unclear>p</unclear>patiyam vi<unclear>ṇ</unclear>ṇappañ ceyya Iṭṭu Iṭṭa Avaṉē Avvavar peṟumpaṭi nellu-p <unclear>pe</unclear>ṟavum Āka Ip-paṭi <unclear>U</unclear>ṭaiyār <hi rend="grantha">śrī-rā</hi>
+                    
+                    <lb n="5" break="no"/><hi rend="grantha">ja<unclear>rā</unclear>ja<unclear>de</unclear></hi>var <unclear>tiruvāy</unclear>moḻint’ Aruḷiṉa paṭi kallil veṭṭiyatu <g type="gomutra">.</g>
+                </p>
+                
+                <p>
+                    <list>
+                        <item>		
+                            pālaṉ tiruvāñci<unclear>ya</unclear>ttaṭikaḷ-<unclear>āṉa</unclear> <hi rend="grantha">rājarāja</hi>-p-piccaṉ-āṉa <choice><sic><hi rend="grantha">ca</hi></sic><corr><hi rend="grantha">sa</hi></corr></choice>tā<hi rend="grantha">śi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>
+                        
+                        <item>	
+                            tiruveṇāval cempoṟ<unclear>cōti-y-ā</unclear>ṉa <hi rend="grantha">dakṣi</hi>ṇa<hi rend="grantha">meru</hi>-viṭaṅka-<unclear>p</unclear>-piccaṉ-āṉa ñāna<hi rend="grantha">śi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>
+                        
+                        <item>
+                            paṭṭālakaṉ <unclear>Am</unclear>palattāṭi-y-āṉa <hi rend="grantha"> ma</hi>nō<hi rend="grantha">tmaśi</hi>vaṉukku nica<unclear>ta</unclear>m nellu mukkuṟuṇi <g type="gomutra">.</g>			
+                        </item>
+                        
+                        <item>
+                            paṭṭālakaṉ cīru<unclear>ṭai</unclear>kkaḻal-āṉa <lb n="6"/><hi rend="grantha"><unclear>pū</unclear>rvvaśi</hi>vaṉukku <unclear>ni</unclear>catam nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>
+                        
+                        <item>          	
+                            poṟcuvaraṉ ti<unclear>ru</unclear>nāvukkaraiyaṉ-āṉa <hi rend="grantha">pūrvvaśi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>
+                        
+                        <item>	
+                            mā<unclear>tē</unclear>vaṉ tirunāṉacampantaṉ-āṉa ñāna<hi rend="grantha">śi</hi>vaṉu<unclear>kku nica</unclear>tam n<unclear>ellu mukkuṟuṇi</unclear> <g type="gomutra">.</g>
+                        </item>
+                        
+                        <item>             
+                            kayilāyaṉ Ārūr-āṉa <hi rend="grantha">dharmmaśi</hi>vaṉukku <unclear>ni</unclear>catam n<unclear>e</unclear>llu mu<unclear>kku</unclear>ṟu<unclear>ṇi</unclear> <g type="gomutra">.</g>	
+                        </item>    
+                        
+                        <item>             	
+                            <unclear>c</unclear>e<unclear>ṭ</unclear>ṭi Eṭuttap<unclear>ātam-ā</unclear>ṉa kava<choice><sic><hi rend="grantha">śa</hi></sic><corr><hi rend="grantha">ca</hi></corr></choice><hi rend="grantha">śi</hi>vaṉukku nicatam nellu mu<unclear>kkuṟu</unclear>ṇi <g type="gomutra">.</g>	
+                        </item>    
+                        
+                        <item>             	
+                            Irāmaṉ campantaṉ-āṉa <hi rend="grantha">satyaśi</hi>vaṉukku nicatam nel
+                            <lb n="7" break="no"/> lu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>    
+                        
+                        <item>       
+                            Ampa<unclear>la</unclear>vaṉ <unclear>pa</unclear>t<unclear>ta</unclear>rka<unclear>ḷ</unclear> <gap reason="lost" quantity="3" unit="character"/><unclear>ṭa</unclear>ṉ-āṉa vā<hi rend="grantha">maśi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>   
+                        
+                        <item>             
+                            kam<unclear>pa</unclear>ṉ tirunāvukkaraiyaṉ-āṉa <choice><sic><hi rend="grantha">ca</hi></sic><corr><hi rend="grantha">sa</hi></corr></choice>tā<hi rend="grantha">śi</hi>vaṉukku nicata<unclear>m nellu mukkuṟu</unclear>ṇi <g type="gomutra">.</g>
+                        </item>    
+                        
+                        <item>             	
+                            nakkaṉ cīrāḷaṉ-āṉa <hi rend="grantha">vāmaśi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>    
+                        
+                        <item>      		
+                            <unclear>A</unclear>ppi <unclear>ti</unclear>runāvukkaraiyaṉ-āṉa ne<hi rend="grantha">ttraśi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>     
+                        
+                        <item>
+                            civakko<unclear>ḻu</unclear>ntu cīrāḷaṉ-āṉa <hi rend="grantha">dharmmaśi</hi>vaṉuk<lb n="8" break="no"/>ku nicatam <unclear>ne</unclear>llu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>     
+                        
+                        <item>  		
+                            Aiññū<unclear>ṟṟu</unclear>vaṉ veṇkāṭaṉ-āṉa <hi rend="grantha">satyaśi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>     
+                        
+                        <item>  
+                            Araiyaṉ A<unclear>ṇu</unclear>kkaṉ-āṉa tirumaṟaik<unclear>k</unclear>ā<gap reason="lost" quantity="4" unit="character"/><unclear>ṉ-āṉa</unclear> <hi rend="grantha"><unclear>dharmmaśi</unclear></hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>
+                        
+                        <item>  
+                            Araiyaṉ Am<unclear>pala</unclear>kkū<unclear>t</unclear>taṉ-āṉa  
+                            <hi rend="grantha"><unclear>Oṁ</unclear></hi><choice><sic><hi rend="grantha">gā</hi></sic><corr><hi rend="grantha">kā</hi></corr></choice><hi rend="grantha">ra<unclear>śi</unclear></hi><unclear>vaṉu</unclear>kku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>
+                        
+                        <item>  
+                            Ārūraṉ tirunāvukkarai<unclear>ya</unclear>ṉ-āṉa ñāna<hi rend="grantha">śi</hi>vaṉukku nicatam ne<lb n="9" break="no"/>llu mukku<unclear>ṟuṇi</unclear> <g type="gomutra">.</g>
+                        </item> 
+                        
+                        <item> 
+                            kūttaṉ maḻalaiccilam<unclear>p</unclear>-āṉa <hi rend="grantha">pūrvva</hi>śivaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>		
+                        </item>  
+                        
+                        <item>  
+                            Aiññūṟṟuvaṉ cīy<unclear>ā</unclear>rūr-āṉa ta<hi rend="grantha"><unclear>tpu</unclear><supplied reason="omitted">ru</supplied>ṣaśi</hi><unclear>śi</unclear>vaṉukku nicatam nellu mu<unclear>kku</unclear>ṟu<unclear>ṇi</unclear> <g type="gomutra">.</g>
+                        </item> 
+                        
+                        <item>  
+                            <unclear>campa</unclear>n<unclear>ta</unclear>ṉ Ārūraṉ-āṉa <hi rend="grantha">vāmaśi</hi>vaṉukku nicata<unclear>m</unclear> nellu mu<unclear>k</unclear>kuṟu<unclear>ṇi</unclear> <g type="gomutra">.</g>
+                        </item> 
+                        
+                        <item>  
+                            Araiyaṉ pic<unclear>caṉ-ā</unclear>ṉa <hi rend="grantha"><unclear>dharmmaśi</unclear></hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>  
+                        
+                        <item>  
+                            kā<hi rend="grantha"><unclear>śyapa</unclear><choice><orig>n</orig><reg>ṉ</reg></choice>·</hi> Eṭutta<unclear>pā</unclear>tappiccaṉ-āṉa <hi rend="grantha">Urudraśi</hi>vaṉukku <unclear>ni</unclear>catam<lb n="10" break="no"/> nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>    
+                        
+                        <item>  
+                            <hi rend="grantha">subrahmaṇya<choice><orig>n</orig><reg>ṉ</reg></choice>·</hi> <unclear>Ā</unclear>ccaṉ-āṉa <hi rend="grantha">dharmma<unclear>śi</unclear></hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>    
+                        
+                        <item>  
+                            kūttaṉ Amara<hi rend="grantha">bhujaṅ<choice><sic>k</sic><corr>g</corr></choice>a<choice><orig>n</orig><reg>ṉ</reg></choice>·</hi>-āṉa <hi rend="grantha">satya<unclear>śi</unclear></hi>vaṉukku nicatam ne<unclear>llu muk</unclear>ku<unclear>ṟuṇi</unclear> <g type="gomutra">.</g>
+                        </item>    
+                        
+                        <item>		
+                            <gap reason="lost" quantity="3" unit="character"/> veṇ<unclear>k</unclear>ā<unclear>ṭa</unclear>ṉ-āṉa <hi rend="grantha">A<unclear>gho</unclear>raśi</hi><unclear>va</unclear>ṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>    
+                        
+                        <item>  
+                            mātēvaṉ tirunāvukkar<unclear>aiyaṉ-ā</unclear>ṉa vi<hi rend="grantha">jñā</hi>na<hi rend="grantha">śi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>    
+                        
+                        <item>  
+                            kūtta<unclear>ṉ</unclear> veṇkāṭa<unclear>ṉ-ā</unclear>ṉa U<hi rend="grantha">ru</hi><hi rend="grantha"><unclear>dra</unclear>śi</hi>vaṉuk<unclear>ku</unclear> nicata<unclear>m</unclear><lb n="11"/><unclear>ne</unclear>llu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>    
+                        
+                        <item>  
+                            Aiññūṟṟuvaṉ tiru<unclear>vā</unclear>y<unclear>mū</unclear>r-āṉa <hi rend="grantha">Agho<unclear>raśi</unclear></hi><unclear>vaṉu</unclear>kku nicata<unclear>m ne</unclear>llu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>    
+                        
+                        <item>  
+                            tirumalai kūttaṉ-āṉa <hi rend="grantha">vāmaśi</hi>vaṉukku <unclear>nica</unclear>tam nellu <unclear>muk</unclear>kuṟuṇi <g type="gomutra">.</g>
+                        </item>    
+                        
+                        <item>  
+                            Aiññūṟṟuvaṉ Eṭuttapātam-āṉa <hi rend="grantha"> dharmmaśi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>    
+                        
+                        <item>  
+                            Araiyaṉ ti<unclear>l</unclear>laikkaraic-āṉa <hi rend="grantha">pūrvvaśi</hi><unclear>va</unclear>ṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>    
+                        
+                        <item>  
+                            kā<unclear>ḷi</unclear> campa<unclear>n</unclear>taṉ-ā<unclear>ṉa</unclear> <hi rend="grantha">dharmmaśi</hi><unclear>vaṉu</unclear>kku nicatam nellu mukkuṟu<unclear>ṇi</unclear> <g type="gomutra">.</g>
+                        </item>    
+                        
+                        <item>		
+                            kā<unclear>p</unclear>ā<lb n="12" break="no"/>likavāli-y-āṉa ñā<unclear>na</unclear><hi rend="grantha">śi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>   
+                        
+                        <item> 
+                            v<unclear>e</unclear>ṇkāṭaṉ na<hi rend="grantha">maśśi</hi>vā<unclear>yam-ā</unclear>ṉa U<hi rend="grantha">rudra<unclear>śi</unclear></hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>
+                        
+                        <item> 
+                            civaṉaṉantaṉ-ā<unclear>ṉa</unclear> <hi rend="grantha">yogaśi</hi>vaṉukku nicatam nellu mukkuṟu<unclear>ṇi</unclear> <g type="gomutra">.</g>
+                        </item>
+                        
+                        <item> 
+                            civa<unclear>kk</unclear>oḻu<unclear>ntu</unclear> campantaṉ-āṉa <hi rend="grantha">aghoraśi</hi>vaṉu<unclear>k</unclear>ku nicatam nellu mukkuṟu<unclear>ṇi</unclear> <g type="gomutra">.</g>
+                        </item>
+                        
+                        <item> 
+                            <unclear>irāmaṉ kaṇava</unclear>ti-y-āṉa ñāna<hi rend="grantha">śi</hi>vaṉukku nicatam nellu mukkuṟu<unclear>ṇi</unclear> <g type="gomutra">.</g>
+                        </item>	
+                        
+                        <item> 
+                            <unclear>pi</unclear>ccaṉ ve<unclear>ṇ</unclear>kāṭaṉ-āṉa <hi rend="grantha">a<unclear>gho</unclear>ra<unclear>śi</unclear></hi><lb n="13" break="no"/>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item> 	
+                        
+                        <item> 
+                            maṟaikkāṭaṉ nampi Ārūraṉ-āṉa ñāna<hi rend="grantha"><unclear>śi</unclear></hi><unclear>va</unclear>ṉu<unclear>k</unclear>ku <unclear>ni</unclear>catam nellu mukkuṟuṇi
+                        </item> 	
+                        
+                        <item>
+                            cōmaṉ campantaṉ-āṉa ñā<unclear>na</unclear><hi rend="grantha">śi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item> 
+                        
+                        <item>
+                            catti tirun<unclear>ā</unclear>vukkaraiyaṉ-āṉa <hi rend="grantha"><unclear>ī</unclear>śā</hi>na<hi rend="grantha"><unclear>śi</unclear></hi>vaṉukku ni<unclear>ca</unclear>tam ne<unclear>l</unclear>lu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>  	
+                        
+                        <item>
+                            p<unclear>o</unclear>ṟcuvara<unclear>ṉ</unclear> nam<unclear>pi</unclear>yā<unclear>rūraṉ-ā</unclear>ṉa <hi rend="grantha">dharmmaśi</hi>vaṉukku nicatam nellu mukkuṟu<unclear>ṇi</unclear> <g type="gomutra">.</g>
+                        </item>
+                        
+                        <item>	
+                            Āccaṉ tirunāvu<unclear>k</unclear>karaiyaṉ-āṉa nē<hi rend="grantha">ttraśi</hi><unclear>va</unclear>ṉukku nica<unclear>ta</unclear>m<lb n="14"/>nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>
+                        
+                        <item>
+                            Aiyāṟaṉ peṇṇōrpākaṉ-āṉa <hi rend="grantha">hṛda</hi><unclear>ya</unclear><hi rend="grantha"><unclear>śi</unclear></hi>vaṉu<unclear>kku ni</unclear>catam nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>
+                        
+                        <item>
+                            <hi rend="grantha">rājādi<unclear>tta</unclear>n·</hi> Ampalattāṭi-y-āṉa <hi rend="grantha">śikhāśi</hi><unclear>va</unclear>ṉukku <unclear>ni</unclear>catam nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>
+                        
+                        <item>	       		  	
+                            c<unclear>e</unclear>lvaṉ ka<unclear>ṇa</unclear>vati t<unclear>em</unclear>paṉ-ā<unclear>ṉa</unclear> <hi rend="grantha"><unclear>dharmmaśi</unclear></hi>vaṉukku nicatam nel<unclear>lu mu</unclear>kkuṟuṇi <g type="gomutra">.</g>
+                        </item>
+                        
+                        <item>	  		
+                            kūt<unclear>ta</unclear>ṉ tillaikkūttaṉ-āṉa ñāna<hi rend="grantha">śi</hi>vaṉu<unclear>kku</unclear> nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>
+                        
+                        <item>	
+                            Uṭukkai vācikku<unclear>m</unclear> <hi rend="grantha">dve</hi>taikōmapuṟattum <unclear>ta</unclear><hi rend="grantha">tta</hi>ya<hi rend="grantha">krama</hi>vi<lb n="15" break="no"/><hi rend="grantha">ttan·</hi> makaṉ <hi rend="grantha">sūryyade</hi>va<hi rend="grantha">krama</hi>vitta<unclear>ṉ-ā</unclear>ṉa Ā<gap reason="lost" quantity="1" unit="character"/>laviṭaṅka Uṭukkai vi<hi rend="grantha">jjā</hi>tiraṉ-āṉa cōma<hi rend="grantha">śi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>
+                        </item>
+                        
+                        <item>	  	
+                            koṭṭimatta<unclear>ḷa</unclear>m vācikkuṅkuṇappu<unclear>ka</unclear>ḻ marutaṉ-āṉa <hi rend="grantha">śikhāśi</hi>vaṉukku nicatam nellu mukkuṟuṇi <g type="gomutra">.</g>		
+                        </item>
+                    </list>
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>
+                    
+                    <!--<app loc="0">
+                        <lem>...</lem>
+                        <rdg source="bib:Hultzsch1895_01">...</rdg>
+                        </app>	-->
+                    
+                    <app loc="1">
+                        <lem>maṉakko<unclear>ḷa</unclear>k</lem>
+                        <rdg source="bib:Hultzsch1895_01">maṉakko<unclear>ḷ</unclear>k</rdg>
+                    </app>	
+                    
+                    <app loc="1">
+                        <lem><unclear>veṅkaināṭu</unclear></lem>
+                        <note>The <foreign>kompu</foreign> in <foreign>ve</foreign> is clear.</note>
+                    </app>	
+                    
+                    <app loc="2">
+                        <lem><unclear>koḷ</unclear></lem>
+                        <note>The <foreign>kompu</foreign> in <foreign>ko</foreign> is clear.</note>
+                    </app>	
+                    
+                    <app loc="2">
+                        <lem><hi rend="grantha">śrīrājarāja<unclear>de</unclear></hi>varkku</lem>
+                        <note>The <foreign>kompu</foreign> in <foreign><hi rend="grantha">de</hi></foreign> is clear.</note>
+                    </app>	
+                    
+                    <app loc="4">
+                        <lem>nellup<unclear>pe</unclear>ṟavum</lem>
+                        <note>The <foreign>kompu</foreign> in <foreign>pe</foreign> is clear.</note>
+                    </app>	
+                    
+                    <app loc="5">
+                        <lem>cempoṟ<unclear>cōti-y-ā</unclear>ṉa</lem>
+                        <note>The <foreign>kompu</foreign> in <foreign>cō</foreign> is clear.</note>
+                    </app>	
+                    
+                    <app loc="5">
+                        <lem>cīruṭaikkaḻal</lem>
+                        <note>The <foreign>kompu</foreign> in <foreign>ṭai</foreign> is clear.</note>
+                    </app>		
+                    
+                    <app loc="6">
+                        <lem>mātēvaṉ</lem>
+                        <note>The <foreign>kompu</foreign> in <foreign>tē</foreign> is clear.</note>
+                    </app>	
+                    
+                    <app loc="6">
+                        <lem>nellu</lem>
+                        <note>The <foreign>kompu</foreign> in <foreign>ne</foreign> is clear.</note>
+                    </app>
+                    
+                    <app loc="6">
+                        <lem>ceṭṭi</lem>
+                        <note>The <foreign>kompu</foreign> in <foreign>ce</foreign> is clear.</note>
+                    </app>
+                    
+                    <app loc="8">
+                        <lem>nellu</lem>
+                        <note>The <foreign>kompu</foreign> in <foreign>ne</foreign> is clear.</note>
+                    </app>
+                    
+                    <app loc="10">
+                        <lem>nellu</lem>
+                        <note>The <foreign>kompu</foreign> in <foreign>ne</foreign> is clear.</note>
+                    </app>
+                    
+                    <app loc="10">
+                        <lem>tirunāvukkaraiyaṉ</lem>
+                        <note>The <foreign>kompu</foreign> in <foreign>rai</foreign> is clear.</note>
+                    </app>
+                    
+                    <app loc="11">
+                        <lem>nellu</lem>
+                        <note>The <foreign>kompu</foreign> in <foreign>ne</foreign> is clear.</note>
+                    </app>
+                </listApp>    			
+                
+            </div>
+            
+            <div type="translation" source="bib:Hultzsch1895_01">
+                
+                <!--Add SII notes-->
+                <!--Convert parentheses to proper markup-->
+                
+                <p n="§1">
+                    Hail! Prosperity! Until the twenty-ninth year <supplied reason="subaudible">of the reign</supplied> of Kō-Rājakesarivarman, <hi rend="italic">alias</hi> Śrī-Rājarājadeva, who, in his life of growing strength, during which,— (in) the belief that, as well as the goddess of fortune, the goddess of the great earth had become his wife,— he was pleased to destroy the ships <supplied reason="subaudible">at</supplied> Kantaḷūr-cālai, and conquered by his army, which was victorious in great battles, Veṅkai-nāṭu, Kaṅka-pāṭi, Taṭikai-pāṭi, Nuḷamba-pāṭi, Kuṭamalai-nāṭu, Kollam, Kaliṅkam, Iḻa-maṇṭalam <supplied reason="subaudible">which was the country</supplied> of the Ciṅkaḷars who possessed rough strength, the seven and a half <hi rend="italic">ilakkam</hi> of <foreign>iraṭṭa-pāṭi</foreign>, and twelve thousand ancient islands of the sea,- deprived the Ceḻiyars of <supplied reason="subaudible">their</supplied> splendour at the very moment when <supplied reason="subaudible">they were</supplied> resplendent <supplied reason="subaudible">to such a degree</supplied> that <supplied reason="subaudible">they were</supplied> worthy to be worshipped everywhere;- the lord Śrī-Rājarājadeva had given,— for reciting the <foreign>Tiruppatiyam</foreign> before the lord of the Śrī-Rājarājadeva <supplied reason="subaudible">temple</supplied>,— forty-eight musicians <supplied reason="explanation">Piṭarār</supplied>, one person who should constantly beat the small drum<note>1</note> in their company, and one person who should constantly beat the big drum <supplied reason="explanation">koṭṭi-mattaḷum</supplied><note>2</note> in their company. These fifty persons were to receive from the city treasury of the lord a daily allowance <supplied reason="explanation">nibandha</supplied> of three <foreign>kuṟuṇi</foreign>s of paddy each, <supplied reason="subaudible">measured</supplied> by the <foreign>marakkāl</foreign> called <supplied reason="subaudible">after</supplied> Aṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>. Instead of those among these persons, who would die or emigrate,<note>3</note> the nearest relations of such persons were to receive that paddy and to recite the <foreign>Tiruppatiyam</foreign>. If the nearest relations of such persons were not qualified themselves, they were to select <supplied reason="subaudible">other</supplied> qualified persons, to let <supplied reason="subaudible">these</supplied> recite the <foreign>Tiruppatiyam</foreign>, and to receive that paddy. If there were no near relations to such persons, the <supplied reason="subaudible">other</supplied> incumbents of such appointments<note>5</note> were to select qualified persons for reciting the <foreign>Tiruppatiyam</foreign>, and the person selected was to receive the paddy in the same way, as that person <supplied reason="subaudible">whom he represented</supplied>, had received it. Accordingly, <supplied reason="subaudible">the names of the fifty persons</supplied> were engraved on stone, as the lord Śrī-Rājarājadeva had been pleased to order:—
+                </p>
+                <p n="§2">
+                    To Pālaṉ <supplied reason="explanation"><hi rend="italic">i.e.</hi>, Bala</supplied> Tiruvañciyattaṭikaḷ,<note>5</note> <hi rend="italic">alias</hi> Rājarāja-Piccaṉ, <hi rend="italic">alias</hi> Catāśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§3">
+                    To Tiruveṇāval Cempoṟcōti, <hi rend="italic">alias</hi> Dakṣiṇameru-Viṭaṅka-Piccaṉ, <hi rend="italic">alias</hi> Ñāṉaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§4">
+                    To Paṭṭālakaṉ<note>6</note> Ampalattāṭi,<note>7</note> <hi rend="italic">alias</hi> Manotmaśivaṉ,<note>8</note> three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§5">
+                    To Paṭṭālakaṉ Cīruṭaikkaḻal,<note>9</note> <hi rend="italic">alias</hi> Pūrvvaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§6">
+                    To Poṟcuvaraṉ Tirunāvukkaraiyaṉ, <hi rend="italic">alias</hi> Pūrvvaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§7">
+                    To Mātēvaṉ (i.e., Mahādeva) Tiruñāṉacampantaṉ, <hi rend="italic">alias</hi> Ñāṉaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§8">
+                    To Kayilāyaṉ (i.e., Kailasa) Arūr, <hi rend="italic">alias</hi> Dharmmaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>		
+                <p n="§9">
+                    To Ceṭṭi Eṭuttapātam, <hi rend="italic">alias</hi> Kavacaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§10">
+                    To Irāmaṉ (i.e., Rāma) Campantaṉ, <hi rend="italic">alias</hi> Satyaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§11">		
+                    To Ampalavaṉ-Pattarkaḷ <gap reason="lost"/> <hi rend="italic">alias</hi> Vāmaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>	
+                <p n="§12">	
+                    To Kampaṉ Tirunāvukkaraiyaṉ, <hi rend="italic">alias</hi> Satāśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>	
+                <p n="§13">				
+                    To Nakkaṉ (i.e., Nagna) Cīraḷaṉ, <hi rend="italic">alias</hi> Vamaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§14">
+                    To Appi Tirunāvukkaraiyaṉ, <hi rend="italic">alias</hi> Nettraśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§15">
+                    To Civakkoḻuntu Cīrāḷaṉ, <hi rend="italic">alias</hi> Dharmmaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§16">
+                    To Aiññūṟṟuvaṉ Veṇkāṭaṉ, <hi rend="italic">alias</hi> Satyaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§17">
+                    To Araiyaṉ Aṇukkaṉ <hi rend="italic">alias</hi> Tirumaṟaikka<gap reason="lost"/> <hi rend="italic">alias</hi> Dharmmaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§18">	
+                    To Araiyaṉ Ampalakkūttaṉ, <hi rend="italic">alias</hi> Oṁkāraśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§19">
+                    To Ārūraṉ Tirunāvukkaraiyaṉ, <hi rend="italic">alias</hi> Ñāṉaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§20">
+                    To Kūttaṉ Maḻalaiccilampu, <hi rend="italic">alias</hi> Pūrvvaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§21">	
+                    To Aiññūṟṟuvaṉ Cīyārūr, <hi rend="italic">alias</hi> Tatpuruṣaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§22">
+                    To Campantaṉ Ārūraṉ, <hi rend="italic">alias</hi> Vāmaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§23">	
+                    To Araiyaṉ Piccaṉ, <hi rend="italic">alias</hi> Dharmmaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§24">	
+                    To Kāśyapaṉ Eṭuttapāta Piccaṉ, <hi rend="italic">alias</hi> Urudraśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§25">
+                    To Subrahmaṇyaṉ Āccaṉ, <hi rend="italic">alias</hi> Dharmmaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§26">
+                    To Kūttaṉ Amarabhujaṅkaṉ, <hi rend="italic">alias</hi> Satyaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§27">	
+                    To <gap reason="lost"/> Veṅkāṭaṉ <hi rend="italic">alias</hi> Aghoraśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§28">
+                    To Mātēvaṉ Tirunāvukkaraiyaṉ, <hi rend="italic">alias</hi> Vijñāṉaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§29">	
+                    To Kūttaṉ Veṅkāṭaṉ, <hi rend="italic">alias</hi> Urudraśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§30">
+                    To Aiññūṟṟuvaṉ Tiruvāymūr, <hi rend="italic">alias</hi> Aghoraśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§31">	
+                    To Tirumalai Kūttaṉ, <hi rend="italic">alias</hi> Vāmaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§32">
+                    To Aiññūṟṟuvaṉ Eṭuttapātam, <hi rend="italic">alias</hi> Dharmmaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§33">	
+                    To Araiyaṉ Tillaikkaraicu, <hi rend="italic">alias</hi> Pūrvvaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§34">
+                    To Kāḷi Campantaṉ, <hi rend="italic">alias</hi> Dharmmaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§35">	
+                    To Kāpālikavāli, <hi rend="italic">alias</hi> Ñāṉaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§36">	
+                    To Veṅkāṭaṉ Nāmaśśivāyam, <hi rend="italic">alias</hi> Rudraśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§37">	
+                    To Civaṉaṉantaṉ <hi rend="italic">alias</hi> Yogaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§38">	
+                    To Civakkoḻuntu Campantaṉ, <hi rend="italic">alias</hi> Aghoraśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§39">	
+                    To Irāman Kaṇavati (i.e., Gaṇapati), <hi rend="italic">alias</hi> Aghoraśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§40">	
+                    To Piccaṉ Veṅkāṭaṉ, <hi rend="italic">alias</hi> Aghoraśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§41">	
+                    To Maṟaikkaṭaṉ, <hi rend="italic">alias</hi> Ñāṉaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§42">
+                    To Cōmaṉ Campantaṉ, <hi rend="italic">alias</hi>. Ñāṉaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§43">
+                    To Catti  (i.e., Śakti) Tirunāvukkaraiyaṉ, <hi rend="italic">alias</hi> īśānaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§44">
+                    To Poṟcuvaraṉ Nampiyārūraṉ, <hi rend="italic">alias</hi> Dharmmaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§45">
+                    To Āccaṉ Tirunāvukkaraiyaṉ, <hi rend="italic">alias</hi> Nēttraśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§46">
+                    To Aiyāṟaṉ Peṇṇoṟpākaṉ, <hi rend="italic">alias</hi> Hṛdayaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§47">
+                    To Rājādittan Ambalattāṭi, <hi rend="italic">alias</hi> Sikhāśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§48">
+                    To Celvaṉ Kaṇavati Tempaṉ, <hi rend="italic">alias</hi> Dharmmaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§49">
+                    To Kūttaṉ Tillaikkūttaṉ, <hi rend="italic">alias</hi> Ñāṉaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§50">
+                    For beating the small drum, to Sūryadevakramavittaṉ,<note>1</note> <hi rend="italic">alias</hi> Viṭaṅka-Uṭukkai-Vijjātiraṉ<note>2</note> <hi rend="italic">alias</hi> Cōmaśivaṉ, the son of Tattayakramavittan of Dvetaikōmapuṟattum,<note>3</note> three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+                <p n="§51">
+                    For beating the big drum, to Koṭṭimattaḷam Vācikkuṅkuṇappukaḻ Marutaṉ,<note>4</note> <hi rend="italic">alias</hi> Śikhāśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                </p>
+            </div>
+            
+            <div type="commentary">
+                
+                <p><bibl><ptr target="bib:Swamy1972_01"/></bibl> (p. 103) notes: <quote>[...] all the 48 singers appointed by Rājarāja I possess a second name and two of them even a third. It is of interest to note that the second name (and the third in the case of two of them) are indicative of their having undergone some kind of religious initiation (<foreign>dīkṣā</foreign>), which therby qualified them for the sacred profession of hymn-offering.</quote></p>
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <!--<p>Reported in <bibl><ptr target="bib:ARIE1934-1935"/></bibl> (ARIE/1934-1935/B/1934-1935/104).</p>-->
+                <p>Edited, with English translation, in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.65).</p>
+                <p>This digital edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:Hultzsch1895_01"/></bibl>.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:Hultzsch1895_01"/>
+                        <citedRange unit="page">252-259</citedRange>
+                        <citedRange unit="item">65</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <!--Add ARIE reference if any.-->
+                    
+                    <bibl>
+                        <ptr target="bib:Swamy1972_01"/>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
         </body>
     </text>
 </TEI>
