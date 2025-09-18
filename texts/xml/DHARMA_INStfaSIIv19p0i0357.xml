@@ -94,856 +94,856 @@
     <text xml:space="preserve">
         
         
-<body>
+        <body>
             
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
-    <!--Ask Leslie Orr to revise this edition-->
-    
-<div type="textpart" n="A">
-        
-    <ab>
-        <milestone type="pagelike" unit="zone" n="A1"/>
-        <label xml:lang="eng">Northern facade</label>
-        <lb n="A1=1"/><g type="daṇḍa"/><g type="daṇḍa"/><g type="daṇḍa"/> <hi rend="grantha">svasti śrī</hi> <g type="gomutraFinal">.</g>
-    </ab>
-    
-    <lg n="1" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-        <l n="a">kuvalāla-samudbhavaḥ su-kī<unclear>r</unclear>tti<lb n="A2=2" break="no"/>-paḻu<hi rend="grantha">vū</hi>r-</l>
-        <l n="b">nakka Iti pratīta-nāmā muravairīva</l>
-        <l n="c"><unclear reason="eccentric_ductus">vira</unclear><lb n="A3=3" break="no"/><unclear reason="eccentric_ductus">jaḥ</unclear> jāta-varṇṇa-<unclear>pra</unclear>varo</l>
-        <l n="d">vaṁśa-karaḥ sam-āvirāsīt· <g type="ddanda">.</g></l>
-    </lg>
-    
-    <lg n="2" rend="grantha" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:83215">          
-        <l n="a"><lb n="A4=4"/>yam artthinas tyāgam upātta-vigraham·</l>
-        <l n="b">dviṣat·-janāḥ <unclear reason="eccentric_ductus">śau</unclear><lb n="A5=5" break="no"/><unclear>r</unclear>yya-guṇaṁ śarīriṇam·</l>
-        <l n="c">Anaṁgam aṁgānvayinaṁ· mṛgekṣaṇā</l>
-        <l n="d"><lb n="A6=6"/>vida<unclear>n</unclear>ti dhar<unclear>m</unclear>maṁ satanum· vipaścitaḥ <g type="gomutraFinal">.</g></l>
-    </lg>
-    
-    <p xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-        <!--Markup to be added-->
-        <!--Check if metrical-->
-        so ’yaṁ sva-vikramā<unclear>p</unclear>ta
-        <lb n="A7=7" break="no"/>-khilārṇṇavām·barākara-grahād vīryya-toṣitād v<unclear>i</unclear>krama-coḷa-nṛpāl la
-        <lb n="A8=8" break="no"/>bdha-vikrama-coḷa-mahārājābhidho ’sya rājñaś catu<unclear>r</unclear>daśe varṣe maha
-        <lb n="A9=9" break="no"/>ti śrī-vānavana-mahādevy-agrahare śrī-vijaya-maṁga<unclear>l</unclear>e vasataḥ śa
-        <lb n="A10=10" break="no"/>mbhoḥ mandiraṁ śilā-mayam· vidhāyāsyaiva grāmasya svabh<unclear>ū</unclear>tām· ne
-        <lb n="A11=11" break="no"/><choice><unclear>ḍ</unclear><unclear>ṭ</unclear></choice>uvāyil-nāma-grāmaṭ<choice><sic>ī</sic><corr>i</corr></choice>kām mahāparṣadaḥ krītvā sva-vitta-dānād aka
-        <lb n="A12=12" break="no"/>rāñ ca kṛtvā tasyaiva śam·bhor ā-śaśāṁka-sthiter arccanot·savādy-arttha
-        <lb n="A13=13" break="no"/>m· prādāt· <g type="gomutraFinal">.</g>
-    </p>
-    
-    <p>
-        <persName>kō-p-para-kē<hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">nma</hi>k=ku</persName> yāṇṭu <num value="14"><g type="numeral">10</g> 4</num> Āvatu 
-    </p>
-    
-    <p>
-        Uṭaiy
-        <lb n="A14=14" break="no"/>ār peru<choice><orig><unclear>ṉ</unclear></orig><reg>n</reg></choice>-tiṟattu <placeName>kuvaḷālam</placeName> uṭaiyāṉ Ampalava<choice><orig>n</orig><reg>ṉ</reg></choice> <placeName>paḻuvūr</placeName>
-        <lb n="A15=15"/>nakkaṉ-āṉa vi<hi rend="grantha">krama</hi>-cōḻa-<hi rend="grantha">mahā-rāja</hi><choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ vaṭa-ka<unclear>r</unclear>ai <hi rend="grantha">brahma-de</hi>ya
-        <lb n="A16=16" break="no"/>m periya <hi rend="grantha"><unclear>śrī</unclear></hi>-vānavaṉ-<hi rend="grantha">mahāde</hi>vi-<hi rend="grantha">ca</hi><unclear>tu</unclear><hi rend="grantha"><unclear>rvvedi</unclear></hi>-maṅ<unclear>ka</unclear>lattu <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ja</hi>ya-maṅkala<unclear>t</unclear>
-        <lb n="A17=17" break="no"/>tu <hi rend="grantha">mahā-de</hi>var <hi rend="grantha">śrī</hi>-vimāṉam kallāl Eḻu<choice><orig>ṉ</orig><reg>n</reg></choice>t-aruḷuvittu I-<hi rend="grantha">de</hi>vark<unclear>ku</unclear>-t ti
-        <lb n="A18=18" break="no"/>ru-v-amituk=kum tiru-viḷak=kuk=kum <hi rend="grantha">śrī-bali</hi>k=kum tiru-mey-pūccuk=kum tiru-p-pūkaik
-        <lb n="A19=19" break="no"/>kum tiru-na<choice><orig>ṉ</orig><reg>n</reg></choice>tavā<choice><orig>n</orig><reg>ṉ</reg></choice>a-p-puṟattuk=kum tiru-viḻāvuk=kum <hi rend="grantha">snapa</hi>ṉaṅkaḷuk=kum maṟṟum
-        <lb n="A20=20"/>I-<hi rend="grantha">de</hi>varkku vēṇṭum Ārātiṉaikaḷ Eppēṟpaṭṭaṉa Avaiccuk=kum   
-        <lb n="A21=21"/>mākaṉāṉ kuṭutta Ūr āvatu
-    </p>
-    
-    <p>
-        Ip-periya <hi rend="grantha">śrī</hi>-vānavaṉ-<hi rend="grantha">mahāde</hi>vi-<hi rend="grantha">ca</hi>tu<hi rend="grantha">rvvedi</hi>-ma
-        <milestone type="pagelike" unit="zone" n="A2" break="no"/>
-        <label xml:lang="eng">Western facade</label>
-        <lb n="A22=22" break="no"/>ṅkalattu vaṭa-piṭākai <placeName>neṭu-vāyil</placeName>um
-        <lb n="A23=23"/>Itu <gap reason="illegible" quantity="2" unit="character"/>ppaṭum Ūrtāmaraiṉal
-        <lb n="A24=24" break="no"/>-Ārum tiru-c-cen<unclear>i</unclear>valamum ma<unclear>ṇ</unclear>kulak=ku
-        <lb n="A25=25" break="no"/>ṟucciyum Uḷ-p-paṭa I-neṭu vāyil vaḷai
-        <lb n="A26=26" break="no"/>yil-c cuṟṟu muṟṟum
-    </p>
-    
-    <p>Iv-ūr n<choice><orig>i</orig><reg>ī</reg></choice><unclear>r</unclear>-<supplied reason="lost">n</supplied>ilam<unclear>u</unclear>m  p<unclear>u</unclear>ṉ
-        <lb n="A27=27" break="no"/>-cey<choice><sic>ū</sic><corr>u</corr></choice>m meṉ-ceyum mē<supplied reason="omitted">l</supplied> nōkk<supplied reason="lost">i</supplied><choice><orig>n</orig><reg>ṉ</reg></choice>a maramum k<choice><orig>i</orig><reg>ī</reg></choice>ḻ
-        <lb n="A28=28"/>ṉōkki<choice><orig>n</orig><reg>ṉ</reg></choice>a kiṇaṟum kuḷamum kōṭṭakamum paṟṟum teṟṟiyu<supplied reason="lost">m ma</supplied>
-        <lb n="A29=29" break="no"/>ṟṟum Uṭump’ ōṭi Āmai tavaḻ<choice><orig>ṇ</orig><reg>n</reg></choice>tatu Eppēṟppaṭa
-        <lb n="A30=30" break="no"/>tum Iv-ūr Ilai-k-kalam<unclear>u</unclear>m taṟi-p-puṭavaiyum kaṇ
-        <lb n="A31=31" break="no"/>ṇāla-k-<supplied reason="lost">kā</supplied>ṇamum <supplied reason="lost">i</supplied><unclear>kāṟ</unclear>-p-pāṭṭamum Ulaiyam Ulai-p-pāṭṭamum
-        <lb n="A32=32"/>Uḷ-p-pa<supplied reason="omitted">ṭa</supplied> Iv-ū<unclear>r</unclear> vaḷaiyil-c cuṟṟu muṟṟum
-    </p>
-    
-    <p>
-        I<unclear>p</unclear>-periya <hi rend="grantha">śrī</hi>-vānavaṉ
-        <lb n="A33=3" break="no"/>-<hi rend="grantha">mahā-de<supplied reason="lost">vi</supplied></hi><hi rend="grantha"><unclear>-c-ca</unclear></hi>tu<hi rend="grantha"><supplied reason="omitted">r</supplied>vve</hi>ti-maṅkalattu peruṅ-kuṟi-p perumak=kaḷ <supplied reason="lost">pa</supplied>k=kal vilai
-        <lb n="A34=34" break="no"/>-koṇṭu Uṭaiyē<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice>-ā<supplied reason="omitted">y</supplied> Im-<hi rend="grantha">mahāsabhai</hi>yārkkē Eḻu-ṉūṟu kācu kuṭu
-        <lb n="A35=35" break="no"/>tta Iṟai Iḻicc<choice><sic>a</sic><corr>i</corr></choice> Ip-paricu Iṟai-Ili-y-āka <choice><orig>ṉān</orig><reg>nāṉ</reg></choice> Uṭai-En<unclear>ṉ-ā</unclear>y Iru<choice><orig>ṉ</orig><reg>n</reg></choice>
-        <lb n="A36=36" break="no"/>ta I-<placeName>neṭu-vāyil</placeName> muṟṟum
-    </p>
-    
-    <p>
-        I-<hi rend="grantha">śrī</hi>-v<unclear>i</unclear><hi rend="grantha">ja</hi>ya-maṅkalattu <hi rend="grantha">mahā-de</hi>vark=ku mu
-        <lb n="A37=37" break="no"/>ṉ c<unclear>u</unclear>ṭṭa-p-paṭṭa Eppēṟppaṭṭa t<choice><sic>a</sic><corr>i</corr></choice>ru-v-ārātiṉaikaḷuk=kum <hi rend="grantha">bhogam-ā</hi>ka-k kuṭuttē
-        <lb n="A38=38" break="no"/>ṉ <persName><placeName>kuvalāḷam</placeName> uṭaiyān Ampalavaṉ <placeName>paḻuvūr</placeName> nakkaṉ-āṉa vi<hi rend="grantha">krama-<choice><sic>ś</sic><corr>c</corr></choice>o</hi>ḻa-<hi rend="grantha">mahā
-            <lb n="A39=39" break="no"/>-rāj<unclear>ā</unclear></hi><choice><sic>na</sic><corr>ṉ-ē</corr></choice>ṉ</persName>
-    </p>
-    
-    <p>
-        Ivai pan-<hi rend="grantha">mahā</hi>-E<hi rend="grantha"><unclear>śva</unclear></hi>ra-ra<hi rend="grantha">kṣai</hi>
-    </p>
-    
-    <p>
-        Aṟam maṟavekka Aṟa<choice><orig>mm</orig><reg>m</reg></choice> a<unclear>l</unclear>latu tuṇai y-illai
-    </p>
-    
-    <p>                  
-        <lb n="A40=40"/>I<unclear>va</unclear><supplied reason="lost">r</supplied> colla Eḻuti<choice><sic>nnē</sic><corr>ṉēṉ</corr></choice> Iv-ūr <hi rend="grantha">maddh<supplied reason="lost">y</supplied>astha</hi><choice><orig>n</orig><reg>ṉ</reg></choice> <persName>ni<choice><orig>n</orig><reg>ṉ</reg></choice>ṟā<choice><orig>n</orig><reg>ṉ</reg></choice> Ārā-Amutā<choice><orig>n</orig><reg>ṉ</reg></choice></persName> <placeName>vā<choice><orig>n</orig><reg>ṉ</reg></choice>ava-mātēvi</placeName>-p-peruṅ-k<unclear>ā</unclear>
-        <lb n="A41=41" break="no"/>viti-y
-    </p>
-    <p>
-        Ivai E<choice><orig>nn</orig><reg>ṉ</reg></choice> eḻuttu
-    </p>            
-</div>
-    
-
-<div type="textpart" n="B">
+                <!--Ask Leslie Orr to revise this edition-->
+                
+                <div type="textpart" n="A">
                     
-    <p>
-        
-        <milestone type="pagelike" unit="zone" n="B1"/>
-        <label xml:lang="eng">Western facade, northenmost wall section</label>
-        
-        <lb n="B1=41"/>I-neṭu-vāyilum neṭu-vāyil cuṟṟiṉa paṭākai
-        <lb n="B2=42" break="no"/>kaḷu<choice><orig>mm</orig><reg>m</reg></choice> it-tēva<supplied reason="omitted">r</supplied>kku Iṟukka-k kaṭava <space type="feature"/> Iṟai I-<hi rend="grantha">śrī</hi>-kōyiṟ-kāl Ūr-k-kāl paḻuvūr nakkaṉṉāl
-        <lb n="B3=43"/>tiru-muṟṟattu Aḷakka kaṭava nellu vālli ne<unclear>l</unclear> kaṟ <gap unit="character" reason="lost" quantity="3"/> <unclear>ṟ</unclear>cettal n<choice><orig>i</orig><reg>ī</reg></choice>kki kūṭṭal vētum pāta
-        <lb n="B4=44"/>ṉ Aṭṭa ka<supplied reason="omitted">ṭa</supplied>va nellu
-        Āyira-k kalammu<supplied reason="omitted">n</supplied>
-        tuḷai kaḻ<choice><sic>ai</sic><corr>a</corr></choice>ñ<unclear>cu l</unclear> potta poṉ kācu niṟai-k-kallā<supplied reason="lost">l</supplied>
-        <lb n="B5=45"/>poṉ nuṟṟu-k kaḻ<choice><sic>ai</sic><corr>a</corr></choice><supplied reason="omitted">ñ</supplied>cum
-    </p>
-    <p>
-        taṟi-p-puṭavai Oṉṟu kāl-p poṉ peṟuvaṉa puṭavai paṉ<choice><orig>n</orig><reg>ṉ</reg></choice>iraṇṭum
-        <lb n="B6=46"/>neyi Eṇṇai mu-k-kalam ko<unclear>llar</unclear> U<unclear>lai-p</unclear>-pāṭṭam <choice><unclear>I</unclear><unclear>O</unclear></choice>ru pu<!--EF: abbrev. for puṉcey? See SII edition, which has a symbol--> Āyarppalam neṭu-vāyil vata <gap reason="lost" unit="character" quantity="1"/> Aṭuttu
-        <lb n="B7=47" break="no"/>kku <unclear>ni</unclear><hi rend="grantha">b<choice><sic>e</sic><corr>a</corr></choice><unclear>n</unclear>dha</hi><supplied reason="omitted">ñ</supplied> ceyita paṭi civayō<hi rend="grantha">gi-brāhma</hi>ṇa<unclear>r</unclear> mu-p-patiṉ-marum <hi rend="grantha">brā</hi><supplied reason="lost"><hi rend="grantha">hma</hi></supplied><unclear>ṇar</unclear> I<unclear>ru</unclear>-patiṉ-marum Āka <unclear>Ai</unclear>y-patiṉ-ma<unclear>ṟ</unclear>kku
-        
-    </p>
-    
-    <p>
-        <list>
-            
-            <item>Oruvaṉukku nica
-                <lb n="B8=48" break="no"/>tam Arici Iru-nāḻi y-āka Iru-nāḻikku nellu Aiy-nāḻi y-āka Aiy-p-patiṉ-maṟku nicatam nellu <unclear>Iru</unclear>-kalaṉē Eḻu-kuṟu<unclear>ṇi</unclear> Iru-nāḻi
-                <lb n="B9=49" break="no"/>yum</item>
-            
-            <item>ney muṉ-ṉāḻi Āḻākkukku ney nāḻikku <unclear>ne</unclear>llu tūṇi y-ā<supplied reason="lost">ka I</supplied><unclear>m</unclear>-muṉ-ṉāḻi Āḻākkukku nicatam nellu <supplied reason="lost">kala</supplied>ṉē n<supplied reason="lost">ā</supplied>
-                
-                <lb n="B10=50" break="no"/>-ṉāḻiyum</item>
-            
-            <item>kaṟikku nellu tūṇiy<unclear>u</unclear>m</item>
-            
-            <!--@EF: resume here systematic checking from photos.-->
-            
-            <item>p<supplied reason="lost">uḷ</supplied>i<unclear>ṅkaṟi</unclear> yaṭam orukku nellu-k kuṟuṇiyu<unclear>m</unclear></item>
-            
-            <item>Aṭṭiyu<unclear>ṇṇa</unclear>m orukku nellu <supplied reason="lost">pa</supplied>takku</item>
-            
-            <item>
-                
-                <milestone type="pagelike" unit="zone" n="B2"/>
-                <label xml:lang="eng">Western facade, northenmost base section</label>
-                
-                <lb n="B11=51"/>U<choice><sic><unclear>m</unclear></sic><corr>p</corr></choice>pu <unclear>nā</unclear>ḻikku nellu nāḻi Uḻakk' āka
-                Uppu Aiy-nāḻikku nellu Aṟu-nāḻi Uḻakkum</item>
-            
-            <item>veṟṟillai-p paṟṟu Oṉṟiṉukku <unclear>ne</unclear>l
-                <lb n="B12=52" break="no"/><supplied reason="lost">lu</supplied> Iru-nāḻi <unclear>y-āka veṟṟillai</unclear>-p paṟṟu <supplied reason="lost">muṉ</supplied><unclear>ṟi</unclear><supplied reason="lost">ṉu</supplied>kku nellu Aṟu <supplied reason="lost">nā</supplied><unclear>ḻi</unclear><supplied reason="lost">yum</supplied></item>
-            
-            <item><unclear>veṟu</unclear>ṅkāy nāḻi <unclear>nellu</unclear>kku pat<unclear>t</unclear> āka veṟuṅkāy n<unclear reason="eccentric_ductus">ū</unclear>ṟukku nel
-                <lb n="B13=53" break="no"/>lu <unclear>patiṉ</unclear> nāḻiy<unclear>um</unclear></item>
-            
-        </list>
-        
-        <supplied reason="lost">Āka nicatam</supplied> <unclear>nellu</unclear> nāṟ-kalaṉē <surplus>nāṟ-kalaṉē</surplus> Aiy-kuṟu<unclear>ṇi</unclear> <supplied reason="lost">nā-ṉāḻi Uḻakk' āka Ōr āṭṭai nāḷai</supplied>kku nellu Āyiratt' aṟu nūṟṟu Ai<unclear>y</unclear>
-        <lb n="B14=54" break="no"/>-kalaṉē Iru-tūṇi mu-k-ku<unclear>ṟuṇ</unclear>i Iru-nāḻiyum
-    </p>
-    <p>		
-        <list>
-            <item>
-                viṟak' iṭuvā<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> oruva<supplied reason="lost">ṉu</supplied>kku nicatam ne<supplied reason="lost">l</supplied>lukku <supplied reason="lost">kuṟuṇiyum</supplied></item>
-            
-            <item><supplied reason="lost">Aṭuvā<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> oruvaṉukku</supplied> nicatam nellu-k kuṟu<supplied reason="lost">ṇi</supplied>
-                <lb n="B15=55" break="no"/>yum</item>
-        </list> 
-        
-        Āka
-        
-        nicatam nellu patakk' āka Ōr āṭṭai nāḷaikku nellu Aṟupatiṉ kala<supplied reason="lost">mum</supplied>
-    </p>
-    <p>
-        <unclear>Iv-i</unclear><supplied reason="lost">ruvaṟ</supplied><unclear>ku</unclear><supplied reason="lost">m pu</supplied><unclear>ṭavai</unclear> mutal <unclear>Oruva</unclear>ṉukku Oru kācukku ne<unclear>llu</unclear>
-        
-        <lb n="B16=56"/>patiṉ kala<choice><orig>mm</orig><reg>m</reg></choice> āka Iruvaṟkkum kāc' iraṇṭiṉ<unclear>āl</unclear> <supplied reason="lost">ne</supplied><unclear>l</unclear>lu I<supplied reason="lost">ru</supplied>-patiṉ kala<choice><orig>mm</orig><reg>m</reg></choice>u<supplied reason="omitted">ñ</supplied>
-    </p>
-    
-    <p>
-        civayō<hi rend="grantha">gi</hi>-<hi rend="grantha">brāhma</hi>ṇar mu-patiṉ-marum <hi rend="grantha">brahma</hi>ṇaṟ Iru-patiṉ-maru
-        <lb n="B17=57"/>Āka Ai-p-patiṉ-vaṟku caṉivāram <unclear>Eṇṇai</unclear> <supplied reason="lost">nāḻi U</supplied>riyum <unclear>A</unclear>yaṉavāram Eṇṇai nāḻi Uriyum Eṇṇai nāḻikku nellu tūṇi y-āka
-        <lb n="B18=58"/>Ōr āṭṭai nāḷaikku Eṇṇai kalaṉē Iru-tūṇi Iru-<supplied reason="lost">nā</supplied>ḻikku nellu Aiy-p-pattu nāṟ-kalamum
-    </p>
-    <p>
-        
-        <list>
-            <item>nicatam payaṟu kuṟuṇi n<unclear>ā</unclear>ḻi<surplus>ḻi</surplus> y-ā
-                <lb n="B19=59" break="no"/><unclear>ka</unclear><gap reason="lost" quantity="2" unit="character"/> <unclear>nāḻi</unclear>kku nellu Iru-nāḻi y-āka <gap unit="character" reason="lost" quantity="3"/> nāḷaikku payaṟu nāl-p-patt' aiy-ka<unclear>la</unclear>mm āka kācu Oṉṟukku y-aṟu Aiy 
-                
-                <lb n="B20=60" break="no"/>-kalamm āka payaṟu nāl-pa <gap reason="lost" quantity="3" unit="character"/> kala <unclear>n</unclear>e<unclear>llu</unclear> t<unclear>o</unclear>ṇṇūṟṟu kala<supplied reason="omitted">ṅ</supplied> kācu Oṉṟukku nellu <supplied reason="lost">patak</supplied> <gap reason="lost" unit="character" quantity="3"/> <unclear>m ā</unclear>ka <supplied reason="lost">Iru</supplied>-<unclear>nellukku</unclear> <supplied reason="lost">kācu Oṉṟu</supplied> <gap reason="lost" quantity="2" unit="character"/>
-            </item>
-            
-            <item>
-                <lb n="B21=75"/>caṟka<unclear>rai</unclear> nicatam <supplied reason="lost">Aim</supplied>-palam Āka Ōr āṭṭai nāḷaikku niṟai patiṉṉ eṭṭu <unclear>kācu</unclear> Oṉṟukku <supplied reason="lost">ni</supplied>ṟai paṉniraṇṭ' āka niṟai patiṉṉ eṭ<supplied reason="lost">ṭu</supplied>
-                <lb n="B22=76"/><supplied reason="lost">ciṉ</supplied>nāl kācu O<unclear>ṉṟ' a</unclear>raiyu
-            </item>
-            
-            <item>
-                nicatam <unclear>puḷi</unclear> <supplied reason="lost">Iru-nāḻi y-āka</supplied> Ōr āṭṭai <unclear>nāḷaikku</unclear> <unclear>E</unclear>ḻu-nūṟṟu <supplied reason="lost">Iru</supplied>-patiṉ nāḻiyiṉāl kācu Oṉṟu<supplied reason="lost">m</supplied>
-            </item>
-            
-            <item>
-                <lb n="B23=61"/>nicatam miḷaku <unclear>U</unclear>ḻakk' <supplied reason="lost">arai</supplied> <unclear>kaṭuku</unclear> <gap reason="lost" quantity="7" unit="character"/> <unclear>kk' āka</unclear> Ōr āṭṭai nāḷaikku Iru-kalaṉē tūṇi <unclear>Oru</unclear> nāḻikku kācu mu<supplied reason="lost">ṉṟum</supplied>
-            </item>
-            
-            <item>                
-                nicatam cirakam Oru piṭi y-āka Ōr ā
-                <lb n="B24=62" break="no"/>ṭṭai nāḷaikku patakku Aṟu-nāḻi Uriyu<supplied reason="omitted">m</supplied>
-            </item>
-            
-            <item>                
-                peruṅ-kāyam nicatam <unclear>Arai</unclear><supplied reason="lost">kka</supplied><unclear>ḻ ai</unclear>nt' āka Ōr āṭṭai nāḷaikku <unclear>nū</unclear>ṟṟu <unclear>Eṇpa</unclear>ti<supplied reason="omitted">ṉ ka</supplied>ḻantiṉ nāl kācu Onṟum                
-            </item>
-        </list>             
-        Akā
-        kā<unclear>cu</unclear>
-        <lb n="B25=63"/>patiṉ Aint' araikkum kācu Oṉṟukku nellu patiṉ kalam Āka        
-        nel<supplied reason="lost">lu nūṟ</supplied>ṟu Aiy-pattu Aiy-kalattāl <supplied reason="omitted">na</supplied>n<unclear>ta</unclear>-vā<unclear>ṉa</unclear>-kaṭa<choice><sic><choice><unclear>ṉ</unclear><unclear>ḷ</unclear></choice></sic><corr>m</corr></choice>ai <unclear>kā</unclear>cil n<choice><orig>i</orig><reg>ī</reg></choice>ṅku kācu patiṉ Ain<unclear>tu</unclear>        
-    </p>
-    
-    <p>
-        <list>
-            <item><lb n="B26=64"/>cālaitukuttu meḻuki piṇṭi Aṭṭuvāḷḷ oruttikku nicatam nellu Iru-nāḻi y-āka Ōr āṭṭai nā<supplied reason="omitted">ḷai</supplied>kku nellu Ēḻu kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi patakku</item>
-            
-            <item><unclear>E</unclear>ccil E
-                <lb n="B27=65" break="no"/>ṭuttu Eccilama<unclear>ṇ</unclear>ṭalam ceytu kalam cāmpal <unclear>I</unclear><supplied reason="lost">ṭu</supplied>vāḷ Oruttikku nicatam nellu puṭavai mu<supplied reason="omitted">ta</supplied>l Eṟṟi nā-ṉā<supplied reason="omitted">ḻi</supplied>yāl Ōr āṭṭai nāḷaikku <unclear>nel</unclear>
-                <lb n="B28=66" break="no"/>lu patiṉ kalam</item>
-            
-            <item>ti<supplied reason="lost">ru</supplied>-p-patiyam vi<supplied reason="omitted">ṇ</supplied>ṇappam ceyvār Oruvaṟku puṭavai mutal Uḷ-paṭa nicatam nellu patakku nā-ṉāḻi y-āka Ōr āṭṭai n<unclear>ā</unclear>ḷaikku ne
-                <lb n="B29=67" break="no"/>llu Ēḻu-patt' aiṅ-kalam</item>
-            
-            <item>kōpurattu meykāpp<unclear>ā</unclear><choice><orig>ṉn</orig><reg>ṉ</reg></choice> o<unclear>ru</unclear>vaṉ Iva<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice>ē cālai Uṇ veṇkala n<unclear reason="eccentric_ductus">ū</unclear>ṟum Eṇṇi pukuvikkavu pota vaippikkavu<supplied reason="omitted">ma</supplied> kaṭa
-                <lb n="B30=68" break="no"/><unclear>vā</unclear><supplied reason="omitted">ṉ</supplied> Āka puṭavai mutal Uḷ-paṭa nicatam nellu kuṟuṇi Iru-<supplied reason="omitted">nā</supplied>ḻi y-āka Ōr āṭṭai nāḷaikku nellu mu-pattu Ēḻu kalaṉē tūṇi-p <unclear>pa</unclear>takku</item>
-            
-            <item>cālaikku kalam I
-                <lb n="B31=69" break="no"/>ṭ<unclear>a</unclear> ku<unclear>ca</unclear>va<unclear>ṉ</unclear>n oruvaṉuku nicatam nellu Iru-nāḻi y-āka Ōr āṭṭai nāḷaikku nellu Eḻu-kalaṉē tūṇi-p patakkum</item>
-            
-            <item>coti<unclear>vi</unclear> colluvāṉ Irupat<supplied reason="lost">t</supplied>' ē
-                <lb n="B32=70" break="no"/>ḻu nāḷ<unclear>u</unclear><!--contra SII; not clear on photo-->-k k<unclear>ū</unclear>ṟṟu O<!--Ō?-->l<unclear>ai</unclear> karpurattu <supplied reason="lost">tūkka</supplied> <unclear>ni</unclear>catam nellu ku<supplied reason="lost">ṟuṇi</supplied> y-āka Ōr āṭṭai nāḷai nellu mu-pati<supplied reason="lost">ṉ ka</supplied>lamum</item>
-            
-            <item>Uttamā<hi rend="grantha">gra</hi>ttil Uṇṇu<supplied reason="omitted">m</supplied> <hi rend="grantha">brahma</hi><unclear>ṇa</unclear>rkku
-                <lb n="B33=71"/><unclear>Adhyayya</unclear><supplied reason="omitted">ṉa</supplied><unclear>m ceyvar</unclear> <gap reason="lost" unit="character" quantity="2"/> <unclear>koḷḷum</unclear> <hi rend="grantha"><unclear>brāhma</unclear></hi><unclear>ṇaṉ</unclear> Oruvaṉukku nicatam nellu kuṟuṇi y-āka Ōr āṭ<supplied reason="lost">ṭai</supplied> <unclear>nā</unclear><supplied reason="omitted">ḷai</supplied>kku nellu mu-patiṉ <unclear>ka</unclear>lamum</item>
-            <item>Ivaṉukkē<unclear>y</unclear> <supplied reason="lost">pu</supplied>
-                <lb n="B34=72" break="no"/><unclear>ṭavai mu</unclear><supplied reason="omitted">ta</supplied><unclear>l</unclear> kā<surplus><unclear>cu</unclear></surplus><supplied reason="lost">c' araiyāl nellu Ai</supplied><unclear>y-kalamu</unclear>m</item>
-            
-            <item><supplied reason="lost">Uttamā</supplied><hi rend="grantha">gra</hi>ttu Uṇṇu<supplied reason="lost">m</supplied> <hi rend="grantha">brāhma</hi>ṇa-civayō<hi rend="grantha"><supplied reason="lost">gi</supplied></hi>kaḷum <hi rend="grantha">brāhma</hi>ṇa<supplied reason="omitted">r</supplied>kku<unclear>m a</unclear>
-                <hi rend="grantha"><unclear>gra</unclear></hi>ttu<supplied reason="omitted">k</supplied><unclear>ku canta</unclear>ṉattukku
-                <lb n="B35=73"/>kācu A<supplied reason="lost">raiyāl</supplied> <unclear>nellu</unclear> <supplied reason="lost">Ai<reg>ṅ</reg>-kalamu</supplied><supplied reason="omitted">m</supplied></item>
-            
-            <item><supplied reason="lost">Iru<!--contra SII: "Irā"-->-<hi rend="grantha">śrī-beli</hi>kku <hi rend="grantha">beli</hi> A</supplied>rici nāḻi<supplied reason="lost">yāl</supplied> nicatam <supplied reason="lost">nellu I</supplied>ru-nāḻi <unclear>y-ā</unclear>ka Or āṭ<supplied reason="lost">ṭai nāḷaikku nellu Ē</supplied>
-                <lb n="B36=74" break="no"/>ḻu <unclear>ka</unclear>laṉē <unclear>tū</unclear><supplied reason="lost">ṇi-p patakku</supplied><supplied reason="omitted">m</supplied></item>
-        </list>
-        
-    </p>    
-</div>
-                
-<div type="textpart" n="C">
-    
-    <!--No photos from Valérie for this portion yet-->
-    
-    <p>
-        <lb n="C1=77"/>
-        <milestone type="gridlike" unit="zone" n="1"/>
-        <!--<label xml:lang="eng">Western facade, southernmost base section</label>-->
-        I-<hi rend="grantha">brahma</hi>-tēyam ce<reg>y</reg>ta periya t<unclear>ē</unclear>var I-<hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ja</hi>ya-maṅkala-tēvarkku tiru-v-uṇṇaḻikai-p-puṟam Āka Iṟai-Ili kuṭutta paṅ
-        <!--<milestone type="gridlike" unit="zone" n="2" break="no"/>-->
-        <label xml:lang="eng">Southern facade, westernmost base section</label>
-        ku <unclear>E</unclear>ṭṭiṉ nāllu
-    </p>
-    <p>
-        <hi rend="grantha">śrī</hi>-Irā<hi rend="grantha">ja</hi>-rā<hi rend="grantha"><supplied reason="lost">ja</supplied></hi>-tēvar<supplied reason="omitted">k</supplied>ku yāṇṭu Eḻ-āvatu mutal I-<hi rend="grantha">śrī</hi>-v<unclear>i</unclear>mā<supplied reason="omitted">ṉa</supplied>ṅ kal <gap reason="lost" unit="character" quantity="1"/><unclear>ā</unclear><!--contra SII--> Eḻunt-aruḷuvitta Irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>-p-pall<choice><sic>a-A</sic><corr>ava</corr></choice><unclear>rai</unclear><supplied reason="lost">ya</supplied>
-        <lb n="C2=78" break="no"/>
-        <milestone type="gridlike" unit="zone" n="1"/>
-        <!--<label xml:lang="eng">Western facade, southernmost base section</label>-->
-        <gap reason="lost"/> ṉṉē Ip-paṅku Eṭṭiṉ nālu ceyyum paṭi māṟṟu kalli<supplied reason="omitted">l</supplied> veṭṭiṉa paṭi
-        
-        <list>
-            
-            <item>tiru-<supplied reason="omitted">v-amu</supplied>t-arici pō<unclear>tu</unclear> nā-ṉāḻi y-āka mūṉṟu pōtaikku nicatam Arici kuṟu<supplied reason="omitted">ṇi</supplied> nā-ṉā                
-                <!--<milestone type="gridlike" unit="zone" n="2" break="no"/>-->
-                <label xml:lang="eng">Southern facade, westernmost base section</label>
-                ḻi<unclear>yā</unclear><supplied reason="lost">l</supplied> <supplied reason="lost">A</supplied><supplied reason="omitted">y</supplied>nt' iraṇṭu vaṇṇattāl nellu mu-k-kuṟuṇi Aṟu nāḻiyum</item>
-            
-            <item>ney-amutu pōt' oru pi<unclear>ṭi</unclear> y-āka muṉṟu pōtaikku ney-amutu Āḻākkē Oru piṭi
-                <lb n="C3=79" break="no"/>
-                <milestone type="gridlike" unit="zone" n="1"/>
-                <!--<label xml:lang="eng">Western facade, southernmost base section</label>-->
-                kku nāḻikku nellu tūṇi y-āka ney Aḻākkē Oru piṭikku nicatam nellu Aṟu nāḻiyam</item>
-            
-            <item>pori-k-kaṟi-y-amutu muṉṟu <supplied reason="lost">pō</supplied>taikku nicatam nel<unclear>lu</unclear>
-                <milestone type="gridlike" unit="zone" n="2"/>
-                <!--<label xml:lang="eng">Southern facade, westernmost base section</label>-->
-                I<unclear>ru</unclear>-nāḻi <supplied reason="lost">Uri-y</supplied></item>
-            
-            <item><supplied reason="lost">Aṭai-k</supplied>kāy-amutu pōtu nāl āka muṉṟu pōtaikku pākku paṉn-iraṇṭum</item>
-            
-            <item>veṟṟilaikku nicatam nellu muṉ-ṉāḻiyum</item>
-            
-            <item>tayir Amutu pō
-                <lb n="C4=80" break="no"/>
-                <milestone type="gridlike" unit="zone" n="1"/>
-                <!--<label xml:lang="eng">Western facade, southernmost base section</label>-->
-                tu Uri y-āka muṉṟu pōtukku tayir nāḻi Urikku nicatam nellu mūṉ-nāḻi muḻākkum</item>
-            
-            <item><supplied reason="lost">nontā-viḷakku Aintukku viḷakk' oṉṟu<unclear>mū<!--contra SII: oṉṟukku. Read "oṉṟukku"?--> neyi U</unclear><supplied reason="omitted">ḻ</supplied><unclear>k</unclear><supplied reason="lost">k'<!--check: "uḻakku" is expected--> āka</supplied> vi
-                <!--<milestone type="gridlike" unit="zone" n="2" break="no"/>-->
-                <!--<label xml:lang="eng">Southern facade, westernmost base section</label>-->
-                <supplied reason="lost">ḷakku Ai</supplied>ntukku nicatam ney nāḻi <unclear>U</unclear><supplied reason="omitted">ḻ</supplied>kk'<!--check: "uḻakku" is expected--> āka ney nāḻikku nellu tūṇi y-āka ney nāḻi Uḻa<supplied reason="omitted">k</supplied>ku<supplied reason="omitted">k</supplied>ku nicatam nellu A<reg>i</reg>ṅ-kuṟuṇiyum</supplied></item>
-            
-            <item>nilamā<unclear>li</unclear> <gap reason="lost" quantity="1" unit="character"/> ni
-                <lb n="C5=81" break="no"/>
-                <milestone type="gridlike" unit="zone" n="1"/>
-                <!--<label xml:lang="eng">Western facade, southernmost base section</label>-->
-                r-pōka		
-                Aṭṭuvā<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice>ukku ni<unclear>ca</unclear>ta<supplied reason="subaudible">m</supplied> nellu Iru-nāḻi y-uḻakkum</item>
-            
-            <item>kaṇakk-eḻutuvā<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice>ukku nicatam nellu nā-ṉāḻiyum</item>
-            
-            <item>Irā-<hi rend="grantha"><unclear>śrī</unclear>-be</hi><hi rend="grantha"><unclear>li</unclear></hi>-viḷakku I<unclear>raṇ</unclear>
-                <milestone type="gridlike" unit="zone" n="2" break="no"/>
-                <!--<label xml:lang="eng">Southern facade, westernmost base section</label>-->
-                <unclear>ṭu</unclear>kku Eṇṇai Āḻ<unclear>āk</unclear>kē <unclear>Oru</unclear> piṭikku E<unclear>ṇṇai</unclear> nāḻikku nellu tūṇi y-āka Eṇṇai Ā<unclear>ḻā</unclear>kkē Oru <supplied reason="lost">piṭi</supplied>kku nicatam nellu Aṟu nāḻiy<unclear>u</unclear>m Āka nicatam
-                <lb n="C6=82"/>
-                <milestone type="gridlike" unit="zone" n="1"/>
-                <!--<label xml:lang="eng">Western facade, southernmost base section</label>-->
-                <space/> nellun kalaṉē-y Oru nāḻi Uri <supplied reason="lost">y-āka</supplied> Ō<supplied reason="lost">r ā</supplied>ṭṭai nāḷaikku nellu mu-ṉ-nūṟṟu Aṟu-pattu Aiy-kalaṉē-y Eḻu kuṟuṇi nā-ṉāḻiy<unclear>u</unclear>m</item>
-        </list>
-        
-    </p>
-    <p>
-        Aṟa<supplied reason="subaudible">m</supplied> ma
-        <milestone type="gridlike" unit="zone" n="2" break="no"/>
-        <!--<label xml:lang="eng">Southern facade, westernmost base section</label>-->
-        ṟa<supplied reason="lost">vel</supplied>kka <supplied reason="lost">Aṟa<choice><orig>mm</orig><reg>m</reg></choice> alla</supplied>tu tuṇai y-il<unclear>lai</unclear>
-    </p>
-    <p>
-        Iv<unclear>ai</unclear> paṉ-<hi rend="grantha">mā<surplus>hā</surplus>heśvara</hi>-ra<hi rend="grantha">kṣai</hi>
-    </p>
-</div>
-                
-</div>
-    
-<div type="apparatus">
-                
-<div type="textpart" n="A">
-    <!--Check both SII editions-->         	
-    
-    <listApp>
-        
-        <app loc="A20">
-            <lem>Avaiccuk=kum</lem>
-            <note>After this word, on the same line, are found the letters <foreign>Uttama <unclear>I</unclear> <gap reason="illegible" quantity="1" unit="character"/></foreign> in smaller letters. These seems to have been added later and to be connected to the few lines added on the pilaster, on the right : <foreign>yogi kalamupatu / Ic-civayo<hi rend="grantha">gi</hi> / <hi rend="grantha">brāhma</hi>ṇāvo<gap reason="illegible" quantity="1" unit="character"/> / vallor<unclear>i</unclear> A<unclear>puvi</unclear> / <gap reason="illegible" extent="unknown" unit="character"/></foreign>.</note>
-        </app>
-        
-        <app loc="A21">
-            <lem>mākaṉāṉ</lem>
-            <note>A few words are added on the pilaster before this word, at the begining of the line, but the letters are not very clear on the available photos. These words were possibly added later, like those at the end of the preceding line.</note>
-        </app>
-        
-        <app loc="A23">
-            <lem>ppaṭum</lem>
-            <rdg source="bib:SrinivasaRao1967_01 bib:Swaminathan2012_01">ppacam</rdg>
-            <note>The letter <foreign>ṭu</foreign>, here and elsewhere in the inscription, indeed resembles the letter <foreign>ca</foreign>.</note>
-        </app>
-        <app loc="A27">
-            <lem>mē<supplied reason="omitted">l</supplied> nōkk<supplied reason="lost">i</supplied><choice><orig>n</orig><reg>ṉ</reg></choice>a</lem>
-            <rdg source="bib:SrinivasaRao1967_01 bib:Swaminathan2012_01">mēnōkkina</rdg>
-            <note>The letter <foreign>i</foreign> is no longer legible.</note>
-        </app>
-        <app loc="A31">
-            <lem><supplied reason="lost">kā</supplied>ṇamum <supplied reason="lost">i</supplied><unclear>kāṟ</unclear>ppāṭṭamum</lem>
-            <rdg source="bib:SrinivasaRao1967_01 bib:Swaminathan2012_01"><unclear>kā</unclear>ṇamum mikāṟppāṭṭamum</rdg>
-            <note>The letter <foreign>kā</foreign> and the letter <foreign>i</foreign> in <foreign>mi</foreign> are no longer legible.</note>
-        </app>
-        <app loc="A33">
-            <lem><hi rend="grantha">mahāde<supplied reason="lost">vi</supplied></hi></lem>
-            <rdg source="bib:SrinivasaRao1967_01 bib:Swaminathan2012_01"><hi rend="grantha">mahādevi</hi></rdg>
-            <note>The letter <foreign>vi</foreign> is no longer legible.</note>
-        </app>
-        <app loc="A33">
-            <lem><supplied reason="lost">pa</supplied>kkal</lem>
-            <rdg source="bib:SrinivasaRao1967_01 bib:Swaminathan2012_01">pakkal</rdg>
-            <note>The letter <foreign>pa</foreign> is no longer legible.</note>
-        </app>
-        <app loc="A35">
-            <lem>Iru<unclear>ṉ</unclear><lb n="A36" break="no"/>ta</lem>
-            <note>There is a larger space between the lines 35 and 36, and the hand slightly changes from this line 36 onwards.</note>
-        </app>
-        <app loc="A39">
-            <lem>E<supplied reason="lost"><hi rend="grantha">śva</hi></supplied>ra</lem>
-            <rdg source="bib:SrinivasaRao1967_01 bib:Swaminathan2012_01">E<hi rend="grantha">śva</hi>ra</rdg>
-            <note>The letter <foreign>śva</foreign> is no longer legible.</note>
-        </app>        
-    </listApp>
-</div>
-    
-<div type="textpart" n="B">
-    
-    <listApp>
-        
-        <!--
-            <app loc="0">
-            <lem></lem>
-            <rdg source="bib:Gillet2023_01"></rdg>
-            <rdg source="bib:SrinivasaRao1967_01"></rdg>
-            </app>
-        -->
-        
-        <app loc="B1">
-            <lem>paṭākai</lem>
-            <rdg source="bib:Gillet2023_01"/>
-            <rdg source="bib:SrinivasaRao1967_01">piṭākai</rdg>
-        </app>
-        
-        <app loc="B2">
-            <lem>Iṟukkak kaṭava</lem>			
-            <rdg source="bib:SrinivasaRao1967_01"/>
-            <rdg source="bib:Gillet2023_01">Iṟukka kaṭava</rdg>
-        </app>
-        
-        <app loc="B3">
-            <lem>vētum</lem>			
-            <rdg source="bib:SrinivasaRao1967_01">vetum</rdg>
-            <rdg source="bib:Gillet2023_01"><unclear>vetu</unclear>m</rdg>
-        </app>
-        
-        <app loc="B3">
-            <lem>pāta<lb n="4"/>ṉ</lem>			
-            <rdg source="bib:SrinivasaRao1967_01"/>
-            <rdg source="bib:Gillet2023_01">pāta<lb n="4"/><unclear>ṉ</unclear></rdg>
-        </app>
-        
-        <app loc="B4">
-            <lem>ka<supplied reason="omitted">ṭa</supplied>va</lem>			
-            <rdg source="bib:SrinivasaRao1967_01"/>
-            <rdg source="bib:Gillet2023_01">kava</rdg>
-        </app>	    
-        
-        <app loc="B7">
-            <lem><unclear>ni</unclear><hi rend="grantha">be<unclear>n</unclear>dha</hi><supplied reason="omitted">ñ</supplied></lem>
-            <rdg source="bib:SrinivasaRao1967_01">ni<hi rend="grantha">bhen<supplied reason="omitted">da</supplied></hi>m</rdg>
-            <rdg source="bib:Gillet2023_01"><unclear>ni</unclear><hi rend="grantha">bedha</hi></rdg>
-        </app>
-        
-        <app loc="B9">
-            <lem>yum</lem>
-            <note>The phrase <foreign><hi rend="grantha">brā</hi>maṇar Irupatu</foreign> is engraved, as an addition it seems, on the pilaster to the left of the beginning of the line 10. It is not clear where this phrase should be integrated in the main text.</note>
-        </app>
-        
-        <app loc="B10">
-            <lem>kaṟikku</lem>
-            <rdg source="bib:SrinivasaRao1967_01">karikku</rdg>	        
-            <rdg source="bib:Gillet2023_01">ta<unclear>ṟi</unclear>kku</rdg>
-        </app>	    
-        
-        <app loc="B10">
-            <lem>p<supplied reason="lost">uḷ</supplied>i<unclear>ṅkaṟi</unclear> yaṭam orukku</lem>
-            <rdg source="bib:SrinivasaRao1967_01">puḷiṅkaṟik=ku morukku</rdg>	        
-            <rdg source="bib:Gillet2023_01"><supplied reason="lost">puḷi</supplied><unclear>ṅkaṟi</unclear> yaṭa<unclear>mo</unclear>rukku</rdg>
-        </app>
-        
-        <app loc="B12">
-            <lem><unclear>veṟu</unclear>ṅkāy</lem>	        
-            <rdg source="bib:SrinivasaRao1967_01">veṟuṅkāy</rdg>
-            <rdg source="bib:Gillet2023_01"><unclear>veṟuṅkkāy</unclear></rdg>
-        </app>
-        
-        <app loc="B12">
-            <lem> pat<unclear>t</unclear> āka</lem>	        
-            <rdg source="bib:SrinivasaRao1967_01">pattāka</rdg>
-            <rdg source="bib:Gillet2023_01">patakāka</rdg>
-        </app>
-        
-        <app loc="B12">
-            <lem>n<unclear reason="eccentric_ductus">ū</unclear>ṟukku</lem>	        
-            <rdg source="bib:SrinivasaRao1967_01">nūṟukku</rdg>
-            <rdg source="bib:Gillet2023_01">nāṟukku</rdg>
-        </app>
-        
-        <app loc="B14">
-            <lem>Irunāḻiyum</lem>			
-            <rdg source="bib:SrinivasaRao1967_01">Irunāḻim</rdg>
-            <rdg source="bib:Gillet2023_01">Irunāḻiya<unclear>m</unclear></rdg>
-        </app>
-        
-        <app loc="B19">
-            <lem>nāḷaikku</lem>	        
-            <rdg source="bib:SrinivasaRao1967_01"/>
-            <rdg source="bib:Gillet2023_01">nā<unclear>ṉe</unclear>kku</rdg>
-        </app>
-        
-        <app loc="B24">
-            <lem>Uriyu<supplied reason="omitted">m</supplied></lem>
-            <rdg source="bib:SrinivasaRao1967_01">Uriyum</rdg>
-            <rdg source="bib:Gillet2023_01">Uriyu</rdg>	        
-        </app>
-        
-        <app loc="B22">
-            <lem><supplied reason="lost">ciṉ</supplied>nāl</lem>
-            <rdg source="bib:Gillet2023_01"/>
-            <rdg source="bib:SrinivasaRao1967_01"><unclear>ciṉ</unclear>nāl</rdg>
-        </app>
-        
-        <app loc="B26">
-            <lem>nā<supplied reason="omitted">ḷai</supplied>kku</lem>	        
-            <rdg source="bib:SrinivasaRao1967_01">nāḷaikku</rdg>
-            <rdg source="bib:Gillet2023_01">nākku</rdg>
-        </app>
-        
-        <app loc="B26">
-            <lem>patakku</lem>
-            <rdg source="bib:SrinivasaRao1967_01"/>
-            <rdg source="bib:Gillet2023_01">putakku</rdg>
-        </app>
-        
-        <app loc="B27">
-            <lem>veṇkala n<unclear reason="eccentric_ductus">ū</unclear>ṟum</lem>
-            <rdg source="bib:SrinivasaRao1967_01">veṇkala nūṟum</rdg>
-            <rdg source="bib:Gillet2023_01">veṇkalan<unclear>nū</unclear>ṟum</rdg>
-        </app>	        
-        
-        <app loc="B27">
-            <lem>nāḷaikku</lem>
-            <rdg source="bib:SrinivasaRao1967_01"/>
-            <rdg source="bib:Gillet2023_01"><supplied reason="lost">nā</supplied>ḷaikku</rdg>
-        </app>
-        
-        <app loc="B28">
-            <lem>patiṉ</lem>
-            <rdg source="bib:SrinivasaRao1967_01">patiṅ</rdg>
-            <rdg source="bib:Gillet2023_01">pati<supplied reason="lost">ṅ</supplied></rdg>	        
-        </app>
-        
-        <app loc="B31">
-            <lem>I<lb n="31" break="no"/>ṭ<unclear>a</unclear></lem>
-            <rdg source="bib:SrinivasaRao1967_01">I<lb n="31" break="no"/>ṭa</rdg>
-            <rdg source="bib:Gillet2023_01">I<lb n="31" break="no"/>ṭu</rdg>
-        </app>
-        
-        <app loc="B37">
-            <lem><hi rend="grantha">brāhma</hi>ṇa<supplied reason="omitted">r</supplied>kku<unclear>m</unclear></lem>
-            <rdg source="bib:SrinivasaRao1967_01"><hi rend="grantha">brāhma</hi>ṇa<supplied reason="omitted">ṟ</supplied>kum</rdg>	
-            <rdg source="bib:Gillet2023_01"><hi rend="grantha">brāhma</hi>ṇakku<supplied reason="lost">m</supplied></rdg>         
-        </app>
-        
-        <!--<app loc="B0">
-            <lem></lem>
-            <rdg source="bib:Gillet2023_01"></rdg>
-            <rdg source="bib:SrinivasaRao1967_01"></rdg>
-            </app>-->
-        
-    </listApp>
-</div>
-    
-<div type="textpart" n="C">
+                    <ab>
+                        <milestone type="pagelike" unit="zone" n="A1"/>
+                        <label xml:lang="eng">Northern facade</label>
+                        <lb n="A1=1"/><g type="daṇḍa"/><g type="daṇḍa"/><g type="daṇḍa"/> <hi rend="grantha">svasti śrī</hi> <g type="gomutraFinal">.</g>
+                    </ab>
                     
-    <listApp>
-        
-        <!--<listApp>
-            <app loc="C0">
-            <lem></lem>
-            <rdg source="bib:Gillet2023_01"></rdg>
-            <rdg source="bib:SrinivasaRao1967_01"></rdg>
-            </app>
-            </listApp>-->
-        
-        <app loc="C1=">
-            <lem><unclear>E</unclear>ṭṭiṉ nāllu</lem>
-            <rdg source="bib:SrinivasaRao1967_01 bib:Gillet2023_01"><unclear>E</unclear>ṭṭiṉa nāllu</rdg>
-        </app>
-        
-    </listApp>
-    
+                    <lg n="1" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                        <l n="a">kuvalāla-samudbhavaḥ su-kī<unclear>r</unclear>tti<lb n="A2=2" break="no"/>-paḻu<hi rend="grantha">vū</hi>r-</l>
+                        <l n="b">nakka Iti pratīta-nāmā muravairīva</l>
+                        <l n="c"><unclear reason="eccentric_ductus">vira</unclear><lb n="A3=3" break="no"/><unclear reason="eccentric_ductus">jaḥ</unclear> jāta-varṇṇa-<unclear>pra</unclear>varo</l>
+                        <l n="d">vaṁśa-karaḥ sam-āvirāsīt· <g type="ddanda">.</g></l>
+                    </lg>
                     
-</div>    
-                
-</div>
-            
-<div type="translation" resp="part:vagi">            
-                
-<div type="textpart" n="A">
-    <p n="A1">
-        Prosperity! Fortune!
-    </p>            
-    
-    <p rend="stanza" n="1">Coming from Kuvalāla, known under the name Nakka of Paḻuvūr of great fame, pure like Muravairin <supplied reason="explanation">Kṛṣṇa</supplied>, eminent by his birth and his caste, founder of a lineage, he appeared.</p>
-    
-    <p rend="stanza" n="2">He who is considered by the mendicants as the incarnate liberality, by the enemies as he who has a body whose quality is heroism, by those who have the eyes of a gazelle<note>I.e., the women.</note> as Kāma although coming from a lineage which has a body,<note>Kāma does not have a body.</note> by the sages as the incarnate Dharma.</p>
-    
-    <p n="A6-13">He, whose name Vikramacoḷa Mahārāja was obtained from the king Vikramacoḷa who was pleased with his heroism when he seized multitudes of seas and skies, entirely obtained with his own valour; in the fourteenth year of this king, having established in stone a temple for Śambhu who resides in Śrī Vijayamaṅgala, in the big <foreign>agrahāra</foreign> Śrī Vānavan-Mahādevi, having bought from the great assembly a ‘miserable village’ <supplied reason="explanation"><foreign>grāmaṭikām</foreign></supplied> named Neṭuvāyil belonging to this village, and having made it tax-free with the gift of his own wealth, he donated for the worship and the festival of Śaṁbhu, as long as the moon lasts.</p>
-    
-    <p n="A13">
-        This is the 14th year of Kōpparakesarivarman.
-    </p>
-    
-    <p n="A14-21">I, lord of Kuvaḷālam, Ampalavaṉ Paḻuvūr Nakkaṉ <hi rend="italic">alias</hi> Vikramacōḻa Mahārāja, of the military superior grade of Uṭaiyār<note>I.e., the king.</note>, having graciously caused to raise <supplied reason="explanation"><foreign>eḻuntaruḷuvittu</foreign></supplied> in stone <supplied reason="explanation"><foreign>kallāl</foreign></supplied> the holy sanctuary <supplied reason="explanation"><foreign>śrī vimāṉam</foreign></supplied> of Mahādeva of Śrī Vijayamaṅgalam, of big Śrī Vānavaṉ-mahādevi-caturvedimaṅgalam, a <foreign>brahmadeya</foreign> of the northern bank. For this god, I gave <supplied reason="subaudible">a village</supplied> to the Brahmins <supplied reason="explanation"><foreign>mākaṉāṉ</foreign></supplied> for holy food offerings, for holy lamps, for holy offerings, for the smearing of the idol, for incense, for lands for the holy garden, for holy festivals, for ceremonial baths, and, besides these, for all those worships of whatever name wanted for this god.
-    </p>
-    
-    <p n="A22-32">
-        This is the village: Neṭuvāyil, a northern hamlet of this big Śrī Vānavaṉ-mahādevi-caturvedimaṅgalam, and, falling in this, surrounding this Neṭuvāyil, including Ūrtāmaraiṉalār, Tiruccenivalam, Mākulakkuṟucci, surrounding this town, including taxes on forges/profession of watchmen, taxes on forest, taxes on marriage, taxes on looms, <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>ilaikkalamum</foreign></supplied> of this town, and lands where the turtles crawl and the lizards run<note>I.e., uncultivated lands.</note> of whatever names, besides mounds, paddy fields, deep tanks, tanks, the wells which look to the east, trees which look to the west, dry lands and wet lands, wet lands of this village.
-    </p>
-    
-    <p n="A32-39">
-        Having bought <supplied reason="subaudible">the land</supplied> from the great people of the assembly <supplied reason="explanation"><foreign>peruṅkuṟi</foreign></supplied> of this big Śrī Vānavaṉ­mahādevi-caturvedimaṅgalam, as a lord/landowner <supplied reason="explanation"><foreign>uṭaiyēṉṉāy</foreign></supplied>, I gave seven hundred <foreign>kācus</foreign> to those of this Mahāsabhā to make it tax-free; in this manner, as tax-free <supplied reason="subaudible">land</supplied>, I gave to be enjoyed for the holy services of whatever name indicated before, for Mahādeva of this Śrī Vijayamaṅgalam, this complete Neṭuvāyil where I stay having become lord/ landowner <supplied reason="explanation"><foreign>uṭai ēnṉāy</foreign></supplied>. 
-    </p>		
-    
-    <p n="A39">
-        These are under the protection of the Panmāheśvaras.
-    </p>
-    
-    <p n="A39-41">
-        Do not neglect moral duty <supplied reason="explanation"><foreign>aṟam</foreign></supplied>; there is no support except moral duty; I have written while he spoke; I have written, I Niṉṟān Ārā Amutān, the <hi rend="italic">madhyastan</hi> of this village, the great poet <foreign>peruṅkāviti</foreign> of Vānavamātēvi; these are my letters.
-    </p>
-</div>
-    
-</div>
-            
-<div type="translation" resp="part:emfr">
-                
-<div type="textpart" n="B">
-    <p n="B1-5">
-        The taxes that this Neṭuvāyil and the hamlets surrounding Neṭuvāyil are to pay <supplied reason="explanation"><foreign>iṟukkak kaṭava</foreign></supplied> for this god,
-        the paddy that is to be measured <supplied reason="explanation"><foreign>aḷakka kaṭava</foreign></supplied> in the glorious courtyard <supplied reason="explanation"><foreign>tirumuṟṟattu</foreign></supplied> by Nakkaṉ of Paḻuvūr according to the stone of this glorious temple and the village stone<note>That is, weight standards.</note>,
-        and the paddy that is to be provided <supplied reason="explanation"><foreign>aṭṭa kaṭava</foreign></supplied> ...,
-        <supplied reason="subaudible">amount to</supplied> one thousand <foreign>kalam</foreign>s and one hundred <foreign>kaḻañcu</foreign>s of gold ...
-    </p>
-    <p n="B5-7">
-        ...
-        according to the binding agreement <supplied reason="explanation"><foreign>nibandha</foreign></supplied>,
-        whereas there are <supplied reason="explanation"><foreign>āka</foreign></supplied>
-        tirthy Śivayogin Brahmins and twenty Brahmins,        
-        for <supplied reason="subaudible">these</supplied> fifthy persons, <supplied reason="subaudible">provisions are as follows</supplied>.        </p>
-    
-    <p n="B7-14">
-        <list>
-            
-            <item>So that, for one person, there be perpetually two <foreign>nāḻi</foreign>s of rice and there be, <supplied reason="subaudible">for this purpose</supplied>, five <foreign>nāḻi</foreign>s of paddy, for <supplied reason="subaudible">these</supplied> fifthy persons, <supplied reason="subaudible">a total of</supplied> two <foreign>kalaṉ</foreign>s, two <foreign>kuṟuṇi</foreign>s and two <foreign>nāḻi</foreign>s of paddy <supplied reason="subaudible">are</supplied> perpetually <supplied reason="subaudible">provisioned</supplied>.</item>
-            
-            <item>So that there be <supplied reason="explanation">one</supplied> <foreign>tūṇi</foreign> of paddy for <supplied reason="explanation">one</supplied> <foreign>nāḻi</foreign> of ghee for three <foreign>nāḻi</foreign>s and <supplied reason="subaudible">one</supplied> ollock <supplied reason="explanation"><foreign>āḻākku</foreign></supplied> of ghee, for these three <foreign>nāḻi</foreign>s and <supplied reason="subaudible">one</supplied> ollock of ghee: <supplied reason="explanation">one</supplied> <foreign>kalaṉ</foreign> and four <foreign>nāḻi</foreign>s of paddy <supplied reason="subaudible">are</supplied> perpetually <supplied reason="subaudible">provisioned</supplied>.</item>
-            
-            <item>For the curries <supplied reason="explanation"><foreign>kaṟi</foreign></supplied>: <supplied reason="explanation">one</supplied> <foreign>tūṇi</foreign> of paddy <supplied reason="subaudible">is provisioned</supplied>.</item>
-            
-            <item>For one <gap reason="ellipsis"/> tamarind curries <supplied reason="explanation"><foreign>puḷiṅkaṟi</foreign></supplied>: <supplied reason="explanation">one</supplied> <foreign>kuṟuṇi</foreign> of paddy <supplied reason="subaudible">is provisioned</supplied>.</item>
-            
-            <item>For one <gap reason="ellipsis"/> of sandal <supplied reason="explanation"><foreign>aṭṭi</foreign></supplied>: <supplied reason="subaudible">one</supplied> <foreign>patakku</foreign> of paddy <supplied reason="subaudible">is provisioned</supplied>.</item>
-            
-            <item>So that there be <supplied reason="explanation">one</supplied> <foreign>nāḻi</foreign> and <supplied reason="explanation">one</supplied> <foreign>uḻakku </foreign> of paddy for <supplied reason="explanation">one</supplied> <foreign>nāḻi</foreign> of salt, for five <foreign>nāḻi</foreign>s of salt: six <foreign>nāḻi</foreign>s of paddy <supplied reason="subaudible">are provisioned</supplied>.</item>
-            
-            <item>So that there be <supplied reason="explanation">two</supplied> <foreign>nāḻi</foreign>s of paddy <supplied reason="explanation">one</supplied> for <supplied reason="explanation">one</supplied> <foreign>paṟṟu</foreign> of betel, for three <foreign>paṟṟu</foreign>s of betel: six <foreign>nāḻi</foreign>s of paddy <supplied reason="subaudible">are provisioned</supplied>,</item>            
-            
-            <item>So that there be ten <foreign>nāḻi</foreign>s of paddy <supplied reason="subaudible">for</supplied> areca-nuts, for one hundred areca-nuts: ten <foreign>nāḻi</foreign>s of paddy <supplied reason="subaudible">are provisioned</supplied>.</item>
-            
-        </list>
-        This being so, so that there be perpetually four <foreign>kalaṉ</foreign>s, five <foreign>kuruṇi</foreign>s, four <foreign>nāḻi</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>uḻakku</foreign>: for the span of a year <supplied reason="subaudible">a total of</supplied> one thousand six hundred and five <foreign>kalaṉ</foreign>s, two <foreign>tūṇi</foreign>s, three <foreign>kuṟuṇi</foreign>s and two <foreign>nāḻi</foreign>s <supplied reason="subaudible">are provisioned</supplied>.
-    </p>
-    
-    <p n="B14-15">
-        <list>
-            <item>For one who brings <supplied reason="explanation"><foreign>iṭuvāṉ</foreign></supplied> fire-wood <supplied reason="explanation"><foreign>viṟaku</foreign></supplied> ...</item>            
-            <item>For one cook <supplied reason="explanation"><foreign>aṭuvāṉ</foreign></supplied> ...</item>            
-        </list>        
-        This being so, so that there be perpetually one <foreign>patakku</foreign> of paddy, per year, <supplied reason="subaudible">a total of</supplied> sixty <foreign>kalam</foreign>s of paddy <supplied reason="subaudible">are provisioned</supplied>.        
-    </p>
-    
-    <p n="B15-16">
-        <supplied reason="subaudible">Furthermore</supplied>, for these two persons, so that there be, for each of them <supplied reason="explanation"><foreign>oruvaṉukku</foreign></supplied>, ten <foreign>kalam</foreign>s of paddy for one <foreign>kācu</foreign> <supplied reason="subaudible">as</supplied> capital for cloth, for both of them: twenty <foreign>kalam</foreign>s of paddy for two <foreign>kācu</foreign>s <supplied reason="subaudible">are provisioned</supplied>.
-    </p>    
-    
-    <p n="B16-18">
-        Whereas there are <supplied reason="explanation"><foreign>āka</foreign></supplied>
-        tirthy Śivayogin Brahmins and twenty Brahmins,
-        for <supplied reason="subaudible">these</supplied> fifthy persons,
-        <supplied reason="subaudible">whereas one</supplied> <foreign>nāḻi</foreign> and <supplied reason="subaudible">one</supplied> <foreign>uri</foreign> of oil <supplied reason="subaudible">for</supplied> ... <supplied reason="explanation"><foreign>caṉivāram</foreign></supplied> and <supplied reason="subaudible">one</supplied> <foreign>nāḻi</foreign> and <supplied reason="subaudible">one</supplied> <foreign>uri</foreign> of oil <supplied reason="subaudible">for</supplied> ... <supplied reason="explanation"><foreign>ayaṉavāram</foreign></supplied> <supplied reason="subaudible">are required</supplied>,
-        so that there be one <foreign>tūṇi</foreign> of paddy for the <foreign>nāḻi</foreign>s of oil:
-        for the span of a year, <supplied reason="subaudible">a total of</supplied>, for <supplied reason="subaudible">one</supplied> <foreign>kalaṉ</foreign>, two <foreign>tūṇi</foreign>s and two <foreign>nāḷi</foreign>s of oil, fifty-four <foreign>kalam</foreign>s of paddy <supplied reason="subaudible">are provisioned</supplied>.
-    </p>
-    
-    <p n="B18-25">
-        <list>
-            <item>So that there be ...</item>
-            <item>So that there be ...</item> 
-            <item>So that there be ...</item>
-            <item>So that there be ...</item>
-            <item>So that there be ...</item>
-            <item>So that there be ...</item>
-        </list>        
-        This being so, so that there be ten <foreign>kalam</foreign>s of paddy per <foreign>kācu</foreign> for <supplied reason="subaudible">a total of</supplied> fifteen and a half <foreign>kācu</foreign>s:
-        fifteen <foreign>kācu</foreign>s, excluding the <foreign>kācu</foreign>s for the duty <supplied reason="explanation"><foreign>kaṭamai</foreign></supplied> of the garden, through one hundred fifty five <foreign>kalam</foreign>s of paddy <supplied reason="subaudible">are provisioned</supplied>.
-    </p>
-    
-    <p n="B26-36">
-        <list>
-            
-            <item>So that there be for the woman who...</item>
-            
-            <item>For the woman who...</item>
-            
-            <item>So that there be perpetually, for each of those who sing <foreign>tiruppatiyam</foreign> <supplied reason="explanation"><foreign>viṇṇappam ceyvār</foreign></supplied>, <supplied reason="subaudible">one</supplied> <foreign>patakku</foreign> and four <foreign>nāḻi</foreign>s, including the capital for cloth, per year, per day: seventy-five <foreign>kalam</foreign>s of paddy <supplied reason="subaudible">are provisioned</supplied> ...</item>
-            
-            <item>So that the guardian of the entrance pavillion <supplied reason="explanation"><foreign>kōpuram</foreign></supplied> is one who obtains ...</item>
-            
-            <item>So that there be perpetually, for one potter, so that he puts <foreign>kalam</foreign>s for the feeding hall <supplied reason="explanation"><foreign>cālai</foreign></supplied> ...</item>
-            
-            <item>So that there be for ...</item>
-            <item>So that there be for one Brahmin who ...</item>
-            <item><supplied reason="subaudible">Furthermore</supplied>, for him, as capital for cloth: five <foreign>kalam</foreign>s of paddy, through half a <foreign>kācu</foreign> <supplied reason="subaudible">are provisioned</supplied>.<foreign>That is, half a <foreign>kācu</foreign> </foreign> is provisioned to buy five pots of paddy.</item>
-            <item>For the ... <supplied reason="subaudible">cantaṉam</supplied> ...</item>
-            <item>So that there be perpetually two <foreign>nāḻi</foreign>s of rice ...</item>
-        </list>     
-    </p>
-</div>
-                
-<div type="textpart" n="C">
-    
-    <p n="C1">
-        So that there be an inner sanctum endowment <supplied reason="explanation"><foreign>tiru-v-uṇṇaḻikai-p-puṟam</foreign></supplied>
-        for this glorious Vijayamaṅgaladeva, the great god <supplied reason="explanation">for whom</supplied> this <foreign>brahmadeya</foreign> has been made, the shares given tax-free <supplied reason="subaudible">are</supplied> ...
-    </p>
-    <p n="C1-6">
-        Stating from the seventh year of the glorious king Rājarāja,
-        ...
-        who has been graciously installed,
-        having changed the manner of doing these ...
-        according to what has been engraved on stone, <supplied reason="subaudible">provisions are as follows</supplied>.        
-        <list>
-            <item>So that there be four <foreign>nāḻi</foreign>s at the time of sacred rice food-offerings ...</item>            
-            <item>So that there be one <foreign>piṭi</foreign> at the time of ghee food-offerings ...</item>            
-            <item>For the time of seasoned curry <supplied reason="explanation"><foreign>porikkaṟi</foreign></supplied> food-offerings ...</item>            
-            <item>So that there be four<note>An unclear amount is here subaudible.</note> at the time of areca-nut food-offerings ...</item>            
-            <item>For betel ...</item>            
-            <item>So that there be <supplied reason="subaudible">one</supplied> <foreign>uri</foreign>s at the time of curd food-offerings, for <supplied reason="subaudible">one</supplied> <foreign>uri</foreign>s of curd ...</item>          
-            <item>So that there be for five perpetual lamps ...</item>
-            <item>For ...</item>
-            <item>For the accountant: permanently four <foreign>nāḻi</foreign>s of paddy <supplied reason="subaudible">are provisioned</supplied>.</item>
-            <item>So that there be for two glorious <foreign>bali</foreign> lamps ...:
-                for the span of one year three hundred fifty five <foreign>kalaṉ</foreign>s, six <foreign>kuṟuṇi</foreign>s and four <foreign>nāḻi</foreign>s <supplied reason="subaudible">are provisioned.</supplied>
-            </item>  
-        </list>
-    </p>
-    
-    <p n="C42">
-        Do not forget duty <supplied reason="explanation"><foreign>aṟam</foreign><note>Tamil term equivalent to Sanskrit <foreign>dharma</foreign>.</note></supplied>; without duty, there is no refuge.
-    </p>
-    
-    <p n="C42">
-        These <supplied reason="subaudible">are under</supplied> the protection of the Paṉmāheśvaras.
-    </p>
-</div>
-    
-</div>
-            
-<div type="translation" xml:lang="fra" resp="part:emfr part:vagi">
-                
-<div type="textpart" n="A">	
+                    <lg n="2" rend="grantha" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:83215">          
+                        <l n="a"><lb n="A4=4"/>yam artthinas tyāgam upātta-vigraham·</l>
+                        <l n="b">dviṣat·-janāḥ <unclear reason="eccentric_ductus">śau</unclear><lb n="A5=5" break="no"/><unclear>r</unclear>yya-guṇaṁ śarīriṇam·</l>
+                        <l n="c">Anaṁgam aṁgānvayinaṁ· mṛgekṣaṇā</l>
+                        <l n="d"><lb n="A6=6"/>vida<unclear>n</unclear>ti dhar<unclear>m</unclear>maṁ satanum· vipaścitaḥ <g type="gomutraFinal">.</g></l>
+                    </lg>
                     
-    <p n="A1">
-        Prospérité ! Fortune !
-    </p>
-    
-    <p rend="stanza" n="1">
-        <l>Apparut <supplied reason="explanation"><foreign>sam-āvir-āsīt</foreign></supplied> un fondateur de lignée, originaire de Kuvalālam, connu sous le nom de Nakka<note>Forme sanskritisée du tamoul Nakkaṉ.</note> de Paḻuvūr à la bonne renommée, pur tel Muravairin <supplied reason="explanation">Kṛṣṇa</supplied>, excellent par sa naissance <supplied reason="explanation"><foreign>jāta</foreign></supplied> et sa classe <supplied reason="explanation"><foreign>varṇa</foreign></supplied>.</l>
-    </p>
-    
-    <p rend="stanza" n="2">
-        <l>Les mendiants le considèrent comme la libéralité incarnée,</l>
-        <l>Ses ennemis comme possédant un corps fait d’héroïsme,</l>
-        <l>Les femmes<note>littéralement « celles qui ont  des yeux de biche  »</note> comme Anaṅga <supplied reason="explanation">Kāma<note>Littéralement « celui qui n’a pas de corps ».</note></supplied>
-            <supplied reason="subaudible">bien que</supplied> de lignée humaine <supplied reason="explanation"><foreign>satanum</foreign><note>Littéralement « qui a un corps ».</note></supplied>,</l>
-        <l>Les sages comme le <foreign>dharma</foreign> incarné.</l>              
-    </p>
-    <p n="A6-13">
-        <!--Update! This is verse! But how many stanzas? And which metres?-->
-        Celui-ci <supplied reason="subaudible">donc</supplied> - qui reçut le nom de Vikramacōḷa-Mahārāja du roi Vikramacōḷa, satisfait de son héroïsme parce qu’il s’était emparé d’une multitude d’océans  <supplied reason="explanation"><foreign>arṇava</foreign></supplied> et de cieux <supplied reason="explanation"><foreign>ambara</foreign></supplied>, entiers et obtenus par sa propre vaillance - en la quatorzième année de ce roi, après avoir fondé une temple en pierre pour Śambhu qui réside dans le glorieux Vijaya-maṅgala dans le grand et glorieux <foreign>agrahāra</foreign> de Vānavana-mahādevī, donna, aussi longtemps que la lune dure, pour le culte et le festival de ce Śambhu précisément, un village nécessiteux du nom de Neṭuvāyil <!--Update to Neḍu°?--> appartenant à ce village, après l’avoir acheté à la grande assemblée et l’avoir rendu exempt de taxes par le don de ses propres biens.
-    </p>
-    
-    <p n="A13-">...</p>
-</div>
-    
-</div>
-            
-<div type="commentary">
-                
-    <p>In Part B mention is made of the 7th regnal year of Rājarāja (line 37), as a starting point.</p>
-    
-</div>
-            
-<div type="bibliography">
-                
-    <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/164).</p>
-    
-    <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.357), with facsimiles for lines 1-21. Lines 1-41 = Part A. Lines 41-76 = Part B.<note>As pointed out by <bibl><ptr target="bib:Gillet2023_01"/></bibl> (p. 84, fn. 65), lines 21-22 appears there, by mistake, as lines 75-76.</note> Lines 77-82 = Part C. This first edition reproduced in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.138).</p>
-    
-    <p>Edited, and partially translated, in <bibl><ptr target="bib:Gillet2023_01"/></bibl> (nos. 11-12), based on autopsy and photos. No. 11 = Part A. No. 12 = Part B + Part C.</p>
-    
-    <p>Part B an Part C translated in <bibl><ptr target="bib:Orr2000_01"/><citedRange unit="page">116-118</citedRange></bibl>.</p>
-    
-    <p>This edition by Renato Dávalos, Emmanuel Francis and Valérie Gillet (2023-2024), based on photos (Valérie Gillet, 2018). The second line number indicated (e.g. A1=1, B1=41, C1=47) is that in SII 19.357.</p>
+                    <p xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                        <!--Markup to be added-->
+                        <!--Check if metrical-->
+                        so ’yaṁ sva-vikramā<unclear>p</unclear>ta
+                        <lb n="A7=7" break="no"/>-khilārṇṇavām·barākara-grahād vīryya-toṣitād v<unclear>i</unclear>krama-coḷa-nṛpāl la
+                        <lb n="A8=8" break="no"/>bdha-vikrama-coḷa-mahārājābhidho ’sya rājñaś catu<unclear>r</unclear>daśe varṣe maha
+                        <lb n="A9=9" break="no"/>ti śrī-vānavana-mahādevy-agrahare śrī-vijaya-maṁga<unclear>l</unclear>e vasataḥ śa
+                        <lb n="A10=10" break="no"/>mbhoḥ mandiraṁ śilā-mayam· vidhāyāsyaiva grāmasya svabh<unclear>ū</unclear>tām· ne
+                        <lb n="A11=11" break="no"/><choice><unclear>ḍ</unclear><unclear>ṭ</unclear></choice>uvāyil-nāma-grāmaṭ<choice><sic>ī</sic><corr>i</corr></choice>kām mahāparṣadaḥ krītvā sva-vitta-dānād aka
+                        <lb n="A12=12" break="no"/>rāñ ca kṛtvā tasyaiva śam·bhor ā-śaśāṁka-sthiter arccanot·savādy-arttha
+                        <lb n="A13=13" break="no"/>m· prādāt· <g type="gomutraFinal">.</g>
+                    </p>
                     
-    <listBibl type="primary">
-        
-        <bibl n="SR">
-            <ptr target="bib:SrinivasaRao1967_01"/>
-            <citedRange unit="page">183-186</citedRange>
-            <citedRange unit="item">357</citedRange>
-            <citedRange unit="plate">II-III</citedRange>
-        </bibl>
-        
-        <bibl n="S">
-            <ptr target="bib:Swaminathan2012_01"/>
-            <citedRange unit="part">II</citedRange>
-            <citedRange unit="page">183-186</citedRange>
-            <citedRange unit="item">357</citedRange>                  
-        </bibl>
-        
-        <bibl n="VG">
-            <ptr target="bib:Gillet2023_01"/>
-            <citedRange unit="page">69, 81-82, 82-85</citedRange>
-            <citedRange unit="item">11-12</citedRange>
-        </bibl>
-        
-    </listBibl>
-    
-    <listBibl type="secondary">
-        
-        <bibl>
-            <ptr target="bib:ARIE1928-1929"/>
-            <citedRange unit="page">20</citedRange>
-            <citedRange unit="appendix">B</citedRange>
-            <citedRange unit="item">164</citedRange>
-        </bibl>
-        
-        <bibl>
-            <ptr target="bib:Orr2000_01"/>			
-        </bibl>
-        
-    </listBibl>
-    
-</div>
-    
-</body>
+                    <p>
+                        <persName>kō-p-para-kē<hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">nma</hi>k=ku</persName> yāṇṭu <num value="14"><g type="numeral">10</g> 4</num> Āvatu 
+                    </p>
+                    
+                    <p>
+                        Uṭaiy
+                        <lb n="A14=14" break="no"/>ār peru<choice><orig><unclear>ṉ</unclear></orig><reg>n</reg></choice>-tiṟattu <placeName>kuvaḷālam</placeName> uṭaiyāṉ Ampalava<choice><orig>n</orig><reg>ṉ</reg></choice> <placeName>paḻuvūr</placeName>
+                        <lb n="A15=15"/>nakkaṉ-āṉa vi<hi rend="grantha">krama</hi>-cōḻa-<hi rend="grantha">mahā-rāja</hi><choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ vaṭa-ka<unclear>r</unclear>ai <hi rend="grantha">brahma-de</hi>ya
+                        <lb n="A16=16" break="no"/>m periya <hi rend="grantha"><unclear>śrī</unclear></hi>-vānavaṉ-<hi rend="grantha">mahāde</hi>vi-<hi rend="grantha">ca</hi><unclear>tu</unclear><hi rend="grantha"><unclear>rvvedi</unclear></hi>-maṅ<unclear>ka</unclear>lattu <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ja</hi>ya-maṅkala<unclear>t</unclear>
+                        <lb n="A17=17" break="no"/>tu <hi rend="grantha">mahā-de</hi>var <hi rend="grantha">śrī</hi>-vimāṉam kallāl Eḻu<choice><orig>ṉ</orig><reg>n</reg></choice>t-aruḷuvittu I-<hi rend="grantha">de</hi>vark<unclear>ku</unclear>-t ti
+                        <lb n="A18=18" break="no"/>ru-v-amituk=kum tiru-viḷak=kuk=kum <hi rend="grantha">śrī-bali</hi>k=kum tiru-mey-pūccuk=kum tiru-p-pūkaik
+                        <lb n="A19=19" break="no"/>kum tiru-na<choice><orig>ṉ</orig><reg>n</reg></choice>tavā<choice><orig>n</orig><reg>ṉ</reg></choice>a-p-puṟattuk=kum tiru-viḻāvuk=kum <hi rend="grantha">snapa</hi>ṉaṅkaḷuk=kum maṟṟum
+                        <lb n="A20=20"/>I-<hi rend="grantha">de</hi>varkku vēṇṭum Ārātiṉaikaḷ Eppēṟpaṭṭaṉa Avaiccuk=kum   
+                        <lb n="A21=21"/>mākaṉāṉ kuṭutta Ūr āvatu
+                    </p>
+                    
+                    <p>
+                        Ip-periya <hi rend="grantha">śrī</hi>-vānavaṉ-<hi rend="grantha">mahāde</hi>vi-<hi rend="grantha">ca</hi>tu<hi rend="grantha">rvvedi</hi>-ma
+                        <milestone type="pagelike" unit="zone" n="A2" break="no"/>
+                        <label xml:lang="eng">Western facade</label>
+                        <lb n="A22=22" break="no"/>ṅkalattu vaṭa-piṭākai <placeName>neṭu-vāyil</placeName>um
+                        <lb n="A23=23"/>Itu <gap reason="illegible" quantity="2" unit="character"/>ppaṭum Ūrtāmaraiṉal
+                        <lb n="A24=24" break="no"/>-Ārum tiru-c-cen<unclear>i</unclear>valamum ma<unclear>ṇ</unclear>kulak=ku
+                        <lb n="A25=25" break="no"/>ṟucciyum Uḷ-p-paṭa I-neṭu vāyil vaḷai
+                        <lb n="A26=26" break="no"/>yil-c cuṟṟu muṟṟum
+                    </p>
+                    
+                    <p>Iv-ūr n<choice><orig>i</orig><reg>ī</reg></choice><unclear>r</unclear>-<supplied reason="lost">n</supplied>ilam<unclear>u</unclear>m  p<unclear>u</unclear>ṉ
+                        <lb n="A27=27" break="no"/>-cey<choice><sic>ū</sic><corr>u</corr></choice>m meṉ-ceyum mē<supplied reason="omitted">l</supplied> nōkk<supplied reason="lost">i</supplied><choice><orig>n</orig><reg>ṉ</reg></choice>a maramum k<choice><orig>i</orig><reg>ī</reg></choice>ḻ
+                        <lb n="A28=28"/>ṉōkki<choice><orig>n</orig><reg>ṉ</reg></choice>a kiṇaṟum kuḷamum kōṭṭakamum paṟṟum teṟṟiyu<supplied reason="lost">m ma</supplied>
+                        <lb n="A29=29" break="no"/>ṟṟum Uṭump’ ōṭi Āmai tavaḻ<choice><orig>ṇ</orig><reg>n</reg></choice>tatu Eppēṟppaṭa
+                        <lb n="A30=30" break="no"/>tum Iv-ūr Ilai-k-kalam<unclear>u</unclear>m taṟi-p-puṭavaiyum kaṇ
+                        <lb n="A31=31" break="no"/>ṇāla-k-<supplied reason="lost">kā</supplied>ṇamum <supplied reason="lost">i</supplied><unclear>kāṟ</unclear>-p-pāṭṭamum Ulaiyam Ulai-p-pāṭṭamum
+                        <lb n="A32=32"/>Uḷ-p-pa<supplied reason="omitted">ṭa</supplied> Iv-ū<unclear>r</unclear> vaḷaiyil-c cuṟṟu muṟṟum
+                    </p>
+                    
+                    <p>
+                        I<unclear>p</unclear>-periya <hi rend="grantha">śrī</hi>-vānavaṉ
+                        <lb n="A33=3" break="no"/>-<hi rend="grantha">mahā-de<supplied reason="lost">vi</supplied></hi><hi rend="grantha"><unclear>-c-ca</unclear></hi>tu<hi rend="grantha"><supplied reason="omitted">r</supplied>vve</hi>ti-maṅkalattu peruṅ-kuṟi-p perumak=kaḷ <supplied reason="lost">pa</supplied>k=kal vilai
+                        <lb n="A34=34" break="no"/>-koṇṭu Uṭaiyē<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice>-ā<supplied reason="omitted">y</supplied> Im-<hi rend="grantha">mahāsabhai</hi>yārkkē Eḻu-ṉūṟu kācu kuṭu
+                        <lb n="A35=35" break="no"/>tta Iṟai Iḻicc<choice><sic>a</sic><corr>i</corr></choice> Ip-paricu Iṟai-Ili-y-āka <choice><orig>ṉān</orig><reg>nāṉ</reg></choice> Uṭai-En<unclear>ṉ-ā</unclear>y Iru<choice><orig>ṉ</orig><reg>n</reg></choice>
+                        <lb n="A36=36" break="no"/>ta I-<placeName>neṭu-vāyil</placeName> muṟṟum
+                    </p>
+                    
+                    <p>
+                        I-<hi rend="grantha">śrī</hi>-v<unclear>i</unclear><hi rend="grantha">ja</hi>ya-maṅkalattu <hi rend="grantha">mahā-de</hi>vark=ku mu
+                        <lb n="A37=37" break="no"/>ṉ c<unclear>u</unclear>ṭṭa-p-paṭṭa Eppēṟppaṭṭa t<choice><sic>a</sic><corr>i</corr></choice>ru-v-ārātiṉaikaḷuk=kum <hi rend="grantha">bhogam-ā</hi>ka-k kuṭuttē
+                        <lb n="A38=38" break="no"/>ṉ <persName><placeName>kuvalāḷam</placeName> uṭaiyān Ampalavaṉ <placeName>paḻuvūr</placeName> nakkaṉ-āṉa vi<hi rend="grantha">krama-<choice><sic>ś</sic><corr>c</corr></choice>o</hi>ḻa-<hi rend="grantha">mahā
+                            <lb n="A39=39" break="no"/>-rāj<unclear>ā</unclear></hi><choice><sic>na</sic><corr>ṉ-ē</corr></choice>ṉ</persName>
+                    </p>
+                    
+                    <p>
+                        Ivai pan-<hi rend="grantha">mahā</hi>-E<hi rend="grantha"><unclear>śva</unclear></hi>ra-ra<hi rend="grantha">kṣai</hi>
+                    </p>
+                    
+                    <p>
+                        Aṟam maṟavekka Aṟa<choice><orig>mm</orig><reg>m</reg></choice> a<unclear>l</unclear>latu tuṇai y-illai
+                    </p>
+                    
+                    <p>                  
+                        <lb n="A40=40"/>I<unclear>va</unclear><supplied reason="lost">r</supplied> colla Eḻuti<choice><sic>nnē</sic><corr>ṉēṉ</corr></choice> Iv-ūr <hi rend="grantha">maddh<supplied reason="lost">y</supplied>astha</hi><choice><orig>n</orig><reg>ṉ</reg></choice> <persName>ni<choice><orig>n</orig><reg>ṉ</reg></choice>ṟā<choice><orig>n</orig><reg>ṉ</reg></choice> Ārā-Amutā<choice><orig>n</orig><reg>ṉ</reg></choice></persName> <placeName>vā<choice><orig>n</orig><reg>ṉ</reg></choice>ava-mātēvi</placeName>-p-peruṅ-k<unclear>ā</unclear>
+                        <lb n="A41=41" break="no"/>viti-y
+                    </p>
+                    <p>
+                        Ivai E<choice><orig>nn</orig><reg>ṉ</reg></choice> eḻuttu
+                    </p>            
+                </div>
+                
+                
+                <div type="textpart" n="B">
+                    
+                    <p>
+                        
+                        <milestone type="pagelike" unit="zone" n="B1"/>
+                        <label xml:lang="eng">Western facade, northenmost wall section</label>
+                        
+                        <lb n="B1=41"/>I-neṭu-vāyilum neṭu-vāyil cuṟṟiṉa paṭākai
+                        <lb n="B2=42" break="no"/>kaḷu<choice><orig>mm</orig><reg>m</reg></choice> it-tēva<supplied reason="omitted">r</supplied>kku Iṟukka-k kaṭava <space type="feature"/> Iṟai I-<hi rend="grantha">śrī</hi>-kōyiṟ-kāl Ūr-k-kāl paḻuvūr nakkaṉṉāl
+                        <lb n="B3=43"/>tiru-muṟṟattu Aḷakka kaṭava nellu vālli ne<unclear>l</unclear> kaṟ <gap unit="character" reason="lost" quantity="3"/> <unclear>ṟ</unclear>cettal n<choice><orig>i</orig><reg>ī</reg></choice>kki kūṭṭal vētum pāta
+                        <lb n="B4=44"/>ṉ Aṭṭa ka<supplied reason="omitted">ṭa</supplied>va nellu
+                        Āyira-k kalammu<supplied reason="omitted">n</supplied>
+                        tuḷai kaḻ<choice><sic>ai</sic><corr>a</corr></choice>ñ<unclear>cu l</unclear> potta poṉ kācu niṟai-k-kallā<supplied reason="lost">l</supplied>
+                        <lb n="B5=45"/>poṉ nuṟṟu-k kaḻ<choice><sic>ai</sic><corr>a</corr></choice><supplied reason="omitted">ñ</supplied>cum
+                    </p>
+                    <p>
+                        taṟi-p-puṭavai Oṉṟu kāl-p poṉ peṟuvaṉa puṭavai paṉ<choice><orig>n</orig><reg>ṉ</reg></choice>iraṇṭum
+                        <lb n="B6=46"/>neyi Eṇṇai mu-k-kalam ko<unclear>llar</unclear> U<unclear>lai-p</unclear>-pāṭṭam <choice><unclear>I</unclear><unclear>O</unclear></choice>ru pu<!--EF: abbrev. for puṉcey? See SII edition, which has a symbol--> Āyarppalam neṭu-vāyil vata <gap reason="lost" unit="character" quantity="1"/> Aṭuttu
+                        <lb n="B7=47" break="no"/>kku <unclear>ni</unclear><hi rend="grantha">b<choice><sic>e</sic><corr>a</corr></choice><unclear>n</unclear>dha</hi><supplied reason="omitted">ñ</supplied> ceyita paṭi civayō<hi rend="grantha">gi-brāhma</hi>ṇa<unclear>r</unclear> mu-p-patiṉ-marum <hi rend="grantha">brā</hi><supplied reason="lost"><hi rend="grantha">hma</hi></supplied><unclear>ṇar</unclear> I<unclear>ru</unclear>-patiṉ-marum Āka <unclear>Ai</unclear>y-patiṉ-ma<unclear>ṟ</unclear>kku
+                        
+                    </p>
+                    
+                    <p>
+                        <list>
+                            
+                            <item>Oruvaṉukku nica
+                                <lb n="B8=48" break="no"/>tam Arici Iru-nāḻi y-āka Iru-nāḻikku nellu Aiy-nāḻi y-āka Aiy-p-patiṉ-maṟku nicatam nellu <unclear>Iru</unclear>-kalaṉē Eḻu-kuṟu<unclear>ṇi</unclear> Iru-nāḻi
+                                <lb n="B9=49" break="no"/>yum</item>
+                            
+                            <item>ney muṉ-ṉāḻi Āḻākkukku ney nāḻikku <unclear>ne</unclear>llu tūṇi y-ā<supplied reason="lost">ka I</supplied><unclear>m</unclear>-muṉ-ṉāḻi Āḻākkukku nicatam nellu <supplied reason="lost">kala</supplied>ṉē n<supplied reason="lost">ā</supplied>
+                                
+                                <lb n="B10=50" break="no"/>-ṉāḻiyum</item>
+                            
+                            <item>kaṟikku nellu tūṇiy<unclear>u</unclear>m</item>
+                            
+                            <!--@EF: resume here systematic checking from photos.-->
+                            
+                            <item>p<supplied reason="lost">uḷ</supplied>i<unclear>ṅkaṟi</unclear> yaṭam orukku nellu-k kuṟuṇiyu<unclear>m</unclear></item>
+                            
+                            <item>Aṭṭiyu<unclear>ṇṇa</unclear>m orukku nellu <supplied reason="lost">pa</supplied>takku</item>
+                            
+                            <item>
+                                
+                                <milestone type="pagelike" unit="zone" n="B2"/>
+                                <label xml:lang="eng">Western facade, northenmost base section</label>
+                                
+                                <lb n="B11=51"/>U<choice><sic><unclear>m</unclear></sic><corr>p</corr></choice>pu <unclear>nā</unclear>ḻikku nellu nāḻi Uḻakk' āka
+                                Uppu Aiy-nāḻikku nellu Aṟu-nāḻi Uḻakkum</item>
+                            
+                            <item>veṟṟillai-p paṟṟu Oṉṟiṉukku <unclear>ne</unclear>l
+                                <lb n="B12=52" break="no"/><supplied reason="lost">lu</supplied> Iru-nāḻi <unclear>y-āka veṟṟillai</unclear>-p paṟṟu <supplied reason="lost">muṉ</supplied><unclear>ṟi</unclear><supplied reason="lost">ṉu</supplied>kku nellu Aṟu <supplied reason="lost">nā</supplied><unclear>ḻi</unclear><supplied reason="lost">yum</supplied></item>
+                            
+                            <item><unclear>veṟu</unclear>ṅkāy nāḻi <unclear>nellu</unclear>kku pat<unclear>t</unclear> āka veṟuṅkāy n<unclear reason="eccentric_ductus">ū</unclear>ṟukku nel
+                                <lb n="B13=53" break="no"/>lu <unclear>patiṉ</unclear> nāḻiy<unclear>um</unclear></item>
+                            
+                        </list>
+                        
+                        <supplied reason="lost">Āka nicatam</supplied> <unclear>nellu</unclear> nāṟ-kalaṉē <surplus>nāṟ-kalaṉē</surplus> Aiy-kuṟu<unclear>ṇi</unclear> <supplied reason="lost">nā-ṉāḻi Uḻakk' āka Ōr āṭṭai nāḷai</supplied>kku nellu Āyiratt' aṟu nūṟṟu Ai<unclear>y</unclear>
+                        <lb n="B14=54" break="no"/>-kalaṉē Iru-tūṇi mu-k-ku<unclear>ṟuṇ</unclear>i Iru-nāḻiyum
+                    </p>
+                    <p>		
+                        <list>
+                            <item>
+                                viṟak' iṭuvā<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> oruva<supplied reason="lost">ṉu</supplied>kku nicatam ne<supplied reason="lost">l</supplied>lukku <supplied reason="lost">kuṟuṇiyum</supplied></item>
+                            
+                            <item><supplied reason="lost">Aṭuvā<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> oruvaṉukku</supplied> nicatam nellu-k kuṟu<supplied reason="lost">ṇi</supplied>
+                                <lb n="B15=55" break="no"/>yum</item>
+                        </list> 
+                        
+                        Āka
+                        
+                        nicatam nellu patakk' āka Ōr āṭṭai nāḷaikku nellu Aṟupatiṉ kala<supplied reason="lost">mum</supplied>
+                    </p>
+                    <p>
+                        <unclear>Iv-i</unclear><supplied reason="lost">ruvaṟ</supplied><unclear>ku</unclear><supplied reason="lost">m pu</supplied><unclear>ṭavai</unclear> mutal <unclear>Oruva</unclear>ṉukku Oru kācukku ne<unclear>llu</unclear>
+                        
+                        <lb n="B16=56"/>patiṉ kala<choice><orig>mm</orig><reg>m</reg></choice> āka Iruvaṟkkum kāc' iraṇṭiṉ<unclear>āl</unclear> <supplied reason="lost">ne</supplied><unclear>l</unclear>lu I<supplied reason="lost">ru</supplied>-patiṉ kala<choice><orig>mm</orig><reg>m</reg></choice>u<supplied reason="omitted">ñ</supplied>
+                    </p>
+                    
+                    <p>
+                        civayō<hi rend="grantha">gi</hi>-<hi rend="grantha">brāhma</hi>ṇar mu-patiṉ-marum <hi rend="grantha">brahma</hi>ṇaṟ Iru-patiṉ-maru
+                        <lb n="B17=57"/>Āka Ai-p-patiṉ-vaṟku caṉivāram <unclear>Eṇṇai</unclear> <supplied reason="lost">nāḻi U</supplied>riyum <unclear>A</unclear>yaṉavāram Eṇṇai nāḻi Uriyum Eṇṇai nāḻikku nellu tūṇi y-āka
+                        <lb n="B18=58"/>Ōr āṭṭai nāḷaikku Eṇṇai kalaṉē Iru-tūṇi Iru-<supplied reason="lost">nā</supplied>ḻikku nellu Aiy-p-pattu nāṟ-kalamum
+                    </p>
+                    <p>
+                        
+                        <list>
+                            <item>nicatam payaṟu kuṟuṇi n<unclear>ā</unclear>ḻi<surplus>ḻi</surplus> y-ā
+                                <lb n="B19=59" break="no"/><unclear>ka</unclear><gap reason="lost" quantity="2" unit="character"/> <unclear>nāḻi</unclear>kku nellu Iru-nāḻi y-āka <gap unit="character" reason="lost" quantity="3"/> nāḷaikku payaṟu nāl-p-patt' aiy-ka<unclear>la</unclear>mm āka kācu Oṉṟukku y-aṟu Aiy 
+                                
+                                <lb n="B20=60" break="no"/>-kalamm āka payaṟu nāl-pa <gap reason="lost" quantity="3" unit="character"/> kala <unclear>n</unclear>e<unclear>llu</unclear> t<unclear>o</unclear>ṇṇūṟṟu kala<supplied reason="omitted">ṅ</supplied> kācu Oṉṟukku nellu <supplied reason="lost">patak</supplied> <gap reason="lost" unit="character" quantity="3"/> <unclear>m ā</unclear>ka <supplied reason="lost">Iru</supplied>-<unclear>nellukku</unclear> <supplied reason="lost">kācu Oṉṟu</supplied> <gap reason="lost" quantity="2" unit="character"/>
+                            </item>
+                            
+                            <item>
+                                <lb n="B21=75"/>caṟka<unclear>rai</unclear> nicatam <supplied reason="lost">Aim</supplied>-palam Āka Ōr āṭṭai nāḷaikku niṟai patiṉṉ eṭṭu <unclear>kācu</unclear> Oṉṟukku <supplied reason="lost">ni</supplied>ṟai paṉniraṇṭ' āka niṟai patiṉṉ eṭ<supplied reason="lost">ṭu</supplied>
+                                <lb n="B22=76"/><supplied reason="lost">ciṉ</supplied>nāl kācu O<unclear>ṉṟ' a</unclear>raiyu
+                            </item>
+                            
+                            <item>
+                                nicatam <unclear>puḷi</unclear> <supplied reason="lost">Iru-nāḻi y-āka</supplied> Ōr āṭṭai <unclear>nāḷaikku</unclear> <unclear>E</unclear>ḻu-nūṟṟu <supplied reason="lost">Iru</supplied>-patiṉ nāḻiyiṉāl kācu Oṉṟu<supplied reason="lost">m</supplied>
+                            </item>
+                            
+                            <item>
+                                <lb n="B23=61"/>nicatam miḷaku <unclear>U</unclear>ḻakk' <supplied reason="lost">arai</supplied> <unclear>kaṭuku</unclear> <gap reason="lost" quantity="7" unit="character"/> <unclear>kk' āka</unclear> Ōr āṭṭai nāḷaikku Iru-kalaṉē tūṇi <unclear>Oru</unclear> nāḻikku kācu mu<supplied reason="lost">ṉṟum</supplied>
+                            </item>
+                            
+                            <item>                
+                                nicatam cirakam Oru piṭi y-āka Ōr ā
+                                <lb n="B24=62" break="no"/>ṭṭai nāḷaikku patakku Aṟu-nāḻi Uriyu<supplied reason="omitted">m</supplied>
+                            </item>
+                            
+                            <item>                
+                                peruṅ-kāyam nicatam <unclear>Arai</unclear><supplied reason="lost">kka</supplied><unclear>ḻ ai</unclear>nt' āka Ōr āṭṭai nāḷaikku <unclear>nū</unclear>ṟṟu <unclear>Eṇpa</unclear>ti<supplied reason="omitted">ṉ ka</supplied>ḻantiṉ nāl kācu Onṟum                
+                            </item>
+                        </list>             
+                        Akā
+                        kā<unclear>cu</unclear>
+                        <lb n="B25=63"/>patiṉ Aint' araikkum kācu Oṉṟukku nellu patiṉ kalam Āka        
+                        nel<supplied reason="lost">lu nūṟ</supplied>ṟu Aiy-pattu Aiy-kalattāl <supplied reason="omitted">na</supplied>n<unclear>ta</unclear>-vā<unclear>ṉa</unclear>-kaṭa<choice><sic><choice><unclear>ṉ</unclear><unclear>ḷ</unclear></choice></sic><corr>m</corr></choice>ai <unclear>kā</unclear>cil n<choice><orig>i</orig><reg>ī</reg></choice>ṅku kācu patiṉ Ain<unclear>tu</unclear>        
+                    </p>
+                    
+                    <p>
+                        <list>
+                            <item><lb n="B26=64"/>cālaitukuttu meḻuki piṇṭi Aṭṭuvāḷḷ oruttikku nicatam nellu Iru-nāḻi y-āka Ōr āṭṭai nā<supplied reason="omitted">ḷai</supplied>kku nellu Ēḻu kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi patakku</item>
+                            
+                            <item><unclear>E</unclear>ccil E
+                                <lb n="B27=65" break="no"/>ṭuttu Eccilama<unclear>ṇ</unclear>ṭalam ceytu kalam cāmpal <unclear>I</unclear><supplied reason="lost">ṭu</supplied>vāḷ Oruttikku nicatam nellu puṭavai mu<supplied reason="omitted">ta</supplied>l Eṟṟi nā-ṉā<supplied reason="omitted">ḻi</supplied>yāl Ōr āṭṭai nāḷaikku <unclear>nel</unclear>
+                                <lb n="B28=66" break="no"/>lu patiṉ kalam</item>
+                            
+                            <item>ti<supplied reason="lost">ru</supplied>-p-patiyam vi<supplied reason="omitted">ṇ</supplied>ṇappam ceyvār Oruvaṟku puṭavai mutal Uḷ-paṭa nicatam nellu patakku nā-ṉāḻi y-āka Ōr āṭṭai n<unclear>ā</unclear>ḷaikku ne
+                                <lb n="B29=67" break="no"/>llu Ēḻu-patt' aiṅ-kalam</item>
+                            
+                            <item>kōpurattu meykāpp<unclear>ā</unclear><choice><orig>ṉn</orig><reg>ṉ</reg></choice> o<unclear>ru</unclear>vaṉ Iva<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice>ē cālai Uṇ veṇkala n<unclear reason="eccentric_ductus">ū</unclear>ṟum Eṇṇi pukuvikkavu pota vaippikkavu<supplied reason="omitted">ma</supplied> kaṭa
+                                <lb n="B30=68" break="no"/><unclear>vā</unclear><supplied reason="omitted">ṉ</supplied> Āka puṭavai mutal Uḷ-paṭa nicatam nellu kuṟuṇi Iru-<supplied reason="omitted">nā</supplied>ḻi y-āka Ōr āṭṭai nāḷaikku nellu mu-pattu Ēḻu kalaṉē tūṇi-p <unclear>pa</unclear>takku</item>
+                            
+                            <item>cālaikku kalam I
+                                <lb n="B31=69" break="no"/>ṭ<unclear>a</unclear> ku<unclear>ca</unclear>va<unclear>ṉ</unclear>n oruvaṉuku nicatam nellu Iru-nāḻi y-āka Ōr āṭṭai nāḷaikku nellu Eḻu-kalaṉē tūṇi-p patakkum</item>
+                            
+                            <item>coti<unclear>vi</unclear> colluvāṉ Irupat<supplied reason="lost">t</supplied>' ē
+                                <lb n="B32=70" break="no"/>ḻu nāḷ<unclear>u</unclear><!--contra SII; not clear on photo-->-k k<unclear>ū</unclear>ṟṟu O<!--Ō?-->l<unclear>ai</unclear> karpurattu <supplied reason="lost">tūkka</supplied> <unclear>ni</unclear>catam nellu ku<supplied reason="lost">ṟuṇi</supplied> y-āka Ōr āṭṭai nāḷai nellu mu-pati<supplied reason="lost">ṉ ka</supplied>lamum</item>
+                            
+                            <item>Uttamā<hi rend="grantha">gra</hi>ttil Uṇṇu<supplied reason="omitted">m</supplied> <hi rend="grantha">brahma</hi><unclear>ṇa</unclear>rkku
+                                <lb n="B33=71"/><unclear>Adhyayya</unclear><supplied reason="omitted">ṉa</supplied><unclear>m ceyvar</unclear> <gap reason="lost" unit="character" quantity="2"/> <unclear>koḷḷum</unclear> <hi rend="grantha"><unclear>brāhma</unclear></hi><unclear>ṇaṉ</unclear> Oruvaṉukku nicatam nellu kuṟuṇi y-āka Ōr āṭ<supplied reason="lost">ṭai</supplied> <unclear>nā</unclear><supplied reason="omitted">ḷai</supplied>kku nellu mu-patiṉ <unclear>ka</unclear>lamum</item>
+                            <item>Ivaṉukkē<unclear>y</unclear> <supplied reason="lost">pu</supplied>
+                                <lb n="B34=72" break="no"/><unclear>ṭavai mu</unclear><supplied reason="omitted">ta</supplied><unclear>l</unclear> kā<surplus><unclear>cu</unclear></surplus><supplied reason="lost">c' araiyāl nellu Ai</supplied><unclear>y-kalamu</unclear>m</item>
+                            
+                            <item><supplied reason="lost">Uttamā</supplied><hi rend="grantha">gra</hi>ttu Uṇṇu<supplied reason="lost">m</supplied> <hi rend="grantha">brāhma</hi>ṇa-civayō<hi rend="grantha"><supplied reason="lost">gi</supplied></hi>kaḷum <hi rend="grantha">brāhma</hi>ṇa<supplied reason="omitted">r</supplied>kku<unclear>m a</unclear>
+                                <hi rend="grantha"><unclear>gra</unclear></hi>ttu<supplied reason="omitted">k</supplied><unclear>ku canta</unclear>ṉattukku
+                                <lb n="B35=73"/>kācu A<supplied reason="lost">raiyāl</supplied> <unclear>nellu</unclear> <supplied reason="lost">Ai<reg>ṅ</reg>-kalamu</supplied><supplied reason="omitted">m</supplied></item>
+                            
+                            <item><supplied reason="lost">Iru<!--contra SII: "Irā"-->-<hi rend="grantha">śrī-beli</hi>kku <hi rend="grantha">beli</hi> A</supplied>rici nāḻi<supplied reason="lost">yāl</supplied> nicatam <supplied reason="lost">nellu I</supplied>ru-nāḻi <unclear>y-ā</unclear>ka Or āṭ<supplied reason="lost">ṭai nāḷaikku nellu Ē</supplied>
+                                <lb n="B36=74" break="no"/>ḻu <unclear>ka</unclear>laṉē <unclear>tū</unclear><supplied reason="lost">ṇi-p patakku</supplied><supplied reason="omitted">m</supplied></item>
+                        </list>
+                        
+                    </p>    
+                </div>
+                
+                <div type="textpart" n="C">
+                    
+                    <!--No photos from Valérie for this portion yet-->
+                    
+                    <p>
+                        <lb n="C1=77"/>
+                        <milestone type="gridlike" unit="zone" n="1"/>
+                        <!--<label xml:lang="eng">Western facade, southernmost base section</label>-->
+                        I-<hi rend="grantha">brahma</hi>-tēyam ce<reg>y</reg>ta periya t<unclear>ē</unclear>var I-<hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ja</hi>ya-maṅkala-tēvarkku tiru-v-uṇṇaḻikai-p-puṟam Āka Iṟai-Ili kuṭutta paṅ
+                        <!--<milestone type="gridlike" unit="zone" n="2" break="no"/>-->
+                        <label xml:lang="eng">Southern facade, westernmost base section</label>
+                        ku <unclear>E</unclear>ṭṭiṉ nāllu
+                    </p>
+                    <p>
+                        <hi rend="grantha">śrī</hi>-Irā<hi rend="grantha">ja</hi>-rā<hi rend="grantha"><supplied reason="lost">ja</supplied></hi>-tēvar<supplied reason="omitted">k</supplied>ku yāṇṭu Eḻ-āvatu mutal I-<hi rend="grantha">śrī</hi>-v<unclear>i</unclear>mā<supplied reason="omitted">ṉa</supplied>ṅ kal <gap reason="lost" unit="character" quantity="1"/><unclear>ā</unclear><!--contra SII--> Eḻunt-aruḷuvitta Irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>-p-pall<choice><sic>a-A</sic><corr>ava</corr></choice><unclear>rai</unclear><supplied reason="lost">ya</supplied>
+                        <lb n="C2=78" break="no"/>
+                        <milestone type="gridlike" unit="zone" n="1"/>
+                        <!--<label xml:lang="eng">Western facade, southernmost base section</label>-->
+                        <gap reason="lost"/> ṉṉē Ip-paṅku Eṭṭiṉ nālu ceyyum paṭi māṟṟu kalli<supplied reason="omitted">l</supplied> veṭṭiṉa paṭi
+                        
+                        <list>
+                            
+                            <item>tiru-<supplied reason="omitted">v-amu</supplied>t-arici pō<unclear>tu</unclear> nā-ṉāḻi y-āka mūṉṟu pōtaikku nicatam Arici kuṟu<supplied reason="omitted">ṇi</supplied> nā-ṉā                
+                                <!--<milestone type="gridlike" unit="zone" n="2" break="no"/>-->
+                                <label xml:lang="eng">Southern facade, westernmost base section</label>
+                                ḻi<unclear>yā</unclear><supplied reason="lost">l</supplied> <supplied reason="lost">A</supplied><supplied reason="omitted">y</supplied>nt' iraṇṭu vaṇṇattāl nellu mu-k-kuṟuṇi Aṟu nāḻiyum</item>
+                            
+                            <item>ney-amutu pōt' oru pi<unclear>ṭi</unclear> y-āka muṉṟu pōtaikku ney-amutu Āḻākkē Oru piṭi
+                                <lb n="C3=79" break="no"/>
+                                <milestone type="gridlike" unit="zone" n="1"/>
+                                <!--<label xml:lang="eng">Western facade, southernmost base section</label>-->
+                                kku nāḻikku nellu tūṇi y-āka ney Aḻākkē Oru piṭikku nicatam nellu Aṟu nāḻiyam</item>
+                            
+                            <item>pori-k-kaṟi-y-amutu muṉṟu <supplied reason="lost">pō</supplied>taikku nicatam nel<unclear>lu</unclear>
+                                <milestone type="gridlike" unit="zone" n="2"/>
+                                <!--<label xml:lang="eng">Southern facade, westernmost base section</label>-->
+                                I<unclear>ru</unclear>-nāḻi <supplied reason="lost">Uri-y</supplied></item>
+                            
+                            <item><supplied reason="lost">Aṭai-k</supplied>kāy-amutu pōtu nāl āka muṉṟu pōtaikku pākku paṉn-iraṇṭum</item>
+                            
+                            <item>veṟṟilaikku nicatam nellu muṉ-ṉāḻiyum</item>
+                            
+                            <item>tayir Amutu pō
+                                <lb n="C4=80" break="no"/>
+                                <milestone type="gridlike" unit="zone" n="1"/>
+                                <!--<label xml:lang="eng">Western facade, southernmost base section</label>-->
+                                tu Uri y-āka muṉṟu pōtukku tayir nāḻi Urikku nicatam nellu mūṉ-nāḻi muḻākkum</item>
+                            
+                            <item><supplied reason="lost">nontā-viḷakku Aintukku viḷakk' oṉṟu<unclear>mū<!--contra SII: oṉṟukku. Read "oṉṟukku"?--> neyi U</unclear><supplied reason="omitted">ḻ</supplied><unclear>k</unclear><supplied reason="lost">k'<!--check: "uḻakku" is expected--> āka</supplied> vi
+                                <!--<milestone type="gridlike" unit="zone" n="2" break="no"/>-->
+                                <!--<label xml:lang="eng">Southern facade, westernmost base section</label>-->
+                                <supplied reason="lost">ḷakku Ai</supplied>ntukku nicatam ney nāḻi <unclear>U</unclear><supplied reason="omitted">ḻ</supplied>kk'<!--check: "uḻakku" is expected--> āka ney nāḻikku nellu tūṇi y-āka ney nāḻi Uḻa<supplied reason="omitted">k</supplied>ku<supplied reason="omitted">k</supplied>ku nicatam nellu A<reg>i</reg>ṅ-kuṟuṇiyum</supplied></item>
+                            
+                            <item>nilamā<unclear>li</unclear> <gap reason="lost" quantity="1" unit="character"/> ni
+                                <lb n="C5=81" break="no"/>
+                                <milestone type="gridlike" unit="zone" n="1"/>
+                                <!--<label xml:lang="eng">Western facade, southernmost base section</label>-->
+                                r-pōka		
+                                Aṭṭuvā<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice>ukku ni<unclear>ca</unclear>ta<supplied reason="subaudible">m</supplied> nellu Iru-nāḻi y-uḻakkum</item>
+                            
+                            <item>kaṇakk-eḻutuvā<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice>ukku nicatam nellu nā-ṉāḻiyum</item>
+                            
+                            <item>Irā-<hi rend="grantha"><unclear>śrī</unclear>-be</hi><hi rend="grantha"><unclear>li</unclear></hi>-viḷakku I<unclear>raṇ</unclear>
+                                <milestone type="gridlike" unit="zone" n="2" break="no"/>
+                                <!--<label xml:lang="eng">Southern facade, westernmost base section</label>-->
+                                <unclear>ṭu</unclear>kku Eṇṇai Āḻ<unclear>āk</unclear>kē <unclear>Oru</unclear> piṭikku E<unclear>ṇṇai</unclear> nāḻikku nellu tūṇi y-āka Eṇṇai Ā<unclear>ḻā</unclear>kkē Oru <supplied reason="lost">piṭi</supplied>kku nicatam nellu Aṟu nāḻiy<unclear>u</unclear>m Āka nicatam
+                                <lb n="C6=82"/>
+                                <milestone type="gridlike" unit="zone" n="1"/>
+                                <!--<label xml:lang="eng">Western facade, southernmost base section</label>-->
+                                <space/> nellun kalaṉē-y Oru nāḻi Uri <supplied reason="lost">y-āka</supplied> Ō<supplied reason="lost">r ā</supplied>ṭṭai nāḷaikku nellu mu-ṉ-nūṟṟu Aṟu-pattu Aiy-kalaṉē-y Eḻu kuṟuṇi nā-ṉāḻiy<unclear>u</unclear>m</item>
+                        </list>
+                        
+                    </p>
+                    <p>
+                        Aṟa<supplied reason="subaudible">m</supplied> ma
+                        <milestone type="gridlike" unit="zone" n="2" break="no"/>
+                        <!--<label xml:lang="eng">Southern facade, westernmost base section</label>-->
+                        ṟa<supplied reason="lost">vel</supplied>kka <supplied reason="lost">Aṟa<choice><orig>mm</orig><reg>m</reg></choice> alla</supplied>tu tuṇai y-il<unclear>lai</unclear>
+                    </p>
+                    <p>
+                        Iv<unclear>ai</unclear> paṉ-<hi rend="grantha">mā<surplus>hā</surplus>heśvara</hi>-ra<hi rend="grantha">kṣai</hi>
+                    </p>
+                </div>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+                <div type="textpart" n="A">
+                    <!--Check both SII editions-->         	
+                    
+                    <listApp>
+                        
+                        <app loc="A20">
+                            <lem>Avaiccuk=kum</lem>
+                            <note>After this word, on the same line, are found the letters <foreign>Uttama <unclear>I</unclear> <gap reason="illegible" quantity="1" unit="character"/></foreign> in smaller letters. These seems to have been added later and to be connected to the few lines added on the pilaster, on the right : <foreign>yogi kalamupatu / Ic-civayo<hi rend="grantha">gi</hi> / <hi rend="grantha">brāhma</hi>ṇāvo<gap reason="illegible" quantity="1" unit="character"/> / vallor<unclear>i</unclear> A<unclear>puvi</unclear> / <gap reason="illegible" extent="unknown" unit="character"/></foreign>.</note>
+                        </app>
+                        
+                        <app loc="A21">
+                            <lem>mākaṉāṉ</lem>
+                            <note>A few words are added on the pilaster before this word, at the begining of the line, but the letters are not very clear on the available photos. These words were possibly added later, like those at the end of the preceding line.</note>
+                        </app>
+                        
+                        <app loc="A23">
+                            <lem>ppaṭum</lem>
+                            <rdg source="bib:SrinivasaRao1967_01 bib:Swaminathan2012_01">ppacam</rdg>
+                            <note>The letter <foreign>ṭu</foreign>, here and elsewhere in the inscription, indeed resembles the letter <foreign>ca</foreign>.</note>
+                        </app>
+                        <app loc="A27">
+                            <lem>mē<supplied reason="omitted">l</supplied> nōkk<supplied reason="lost">i</supplied><choice><orig>n</orig><reg>ṉ</reg></choice>a</lem>
+                            <rdg source="bib:SrinivasaRao1967_01 bib:Swaminathan2012_01">mēnōkkina</rdg>
+                            <note>The letter <foreign>i</foreign> is no longer legible.</note>
+                        </app>
+                        <app loc="A31">
+                            <lem><supplied reason="lost">kā</supplied>ṇamum <supplied reason="lost">i</supplied><unclear>kāṟ</unclear>ppāṭṭamum</lem>
+                            <rdg source="bib:SrinivasaRao1967_01 bib:Swaminathan2012_01"><unclear>kā</unclear>ṇamum mikāṟppāṭṭamum</rdg>
+                            <note>The letter <foreign>kā</foreign> and the letter <foreign>i</foreign> in <foreign>mi</foreign> are no longer legible.</note>
+                        </app>
+                        <app loc="A33">
+                            <lem><hi rend="grantha">mahāde<supplied reason="lost">vi</supplied></hi></lem>
+                            <rdg source="bib:SrinivasaRao1967_01 bib:Swaminathan2012_01"><hi rend="grantha">mahādevi</hi></rdg>
+                            <note>The letter <foreign>vi</foreign> is no longer legible.</note>
+                        </app>
+                        <app loc="A33">
+                            <lem><supplied reason="lost">pa</supplied>kkal</lem>
+                            <rdg source="bib:SrinivasaRao1967_01 bib:Swaminathan2012_01">pakkal</rdg>
+                            <note>The letter <foreign>pa</foreign> is no longer legible.</note>
+                        </app>
+                        <app loc="A35">
+                            <lem>Iru<unclear>ṉ</unclear><lb n="A36" break="no"/>ta</lem>
+                            <note>There is a larger space between the lines 35 and 36, and the hand slightly changes from this line 36 onwards.</note>
+                        </app>
+                        <app loc="A39">
+                            <lem>E<supplied reason="lost"><hi rend="grantha">śva</hi></supplied>ra</lem>
+                            <rdg source="bib:SrinivasaRao1967_01 bib:Swaminathan2012_01">E<hi rend="grantha">śva</hi>ra</rdg>
+                            <note>The letter <foreign>śva</foreign> is no longer legible.</note>
+                        </app>        
+                    </listApp>
+                </div>
+                
+                <div type="textpart" n="B">
+                    
+                    <listApp>
+                        
+                        <!--
+                            <app loc="0">
+                            <lem></lem>
+                            <rdg source="bib:Gillet2023_01"></rdg>
+                            <rdg source="bib:SrinivasaRao1967_01"></rdg>
+                            </app>
+                        -->
+                        
+                        <app loc="B1">
+                            <lem>paṭākai</lem>
+                            <rdg source="bib:Gillet2023_01"/>
+                            <rdg source="bib:SrinivasaRao1967_01">piṭākai</rdg>
+                        </app>
+                        
+                        <app loc="B2">
+                            <lem>Iṟukkak kaṭava</lem>			
+                            <rdg source="bib:SrinivasaRao1967_01"/>
+                            <rdg source="bib:Gillet2023_01">Iṟukka kaṭava</rdg>
+                        </app>
+                        
+                        <app loc="B3">
+                            <lem>vētum</lem>			
+                            <rdg source="bib:SrinivasaRao1967_01">vetum</rdg>
+                            <rdg source="bib:Gillet2023_01"><unclear>vetu</unclear>m</rdg>
+                        </app>
+                        
+                        <app loc="B3">
+                            <lem>pāta<lb n="4"/>ṉ</lem>			
+                            <rdg source="bib:SrinivasaRao1967_01"/>
+                            <rdg source="bib:Gillet2023_01">pāta<lb n="4"/><unclear>ṉ</unclear></rdg>
+                        </app>
+                        
+                        <app loc="B4">
+                            <lem>ka<supplied reason="omitted">ṭa</supplied>va</lem>			
+                            <rdg source="bib:SrinivasaRao1967_01"/>
+                            <rdg source="bib:Gillet2023_01">kava</rdg>
+                        </app>	    
+                        
+                        <app loc="B7">
+                            <lem><unclear>ni</unclear><hi rend="grantha">be<unclear>n</unclear>dha</hi><supplied reason="omitted">ñ</supplied></lem>
+                            <rdg source="bib:SrinivasaRao1967_01">ni<hi rend="grantha">bhen<supplied reason="omitted">da</supplied></hi>m</rdg>
+                            <rdg source="bib:Gillet2023_01"><unclear>ni</unclear><hi rend="grantha">bedha</hi></rdg>
+                        </app>
+                        
+                        <app loc="B9">
+                            <lem>yum</lem>
+                            <note>The phrase <foreign><hi rend="grantha">brā</hi>maṇar Irupatu</foreign> is engraved, as an addition it seems, on the pilaster to the left of the beginning of the line 10. It is not clear where this phrase should be integrated in the main text.</note>
+                        </app>
+                        
+                        <app loc="B10">
+                            <lem>kaṟikku</lem>
+                            <rdg source="bib:SrinivasaRao1967_01">karikku</rdg>	        
+                            <rdg source="bib:Gillet2023_01">ta<unclear>ṟi</unclear>kku</rdg>
+                        </app>	    
+                        
+                        <app loc="B10">
+                            <lem>p<supplied reason="lost">uḷ</supplied>i<unclear>ṅkaṟi</unclear> yaṭam orukku</lem>
+                            <rdg source="bib:SrinivasaRao1967_01">puḷiṅkaṟik=ku morukku</rdg>	        
+                            <rdg source="bib:Gillet2023_01"><supplied reason="lost">puḷi</supplied><unclear>ṅkaṟi</unclear> yaṭa<unclear>mo</unclear>rukku</rdg>
+                        </app>
+                        
+                        <app loc="B12">
+                            <lem><unclear>veṟu</unclear>ṅkāy</lem>	        
+                            <rdg source="bib:SrinivasaRao1967_01">veṟuṅkāy</rdg>
+                            <rdg source="bib:Gillet2023_01"><unclear>veṟuṅkkāy</unclear></rdg>
+                        </app>
+                        
+                        <app loc="B12">
+                            <lem> pat<unclear>t</unclear> āka</lem>	        
+                            <rdg source="bib:SrinivasaRao1967_01">pattāka</rdg>
+                            <rdg source="bib:Gillet2023_01">patakāka</rdg>
+                        </app>
+                        
+                        <app loc="B12">
+                            <lem>n<unclear reason="eccentric_ductus">ū</unclear>ṟukku</lem>	        
+                            <rdg source="bib:SrinivasaRao1967_01">nūṟukku</rdg>
+                            <rdg source="bib:Gillet2023_01">nāṟukku</rdg>
+                        </app>
+                        
+                        <app loc="B14">
+                            <lem>Irunāḻiyum</lem>			
+                            <rdg source="bib:SrinivasaRao1967_01">Irunāḻim</rdg>
+                            <rdg source="bib:Gillet2023_01">Irunāḻiya<unclear>m</unclear></rdg>
+                        </app>
+                        
+                        <app loc="B19">
+                            <lem>nāḷaikku</lem>	        
+                            <rdg source="bib:SrinivasaRao1967_01"/>
+                            <rdg source="bib:Gillet2023_01">nā<unclear>ṉe</unclear>kku</rdg>
+                        </app>
+                        
+                        <app loc="B24">
+                            <lem>Uriyu<supplied reason="omitted">m</supplied></lem>
+                            <rdg source="bib:SrinivasaRao1967_01">Uriyum</rdg>
+                            <rdg source="bib:Gillet2023_01">Uriyu</rdg>	        
+                        </app>
+                        
+                        <app loc="B22">
+                            <lem><supplied reason="lost">ciṉ</supplied>nāl</lem>
+                            <rdg source="bib:Gillet2023_01"/>
+                            <rdg source="bib:SrinivasaRao1967_01"><unclear>ciṉ</unclear>nāl</rdg>
+                        </app>
+                        
+                        <app loc="B26">
+                            <lem>nā<supplied reason="omitted">ḷai</supplied>kku</lem>	        
+                            <rdg source="bib:SrinivasaRao1967_01">nāḷaikku</rdg>
+                            <rdg source="bib:Gillet2023_01">nākku</rdg>
+                        </app>
+                        
+                        <app loc="B26">
+                            <lem>patakku</lem>
+                            <rdg source="bib:SrinivasaRao1967_01"/>
+                            <rdg source="bib:Gillet2023_01">putakku</rdg>
+                        </app>
+                        
+                        <app loc="B27">
+                            <lem>veṇkala n<unclear reason="eccentric_ductus">ū</unclear>ṟum</lem>
+                            <rdg source="bib:SrinivasaRao1967_01">veṇkala nūṟum</rdg>
+                            <rdg source="bib:Gillet2023_01">veṇkalan<unclear>nū</unclear>ṟum</rdg>
+                        </app>	        
+                        
+                        <app loc="B27">
+                            <lem>nāḷaikku</lem>
+                            <rdg source="bib:SrinivasaRao1967_01"/>
+                            <rdg source="bib:Gillet2023_01"><supplied reason="lost">nā</supplied>ḷaikku</rdg>
+                        </app>
+                        
+                        <app loc="B28">
+                            <lem>patiṉ</lem>
+                            <rdg source="bib:SrinivasaRao1967_01">patiṅ</rdg>
+                            <rdg source="bib:Gillet2023_01">pati<supplied reason="lost">ṅ</supplied></rdg>	        
+                        </app>
+                        
+                        <app loc="B31">
+                            <lem>I<lb n="31" break="no"/>ṭ<unclear>a</unclear></lem>
+                            <rdg source="bib:SrinivasaRao1967_01">I<lb n="31" break="no"/>ṭa</rdg>
+                            <rdg source="bib:Gillet2023_01">I<lb n="31" break="no"/>ṭu</rdg>
+                        </app>
+                        
+                        <app loc="B37">
+                            <lem><hi rend="grantha">brāhma</hi>ṇa<supplied reason="omitted">r</supplied>kku<unclear>m</unclear></lem>
+                            <rdg source="bib:SrinivasaRao1967_01"><hi rend="grantha">brāhma</hi>ṇa<supplied reason="omitted">ṟ</supplied>kum</rdg>	
+                            <rdg source="bib:Gillet2023_01"><hi rend="grantha">brāhma</hi>ṇakku<supplied reason="lost">m</supplied></rdg>         
+                        </app>
+                        
+                        <!--<app loc="B0">
+                            <lem></lem>
+                            <rdg source="bib:Gillet2023_01"></rdg>
+                            <rdg source="bib:SrinivasaRao1967_01"></rdg>
+                            </app>-->
+                        
+                    </listApp>
+                </div>
+                
+                <div type="textpart" n="C">
+                    
+                    <listApp>
+                        
+                        <!--<listApp>
+                            <app loc="C0">
+                            <lem></lem>
+                            <rdg source="bib:Gillet2023_01"></rdg>
+                            <rdg source="bib:SrinivasaRao1967_01"></rdg>
+                            </app>
+                            </listApp>-->
+                        
+                        <app loc="C1=">
+                            <lem><unclear>E</unclear>ṭṭiṉ nāllu</lem>
+                            <rdg source="bib:SrinivasaRao1967_01 bib:Gillet2023_01"><unclear>E</unclear>ṭṭiṉa nāllu</rdg>
+                        </app>
+                        
+                    </listApp>
+                    
+                    
+                </div>    
+                
+            </div>
+            
+            <div type="translation" resp="part:vagi">            
+                
+                <div type="textpart" n="A">
+                    <p n="A1">
+                        Prosperity! Fortune!
+                    </p>            
+                    
+                    <p rend="stanza" n="1">Coming from Kuvalāla, known under the name Nakka of Paḻuvūr of great fame, pure like Muravairin <supplied reason="explanation">Kṛṣṇa</supplied>, eminent by his birth and his caste, founder of a lineage, he appeared.</p>
+                    
+                    <p rend="stanza" n="2">He who is considered by the mendicants as the incarnate liberality, by the enemies as he who has a body whose quality is heroism, by those who have the eyes of a gazelle<note>I.e., the women.</note> as Kāma although coming from a lineage which has a body,<note>Kāma does not have a body.</note> by the sages as the incarnate Dharma.</p>
+                    
+                    <p n="A6-13">He, whose name Vikramacoḷa Mahārāja was obtained from the king Vikramacoḷa who was pleased with his heroism when he seized multitudes of seas and skies, entirely obtained with his own valour; in the fourteenth year of this king, having established in stone a temple for Śambhu who resides in Śrī Vijayamaṅgala, in the big <foreign>agrahāra</foreign> Śrī Vānavan-Mahādevi, having bought from the great assembly a ‘miserable village’ <supplied reason="explanation"><foreign>grāmaṭikām</foreign></supplied> named Neṭuvāyil belonging to this village, and having made it tax-free with the gift of his own wealth, he donated for the worship and the festival of Śaṁbhu, as long as the moon lasts.</p>
+                    
+                    <p n="A13">
+                        This is the 14th year of Kōpparakesarivarman.
+                    </p>
+                    
+                    <p n="A14-21">I, lord of Kuvaḷālam, Ampalavaṉ Paḻuvūr Nakkaṉ <hi rend="italic">alias</hi> Vikramacōḻa Mahārāja, of the military superior grade of Uṭaiyār<note>I.e., the king.</note>, having graciously caused to raise <supplied reason="explanation"><foreign>eḻuntaruḷuvittu</foreign></supplied> in stone <supplied reason="explanation"><foreign>kallāl</foreign></supplied> the holy sanctuary <supplied reason="explanation"><foreign>śrī vimāṉam</foreign></supplied> of Mahādeva of Śrī Vijayamaṅgalam, of big Śrī Vānavaṉ-mahādevi-caturvedimaṅgalam, a <foreign>brahmadeya</foreign> of the northern bank. For this god, I gave <supplied reason="subaudible">a village</supplied> to the Brahmins <supplied reason="explanation"><foreign>mākaṉāṉ</foreign></supplied> for holy food offerings, for holy lamps, for holy offerings, for the smearing of the idol, for incense, for lands for the holy garden, for holy festivals, for ceremonial baths, and, besides these, for all those worships of whatever name wanted for this god.
+                    </p>
+                    
+                    <p n="A22-32">
+                        This is the village: Neṭuvāyil, a northern hamlet of this big Śrī Vānavaṉ-mahādevi-caturvedimaṅgalam, and, falling in this, surrounding this Neṭuvāyil, including Ūrtāmaraiṉalār, Tiruccenivalam, Mākulakkuṟucci, surrounding this town, including taxes on forges/profession of watchmen, taxes on forest, taxes on marriage, taxes on looms, <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>ilaikkalamum</foreign></supplied> of this town, and lands where the turtles crawl and the lizards run<note>I.e., uncultivated lands.</note> of whatever names, besides mounds, paddy fields, deep tanks, tanks, the wells which look to the east, trees which look to the west, dry lands and wet lands, wet lands of this village.
+                    </p>
+                    
+                    <p n="A32-39">
+                        Having bought <supplied reason="subaudible">the land</supplied> from the great people of the assembly <supplied reason="explanation"><foreign>peruṅkuṟi</foreign></supplied> of this big Śrī Vānavaṉ­mahādevi-caturvedimaṅgalam, as a lord/landowner <supplied reason="explanation"><foreign>uṭaiyēṉṉāy</foreign></supplied>, I gave seven hundred <foreign>kācus</foreign> to those of this Mahāsabhā to make it tax-free; in this manner, as tax-free <supplied reason="subaudible">land</supplied>, I gave to be enjoyed for the holy services of whatever name indicated before, for Mahādeva of this Śrī Vijayamaṅgalam, this complete Neṭuvāyil where I stay having become lord/ landowner <supplied reason="explanation"><foreign>uṭai ēnṉāy</foreign></supplied>. 
+                    </p>		
+                    
+                    <p n="A39">
+                        These are under the protection of the Panmāheśvaras.
+                    </p>
+                    
+                    <p n="A39-41">
+                        Do not neglect moral duty <supplied reason="explanation"><foreign>aṟam</foreign></supplied>; there is no support except moral duty; I have written while he spoke; I have written, I Niṉṟān Ārā Amutān, the <hi rend="italic">madhyastan</hi> of this village, the great poet <foreign>peruṅkāviti</foreign> of Vānavamātēvi; these are my letters.
+                    </p>
+                </div>
+                
+            </div>
+            
+            <div type="translation" resp="part:emfr">
+                
+                <div type="textpart" n="B">
+                    <p n="B1-5">
+                        The taxes that this Neṭuvāyil and the hamlets surrounding Neṭuvāyil are to pay <supplied reason="explanation"><foreign>iṟukkak kaṭava</foreign></supplied> for this god,
+                        the paddy that is to be measured <supplied reason="explanation"><foreign>aḷakka kaṭava</foreign></supplied> in the glorious courtyard <supplied reason="explanation"><foreign>tirumuṟṟattu</foreign></supplied> by Nakkaṉ of Paḻuvūr according to the stone of this glorious temple and the village stone<note>That is, weight standards.</note>,
+                        and the paddy that is to be provided <supplied reason="explanation"><foreign>aṭṭa kaṭava</foreign></supplied> ...,
+                        <supplied reason="subaudible">amount to</supplied> one thousand <foreign>kalam</foreign>s and one hundred <foreign>kaḻañcu</foreign>s of gold ...
+                    </p>
+                    <p n="B5-7">
+                        ...
+                        according to the binding agreement <supplied reason="explanation"><foreign>nibandha</foreign></supplied>,
+                        whereas there are <supplied reason="explanation"><foreign>āka</foreign></supplied>
+                        tirthy Śivayogin Brahmins and twenty Brahmins,        
+                        for <supplied reason="subaudible">these</supplied> fifthy persons, <supplied reason="subaudible">provisions are as follows</supplied>.        </p>
+                    
+                    <p n="B7-14">
+                        <list>
+                            
+                            <item>So that, for one person, there be perpetually two <foreign>nāḻi</foreign>s of rice and there be, <supplied reason="subaudible">for this purpose</supplied>, five <foreign>nāḻi</foreign>s of paddy, for <supplied reason="subaudible">these</supplied> fifthy persons, <supplied reason="subaudible">a total of</supplied> two <foreign>kalaṉ</foreign>s, two <foreign>kuṟuṇi</foreign>s and two <foreign>nāḻi</foreign>s of paddy <supplied reason="subaudible">are</supplied> perpetually <supplied reason="subaudible">provisioned</supplied>.</item>
+                            
+                            <item>So that there be <supplied reason="explanation">one</supplied> <foreign>tūṇi</foreign> of paddy for <supplied reason="explanation">one</supplied> <foreign>nāḻi</foreign> of ghee for three <foreign>nāḻi</foreign>s and <supplied reason="subaudible">one</supplied> ollock <supplied reason="explanation"><foreign>āḻākku</foreign></supplied> of ghee, for these three <foreign>nāḻi</foreign>s and <supplied reason="subaudible">one</supplied> ollock of ghee: <supplied reason="explanation">one</supplied> <foreign>kalaṉ</foreign> and four <foreign>nāḻi</foreign>s of paddy <supplied reason="subaudible">are</supplied> perpetually <supplied reason="subaudible">provisioned</supplied>.</item>
+                            
+                            <item>For the curries <supplied reason="explanation"><foreign>kaṟi</foreign></supplied>: <supplied reason="explanation">one</supplied> <foreign>tūṇi</foreign> of paddy <supplied reason="subaudible">is provisioned</supplied>.</item>
+                            
+                            <item>For one <gap reason="ellipsis"/> tamarind curries <supplied reason="explanation"><foreign>puḷiṅkaṟi</foreign></supplied>: <supplied reason="explanation">one</supplied> <foreign>kuṟuṇi</foreign> of paddy <supplied reason="subaudible">is provisioned</supplied>.</item>
+                            
+                            <item>For one <gap reason="ellipsis"/> of sandal <supplied reason="explanation"><foreign>aṭṭi</foreign></supplied>: <supplied reason="subaudible">one</supplied> <foreign>patakku</foreign> of paddy <supplied reason="subaudible">is provisioned</supplied>.</item>
+                            
+                            <item>So that there be <supplied reason="explanation">one</supplied> <foreign>nāḻi</foreign> and <supplied reason="explanation">one</supplied> <foreign>uḻakku </foreign> of paddy for <supplied reason="explanation">one</supplied> <foreign>nāḻi</foreign> of salt, for five <foreign>nāḻi</foreign>s of salt: six <foreign>nāḻi</foreign>s of paddy <supplied reason="subaudible">are provisioned</supplied>.</item>
+                            
+                            <item>So that there be <supplied reason="explanation">two</supplied> <foreign>nāḻi</foreign>s of paddy <supplied reason="explanation">one</supplied> for <supplied reason="explanation">one</supplied> <foreign>paṟṟu</foreign> of betel, for three <foreign>paṟṟu</foreign>s of betel: six <foreign>nāḻi</foreign>s of paddy <supplied reason="subaudible">are provisioned</supplied>,</item>            
+                            
+                            <item>So that there be ten <foreign>nāḻi</foreign>s of paddy <supplied reason="subaudible">for</supplied> areca-nuts, for one hundred areca-nuts: ten <foreign>nāḻi</foreign>s of paddy <supplied reason="subaudible">are provisioned</supplied>.</item>
+                            
+                        </list>
+                        This being so, so that there be perpetually four <foreign>kalaṉ</foreign>s, five <foreign>kuruṇi</foreign>s, four <foreign>nāḻi</foreign>s and <supplied reason="subaudible">one</supplied> <foreign>uḻakku</foreign>: for the span of a year <supplied reason="subaudible">a total of</supplied> one thousand six hundred and five <foreign>kalaṉ</foreign>s, two <foreign>tūṇi</foreign>s, three <foreign>kuṟuṇi</foreign>s and two <foreign>nāḻi</foreign>s <supplied reason="subaudible">are provisioned</supplied>.
+                    </p>
+                    
+                    <p n="B14-15">
+                        <list>
+                            <item>For one who brings <supplied reason="explanation"><foreign>iṭuvāṉ</foreign></supplied> fire-wood <supplied reason="explanation"><foreign>viṟaku</foreign></supplied> ...</item>            
+                            <item>For one cook <supplied reason="explanation"><foreign>aṭuvāṉ</foreign></supplied> ...</item>            
+                        </list>        
+                        This being so, so that there be perpetually one <foreign>patakku</foreign> of paddy, per year, <supplied reason="subaudible">a total of</supplied> sixty <foreign>kalam</foreign>s of paddy <supplied reason="subaudible">are provisioned</supplied>.        
+                    </p>
+                    
+                    <p n="B15-16">
+                        <supplied reason="subaudible">Furthermore</supplied>, for these two persons, so that there be, for each of them <supplied reason="explanation"><foreign>oruvaṉukku</foreign></supplied>, ten <foreign>kalam</foreign>s of paddy for one <foreign>kācu</foreign> <supplied reason="subaudible">as</supplied> capital for cloth, for both of them: twenty <foreign>kalam</foreign>s of paddy for two <foreign>kācu</foreign>s <supplied reason="subaudible">are provisioned</supplied>.
+                    </p>    
+                    
+                    <p n="B16-18">
+                        Whereas there are <supplied reason="explanation"><foreign>āka</foreign></supplied>
+                        tirthy Śivayogin Brahmins and twenty Brahmins,
+                        for <supplied reason="subaudible">these</supplied> fifthy persons,
+                        <supplied reason="subaudible">whereas one</supplied> <foreign>nāḻi</foreign> and <supplied reason="subaudible">one</supplied> <foreign>uri</foreign> of oil <supplied reason="subaudible">for</supplied> ... <supplied reason="explanation"><foreign>caṉivāram</foreign></supplied> and <supplied reason="subaudible">one</supplied> <foreign>nāḻi</foreign> and <supplied reason="subaudible">one</supplied> <foreign>uri</foreign> of oil <supplied reason="subaudible">for</supplied> ... <supplied reason="explanation"><foreign>ayaṉavāram</foreign></supplied> <supplied reason="subaudible">are required</supplied>,
+                        so that there be one <foreign>tūṇi</foreign> of paddy for the <foreign>nāḻi</foreign>s of oil:
+                        for the span of a year, <supplied reason="subaudible">a total of</supplied>, for <supplied reason="subaudible">one</supplied> <foreign>kalaṉ</foreign>, two <foreign>tūṇi</foreign>s and two <foreign>nāḷi</foreign>s of oil, fifty-four <foreign>kalam</foreign>s of paddy <supplied reason="subaudible">are provisioned</supplied>.
+                    </p>
+                    
+                    <p n="B18-25">
+                        <list>
+                            <item>So that there be ...</item>
+                            <item>So that there be ...</item> 
+                            <item>So that there be ...</item>
+                            <item>So that there be ...</item>
+                            <item>So that there be ...</item>
+                            <item>So that there be ...</item>
+                        </list>        
+                        This being so, so that there be ten <foreign>kalam</foreign>s of paddy per <foreign>kācu</foreign> for <supplied reason="subaudible">a total of</supplied> fifteen and a half <foreign>kācu</foreign>s:
+                        fifteen <foreign>kācu</foreign>s, excluding the <foreign>kācu</foreign>s for the duty <supplied reason="explanation"><foreign>kaṭamai</foreign></supplied> of the garden, through one hundred fifty five <foreign>kalam</foreign>s of paddy <supplied reason="subaudible">are provisioned</supplied>.
+                    </p>
+                    
+                    <p n="B26-36">
+                        <list>
+                            
+                            <item>So that there be for the woman who...</item>
+                            
+                            <item>For the woman who...</item>
+                            
+                            <item>So that there be perpetually, for each of those who sing <foreign>tiruppatiyam</foreign> <supplied reason="explanation"><foreign>viṇṇappam ceyvār</foreign></supplied>, <supplied reason="subaudible">one</supplied> <foreign>patakku</foreign> and four <foreign>nāḻi</foreign>s, including the capital for cloth, per year, per day: seventy-five <foreign>kalam</foreign>s of paddy <supplied reason="subaudible">are provisioned</supplied> ...</item>
+                            
+                            <item>So that the guardian of the entrance pavillion <supplied reason="explanation"><foreign>kōpuram</foreign></supplied> is one who obtains ...</item>
+                            
+                            <item>So that there be perpetually, for one potter, so that he puts <foreign>kalam</foreign>s for the feeding hall <supplied reason="explanation"><foreign>cālai</foreign></supplied> ...</item>
+                            
+                            <item>So that there be for ...</item>
+                            <item>So that there be for one Brahmin who ...</item>
+                            <item><supplied reason="subaudible">Furthermore</supplied>, for him, as capital for cloth: five <foreign>kalam</foreign>s of paddy, through half a <foreign>kācu</foreign> <supplied reason="subaudible">are provisioned</supplied>.<foreign>That is, half a <foreign>kācu</foreign> </foreign> is provisioned to buy five pots of paddy.</item>
+                            <item>For the ... <supplied reason="subaudible">cantaṉam</supplied> ...</item>
+                            <item>So that there be perpetually two <foreign>nāḻi</foreign>s of rice ...</item>
+                        </list>     
+                    </p>
+                </div>
+                
+                <div type="textpart" n="C">
+                    
+                    <p n="C1">
+                        So that there be an inner sanctum endowment <supplied reason="explanation"><foreign>tiru-v-uṇṇaḻikai-p-puṟam</foreign></supplied>
+                        for this glorious Vijayamaṅgaladeva, the great god <supplied reason="explanation">for whom</supplied> this <foreign>brahmadeya</foreign> has been made, the shares given tax-free <supplied reason="subaudible">are</supplied> ...
+                    </p>
+                    <p n="C1-6">
+                        Stating from the seventh year of the glorious king Rājarāja,
+                        ...
+                        who has been graciously installed,
+                        having changed the manner of doing these ...
+                        according to what has been engraved on stone, <supplied reason="subaudible">provisions are as follows</supplied>.        
+                        <list>
+                            <item>So that there be four <foreign>nāḻi</foreign>s at the time of sacred rice food-offerings ...</item>            
+                            <item>So that there be one <foreign>piṭi</foreign> at the time of ghee food-offerings ...</item>            
+                            <item>For the time of seasoned curry <supplied reason="explanation"><foreign>porikkaṟi</foreign></supplied> food-offerings ...</item>            
+                            <item>So that there be four<note>An unclear amount is here subaudible.</note> at the time of areca-nut food-offerings ...</item>            
+                            <item>For betel ...</item>            
+                            <item>So that there be <supplied reason="subaudible">one</supplied> <foreign>uri</foreign>s at the time of curd food-offerings, for <supplied reason="subaudible">one</supplied> <foreign>uri</foreign>s of curd ...</item>          
+                            <item>So that there be for five perpetual lamps ...</item>
+                            <item>For ...</item>
+                            <item>For the accountant: permanently four <foreign>nāḻi</foreign>s of paddy <supplied reason="subaudible">are provisioned</supplied>.</item>
+                            <item>So that there be for two glorious <foreign>bali</foreign> lamps ...:
+                                for the span of one year three hundred fifty five <foreign>kalaṉ</foreign>s, six <foreign>kuṟuṇi</foreign>s and four <foreign>nāḻi</foreign>s <supplied reason="subaudible">are provisioned.</supplied>
+                            </item>  
+                        </list>
+                    </p>
+                    
+                    <p n="C42">
+                        Do not forget duty <supplied reason="explanation"><foreign>aṟam</foreign><note>Tamil term equivalent to Sanskrit <foreign>dharma</foreign>.</note></supplied>; without duty, there is no refuge.
+                    </p>
+                    
+                    <p n="C42">
+                        These <supplied reason="subaudible">are under</supplied> the protection of the Paṉmāheśvaras.
+                    </p>
+                </div>
+                
+            </div>
+            
+            <div type="translation" xml:lang="fra" resp="part:emfr part:vagi">
+                
+                <div type="textpart" n="A">	
+                    
+                    <p n="A1">
+                        Prospérité ! Fortune !
+                    </p>
+                    
+                    <p rend="stanza" n="1">
+                        <l>Apparut <supplied reason="explanation"><foreign>sam-āvir-āsīt</foreign></supplied> un fondateur de lignée, originaire de Kuvalālam, connu sous le nom de Nakka<note>Forme sanskritisée du tamoul Nakkaṉ.</note> de Paḻuvūr à la bonne renommée, pur tel Muravairin <supplied reason="explanation">Kṛṣṇa</supplied>, excellent par sa naissance <supplied reason="explanation"><foreign>jāta</foreign></supplied> et sa classe <supplied reason="explanation"><foreign>varṇa</foreign></supplied>.</l>
+                    </p>
+                    
+                    <p rend="stanza" n="2">
+                        <l>Les mendiants le considèrent comme la libéralité incarnée,</l>
+                        <l>Ses ennemis comme possédant un corps fait d’héroïsme,</l>
+                        <l>Les femmes<note>littéralement « celles qui ont  des yeux de biche  »</note> comme Anaṅga <supplied reason="explanation">Kāma<note>Littéralement « celui qui n’a pas de corps ».</note></supplied>
+                            <supplied reason="subaudible">bien que</supplied> de lignée humaine <supplied reason="explanation"><foreign>satanum</foreign><note>Littéralement « qui a un corps ».</note></supplied>,</l>
+                        <l>Les sages comme le <foreign>dharma</foreign> incarné.</l>              
+                    </p>
+                    <p n="A6-13">
+                        <!--Update! This is verse! But how many stanzas? And which metres?-->
+                        Celui-ci <supplied reason="subaudible">donc</supplied> - qui reçut le nom de Vikramacōḷa-Mahārāja du roi Vikramacōḷa, satisfait de son héroïsme parce qu’il s’était emparé d’une multitude d’océans  <supplied reason="explanation"><foreign>arṇava</foreign></supplied> et de cieux <supplied reason="explanation"><foreign>ambara</foreign></supplied>, entiers et obtenus par sa propre vaillance - en la quatorzième année de ce roi, après avoir fondé une temple en pierre pour Śambhu qui réside dans le glorieux Vijaya-maṅgala dans le grand et glorieux <foreign>agrahāra</foreign> de Vānavana-mahādevī, donna, aussi longtemps que la lune dure, pour le culte et le festival de ce Śambhu précisément, un village nécessiteux du nom de Neṭuvāyil <!--Update to Neḍu°?--> appartenant à ce village, après l’avoir acheté à la grande assemblée et l’avoir rendu exempt de taxes par le don de ses propres biens.
+                    </p>
+                    
+                    <p n="A13-">...</p>
+                </div>
+                
+            </div>
+            
+            <div type="commentary">
+                
+                <p>In Part B mention is made of the 7th regnal year of Rājarāja (line 37), as a starting point.</p>
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/164).</p>
+                
+                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.357), with facsimiles for lines 1-21. Lines 1-41 = Part A. Lines 41-76 = Part B.<note>As pointed out by <bibl><ptr target="bib:Gillet2023_01"/></bibl> (p. 84, fn. 65), lines 21-22 appears there, by mistake, as lines 75-76.</note> Lines 77-82 = Part C. This first edition reproduced in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32.2.138).</p>
+                
+                <p>Edited, and partially translated, in <bibl><ptr target="bib:Gillet2023_01"/></bibl> (nos. 11-12), based on autopsy and photos. No. 11 = Part A. No. 12 = Part B + Part C.</p>
+                
+                <p>Part B an Part C translated in <bibl><ptr target="bib:Orr2000_01"/><citedRange unit="page">116-118</citedRange></bibl>.</p>
+                
+                <p>This edition by Renato Dávalos, Emmanuel Francis and Valérie Gillet (2023-2024), based on photos (Valérie Gillet, 2018). The second line number indicated (e.g. A1=1, B1=41, C1=47) is that in SII 19.357.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SR">
+                        <ptr target="bib:SrinivasaRao1967_01"/>
+                        <citedRange unit="page">183-186</citedRange>
+                        <citedRange unit="item">357</citedRange>
+                        <citedRange unit="plate">II-III</citedRange>
+                    </bibl>
+                    
+                    <bibl n="S">
+                        <ptr target="bib:Swaminathan2012_01"/>
+                        <citedRange unit="part">II</citedRange>
+                        <citedRange unit="page">183-186</citedRange>
+                        <citedRange unit="item">357</citedRange>                  
+                    </bibl>
+                    
+                    <bibl n="VG">
+                        <ptr target="bib:Gillet2023_01"/>
+                        <citedRange unit="page">69, 81-82, 82-85</citedRange>
+                        <citedRange unit="item">11-12</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1928-1929"/>
+                        <citedRange unit="page">20</citedRange>
+                        <citedRange unit="appendix">B</citedRange>
+                        <citedRange unit="item">164</citedRange>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:Orr2000_01"/>			
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
     </text>
 </TEI>
