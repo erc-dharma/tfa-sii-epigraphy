@@ -79,396 +79,397 @@
         </revisionDesc>
     </teiHeader>
     
-<text xml:space="preserve">
-<body>	
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-	<!--Check Grantha characters: y, n, t normally not Grantha, but common to both alphabets, thus not tagged as Grantha-->			
-    <p>
-        <lb n="01"/><hi rend="grantha">śrī-rājamahe
-        <lb n="02" break="no"/>ṃdra-ca</hi>tu<hi rend="grantha">rvve
-        <lb n="03" break="no"/>di</hi>-maṅkalattu-k ka
-        <lb n="04" break="no"/>lveṭṭu
-    </p>
-    
-    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-        <lb n="1"/>svasti śrī
-    </ab>
-    <lg>
-        <l n="1">pukaḻ cūḻnta puṇari Akaḻ cū<unclear>ḻ</unclear>nta pu<supplied reason="omitted">vi</supplied>yil</l>
-        <l n="2">poṉṉēmi Aḷavum taṉṉēmi naṭappa</l>
-        <l n="3">viḷaṅku-ja<hi rend="grantha">ya</hi>-makaḷai y-iḷaṅkō-p-paruvattu-c</l>
-        <l n="4">cakkara-kōṭṭattu vikkirama-t-toḻilāl</l>
-        <l n="5">putu-maṇam puṇarntu matuvarai y-īṭṭam</l>
-        <l n="6">vayira-karattu vāri Ayi<supplied reason="omitted">r</supplied>-muṉai-k</l>
-        <l n="7">kontaḷa-varaicar taṉtaḷa miriya</l>
-        <l n="8">vāḷ-uṟai kaḻittu-t tōḷ-vali kāṭṭiya</l>
-        <l n="9">pō<lb n="2" break="no"/>r-p-pari naṭātti kīrttiyai niṟutti</l>
-        <l n="10">vaṭa-ticai vākai cūṭi-t ten-ticai-t</l>
-        <l n="11">tēmaru kamala-p pū-makaḷ potumaiyum</l>
-        <l n="12">poṉṉi-y-āṭaiyum naṉṉila-p-pāvaiyum</l>
-        <l n="13">taṉimaiyum tavira punitaṟ</l>
-        <l n="14">tiru-makuṭa murimaiyiṟ cūṭi-t</l>
-        <l n="15">taṉṉaṭi y-iraṇṭum taṭa-muṭi-y-āka-t</l>
-        <l n="16">toṉṉila ventar cūṭa munṉai</l>
-        <l n="17">manu-v-āṟu peruka-k kali-y-āṟu vaṟu<lb n="3" break="no"/>ppa-c</l>
-        <l n="18">ceṅ-kōl ticai toṟuñ cella veṇ-kuṭai</l>
-        <l n="19">Iru-nila viḷākamum veṅkaṇum tanātu</l>
-        <l n="20">tiru-niḻal veṇṇalā-t tikaḻ Oru taṉi</l>
-        <l n="21">mēruviṟ puliviḷaiyāṭa vārkaṭaṟ</l>
-        <l n="22">tīvān tarattu pūpālar tiṟaiviṭutanta</l>
-        <l n="23">kalañcorikaḷ irum muṟai niṟpa viḷaṅkiya</l>
-        <l n="24">teṉṉavan karun talai parun talai-t tiṭattaṉ</l>
-        <l n="25">poṉ<lb n="4" break="no"/>ṉakar-p puṟatt' iṭai-k kiṭappa In-nāḷ</l>
-        <l n="26">piṟkula-p piṟai pōl niṟ-piḻai Ennuñ</l>
-        <l n="27">coll' etir kōṭiṟṟ' allatu taṉkai</l>
-        <l n="28">vill' etir kōṭā vikkalaṉ kallatar</l>
-        <l n="29">naṅkili tuṭaṅki maṇalūr naṭu-v-eṉa</l>
-        <l n="30">tuṅka-pattirai y-aḷav' uṟṟu veṅkaṇum</l>
-        <l n="31">paṭṭa veṅkaḷiṟum viṭṭa taṉ mānamum</l>
-        <l n="32">kūṟiṉa vīramum kiṭappa Ēṟiṉa</l>
-        <l n="33">malaikaḷum mu<lb n="5" break="no"/>tuku neḷippa Iḻinta</l>
-        <l n="34">natikaḷum cuḻaṉṟuṭain tōṭa viḻun<supplied reason="omitted">ta</supplied></l>
-        <l n="35">kaṭalkaḷum talaiviri-t talamara kuṭa-ticai-t</l>
-        <l n="36">tan-nāḷ ukantu tāṉum tāṉaiyum</l>
-        <l n="37">pannāḷ iṭṭa<unclear>mum</unclear> pala-pala mutukum</l>
-        <l n="38">paḻi y-ukantu kuṭutta pukaḻiṉ celviyum</l>
-        <l n="39">vāḷeri oṇkaṇ maṭaṉtaiyar īṭṭamum</l>
-        <l n="40">miḷātu kuṭutta veṅkari niraiyum</l>
-        <l n="41">kaṅka-maṇṭalamum</l>
-        <l n="42">pa<unclear>ra</unclear>ṇi Iraṇṭum Oru-vi<lb n="6" break="no"/>cai-k kai-k-koṇṭu</l>
-        <l n="43">īṇṭi-p pukaḻoṭum pāṇṭi-maṇṭaḷaṅ</l>
-        <l n="44">koḷḷa-t tiruvuḷḷatt' aṭaittu veḷḷa</l>
-        <l n="45">varupaṟi-t taraṅkamum porupari-t talaṅkaḷum</l>
-        <l n="46">tantira vāriyum Uṭaittāy vantu</l>
-        <l n="47">vaṭa-kaṭal teṉ-kaṭal pāyvatu pōla-t</l>
-        <l n="48" enjamb="yes">taṉ peruñ ceṉaiyai <unclear>Evi-p</unclear> pañcavar</l>
-        <l n="49">ai-y varum poruta pōrkaḷa-t tañci</l>
-        <l n="50">veru neḷi<choice><orig>ta</orig><reg>ṭa</reg></choice>n toṭi Araṇe<lb n="7" break="no"/><unclear>ṉa-p-pukka</unclear></l>
-        <l n="51">kāṭaṟa-t tuṭaittu nāṭṭi-p paṭuttu</l>
-        <l n="52">maṟṟavar tammai vanacarar tiriyum</l>
-        <l n="53">koṟṟa veñcura meṟṟi koṟṟa</l>
-        <l n="54">vi<hi rend="grantha">j<choice><orig>ai</orig><reg>a</reg></choice></hi>ya-<hi rend="grantha">sta</hi>mpam ticai toṟum niṟutti</l>
-        <l n="55">muttin calāpamum mu-t-tamiḻ-p po<unclear>ti</unclear>yilum</l>
-        <l n="56">mattaveṅ karipaṭu mayya-c ceyyum</l>
-        <l n="57">kanniyum kai-k-koṇṭ' aruḷi-t tennāṭṭu</l>
-        <l n="58" enjamb="yes">ellai kāṭṭiya kaṭal-malai nāṭ<lb n="8" break="no"/><gap reason="lost" quantity="2" unit="character"/></l>
-        <l n="59">taṉi vīcum peṟa</l>
-        <l n="60">mā-v-eṟiya taṉ varutaṉi-t talai-varai-k</l>
-        <l n="61">kuṟukalar kulaiya-k koṭṭāṟuṭ-paṭa</l>
-        <l n="62">neṟi-toṟum nilaikaḷ iṭṭ’ aruḷi tiṟai koḷ</l>
-        <l n="63">vīra-<hi rend="grantha">si<supplied reason="omitted">ṁ</supplied>hāsa</hi>nam tiriya viṭṭ’ aruḷi</l>
-        <l n="64">poṅkoḷiyāramum tiru-p-puya-t-talaṅkaḷum pōla</l>
-        <l n="65">vīramum tiyākamum viḷaṅka pār-micai</l>
-        <l n="66">mevalar vaṉaṅka vīra-<hi rend="grantha">siṁhā-sa</hi>nattu</l>
-        <l n="67">viṟṟirun<lb n="9" break="no"/>t' aruḷiya</l>
-    </lg>
-    
-    <p>
-        kō-v-irāja-kēcari-pa<hi rend="grantha">nma</hi>r-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a cakkara-va<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-kulōttuṅka-cōḻa-<hi rend="grantha">de</hi>vaṟku yāṇṭu
-        <num value="11"><g type="numeral">10</g> 1</num>-Āvatu <g type="gomutraFinal">.</g>
-    </p>
-    <p>
-        nitta-vinōta-vaḷa-nāṭṭu kāntāra-nāṭṭu <hi rend="grantha">brahma-de</hi>yam <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">ja</hi>-ma<hi rend="grantha">hentra-c-catur-vedi</hi>-maṅ<unclear>ka</unclear>lattu peruṅ-kuṟi-p-peru-makkaḷōm Ivv-āṭṭai kaṟkaṭaka-nāyaṟṟu <hi rend="grantha">Apara-pakṣa</hi>ttu pa<hi rend="grantha">ñca-deśi</hi>yum nāyiṟṟu-k-kiḻamaiyum Āyi<choice><orig>l</orig><reg>li</reg></choice>yamum peṟṟa Iṉṟu
-        
-        <lb n="10" break="no"/><gap reason="lost" quantity="4" unit="character"/> puḷi-v-illi-varai <gap reason="lost" quantity="3" unit="character"/> nallāṉ paṭṭaṅ kuḷa-k-karaiyilē <hi rend="grantha">dhanmi</hi> ceytu peruṅ-kuṟi kūṭi y-iruntu <hi rend="grantha">vyavasthai</hi> paṇṇi nammūr tiru-mēl-kōyil-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">śrī</hi>-mummuṭi-cōḻa-viṇṇakar-āḻvār nilaṅkaḷ Iṟaiyili ceytu kuṭutta paric' āvatu
-    </p>
-    <p>
-        It-tēvar <hi rend="grantha">śrī</hi>-paṇṭārattu yāṇṭu 2-Āvatu Ā<choice><sic>n</sic><corr>n</corr></choice>i-t-tiṅkaḷ Iṭaṅkai valaṅkai y-āy Ūrum cu
-        
-        <lb n="11" break="no"/>ṭum Oṭukki tiru-muṟṟaṅkaḷum Aḻittu tiru-v-urukkaḷum <hi rend="grantha">śrī</hi>-paṇṭāraṅkaḷum kaḷḷar eṭuttu-k koṇṭu
-        
-        <list><item>pōy Irunta Iṭattu kaḷḷarkku piḻaitta tiravviyamu<supplied reason="omitted">m</supplied> <hi rend="grantha">srī</hi>-paṇṭārattu Ira<hi rend="grantha">kṣi</hi>kka Uṇṇāmai-y-ālum</item>
+    <text xml:space="preserve">
+        <body>	
             
-            <item>Ūr irukka ci<unclear>lar Ūr</unclear> Eṟum iṭattukku <hi rend="grantha">sabhā</hi>-viniyōkattukku <hi rend="grantha">dravyaṁ</hi> vēṇṭutalālum</item>
-            
-            <item>tiru-muṟṟaṅkaḷ aḻivu cora-v-um <hi rend="grantha">puna<supplied reason="omitted">ḥ</supplied>-pratiṣṭ</hi>ai paṇ        
-                <lb n="12" break="no"/>ṇa-v-u<supplied reason="subaudible">m</supplied> matiḷ <unclear>kaṭṭa-v-um</unclear> vēṇṭutalālum</item></list>
-        
-        It-tēvar-k kanmikaḷ pakkal nāṅkaḷ koṇṭa po<choice><orig>n</orig><reg>ṉ</reg></choice>
-            
-       <list>
-           <item> kuṭiñai-k-kallāl Irā<hi rend="grantha">je</hi>ntira-cōḻa<choice><orig>n</orig><reg>ṉ</reg></choice> māṭaikku Arai māṟṟu-t tāḻum po<choice><orig>n</orig><reg>ṉ</reg></choice> Aym-patin kaḻañcum</item>
-           <item>Ip-po<choice><orig>nn</orig><reg>ṉṉ</reg></choice>ukku palicai y-āka
-               poliñca po<choice><orig>n</orig><reg>ṉ</reg></choice> Irupat<unclear>t' ayṅ</unclear>-kaḻañcum Āka-p</item>
-       </list>
-        po<choice><orig>n</orig><reg>ṉ</reg></choice> Eḻupat<unclear>t' a</unclear>yṅ
-        <lb n="13" break="no"/>-kaḻañcum       
-    </p>
-    <p>
-       palicai polinta po<choice><orig>n</orig><reg>ṉ</reg></choice> Irupatt' aiy-kaḻañcum Āka-p po<choice><orig>n</orig><reg>ṉ</reg></choice> Eḻupatt' aiyṅ-kaḻañcil yāṇṭu m<choice><sic>u</sic><corr>ū</corr></choice>ṉṟ-āvatu tiru-muṟṟam Aḻivu cora-v-um puna<hi rend="grantha"><supplied reason="omitted">ḥ</supplied>-pratiṣṭhai</hi> paṇṇa-v-um kuṭutta po<choice><orig>n</orig><reg>ṉ</reg></choice> Ayṅ-kaḻañcu n<choice><orig>i</orig><reg>ī</reg></choice>kki-p
-        po<choice><orig>n</orig><reg>ṉ</reg></choice> Eḻupati<choice><orig>n</orig><reg>ṉ</reg></choice> kaḻañcukkum cantirātitta-vaṟ Iṟaiyili ceytu kuṭutta nilaṅkaḷ āvatu
-    </p>
-    
-    <p>        
-        
-        <list>
-            <item>
-                <hi rend="grantha">trai-lo</hi>
-                <lb n="14" break="no"/>kkiya-mā-tēvi-vatikku kiḻakkum viknēcuvara-vāy-k-kālukku vaṭakkum mutaṟ kaṇṇāṟṟu mutaṟ catirattu cūḻnta vilai-nilam Ēḻu mākkāṇi-c cinnattil kiḻakk' aṭaiya nila<supplied reason="subaudible">m</supplied> mākāṇi-c cinnamum I-t-tēvar ciy-paṇṭārattu-p <surplus>po<choice><orig>n</orig><reg>ṉ</reg></choice> kuṭuttu-p</surplus> po<choice><orig>n</orig><reg>ṉ</reg></choice> kuṭuttu-k koṇṭatu kuṇṭ<choice><orig>u</orig><reg>ū</reg></choice>r nilam kuḻi <gap reason="lost" quantity="3" unit="character"/> pakkal koṇṭa<surplus>tu</surplus> Iṅkē Iraṇṭāñ catirattu-t tani nilam mu        
-                <lb n="15" break="no"/>ntirikaiyum
-            </item>
-            
-            <item>
-                Iṅkē-y <hi rend="grantha">trai</hi>-lokkiya-mā-tevi-vatikku kiḻakku mummuṭi-cōḻa-vāykkālukku vaṭakku Eḻāṅ kaṇṇāṟṟu mutal catirattu-k kiḻakk' aṭaiya nilam m<choice><sic>u</sic><corr>ū</corr></choice>nṟu māvil Itaṉ mēṟku nilam vempūr pōca<choice><orig>n</orig><reg>ṉ</reg></choice> viṉaiya-<hi rend="grantha">dā</hi>ma-paṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice> pakkal tēvar ci-paṇṭārattu-p po<choice><orig>n</orig><reg>ṉ</reg></choice> kuṭuttu-k koṇṭa nilam Oru mā
-                <lb n="16"/><unclear>muntirikaiyum</unclear>
-            </item>
-            
-            <item>
-                Inkē Eṭṭāṅ kaṇṇāṟṟu Iraṇṭāñ catirattu mēṟk' aṭaiya nilam Oru mā-varai-c cinnattil Itiṉ kiḻakku nilam mukkāṇi-c cinnattil vaṭakk' aṭaiya natta-nilam kāṇi muntirikai-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-k kāli<choice><orig>n</orig><reg>ṉ</reg></choice> mēṟk' aṭaiya nilam Arai-k-kāṇi n<choice><orig>i</orig><reg>ī</reg></choice>kki mēṟ-paṭiyāṉ pakkal-<surplus>k</surplus> koṇṭa nilam muntirikaiyum
-            </item>
-            <item>
-                lōka-mā-tēvi-vatikku meṟku mum        
-                <lb n="17" break="no"/>muṭi-cōḻa-vāy-k-kālukku vaṭakkum Añcāṅ kaṇṇāṟṟu mutaṟ catirattu vaṭa-mēṟk' aṭaiya nilam kāṇi muntirikai-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ araiyil kiḻakk' aṭaiya nilam Arai-k-kāṇi muntirikaiyum</item></list>
-        Āka
-        nilam m<choice><sic>u</sic><corr>ū</corr></choice>nṟu mā muntirikaiyum</p> 
-    
-    <p>
-        Ivv-āṇṭu mutal ca<hi rend="grantha">ntrā</hi>titta-vaṟ tēvar taṅkaḷ pa<choice><orig>nn</orig><reg>ṉṉ</reg></choice>iraṇṭ’ āntarattilē Iṟai Iṟukka nāṅkaḷ Ivv-āḻvār ciy-paṇṭārat        
-        <lb n="18" break="no"/>tu nāṅkaḷ koṇṭa poṉ<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum palicaikkum c<choice><sic>i</sic><corr>e</corr></choice>lav' āka
-        In-nilattāl vanta peru-vari<surplus>y</surplus>yum ma<unclear>ñ</unclear>cikkamum cila-variyum veḷḷān-veṭṭiyum makamaiyum paṇṭai-veṭṭiyum Antarāyamum kulai-kurampum Eccōṟum cūṟṟ-ariciyum Ūrāṭṭu variyum Uḷḷiṭṭa tiru-vācalil pōnta <unclear>kaṭamai</unclear>yum maṟṟum E
-        
-        <lb n="19" break="no"/>p-peṟpaṭṭat’ ellām nāṅkalēy Iṟukka-k kaṭavōm āka
-        In-nilaṅkaḷ ca<hi rend="grantha">ntrā</hi>titta-vaṟ Iṟaiyiliyē Anupavikka peṟuvār ākavum
-    </p>
-    
-    <p>
-        I-<hi rend="grantha">pra</hi>māṇa-p paṭiyē tēvar-kanmikaḷ kallilum cempilum veṭṭu-vittu-k koḷḷa-p peṟuvārkaḷ ākavum
-    </p>
-    
-    <p>
-        Ip-paṭikku In-nilaṅkaḷ cantirātitta-vaṟ Iṟaiyili ceytu kuṭuttōm peruṅ-kuṟi peru-makkalōm <g type="dash">.</g>
-    </p>
-    
-    <p>        
-        <lb n="20"/>Ip-paricu <hi rend="grantha">sabhai</hi>y-uḷ i<supplied reason="omitted">ru</supplied>ntu karai-p pōntu paṇittār 
-        
-        <list>
-            <item><hi rend="grantha">śrī-rājentra</hi>-cōḻa-c-cēri-kalikkili-maṅkalattu kaṭampan tiru-virām-icuvara-paṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice> paṇiyālum</item>
-            <item>rā<hi rend="grantha">ja</hi>-ma<hi rend="grantha">hentra</hi>-c-cēri kirāmpi-c-ceṭṭu U<unclear>ru</unclear><hi rend="grantha"><unclear>dra</unclear></hi>-nārāyaṇa-<hi rend="grantha">bha</hi>ṭṭan paṇiyālum</item>
-            <item>mummuṭi-cōḻa-c-cēri nampūr-k kāṭṭukkai vira-nāta-pa<hi rend="grantha">nma-bha</hi>ṭṭar paṇiyālum</item>
-            <item>vikkirama-ciṅka-c-cēri kuṇṭūr ca<hi rend="grantha">ntra-kṛṣṇa</hi>ṉ paṭṭaṉ paṇiyālum</item>
-            <item><hi rend="grantha">tri-bhu</hi>vana-mā        
-                <lb n="21" break="no"/>tevi-c-cēri Irāyūr kēcuva-paṭṭar paṇiyālum</item>
-            <item>Irā<hi rend="grantha">jādhirāja</hi>-c-cēri Irāyūr-t tiru-varaṅka-tēva-<hi rend="grantha">daśa-pri</hi>ya-paṭṭan paṇiyālum</item></list>
-    </p>
-    
-    <p>
-        <list>
-            <item>Ivai ceyya tāmarai-k-kaṇṇaṉ tiru-vāy-k-kulam-uṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">śrī</hi>-rāma-<hi rend="grantha">pri</hi>ya<choice><orig>n</orig><reg>ṉ</reg></choice> eḻuttu <g type="gomutraFinal">.</g></item>
-            <item>Ip-paṭikku kuṇṭ<choice><orig>u</orig><reg>ū</reg></choice>r kau<hi rend="grantha">śi</hi>ka-<hi rend="grantha">bha</hi>ṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="gomutraFinal">.</g></item>
-            <item>                        
-                Ip-paṭikku kuṇṭ<choice><orig>u</orig><reg>ū</reg></choice>r rāmi<hi rend="grantha"><unclear>śva</unclear></hi><unclear>ra</unclear><choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="gomutraFinal">.</g></item>
-            <item>
-                Ip-paṭikku kuṇṭ<choice><orig>u</orig><reg>ū</reg></choice>r keraṉa-paṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice>
-            </item>
-            <item>
-                Ip-paṭikku vaṅki-p-puṟa        
-                <lb n="22" break="no"/>ttu coṭṭa-<hi rend="grantha">bhoja</hi><choice><orig>n</orig><reg>ṉ</reg></choice> tiru-veṇkāṭu-pa<hi rend="grantha">ṭṭa</hi><choice><orig>n</orig><reg>ṉ</reg></choice> eḻuttu <g type="gomutraFinal">.</g></item>
-            <item>
-                I<hi rend="grantha">ttham· vigatam·</hi> kau<hi rend="grantha">śi</hi>kā<hi rend="grantha">nvayajā</hi>tena <hi rend="grantha">bhava-svāmi-sū</hi>nunā<surplus>ya</surplus> <hi rend="grantha">caṁdra-kumare</hi><supplied reason="omitted">ṇa</supplied> <g type="gomutraFinal">.</g>
-            </item>
-            <item>
-                Ip-paṭikku <hi rend="grantha">hā</hi>rita-ti<hi rend="grantha">lośana</hi>-paṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="gomutraFinal">.</g>
-            </item>
-            <item>
-                <hi rend="grantha">Ittha<unclear>m·</unclear> vidantavotṭha</hi>na-<hi rend="grantha">śrī-k<choice><sic>ra</sic><corr>ṛ</corr></choice>ṣṇa</hi>nā<hi rend="grantha">dam·</hi> <g type="gomutraFinal">.</g>
-            </item>
-            <item>
-                Ip-patikku piṟāntūr tiru-nāṭuṭaiyā<choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="gomutraFinal">.</g> <gap reason="lost" quantity="5" unit="character"/></item>
-            <item>
-                <lb n="23"/><hi rend="grantha">svāmi-pāda-catur-veta</hi>-paṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="gomutraFinal">.</g>
-            </item>
-        </list>
-    </p>
-    
-    <p>
-        <list>
-            <item>Ip-pati Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> Uṟu<hi rend="grantha">pu</hi>ṭṭūr kē<hi rend="grantha">śa</hi>va-<hi rend="grantha">nārā</hi>yaṇa-paṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="gomutraFinal">.</g></item>
-            <item>Ip-pati Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> ceṭṭi-<hi rend="grantha">bhoja</hi><choice><orig>n</orig><reg>ṉ</reg></choice> pa<hi rend="grantha">ra-vāsu-de</hi>va-paṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice>ṉ <g type="gomutraFinal">.</g></item>                  
-            <item>Ip-pati Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha"><unclear>sakasai</unclear></hi> <hi rend="grantha">somāditya-daśapriya</hi>-paṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="gomutraFinal">.</g></item>
-            <item>Ip-pati Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> kāram<surplus><hi rend="grantha">m·</hi></surplus>piceṭṭu <hi rend="grantha"><unclear>drāgakai</unclear> śrī-kṛṣṇa-bha</hi>ṭṭan makaṉ <hi rend="grantha">s<choice><sic>u</sic><corr>ū</corr></choice>riya-bha</hi>ṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="gomutraFinal">.</g></item>
-            <item><lb n="24"/>ti<hi rend="grantha">mma</hi>yar vinayatā-<hi rend="grantha">śarmmaṇātre</hi>ya-<hi rend="grantha">gotre</hi> <g type="gomutraFinal">.</g></item>
-            <item><hi rend="grantha">Ittham· vigatam· bhara-dvāja-gotreṇa kumāra</hi>-paṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="ddanda">.</g></item>
-            <item><hi rend="grantha">Ittham· vigatam· kuṇthanya-gotreṇa vaina</hi> <gap reason="lost" unit="character" quantity="5"/> kurava-c-cēri vi<hi rend="grantha">pranāta-bha</hi>ṭṭa<hi rend="grantha">sya</hi> <g type="ddanda">.</g></item>
-            <item>Ip-patikku <hi rend="grantha">śrī-k<choice><sic>ra</sic><corr>ṛ</corr></choice>ṣṇa-deśa-priya-bhaṭṭasya</hi> <g type="ddanda">.</g></item>
-            <item>Ip-patikku kurava-c-cēri <gap reason="lost" unit="character" quantity="4"/> <unclear>nanti</unclear>-<hi rend="grantha">bha</hi>ṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="gomutraFinal">.</g></item>
-            <item>Ip-patikku <hi rend="grantha">dveya-gom</hi>a-puṟattu <g type="dash"/>                
-                <lb n="25"/>cakara-pāṇi-<hi rend="grantha">c-ca</hi>tu<hi rend="grantha">rve</hi>ti-pa<hi rend="grantha">ṭṭasya</hi><g type="ddanda">.</g></item>
-            <item>Ip-pati Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">bhara-dvāji-viṣṇu-sarmma</hi>ṇena <g type="danda">.</g></item>
-            <item>Ip-pati Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">bhara-dvāja-gotreṇa tri</hi>-vikkira<surplus>ma</surplus>-paṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice></item>
-            <item><unclear>Ip-pati</unclear> Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> ma<hi rend="grantha">dhu-sūdha</hi>na<choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="ddanda">.</g></item>
-            <item>Ip-pati Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">dāmodara-bha</hi>ṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="gomutraFinal">.</g></item>
-            <item>Ip-pati Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">daśa-priya-bha</hi>ṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="gomutraFinal">.</g></item>
-            <item>Ip-pati Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> kuravaicari                
-                <lb n="26"/><hi rend="grantha">bhārggavan l<choice><orig>o</orig><reg>a</reg></choice>kṣma</hi>ṇ<choice><orig>e</orig><reg>a</reg></choice><choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="ddanda">.</g></item>
-        </list> 		
-    </p>
-    
-    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">svasti
-    </ab>
-    
-</div>
-    
-<div type="apparatus">
-    <listApp>
-        
-        <app loc="1">
-            <lem>pō<lb n="2" break="no"/>r-p-pari</lem>
-            <rdg source="bib:Narasimhaswamy1982_01"/>
-            <note>Probably read <foreign>pōr-p-parai</foreign><!--Check!-->.</note>
-        </app>
-        
-        <app loc="17">
-            <lem>nilam Araikkāṇi</lem>
-            <rdg source="bib:Narasimhaswamy1982_01">nilam <supplied reason="omitted">m</supplied> Araikkāṇi</rdg>
-        </app>
-        
-    </listApp>
-</div>
-    
-    <div type="translation" resp="part:doop part:emfr">
-        
-        <p n="01-04">
-            Inscription of the glorious Rājamahendracaturvedimaṅgalam<note>See <ptr target="bib:Narasimhaswamy1982_01"/> (p. 55, fn. 1): <quote>The following lines are engraved on the margin of the record on the left of lines 1-4.</quote></note>
-        </p>
-        
-        <p n="1">
-            Prosperity! Fortune!		
-        </p>
-        
-        <p n="9">
-            Year 11th of the emperor, the glorious king Kulottuṅga Cōḻa <hi rend="italic">alias</hi> the king Rājakesarivarman,
-        </p>
-        
-        <p n="1-9">
-            who <gap reason="ellipsis"/> [<foreign>meykkīrtti</foreign> of Kulottuṅga I Cōḻa]
-        </p>
-        
-        <p n="9-10">
-            This is the manner in which
-            we, the great men of the great assembly of Śrīrājamahentracaturvedi maṅgalam, which is a <foreign>brahmadeya</foreign> in Kāntāranāṭu, within Nittavinōtavaḷanāṭu,
-            
-            on this day, which coincides with Āyiliyam star, a Sunday, the 15th day of the dark fortnight of the month of Kaṟkaṭaka
-            
-            having blowed the conch <supplied reason="explanation"><foreign>dhanmi ceytu</foreign></supplied>, having gathered a big assembly and sit, and having made a
-            resolution <supplied reason="explanation"><foreign>vyavasthai paṇṇi</foreign></supplied> on the bank of the tank <gap reason="lost"/>,
-
-            have given lands, having made them tax-free <supplied reason="explanation"><foreign>iraiyili ceytu</foreign></supplied>, <supplied reason="subaudible">to</supplied>
-            Śrī Mummuṭi Cōḻa, god of the Viṣṇu temple <hi rend="italic">alias</hi> the glorious Western temple in our village.
-
-        </p>
-        
-        <p n="10-12">
-            During the month of Āṉi, on the 2nd year <supplied reason="subaudible">of this king</supplied>, while the Right-hand and Left-hand communities brought down the village and the <seg rend="check">ground</seg> <supplied reason="explanation"><foreign>cuṭum</foreign></supplied>,<note>Probably an abbreviation for <foreign>cuṭu-kāṭum</foreign>.</note> and destroyed the courtyards of the temple, thieves stole the sacred idols <supplied reason="explanation"><foreign>tiru-v-urukkalum</foreign></supplied> and treasures from the glorious treasury of this god.
-            
-            <list>
-                <item>Since it was not possible <supplied reason="explanation"><foreign>uṇṇāmai-y-ālum</foreign></supplied> to protect the glorious treasury and the gold  <supplied reason="explanation"><foreign>tiraviyam</foreign></supplied> from the thieves in the place where they had been kept,</item>
-                <item>since some of the villagers need resources for the expenditures of the assembly <supplied reason="explanation"><foreign>sabha-viniyōkattukku</foreign></supplied>,</item>
-                <item>since there is need to repair the destruction of the courtyards, to make a new installation <supplied reason="subaudible">of the idols</supplied>, and to construct a wall,</item>
-            </list>
-            the gold that we obtained from the temple officers of this god <supplied reason="subaudible">is</supplied>
-            <list>
-                <item>fifty <foreign>kaḻañcu</foreign>s <gap reason="ellipsis"/> <seg rend="check"><supplied reason="explanation"><foreign>Arai māṟṟu-t tāḻum</foreign></supplied></seg> per gold coin <supplied reason="explanation"><foreign>māṭai</foreign></supplied> of Rājēndracōḻa according to <foreign>kuṭiñaikkal</foreign> standard,</item>
-                <item>twenty-five <foreign>kaḻañcu</foreign>s of gold that were released on the interests from these,</item>                
-            </list>
-            <supplied reason="subaudible">that is,</supplied> seventy-five <foreign>kaḻañcu</foreign>s.
-        </p>
-        
-        <p n="13-17">
-            There are lands which <supplied reason="subaudible">we</supplied> have given, having made them tax-free as long as the moon and the sun endure, for the seventy <foreign>kaḻañcu</foreign>s of gold <supplied reason="subaudible">that remained</supplied> from the seventy-five <foreign>kaḻañcu</foreign>s <supplied reason="subaudible">that included</supplied> twenty-five <foreign>kaḻañcu</foreign>s of gold released on interests, after having removed <supplied reason="explanation"><foreign>nīkki</foreign></supplied> five <foreign>kaḻañcu</foreign>s of gold that we had given on the 3rd <supplied reason="subaudible">regnal</supplied> year to repair the destruction of the courtyard and make the new installation <supplied reason="subaudible">of the deity</supplied>, that is:
-        </p>
-        
-        <p n="13-17">
-            <supplied reason="subaudible">Description of the lands</supplied>
-            <list>
-                <item>...</item>
-                <item>...</item>
-                <item>...</item>
-                <item>...</item>
-                <item>...</item>
-            </list>
-        </p>
-        
-        <p n="17-19">
-             In this manner, starting from this year, we, the great people of the great assembly, have granted these lands tax-free as long as the moon and the sun endure,
-            
-            <list>
-                <item>so that there is an income <supplied reason="explanation"><foreign>celavu</foreign></supplied> from the interests and from the gold that we got from the glorious treasury of this god as long as the moon and the sun endure,</item>
-                <item>so that these lands shall be enjoyed as tax-free as long as the moon and the sun endure, as we shall continue to collect all these kinds <supplied reason="subaudible">of taxes and dues</supplied> that come from these lands, which include major taxes <supplied reason="explanation"><foreign>peru-vari</foreign></supplied>, <foreign>mañcikkam</foreign> tax, minor taxes <supplied reason="explanation"><foreign>cila-vari</foreign></supplied>, <foreign>veḷḷān-veṭṭi</foreign> tax, contributions in grain <supplied reason="explanation"><foreign>makamai</foreign></supplied>, <foreign>paṇṭai-veṭṭi</foreign> tributes, internal temple revenues <supplied reason="explanation"><foreign>antarāyam</foreign></supplied>, and <foreign>kulai-kurampu</foreign> tributes; others <supplied reason="subaudible">include</supplied> the provision of cooked rice <supplied reason="explanation"><foreign>eccōṟu</foreign></supplied>, tax for husking paddy into rice <supplied reason="explanation"><foreign>kuṟṟ-arici</foreign></supplied>, tax on village sheep <supplied reason="explanation"><foreign>ūrāṭṭu-vari</foreign></supplied>, obligatory duties to be performed at the temple gate <supplied reason="explanation"><foreign>tiru-vācalil pōnta kaṭamai</foreign></supplied>,</item>
-                <item>so that the temple officers should obtain to have <supplied reason="subaudible">this agreement</supplied> engraved on stone and copper according to this <supplied reason="subaudible">agreement</supplied>.</item>
-            </list>
-        </p>
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                <!--Check Grantha characters: y, n, t normally not Grantha, but common to both alphabets, thus not tagged as Grantha-->			
+                <p>
+                    <lb n="01"/><hi rend="grantha">śrī-rājamahe
+                        <lb n="02" break="no"/>ṃdra-ca</hi>tu<hi rend="grantha">rvve
+                            <lb n="03" break="no"/>di</hi>-maṅkalattu-k ka
+                    <lb n="04" break="no"/>lveṭṭu
+                </p>
                 
-        <p n="20-21">
-            In this manner, sitting in assembly, those who ordered <supplied reason="subaudible">so</supplied> having reached the bank <supplied reason="subaudible">of the tank</supplied>:
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                <lg>
+                    <l n="1">pukaḻ cūḻnta puṇari Akaḻ cū<unclear>ḻ</unclear>nta pu<supplied reason="omitted">vi</supplied>yil</l>
+                    <l n="2">poṉṉēmi Aḷavum taṉṉēmi naṭappa</l>
+                    <l n="3">viḷaṅku-ja<hi rend="grantha">ya</hi>-makaḷai y-iḷaṅkō-p-paruvattu-c</l>
+                    <l n="4">cakkara-kōṭṭattu vikkirama-t-toḻilāl</l>
+                    <l n="5">putu-maṇam puṇarntu matuvarai y-īṭṭam</l>
+                    <l n="6">vayira-karattu vāri Ayi<supplied reason="omitted">r</supplied>-muṉai-k</l>
+                    <l n="7">kontaḷa-varaicar taṉtaḷa miriya</l>
+                    <l n="8">vāḷ-uṟai kaḻittu-t tōḷ-vali kāṭṭiya</l>
+                    <l n="9">pō<lb n="2" break="no"/>r-p-pari naṭātti kīrttiyai niṟutti</l>
+                    <l n="10">vaṭa-ticai vākai cūṭi-t ten-ticai-t</l>
+                    <l n="11">tēmaru kamala-p pū-makaḷ potumaiyum</l>
+                    <l n="12">poṉṉi-y-āṭaiyum naṉṉila-p-pāvaiyum</l>
+                    <l n="13">taṉimaiyum tavira punitaṟ</l>
+                    <l n="14">tiru-makuṭa murimaiyiṟ cūṭi-t</l>
+                    <l n="15">taṉṉaṭi y-iraṇṭum taṭa-muṭi-y-āka-t</l>
+                    <l n="16">toṉṉila ventar cūṭa munṉai</l>
+                    <l n="17">manu-v-āṟu peruka-k kali-y-āṟu vaṟu<lb n="3" break="no"/>ppa-c</l>
+                    <l n="18">ceṅ-kōl ticai toṟuñ cella veṇ-kuṭai</l>
+                    <l n="19">Iru-nila viḷākamum veṅkaṇum tanātu</l>
+                    <l n="20">tiru-niḻal veṇṇalā-t tikaḻ Oru taṉi</l>
+                    <l n="21">mēruviṟ puliviḷaiyāṭa vārkaṭaṟ</l>
+                    <l n="22">tīvān tarattu pūpālar tiṟaiviṭutanta</l>
+                    <l n="23">kalañcorikaḷ irum muṟai niṟpa viḷaṅkiya</l>
+                    <l n="24">teṉṉavan karun talai parun talai-t tiṭattaṉ</l>
+                    <l n="25">poṉ<lb n="4" break="no"/>ṉakar-p puṟatt' iṭai-k kiṭappa In-nāḷ</l>
+                    <l n="26">piṟkula-p piṟai pōl niṟ-piḻai Ennuñ</l>
+                    <l n="27">coll' etir kōṭiṟṟ' allatu taṉkai</l>
+                    <l n="28">vill' etir kōṭā vikkalaṉ kallatar</l>
+                    <l n="29">naṅkili tuṭaṅki maṇalūr naṭu-v-eṉa</l>
+                    <l n="30">tuṅka-pattirai y-aḷav' uṟṟu veṅkaṇum</l>
+                    <l n="31">paṭṭa veṅkaḷiṟum viṭṭa taṉ mānamum</l>
+                    <l n="32">kūṟiṉa vīramum kiṭappa Ēṟiṉa</l>
+                    <l n="33">malaikaḷum mu<lb n="5" break="no"/>tuku neḷippa Iḻinta</l>
+                    <l n="34">natikaḷum cuḻaṉṟuṭain tōṭa viḻun<supplied reason="omitted">ta</supplied></l>
+                    <l n="35">kaṭalkaḷum talaiviri-t talamara kuṭa-ticai-t</l>
+                    <l n="36">tan-nāḷ ukantu tāṉum tāṉaiyum</l>
+                    <l n="37">pannāḷ iṭṭa<unclear>mum</unclear> pala-pala mutukum</l>
+                    <l n="38">paḻi y-ukantu kuṭutta pukaḻiṉ celviyum</l>
+                    <l n="39">vāḷeri oṇkaṇ maṭaṉtaiyar īṭṭamum</l>
+                    <l n="40">miḷātu kuṭutta veṅkari niraiyum</l>
+                    <l n="41">kaṅka-maṇṭalamum</l>
+                    <l n="42">pa<unclear>ra</unclear>ṇi Iraṇṭum Oru-vi<lb n="6" break="no"/>cai-k kai-k-koṇṭu</l>
+                    <l n="43">īṇṭi-p pukaḻoṭum pāṇṭi-maṇṭaḷaṅ</l>
+                    <l n="44">koḷḷa-t tiruvuḷḷatt' aṭaittu veḷḷa</l>
+                    <l n="45">varupaṟi-t taraṅkamum porupari-t talaṅkaḷum</l>
+                    <l n="46">tantira vāriyum Uṭaittāy vantu</l>
+                    <l n="47">vaṭa-kaṭal teṉ-kaṭal pāyvatu pōla-t</l>
+                    <l n="48" enjamb="yes">taṉ peruñ ceṉaiyai <unclear>Evi-p</unclear> pañcavar</l>
+                    <l n="49">ai-y varum poruta pōrkaḷa-t tañci</l>
+                    <l n="50">veru neḷi<choice><orig>ta</orig><reg>ṭa</reg></choice>n toṭi Araṇe<lb n="7" break="no"/><unclear>ṉa-p-pukka</unclear></l>
+                    <l n="51">kāṭaṟa-t tuṭaittu nāṭṭi-p paṭuttu</l>
+                    <l n="52">maṟṟavar tammai vanacarar tiriyum</l>
+                    <l n="53">koṟṟa veñcura meṟṟi koṟṟa</l>
+                    <l n="54">vi<hi rend="grantha">j<choice><orig>ai</orig><reg>a</reg></choice></hi>ya-<hi rend="grantha">sta</hi>mpam ticai toṟum niṟutti</l>
+                    <l n="55">muttin calāpamum mu-t-tamiḻ-p po<unclear>ti</unclear>yilum</l>
+                    <l n="56">mattaveṅ karipaṭu mayya-c ceyyum</l>
+                    <l n="57">kanniyum kai-k-koṇṭ' aruḷi-t tennāṭṭu</l>
+                    <l n="58" enjamb="yes">ellai kāṭṭiya kaṭal-malai nāṭ<lb n="8" break="no"/><gap reason="lost" quantity="2" unit="character"/></l>
+                    <l n="59">taṉi vīcum peṟa</l>
+                    <l n="60">mā-v-eṟiya taṉ varutaṉi-t talai-varai-k</l>
+                    <l n="61">kuṟukalar kulaiya-k koṭṭāṟuṭ-paṭa</l>
+                    <l n="62">neṟi-toṟum nilaikaḷ iṭṭ’ aruḷi tiṟai koḷ</l>
+                    <l n="63">vīra-<hi rend="grantha">si<supplied reason="omitted">ṁ</supplied>hāsa</hi>nam tiriya viṭṭ’ aruḷi</l>
+                    <l n="64">poṅkoḷiyāramum tiru-p-puya-t-talaṅkaḷum pōla</l>
+                    <l n="65">vīramum tiyākamum viḷaṅka pār-micai</l>
+                    <l n="66">mevalar vaṉaṅka vīra-<hi rend="grantha">siṁhā-sa</hi>nattu</l>
+                    <l n="67">viṟṟirun<lb n="9" break="no"/>t' aruḷiya</l>
+                </lg>
+                
+                <p>
+                    kō-v-irāja-kēcari-pa<hi rend="grantha">nma</hi>r-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a cakkara-va<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-kulōttuṅka-cōḻa-<hi rend="grantha">de</hi>vaṟku yāṇṭu
+                    <num value="11"><g type="numeral">10</g> 1</num>-Āvatu <g type="gomutraFinal">.</g>
+                </p>
+                <p>
+                    nitta-vinōta-vaḷa-nāṭṭu kāntāra-nāṭṭu <hi rend="grantha">brahma-de</hi>yam <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">ja</hi>-ma<hi rend="grantha">hentra-c-catur-vedi</hi>-maṅ<unclear>ka</unclear>lattu peruṅ-kuṟi-p-peru-makkaḷōm Ivv-āṭṭai kaṟkaṭaka-nāyaṟṟu <hi rend="grantha">Apara-pakṣa</hi>ttu pa<hi rend="grantha">ñca-deśi</hi>yum nāyiṟṟu-k-kiḻamaiyum Āyi<choice><orig>l</orig><reg>li</reg></choice>yamum peṟṟa Iṉṟu
+                    
+                    <lb n="10" break="no"/><gap reason="lost" quantity="4" unit="character"/> puḷi-v-illi-varai <gap reason="lost" quantity="3" unit="character"/> nallāṉ paṭṭaṅ kuḷa-k-karaiyilē <hi rend="grantha">dhanmi</hi> ceytu peruṅ-kuṟi kūṭi y-iruntu <hi rend="grantha">vyavasthai</hi> paṇṇi nammūr tiru-mēl-kōyil-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">śrī</hi>-mummuṭi-cōḻa-viṇṇakar-āḻvār nilaṅkaḷ Iṟaiyili ceytu kuṭutta paric' āvatu
+                </p>
+                <p>
+                    It-tēvar <hi rend="grantha">śrī</hi>-paṇṭārattu yāṇṭu 2-Āvatu Ā<choice><sic>n</sic><corr>n</corr></choice>i-t-tiṅkaḷ Iṭaṅkai valaṅkai y-āy Ūrum cu
+                    
+                    <lb n="11" break="no"/>ṭum Oṭukki tiru-muṟṟaṅkaḷum Aḻittu tiru-v-urukkaḷum <hi rend="grantha">śrī</hi>-paṇṭāraṅkaḷum kaḷḷar eṭuttu-k koṇṭu
+                    
+                    <list><item>pōy Irunta Iṭattu kaḷḷarkku piḻaitta tiravviyamu<supplied reason="omitted">m</supplied> <hi rend="grantha">srī</hi>-paṇṭārattu Ira<hi rend="grantha">kṣi</hi>kka Uṇṇāmai-y-ālum</item>
+                        
+                        <item>Ūr irukka ci<unclear>lar Ūr</unclear> Eṟum iṭattukku <hi rend="grantha">sabhā</hi>-viniyōkattukku <hi rend="grantha">dravyaṁ</hi> vēṇṭutalālum</item>
+                        
+                        <item>tiru-muṟṟaṅkaḷ aḻivu cora-v-um <hi rend="grantha">puna<supplied reason="omitted">ḥ</supplied>-pratiṣṭ</hi>ai paṇ        
+                            <lb n="12" break="no"/>ṇa-v-u<supplied reason="subaudible">m</supplied> matiḷ <unclear>kaṭṭa-v-um</unclear> vēṇṭutalālum</item></list>
+                    
+                    It-tēvar-k kanmikaḷ pakkal nāṅkaḷ koṇṭa po<choice><orig>n</orig><reg>ṉ</reg></choice>
+                    
+                    <list>
+                        <item> kuṭiñai-k-kallāl Irā<hi rend="grantha">je</hi>ntira-cōḻa<choice><orig>n</orig><reg>ṉ</reg></choice> māṭaikku Arai māṟṟu-t tāḻum po<choice><orig>n</orig><reg>ṉ</reg></choice> Aym-patin kaḻañcum</item>
+                        <item>Ip-po<choice><orig>nn</orig><reg>ṉṉ</reg></choice>ukku palicai y-āka
+                            poliñca po<choice><orig>n</orig><reg>ṉ</reg></choice> Irupat<unclear>t' ayṅ</unclear>-kaḻañcum Āka-p</item>
+                    </list>
+                    po<choice><orig>n</orig><reg>ṉ</reg></choice> Eḻupat<unclear>t' a</unclear>yṅ
+                    <lb n="13" break="no"/>-kaḻañcum       
+                </p>
+                <p>
+                    palicai polinta po<choice><orig>n</orig><reg>ṉ</reg></choice> Irupatt' aiy-kaḻañcum Āka-p po<choice><orig>n</orig><reg>ṉ</reg></choice> Eḻupatt' aiyṅ-kaḻañcil yāṇṭu m<choice><sic>u</sic><corr>ū</corr></choice>ṉṟ-āvatu tiru-muṟṟam Aḻivu cora-v-um puna<hi rend="grantha"><supplied reason="omitted">ḥ</supplied>-pratiṣṭhai</hi> paṇṇa-v-um kuṭutta po<choice><orig>n</orig><reg>ṉ</reg></choice> Ayṅ-kaḻañcu n<choice><orig>i</orig><reg>ī</reg></choice>kki-p
+                    po<choice><orig>n</orig><reg>ṉ</reg></choice> Eḻupati<choice><orig>n</orig><reg>ṉ</reg></choice> kaḻañcukkum cantirātitta-vaṟ Iṟaiyili ceytu kuṭutta nilaṅkaḷ āvatu
+                </p>
+                
+                <p>        
+                    
+                    <list>
+                        <item>
+                            <hi rend="grantha">trai-lo</hi>
+                            <lb n="14" break="no"/>kkiya-mā-tēvi-vatikku kiḻakkum viknēcuvara-vāy-k-kālukku vaṭakkum mutaṟ kaṇṇāṟṟu mutaṟ catirattu cūḻnta vilai-nilam Ēḻu mākkāṇi-c cinnattil kiḻakk' aṭaiya nila<supplied reason="subaudible">m</supplied> mākāṇi-c cinnamum I-t-tēvar ciy-paṇṭārattu-p <surplus>po<choice><orig>n</orig><reg>ṉ</reg></choice> kuṭuttu-p</surplus> po<choice><orig>n</orig><reg>ṉ</reg></choice> kuṭuttu-k koṇṭatu kuṇṭ<choice><orig>u</orig><reg>ū</reg></choice>r nilam kuḻi <gap reason="lost" quantity="3" unit="character"/> pakkal koṇṭa<surplus>tu</surplus> Iṅkē Iraṇṭāñ catirattu-t tani nilam mu        
+                            <lb n="15" break="no"/>ntirikaiyum
+                        </item>
+                        
+                        <item>
+                            Iṅkē-y <hi rend="grantha">trai</hi>-lokkiya-mā-tevi-vatikku kiḻakku mummuṭi-cōḻa-vāykkālukku vaṭakku Eḻāṅ kaṇṇāṟṟu mutal catirattu-k kiḻakk' aṭaiya nilam m<choice><sic>u</sic><corr>ū</corr></choice>nṟu māvil Itaṉ mēṟku nilam vempūr pōca<choice><orig>n</orig><reg>ṉ</reg></choice> viṉaiya-<hi rend="grantha">dā</hi>ma-paṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice> pakkal tēvar ci-paṇṭārattu-p po<choice><orig>n</orig><reg>ṉ</reg></choice> kuṭuttu-k koṇṭa nilam Oru mā
+                            <lb n="16"/><unclear>muntirikaiyum</unclear>
+                        </item>
+                        
+                        <item>
+                            Inkē Eṭṭāṅ kaṇṇāṟṟu Iraṇṭāñ catirattu mēṟk' aṭaiya nilam Oru mā-varai-c cinnattil Itiṉ kiḻakku nilam mukkāṇi-c cinnattil vaṭakk' aṭaiya natta-nilam kāṇi muntirikai-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-k kāli<choice><orig>n</orig><reg>ṉ</reg></choice> mēṟk' aṭaiya nilam Arai-k-kāṇi n<choice><orig>i</orig><reg>ī</reg></choice>kki mēṟ-paṭiyāṉ pakkal-<surplus>k</surplus> koṇṭa nilam muntirikaiyum
+                        </item>
+                        <item>
+                            lōka-mā-tēvi-vatikku meṟku mum        
+                            <lb n="17" break="no"/>muṭi-cōḻa-vāy-k-kālukku vaṭakkum Añcāṅ kaṇṇāṟṟu mutaṟ catirattu vaṭa-mēṟk' aṭaiya nilam kāṇi muntirikai-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ araiyil kiḻakk' aṭaiya nilam Arai-k-kāṇi muntirikaiyum</item></list>
+                    Āka
+                    nilam m<choice><sic>u</sic><corr>ū</corr></choice>nṟu mā muntirikaiyum</p> 
+                
+                <p>
+                    Ivv-āṇṭu mutal ca<hi rend="grantha">ntrā</hi>titta-vaṟ tēvar taṅkaḷ pa<choice><orig>nn</orig><reg>ṉṉ</reg></choice>iraṇṭ’ āntarattilē Iṟai Iṟukka nāṅkaḷ Ivv-āḻvār ciy-paṇṭārat        
+                    <lb n="18" break="no"/>tu nāṅkaḷ koṇṭa poṉ<choice><orig>n</orig><reg>ṉ</reg></choice>ukkum palicaikkum c<choice><sic>i</sic><corr>e</corr></choice>lav' āka
+                    In-nilattāl vanta peru-vari<surplus>y</surplus>yum ma<unclear>ñ</unclear>cikkamum cila-variyum veḷḷān-veṭṭiyum makamaiyum paṇṭai-veṭṭiyum Antarāyamum kulai-kurampum Eccōṟum cūṟṟ-ariciyum Ūrāṭṭu variyum Uḷḷiṭṭa tiru-vācalil pōnta <unclear>kaṭamai</unclear>yum maṟṟum E
+                    
+                    <lb n="19" break="no"/>p-peṟpaṭṭat’ ellām nāṅkalēy Iṟukka-k kaṭavōm āka
+                    In-nilaṅkaḷ ca<hi rend="grantha">ntrā</hi>titta-vaṟ Iṟaiyiliyē Anupavikka peṟuvār ākavum
+                </p>
+                
+                <p>
+                    I-<hi rend="grantha">pra</hi>māṇa-p paṭiyē tēvar-kanmikaḷ kallilum cempilum veṭṭu-vittu-k koḷḷa-p peṟuvārkaḷ ākavum
+                </p>
+                
+                <p>
+                    Ip-paṭikku In-nilaṅkaḷ cantirātitta-vaṟ Iṟaiyili ceytu kuṭuttōm peruṅ-kuṟi peru-makkalōm <g type="dash">.</g>
+                </p>
+                
+                <p>        
+                    <lb n="20"/>Ip-paricu <hi rend="grantha">sabhai</hi>y-uḷ i<supplied reason="omitted">ru</supplied>ntu karai-p pōntu paṇittār 
+                    
+                    <list>
+                        <item><hi rend="grantha">śrī-rājentra</hi>-cōḻa-c-cēri-kalikkili-maṅkalattu kaṭampan tiru-virām-icuvara-paṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice> paṇiyālum</item>
+                        <item>rā<hi rend="grantha">ja</hi>-ma<hi rend="grantha">hentra</hi>-c-cēri kirāmpi-c-ceṭṭu U<unclear>ru</unclear><hi rend="grantha"><unclear>dra</unclear></hi>-nārāyaṇa-<hi rend="grantha">bha</hi>ṭṭan paṇiyālum</item>
+                        <item>mummuṭi-cōḻa-c-cēri nampūr-k kāṭṭukkai vira-nāta-pa<hi rend="grantha">nma-bha</hi>ṭṭar paṇiyālum</item>
+                        <item>vikkirama-ciṅka-c-cēri kuṇṭūr ca<hi rend="grantha">ntra-kṛṣṇa</hi>ṉ paṭṭaṉ paṇiyālum</item>
+                        <item><hi rend="grantha">tri-bhu</hi>vana-mā        
+                            <lb n="21" break="no"/>tevi-c-cēri Irāyūr kēcuva-paṭṭar paṇiyālum</item>
+                        <item>Irā<hi rend="grantha">jādhirāja</hi>-c-cēri Irāyūr-t tiru-varaṅka-tēva-<hi rend="grantha">daśa-pri</hi>ya-paṭṭan paṇiyālum</item></list>
+                </p>
+                
+                <p>
+                    <list>
+                        <item>Ivai ceyya tāmarai-k-kaṇṇaṉ tiru-vāy-k-kulam-uṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">śrī</hi>-rāma-<hi rend="grantha">pri</hi>ya<choice><orig>n</orig><reg>ṉ</reg></choice> eḻuttu <g type="gomutraFinal">.</g></item>
+                        <item>Ip-paṭikku kuṇṭ<choice><orig>u</orig><reg>ū</reg></choice>r kau<hi rend="grantha">śi</hi>ka-<hi rend="grantha">bha</hi>ṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="gomutraFinal">.</g></item>
+                        <item>                        
+                            Ip-paṭikku kuṇṭ<choice><orig>u</orig><reg>ū</reg></choice>r rāmi<hi rend="grantha"><unclear>śva</unclear></hi><unclear>ra</unclear><choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="gomutraFinal">.</g></item>
+                        <item>
+                            Ip-paṭikku kuṇṭ<choice><orig>u</orig><reg>ū</reg></choice>r keraṉa-paṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice>
+                        </item>
+                        <item>
+                            Ip-paṭikku vaṅki-p-puṟa        
+                            <lb n="22" break="no"/>ttu coṭṭa-<hi rend="grantha">bhoja</hi><choice><orig>n</orig><reg>ṉ</reg></choice> tiru-veṇkāṭu-pa<hi rend="grantha">ṭṭa</hi><choice><orig>n</orig><reg>ṉ</reg></choice> eḻuttu <g type="gomutraFinal">.</g></item>
+                        <item>
+                            I<hi rend="grantha">ttham· vigatam·</hi> kau<hi rend="grantha">śi</hi>kā<hi rend="grantha">nvayajā</hi>tena <hi rend="grantha">bhava-svāmi-sū</hi>nunā<surplus>ya</surplus> <hi rend="grantha">caṁdra-kumare</hi><supplied reason="omitted">ṇa</supplied> <g type="gomutraFinal">.</g>
+                        </item>
+                        <item>
+                            Ip-paṭikku <hi rend="grantha">hā</hi>rita-ti<hi rend="grantha">lośana</hi>-paṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="gomutraFinal">.</g>
+                        </item>
+                        <item>
+                            <hi rend="grantha">Ittha<unclear>m·</unclear> vidantavotṭha</hi>na-<hi rend="grantha">śrī-k<choice><sic>ra</sic><corr>ṛ</corr></choice>ṣṇa</hi>nā<hi rend="grantha">dam·</hi> <g type="gomutraFinal">.</g>
+                        </item>
+                        <item>
+                            Ip-patikku piṟāntūr tiru-nāṭuṭaiyā<choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="gomutraFinal">.</g> <gap reason="lost" quantity="5" unit="character"/></item>
+                        <item>
+                            <lb n="23"/><hi rend="grantha">svāmi-pāda-catur-veta</hi>-paṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="gomutraFinal">.</g>
+                        </item>
+                    </list>
+                </p>
+                
+                <p>
+                    <list>
+                        <item>Ip-pati Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> Uṟu<hi rend="grantha">pu</hi>ṭṭūr kē<hi rend="grantha">śa</hi>va-<hi rend="grantha">nārā</hi>yaṇa-paṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="gomutraFinal">.</g></item>
+                        <item>Ip-pati Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> ceṭṭi-<hi rend="grantha">bhoja</hi><choice><orig>n</orig><reg>ṉ</reg></choice> pa<hi rend="grantha">ra-vāsu-de</hi>va-paṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice>ṉ <g type="gomutraFinal">.</g></item>                  
+                        <item>Ip-pati Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha"><unclear>sakasai</unclear></hi> <hi rend="grantha">somāditya-daśapriya</hi>-paṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="gomutraFinal">.</g></item>
+                        <item>Ip-pati Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> kāram<surplus><hi rend="grantha">m·</hi></surplus>piceṭṭu <hi rend="grantha"><unclear>drāgakai</unclear> śrī-kṛṣṇa-bha</hi>ṭṭan makaṉ <hi rend="grantha">s<choice><sic>u</sic><corr>ū</corr></choice>riya-bha</hi>ṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="gomutraFinal">.</g></item>
+                        <item><lb n="24"/>ti<hi rend="grantha">mma</hi>yar vinayatā-<hi rend="grantha">śarmmaṇātre</hi>ya-<hi rend="grantha">gotre</hi> <g type="gomutraFinal">.</g></item>
+                        <item><hi rend="grantha">Ittham· vigatam· bhara-dvāja-gotreṇa kumāra</hi>-paṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="ddanda">.</g></item>
+                        <item><hi rend="grantha">Ittham· vigatam· kuṇthanya-gotreṇa vaina</hi> <gap reason="lost" unit="character" quantity="5"/> kurava-c-cēri vi<hi rend="grantha">pranāta-bha</hi>ṭṭa<hi rend="grantha">sya</hi> <g type="ddanda">.</g></item>
+                        <item>Ip-patikku <hi rend="grantha">śrī-k<choice><sic>ra</sic><corr>ṛ</corr></choice>ṣṇa-deśa-priya-bhaṭṭasya</hi> <g type="ddanda">.</g></item>
+                        <item>Ip-patikku kurava-c-cēri <gap reason="lost" unit="character" quantity="4"/> <unclear>nanti</unclear>-<hi rend="grantha">bha</hi>ṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="gomutraFinal">.</g></item>
+                        <item>Ip-patikku <hi rend="grantha">dveya-gom</hi>a-puṟattu <g type="dash"/>                
+                            <lb n="25"/>cakara-pāṇi-<hi rend="grantha">c-ca</hi>tu<hi rend="grantha">rve</hi>ti-pa<hi rend="grantha">ṭṭasya</hi><g type="ddanda">.</g></item>
+                        <item>Ip-pati Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">bhara-dvāji-viṣṇu-sarmma</hi>ṇena <g type="danda">.</g></item>
+                        <item>Ip-pati Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">bhara-dvāja-gotreṇa tri</hi>-vikkira<surplus>ma</surplus>-paṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice></item>
+                        <item><unclear>Ip-pati</unclear> Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> ma<hi rend="grantha">dhu-sūdha</hi>na<choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="ddanda">.</g></item>
+                        <item>Ip-pati Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">dāmodara-bha</hi>ṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="gomutraFinal">.</g></item>
+                        <item>Ip-pati Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">daśa-priya-bha</hi>ṭṭa<choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="gomutraFinal">.</g></item>
+                        <item>Ip-pati Aṟivē<choice><orig>n</orig><reg>ṉ</reg></choice> kuravaicari                
+                            <lb n="26"/><hi rend="grantha">bhārggavan l<choice><orig>o</orig><reg>a</reg></choice>kṣma</hi>ṇ<choice><orig>e</orig><reg>a</reg></choice><choice><orig>nen</orig><reg>ṉēṉ</reg></choice> <g type="ddanda">.</g></item>
+                    </list> 		
+                </p>
+                
+                <ab>
+                    <hi rend="grantha">svasti</hi>
+                </ab>
+                
+            </div>
             
-            <list>
-                <item>by order of Katampaṉ ...;</item>
-                <item>by order of Rudranārāyaṇabhaṭṭa ...;</item>
-                <item>...</item>
-            </list>
-        
-        </p>
-         
-        <p n="21-23">
-            <supplied reason="subaudible">List of signatories</supplied>
+            <div type="apparatus">
+                <listApp>
+                    
+                    <app loc="1">
+                        <lem>pō<lb n="2" break="no"/>r-p-pari</lem>
+                        <rdg source="bib:Narasimhaswamy1982_01"/>
+                        <note>Probably read <foreign>pōr-p-parai</foreign><!--Check!-->.</note>
+                    </app>
+                    
+                    <app loc="17">
+                        <lem>nilam Araikkāṇi</lem>
+                        <rdg source="bib:Narasimhaswamy1982_01">nilam <supplied reason="omitted">m</supplied> Araikkāṇi</rdg>
+                    </app>
+                    
+                </listApp>
+            </div>
             
-            <list>
-                <item>...;</item>
-                <item>...;</item>
-                <item>...</item>
-            </list>
-        </p>
-         
-        <p n="21-23">
-            <supplied reason="subaudible">List of witnesses</supplied>
+            <div type="translation" resp="part:doop part:emfr">
+                
+                <p n="01-04">
+                    Inscription of the glorious Rājamahendracaturvedimaṅgalam<note>See <ptr target="bib:Narasimhaswamy1982_01"/> (p. 55, fn. 1): <quote>The following lines are engraved on the margin of the record on the left of lines 1-4.</quote></note>
+                </p>
+                
+                <p n="1">
+                    Prosperity! Fortune!		
+                </p>
+                
+                <p n="9">
+                    Year 11th of the emperor, the glorious king Kulottuṅga Cōḻa <hi rend="italic">alias</hi> the king Rājakesarivarman,
+                </p>
+                
+                <p n="1-9">
+                    who <gap reason="ellipsis"/> [<foreign>meykkīrtti</foreign> of Kulottuṅga I Cōḻa]
+                </p>
+                
+                <p n="9-10">
+                    This is the manner in which
+                    we, the great men of the great assembly of Śrīrājamahentracaturvedi maṅgalam, which is a <foreign>brahmadeya</foreign> in Kāntāranāṭu, within Nittavinōtavaḷanāṭu,
+                    
+                    on this day, which coincides with Āyiliyam star, a Sunday, the 15th day of the dark fortnight of the month of Kaṟkaṭaka
+                    
+                    having blowed the conch <supplied reason="explanation"><foreign>dhanmi ceytu</foreign></supplied>, having gathered a big assembly and sit, and having made a
+                    resolution <supplied reason="explanation"><foreign>vyavasthai paṇṇi</foreign></supplied> on the bank of the tank <gap reason="lost"/>,
+                    
+                    have given lands, having made them tax-free <supplied reason="explanation"><foreign>iraiyili ceytu</foreign></supplied>, <supplied reason="subaudible">to</supplied>
+                    Śrī Mummuṭi Cōḻa, god of the Viṣṇu temple <hi rend="italic">alias</hi> the glorious Western temple in our village.
+                    
+                </p>
+                
+                <p n="10-12">
+                    During the month of Āṉi, on the 2nd year <supplied reason="subaudible">of this king</supplied>, while the Right-hand and Left-hand communities brought down the village and the <seg rend="check">ground</seg> <supplied reason="explanation"><foreign>cuṭum</foreign></supplied>,<note>Probably an abbreviation for <foreign>cuṭu-kāṭum</foreign>.</note> and destroyed the courtyards of the temple, thieves stole the sacred idols <supplied reason="explanation"><foreign>tiru-v-urukkalum</foreign></supplied> and treasures from the glorious treasury of this god.
+                    
+                    <list>
+                        <item>Since it was not possible <supplied reason="explanation"><foreign>uṇṇāmai-y-ālum</foreign></supplied> to protect the glorious treasury and the gold  <supplied reason="explanation"><foreign>tiraviyam</foreign></supplied> from the thieves in the place where they had been kept,</item>
+                        <item>since some of the villagers need resources for the expenditures of the assembly <supplied reason="explanation"><foreign>sabha-viniyōkattukku</foreign></supplied>,</item>
+                        <item>since there is need to repair the destruction of the courtyards, to make a new installation <supplied reason="subaudible">of the idols</supplied>, and to construct a wall,</item>
+                    </list>
+                    the gold that we obtained from the temple officers of this god <supplied reason="subaudible">is</supplied>
+                    <list>
+                        <item>fifty <foreign>kaḻañcu</foreign>s <gap reason="ellipsis"/> <seg rend="check"><supplied reason="explanation"><foreign>Arai māṟṟu-t tāḻum</foreign></supplied></seg> per gold coin <supplied reason="explanation"><foreign>māṭai</foreign></supplied> of Rājēndracōḻa according to <foreign>kuṭiñaikkal</foreign> standard,</item>
+                        <item>twenty-five <foreign>kaḻañcu</foreign>s of gold that were released on the interests from these,</item>                
+                    </list>
+                    <supplied reason="subaudible">that is,</supplied> seventy-five <foreign>kaḻañcu</foreign>s.
+                </p>
+                
+                <p n="13-17">
+                    There are lands which <supplied reason="subaudible">we</supplied> have given, having made them tax-free as long as the moon and the sun endure, for the seventy <foreign>kaḻañcu</foreign>s of gold <supplied reason="subaudible">that remained</supplied> from the seventy-five <foreign>kaḻañcu</foreign>s <supplied reason="subaudible">that included</supplied> twenty-five <foreign>kaḻañcu</foreign>s of gold released on interests, after having removed <supplied reason="explanation"><foreign>nīkki</foreign></supplied> five <foreign>kaḻañcu</foreign>s of gold that we had given on the 3rd <supplied reason="subaudible">regnal</supplied> year to repair the destruction of the courtyard and make the new installation <supplied reason="subaudible">of the deity</supplied>, that is:
+                </p>
+                
+                <p n="13-17">
+                    <supplied reason="subaudible">Description of the lands</supplied>
+                    <list>
+                        <item>...</item>
+                        <item>...</item>
+                        <item>...</item>
+                        <item>...</item>
+                        <item>...</item>
+                    </list>
+                </p>
+                
+                <p n="17-19">
+                    In this manner, starting from this year, we, the great people of the great assembly, have granted these lands tax-free as long as the moon and the sun endure,
+                    
+                    <list>
+                        <item>so that there is an income <supplied reason="explanation"><foreign>celavu</foreign></supplied> from the interests and from the gold that we got from the glorious treasury of this god as long as the moon and the sun endure,</item>
+                        <item>so that these lands shall be enjoyed as tax-free as long as the moon and the sun endure, as we shall continue to collect all these kinds <supplied reason="subaudible">of taxes and dues</supplied> that come from these lands, which include major taxes <supplied reason="explanation"><foreign>peru-vari</foreign></supplied>, <foreign>mañcikkam</foreign> tax, minor taxes <supplied reason="explanation"><foreign>cila-vari</foreign></supplied>, <foreign>veḷḷān-veṭṭi</foreign> tax, contributions in grain <supplied reason="explanation"><foreign>makamai</foreign></supplied>, <foreign>paṇṭai-veṭṭi</foreign> tributes, internal temple revenues <supplied reason="explanation"><foreign>antarāyam</foreign></supplied>, and <foreign>kulai-kurampu</foreign> tributes; others <supplied reason="subaudible">include</supplied> the provision of cooked rice <supplied reason="explanation"><foreign>eccōṟu</foreign></supplied>, tax for husking paddy into rice <supplied reason="explanation"><foreign>kuṟṟ-arici</foreign></supplied>, tax on village sheep <supplied reason="explanation"><foreign>ūrāṭṭu-vari</foreign></supplied>, obligatory duties to be performed at the temple gate <supplied reason="explanation"><foreign>tiru-vācalil pōnta kaṭamai</foreign></supplied>,</item>
+                        <item>so that the temple officers should obtain to have <supplied reason="subaudible">this agreement</supplied> engraved on stone and copper according to this <supplied reason="subaudible">agreement</supplied>.</item>
+                    </list>
+                </p>
+                
+                <p n="20-21">
+                    In this manner, sitting in assembly, those who ordered <supplied reason="subaudible">so</supplied> having reached the bank <supplied reason="subaudible">of the tank</supplied>:
+                    
+                    <list>
+                        <item>by order of Katampaṉ ...;</item>
+                        <item>by order of Rudranārāyaṇabhaṭṭa ...;</item>
+                        <item>...</item>
+                    </list>
+                    
+                </p>
+                
+                <p n="21-23">
+                    <supplied reason="subaudible">List of signatories</supplied>
+                    
+                    <list>
+                        <item>...;</item>
+                        <item>...;</item>
+                        <item>...</item>
+                    </list>
+                </p>
+                
+                <p n="21-23">
+                    <supplied reason="subaudible">List of witnesses</supplied>
+                    
+                    <list>
+                        <item>...;</item>
+                        <item>...;</item>
+                        <item>...</item>
+                    </list>
+                </p>
+                
+            </div>
             
-            <list>
-                <item>...;</item>
-                <item>...;</item>
-                <item>...</item>
-            </list>
-        </p>
-        
-    </div>
-	
-<!--<div type="commentary">		
-		
-</div>-->
-	
-<div type="bibliography">
-		
-    <p>Reported in <bibl><ptr target="bib:ARIE1936-1937"/></bibl> (ARIE/1936-1937/B/1936-1937/31).</p>
-    <p>Edited in <bibl><ptr target="bib:Narasimhaswamy1982_01"/></bibl> (SII 24.53).</p>
-    <p>This digital edition by Dorotea Operato and Emmanuel Francis, based on <bibl><ptr target="bib:Narasimhaswamy1982_01"/></bibl>.</p>
-    
-    <listBibl type="primary">
-        
-        <bibl n="SII">
-            <ptr target="bib:Narasimhaswamy1982_01"/>
-            <citedRange unit="page">53-55</citedRange>
-            <citedRange unit="item">53</citedRange>
-        </bibl>
-    </listBibl>
-    
-    <listBibl type="secondary">
-        
-        <bibl>
-            <ptr target="bib:ARIE1936-1937"/>
-            <citedRange unit="page">11</citedRange>
-            <citedRange unit="appendix">B/1936-1937</citedRange>
-            <citedRange unit="item">31</citedRange>
-        </bibl>
-        
-        <bibl>
-            <ptr target="bib:NilakantaSastri1955_01"/>
-            <citedRange unit="page">551</citedRange>
-        </bibl>
+            <!--<div type="commentary">		
+                
+                </div>-->
             
-    </listBibl>
-    
-</div>
-</body>
-</text>
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1936-1937"/></bibl> (ARIE/1936-1937/B/1936-1937/31).</p>
+                <p>Edited in <bibl><ptr target="bib:Narasimhaswamy1982_01"/></bibl> (SII 24.53).</p>
+                <p>This digital edition by Dorotea Operato and Emmanuel Francis, based on <bibl><ptr target="bib:Narasimhaswamy1982_01"/></bibl>.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:Narasimhaswamy1982_01"/>
+                        <citedRange unit="page">53-55</citedRange>
+                        <citedRange unit="item">53</citedRange>
+                    </bibl>
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1936-1937"/>
+                        <citedRange unit="page">11</citedRange>
+                        <citedRange unit="appendix">B/1936-1937</citedRange>
+                        <citedRange unit="item">31</citedRange>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:NilakantaSastri1955_01"/>
+                        <citedRange unit="page">551</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
 </TEI>

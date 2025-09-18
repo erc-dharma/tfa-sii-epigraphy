@@ -5,171 +5,172 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-			    <title>Guḍimallūr, Bhūmīśvara temple, time of Ariyaṇa-Uḍaiyar, Tuntumi year</title>
-				<respStmt>
-				    <resp>author of digital edition</resp>
-					<persName ref="part:doop">
-						<forename>Dorotea</forename>
-						<surname>Operato</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-		    <publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INStfaSIIv41p0i0204</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-					    <summary>Refers to a quarrel between the Right and Left hand castes which lasted for four years.</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-						    <p>No distinction between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union's Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:doop" when="2025-02-11">Creation of the file on the
-				repository</change>
-		</revisionDesc>
-	</teiHeader>
-
-<text xml:space="preserve">
-
-    <body>	
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-				
-    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-        <lb n="1"/>svasti śrī
-    </ab>
-    <p>Ari<reg>ya</reg>ṇa Uṭaiyārkku cellā niṉṟa <unclear>tu</unclear>mtumi varu
-        
-        <lb n="2" break="no"/><hi rend="bold">ṣa</hi>m tai mātam mutal tiyati
-    </p>
-    <p>
-        valliyūr Uṭaiyār ma<supplied reason="omitted">ṇ</supplied>ṇai-nāyanār
-        <lb n="3"/>k<choice><orig>o</orig><reg>ō</reg></choice>yil tānattār<choice><orig>o</orig><reg>ō</reg></choice>m Iṉ-ṉāyanār <unclear>ti</unclear>ru-maṭai-viḷākattil
-        
-        <lb n="4"/><unclear>ka</unclear>varipiṇā poṟk<choice><orig>o</orig><reg>ō</reg></choice>yil kaikk<choice><orig>o</orig><reg>ō</reg></choice>ḷaṟakku Aṟu<unclear>ti</unclear> paṇṇi-k kuṭutta
-        
-        <lb n="5"/><unclear>paṭi</unclear>
-    </p>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Guḍimallūr, Bhūmīśvara temple, time of Ariyaṇa-Uḍaiyar, Tuntumi year</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:doop">
+                        <forename>Dorotea</forename>
+                        <surname>Operato</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INStfaSIIv41p0i0204</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Refers to a quarrel between the Right and Left hand castes which lasted for four years.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:doop" when="2025-02-11">Creation of the file on the
+                repository</change>
+        </revisionDesc>
+    </teiHeader>
     
-    <p>
-    	<list>
-    		<item>Iv-ūr valaṅkai Iṭaṅkai ciluk' āy nālu-varu<hi rend="grantha">ṣa</hi>m pāḻ-<unclear>ki</unclear>ṭakkaiyil
-        <lb n="6"/><supplied reason="omitted">ku</supplied>ṭi Ēṟa-k-kaṭavarkaḷ Ākavum</item>       
-        <item>kuṭi Ēṟi Iṭattu taṟi-k-kaṭamai-vācal paṇam
+    <text xml:space="preserve">
         
-        <lb n="7"/>Aiñcu paṇam koḷḷa-k-kaṭavatu Ākavum</item></list>
-    </p>
-    
-    <p>        
-        paṭṭaṭai nāṇayattuku pattil
-        
-        <lb n="8"/>Aiñcu māṉiyattu Āṇṭu Oṉṟukku taṟi Oṉṟukku Oru paṇam ko<unclear>ḷḷavum</unclear>  
-        <lb n="9"/>maṟṟum Uḷḷa cakala Upātikaḷum Uṭpaṭa Āṇṭ’ oṉṟukku taṟi Oṉṟukku     
-    </p>
-</div>
-	
-<div type="translation" resp="part:doop">
-		
-    <p n="1">
-        Prosperity! Fortune!		
-    </p>
-    
-    <p n="1-2">On the first lunar day of the month of Tai in the year Dundubhi, durig the reign of Ariyaṇa Uṭaiyār,</p>
-<p n="3-4"><unclear>this is the manner in which</unclear> we, the executors of temple endowments at the temple of god Maṇṇai who owns Valliyūr, have drafted and issued an order in the area surrounding the glorious temple <supplied reason="explanation"><foreign>tiru-maṭai-viḷākattil</foreign></supplied> of this god, for the temple functionaries and trustees <supplied reason="explanation"><foreign>kavarppiṇā, porkoyil kaikkōlarkku</foreign></supplied></p>
-	<p n="5-9">
-		<list>
-			<item>so that those who have assembled in Pāḻkiṭakkail <supplied reason="subaudible">during the past</supplied> four years, that is during the dispute <supplied reason="explanation"><foreign>ciluku</foreign></supplied> between the Right-hand and Left-hand castes of this village, shall remain <supplied reason="explanation"><foreign>ēṟa-k-kaṭavarkaḷ</foreign></supplied> <supplied reason="subaudible">there</supplied></item>
-			<item>and so that those who assembled and reside in this place shall collect five <foreign>paṇam</foreign>s <supplied reason="subaudible">for</supplied> taxes on looms <supplied reason="explanation"><foreign>taṟi-kaṭamai</foreign></supplied> <supplied reason="subaudible">and</supplied> dues at the place gate <supplied reason="explanation"><foreign>vācal paṇam</foreign></supplied>.</item>
-		</list>
-		In the five low-rent lands <supplied reason="explanation"><foreign>māṉiyattil</foreign></supplied> in the village, one <foreign>paṇam</foreign> per one loom <supplied reason="explanation"><foreign>taṟi</foreign></supplied> shall be collected per year for tax on trade <supplied reason="explanation"><foreign>paṭṭaṭai nāṇayattuku</foreign></supplied>. <gap reason="lost"/>per one loom per year, including all the other dues <supplied reason="explanation"><foreign>cakala upātikaḷum</foreign></supplied> that exist <gap reason="lost"/>.
-  </p>
-    <p n="9">...<note>The rest of the inscription is built in.</note></p>
-    
-</div>
-	
-	<div type="commentary">			
-<p>This inscription is incomplete.</p>
-<p>Tuntumi year = year 1382 (Śaka 1304)  according to  <bibl><ptr target="bib:Rajagopal2019_01"/></bibl>; Śaka year 1305 according to <bibl><ptr target="bib:ARIE1905-1906"/></bibl></p>
-</div>
-        
-        <div type="apparatus">               
-            <listApp>
-                 <app loc="1">
-            <lem>tumtumi</lem>
-            <rdg source="bib:Rajagopal2019_01"/>
-            <note>Probably read <foreign>tuntupi</foreign>.</note>
-        </app>	
-            </listApp>
-        </div>
-
-	
-	<div type="bibliography">
-		<p>Reported in <bibl><ptr target="bib:ARIE1905-1906"/></bibl> (ARIE/1905-1906/B/1905/422).</p>
-		<p>Edited in <bibl><ptr target="bib:Rajagopal2019_01"/></bibl> (SII 41.204).</p>
-		<p>This digital edition by Dorotea Operato, based on <bibl><ptr target="bib:Rajagopal2019_01"/></bibl>.</p>
-		
-		<listBibl type="primary">
-			<bibl n="SII">
-				<ptr target="bib:Rajagopal2019_01"/>
-				<citedRange unit="page">231</citedRange>
-				<citedRange unit="item">204</citedRange>
-			</bibl>
-		</listBibl>
-		
-		<listBibl type="secondary">
-			<bibl>
-				<ptr target="bib:ARIE1905-1906"/>
-				<citedRange unit="page">27</citedRange>
-				<citedRange unit="appendix">B/1905</citedRange>
-				<citedRange unit="item">422</citedRange>
-			</bibl>
-		</listBibl>
-	</div>
-</body>
-</text>
+        <body>	
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                
+                <p>Ari<reg>ya</reg>ṇa Uṭaiyārkku cellā niṉṟa <unclear>tu</unclear>mtumi varu
+                    
+                    <lb n="2" break="no"/><hi rend="bold">ṣa</hi>m tai mātam mutal tiyati
+                </p>
+                <p>
+                    valliyūr Uṭaiyār ma<supplied reason="omitted">ṇ</supplied>ṇai-nāyanār
+                    <lb n="3"/>k<choice><orig>o</orig><reg>ō</reg></choice>yil tānattār<choice><orig>o</orig><reg>ō</reg></choice>m Iṉ-ṉāyanār <unclear>ti</unclear>ru-maṭai-viḷākattil
+                    
+                    <lb n="4"/><unclear>ka</unclear>varipiṇā poṟk<choice><orig>o</orig><reg>ō</reg></choice>yil kaikk<choice><orig>o</orig><reg>ō</reg></choice>ḷaṟakku Aṟu<unclear>ti</unclear> paṇṇi-k kuṭutta
+                    
+                    <lb n="5"/><unclear>paṭi</unclear>
+                </p>
+                
+                <p>
+                    <list>
+                        <item>Iv-ūr valaṅkai Iṭaṅkai ciluk' āy nālu-varu<hi rend="grantha">ṣa</hi>m pāḻ-<unclear>ki</unclear>ṭakkaiyil
+                            <lb n="6"/><supplied reason="omitted">ku</supplied>ṭi Ēṟa-k-kaṭavarkaḷ Ākavum</item>       
+                        <item>kuṭi Ēṟi Iṭattu taṟi-k-kaṭamai-vācal paṇam
+                            
+                            <lb n="7"/>Aiñcu paṇam koḷḷa-k-kaṭavatu Ākavum</item></list>
+                </p>
+                
+                <p>        
+                    paṭṭaṭai nāṇayattuku pattil
+                    
+                    <lb n="8"/>Aiñcu māṉiyattu Āṇṭu Oṉṟukku taṟi Oṉṟukku Oru paṇam ko<unclear>ḷḷavum</unclear>  
+                    <lb n="9"/>maṟṟum Uḷḷa cakala Upātikaḷum Uṭpaṭa Āṇṭ’ oṉṟukku taṟi Oṉṟukku     
+                </p>
+            </div>
+            
+            <div type="translation" resp="part:doop">
+                
+                <p n="1">
+                    Prosperity! Fortune!		
+                </p>
+                
+                <p n="1-2">On the first lunar day of the month of Tai in the year Dundubhi, durig the reign of Ariyaṇa Uṭaiyār,</p>
+                <p n="3-4"><unclear>this is the manner in which</unclear> we, the executors of temple endowments at the temple of god Maṇṇai who owns Valliyūr, have drafted and issued an order in the area surrounding the glorious temple <supplied reason="explanation"><foreign>tiru-maṭai-viḷākattil</foreign></supplied> of this god, for the temple functionaries and trustees <supplied reason="explanation"><foreign>kavarppiṇā, porkoyil kaikkōlarkku</foreign></supplied></p>
+                <p n="5-9">
+                    <list>
+                        <item>so that those who have assembled in Pāḻkiṭakkail <supplied reason="subaudible">during the past</supplied> four years, that is during the dispute <supplied reason="explanation"><foreign>ciluku</foreign></supplied> between the Right-hand and Left-hand castes of this village, shall remain <supplied reason="explanation"><foreign>ēṟa-k-kaṭavarkaḷ</foreign></supplied> <supplied reason="subaudible">there</supplied></item>
+                        <item>and so that those who assembled and reside in this place shall collect five <foreign>paṇam</foreign>s <supplied reason="subaudible">for</supplied> taxes on looms <supplied reason="explanation"><foreign>taṟi-kaṭamai</foreign></supplied> <supplied reason="subaudible">and</supplied> dues at the place gate <supplied reason="explanation"><foreign>vācal paṇam</foreign></supplied>.</item>
+                    </list>
+                    In the five low-rent lands <supplied reason="explanation"><foreign>māṉiyattil</foreign></supplied> in the village, one <foreign>paṇam</foreign> per one loom <supplied reason="explanation"><foreign>taṟi</foreign></supplied> shall be collected per year for tax on trade <supplied reason="explanation"><foreign>paṭṭaṭai nāṇayattuku</foreign></supplied>. <gap reason="lost"/>per one loom per year, including all the other dues <supplied reason="explanation"><foreign>cakala upātikaḷum</foreign></supplied> that exist <gap reason="lost"/>.
+                </p>
+                <p n="9">...<note>The rest of the inscription is built in.</note></p>
+                
+            </div>
+            
+            <div type="commentary">			
+                <p>This inscription is incomplete.</p>
+                <p>Tuntumi year = year 1382 (Śaka 1304)  according to  <bibl><ptr target="bib:Rajagopal2019_01"/></bibl>; Śaka year 1305 according to <bibl><ptr target="bib:ARIE1905-1906"/></bibl></p>
+            </div>
+            
+            <div type="apparatus">               
+                <listApp>
+                    <app loc="1">
+                        <lem>tumtumi</lem>
+                        <rdg source="bib:Rajagopal2019_01"/>
+                        <note>Probably read <foreign>tuntupi</foreign>.</note>
+                    </app>	
+                </listApp>
+            </div>
+            
+            
+            <div type="bibliography">
+                <p>Reported in <bibl><ptr target="bib:ARIE1905-1906"/></bibl> (ARIE/1905-1906/B/1905/422).</p>
+                <p>Edited in <bibl><ptr target="bib:Rajagopal2019_01"/></bibl> (SII 41.204).</p>
+                <p>This digital edition by Dorotea Operato, based on <bibl><ptr target="bib:Rajagopal2019_01"/></bibl>.</p>
+                
+                <listBibl type="primary">
+                    <bibl n="SII">
+                        <ptr target="bib:Rajagopal2019_01"/>
+                        <citedRange unit="page">231</citedRange>
+                        <citedRange unit="item">204</citedRange>
+                    </bibl>
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bib:ARIE1905-1906"/>
+                        <citedRange unit="page">27</citedRange>
+                        <citedRange unit="appendix">B/1905</citedRange>
+                        <citedRange unit="item">422</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
 </TEI>
 

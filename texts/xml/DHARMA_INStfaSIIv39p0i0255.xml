@@ -79,66 +79,67 @@
     </teiHeader>
     
     <text xml:space="preserve">
-<body>	
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-    
-    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215"> 
-    	<lb n="1"/><hi rend="grantha">svasti śrī</hi></ab> 
-    
-    <p>
-        <lb n="2"/>Ik-kōyi
-        <lb n="3" break="no"/>l tiruppati
-        <lb n="4" break="no"/>y<choice><sic>u</sic><corr>a</corr></choice>m viṇṇap
-        <lb n="5" break="no"/>pam ceytu vi
-        <lb n="6" break="no"/>ṭai koṇ
-        <lb n="7" break="no"/>ṭa tampirā<choice><orig>n</orig><reg>ṉ</reg></choice>
-        <lb n="8"/>toḻan mā
-        <lb n="9"/>nakkañcāṟaṉ
-    </p>
-        
-</div>
-			
-<div type="translation" resp="part:reda">
-								
-    <p n="1">
-      	Hail! Prosperity!	
-    </p>
-    
-    <p n="2-9">
-      	<supplied reason="subaudible">The image below is the one of</supplied> Tampirāṉ Toḻaṉ Mānakkañcāṟaṉ who departed <supplied reason="explanation"><foreign>viṭaikoṇṭa</foreign></supplied> after reciting <supplied reason="explanation"><foreign>viṇṇappam ceytu</foreign></supplied> the holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied> in this temple.
-    </p>
-    
-   
-    
-</div>
-	
-    
-<div type="bibliography">
-	
-  <p>Reported in <bibl><ptr target="bib:ARIE1915-1916"/></bibl> (ARIE/1915-1916/C/1916/255).</p>
-    <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 39.255).</p>
-    <p>This digital edition by Renato Dávalos (2025), based on <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl>. This translation by Renato Dávalos (2025).</p>    
-    <listBibl type="primary">
-        
-        <bibl n="SII">
-            <ptr target="bib:Shama+Rao1939_01"/>
-            <citedRange unit="page">275</citedRange>
-            <citedRange unit="item">255</citedRange>
-        </bibl>
-        
-    </listBibl>
-	
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1906-1907"/>
-			<citedRange unit="page">89</citedRange>
-			<citedRange unit="appendix">C/1916</citedRange>
-			<citedRange unit="item">255</citedRange>			
-		</bibl>    </listBibl>
-    
-</div>
+        <body>	
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab> 
+                
+                <p>
+                    <lb n="2"/>Ik-kōyi
+                    <lb n="3" break="no"/>l tiruppati
+                    <lb n="4" break="no"/>y<choice><sic>u</sic><corr>a</corr></choice>m viṇṇap
+                    <lb n="5" break="no"/>pam ceytu vi
+                    <lb n="6" break="no"/>ṭai koṇ
+                    <lb n="7" break="no"/>ṭa tampirā<choice><orig>n</orig><reg>ṉ</reg></choice>
+                    <lb n="8"/>toḻan mā
+                    <lb n="9"/>nakkañcāṟaṉ
+                </p>
+                
+            </div>
+            
+            <div type="translation" resp="part:reda">
+                
+                <p n="1">
+                    Hail! Prosperity!	
+                </p>
+                
+                <p n="2-9">
+                    <supplied reason="subaudible">The image below is the one of</supplied> Tampirāṉ Toḻaṉ Mānakkañcāṟaṉ who departed <supplied reason="explanation"><foreign>viṭaikoṇṭa</foreign></supplied> after reciting <supplied reason="explanation"><foreign>viṇṇappam ceytu</foreign></supplied> the holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied> in this temple.
+                </p>
+                
+                
+                
+            </div>
+            
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1915-1916"/></bibl> (ARIE/1915-1916/C/1916/255).</p>
+                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 39.255).</p>
+                <p>This digital edition by Renato Dávalos (2025), based on <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl>. This translation by Renato Dávalos (2025).</p>    
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:Shama+Rao1939_01"/>
+                        <citedRange unit="page">275</citedRange>
+                        <citedRange unit="item">255</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1906-1907"/>
+                        <citedRange unit="page">89</citedRange>
+                        <citedRange unit="appendix">C/1916</citedRange>
+                        <citedRange unit="item">255</citedRange>			
+                    </bibl>    </listBibl>
+                
+            </div>
         </body>
     </text>
 </TEI>

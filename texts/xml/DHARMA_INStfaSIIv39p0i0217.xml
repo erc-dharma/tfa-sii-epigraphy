@@ -64,107 +64,107 @@
     </teiHeader>
     
     <text xml:space="preserve">
-		<body>
-
-			<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-				
-			    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215"> 
-			        <lb n="1"/>svasti śrī
-			    </ab>		
-			    
-			    <p><hi rend="grantha">man·mahā-maṇḍaleśva</hi>ra<hi rend="grantha">n·</hi> <hi rend="grantha">ha</hi>rirāya vi<hi rend="grantha">bhāṭan· bhāṣ</hi>aikku 
-			        <lb n="2"/><gap reason="lost" quantity="2" unit="character"/> puva <hi rend="grantha">rā</hi>yā kaṇṭa<hi rend="grantha">n·</hi> camuttiṟāti-pati <hi rend="grantha">śrī</hi> v<choice><sic>i</sic><corr>ī</corr></choice>ra-<hi rend="grantha">ha</hi>ri<hi rend="grantha">ha</hi>ra-rāyaṉukku-c cel
-			        <lb n="3"/>lā niṉṟa <hi rend="grantha">bahu</hi>tā<hi rend="grantha">nya saṁ</hi>-vaṟ<hi rend="grantha">sa</hi>ratta <hi rend="grantha">ṛṣabha</hi>-nāyaṟṟ-up pū<hi rend="grantha">rva-</hi>pa<hi rend="grantha">kṣa</hi>ttu nā
-			        <lb n="4"/>yaṟṟu-k kiḻamaiyum tiṟitikaiyum peṟṟa puṇar-pūcattu nāḷ
-			    </p>
-			    <p>
-			        <hi rend="grantha">ja</hi>yaṅko
-		<lb n="5"/>ṇṭa-c<choice><orig>o</orig><reg>ō</reg></choice>ḻa-maṇṭalattu tāmaṟ-koṭṭattu-t tiruppati tirup
-		<lb n="6" break="no"/>puṭkuḻi nāyaṉāṟku tiru-viḷakkukku Oṉṟu pātiyum Ivv-ūr
-		<lb n="7"/>tiru-k-kaikk<choice><orig>o</orig><reg>ō</reg></choice>ḷaṟkum kaikk<choice><orig>o</orig><reg>ō</reg></choice>ḷaṟkum Em-perumāṉ Aṭi
-		<lb n="8" break="no"/>yāṟkum maṟṟum Iṭaṅkaiyil Uḷḷāṟkum Oṉṟu pātiyum
-		<lb n="9"/>Āka Iṭaṅkai-vari Iṭaṅkaiyai-y n<choice><orig>o</orig><reg>ō</reg></choice>kkivarum pala-vari māniyam
-		<lb n="10"/>Āka viṭṭa Aḷavukkum caṅk<choice><orig>e</orig><reg>ē</reg></choice>ta camaiyattāṟar pukuta-k kaṭavat' alla
-		<lb n="11"/>Eṉṟu colla-k kallilum cempilum veṭṭi-k kuṭutt<choice><orig>o</orig><reg>ō</reg></choice>m
-			    </p>
-			    <p>
-		<lb n="12"/>Inta tarmattukku vir<choice><orig>o</orig><reg>ō</reg></choice>tam paṇṇiṉavaṉ keṅkai karaiyil
-		<lb n="13"/>kurāl pacuvai-k koṉṟa pāpamuṅ koṇṭa nā <gap reason="lost" quantity="1" unit="character"/> paṭu-t-tur<choice><orig>o</orig><reg>ō</reg></choice>kam Āka
-		<lb n="14" break="no"/>-k kaṭavatu
-			        </p>
-			    <p>
-			        Inta taṟmam caṉtiṟātitta-varaiyum naṭakka-k kaṭavatu </p>
-			    <p>
-			        Ippaṭi
-		<lb n="15" break="no"/>kku Ivai <surplus>Ivai</surplus> Iṭaṅkai kāmaveḷān<choice><orig>e</orig><reg>ē</reg></choice>ṉ Eḻuttu teṟku Āka ticai Iṉ-ṉāṉku Ellaikku Uṭpaṭṭa
-		<lb n="16"/>naṉ-cey <g type="nilam"/> <num>6</num> li In-nilam Aṟu veliyum Ivv-ūr nattamum cettalai-t tiṭallum mēl n<choice><orig>o</orig><reg>ō</reg></choice>kkiṉa mara
-		<lb n="17" break="no"/>mum kīḻ-n<choice><orig>o</orig><reg>ō</reg></choice>kkiṉa kiṇaṟum Uṭpa<supplied reason="omitted">ṭ</supplied>ṭatu Ivarkku Iṟṟai-nāḷ viṟṟu-k kuṭuttu-k koḷvat' āṉa Emmil i
-		<lb n="18" break="no"/>cainta vilai-p-poruḷ <gap reason="lost" quantity="5" unit="character"/> ṭu naṟkāciṉāl Āk<hi rend="grantha">ra</hi>-vāram <g type="paṇam"/> <num value="90">9 <g type="numeral">10</g></num> Ip-paṇam toṇṇūṟṟukkum Ivv-ūr
-		<lb n="19"/>nāṉku Ellaikku Uṭpaṭṭa naṉ-cey <g type="nilam"/> Aṟu veliyum nattamum cettalai-t tiṭarum kuḷamum vilai Āvat' ākavum
-		<lb n="20"/>Ip-paṇam toṇṇūṟum Ik-kiḻppaṭa paṟṟi-k koṇṭu Intaṅ karuppūr viṟṟu vilai-p piṟamāṇam pa
-		<lb n="21" break="no"/>ṇṇi-k kuṭutt<choice><orig>e</orig><reg>ē</reg></choice>ṉ
-			        </p>
-			    <p>
-			        Uṭaiyār tiru-v-ampalam-uṭaiyār toṇṭai-māṉāṟkku kaḷañ<supplied reason="omitted">ca</supplied>lūr kiḻavaṉ ⌈
-		<lb n="22"/>cellappiḷḷai-y-āṉa koṉār<choice><orig>e</orig><reg>ē</reg></choice>ṉ
-			        </p>
-			    
-			    <list>
-			        <item>Ip-paṭikku Ivai cempiyaṉ t<choice><orig>e</orig><reg>ē</reg></choice>ṟaṉār Eḻuttu</item>
-			        <item>
-			            <lb n="23"/>vi<hi rend="grantha">śvesva</hi>ra t<choice><orig>e</orig><reg>ē</reg></choice>va<choice><orig>n</orig><reg>ṉ</reg></choice> puṅkaṉūr kiḻavaṉ Eḻuttu</item>
-			        <item>
-			            <lb n="24"/>Ivai tiru-vīraṭṭ' āṉa muṭaiyāṉ Eḻuttu </item>
-			        <item>puṅkaṉūr kiḻavaṉ Umaiyuruva <gap reason="lost" quantity="5" unit="character"/>
-			            <lb n="25"/>Eḻuttu</item>
-			        <item>
-			            Ivai peru-maṅkala muṭaiyān tiru-meṉi Aḻakiyāṉ Eḻuttu</item>
-			    </list>
-			    <p>
-		<lb n="26"/>Ip-paṭikku Ivai Ākkāṭu kiḻāṉ cellappiḷḷaiyān<choice><orig>e</orig><reg>ē</reg></choice>n
-		<lb n="27"/>Ip-paṭi Aṟiv<choice><orig>e</orig><reg>ē</reg></choice>ṉ <gap reason="lost" quantity="5" unit="character"/> ṭunan
-			    </p>
-			</div>
-		    
-		    <div type="apparatus">
-		        <listApp>
-		            <app loc="15"><lem>Ivai</lem><rdg source="bib:Karuppiah2020_01"/>
-		                <note>Probably a surplus.</note>
-		            </app>	
-		        </listApp>
-		    </div>
-			
-			<div type="commentary"><p>This inscription is dated to A.D. 1398 according to <bibl><ptr target="bib:Karuppiah2020_01"/></bibl>.</p></div>
-			
-			
-			<div type="bibliography">
-		<p>Reported in <bibl><ptr target="bib:ARIE1915-1916"/></bibl> (ARIE/1915-1916/C/1916/217).</p>
-		<p>Edited in <bibl><ptr target="bib:Karuppiah2020_01"/></bibl> (SII 36.332).</p>
-		<p>This digital edition by Dorotea Operato, based on <bibl><ptr target="bib:Shama+Rao1939_01"/></bibl>.</p>
-				
-				<listBibl type="primary">
-					
-					<bibl n="SII">
-						<ptr target="bib:Karuppiah2020_01"/>
-						<citedRange unit="page">235-236</citedRange>
-						<citedRange unit="item">217</citedRange>
-					</bibl>
-					
-				</listBibl>
-				
-				<listBibl type="secondary">
-					
-					<bibl n="ARIE">
-						<ptr target="bib:ARIE1915-1916"/>
-						<citedRange unit="page">84</citedRange>
-					    <citedRange unit="appendix">C/1916</citedRange>
-						<citedRange unit="item">217</citedRange>
-					</bibl>
-					
-				</listBibl>
-				
-			</div>
-			
-		</body>
-	</text>
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>		
+                
+                <p><hi rend="grantha">man·mahā-maṇḍaleśva</hi>ra<hi rend="grantha">n·</hi> <hi rend="grantha">ha</hi>rirāya vi<hi rend="grantha">bhāṭan· bhāṣ</hi>aikku 
+                    <lb n="2"/><gap reason="lost" quantity="2" unit="character"/> puva <hi rend="grantha">rā</hi>yā kaṇṭa<hi rend="grantha">n·</hi> camuttiṟāti-pati <hi rend="grantha">śrī</hi> v<choice><sic>i</sic><corr>ī</corr></choice>ra-<hi rend="grantha">ha</hi>ri<hi rend="grantha">ha</hi>ra-rāyaṉukku-c cel
+                    <lb n="3"/>lā niṉṟa <hi rend="grantha">bahu</hi>tā<hi rend="grantha">nya saṁ</hi>-vaṟ<hi rend="grantha">sa</hi>ratta <hi rend="grantha">ṛṣabha</hi>-nāyaṟṟ-up pū<hi rend="grantha">rva-</hi>pa<hi rend="grantha">kṣa</hi>ttu nā
+                    <lb n="4"/>yaṟṟu-k kiḻamaiyum tiṟitikaiyum peṟṟa puṇar-pūcattu nāḷ
+                </p>
+                <p>
+                    <hi rend="grantha">ja</hi>yaṅko
+                    <lb n="5"/>ṇṭa-c<choice><orig>o</orig><reg>ō</reg></choice>ḻa-maṇṭalattu tāmaṟ-koṭṭattu-t tiruppati tirup
+                    <lb n="6" break="no"/>puṭkuḻi nāyaṉāṟku tiru-viḷakkukku Oṉṟu pātiyum Ivv-ūr
+                    <lb n="7"/>tiru-k-kaikk<choice><orig>o</orig><reg>ō</reg></choice>ḷaṟkum kaikk<choice><orig>o</orig><reg>ō</reg></choice>ḷaṟkum Em-perumāṉ Aṭi
+                    <lb n="8" break="no"/>yāṟkum maṟṟum Iṭaṅkaiyil Uḷḷāṟkum Oṉṟu pātiyum
+                    <lb n="9"/>Āka Iṭaṅkai-vari Iṭaṅkaiyai-y n<choice><orig>o</orig><reg>ō</reg></choice>kkivarum pala-vari māniyam
+                    <lb n="10"/>Āka viṭṭa Aḷavukkum caṅk<choice><orig>e</orig><reg>ē</reg></choice>ta camaiyattāṟar pukuta-k kaṭavat' alla
+                    <lb n="11"/>Eṉṟu colla-k kallilum cempilum veṭṭi-k kuṭutt<choice><orig>o</orig><reg>ō</reg></choice>m
+                </p>
+                <p>
+                    <lb n="12"/>Inta tarmattukku vir<choice><orig>o</orig><reg>ō</reg></choice>tam paṇṇiṉavaṉ keṅkai karaiyil
+                    <lb n="13"/>kurāl pacuvai-k koṉṟa pāpamuṅ koṇṭa nā <gap reason="lost" quantity="1" unit="character"/> paṭu-t-tur<choice><orig>o</orig><reg>ō</reg></choice>kam Āka
+                    <lb n="14" break="no"/>-k kaṭavatu
+                </p>
+                <p>
+                    Inta taṟmam caṉtiṟātitta-varaiyum naṭakka-k kaṭavatu </p>
+                <p>
+                    Ippaṭi
+                    <lb n="15" break="no"/>kku Ivai <surplus>Ivai</surplus> Iṭaṅkai kāmaveḷān<choice><orig>e</orig><reg>ē</reg></choice>ṉ Eḻuttu teṟku Āka ticai Iṉ-ṉāṉku Ellaikku Uṭpaṭṭa
+                    <lb n="16"/>naṉ-cey <g type="nilam"/> <num>6</num> li In-nilam Aṟu veliyum Ivv-ūr nattamum cettalai-t tiṭallum mēl n<choice><orig>o</orig><reg>ō</reg></choice>kkiṉa mara
+                    <lb n="17" break="no"/>mum kīḻ-n<choice><orig>o</orig><reg>ō</reg></choice>kkiṉa kiṇaṟum Uṭpa<supplied reason="omitted">ṭ</supplied>ṭatu Ivarkku Iṟṟai-nāḷ viṟṟu-k kuṭuttu-k koḷvat' āṉa Emmil i
+                    <lb n="18" break="no"/>cainta vilai-p-poruḷ <gap reason="lost" quantity="5" unit="character"/> ṭu naṟkāciṉāl Āk<hi rend="grantha">ra</hi>-vāram <g type="paṇam"/> <num value="90">9 <g type="numeral">10</g></num> Ip-paṇam toṇṇūṟṟukkum Ivv-ūr
+                    <lb n="19"/>nāṉku Ellaikku Uṭpaṭṭa naṉ-cey <g type="nilam"/> Aṟu veliyum nattamum cettalai-t tiṭarum kuḷamum vilai Āvat' ākavum
+                    <lb n="20"/>Ip-paṇam toṇṇūṟum Ik-kiḻppaṭa paṟṟi-k koṇṭu Intaṅ karuppūr viṟṟu vilai-p piṟamāṇam pa
+                    <lb n="21" break="no"/>ṇṇi-k kuṭutt<choice><orig>e</orig><reg>ē</reg></choice>ṉ
+                </p>
+                <p>
+                    Uṭaiyār tiru-v-ampalam-uṭaiyār toṇṭai-māṉāṟkku kaḷañ<supplied reason="omitted">ca</supplied>lūr kiḻavaṉ ⌈
+                    <lb n="22"/>cellappiḷḷai-y-āṉa koṉār<choice><orig>e</orig><reg>ē</reg></choice>ṉ
+                </p>
+                
+                <list>
+                    <item>Ip-paṭikku Ivai cempiyaṉ t<choice><orig>e</orig><reg>ē</reg></choice>ṟaṉār Eḻuttu</item>
+                    <item>
+                        <lb n="23"/>vi<hi rend="grantha">śvesva</hi>ra t<choice><orig>e</orig><reg>ē</reg></choice>va<choice><orig>n</orig><reg>ṉ</reg></choice> puṅkaṉūr kiḻavaṉ Eḻuttu</item>
+                    <item>
+                        <lb n="24"/>Ivai tiru-vīraṭṭ' āṉa muṭaiyāṉ Eḻuttu </item>
+                    <item>puṅkaṉūr kiḻavaṉ Umaiyuruva <gap reason="lost" quantity="5" unit="character"/>
+                        <lb n="25"/>Eḻuttu</item>
+                    <item>
+                        Ivai peru-maṅkala muṭaiyān tiru-meṉi Aḻakiyāṉ Eḻuttu</item>
+                </list>
+                <p>
+                    <lb n="26"/>Ip-paṭikku Ivai Ākkāṭu kiḻāṉ cellappiḷḷaiyān<choice><orig>e</orig><reg>ē</reg></choice>n
+                    <lb n="27"/>Ip-paṭi Aṟiv<choice><orig>e</orig><reg>ē</reg></choice>ṉ <gap reason="lost" quantity="5" unit="character"/> ṭunan
+                </p>
+            </div>
+            
+            <div type="apparatus">
+                <listApp>
+                    <app loc="15"><lem>Ivai</lem><rdg source="bib:Karuppiah2020_01"/>
+                        <note>Probably a surplus.</note>
+                    </app>	
+                </listApp>
+            </div>
+            
+            <div type="commentary"><p>This inscription is dated to A.D. 1398 according to <bibl><ptr target="bib:Karuppiah2020_01"/></bibl>.</p></div>
+            
+            
+            <div type="bibliography">
+                <p>Reported in <bibl><ptr target="bib:ARIE1915-1916"/></bibl> (ARIE/1915-1916/C/1916/217).</p>
+                <p>Edited in <bibl><ptr target="bib:Karuppiah2020_01"/></bibl> (SII 36.332).</p>
+                <p>This digital edition by Dorotea Operato, based on <bibl><ptr target="bib:Shama+Rao1939_01"/></bibl>.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:Karuppiah2020_01"/>
+                        <citedRange unit="page">235-236</citedRange>
+                        <citedRange unit="item">217</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl n="ARIE">
+                        <ptr target="bib:ARIE1915-1916"/>
+                        <citedRange unit="page">84</citedRange>
+                        <citedRange unit="appendix">C/1916</citedRange>
+                        <citedRange unit="item">217</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>

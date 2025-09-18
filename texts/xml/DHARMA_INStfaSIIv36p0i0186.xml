@@ -78,34 +78,34 @@
         
         <body>	
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <lb n="1"/>svasti śrī
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 <p>
-                   <hi rend="grantha">tri-bhu</hi>vana-c-cakkara-va<reg>r</reg>t<unclear>ti</unclear> k<choice><orig>one</orig><reg>ōṉē</reg></choice>ri<reg>ṉ</reg>m<choice><orig>e</orig><reg>ai</reg></choice>-koṇṭāṉ kāñci
+                    <hi rend="grantha">tri-bhu</hi>vana-c-cakkara-va<reg>r</reg>t<unclear>ti</unclear> k<choice><orig>one</orig><reg>ōṉē</reg></choice>ri<reg>ṉ</reg>m<choice><orig>e</orig><reg>ai</reg></choice>-koṇṭāṉ kāñci
                     
                     <lb n="2" break="no"/>kkūval-nāṭṭil kaṇmāḷa<unclear>r</unclear>ku pati<choice><orig>n</orig><reg>ṉ</reg></choice> añc' āvatu taṅkaḷukku nammai tiṉ
                     
                     <lb n="3" break="no"/>maikku Iraṭṭai-c caṅkum Ūti p<choice><orig>e</orig><reg>ē</reg></choice>rikai Uḷḷiṭṭ' a<choice><orig>n</orig><reg>ṉ</reg></choice>a<unclear>vai</unclear>-k koṭṭi vittu-
                     
                     <lb n="4" break="no"/>k koḷ<unclear>ḷa</unclear>vu<unclear>m</unclear> tāṅkaḷ puṟa-p-paṭa v<choice><orig>e</orig><reg>ē</reg></choice>ṇṭum
-                    </p>
+                </p>
                 <p>
                     Iṭaṅkaḷukku <unclear>pāta</unclear>-ra<hi rend="grantha">kṣ</hi>ai kottu k<unclear>o</unclear>
                     
                     <lb n="5" break="no"/>ḷḷavum <unclear>taṅkaḷ</unclear> vīṭukaḷ cānt' iṭṭu-k k<unclear>o</unclear>ḷḷavum Ip-paṭikku namm' <choice><orig>o</orig><reg>ō</reg></choice>lai <unclear>piṭi</unclear>-
                     
                     <lb n="6" break="no"/>pāt' āka koṇṭu v<choice><orig>e</orig><reg>ē</reg></choice>ṇṭum
-                    </p>
+                </p>
                 <p>
                     iṭaṅkaḷil<choice><orig>e</orig><reg>ē</reg></choice> kal
                     
                     <lb n="7" break="no"/>lilum cempilum veṭṭi-k ko<reg>ḷ</reg><unclear>ḷa</unclear> kaṭa <gap reason="lost" quantity="3" unit="character"/> yāṇṭu <num value="15"><g type="numeral">10</g> 5</num> nāḷ pattu
-                    </p>
+                </p>
                 <p>Ivai viḻuppā
                     
                     <lb n="8" break="no"/>tarāyaṉ Eḻuttu
-                    </p>
+                </p>
                 <p>
                     Ivai kāliṅkarāyaṉ Eḻuttu
                 </p>
@@ -124,10 +124,10 @@
                 <p n="1-4">In the 15th regnal year of Kōṉēṟiṉmaikoṇṭāṉ, the emperor of the three worlds, <supplied reason="subaudible">a order was issued</supplied> in Kāñcikkūval <foreign>nāṭu</foreign> for the Kaṇmāḷars. The blowing of the the two conches <supplied reason="explanation"><foreign>iraṭṭai-c-caṅkum</foreign></supplied> and the beating of all <supplied reason="subaudible">the drums</supplied>, including the kettle-drum <supplied reason="explanation"><foreign>pērikai</foreign></supplied>, for their auspicious and inauspicious occasions <supplied reason="explanation"><foreign>nammai-tiṉmaikku</foreign></supplied> shall be granted and they should keep outside <supplied reason="subaudible">these instruments</supplied> as their <supplied reason="subaudible">emblems</supplied>.</p>
                 <p n="4-6">Shoes <supplied reason="explanation"><foreign>pātarākṣai</foreign></supplied> are to be authorised while they make journey,<note>Literally "for places"</note> their houses have to be smeared with sandal paste <supplied reason="explanation"><foreign>cāntu</foreign></supplied> and a document has to be attained.</p>
                 <p n="6-7"><supplied reason="subaudible">These orders</supplied> shall be engraved on stone and copper in <supplied reason="subaudible">all</supplied> the places.
-<supplied reason="subaudible">Issued</supplied> in the 15th year.</p>
-<p n="7-8">This is signed by Viḻuppātarāyaṉ.
-This is signed by Kāliṅkarāyaṉ.</p>
-            
+                    <supplied reason="subaudible">Issued</supplied> in the 15th year.</p>
+                <p n="7-8">This is signed by Viḻuppātarāyaṉ.
+                    This is signed by Kāliṅkarāyaṉ.</p>
+                
             </div>
             
             <div type="bibliography">

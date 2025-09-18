@@ -75,77 +75,77 @@
     </teiHeader>
     
     <text xml:space="preserve">
-
-    <body>	
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-    
-    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-        <lb n="1"/>svasti śrī
-    </ab>
-    <p>naṉ-maṅkalañ ciṟakka k<choice><orig>o</orig><reg>ō</reg></choice>-v-irā<hi rend="grantha">ja</hi>-k<choice><orig>e</orig><reg>ē</reg></choice>cari-pa<hi rend="grantha">nmar</hi>-āṉa <hi rend="grantha">tribhū</hi>vaṉa-c-<hi rend="grantha">cakrava<reg>r</reg>tti</hi>kaḷ <hi rend="grantha">śrī</hi>-v<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">ra-rājentra-deva</hi>ṟku-t tiru-v-eḻutt’ iṭṭu-c cellā niṉṟa tiru-na
         
-    <lb n="2" break="no"/>lli-yāṇṭu patt’ āvatu Aippi<choice><sic>c</sic><corr>k</corr></choice>ai-t tiṅkaḷil
-        </p>
-    
-    <p>kuṟuppu-ṉāṭṭu vicaya-maṅkalattu-t tiru-m<choice><orig>e</orig><reg>ē</reg></choice>ṟ-k<choice><orig>o</orig><reg>ō</reg></choice>yil cittiram<choice><orig>e</orig><reg>ē</reg></choice>ḻi-viṇṇakar' āḻvāṟku-t tiru-p-paṭimāṟṟukku Irupatt’ oṉpat’ accu e
-        
-    <lb n="3" break="no"/>m perumāṉ <hi rend="grantha">śrī</hi> paṇṭārattu Oṭukka
-    </p>
-<p>
-        I-vv-amutu-paṭi nittam ṉāṉāḻi-y-arici y-amutu-paṭi ceyvat' ā<supplied reason="omitted">ka</supplied> kal-veṭṭu vitt<choice><orig>e</orig><reg>ē</reg></choice>ṉ
-</p>
-    <p>
-    vicaiya-maṅkalattu veḷḷāḷaṉ cāttantaikaḷil ciṟiyāṉ t<choice><orig>e</orig><reg>ē</reg></choice>vaṉ-āṉa
-        
-    <lb n="4"/>muṭi-koṇṭa-c<choice><orig>o</orig><reg>ō</reg></choice>ḻa mārāyaṉ<choice><orig>e</orig><reg>ē</reg></choice>ṉ <hi rend="grantha">darmma</hi>ñ ca<hi rend="grantha">ntrādittya</hi>-varai celvat’ ākavum
-        </p>
-    <p>
-        i-t-taṉmam Iṭaṅkai toṉṉūṟṟ’oṉpatu <gap reason="lost" quantity="3" unit="character"/> <hi rend="grantha">rakṣai</hi> I-<hi rend="grantha">dharmma</hi> Iṟa
-        
-    <lb n="5" break="no"/>kkuvāṉ vaḻi-vaḻi y-eḻ’ e-c-camaṟuvāṉ
-    </p>
-</div>
-        
-	
-	<div type="translation" resp="part:doop">
-		
-		<p n="1">
-			Prosperity! Fortune!		
-		</p>
-	</div>
-	
-	<div type="commentary">		
-	<p>Date = 1217 A.D.</p>
-</div>
-        
-        <div type="apparatus">               
-        </div>
-
-	
-	<div type="bibliography">
-		<p>Reported in <bibl><ptr target="bib:ARIE1905-1906"/></bibl> (ARIE/1905-1906/B/1905/546).</p>
-		<p>Edited in <bibl><ptr target="bib:Rajagopal2019_01"/></bibl> (SII 41.331).</p>
-		<p>This digital edition by Dorotea Operato, based on <bibl><ptr target="bib:Rajagopal2019_01"/></bibl>.</p>
-		
-		<listBibl type="primary">
-			<bibl n="SII">
-				<ptr target="bib:Rajagopal2019_01"/>
-				<citedRange unit="page">345</citedRange>
-				<citedRange unit="item">331</citedRange>
-			</bibl>
-		</listBibl>
-		
-		<listBibl type="secondary">
-			<bibl>
-				<ptr target="bib:ARIE1905-1906"/>
-				<citedRange unit="page">33</citedRange>
-				<citedRange unit="appendix">B/1905</citedRange>
-				<citedRange unit="item">546</citedRange>
-			</bibl>
-		</listBibl>
-	</div>
-</body>
-</text>
+        <body>	
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                <p>naṉ-maṅkalañ ciṟakka k<choice><orig>o</orig><reg>ō</reg></choice>-v-irā<hi rend="grantha">ja</hi>-k<choice><orig>e</orig><reg>ē</reg></choice>cari-pa<hi rend="grantha">nmar</hi>-āṉa <hi rend="grantha">tribhū</hi>vaṉa-c-<hi rend="grantha">cakrava<reg>r</reg>tti</hi>kaḷ <hi rend="grantha">śrī</hi>-v<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">ra-rājentra-deva</hi>ṟku-t tiru-v-eḻutt’ iṭṭu-c cellā niṉṟa tiru-na
+                    
+                    <lb n="2" break="no"/>lli-yāṇṭu patt’ āvatu Aippi<choice><sic>c</sic><corr>k</corr></choice>ai-t tiṅkaḷil
+                </p>
+                
+                <p>kuṟuppu-ṉāṭṭu vicaya-maṅkalattu-t tiru-m<choice><orig>e</orig><reg>ē</reg></choice>ṟ-k<choice><orig>o</orig><reg>ō</reg></choice>yil cittiram<choice><orig>e</orig><reg>ē</reg></choice>ḻi-viṇṇakar' āḻvāṟku-t tiru-p-paṭimāṟṟukku Irupatt’ oṉpat’ accu e
+                    
+                    <lb n="3" break="no"/>m perumāṉ <hi rend="grantha">śrī</hi> paṇṭārattu Oṭukka
+                </p>
+                <p>
+                    I-vv-amutu-paṭi nittam ṉāṉāḻi-y-arici y-amutu-paṭi ceyvat' ā<supplied reason="omitted">ka</supplied> kal-veṭṭu vitt<choice><orig>e</orig><reg>ē</reg></choice>ṉ
+                </p>
+                <p>
+                    vicaiya-maṅkalattu veḷḷāḷaṉ cāttantaikaḷil ciṟiyāṉ t<choice><orig>e</orig><reg>ē</reg></choice>vaṉ-āṉa
+                    
+                    <lb n="4"/>muṭi-koṇṭa-c<choice><orig>o</orig><reg>ō</reg></choice>ḻa mārāyaṉ<choice><orig>e</orig><reg>ē</reg></choice>ṉ <hi rend="grantha">darmma</hi>ñ ca<hi rend="grantha">ntrādittya</hi>-varai celvat’ ākavum
+                </p>
+                <p>
+                    i-t-taṉmam Iṭaṅkai toṉṉūṟṟ’oṉpatu <gap reason="lost" quantity="3" unit="character"/> <hi rend="grantha">rakṣai</hi> I-<hi rend="grantha">dharmma</hi> Iṟa
+                    
+                    <lb n="5" break="no"/>kkuvāṉ vaḻi-vaḻi y-eḻ’ e-c-camaṟuvāṉ
+                </p>
+            </div>
+            
+            
+            <div type="translation" resp="part:doop">
+                
+                <p n="1">
+                    Prosperity! Fortune!		
+                </p>
+            </div>
+            
+            <div type="commentary">		
+                <p>Date = 1217 A.D.</p>
+            </div>
+            
+            <div type="apparatus">               
+            </div>
+            
+            
+            <div type="bibliography">
+                <p>Reported in <bibl><ptr target="bib:ARIE1905-1906"/></bibl> (ARIE/1905-1906/B/1905/546).</p>
+                <p>Edited in <bibl><ptr target="bib:Rajagopal2019_01"/></bibl> (SII 41.331).</p>
+                <p>This digital edition by Dorotea Operato, based on <bibl><ptr target="bib:Rajagopal2019_01"/></bibl>.</p>
+                
+                <listBibl type="primary">
+                    <bibl n="SII">
+                        <ptr target="bib:Rajagopal2019_01"/>
+                        <citedRange unit="page">345</citedRange>
+                        <citedRange unit="item">331</citedRange>
+                    </bibl>
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bib:ARIE1905-1906"/>
+                        <citedRange unit="page">33</citedRange>
+                        <citedRange unit="appendix">B/1905</citedRange>
+                        <citedRange unit="item">546</citedRange>
+                    </bibl>
+                </listBibl>
+            </div>
+        </body>
+    </text>
 </TEI>
 
 

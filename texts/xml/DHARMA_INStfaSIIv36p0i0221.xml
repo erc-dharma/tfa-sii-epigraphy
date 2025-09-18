@@ -78,18 +78,18 @@
         
         <body>	
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <lb n="1"/>svasti śrī
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 <p><hi rend="grantha">mahā-maṇḍalīśvaraṉ</hi> kaṇṭa-nāṭu koṇṭāṉ koṇṭa-nāṭu kuṭātāṉ pā<hi rend="grantha">kṣai</hi>kku-t tappu-v-ār-irāyar kaṇṭaṉ <hi rend="grantha">śrī</hi>-vīra-ariyar-irāyaṉukku-c cellā niṉṟa tātri varu<hi rend="grantha">ṣa</hi>ttu makara-nāyaṟṟu-p pūṟuva-pakṣattu-
                     <lb n="2" break="no"/>t tecamiyum peṟṟa Uttirattu nāḷ
-                    </p>
+                </p>
                 <p>
                     jayaṅ-koṇṭa-c<choice><orig>o</orig><reg>ō</reg></choice>ḻa-maṇṭalattu puḻaṟ-koṭṭam-āṉa vikkirama-c<choice><orig>o</orig><reg>ō</reg></choice>ḻa-vaḷa-nāṭṭu Ampattūr-nāṭṭil pāṭi tiru-vallitāyattil uṭaiyār tiru-vallitā
                     <lb n="3" break="no"/>yam-uṭaiya nāyaṉārkku mallaṇṇa-uṭaiyā<supplied reason="omitted">r</supplied> niru-p-paṭikku pāṭi tiru-vallitāyattil paṭṭaṭai-k-kuṭi ceṭṭikaḷ kaikk<choice><orig>o</orig><reg>ō</reg></choice>ḷar vāṇikar Eṇṇai vāṇikar maṟṟum Uḷḷiṭṭa
                     <lb n="4"/>puṟa-k-kalaṉaiyil patiṉ-eṭṭu-p paṭṭaṭaiyil Uḷḷa p<choice><orig>e</orig><reg>ē</reg></choice>ṟkku paṭṭaṭai-Āyam paṭṭaṭai-nūl-āyam māta Iraṭṭi cammātam cekkum maṟṟum Ep-p<choice><orig>e</orig><reg>ē</reg></choice>ṟpaṭṭa Āyattai n<choice><orig>o</orig><reg>ō</reg></choice>kki varum Ilāpa-l<choice><orig>o</orig><reg>ō</reg></choice>kaṅkaḷukkum
                     <lb n="5"/>Uṭpaṭa Uṭaiyār tiru-vallitāyam-uṭaiya nāyaṉārkku cantirātittakaḷ varaikkum ca<hi rend="grantha">rvva</hi>-māṉiyam Āka naṭakka kaṭavatu Āka-c cilā-l<choice><orig>e</orig><reg>ē</reg></choice>kai paṇṇi-k kuṭutt<choice><orig>e</orig><reg>ē</reg></choice>ṉ
-                    </p>
+                </p>
                 <p>
                     It-taṉmattukku Akitam niṉaittār Uṇṭākil keṅkai karaiyiṟ-k kurā-p pacuvai-k koṉṟa <gap reason="lost"/>
                 </p>

@@ -72,177 +72,177 @@
             <change who="part:reda" when="2024-01-15" status="draft">Creation of the file</change>
         </revisionDesc>
     </teiHeader>
-
-<text xml:space="preserve">
-<body>
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-	
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-         		<lb n="1"/>svasti śrī
-         	</ab>
-         	
-    <lg met="āciriyappā">          
-        <l n="1">tiru-makaḷ pōla<unclear>-p peru</unclear>-nila-c-celviyum</l>
-        <l n="2">ta<unclear>ṉakkē y-urimai</unclear> pūṇṭamai maṉa-k-ko<lb n="2" break="no"/>ḷa</l>
-        <l n="3">kānta<choice><sic>ḷḷ</sic><corr>ḷ</corr></choice>ūr-c cā<choice><sic>ll</sic><corr>l</corr></choice>ai kala<choice><sic>mm</sic><corr>m</corr></choice> aṟutt-aru<choice><sic>ḷḷ</sic><corr>ḷ</corr></choice>i</l>
-        <l n="4">vēṅkai-nāṭu kaṅ<lb n="3" break="no"/><unclear>ka</unclear>-pāṭiyum</l>
-        <l n="5">nuḷampa-pāṭiyum taṭi<unclear>k</unclear>ai-pāṭiyum</l>
-        <l n="6">kuṭama<unclear>lai-n</unclear>āṭum kol<lb n="4" break="no"/>lamum kaliṅkamum</l>
-        <l n="7">tiṇ<unclear>ṭiṟal</unclear> v<unclear>e</unclear>ṟṟi taṇ<unclear>ṭ</unclear>āl ko<unclear>ṇ</unclear>ṭa ta<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice></l>
-        <l n="8"><unclear>e</unclear>ḻil vaḷar <lb n="5"/>Ūḻiyuḷ <unclear>E</unclear>llā <unclear>v-i</unclear>yāṇṭum</l>
-        <l n="9">toḻutaka viḷaṅkum yāṇ<unclear>ṭē</unclear></l>
-        <l n="10">ceḻiyarai<lb n="6" break="no"/>-t tēcukoḷ</l>
-    </lg>
     
-    <p>
-        <hi rend="grantha">śrī</hi>-kō-v-irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>kē<hi rend="grantha">sari</hi>-paṉma<unclear>r</unclear>kku yāṇṭu <num value="16"><g type="numeral">10</g> 6</num>-Āvatu
-    </p>
-    <p>
-        <lb n="7"/>Ūṟaiyū<unclear>r</unclear>-kūṟṟattu ciṟṟam<unclear>pal</unclear>tiru-c-cirāppa<choice><sic>ḷ</sic><corr>ḷḷ</corr></choice>i
-        Init’ irun<unclear>t'aru</unclear>ḷiya tiripūva
-        <lb n="8" break="no"/>ṉapatikku m<choice><orig>u</orig><reg>ū</reg></choice>la<hi rend="grantha">bṛttya</hi>ṉ-āṉa
-        ta<unclear>ṇ</unclear>ṭe<hi rend="grantha">svara</hi>-p-perumāḷ Aruḷā<unclear>l</unclear> pati-pāta-m<choice><orig>u</orig><reg>ū</reg></choice>la-p        
-        <lb n="9" break="no"/>-paṭṭuṭai-p-<unclear>pa</unclear>ñcācā<choice><sic>ṟṟ</sic><corr>r</corr></choice>iya 
-        <unclear>tē</unclear>vakaṉmikaḷōmum ciṟṟampa<unclear>l</unclear> Ūrōmum It⌈
-        <lb n="10" break="no"/><unclear>t</unclear>ēvar tēva<unclear>tāṉam</unclear> viḷattūr-n<unclear>ā</unclear>ṭṭu Ālaṅkuṭi
-        Uttama-cōḻa-p-pērāṟṟu kiḻak
-        <lb n="11"/><gap reason="lost" quantity="2" unit="character"/> kka <gap reason="lost" quantity="6" unit="character"/> maṇaliṭum kaḷarum tiṭalum-āy-k kiṭanta nilaṉ 2
-    </p>
-    <p>
-        Iṉṉi
-        <lb n="12" break="no"/>lam <unclear>Iraṇṭarai</unclear>yum cūralūr-kūṟ<unclear>ṟat</unclear>tu cūra<unclear>lūṟ</unclear>
-        kiḻavaṉ kampaṉ ma<unclear>ṇiyaṉ</unclear><surplus>n</surplus>-āṉa vik
-        <lb n="13" break="no"/><unclear>ki</unclear>rama-ciṅka-muvē<surplus>va</surplus>ntavēḷā<unclear>n I</unclear>ttēvar cit<unclear>ti</unclear>rai tirunāḷ
-        <unclear>On</unclear>patu nāḷum <hi rend="grantha">brā</hi>
-        <lb n="14" break="no"/><hi rend="grantha">hma</hi>ṇarum civa-<unclear>yō</unclear>kikaḷum tapa<hi rend="grantha">sya</hi>rum Uṇṇa Ivaṉ Iṉṉi<unclear>lam ti</unclear>rutti vacakki-k ko        
-        <lb n="15" break="no"/>ḷḷap peṟuvāṉ āka viṟṟu-k ku<unclear>ṭut</unclear>ta nilattukk’ icai<unclear>n</unclear>ta
-        
-        <list>
-            <item>kiḻ-pā<unclear>ṟk</unclear>’ ellai tiruvaraṅ
-                <lb n="16" break="no"/>ka-tēvatēvat<unclear>āṉa</unclear>m koṭṭiṭa<unclear>v</unclear>aiyum pañcakkālattu nilattukku
-                <unclear>mē</unclear>ṟkum</item>
+    <text xml:space="preserve">
+        <body>
             
-            <item>teṉ
-                <lb n="17" break="no"/>-pāṟkk’ ellai <supplied reason="lost">tiru</supplied>varaṅka-tēvatāṉam tāḷum pu<unclear>lat</unclear>tu<supplied reason="omitted">k</supplied>ku
-                vaṭakkum</item>            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                
+                <lg met="āciriyappā">          
+                    <l n="1">tiru-makaḷ pōla<unclear>-p peru</unclear>-nila-c-celviyum</l>
+                    <l n="2">ta<unclear>ṉakkē y-urimai</unclear> pūṇṭamai maṉa-k-ko<lb n="2" break="no"/>ḷa</l>
+                    <l n="3">kānta<choice><sic>ḷḷ</sic><corr>ḷ</corr></choice>ūr-c cā<choice><sic>ll</sic><corr>l</corr></choice>ai kala<choice><sic>mm</sic><corr>m</corr></choice> aṟutt-aru<choice><sic>ḷḷ</sic><corr>ḷ</corr></choice>i</l>
+                    <l n="4">vēṅkai-nāṭu kaṅ<lb n="3" break="no"/><unclear>ka</unclear>-pāṭiyum</l>
+                    <l n="5">nuḷampa-pāṭiyum taṭi<unclear>k</unclear>ai-pāṭiyum</l>
+                    <l n="6">kuṭama<unclear>lai-n</unclear>āṭum kol<lb n="4" break="no"/>lamum kaliṅkamum</l>
+                    <l n="7">tiṇ<unclear>ṭiṟal</unclear> v<unclear>e</unclear>ṟṟi taṇ<unclear>ṭ</unclear>āl ko<unclear>ṇ</unclear>ṭa ta<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice></l>
+                    <l n="8"><unclear>e</unclear>ḻil vaḷar <lb n="5"/>Ūḻiyuḷ <unclear>E</unclear>llā <unclear>v-i</unclear>yāṇṭum</l>
+                    <l n="9">toḻutaka viḷaṅkum yāṇ<unclear>ṭē</unclear></l>
+                    <l n="10">ceḻiyarai<lb n="6" break="no"/>-t tēcukoḷ</l>
+                </lg>
+                
+                <p>
+                    <hi rend="grantha">śrī</hi>-kō-v-irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>kē<hi rend="grantha">sari</hi>-paṉma<unclear>r</unclear>kku yāṇṭu <num value="16"><g type="numeral">10</g> 6</num>-Āvatu
+                </p>
+                <p>
+                    <lb n="7"/>Ūṟaiyū<unclear>r</unclear>-kūṟṟattu ciṟṟam<unclear>pal</unclear>tiru-c-cirāppa<choice><sic>ḷ</sic><corr>ḷḷ</corr></choice>i
+                    Init’ irun<unclear>t'aru</unclear>ḷiya tiripūva
+                    <lb n="8" break="no"/>ṉapatikku m<choice><orig>u</orig><reg>ū</reg></choice>la<hi rend="grantha">bṛttya</hi>ṉ-āṉa
+                    ta<unclear>ṇ</unclear>ṭe<hi rend="grantha">svara</hi>-p-perumāḷ Aruḷā<unclear>l</unclear> pati-pāta-m<choice><orig>u</orig><reg>ū</reg></choice>la-p        
+                    <lb n="9" break="no"/>-paṭṭuṭai-p-<unclear>pa</unclear>ñcācā<choice><sic>ṟṟ</sic><corr>r</corr></choice>iya 
+                    <unclear>tē</unclear>vakaṉmikaḷōmum ciṟṟampa<unclear>l</unclear> Ūrōmum It⌈
+                    <lb n="10" break="no"/><unclear>t</unclear>ēvar tēva<unclear>tāṉam</unclear> viḷattūr-n<unclear>ā</unclear>ṭṭu Ālaṅkuṭi
+                    Uttama-cōḻa-p-pērāṟṟu kiḻak
+                    <lb n="11"/><gap reason="lost" quantity="2" unit="character"/> kka <gap reason="lost" quantity="6" unit="character"/> maṇaliṭum kaḷarum tiṭalum-āy-k kiṭanta nilaṉ 2
+                </p>
+                <p>
+                    Iṉṉi
+                    <lb n="12" break="no"/>lam <unclear>Iraṇṭarai</unclear>yum cūralūr-kūṟ<unclear>ṟat</unclear>tu cūra<unclear>lūṟ</unclear>
+                    kiḻavaṉ kampaṉ ma<unclear>ṇiyaṉ</unclear><surplus>n</surplus>-āṉa vik
+                    <lb n="13" break="no"/><unclear>ki</unclear>rama-ciṅka-muvē<surplus>va</surplus>ntavēḷā<unclear>n I</unclear>ttēvar cit<unclear>ti</unclear>rai tirunāḷ
+                    <unclear>On</unclear>patu nāḷum <hi rend="grantha">brā</hi>
+                    <lb n="14" break="no"/><hi rend="grantha">hma</hi>ṇarum civa-<unclear>yō</unclear>kikaḷum tapa<hi rend="grantha">sya</hi>rum Uṇṇa Ivaṉ Iṉṉi<unclear>lam ti</unclear>rutti vacakki-k ko        
+                    <lb n="15" break="no"/>ḷḷap peṟuvāṉ āka viṟṟu-k ku<unclear>ṭut</unclear>ta nilattukk’ icai<unclear>n</unclear>ta
+                    
+                    <list>
+                        <item>kiḻ-pā<unclear>ṟk</unclear>’ ellai tiruvaraṅ
+                            <lb n="16" break="no"/>ka-tēvatēvat<unclear>āṉa</unclear>m koṭṭiṭa<unclear>v</unclear>aiyum pañcakkālattu nilattukku
+                            <unclear>mē</unclear>ṟkum</item>
+                        
+                        <item>teṉ
+                            <lb n="17" break="no"/>-pāṟkk’ ellai <supplied reason="lost">tiru</supplied>varaṅka-tēvatāṉam tāḷum pu<unclear>lat</unclear>tu<supplied reason="omitted">k</supplied>ku
+                            vaṭakkum</item>            
+                        
+                        <item>mēl-pārkk’ e
+                            <lb n="18" break="no"/>llai <unclear>nakkaṉ</unclear> <gap reason="lost" quantity="2" unit="character"/> ṅkulam uḷḷiṭṭārum <unclear>na</unclear> mamaṭṭi<unclear>yum</unclear>
+                            nakkaṉ koṟṟa virāṭi
+                            <lb n="19"/><unclear>U</unclear>ḷḷiṭṭār <unclear>ni</unclear>laṅkaḷu<supplied reason="omitted">k</supplied>ku kiḻakkum</item>
+                        
+                        <item>vaṭa-pāṟ<supplied reason="omitted">k</supplied>’ ellai
+                            tiruvaraṅka-tēvatāṉam cā
+                            <lb n="20" break="no"/>ntakuṭikku-t teṟkum</item>
+                    </list>
+                </p>
+                <p>        
+                    Ivvicai<unclear>n</unclear>ta peru-nāṅk' ellaiyuḷḷ akappaṭṭa
+                    nilam
+                    <lb n="21"/>Iraṇṭaraiyum viṟ<supplied reason="omitted">ṟu</supplied>-k kuṭut<unclear>tu Iṉ-ṉi</unclear>lattukku vilai <gap reason="lost" quantity="3" unit="character"/>
+                    <unclear>ka</unclear>ḻañc’ āka Ippoṉ <choice><orig>Añ</orig><reg>Aiṅ</reg></choice>-ka
+                    <lb n="22" break="no"/>ḻ<choice><orig>ai</orig><reg>a</reg></choice>ñcukkum Iṉṉilam <unclear>vi</unclear>ṟṟu-k kuṭuttu Ipp<unclear>oṉ</unclear> <choice><orig><unclear>Añ</unclear></orig><reg>Aiṅ</reg></choice>-<unclear>kaḻa</unclear>ñcum
+                    paṇṭārattu vaip
+                    <lb n="23" break="no"/>pittu-<supplied reason="omitted">k</supplied> koṇṭu Iṉṉilam citti<unclear>rai ti</unclear>ru-nāḷ Oṉpatu ṉāḷum <hi rend="grantha">br<choice><sic>a</sic><corr>ā</corr></choice>hma</hi>ṇa<unclear>ru</unclear>m <hi rend="grantha">śi</hi>va-<choice><sic>c</sic><corr>y</corr></choice>ōki<supplied reason="omitted">ka</supplied>ḷum tapa<hi rend="grantha">sya</hi>rum Uṇṇa        
+                    <lb n="24"/>Iṉṉilam Ipparicu kal mēl veṭṭik <unclear>k</unclear>oḷḷa-p peṟuvāṉ āka
+                    cūralūr kiḻavaṉ kampaṉ maṇiyaṉ-āna vikkirama-ciñka-mu        
+                    <lb n="25" break="no"/><unclear>vē</unclear>n=tavēḷāṉukku viṟṟu-<supplied reason="omitted">k</supplied> kuṭuttō<unclear>m</unclear>
+                    <unclear>ca</unclear>ṇṭē<hi rend="grantha">śva</hi>ra-perumāḷ Aruḷāl pati-p<unclear>ā</unclear>ta-m<choice><orig>u</orig><reg>ū</reg></choice>lappaṭṭuṭai-p-pañcā<supplied reason="omitted">cā</supplied><hi rend="grantha">ryya</hi>-tēvaka<unclear>ṉmika</unclear>        
+                    <lb n="26" break="no"/><unclear>ḷō</unclear>m ci<choice><sic>n</sic><corr>ṟ</corr></choice>ṟampal Ūrōmum
+                </p>
+                <p>        
+                    Ivv-a <gap reason="lost" quantity="3" unit="character"/> m paṇikka Eḻutiṉēṉ
+                    vaṇṇaka<gap reason="lost" quantity="1" unit="character"/>ṇa ku<unclear>ṭu</unclear> nak <gap reason="lost" quantity="10" unit="character"/>
+                </p>
+            </div>
             
-            <item>mēl-pārkk’ e
-                <lb n="18" break="no"/>llai <unclear>nakkaṉ</unclear> <gap reason="lost" quantity="2" unit="character"/> ṅkulam uḷḷiṭṭārum <unclear>na</unclear> mamaṭṭi<unclear>yum</unclear>
-                nakkaṉ koṟṟa virāṭi
-                <lb n="19"/><unclear>U</unclear>ḷḷiṭṭār <unclear>ni</unclear>laṅkaḷu<supplied reason="omitted">k</supplied>ku kiḻakkum</item>
+            <div type="apparatus">
+                
+                <listApp>
+                    
+                    <!--
+                        <app loc="0">
+                        <lem>...</lem>
+                        <rdg source="bib:Krishnan1964_01"/>
+                        </app>
+                    -->
+                    
+                    <app loc="7, 9, 26">
+                        <lem>ciṟṟampal</lem>
+                        <rdg source="bib:Krishnan1964_01"/>
+                        <note><ptr target="bib:Mahalingam1991_01"/> reads <foreign>ciṟṟāmpal</foreign> (blue Indian water-lily). Maybe read <foreign>ciṟṟampala</foreign>°.</note>
+                    </app>
+                    
+                    <app loc="14">
+                        <lem>civa<unclear>yō</unclear>kikaḷum</lem>
+                        <note>The <foreign>kompu</foreign> in <foreign>yō</foreign> is clear.</note>
+                    </app>
+                    
+                    <app loc="17">
+                        <lem><supplied reason="lost">tiru</supplied>varaṅka°</lem>
+                        <rdg source="bib:Krishnan1964_01"><gap reason="lost" quantity="2" unit="character"/> varaṅka°</rdg>
+                    </app>
+                    
+                    <app loc="25">
+                        <lem>°tēvaka<unclear>ṉmika</unclear><lb n="26" break="no"/><unclear>ḷō</unclear>m</lem>
+                        <note>The <foreign>kompu</foreign> in <foreign>ḷō</foreign> is clear.</note>
+                    </app> 
+                    
+                </listApp>
+                
+            </div>
             
-            <item>vaṭa-pāṟ<supplied reason="omitted">k</supplied>’ ellai
-                tiruvaraṅka-tēvatāṉam cā
-                <lb n="20" break="no"/>ntakuṭikku-t teṟkum</item>
-        </list>
-    </p>
-    <p>        
-        Ivvicai<unclear>n</unclear>ta peru-nāṅk' ellaiyuḷḷ akappaṭṭa
-        nilam
-        <lb n="21"/>Iraṇṭaraiyum viṟ<supplied reason="omitted">ṟu</supplied>-k kuṭut<unclear>tu Iṉ-ṉi</unclear>lattukku vilai <gap reason="lost" quantity="3" unit="character"/>
-        <unclear>ka</unclear>ḻañc’ āka Ippoṉ <choice><orig>Añ</orig><reg>Aiṅ</reg></choice>-ka
-        <lb n="22" break="no"/>ḻ<choice><orig>ai</orig><reg>a</reg></choice>ñcukkum Iṉṉilam <unclear>vi</unclear>ṟṟu-k kuṭuttu Ipp<unclear>oṉ</unclear> <choice><orig><unclear>Añ</unclear></orig><reg>Aiṅ</reg></choice>-<unclear>kaḻa</unclear>ñcum
-        paṇṭārattu vaip
-        <lb n="23" break="no"/>pittu-<supplied reason="omitted">k</supplied> koṇṭu Iṉṉilam citti<unclear>rai ti</unclear>ru-nāḷ Oṉpatu ṉāḷum <hi rend="grantha">br<choice><sic>a</sic><corr>ā</corr></choice>hma</hi>ṇa<unclear>ru</unclear>m <hi rend="grantha">śi</hi>va-<choice><sic>c</sic><corr>y</corr></choice>ōki<supplied reason="omitted">ka</supplied>ḷum tapa<hi rend="grantha">sya</hi>rum Uṇṇa        
-        <lb n="24"/>Iṉṉilam Ipparicu kal mēl veṭṭik <unclear>k</unclear>oḷḷa-p peṟuvāṉ āka
-        cūralūr kiḻavaṉ kampaṉ maṇiyaṉ-āna vikkirama-ciñka-mu        
-        <lb n="25" break="no"/><unclear>vē</unclear>n=tavēḷāṉukku viṟṟu-<supplied reason="omitted">k</supplied> kuṭuttō<unclear>m</unclear>
-        <unclear>ca</unclear>ṇṭē<hi rend="grantha">śva</hi>ra-perumāḷ Aruḷāl pati-p<unclear>ā</unclear>ta-m<choice><orig>u</orig><reg>ū</reg></choice>lappaṭṭuṭai-p-pañcā<supplied reason="omitted">cā</supplied><hi rend="grantha">ryya</hi>-tēvaka<unclear>ṉmika</unclear>        
-        <lb n="26" break="no"/><unclear>ḷō</unclear>m ci<choice><sic>n</sic><corr>ṟ</corr></choice>ṟampal Ūrōmum
-    </p>
-    <p>        
-        Ivv-a <gap reason="lost" quantity="3" unit="character"/> m paṇikka Eḻutiṉēṉ
-        vaṇṇaka<gap reason="lost" quantity="1" unit="character"/>ṇa ku<unclear>ṭu</unclear> nak <gap reason="lost" quantity="10" unit="character"/>
-    </p>
-</div>
-
-<div type="apparatus">
-         
-    <listApp>
-        
-        <!--
-            <app loc="0">
-            <lem>...</lem>
-            <rdg source="bib:Krishnan1964_01"/>
-            </app>
-        -->
-        
-        <app loc="7, 9, 26">
-            <lem>ciṟṟampal</lem>
-            <rdg source="bib:Krishnan1964_01"/>
-            <note><ptr target="bib:Mahalingam1991_01"/> reads <foreign>ciṟṟāmpal</foreign> (blue Indian water-lily). Maybe read <foreign>ciṟṟampala</foreign>°.</note>
-            </app>
-        
-        <app loc="14">
-            <lem>civa<unclear>yō</unclear>kikaḷum</lem>
-            <note>The <foreign>kompu</foreign> in <foreign>yō</foreign> is clear.</note>
-        </app>
-        
-        <app loc="17">
-            <lem><supplied reason="lost">tiru</supplied>varaṅka°</lem>
-            <rdg source="bib:Krishnan1964_01"><gap reason="lost" quantity="2" unit="character"/> varaṅka°</rdg>
-        </app>
-        
-        <app loc="25">
-            <lem>°tēvaka<unclear>ṉmika</unclear><lb n="26" break="no"/><unclear>ḷō</unclear>m</lem>
-            <note>The <foreign>kompu</foreign> in <foreign>ḷō</foreign> is clear.</note>
-        </app> 
-        
-    </listApp>
-    
-</div>
-
-<div type="translation" resp="part:emfr">
-	
-    <p n="1">
-        Hail! Prosperity!
-    </p>
-    
-    <p>...</p>
-    
-</div>
-    
-<!--<div type="commentary">
-         	
-</div>-->
-
-<div type="bibliography">
-
-    <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/412).</p>
-    <p>Edited, with a summary, in <bibl><ptr target="bib:Krishnan1964_01"/></bibl> (SII 17.442). Summary in <bibl><ptr target="bib:Mahalingam1991_01"/></bibl> (Tp 1136).</p>
-    <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Krishnan1964_01"/></bibl>.</p>
-    <p>Photos by Adeline Levivier (October 2022).</p>
-    
-    <listBibl type="primary">
-        
-        <bibl n="SII">
-            <ptr target="bib:Krishnan1964_01"/>
-            <citedRange unit="page">179</citedRange>
-            <citedRange unit="item">442</citedRange>
-        </bibl>
-        
-    </listBibl>
-	
-	<listBibl type="secondary">
-        
-        <bibl>
-            <ptr target="bib:ARIE1904-1905"/>
-            <citedRange unit="page">15</citedRange>
-            <citedRange unit="appendix">A/1904</citedRange>
-            <citedRange unit="item">412</citedRange>
-        </bibl>	
-        
-        <bibl n="TVM">
-            <ptr target="bib:Mahalingam1991_01"/>
-            <citedRange unit="page">252-253</citedRange>
-            <citedRange unit="item">Tp 1136</citedRange>
-        </bibl>
-	    
-    </listBibl>
-    
-</div>
-          
-      </body>
-	</text>
+            <div type="translation" resp="part:emfr">
+                
+                <p n="1">
+                    Hail! Prosperity!
+                </p>
+                
+                <p>...</p>
+                
+            </div>
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/412).</p>
+                <p>Edited, with a summary, in <bibl><ptr target="bib:Krishnan1964_01"/></bibl> (SII 17.442). Summary in <bibl><ptr target="bib:Mahalingam1991_01"/></bibl> (Tp 1136).</p>
+                <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Krishnan1964_01"/></bibl>.</p>
+                <p>Photos by Adeline Levivier (October 2022).</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:Krishnan1964_01"/>
+                        <citedRange unit="page">179</citedRange>
+                        <citedRange unit="item">442</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1904-1905"/>
+                        <citedRange unit="page">15</citedRange>
+                        <citedRange unit="appendix">A/1904</citedRange>
+                        <citedRange unit="item">412</citedRange>
+                    </bibl>	
+                    
+                    <bibl n="TVM">
+                        <ptr target="bib:Mahalingam1991_01"/>
+                        <citedRange unit="page">252-253</citedRange>
+                        <citedRange unit="item">Tp 1136</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>
