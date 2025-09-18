@@ -86,8 +86,8 @@
 
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 	
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/><supplied reason="omitted">sva</supplied>sti
+	<ab>
+		<lb n="1"/><hi rend="grantha"><supplied reason="omitted">sva</supplied>sti</hi>
 	</ab>
 	
 	<p>	
@@ -145,8 +145,8 @@
 	</p>
 	
 	<!--This is another inscription, which should be edited in a separate file-->
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		svasti śrī
+	<ab>
+		<hi rend="grantha">svasti śrī</hi>
 	</ab>
 	<p>
 		Iṟṟaināḷilē Ic-cēla-nāṭ-uṭaiya-p poṉ parappi

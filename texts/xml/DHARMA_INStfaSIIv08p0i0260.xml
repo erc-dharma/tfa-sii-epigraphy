@@ -5,159 +5,159 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Tirukkaḷar, Pārijātaneśvarasvāmin, no king, no year</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:reda">
-						<forename>Renato</forename>
-						<surname>Dávalos</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:reda">
-						<forename>Renato</forename>
-						<surname>Dávalos</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INStfaSIIv08p0i0260</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary/>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p/>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union’s Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:reda" when="2024-03-18" status="draft">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	
-<text xml:space="preserve">
-<body>
-			
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215"><!--check @rendition-->
-			
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>svasti śrī
-	</ab>
-	
-	
-	<p>
-		<hi rend="grantha">rājen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>cōḻa-vaḷa-nāṭṭu puṟaṅ-karampai-nā<unclear>ṭṭu</unclear> tiru-k-kaḷa
-		<lb n="2" break="no"/><unclear>r-uṭai</unclear>yār kōyilil tēvakaṉmikaḷ uḷḷiṭṭa pala paṇi <unclear>niva</unclear>ntakkāṟa<unclear>rum</unclear> kaṇṭu
-		
-		<lb n="3"/>Ik-kōyil <hi rend="grantha">śrī</hi>-mā<hi rend="grantha">heśvara</hi>-k-kaṇkāṇiyum tiru-p-patiya-k-kāṇiyum nam tē
-		<lb n="4" break="no"/><unclear>vā</unclear>rattukku tiru-<unclear>p-pa</unclear>tiyam pāṭum periyāṉ <unclear>maṟai</unclear> tēṭum poruḷ-āṉa Akaḷaṅka-pi
-		
-		<lb n="5" break="no"/><unclear>riya</unclear>ṉukku <gap quantity="4" reason="illegible" unit="character"/> va<hi rend="grantha">ṃśa</hi>ttāṟkum kāṇi-y-āka <gap reason="lost" unit="character" quantity="6"/> -c ce
-		<lb n="6" break="no"/>yya-k kaṭaviṉa vellām Ivaṉ i<unclear>ṟut</unclear>tiṉavaṉ kaṇkāṇi-p paṭiyē ceyya-p
-		<lb n="7" break="no"/>paṇṇi Ip-paṭi kalveṭṭa-p paṇṇuka
-	</p>
-	<p>
-		Itu tiru-vāy-moḻint-aru		
-		<lb n="8" break="no"/>ḷiṉa tirumuka-p paṭi
-	</p>
-	
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		svasti 
-	</ab>
-	
-</div>
-			
-<!--   <div type="apparatus">
-            
-</div>-->
-
-<!--<div type="translation" resp="part:reda part:emfr">
-	
-	<p n="1">
-		...
-	</p>
-	
-</div>-->
-	
-<!--   <div type="commentary">
-         	
-</div>-->
-
-<div type="bibliography">
-
-	<p>Reported in <bibl><ptr target="bib:ARIE1902-1903"/></bibl> (ARIE/1902-1903/A/1902/655).</p>
-	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.260).</p>
-	<p>This digital edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl>.</p>
-	
-	<listBibl type="primary">
-		
-		<bibl n="SII">
-			<ptr target="bib:SubrahmanyaAiyer1937_01"/>
-			<citedRange unit="page">145</citedRange>
-			<citedRange unit="item">260</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1902-1903"/>
-			<citedRange unit="page">18</citedRange>
-			<citedRange unit="appendix">A/1902</citedRange>
-			<citedRange unit="item">655</citedRange>
-		</bibl>	
-	</listBibl>
-	
-</div>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tirukkaḷar, Pārijātaneśvarasvāmin, no king, no year</title>
+                <respStmt>
+                    <resp>EpiDoc encoding</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INStfaSIIv08p0i0260</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union’s Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:reda" when="2024-03-18" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
     
-      </body>
-  </text>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215"><!--check @rendition-->
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                
+                
+                <p>
+                    <hi rend="grantha">rājen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>cōḻa-vaḷa-nāṭṭu puṟaṅ-karampai-nā<unclear>ṭṭu</unclear> tiru-k-kaḷa
+                    <lb n="2" break="no"/><unclear>r-uṭai</unclear>yār kōyilil tēvakaṉmikaḷ uḷḷiṭṭa pala paṇi <unclear>niva</unclear>ntakkāṟa<unclear>rum</unclear> kaṇṭu
+                    
+                    <lb n="3"/>Ik-kōyil <hi rend="grantha">śrī</hi>-mā<hi rend="grantha">heśvara</hi>-k-kaṇkāṇiyum tiru-p-patiya-k-kāṇiyum nam tē
+                    <lb n="4" break="no"/><unclear>vā</unclear>rattukku tiru-<unclear>p-pa</unclear>tiyam pāṭum periyāṉ <unclear>maṟai</unclear> tēṭum poruḷ-āṉa Akaḷaṅka-pi
+                    
+                    <lb n="5" break="no"/><unclear>riya</unclear>ṉukku <gap quantity="4" reason="illegible" unit="character"/> va<hi rend="grantha">ṃśa</hi>ttāṟkum kāṇi-y-āka <gap reason="lost" unit="character" quantity="6"/> -c ce
+                    <lb n="6" break="no"/>yya-k kaṭaviṉa vellām Ivaṉ i<unclear>ṟut</unclear>tiṉavaṉ kaṇkāṇi-p paṭiyē ceyya-p
+                    <lb n="7" break="no"/>paṇṇi Ip-paṭi kalveṭṭa-p paṇṇuka
+                </p>
+                <p>
+                    Itu tiru-vāy-moḻint-aru		
+                    <lb n="8" break="no"/>ḷiṉa tirumuka-p paṭi
+                </p>
+                
+                <ab>
+                    <hi rend="grantha">svasti</hi> 
+                </ab>
+                
+            </div>
+            
+            <!--   <div type="apparatus">
+                
+                </div>-->
+            
+            <!--<div type="translation" resp="part:reda part:emfr">
+                
+                <p n="1">
+                ...
+                </p>
+                
+                </div>-->
+            
+            <!--   <div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1902-1903"/></bibl> (ARIE/1902-1903/A/1902/655).</p>
+                <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.260).</p>
+                <p>This digital edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl>.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:SubrahmanyaAiyer1937_01"/>
+                        <citedRange unit="page">145</citedRange>
+                        <citedRange unit="item">260</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1902-1903"/>
+                        <citedRange unit="page">18</citedRange>
+                        <citedRange unit="appendix">A/1902</citedRange>
+                        <citedRange unit="item">655</citedRange>
+                    </bibl>	
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>
 <!--METADATA:
-	On the south wall of the mandapa in front of central shrine-->
+    On the south wall of the mandapa in front of central shrine-->

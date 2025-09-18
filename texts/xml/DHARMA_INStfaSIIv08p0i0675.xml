@@ -5,304 +5,304 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Allūr, Pañcanadeśvara, time of Rājakesarivarman Rājādhirāja, year 27</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:reda">
-						<forename>Renato</forename>
-						<surname>Dávalos</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:reda">
-						<forename>Renato</forename>
-						<surname>Dávalos</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INStfaSIIv08p0i0675</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary/>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p/>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union’s Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:reda" when="2024-04-04" status="draft">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-      <body>
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-			
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-         		<lb n="1"/>svasti śrī
-         	</ab>
-    
-         	<lg n="1" met="āciriyappā">
-         	    <l n="1">tiṅka<unclear>ḷēr taru taṉ</unclear> toṅkal veṇ-kuṭai-k k<choice><sic>i</sic><corr>ī</corr></choice><unclear>ḻ</unclear></l>
-         	    <l n="2"><supplied reason="lost">nila-makaḷ nilava malar</supplied>-makaṭ-p <unclear>pu</unclear>ṇara</l>
-         	    <l n="3"><supplied cert="low" reason="lost">ceṅkol</supplied> ōcci-k karuṅ kali kaṭint<supplied cert="low" reason="lost">uṭaṉ</supplied></l>
-         	    
-         	    <l n="4">maṉ<unclear>ṉupa</unclear>ll ūḻiyuḷ-t teṉ<unclear>ṉavar</unclear> <lb n="2"/>muvaruḷ</l>
-         	    <l n="5"><gap reason="lost" unit="character" quantity="6"/> ṟ</l>
-         	    <l n="6">parumatiṭ-p pacu<unclear>n</unclear>talai <gap reason="lost" quantity="8" unit="character"/></l>
-         	    <l n="7">ṉa Āṉai k-ki <gap unit="character" quantity="8" reason="undefined"/></l>
-         	    <l n="8">cuntara-pāṇṭiyaṉai-<unclear>t</unclear> ticai <gap reason="lost" quantity="4" unit="character"/></l>
-         	    <l n="9">t<unclear>ō</unclear>llaiyil <unclear>mu</unclear>llai <gap reason="lost" unit="character" quantity="2"/> <lb n="3" break="no"/>-t turatti Olkalil</l>
-         	    <l n="10">vē<supplied reason="lost">ṇāṭṭ' aracarai-c cō</supplied>ṇāṭṭ’ ot<choice><sic>u</sic><corr>i</corr></choice>kki</l>
-         	    <l n="11"><gap reason="lost" quantity="10" unit="character"/> muṉi<unclear>ntu</unclear></l>
-         	    <l n="12"><surplus>tu</surplus>vēlai <unclear>keḻu kā</unclear>n=taḷū<unclear>r-c</unclear> cālai kala<unclear>m a</unclear>ṟutt’</l>
-         	    <l n="13">ā<hi rend="grantha">ha</hi>vamallanum Añca-<unclear>k</unclear> kēvutaṉ</l>
-         	    <l n="14">ṟāṅka<lb n="4" break="no"/>rum paṭaiyāl Āṅ<unclear>ka</unclear>vaṉ kē <gap reason="lost" unit="character" quantity="5"/></l>
-         	    
-         	    <l n="15"><gap reason="lost" unit="character" quantity="6" precision="low"/> ṉu <gap reason="lost" unit="character" quantity="7" precision="low"/></l>
-         	    
-         	    <l n="16"><gap quantity="9" unit="character" reason="undefined" precision="low"/> <unclear>ma</unclear>ṭiya-t tiṇ-<unclear>ṭiṟal</unclear></l>
-         	    <l n="17">vi<unclear>ri</unclear>taru vikkiyam vicaiyātitta<choice><orig>n</orig><reg>ṉ</reg></choice>um</l>
-         	    <l n="18">tarumuraṭ c<choice><sic>a</sic><corr>ā</corr></choice>ṅka ma<orig>i</orig>yyanu<supplied reason="subaudible">m</supplied> mutali<lb n="5" break="no"/>ṉar </l>
-         	    <l n="19"><hi rend="grantha">samara-bhī</hi>ruvot<unclear>t' uṭ</unclear>ai<supplied reason="lost">ya nimi cuṭar</supplied></l>
-         	    <l n="20"><unclear>ta</unclear>ṉṉāṭai yiṟ<choice><sic><hi rend="grantha">ja</hi></sic><corr>ca</corr></choice>yaṅ koṇṭu tuṉṉār</l>
-         	    <l n="21">koḷḷi-p-pākkai Oḷḷeri maṭuttu</l>
-         	    <l n="22">villavar miṉa<lb n="6" break="no"/>var veñciṉa c<choice><sic>ā</sic><corr>a</corr></choice>ḷ<choice><sic>ū</sic><corr>u</corr></choice>kkiyar</l>
-         	    <l n="23">valla<unclear>va</unclear>r mutal eṉa <unclear>viḷaṅka</unclear> v<choice><sic>i</sic><corr>ī</corr></choice>ṟṟ-irunta</l><!--@emfr: differing verse fr. critical edition-->
-         	    <l n="24"><hi rend="grantha">j<choice><sic>e</sic><corr>a</corr></choice></hi>yaṅ-koṇṭa-cō<unclear>ḻa</unclear>ṉ Uyarn=ta perum-pukaḻ-k</l>         	
-         	</lg>
-    
-         	<p>          
-         	kō-v-irā<hi rend="grantha">ja</hi>-kēcari-pa<hi rend="grantha">ṉma</hi>r-āṉa Uṭaiyār <hi rend="grantha">śrī</hi>-<surplus>ri</surplus><hi rend="grantha">rāj<choice><sic>a</sic><corr>ā</corr></choice>dhi</hi>rāja
-         	    <lb n="7" break="no"/>-<hi rend="grantha">deva</hi>ṟk’ iyāṇṭu <num value="27"><unclear>2 <g type="numeral">10</g> </unclear> 7</num><unclear>-Ā</unclear>vatu	  
-         	</p>
-         	<p>
-         		kō-ṉērimai-koṇtāṉ nan tamar Eppē<surplus>r</surplus>ṟpaṭṭāṟkum 
-         		<list>
-         			<item>
-         				kēraḷāntaka-vaḷanāṭṭu Uṟaiyūr-k-kūṟṟattu tiru-vaṭa-kuṭi <hi rend="grantha">ma<unclear>h</unclear>
-         				<lb n="8" break="no"/>ā-de</hi>vaṟ <hi rend="grantha">stā</hi>ṉa-<unclear>maṭa</unclear>m tēvārattukku tiru-p-pa<unclear>tiyam vi</unclear>ṇṇappam ce<choice><orig>y</orig><reg>yy</reg></choice>um Ampalattāṭi tiru-nāvukk-araiyaṉukkum Ivaṉ vaṟkkatārkkum tāṉa
-         				<lb n="9" break="no"/>-<unclear>nimi</unclear>t<hi rend="grantha">tya</hi>m-āka kuṭuttōm <unclear>E</unclear>ṉṟum
-         			</item>
-         			<item>
-         				It-tēvar paṇṭarattē maṭa-pōkam-āka nittam tūṇi nel koḷḷa-<supplied reason="omitted">c</supplied> coṉṉōm Eṉṟum
-         			</item>
-         		</list>
-         		Aiyyar-iṭaiyil I
-         		<lb n="10" break="no"/>vaṉ muṉpu peṟṟ-uṭaiya tirumuka-p paṭiyē nāmum kuṭuttōm
-         	</p>
-         	<p>
-         	    
-         	    <list>
-         	        <item>
-         	            pala-paṇi-nivantakkāṟaraiyum nivantaṅkaḷum Iva<unclear>ṉ</unclear> coṉṉa vaṇṇamē-y ceyyavum
-         	        </item>
-         	        <item>
-         	            It-tēvar ci
-         	            <lb n="11" break="no"/>va-<hi rend="grantha">br<surplus>ra</surplus>āma</hi>ṇar Uḷḷiṭṭa pala-paṇ<surplus><hi rend="grantha">y</hi></surplus>i-nivantakkāṟaraiyum nivantaṅkaḷum Iva<choice><orig>n</orig><reg>ṉ</reg></choice>ē I<hi rend="grantha">ṭa</hi>vum māṟ<unclear>ṟa</unclear>vum
-         	        </item>
-         	        <item>
-         	            peṟuvāṉ ākavum
-         	        </item>
-         	    </list>
-         	    
-         	    coṉṉōm
-         	</p>
-         	<p>
-         		Ivaṉ Aiyya 
-         		<lb n="12" break="no"/><supplied reason="lost">r-iṭai</supplied> <gap reason="lost" unit="character" quantity="5"/> <supplied reason="lost">tiru-mu</supplied>ka-p paṭiyē <gap quantity="4" unit="character" reason="undefined"/>
-         		<lb n="13"/><gap reason="lost" unit="character" quantity="8"/> ṟuvaṉ āka coṉ <gap reason="lost" unit="character" quantity="7"/>
-         		<lb n="14"/><gap reason="lost" unit="character" quantity="8"/> Eḻuttu
-         	</p>
-         	<p>	
-         		yāṇṭu <num value="37">3 <g type="numeral">10</g> 7</num>-ḷ <num value="311">3 <unclear><g type="numeral">100</g> 3</unclear> <g type="numeral">10</g> 1</num>
-         		</p>
-         	<p>	
-         		<hi rend="grantha">pan-ma<supplied reason="lost">heśvara-ra</supplied>kṣai</hi>
-         	</p>	
-         </div>
-      	
-<div type="apparatus">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Allūr, Pañcanadeśvara, time of Rājakesarivarman Rājādhirāja, year 27</title>
+                <respStmt>
+                    <resp>EpiDoc encoding</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INStfaSIIv08p0i0675</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union’s Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:reda" when="2024-04-04" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
             
-    <listApp>
-        
-        <!--<app loc="0">
-            <lem></lem>
-            <rdg source="bib:SubrahmanyaAiyer1937_01"></rdg>			
-        </app>-->
-        
-        <app loc="1">
-            <lem><supplied cert="low" reason="lost">ceṅkol</supplied> ōccik</lem>
-            <rdg source="bib:SubrahmanyaAiyer1937_01"><gap reason="lost" unit="character" quantity="7"/> loccik</rdg>			
-        </app>
-        
-        <app loc="3">
-            <lem>vē <gap reason="lost" unit="character" quantity="7"/> ṇāṭṭo</lem>
-            <rdg source="bib:SubrahmanyaAiyer1937_01">ve<supplied reason="lost">ṇāṭṭaracaraic cō</supplied>ṇāṭṭo</rdg>			
-        </app>
-        
-        <app loc="11">
-            <lem>Aiyya<lb n="12" break="no"/><supplied reason="lost">riṭai</supplied> <gap reason="lost" unit="character" quantity="5"/></lem>
-            <rdg source="bib:SubrahmanyaAiyer1937_01">Aiyya<lb n="12" break="no"/><gap reason="lost" unit="character" quantity="8"/></rdg>			
-        </app>
-        
-        <app loc="14">
-            <lem><hi rend="grantha">panma<supplied reason="lost">heśvara-ra</supplied>kṣai</hi></lem>
-            <rdg source="bib:SubrahmanyaAiyer1937_01"><hi rend="grantha">panma</hi> <gap reason="lost" unit="character" quantity="8"/> <hi rend="grantha">kṣai</hi></rdg>			
-        </app>
-        
-    </listApp>
-	
-</div>
-      	
-<div type="translation" resp="part:reda part:emfr">
-      	
-    <p n="1">
-        Prosperity! Fortune!
-    </p>
-    
-    <p n="6-7">
-        27th year of the glorious Lord Rājādhirāja, <hi rend="italic">alias</hi> king Rājakesarivarman.     		
-    </p>
-    
-    <p n="1-6">
-        who, ... [<foreign>meykkīrtti</foreign> of king Rājādhirāja I]
-    </p>      		    		
-    
-    <p n="7-10">
-        To whomever kingsmen of Kōṉēriṉmaikoṇṭāṉ,
-        
-        <list>
-            <item>having said that <quote>We have given, for the purpose of a donation <supplied reason="explanation"><foreign>tāṉa-nimit<hi rend="grantha">tya</hi>m</foreign></supplied><!--RD: as ritual (nimittya) provisions (tāṉa), for [the benefit] of all our people--> 
-                to Ampalattāṭi Tirunāvukkaraiyaṉ and his lineage, who make recitation of holy hymns <supplied reason="explanation"><foreign>tiruppatiyam viṇṇappam ce<choice><orig>y</orig><reg>y</reg></choice>um</foreign></supplied> at/for the <foreign>tēvāram</foreign><note>On the meaning of <foreign>tēvāram</foreign> in this inscription, see <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (p. 18).</note> of the <foreign><hi rend="grantha">stā</hi>ṉa-<unclear>maṭa</unclear></foreign>m<!--RD: monastery of the temple EF: maybe simply monastery--> <supplied reason="subaudible">of</supplied> Mahādevar <supplied reason="subaudible">in</supplied> Tiruvaṭakuṭi in the Uraiyūr-kūṟṟam <supplied reason="subaudible">itself a subdivision</supplied> in the Kēraḷāntaka-vaḷa-ṇāṭu</quote></item>
-            <item>and having said that <quote>We commanded <supplied reason="explanation"><foreign>coṉṉōm</foreign></supplied> to take <supplied reason="explanation"><foreign>koḷḷa</foreign></supplied> perpetually <supplied reason="explanation"><foreign>nittam</foreign></supplied> <supplied reason="subaudible">one</supplied> <foreign>tūṇi</foreign> of paddy for the enjoyment <supplied reason="explanation"><foreign>pōkam-āka</foreign></supplied> of the monastery <supplied reason="explanation"><foreign>maṭam</foreign></supplied> from the treasury of this god.</quote></item>
-        </list>
-        
-        We have given <supplied reason="subaudible">so</supplied>, according to <supplied reason="subaudible">our</supplied> royal command <supplied reason="explanation"><foreign>tirumukap paṭi</foreign></supplied>, 
-        which he, among respected men/brahmins <supplied reason="explanation"><foreign>aiyariṭaiyil</foreign></supplied>, previously had <supplied reason="explanation"><foreign>peṟṟuṭaiya</foreign></supplied>.        
-    </p>
-    
-    <p n="10-11">
-        So that
-         <list>
-            <item>he sets up <supplied reason="explanation"><foreign>ceyyavum</foreign><note>Literally, "makes".</note></supplied> the endowments <supplied reason="explanation"><foreign>nivantaṅkaḷ</foreign></supplied> and appoints <supplied reason="explanation"><foreign>ceyyavum</foreign><note>Literally, "makes".</note></supplied>  the temple servants <supplied reason="explanation"><foreign>nivantakkāṟar</foreign></supplied> who perform various services, at the aforementioned way <supplied reason="explanation"><foreign>coṉṉa vaṇṇamē</foreign></supplied>,</item>
-            <item>he rotates <supplied reason="explanation"><foreign>māṟṟavum</foreign></supplied> and sets up <supplied reason="explanation"><foreign>iṭavum</foreign><note>Literally, "puts".</note></supplied> the endowments <supplied reason="explanation"><foreign>nivantaṅkaḷ</foreign></supplied> the endowments and appoints <supplied reason="explanation"><foreign>iṭavum</foreign><note>Literally, "puts".</note></supplied> the temple servants who perform different services, including the Śivabrāhmaṇas of this god,</item>
-             <item>he obtains <supplied reason="explanation"><foreign>peṟuvāṉ</foreign></supplied> <supplied reason="subaudible">this</supplied>,
-       </item>             
-        </list>
-        thus We commanded <supplied reason="explanation"><foreign>coṉṉōm</foreign></supplied>.
-    </p>
-    <p n="12-14">
-        We commanded <supplied reason="explanation"><foreign>coṉ<supplied reason="lost">ṉōm</supplied></foreign></supplied> that he, among respected men/brahmins <supplied reason="explanation"><foreign>aiya<unclear>riṭai</unclear><supplied reason="lost">yil</supplied></foreign></supplied>, obtains <gap reason="lost"/> according to <supplied reason="subaudible">our</supplied> royal command  <supplied reason="explanation"><foreign><unclear>tirumuka</unclear>p paṭiyē</foreign></supplied> <gap reason="lost"/>.
-    </p>
-    
-    <p n="13-14">
-        <supplied reason="lost">This is the</supplied> signature of <gap reason="lost"/>.
-    </p>
-    
-    <p n="14">
-        In the year 37, <supplied reason="subaudible">day</supplied> 311.
-    </p>
-    
-    <p n="14">
-        <supplied reason="lost">This is under the protection of</supplied> the Paṉmāheśvaras.
-    </p>
-    
-</div>
-      	
- <!-- <div type="commentary">
-         	<p n="20">
-         	</p>
-           <p n="21">
-         	</p>
-           <p n="36">
-         	</p>
-</div>-->
-
-<div type="bibliography">
-
-    <p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/A/1903/365A<note>That is, initially reported as 365 and bifurcated as 365A when edited in SII.</note>).</p>
-    <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.675).</p>
-    <p>This digital edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl>. This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
-    
-    <listBibl type="primary">
-        
-        <bibl n="SII">
-            <ptr target="bib:SubrahmanyaAiyer1937_01"/>
-            <citedRange unit="page">339-340</citedRange>
-            <citedRange unit="item">675</citedRange>
-        </bibl>
-        
-    </listBibl>           
-    
-    <listBibl type="secondary">
-        
-        <bibl>
-            <ptr target="bib:ARIE1903-1904"/>
-            <citedRange unit="page">27</citedRange>
-            <citedRange unit="appendix">A/1903</citedRange>
-            <citedRange unit="item">365</citedRange>
-        </bibl>
-        
-        <bibl>
-            <ptr target="bib:Veluppillai2013_01"/>
-        </bibl>
-        
-    </listBibl>
-    
-</div>
-          
-      </body>
-  </text>
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                
+                <lg n="1" met="āciriyappā">
+                    <l n="1">tiṅka<unclear>ḷēr taru taṉ</unclear> toṅkal veṇ-kuṭai-k k<choice><sic>i</sic><corr>ī</corr></choice><unclear>ḻ</unclear></l>
+                    <l n="2"><supplied reason="lost">nila-makaḷ nilava malar</supplied>-makaṭ-p <unclear>pu</unclear>ṇara</l>
+                    <l n="3"><supplied cert="low" reason="lost">ceṅkol</supplied> ōcci-k karuṅ kali kaṭint<supplied cert="low" reason="lost">uṭaṉ</supplied></l>
+                    
+                    <l n="4">maṉ<unclear>ṉupa</unclear>ll ūḻiyuḷ-t teṉ<unclear>ṉavar</unclear> <lb n="2"/>muvaruḷ</l>
+                    <l n="5"><gap reason="lost" unit="character" quantity="6"/> ṟ</l>
+                    <l n="6">parumatiṭ-p pacu<unclear>n</unclear>talai <gap reason="lost" quantity="8" unit="character"/></l>
+                    <l n="7">ṉa Āṉai k-ki <gap unit="character" quantity="8" reason="undefined"/></l>
+                    <l n="8">cuntara-pāṇṭiyaṉai-<unclear>t</unclear> ticai <gap reason="lost" quantity="4" unit="character"/></l>
+                    <l n="9">t<unclear>ō</unclear>llaiyil <unclear>mu</unclear>llai <gap reason="lost" unit="character" quantity="2"/> <lb n="3" break="no"/>-t turatti Olkalil</l>
+                    <l n="10">vē<supplied reason="lost">ṇāṭṭ' aracarai-c cō</supplied>ṇāṭṭ’ ot<choice><sic>u</sic><corr>i</corr></choice>kki</l>
+                    <l n="11"><gap reason="lost" quantity="10" unit="character"/> muṉi<unclear>ntu</unclear></l>
+                    <l n="12"><surplus>tu</surplus>vēlai <unclear>keḻu kā</unclear>n=taḷū<unclear>r-c</unclear> cālai kala<unclear>m a</unclear>ṟutt’</l>
+                    <l n="13">ā<hi rend="grantha">ha</hi>vamallanum Añca-<unclear>k</unclear> kēvutaṉ</l>
+                    <l n="14">ṟāṅka<lb n="4" break="no"/>rum paṭaiyāl Āṅ<unclear>ka</unclear>vaṉ kē <gap reason="lost" unit="character" quantity="5"/></l>
+                    
+                    <l n="15"><gap reason="lost" unit="character" quantity="6" precision="low"/> ṉu <gap reason="lost" unit="character" quantity="7" precision="low"/></l>
+                    
+                    <l n="16"><gap quantity="9" unit="character" reason="undefined" precision="low"/> <unclear>ma</unclear>ṭiya-t tiṇ-<unclear>ṭiṟal</unclear></l>
+                    <l n="17">vi<unclear>ri</unclear>taru vikkiyam vicaiyātitta<choice><orig>n</orig><reg>ṉ</reg></choice>um</l>
+                    <l n="18">tarumuraṭ c<choice><sic>a</sic><corr>ā</corr></choice>ṅka ma<orig>i</orig>yyanu<supplied reason="subaudible">m</supplied> mutali<lb n="5" break="no"/>ṉar </l>
+                    <l n="19"><hi rend="grantha">samara-bhī</hi>ruvot<unclear>t' uṭ</unclear>ai<supplied reason="lost">ya nimi cuṭar</supplied></l>
+                    <l n="20"><unclear>ta</unclear>ṉṉāṭai yiṟ<choice><sic><hi rend="grantha">ja</hi></sic><corr>ca</corr></choice>yaṅ koṇṭu tuṉṉār</l>
+                    <l n="21">koḷḷi-p-pākkai Oḷḷeri maṭuttu</l>
+                    <l n="22">villavar miṉa<lb n="6" break="no"/>var veñciṉa c<choice><sic>ā</sic><corr>a</corr></choice>ḷ<choice><sic>ū</sic><corr>u</corr></choice>kkiyar</l>
+                    <l n="23">valla<unclear>va</unclear>r mutal eṉa <unclear>viḷaṅka</unclear> v<choice><sic>i</sic><corr>ī</corr></choice>ṟṟ-irunta</l><!--@emfr: differing verse fr. critical edition-->
+                    <l n="24"><hi rend="grantha">j<choice><sic>e</sic><corr>a</corr></choice></hi>yaṅ-koṇṭa-cō<unclear>ḻa</unclear>ṉ Uyarn=ta perum-pukaḻ-k</l>         	
+                </lg>
+                
+                <p>          
+                    kō-v-irā<hi rend="grantha">ja</hi>-kēcari-pa<hi rend="grantha">ṉma</hi>r-āṉa Uṭaiyār <hi rend="grantha">śrī</hi>-<surplus>ri</surplus><hi rend="grantha">rāj<choice><sic>a</sic><corr>ā</corr></choice>dhi</hi>rāja
+                    <lb n="7" break="no"/>-<hi rend="grantha">deva</hi>ṟk’ iyāṇṭu <num value="27"><unclear>2 <g type="numeral">10</g> </unclear> 7</num><unclear>-Ā</unclear>vatu	  
+                </p>
+                <p>
+                    kō-ṉērimai-koṇtāṉ nan tamar Eppē<surplus>r</surplus>ṟpaṭṭāṟkum 
+                    <list>
+                        <item>
+                            kēraḷāntaka-vaḷanāṭṭu Uṟaiyūr-k-kūṟṟattu tiru-vaṭa-kuṭi <hi rend="grantha">ma<unclear>h</unclear>
+                                <lb n="8" break="no"/>ā-de</hi>vaṟ <hi rend="grantha">stā</hi>ṉa-<unclear>maṭa</unclear>m tēvārattukku tiru-p-pa<unclear>tiyam vi</unclear>ṇṇappam ce<choice><orig>y</orig><reg>yy</reg></choice>um Ampalattāṭi tiru-nāvukk-araiyaṉukkum Ivaṉ vaṟkkatārkkum tāṉa
+                            <lb n="9" break="no"/>-<unclear>nimi</unclear>t<hi rend="grantha">tya</hi>m-āka kuṭuttōm <unclear>E</unclear>ṉṟum
+                        </item>
+                        <item>
+                            It-tēvar paṇṭarattē maṭa-pōkam-āka nittam tūṇi nel koḷḷa-<supplied reason="omitted">c</supplied> coṉṉōm Eṉṟum
+                        </item>
+                    </list>
+                    Aiyyar-iṭaiyil I
+                    <lb n="10" break="no"/>vaṉ muṉpu peṟṟ-uṭaiya tirumuka-p paṭiyē nāmum kuṭuttōm
+                </p>
+                <p>
+                    
+                    <list>
+                        <item>
+                            pala-paṇi-nivantakkāṟaraiyum nivantaṅkaḷum Iva<unclear>ṉ</unclear> coṉṉa vaṇṇamē-y ceyyavum
+                        </item>
+                        <item>
+                            It-tēvar ci
+                            <lb n="11" break="no"/>va-<hi rend="grantha">br<surplus>ra</surplus>āma</hi>ṇar Uḷḷiṭṭa pala-paṇ<surplus><hi rend="grantha">y</hi></surplus>i-nivantakkāṟaraiyum nivantaṅkaḷum Iva<choice><orig>n</orig><reg>ṉ</reg></choice>ē I<hi rend="grantha">ṭa</hi>vum māṟ<unclear>ṟa</unclear>vum
+                        </item>
+                        <item>
+                            peṟuvāṉ ākavum
+                        </item>
+                    </list>
+                    
+                    coṉṉōm
+                </p>
+                <p>
+                    Ivaṉ Aiyya 
+                    <lb n="12" break="no"/><supplied reason="lost">r-iṭai</supplied> <gap reason="lost" unit="character" quantity="5"/> <supplied reason="lost">tiru-mu</supplied>ka-p paṭiyē <gap quantity="4" unit="character" reason="undefined"/>
+                    <lb n="13"/><gap reason="lost" unit="character" quantity="8"/> ṟuvaṉ āka coṉ <gap reason="lost" unit="character" quantity="7"/>
+                    <lb n="14"/><gap reason="lost" unit="character" quantity="8"/> Eḻuttu
+                </p>
+                <p>	
+                    yāṇṭu <num value="37">3 <g type="numeral">10</g> 7</num>-ḷ <num value="311">3 <unclear><g type="numeral">100</g> 3</unclear> <g type="numeral">10</g> 1</num>
+                </p>
+                <p>	
+                    <hi rend="grantha">pan-ma<supplied reason="lost">heśvara-ra</supplied>kṣai</hi>
+                </p>	
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>
+                    
+                    <!--<app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:SubrahmanyaAiyer1937_01"></rdg>			
+                        </app>-->
+                    
+                    <app loc="1">
+                        <lem><supplied cert="low" reason="lost">ceṅkol</supplied> ōccik</lem>
+                        <rdg source="bib:SubrahmanyaAiyer1937_01"><gap reason="lost" unit="character" quantity="7"/> loccik</rdg>			
+                    </app>
+                    
+                    <app loc="3">
+                        <lem>vē <gap reason="lost" unit="character" quantity="7"/> ṇāṭṭo</lem>
+                        <rdg source="bib:SubrahmanyaAiyer1937_01">ve<supplied reason="lost">ṇāṭṭaracaraic cō</supplied>ṇāṭṭo</rdg>			
+                    </app>
+                    
+                    <app loc="11">
+                        <lem>Aiyya<lb n="12" break="no"/><supplied reason="lost">riṭai</supplied> <gap reason="lost" unit="character" quantity="5"/></lem>
+                        <rdg source="bib:SubrahmanyaAiyer1937_01">Aiyya<lb n="12" break="no"/><gap reason="lost" unit="character" quantity="8"/></rdg>			
+                    </app>
+                    
+                    <app loc="14">
+                        <lem><hi rend="grantha">panma<supplied reason="lost">heśvara-ra</supplied>kṣai</hi></lem>
+                        <rdg source="bib:SubrahmanyaAiyer1937_01"><hi rend="grantha">panma</hi> <gap reason="lost" unit="character" quantity="8"/> <hi rend="grantha">kṣai</hi></rdg>			
+                    </app>
+                    
+                </listApp>
+                
+            </div>
+            
+            <div type="translation" resp="part:reda part:emfr">
+                
+                <p n="1">
+                    Prosperity! Fortune!
+                </p>
+                
+                <p n="6-7">
+                    27th year of the glorious Lord Rājādhirāja, <hi rend="italic">alias</hi> king Rājakesarivarman.     		
+                </p>
+                
+                <p n="1-6">
+                    who, ... [<foreign>meykkīrtti</foreign> of king Rājādhirāja I]
+                </p>      		    		
+                
+                <p n="7-10">
+                    To whomever kingsmen of Kōṉēriṉmaikoṇṭāṉ,
+                    
+                    <list>
+                        <item>having said that <quote>We have given, for the purpose of a donation <supplied reason="explanation"><foreign>tāṉa-nimit<hi rend="grantha">tya</hi>m</foreign></supplied><!--RD: as ritual (nimittya) provisions (tāṉa), for [the benefit] of all our people--> 
+                            to Ampalattāṭi Tirunāvukkaraiyaṉ and his lineage, who make recitation of holy hymns <supplied reason="explanation"><foreign>tiruppatiyam viṇṇappam ce<choice><orig>y</orig><reg>y</reg></choice>um</foreign></supplied> at/for the <foreign>tēvāram</foreign><note>On the meaning of <foreign>tēvāram</foreign> in this inscription, see <bibl><ptr target="bib:Veluppillai2013_01"/></bibl> (p. 18).</note> of the <foreign><hi rend="grantha">stā</hi>ṉa-<unclear>maṭa</unclear></foreign>m<!--RD: monastery of the temple EF: maybe simply monastery--> <supplied reason="subaudible">of</supplied> Mahādevar <supplied reason="subaudible">in</supplied> Tiruvaṭakuṭi in the Uraiyūr-kūṟṟam <supplied reason="subaudible">itself a subdivision</supplied> in the Kēraḷāntaka-vaḷa-ṇāṭu</quote></item>
+                        <item>and having said that <quote>We commanded <supplied reason="explanation"><foreign>coṉṉōm</foreign></supplied> to take <supplied reason="explanation"><foreign>koḷḷa</foreign></supplied> perpetually <supplied reason="explanation"><foreign>nittam</foreign></supplied> <supplied reason="subaudible">one</supplied> <foreign>tūṇi</foreign> of paddy for the enjoyment <supplied reason="explanation"><foreign>pōkam-āka</foreign></supplied> of the monastery <supplied reason="explanation"><foreign>maṭam</foreign></supplied> from the treasury of this god.</quote></item>
+                    </list>
+                    
+                    We have given <supplied reason="subaudible">so</supplied>, according to <supplied reason="subaudible">our</supplied> royal command <supplied reason="explanation"><foreign>tirumukap paṭi</foreign></supplied>, 
+                    which he, among respected men/brahmins <supplied reason="explanation"><foreign>aiyariṭaiyil</foreign></supplied>, previously had <supplied reason="explanation"><foreign>peṟṟuṭaiya</foreign></supplied>.        
+                </p>
+                
+                <p n="10-11">
+                    So that
+                    <list>
+                        <item>he sets up <supplied reason="explanation"><foreign>ceyyavum</foreign><note>Literally, "makes".</note></supplied> the endowments <supplied reason="explanation"><foreign>nivantaṅkaḷ</foreign></supplied> and appoints <supplied reason="explanation"><foreign>ceyyavum</foreign><note>Literally, "makes".</note></supplied>  the temple servants <supplied reason="explanation"><foreign>nivantakkāṟar</foreign></supplied> who perform various services, at the aforementioned way <supplied reason="explanation"><foreign>coṉṉa vaṇṇamē</foreign></supplied>,</item>
+                        <item>he rotates <supplied reason="explanation"><foreign>māṟṟavum</foreign></supplied> and sets up <supplied reason="explanation"><foreign>iṭavum</foreign><note>Literally, "puts".</note></supplied> the endowments <supplied reason="explanation"><foreign>nivantaṅkaḷ</foreign></supplied> the endowments and appoints <supplied reason="explanation"><foreign>iṭavum</foreign><note>Literally, "puts".</note></supplied> the temple servants who perform different services, including the Śivabrāhmaṇas of this god,</item>
+                        <item>he obtains <supplied reason="explanation"><foreign>peṟuvāṉ</foreign></supplied> <supplied reason="subaudible">this</supplied>,
+                        </item>             
+                    </list>
+                    thus We commanded <supplied reason="explanation"><foreign>coṉṉōm</foreign></supplied>.
+                </p>
+                <p n="12-14">
+                    We commanded <supplied reason="explanation"><foreign>coṉ<supplied reason="lost">ṉōm</supplied></foreign></supplied> that he, among respected men/brahmins <supplied reason="explanation"><foreign>aiya<unclear>riṭai</unclear><supplied reason="lost">yil</supplied></foreign></supplied>, obtains <gap reason="lost"/> according to <supplied reason="subaudible">our</supplied> royal command  <supplied reason="explanation"><foreign><unclear>tirumuka</unclear>p paṭiyē</foreign></supplied> <gap reason="lost"/>.
+                </p>
+                
+                <p n="13-14">
+                    <supplied reason="lost">This is the</supplied> signature of <gap reason="lost"/>.
+                </p>
+                
+                <p n="14">
+                    In the year 37, <supplied reason="subaudible">day</supplied> 311.
+                </p>
+                
+                <p n="14">
+                    <supplied reason="lost">This is under the protection of</supplied> the Paṉmāheśvaras.
+                </p>
+                
+            </div>
+            
+            <!-- <div type="commentary">
+                <p n="20">
+                </p>
+                <p n="21">
+                </p>
+                <p n="36">
+                </p>
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/A/1903/365A<note>That is, initially reported as 365 and bifurcated as 365A when edited in SII.</note>).</p>
+                <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.675).</p>
+                <p>This digital edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl>. This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:SubrahmanyaAiyer1937_01"/>
+                        <citedRange unit="page">339-340</citedRange>
+                        <citedRange unit="item">675</citedRange>
+                    </bibl>
+                    
+                </listBibl>           
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1903-1904"/>
+                        <citedRange unit="page">27</citedRange>
+                        <citedRange unit="appendix">A/1903</citedRange>
+                        <citedRange unit="item">365</citedRange>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:Veluppillai2013_01"/>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>
 
 <!--METADATA:
-	Rājādhirāja I
-	On the west base of the central shrine.
+    Rājādhirāja I
+    On the west base of the central shrine.
 -->

@@ -5,462 +5,462 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Citamparam, Nāṭarāja temple, time of Rājakesarivarman Rājendra Cōḻa, year 24</title>
-			    <respStmt>
-			        <resp>author of digital edition</resp>
-			        <persName ref="part:emfr">
-			            <forename>Emmanuel</forename>
-			            <surname>Francis</surname>
-			        </persName>
-			        <persName ref="part:reda">
-			            <forename>Renato</forename>
-			            <surname>Dávalos</surname>
-			        </persName>
-			    </respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INStfaSIIv04p0i0223</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported 
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Citamparam, Nāṭarāja temple, time of Rājakesarivarman Rājendra Cōḻa, year 24</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INStfaSIIv04p0i0223</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported 
                             Licence. To view a copy of the licence, visit
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary>Donation (<foreign>nivantam</foreign>) of gold (<foreign>kācu</foreign>) and paddy, trough a land donation, in order to meet expenses at the time of the procession of the Lord of Citamparam during festival times (<foreign>tiruvāṉi</foreign>, <foreign>tiruvātirai</foreign>, <foreign>tirumāci</foreign>). The recipients include Śrīmāheśvaras and 25 Brahmins who are to be fed, as well as reciters of <foreign>Tiruttoṇṭattokai</foreign>. Local communities of a <foreign>nakaram</foreign> (merchants, oil sellers, weavers, etc.) are demeed to maintain this donation.</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>Medial <foreign>i</foreign> and <foreign>ī</foreign> interchangeable.</p>
-							<p/>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Donation (<foreign>nivantam</foreign>) of gold (<foreign>kācu</foreign>) and paddy, trough a land donation, in order to meet expenses at the time of the procession of the Lord of Citamparam during festival times (<foreign>tiruvāṉi</foreign>, <foreign>tiruvātirai</foreign>, <foreign>tirumāci</foreign>). The recipients include Śrīmāheśvaras and 25 Brahmins who are to be fed, as well as reciters of <foreign>Tiruttoṇṭattokai</foreign>. Local communities of a <foreign>nakaram</foreign> (merchants, oil sellers, weavers, etc.) are demeed to maintain this donation.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>Medial <foreign>i</foreign> and <foreign>ī</foreign> interchangeable.</p>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:reda" when="2024-02-19">Creation of the file on the repository</change>
-		</revisionDesc>
-	</teiHeader>
-<text xml:space="preserve">
-<body>	
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-			
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>svasti śrī
-	</ab>
-	
-	<lg n="1" met="āciriyappā">		
-		
-		<l n="1">tiru<unclear>ma</unclear>ṇṇi vaḷara Iru-nila-maṭantaiyum</l>
-		<l n="2">poṟ-caya-p-pāvaiyum c<choice><orig>i</orig><reg>ī</reg></choice>rttaṉi-<choice><sic>l</sic><corr>c</corr></choice> celviyum</l>
-		<l n="3">taṉ peruntēviyar āki Iṉpuṟa</l>
-		<l n="4">neṭuntuyil ūḻiyu<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice> iṭai-<surplus>t</surplus>tuṟai-nāṭu</l>
-		<l n="5">tuṭarvaṉa vēli<lb n="2" break="no"/>-p paṭar vaṉavāciyum</l>
-		<l n="6">cuḷḷi-c cūḻ-matiḷ koḷḷi-p-pākkamum</l>
-		<l n="7">naṇṇaṟk’ arumuraṇ maṇṇai-k-kaṭakkamum</l>
-		<l n="8">poru-kaṭal <choice><sic>i</sic><corr>ī</corr></choice>ḻatt’ aracar tam muṭiyum</l>
-		<l n="9">āṅkavaṉ ṟēviyar ōṅk' eḻil muṭiyum</l>
-		<l n="10">maṉṉava<lb n="3" break="no"/>ṉ pakkal teṉṉavaṉ vaitta</l>
-		<l n="11">cuntara-muṭiyum Intiraṉ Āramum</l>
-		<l n="12">teṇ-ṭirai Īḻa-maṇṭala muḻuvatum</l>
-		<l n="13">eṟi-paṭai-k kēraḷa<unclear>ṉ</unclear> muṟaimayiṟ cūṭuṅ</l>
-		<l n="14">kulataṉam ākiya palar pukaḻ muṭiyum</l>
-		<l n="15">ceṅ<lb n="4" break="no"/>katir mālaiyuñ caṅkatir vēlai</l>
-		<l n="16">tol peruṅkāvaṟ paḻan t<choice><sic>i</sic><corr>ī</corr></choice>vum</l>
-		<l n="17">ceruviṟ ciṉavil irupatt’ oru kāl</l>
-		<l n="18">aracukaḷai kaṭṭa paracurāmaṉ</l>
-		<l n="19">mē<surplus>l</surplus>varuñ cā<choice><sic>ttāki</sic><corr>nti</corr></choice>ma<choice><sic>ṟṟivaṉe</sic><corr>ttivaraṇ</corr></choice><!--EF: check--> karuti</l>
-		<l n="20">y-iruttiya cem-poṟ ṟiru-t-ta<lb n="5" break="no"/>ku muṭiyum</l>
-		<l n="21">payaṅ-koṭu paḻimika muyaṅki mutukiṭṭ’</l>
-		<l n="22">oḷitta ceya-ciṅka<surplus>ḷa</surplus>ṉ a<surplus>ru</surplus>ḷa-p perum pukaḻoṭu</l>
-		<l n="23">piṭiyil iraṭṭai-pāṭi Ēḻ-arai</l>
-		<l n="24">Ilakkamum nava-n<choice><sic>e</sic><corr>i</corr></choice>ti-k-kula-p peru-malaikaḷum</l>
-		<l n="25">vikkirama-v<choice><orig>i</orig><reg>ī</reg></choice>ra-cakkara<lb n="6" break="no"/>-kōṭṭamum</l>
-		<l n="26">mutir paṭa vallai matura-maṇṭalamun</l>
-		<l n="27"><choice><sic>t</sic><corr>k</corr></choice>āmaṭai vaḷai<surplus>yamum</surplus> nāmaṇ<choice><sic>a</sic><corr>ai</corr></choice>-k kōṇ<choice><sic>am</sic><corr>aiy</corr></choice>um</l>
-		<l n="28">veñciṉa v<choice><orig>i</orig><reg>ī</reg></choice>ra-p-pañca-p-paḷḷiyum</l>
-		<l n="29">pāc<choice><sic>a</sic><corr>u</corr></choice>ṭai-p paḻaṉa mācuṇi-tēcamum</l>
-		<l n="30">Ayarvilvaṇ k<choice><orig>i</orig><reg>ī</reg></choice>r<lb n="7" break="no"/>tti Ātiṉakaravaiyil</l>
-		<l n="31">cantiraṉ tol<choice><sic>nalattiru</sic><corr>kula-t tintira rataṉai</corr></choice></l>
-		<l n="32">viḷai Amar-k-kaḷattu-k kiḷai-oṭum paṭittu-p</l>
-		<l n="33">palataṉa-t toṭu_niṟaik<choice><sic>ala</sic><corr>ulataṉa</corr></choice>-k kuvaiyuñ</l>
-		<l n="34">ciṭṭaruñ ceṟipuṉal oṭṭa vi<hi rend="grantha">ṣai</hi>yamum</l>
-		<l n="35">pūcurar cerunaṟ ko<lb n="8" break="no"/>cala-nāṭun</l>
-		<l n="36">taṉma-pālaṉai vemmuṉai Aḻittu</l>
-		<l n="37">vaṇṭamar cōlai taṇṭa puttiyum</l>
-		<l n="38">iraṇa cūraṇai muraṇ<choice><sic>a</sic><corr>u</corr></choice>ṟa tākki-t</l>
-		<l n="39">tikkeṇ<!--EF: emend?--> k<choice><orig>i</orig><reg>ī</reg></choice>rtti-t takkaṇa-lāṭamum</l>
-		<l n="40">varākavel koṭi Irācaparic ciṉṉamum</l><!--@emfr: from here, another meykkirti fr. irantam iracentiran -->
-		<l n="41">Iṉaiyaṉa <lb n="9"/>palavu muṉaivai<unclear>yi</unclear>ṟ kavantu</l>
-		<l n="42">poṟ-kaḷa-vaṉattu-p pārttiv<unclear>ā</unclear>rāṉār</l>
-		<l n="43">muṉṉaruñ ceyt' aṟiyātu piṉṉaruñ</l>
-		<l n="44">ceytum eṉṟ' eṇṇi-t tariyātu kaikalant’</l>
-		<l n="45">aṉaṉōr paṭaiyār-t taṉ tiru-mēṉiyil</l>
-		<l n="46">cempuṉal poḻiya <lb n="10" break="no"/>vīramaṟkaḷattu</l>
-		<l n="47">vicaiyapi<hi rend="grantha">ṣe</hi>kañ ceytu</l>
-		<l n="48">v<choice><orig>i</orig><reg>ī</reg></choice>ra-<hi rend="grantha">siṃhāsa</hi>ṉan tiriyaviṭṭ-aruḷi-k</l>
-		<l n="49">kaṅkā-puri pukunt-aruḷi-t taṉ</l>
-		<l n="50">ṟiru-k-kulatti yāvaruñ ceyt-aṟiyātatu</l>
-		<l n="51">vāḻiya Oḻukkan toṉṟi-t taṉ ṟiru-k</l>
-		<l n="52">kātalaṉ-ākiya veṉṟiṟ teriyaṟ</l>
-		<l n="53">kaṅ<lb n="11" break="no"/>kai koṇta cōḻaṉaiyum āṅkavaṉ</l>
-		<l n="54">ṟirumakaṉ-ākiya v-iru-nilaṅ kāval</l>
-		<l n="55">āḷa vanta perumāḷaiyum Oṅkeḻil</l>
-		<l n="56">vaḷavaṉ mu-m-muṭi-cōḻaṉaiyum</l>
-		<l n="57">Īṅkavaṉ ṟampi veṉṟiṟal mikupaṭai</l>
-		<l n="58">v<choice><orig>i</orig><reg>ī</reg></choice>ra-cōḻaṉaiyum veḷ ma<unclear>tu</unclear> rāntakaṉai<lb n="12" break="no"/>yun</l>
-		<l n="59">tarāpati tirumaka ṉi<hi rend="grantha">rāje</hi>ntiracōḻaṉaiyum</l>
-		<l n="60">Iru-muṭi-cōḻaṉ <hi rend="grantha">rāja-rāja</hi>ṉ</l>
-		<l n="61">curuti naṉ kuṇaruñ cōḻa-pāṇṭiyaṉaiyum</l>
-		<l n="62">varicilai-t tāṉai-k karikāla-cōḻaṉaiyum</l>
-		<l n="63">cōḻa-kaṅkaṉ <supplied reason="omitted">t</supplied>ōṭu kaḻal uttama-cōḻan eṉṟ'</l>
-		<l n="64">ivar tamakku veṉṟa <lb n="13"/>nāmaṅ</l>
-		<l n="65">kuṭuttu-t tiru-muṭi cūṭṭi-t teṉṉavar</l>
-		<l n="66">iruvar mutaliṉarkku-t taṉ kulam aḷittu-t</l>
-		<l n="67">tār-k-kaṭal ilaṅkaiyil poṟpuravi naṭātti</l>
-		<l n="68"><unclear>vi</unclear>ṟaṟ paṭai-k kali-kāmaṉ<!--Check--> viracalā mēkaṉai-k</l>
-		<l n="69">kaṭar-k kaḷiṟṟ-ōṭum Aka-p-paṭa-p piṭittu-k</l>
-		<l n="70">katir-muṭi-t <lb n="14"/>talai taṭintu</l>
-		<l n="71">muṉaivayiṟ pakaittu</l>
-		<l n="72">vantiḻi caḷukki yaṅceytiṉa</l>
-		<l n="73">paripavam iṉṉanāḷi likalamar ceytu</l>
-		<l n="74">n<choice><orig>i</orig><reg>ī</reg></choice>ṅkuvat’ eṉṟu kaṭal kiḷarntaṉa’</l>
-		<l n="75"><unclear>ki</unclear>ḷar-paṭai parappi</l>
-		<l n="76">Ārkali muṭakkāṟṟil caḷukki keṭṭuṭaitara Āṅkavaṉai</l>
-		<l n="77">Iru-muṭi mē<lb n="15" break="no"/>ṉ koṇṭa</l>
-	</lg>
-		
-	<p>
-		kō-v-irā<hi rend="grantha">ca</hi>kēcari-<hi rend="grantha">panmar</hi>-āṉa Uṭaiyār <hi rend="grantha">śrī-rāje</hi>ntira-cōḻa-tēvaṟku yāṇṭu <num value="24">2 <g type="numeral">10</g> 4</num> vatu
-	</p>
-	
-	<p>	
-		Uṭaiyār <hi rend="grantha">rāje</hi>ntira-cōḻa-tēvar Aṇukki nakkaṉ pāvai Uṭaiyār tiru-c-ciṟṟampalam-Uṭaiyār tiru-v-āṉi-t-tiru-nāḷil Uṭaiyār e
-		<lb n="16" break="no"/>ḻunt-aruḷum Aṟṟaikku vēṇṭum Aḻivukkum
-		<list>
-			<item>Uṭaiyārkku Amutu-paṭikkum Amutu ceyt-aruḷum poḻutu <hi rend="grantha">śrī-māheśvara</hi>ṟku-c caṭṭi-cōṟu Āyiraṅ kuṭukkavum tiru-viḻāvukku vēṇṭum Eṇṇ<choice><orig>ai</orig><reg>ey</reg></choice>kkum</item>		
-			<item>Uṭaiyār vaḻaṅki A
-		<lb n="17" break="no"/>ruḷum poṉṉukkum</item>
-			<item>paricaṭṭam uḷḷiṭṭa Aḻivukaḷukkum</item>
-		</list>
-		kācu Iraṇṭukkum Ip-paricu Ik-kuṟitta nivantaṅ cantirāti-t-tavaṟ cella <hi rend="grantha">rāje</hi>ntira-ciṅka-vaḷanāṭṭu-t taṉiyūr perum-paṟṟa-p-puliyūr-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-piṭākai-k kiṭāraṅ-koṇṭa-cō
-		<lb n="18" break="no"/>ḻa-p-periḷamai-nāṭṭu-p parākrama-cōḻa-nallūṟ-pāṟ kuṇamē<choice><orig>n</orig><reg>ṉ</reg></choice>akaipuram eṉṟ' ēṟiṉa nakarattukku-p piramāṇa-p paṭi koṇṭa nilaṉ 
-	
-		<list>
-			<item>
-				nāṟ-patt' eḻ' araiyum tillai-Aḻaka-nallūr nilattil vilai koṇṭ-uṭaiya tokka-pāṭi
-				<lb n="19"/>nilaṉ 
-			</item>
-			
-			<item>	
-				Āṟ' araiyum maturāntaka-p-periḷamai-nāṭṭu <hi rend="grantha">rājarāja</hi>-nallūr-p periya-pulaṉ nilaṉ 
-			</item>
-			
-			<item>	
-				Oṉṟē mu-k-kālē muṉṟu mā mu-k-kāṇiyum kuntavai-nallūr māḷikai-vāḻkkai-p pulaṉ Iraṇṭiṉāl<!--Ask VVG he says that there are two lands actually, so there is a description of both lands--> nilaṉ 
-			</item>
-			
-			<item>	
-				Oṉpatē mā-kāṇiyum Arumo
-				<lb n="20" break="no"/>ḻi-tēva-nallūr ceṇpaka-k-kāvuñ cēnta-paṭṭaṉum nilaṉ 
-			</item>
-			
-			<item>	
-				oṉpat' araiyē muṉṟu māvum Iṭai-p paḷḷam nilaṉ 
-			</item>
-			
-			<item>	
-				Eḻē Iraṇṭu mā Arai-k-kāṇi Itil pirāmaṇaṉ Uḻaiccāṇaṉ vātutēvaṉ mā-tēvaṉukku vilai vaṭakk' aṭaiya-p pulaṉ Iraṇṭiṉāl nila
-				<lb n="21" break="no"/>ṉ 
-			</item>
-			
-			<item>	
-				muṉṟ' arai n<choice><orig>i</orig><reg>ī</reg></choice>kki nilaṉum Ākka kuṇamē<choice><orig>n</orig><reg>ṉ</reg></choice>akai-purattōṭum Ēṟiṉa virivu nilaṉ 
-			</item>
-			
-			<item>	
-				Eḻuvatt' eṭṭē kālē Arai-k-kāṇi Itil Ōṭaikaḷālum nāraikālāṟṟālum kollaikaḷālum nattaṅkaḷālum
-				<lb n="22"/>n<choice><orig>i</orig><reg>ī</reg></choice>ṅku nilaṉ 
-			</item>
-			
-			<item>	
-				mu-p-pattu nālē kālē Arai-k-kāṇi n<choice><orig>i</orig><reg>ī</reg></choice>kki viḷai-nilaṉ 
-			</item>
-		</list>
-	</p>
-	
-	<p>	
-		nāṟ-pattu nāl vēli Itu pala kiṭappiṉālum<!--Ask VVGjust a verbal form--> <hi rend="grantha">rājentra</hi>-ciṅkaṉ marakkālukku-k kalattu vāy-t<!--Ask VVG--> tūṇi Iḷaiya-maṟa<unclear>k</unclear>kkālāl varicai Iṭṭa paṭi 
-		nellu nāl āyirattu Aiñ-ñūṟṟu-k kalam		
-	</p>	
-	<p>	
-		Itil mēl-vārattāl uṭaiya
-		<lb n="23"/>nellu Iraṇṭ' āyiratt' iru-nūṟṟ' aim-patiṉ kalam Ivai kācu Oṉṟukku nellu Eṇ-kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi-p patakk-āka vanta kācu Iru-nūṟṟ' aṟu-pattu nālē mu-k-kālum kuṇamē<choice><orig>n</orig><reg>ṉ</reg></choice>akai-purattu-k kāl aḷavu kōl kūḻi Uḷḷiṭṭa Aṅkāṭi-p-pā<supplied reason="omitted">ṭ</supplied>ṭattukku vaikka-k kaṭava kācu nāṟ-patiṉālum Ākka kācu muṉ-ṉūṟ
-		<lb n="24" break="no"/><unclear>ṟ</unclear>ṟu nālē mu-k-kālum Ivai y-iṟṟukku-c celav-āka
-	</p>
-	<p>
-		<list>
-			<item>mārkaḻi-t-tiru-v-ātirai-t-tiru-nāḷaikku vēṇṭum vaḻakkattukku paricaṭṭam Uḷḷiṭṭa Aḻivukaḷukku vēṇṭum kācu nūṟṟ' irupatum</item>
-			<item>tiru-v-āṉi-t-tiru-nāḷil Amutu-paṭikkum <unclear>va</unclear>ḻak<unclear>ka</unclear>-p paricaṭṭattukkum tiru-viḷakku Eṇṇ<choice><orig>ai</orig><reg>ey</reg></choice> nā-nūṟ
-				<lb n="25" break="no"/>ṟu nāḻi Uḷḷiṭṭa Aḻivukku-k kācu nūṟṟ' eṇpatum</item>
-			<item>
-				tiru-māci-t-tiru-nāḷil tiru-t-toṇṭa-t-t<choice><orig>u</orig><reg>o</reg></choice>kai viṇṇappa-c ceyvāṟkku kācu Aiñcum</item>
-		</list>
-		Āka kācu munnūṟṟ' añcum koṇṭu Ik-kuṟitta nimantam 
-	</p>
-	
-	<p>	
-		Inta-k kuṇa<supplied reason="omitted">mē</supplied><choice><orig>n</orig><reg>ṉ</reg></choice>akai-purattu Eṟiṉa viyāpārikaḷum veḷḷāḷarum caṅka
-		<lb n="26" break="no"/><surplus>ka</surplus>ra-p-pāṭiyārum cāliyarum paṭṭiṉavarum Uḷḷiṭṭa kuṭikaḷum taccar kollar taṭṭār koliyar Uḷḷiṭṭa kiḻ-kalaṉaikaḷuṅ koṇṭu In-nivantam cantirāttitavaṟ celutta-k kaṭavat' ākavum
-	</p>
-	
-	<p>		
-		Ivarē Ivv-ūr vaitta cālai ciṅkaḷāntakaṉil U
-		<lb n="27" break="no"/>ṇṇum pirāmaṇar Iru-patt-aivarkku nivantam-āka
-		Ivv-ūr-p pāl koṇṭa nilaṉ p<unclear>ā</unclear>ḻāy caṅkoṭi-y-āṉa paravai-naṅkai-nallūr-p pir<unclear>ā</unclear>m<supplied reason="omitted">ā</supplied>ṇa-p paṭi vilai-koṇṭuṭaiya nilaṉ
-		patiṉ aiñc' arai
-		Itil payir-<unclear>c</unclear> ceyya Oṇṇātu n<choice><orig>i</orig><reg>ī</reg></choice>ṅkum 
-		nilam Aiñ
-		<lb n="28" break="no"/>c' arai n<choice><orig>i</orig><reg>ī</reg></choice>kki nilaṉ
-		patiṟṟu vēli
-	</p>
-	<p>
-		Itu mara-k-kāl mēṟpaṭikālāl nellu-p paṉṉiru-kalaṉē mu-k-kuṟuṇi-y-āka varicai Iṭṭa nellu Iraṇṭ' āyirattu nā-ṉūṟṟ' aim-patiṉ kalam Itil mēl-vārattāl nellu Āyiratt' iru-nūṟṟ' iru-patt' aiṅ-kalam
-		Ivai y-iṟṟu
-		<lb n="29" break="no"/>kku-c celav-āka
-		
-		cālaiyil Uṇṇum pirāmaṇar Iru-patt-aivaṟku nāḷ Oṉṟukku
-		Arici tūṇi-p patakk' iru-nāḻi-y-āka
-		Aiñcu Iraṇṭu vaṇṇattāl nellu-k kalaṉē mu-k-kuṟuṇi Aiñ-ñāḻiyum 
-		
-		<list>
-			<item>kaṟi <gap reason="lost" quantity="10" unit="character"/> nellu-t tūṇiyum</item> 
-			<item>miḷaku Āḻākkukku nellu Aiñ-ñāḻi Uriyu
-				<lb n="30" break="no"/>m</item> 
-			<item>puḷi <choice><sic>Ai</sic><corr>A</corr></choice>mpalattukku nellu nā-ṉāḻiyum</item>
-			<item>Uppu Iru-nāḻikku nellu Aiñ-ñāḻiyum</item>
-			<item>mañcaḷ kaiyacukku nellu Uriyum</item> 
-			<item>ney Uri Āḻākkukku nellu Aiṅ-kuṟuṇiyum</item>
-			<item>tayir kuṟuṇi ṉā-ṉāḻi Urikku nellu mu-k-kuṟuṇi Oru nāḻi <gap unit="character" quantity="5" reason="lost"/></item>
-			<item>veṟṟilai-p-paṟṟu Iraṇṭ' araikkum pākku nūṟṟukku ne
-				<lb n="31" break="no"/>llu-k kuṟuṇi Aiñ-ñāḻiyum</item> 
-			<item>viṟaku-kaṭṭu Oṉṟukku nellu mu-k-kuṟuṇi nā-ṉāḻiyum</item>
-			<item>caṉi Oṉṟukku Eṇṇai Uri Āḻākkukku nellu Aiṅ-kuṟuṇiyum</item> 
-			<item>cālai-maṭaiyaṉ Oruvaṉukku nellu Aṟu-nāḻiyum</item>
-			<item>mēṟ-paṭiyāṉukku-p puṭavai <gap reason="lost" quantity="3" unit="character"/> nellu Eṇ-kalamum</item>
-			<item>kucavaṉ Oruvaṉukku nellu nā-ṉāḻiyum</item>
-			<item>vāḻvā
-				<lb n="32" break="no"/>cci taṇṇīr kalam ko<supplied reason="lost">ṇ</supplied>ṭu-varuvāṉukku nellu nā-ṉaḻiyum</item>
-			<item>paṇi ceyya peṇṭukaḷ Ai<surplus>pa</surplus>vaṟku nellu kuṟuṇiyum</item>
-			<item>mēṟpaṭiyārukku puṭavaikku nellu patiṉ kalamum</item>
-			<item>Aṟatēyaṉ Oruvaṉukku puṭavai mutalukku nellu-p patiṉ kalamum</item>
-			<item><gap reason="lost" unit="character" quantity="6"/>vaṉ Oruvaṉukku nellu kuṟuṇi nā-ṉāḻiyum</item>
-		</list>
-		
-	Āka nāḷ <supplied reason="lost">Oṉṟukku ne</supplied>
-		<lb n="33" break="no"/>llu mu-k-kalanē mu-k-kuṟuṇi-y-āka Ōr āṭṭaikku nellu Āyiratt' iru-nūṟṟ' iru-patt' aiṅ-kalanē Eḻu-kuṟuṇi nā-ṉāḻi Uḷpaṭa kuṟitta nivantaṅkaḷ yāṇṭu Iru-pattu nāl-āvatu mutal cantirātittavaṟ nivantam cella-k kalveṭṭiyatu <g type="pc">.</g>
-	
-	</p>	
-	
-</div>
-			
-<div type="apparatus">
-	
-	<listApp>
-		
-		<app loc="18">
-			<lem>kuṇamē<choice><orig>n</orig><reg>ṉ</reg></choice>akaipuram</lem>
-			<rdg source="bib:KrishnaSastri1923_01">kuṇamenkaipuram</rdg>
-			<note><ptr target="bib:KrishnaSastri1923_01"/> reads <foreign>kuṇamenakaipuram</foreign> in the other occurrences; the present readin <foreign>kuṇamenkaipuram</foreign> appears thus to be a typo.</note>
-		</app>	
-		
-	</listApp>	
-	
-</div>
-			
-<div type="translation" resp="part:reda part:emfr">
-								
-	<p n="1">
-		Prosperity! Fortune!		
-	</p>
-	
-	<p n="15">
-		24th year of the glorious king Rājendra Cōḻa<note>Rājendra II Cōḻa? See mixed <foreign>meykkīrtti</foreign>.</note>, the Lord, <hi rend="italic">alias</hi>the king Rājakesarivarman,  
-	</p>
-	
-	<p n="1-14">
-		who ... [<foreign>meykkīrtti</foreign> of Rājendra I Cōḻa mixed the <foreign>meykkīrtti</foreign> of Rājendra II Cōḻa]
-	</p>
-	
-	<p n="15-22">
-		For the expenses <supplied reason="explanation"><foreign>aḻivukkum</foreign></supplied> for the day <supplied reason="explanation"><foreign>aṟṟaikku</foreign></supplied> when the Lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied>, <supplied reason="subaudible">who is</supplied> the Lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied> of Nakkaṉ<note>The name, which literally means "the dancer girl", already indicates the service she had at the temple.</note> Pāvai—anintimate of the king Rājendra Cōḻa—, the Lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied> of Tirucciṟṟampalam,
-		graciously goes in procession <supplied reason="explanation"><foreign>eḻuntaruḷum</foreign></supplied>during the sacred festival of Tiruvāṇi,
-		that is,
-		<list>
-			<item>
-				for the oil <supplied reason="explanation"><foreign>eṇṇai</foreign><note>Variant of <foreign>eṇṇey</foreign>.</note></supplied> which is necessary for the sacred festival, so as to give <supplied reason="explanation"><foreign>kuṭukkavum</foreign></supplied> a thousand pots of cooked rice <supplied reason="explanation"><foreign>caṭṭi-c-cōṟu</foreign></supplied> to the <foreign>śrīmāheśvaras</foreign>,
-				at the time when the Lord is consuming the sacred offerings,
-			</item>			
-			
-			<item>
-				for the gold that the Lord graciously distribute <supplied reason="explanation"><foreign>vaḻaṅki aruḷum</foreign></supplied>,
-			</item>
-			
-			<item>
-				for the expenses including garments <supplied reason="explanation"><foreign>paricaṭṭam</foreign></supplied>,
-			</item>
-		</list>
-		
-		so that a <foreign>nibandha</foreign>, so described <supplied reason="explanation"><foreign>ik-kuṟitta</foreign></supplied>, goes <supplied reason="explanation"><foreign>cella</foreign><note>That is, "is in force".</note></supplied>, as long as the moon and the sun, for two <foreign>kācu</foreign>s in that manner<!--That is, a nibandha consisting in two kācus for the above purposes-->,
-		the land got, according to the document <supplied reason="explanation"><foreign>piramāṇam</foreign></supplied> <supplied reason="subaudible">meant for</supplied> for the <foreign>nakaram</foreign> settled <supplied reason="explanation"><foreign>ēṟiṉa</foreign></supplied><!--Orr: who reside--> under the name <supplied reason="explanation"><foreign>eṉṟu</foreign></supplied> Kuṇamēnakaipuram<note>This placename seems to be named after the <foreign>apsaras</foreign> Menakā (Tamil Mēṉakai).</note>, a section <supplied reason="explanation"><foreign>pāl</foreign></supplied> of Parākramacōḻanallūr in the Kiṭāraṅkoṇṭacōḻaperiḷamaināṭu<note>“The <foreign>uḻukuḍi</foreign> or the tenant-cultivators were otherwise called <foreign>pēriḷamai</foreign>”, according to Subbarayalu, South India, p. 153<!--update-->. It would mean that this refers to a Brāhmaṇa settlement which was in fact a hamlet of an independent village (<foreign>taṉiyūr</foreign>) inhabited by these <foreign>uḻukuṭi</foreign>. </note>, an eastern hamlet <supplied reason="explanation"><foreign>piṭākai</foreign></supplied> of Perumpaṟṟappuliyūr, an independent town <supplied reason="explanation"><foreign>taṉiyūr</foreign></supplied> in the Rājentiraciṅkaḷanāṭu
-		<supplied reason="subaudible">is as follows:</supplied> 
-		
-		<list>
-			<item>the Tokkapāṭi land <supplied reason="explanation"><foreign>nilaṉ</foreign></supplied> bought in the land at Tillai-Alākanallūr: fourty seven and a half <supplied reason="subaudible"><foreign>vēli</foreign></supplied>,</item>
-			<item>...</item>
-			<item>...</item>
-		</list>		
-		fourty four <foreign>vēli</foreign>s ...
-		four thousand five hundred pots of paddy.
-	</p>
-	
-	<p n="22-24">
-		Among this, the paddy of the lower share <supplied reason="explanation"><foreign>mēlvāram</foreign></supplied>, <supplied reason="subaudible">that is</supplied>, two thousand two hundred fifty pots,
-		these, so that ther be, for one <foreign>kācu</foreign>, eight pots, one <foreign>tūṇi</foreign> and one <foreign>patakku</foreign>,
-		...
-		whereas there are expenses <supplied reason="explanation"><foreign>celavu āka</foreign>, line 24</supplied>
-		...
-	</p>
-	
-	<p n="24-25">
-		So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 25</supplied>
-		<list>
-			<item>one hundred twenty <foreign>kācu</foreign>s necessary for the expenses including garments <supplied reason="explanation"><foreign>paricaṭṭam</foreign></supplied> for the customary usage <supplied reason="explanation"><foreign>vaḻakkam</foreign></supplied>, necessary for the <foreign>tiruvātirai</foreign> festival <supplied reason="subaudible">in the month of</supplied> Mārkaḻi,</item>
-			<item>one hundred eighty <foreign>kācu</foreign>s for the food-offerings, the customary garments, and the expenses including four hundred <foreign>nāḻi</foreign>s of oil for a glorious lamp, during the <foreign>tiruvāṉi</foreign> festival,</item>
-			<item>five <foreign>kācu</foreign>s for those who recite the Tiruttoṇṭattokai during the <foreign>tirumāci</foreign> festival,</item>
-		</list>
-		<supplied reason="subaudible">thus</supplied> taking/with <supplied reason="explanation"><foreign>koṇṭu</foreign></supplied> three hundred and five <foreign>kācu</foreign>s <supplied reason="subaudible">according to</supplied> the so described <foreign>nibandha</foreign>.
-	</p>
-		
-	<p n="25-26">
-		The residents <supplied reason="explanation"><foreign>kuṭi</foreign></supplied>, including the merchants who reside in this Kuṇamēṉakaipuram, the Veḷḷāḷars, the oil-sellers, ... 
-		and the lower … <supplied reason="explanation"><foreign>kīḻkalaṉai</foreign></supplied> including the ...
-		let them be assigned to run <supplied reason="explanation"><foreign>celutta</foreign></supplied> this <foreign>nibandha</foreign> as long as the moon and the sun.
-	</p>
-	
-	<p n="26-29">
-		Whereas/So that there be a <foreign>nibandha</foreign> for twenty-five Brahmins who take food in the Ciṅkaḷāntakaṉ feeding hall <supplied reason="explanation"><foreign>cālai</foreign></supplied>…,
-		according to the document <supplied reason="subaudible">concerning</supplied> Paravainaṅkainallūr <hi rend="italic">alias</hi> Caṅkoṭi, ... <supplied reason="explanation"><foreign>pāḻāy</foreign></supplied>,
-		the land got on a part <supplied reason="explanation"><foreign>pāl</foreign></supplied> of this village, <supplied reason="subaudible">that is,</supplied>
-		the land bought <supplied reason="subaudible">is as follows:</supplied> 
-		fifteen and a half <foreign>vēli</foreign>s;
-		among this, having removed five and a half land removed as unfit <supplied reason="explanation"><foreign>oṇṇātu</foreign></supplied> for yielding crops, <supplied reason="subaudible">thus</supplied> ten <foreign>vēli</foreign>s;
-		these, so that there be twelve pots and three <foreign>kuṟuṇi</foreign>s of paddy ...
-		two thousand four hundred fifty pots;
-		among this, the paddy of the lower share <supplied reason="explanation"><foreign>mēlvāram</foreign></supplied> <supplied reason="subaudible">is</supplied> one thousand two hundred twenty five pots ...
-		whereas there are expenses <supplied reason="explanation"><foreign>celavu āka</foreign>, line 26</supplied> ...
-		so that there be one <foreign>tūṇi</foreign> one <foreign>patakku</foreign> and two <foreign>nāḻi</foreign>s per day for twenty-five Brahmins who take food in the feeding hall <supplied reason="explanation"><foreign>cālai</foreign></supplied> ...
-	</p>
-	<p n="29">
-		So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 32</supplied>
-		
-		<list>
-			<item><supplied reason="lost">for</supplied> prepared food <supplied reason="explanation"><foreign>kaṟi</foreign></supplied> <gap reason="lost"/>, one <foreign>tūṇi</foreign> of paddy,</item>
-			<item>for one <foreign>āḻākku</foreign> of black pepper <supplied reason="explanation"><foreign>miḷaku</foreign></supplied>, five <foreign>nāḻi</foreign>s and one <foreign>uri</foreign> of paddy, </item>
-			<item>...</item>
-			<item>...</item>
-			<item>for one woman who brings waterpots, four <foreign>nāḻi</foreign>s of paddy,</item>
-			<item>...</item>
-		</list>	
-		
-		the <foreign>nibandha</foreign>s <supplied reason="subaudible">so</supplied> described—including,
-		so that there be per day three pots and three <foreign>kuṟuṇi</foreign>s of paddy, one thousand two hundred fifty five pots seven <foreign>kuṟuṇi</foreign>s and four <foreign>nāḻi</foreign>s per year—have been engraved,
-		so that, from the twenty-fourth year <supplied reason="subaudible">onwards</supplied>, a <foreign>nibandha</foreign> goes <supplied reason="explanation"><foreign>cella</foreign></supplied> as long as the moon and the sun.		
-	</p>
-</div>
-	
-<div type="commentary">
-		
-	<p>
-		The <foreign>meykkīrtti</foreign> is a mixing of that of Rājendra I Cōḻa and Rājendra II Cōḻa, as found in <bibl><ptr target="bib:Cuppiramaniyam1983_01"/></bibl> (pp. 26-28, 60-63), more precisely, we find first the <foreign>aṭi</foreign>s 1-39 of the <foreign>meykkīrtti</foreign> of Rājendra I Cōḻa and then most, but not all, of the <foreign>aṭi</foreign>s 37-82 of the 5th <foreign>meykkīrtti</foreign> of Rājendra II Cōḻa. This was already noted by <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (p. 29, fn. 5, at the word <foreign>takkaṇa-lāṭamum</foreign>, line 7): 
-		<quote>From here the wording is quite different from that of the other published inscriptions.</quote>
-	</p>
-</div>
-    	
-<div type="bibliography">
-	
-    <p>Reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/118).</p>
-    <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.223).</p>	
-    <p>Translated in <bibl><ptr target="bib:Orr2000_01"/></bibl> (pp. 121-122).</p>	
-    <p>This digital edition by Renato Dávalos and Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>. This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
-    
-    <listBibl type="primary">
-        
-        <bibl n="SII">
-            <ptr target="bib:KrishnaSastri1923_01"/>
-            <citedRange unit="page">29-31</citedRange>
-            <citedRange unit="item">223</citedRange>
-        </bibl>
-    </listBibl>
-    
-    <listBibl type="secondary">
-        
-        <bibl>
-            <ptr target="bib:ARIE1887-1888_01"/>
-            <citedRange unit="page">4</citedRange>
-            <citedRange unit="appendix">I/1887-1888</citedRange>
-            <citedRange unit="item">118</citedRange>			
-        </bibl>
-        
-        <bibl>
-            <ptr target="bib:Cuppiramaniyam1983_01"/>
-        </bibl>
-        
-        <bibl>
-            <ptr target="bib:Orr2000_01"/>
-            <citedRange unit="page">121-122</citedRange>	
-        </bibl>
-        
-    </listBibl>
-	
-</div>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:reda" when="2024-02-19">Creation of the file on the repository</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>	
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                
+                <lg n="1" met="āciriyappā">		
+                    
+                    <l n="1">tiru<unclear>ma</unclear>ṇṇi vaḷara Iru-nila-maṭantaiyum</l>
+                    <l n="2">poṟ-caya-p-pāvaiyum c<choice><orig>i</orig><reg>ī</reg></choice>rttaṉi-<choice><sic>l</sic><corr>c</corr></choice> celviyum</l>
+                    <l n="3">taṉ peruntēviyar āki Iṉpuṟa</l>
+                    <l n="4">neṭuntuyil ūḻiyu<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice> iṭai-<surplus>t</surplus>tuṟai-nāṭu</l>
+                    <l n="5">tuṭarvaṉa vēli<lb n="2" break="no"/>-p paṭar vaṉavāciyum</l>
+                    <l n="6">cuḷḷi-c cūḻ-matiḷ koḷḷi-p-pākkamum</l>
+                    <l n="7">naṇṇaṟk’ arumuraṇ maṇṇai-k-kaṭakkamum</l>
+                    <l n="8">poru-kaṭal <choice><sic>i</sic><corr>ī</corr></choice>ḻatt’ aracar tam muṭiyum</l>
+                    <l n="9">āṅkavaṉ ṟēviyar ōṅk' eḻil muṭiyum</l>
+                    <l n="10">maṉṉava<lb n="3" break="no"/>ṉ pakkal teṉṉavaṉ vaitta</l>
+                    <l n="11">cuntara-muṭiyum Intiraṉ Āramum</l>
+                    <l n="12">teṇ-ṭirai Īḻa-maṇṭala muḻuvatum</l>
+                    <l n="13">eṟi-paṭai-k kēraḷa<unclear>ṉ</unclear> muṟaimayiṟ cūṭuṅ</l>
+                    <l n="14">kulataṉam ākiya palar pukaḻ muṭiyum</l>
+                    <l n="15">ceṅ<lb n="4" break="no"/>katir mālaiyuñ caṅkatir vēlai</l>
+                    <l n="16">tol peruṅkāvaṟ paḻan t<choice><sic>i</sic><corr>ī</corr></choice>vum</l>
+                    <l n="17">ceruviṟ ciṉavil irupatt’ oru kāl</l>
+                    <l n="18">aracukaḷai kaṭṭa paracurāmaṉ</l>
+                    <l n="19">mē<surplus>l</surplus>varuñ cā<choice><sic>ttāki</sic><corr>nti</corr></choice>ma<choice><sic>ṟṟivaṉe</sic><corr>ttivaraṇ</corr></choice><!--EF: check--> karuti</l>
+                    <l n="20">y-iruttiya cem-poṟ ṟiru-t-ta<lb n="5" break="no"/>ku muṭiyum</l>
+                    <l n="21">payaṅ-koṭu paḻimika muyaṅki mutukiṭṭ’</l>
+                    <l n="22">oḷitta ceya-ciṅka<surplus>ḷa</surplus>ṉ a<surplus>ru</surplus>ḷa-p perum pukaḻoṭu</l>
+                    <l n="23">piṭiyil iraṭṭai-pāṭi Ēḻ-arai</l>
+                    <l n="24">Ilakkamum nava-n<choice><sic>e</sic><corr>i</corr></choice>ti-k-kula-p peru-malaikaḷum</l>
+                    <l n="25">vikkirama-v<choice><orig>i</orig><reg>ī</reg></choice>ra-cakkara<lb n="6" break="no"/>-kōṭṭamum</l>
+                    <l n="26">mutir paṭa vallai matura-maṇṭalamun</l>
+                    <l n="27"><choice><sic>t</sic><corr>k</corr></choice>āmaṭai vaḷai<surplus>yamum</surplus> nāmaṇ<choice><sic>a</sic><corr>ai</corr></choice>-k kōṇ<choice><sic>am</sic><corr>aiy</corr></choice>um</l>
+                    <l n="28">veñciṉa v<choice><orig>i</orig><reg>ī</reg></choice>ra-p-pañca-p-paḷḷiyum</l>
+                    <l n="29">pāc<choice><sic>a</sic><corr>u</corr></choice>ṭai-p paḻaṉa mācuṇi-tēcamum</l>
+                    <l n="30">Ayarvilvaṇ k<choice><orig>i</orig><reg>ī</reg></choice>r<lb n="7" break="no"/>tti Ātiṉakaravaiyil</l>
+                    <l n="31">cantiraṉ tol<choice><sic>nalattiru</sic><corr>kula-t tintira rataṉai</corr></choice></l>
+                    <l n="32">viḷai Amar-k-kaḷattu-k kiḷai-oṭum paṭittu-p</l>
+                    <l n="33">palataṉa-t toṭu_niṟaik<choice><sic>ala</sic><corr>ulataṉa</corr></choice>-k kuvaiyuñ</l>
+                    <l n="34">ciṭṭaruñ ceṟipuṉal oṭṭa vi<hi rend="grantha">ṣai</hi>yamum</l>
+                    <l n="35">pūcurar cerunaṟ ko<lb n="8" break="no"/>cala-nāṭun</l>
+                    <l n="36">taṉma-pālaṉai vemmuṉai Aḻittu</l>
+                    <l n="37">vaṇṭamar cōlai taṇṭa puttiyum</l>
+                    <l n="38">iraṇa cūraṇai muraṇ<choice><sic>a</sic><corr>u</corr></choice>ṟa tākki-t</l>
+                    <l n="39">tikkeṇ<!--EF: emend?--> k<choice><orig>i</orig><reg>ī</reg></choice>rtti-t takkaṇa-lāṭamum</l>
+                    <l n="40">varākavel koṭi Irācaparic ciṉṉamum</l><!--@emfr: from here, another meykkirti fr. irantam iracentiran -->
+                    <l n="41">Iṉaiyaṉa <lb n="9"/>palavu muṉaivai<unclear>yi</unclear>ṟ kavantu</l>
+                    <l n="42">poṟ-kaḷa-vaṉattu-p pārttiv<unclear>ā</unclear>rāṉār</l>
+                    <l n="43">muṉṉaruñ ceyt' aṟiyātu piṉṉaruñ</l>
+                    <l n="44">ceytum eṉṟ' eṇṇi-t tariyātu kaikalant’</l>
+                    <l n="45">aṉaṉōr paṭaiyār-t taṉ tiru-mēṉiyil</l>
+                    <l n="46">cempuṉal poḻiya <lb n="10" break="no"/>vīramaṟkaḷattu</l>
+                    <l n="47">vicaiyapi<hi rend="grantha">ṣe</hi>kañ ceytu</l>
+                    <l n="48">v<choice><orig>i</orig><reg>ī</reg></choice>ra-<hi rend="grantha">siṃhāsa</hi>ṉan tiriyaviṭṭ-aruḷi-k</l>
+                    <l n="49">kaṅkā-puri pukunt-aruḷi-t taṉ</l>
+                    <l n="50">ṟiru-k-kulatti yāvaruñ ceyt-aṟiyātatu</l>
+                    <l n="51">vāḻiya Oḻukkan toṉṟi-t taṉ ṟiru-k</l>
+                    <l n="52">kātalaṉ-ākiya veṉṟiṟ teriyaṟ</l>
+                    <l n="53">kaṅ<lb n="11" break="no"/>kai koṇta cōḻaṉaiyum āṅkavaṉ</l>
+                    <l n="54">ṟirumakaṉ-ākiya v-iru-nilaṅ kāval</l>
+                    <l n="55">āḷa vanta perumāḷaiyum Oṅkeḻil</l>
+                    <l n="56">vaḷavaṉ mu-m-muṭi-cōḻaṉaiyum</l>
+                    <l n="57">Īṅkavaṉ ṟampi veṉṟiṟal mikupaṭai</l>
+                    <l n="58">v<choice><orig>i</orig><reg>ī</reg></choice>ra-cōḻaṉaiyum veḷ ma<unclear>tu</unclear> rāntakaṉai<lb n="12" break="no"/>yun</l>
+                    <l n="59">tarāpati tirumaka ṉi<hi rend="grantha">rāje</hi>ntiracōḻaṉaiyum</l>
+                    <l n="60">Iru-muṭi-cōḻaṉ <hi rend="grantha">rāja-rāja</hi>ṉ</l>
+                    <l n="61">curuti naṉ kuṇaruñ cōḻa-pāṇṭiyaṉaiyum</l>
+                    <l n="62">varicilai-t tāṉai-k karikāla-cōḻaṉaiyum</l>
+                    <l n="63">cōḻa-kaṅkaṉ <supplied reason="omitted">t</supplied>ōṭu kaḻal uttama-cōḻan eṉṟ'</l>
+                    <l n="64">ivar tamakku veṉṟa <lb n="13"/>nāmaṅ</l>
+                    <l n="65">kuṭuttu-t tiru-muṭi cūṭṭi-t teṉṉavar</l>
+                    <l n="66">iruvar mutaliṉarkku-t taṉ kulam aḷittu-t</l>
+                    <l n="67">tār-k-kaṭal ilaṅkaiyil poṟpuravi naṭātti</l>
+                    <l n="68"><unclear>vi</unclear>ṟaṟ paṭai-k kali-kāmaṉ<!--Check--> viracalā mēkaṉai-k</l>
+                    <l n="69">kaṭar-k kaḷiṟṟ-ōṭum Aka-p-paṭa-p piṭittu-k</l>
+                    <l n="70">katir-muṭi-t <lb n="14"/>talai taṭintu</l>
+                    <l n="71">muṉaivayiṟ pakaittu</l>
+                    <l n="72">vantiḻi caḷukki yaṅceytiṉa</l>
+                    <l n="73">paripavam iṉṉanāḷi likalamar ceytu</l>
+                    <l n="74">n<choice><orig>i</orig><reg>ī</reg></choice>ṅkuvat’ eṉṟu kaṭal kiḷarntaṉa’</l>
+                    <l n="75"><unclear>ki</unclear>ḷar-paṭai parappi</l>
+                    <l n="76">Ārkali muṭakkāṟṟil caḷukki keṭṭuṭaitara Āṅkavaṉai</l>
+                    <l n="77">Iru-muṭi mē<lb n="15" break="no"/>ṉ koṇṭa</l>
+                </lg>
+                
+                <p>
+                    kō-v-irā<hi rend="grantha">ca</hi>kēcari-<hi rend="grantha">panmar</hi>-āṉa Uṭaiyār <hi rend="grantha">śrī-rāje</hi>ntira-cōḻa-tēvaṟku yāṇṭu <num value="24">2 <g type="numeral">10</g> 4</num> vatu
+                </p>
+                
+                <p>	
+                    Uṭaiyār <hi rend="grantha">rāje</hi>ntira-cōḻa-tēvar Aṇukki nakkaṉ pāvai Uṭaiyār tiru-c-ciṟṟampalam-Uṭaiyār tiru-v-āṉi-t-tiru-nāḷil Uṭaiyār e
+                    <lb n="16" break="no"/>ḻunt-aruḷum Aṟṟaikku vēṇṭum Aḻivukkum
+                    <list>
+                        <item>Uṭaiyārkku Amutu-paṭikkum Amutu ceyt-aruḷum poḻutu <hi rend="grantha">śrī-māheśvara</hi>ṟku-c caṭṭi-cōṟu Āyiraṅ kuṭukkavum tiru-viḻāvukku vēṇṭum Eṇṇ<choice><orig>ai</orig><reg>ey</reg></choice>kkum</item>		
+                        <item>Uṭaiyār vaḻaṅki A
+                            <lb n="17" break="no"/>ruḷum poṉṉukkum</item>
+                        <item>paricaṭṭam uḷḷiṭṭa Aḻivukaḷukkum</item>
+                    </list>
+                    kācu Iraṇṭukkum Ip-paricu Ik-kuṟitta nivantaṅ cantirāti-t-tavaṟ cella <hi rend="grantha">rāje</hi>ntira-ciṅka-vaḷanāṭṭu-t taṉiyūr perum-paṟṟa-p-puliyūr-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-piṭākai-k kiṭāraṅ-koṇṭa-cō
+                    <lb n="18" break="no"/>ḻa-p-periḷamai-nāṭṭu-p parākrama-cōḻa-nallūṟ-pāṟ kuṇamē<choice><orig>n</orig><reg>ṉ</reg></choice>akaipuram eṉṟ' ēṟiṉa nakarattukku-p piramāṇa-p paṭi koṇṭa nilaṉ 
+                    
+                    <list>
+                        <item>
+                            nāṟ-patt' eḻ' araiyum tillai-Aḻaka-nallūr nilattil vilai koṇṭ-uṭaiya tokka-pāṭi
+                            <lb n="19"/>nilaṉ 
+                        </item>
+                        
+                        <item>	
+                            Āṟ' araiyum maturāntaka-p-periḷamai-nāṭṭu <hi rend="grantha">rājarāja</hi>-nallūr-p periya-pulaṉ nilaṉ 
+                        </item>
+                        
+                        <item>	
+                            Oṉṟē mu-k-kālē muṉṟu mā mu-k-kāṇiyum kuntavai-nallūr māḷikai-vāḻkkai-p pulaṉ Iraṇṭiṉāl<!--Ask VVG he says that there are two lands actually, so there is a description of both lands--> nilaṉ 
+                        </item>
+                        
+                        <item>	
+                            Oṉpatē mā-kāṇiyum Arumo
+                            <lb n="20" break="no"/>ḻi-tēva-nallūr ceṇpaka-k-kāvuñ cēnta-paṭṭaṉum nilaṉ 
+                        </item>
+                        
+                        <item>	
+                            oṉpat' araiyē muṉṟu māvum Iṭai-p paḷḷam nilaṉ 
+                        </item>
+                        
+                        <item>	
+                            Eḻē Iraṇṭu mā Arai-k-kāṇi Itil pirāmaṇaṉ Uḻaiccāṇaṉ vātutēvaṉ mā-tēvaṉukku vilai vaṭakk' aṭaiya-p pulaṉ Iraṇṭiṉāl nila
+                            <lb n="21" break="no"/>ṉ 
+                        </item>
+                        
+                        <item>	
+                            muṉṟ' arai n<choice><orig>i</orig><reg>ī</reg></choice>kki nilaṉum Ākka kuṇamē<choice><orig>n</orig><reg>ṉ</reg></choice>akai-purattōṭum Ēṟiṉa virivu nilaṉ 
+                        </item>
+                        
+                        <item>	
+                            Eḻuvatt' eṭṭē kālē Arai-k-kāṇi Itil Ōṭaikaḷālum nāraikālāṟṟālum kollaikaḷālum nattaṅkaḷālum
+                            <lb n="22"/>n<choice><orig>i</orig><reg>ī</reg></choice>ṅku nilaṉ 
+                        </item>
+                        
+                        <item>	
+                            mu-p-pattu nālē kālē Arai-k-kāṇi n<choice><orig>i</orig><reg>ī</reg></choice>kki viḷai-nilaṉ 
+                        </item>
+                    </list>
+                </p>
+                
+                <p>	
+                    nāṟ-pattu nāl vēli Itu pala kiṭappiṉālum<!--Ask VVGjust a verbal form--> <hi rend="grantha">rājentra</hi>-ciṅkaṉ marakkālukku-k kalattu vāy-t<!--Ask VVG--> tūṇi Iḷaiya-maṟa<unclear>k</unclear>kkālāl varicai Iṭṭa paṭi 
+                    nellu nāl āyirattu Aiñ-ñūṟṟu-k kalam		
+                </p>	
+                <p>	
+                    Itil mēl-vārattāl uṭaiya
+                    <lb n="23"/>nellu Iraṇṭ' āyiratt' iru-nūṟṟ' aim-patiṉ kalam Ivai kācu Oṉṟukku nellu Eṇ-kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē tūṇi-p patakk-āka vanta kācu Iru-nūṟṟ' aṟu-pattu nālē mu-k-kālum kuṇamē<choice><orig>n</orig><reg>ṉ</reg></choice>akai-purattu-k kāl aḷavu kōl kūḻi Uḷḷiṭṭa Aṅkāṭi-p-pā<supplied reason="omitted">ṭ</supplied>ṭattukku vaikka-k kaṭava kācu nāṟ-patiṉālum Ākka kācu muṉ-ṉūṟ
+                    <lb n="24" break="no"/><unclear>ṟ</unclear>ṟu nālē mu-k-kālum Ivai y-iṟṟukku-c celav-āka
+                </p>
+                <p>
+                    <list>
+                        <item>mārkaḻi-t-tiru-v-ātirai-t-tiru-nāḷaikku vēṇṭum vaḻakkattukku paricaṭṭam Uḷḷiṭṭa Aḻivukaḷukku vēṇṭum kācu nūṟṟ' irupatum</item>
+                        <item>tiru-v-āṉi-t-tiru-nāḷil Amutu-paṭikkum <unclear>va</unclear>ḻak<unclear>ka</unclear>-p paricaṭṭattukkum tiru-viḷakku Eṇṇ<choice><orig>ai</orig><reg>ey</reg></choice> nā-nūṟ
+                            <lb n="25" break="no"/>ṟu nāḻi Uḷḷiṭṭa Aḻivukku-k kācu nūṟṟ' eṇpatum</item>
+                        <item>
+                            tiru-māci-t-tiru-nāḷil tiru-t-toṇṭa-t-t<choice><orig>u</orig><reg>o</reg></choice>kai viṇṇappa-c ceyvāṟkku kācu Aiñcum</item>
+                    </list>
+                    Āka kācu munnūṟṟ' añcum koṇṭu Ik-kuṟitta nimantam 
+                </p>
+                
+                <p>	
+                    Inta-k kuṇa<supplied reason="omitted">mē</supplied><choice><orig>n</orig><reg>ṉ</reg></choice>akai-purattu Eṟiṉa viyāpārikaḷum veḷḷāḷarum caṅka
+                    <lb n="26" break="no"/><surplus>ka</surplus>ra-p-pāṭiyārum cāliyarum paṭṭiṉavarum Uḷḷiṭṭa kuṭikaḷum taccar kollar taṭṭār koliyar Uḷḷiṭṭa kiḻ-kalaṉaikaḷuṅ koṇṭu In-nivantam cantirāttitavaṟ celutta-k kaṭavat' ākavum
+                </p>
+                
+                <p>		
+                    Ivarē Ivv-ūr vaitta cālai ciṅkaḷāntakaṉil U
+                    <lb n="27" break="no"/>ṇṇum pirāmaṇar Iru-patt-aivarkku nivantam-āka
+                    Ivv-ūr-p pāl koṇṭa nilaṉ p<unclear>ā</unclear>ḻāy caṅkoṭi-y-āṉa paravai-naṅkai-nallūr-p pir<unclear>ā</unclear>m<supplied reason="omitted">ā</supplied>ṇa-p paṭi vilai-koṇṭuṭaiya nilaṉ
+                    patiṉ aiñc' arai
+                    Itil payir-<unclear>c</unclear> ceyya Oṇṇātu n<choice><orig>i</orig><reg>ī</reg></choice>ṅkum 
+                    nilam Aiñ
+                    <lb n="28" break="no"/>c' arai n<choice><orig>i</orig><reg>ī</reg></choice>kki nilaṉ
+                    patiṟṟu vēli
+                </p>
+                <p>
+                    Itu mara-k-kāl mēṟpaṭikālāl nellu-p paṉṉiru-kalaṉē mu-k-kuṟuṇi-y-āka varicai Iṭṭa nellu Iraṇṭ' āyirattu nā-ṉūṟṟ' aim-patiṉ kalam Itil mēl-vārattāl nellu Āyiratt' iru-nūṟṟ' iru-patt' aiṅ-kalam
+                    Ivai y-iṟṟu
+                    <lb n="29" break="no"/>kku-c celav-āka
+                    
+                    cālaiyil Uṇṇum pirāmaṇar Iru-patt-aivaṟku nāḷ Oṉṟukku
+                    Arici tūṇi-p patakk' iru-nāḻi-y-āka
+                    Aiñcu Iraṇṭu vaṇṇattāl nellu-k kalaṉē mu-k-kuṟuṇi Aiñ-ñāḻiyum 
+                    
+                    <list>
+                        <item>kaṟi <gap reason="lost" quantity="10" unit="character"/> nellu-t tūṇiyum</item> 
+                        <item>miḷaku Āḻākkukku nellu Aiñ-ñāḻi Uriyu
+                            <lb n="30" break="no"/>m</item> 
+                        <item>puḷi <choice><sic>Ai</sic><corr>A</corr></choice>mpalattukku nellu nā-ṉāḻiyum</item>
+                        <item>Uppu Iru-nāḻikku nellu Aiñ-ñāḻiyum</item>
+                        <item>mañcaḷ kaiyacukku nellu Uriyum</item> 
+                        <item>ney Uri Āḻākkukku nellu Aiṅ-kuṟuṇiyum</item>
+                        <item>tayir kuṟuṇi ṉā-ṉāḻi Urikku nellu mu-k-kuṟuṇi Oru nāḻi <gap unit="character" quantity="5" reason="lost"/></item>
+                        <item>veṟṟilai-p-paṟṟu Iraṇṭ' araikkum pākku nūṟṟukku ne
+                            <lb n="31" break="no"/>llu-k kuṟuṇi Aiñ-ñāḻiyum</item> 
+                        <item>viṟaku-kaṭṭu Oṉṟukku nellu mu-k-kuṟuṇi nā-ṉāḻiyum</item>
+                        <item>caṉi Oṉṟukku Eṇṇai Uri Āḻākkukku nellu Aiṅ-kuṟuṇiyum</item> 
+                        <item>cālai-maṭaiyaṉ Oruvaṉukku nellu Aṟu-nāḻiyum</item>
+                        <item>mēṟ-paṭiyāṉukku-p puṭavai <gap reason="lost" quantity="3" unit="character"/> nellu Eṇ-kalamum</item>
+                        <item>kucavaṉ Oruvaṉukku nellu nā-ṉāḻiyum</item>
+                        <item>vāḻvā
+                            <lb n="32" break="no"/>cci taṇṇīr kalam ko<supplied reason="lost">ṇ</supplied>ṭu-varuvāṉukku nellu nā-ṉaḻiyum</item>
+                        <item>paṇi ceyya peṇṭukaḷ Ai<surplus>pa</surplus>vaṟku nellu kuṟuṇiyum</item>
+                        <item>mēṟpaṭiyārukku puṭavaikku nellu patiṉ kalamum</item>
+                        <item>Aṟatēyaṉ Oruvaṉukku puṭavai mutalukku nellu-p patiṉ kalamum</item>
+                        <item><gap reason="lost" unit="character" quantity="6"/>vaṉ Oruvaṉukku nellu kuṟuṇi nā-ṉāḻiyum</item>
+                    </list>
+                    
+                    Āka nāḷ <supplied reason="lost">Oṉṟukku ne</supplied>
+                    <lb n="33" break="no"/>llu mu-k-kalanē mu-k-kuṟuṇi-y-āka Ōr āṭṭaikku nellu Āyiratt' iru-nūṟṟ' iru-patt' aiṅ-kalanē Eḻu-kuṟuṇi nā-ṉāḻi Uḷpaṭa kuṟitta nivantaṅkaḷ yāṇṭu Iru-pattu nāl-āvatu mutal cantirātittavaṟ nivantam cella-k kalveṭṭiyatu <g type="pc">.</g>
+                    
+                </p>	
+                
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>
+                    
+                    <app loc="18">
+                        <lem>kuṇamē<choice><orig>n</orig><reg>ṉ</reg></choice>akaipuram</lem>
+                        <rdg source="bib:KrishnaSastri1923_01">kuṇamenkaipuram</rdg>
+                        <note><ptr target="bib:KrishnaSastri1923_01"/> reads <foreign>kuṇamenakaipuram</foreign> in the other occurrences; the present readin <foreign>kuṇamenkaipuram</foreign> appears thus to be a typo.</note>
+                    </app>	
+                    
+                </listApp>	
+                
+            </div>
+            
+            <div type="translation" resp="part:reda part:emfr">
+                
+                <p n="1">
+                    Prosperity! Fortune!		
+                </p>
+                
+                <p n="15">
+                    24th year of the glorious king Rājendra Cōḻa<note>Rājendra II Cōḻa? See mixed <foreign>meykkīrtti</foreign>.</note>, the Lord, <hi rend="italic">alias</hi>the king Rājakesarivarman,  
+                </p>
+                
+                <p n="1-14">
+                    who ... [<foreign>meykkīrtti</foreign> of Rājendra I Cōḻa mixed the <foreign>meykkīrtti</foreign> of Rājendra II Cōḻa]
+                </p>
+                
+                <p n="15-22">
+                    For the expenses <supplied reason="explanation"><foreign>aḻivukkum</foreign></supplied> for the day <supplied reason="explanation"><foreign>aṟṟaikku</foreign></supplied> when the Lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied>, <supplied reason="subaudible">who is</supplied> the Lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied> of Nakkaṉ<note>The name, which literally means "the dancer girl", already indicates the service she had at the temple.</note> Pāvai—anintimate of the king Rājendra Cōḻa—, the Lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied> of Tirucciṟṟampalam,
+                    graciously goes in procession <supplied reason="explanation"><foreign>eḻuntaruḷum</foreign></supplied>during the sacred festival of Tiruvāṇi,
+                    that is,
+                    <list>
+                        <item>
+                            for the oil <supplied reason="explanation"><foreign>eṇṇai</foreign><note>Variant of <foreign>eṇṇey</foreign>.</note></supplied> which is necessary for the sacred festival, so as to give <supplied reason="explanation"><foreign>kuṭukkavum</foreign></supplied> a thousand pots of cooked rice <supplied reason="explanation"><foreign>caṭṭi-c-cōṟu</foreign></supplied> to the <foreign>śrīmāheśvaras</foreign>,
+                            at the time when the Lord is consuming the sacred offerings,
+                        </item>			
+                        
+                        <item>
+                            for the gold that the Lord graciously distribute <supplied reason="explanation"><foreign>vaḻaṅki aruḷum</foreign></supplied>,
+                        </item>
+                        
+                        <item>
+                            for the expenses including garments <supplied reason="explanation"><foreign>paricaṭṭam</foreign></supplied>,
+                        </item>
+                    </list>
+                    
+                    so that a <foreign>nibandha</foreign>, so described <supplied reason="explanation"><foreign>ik-kuṟitta</foreign></supplied>, goes <supplied reason="explanation"><foreign>cella</foreign><note>That is, "is in force".</note></supplied>, as long as the moon and the sun, for two <foreign>kācu</foreign>s in that manner<!--That is, a nibandha consisting in two kācus for the above purposes-->,
+                    the land got, according to the document <supplied reason="explanation"><foreign>piramāṇam</foreign></supplied> <supplied reason="subaudible">meant for</supplied> for the <foreign>nakaram</foreign> settled <supplied reason="explanation"><foreign>ēṟiṉa</foreign></supplied><!--Orr: who reside--> under the name <supplied reason="explanation"><foreign>eṉṟu</foreign></supplied> Kuṇamēnakaipuram<note>This placename seems to be named after the <foreign>apsaras</foreign> Menakā (Tamil Mēṉakai).</note>, a section <supplied reason="explanation"><foreign>pāl</foreign></supplied> of Parākramacōḻanallūr in the Kiṭāraṅkoṇṭacōḻaperiḷamaināṭu<note>“The <foreign>uḻukuḍi</foreign> or the tenant-cultivators were otherwise called <foreign>pēriḷamai</foreign>”, according to Subbarayalu, South India, p. 153<!--update-->. It would mean that this refers to a Brāhmaṇa settlement which was in fact a hamlet of an independent village (<foreign>taṉiyūr</foreign>) inhabited by these <foreign>uḻukuṭi</foreign>. </note>, an eastern hamlet <supplied reason="explanation"><foreign>piṭākai</foreign></supplied> of Perumpaṟṟappuliyūr, an independent town <supplied reason="explanation"><foreign>taṉiyūr</foreign></supplied> in the Rājentiraciṅkaḷanāṭu
+                    <supplied reason="subaudible">is as follows:</supplied> 
+                    
+                    <list>
+                        <item>the Tokkapāṭi land <supplied reason="explanation"><foreign>nilaṉ</foreign></supplied> bought in the land at Tillai-Alākanallūr: fourty seven and a half <supplied reason="subaudible"><foreign>vēli</foreign></supplied>,</item>
+                        <item>...</item>
+                        <item>...</item>
+                    </list>		
+                    fourty four <foreign>vēli</foreign>s ...
+                    four thousand five hundred pots of paddy.
+                </p>
+                
+                <p n="22-24">
+                    Among this, the paddy of the lower share <supplied reason="explanation"><foreign>mēlvāram</foreign></supplied>, <supplied reason="subaudible">that is</supplied>, two thousand two hundred fifty pots,
+                    these, so that ther be, for one <foreign>kācu</foreign>, eight pots, one <foreign>tūṇi</foreign> and one <foreign>patakku</foreign>,
+                    ...
+                    whereas there are expenses <supplied reason="explanation"><foreign>celavu āka</foreign>, line 24</supplied>
+                    ...
+                </p>
+                
+                <p n="24-25">
+                    So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 25</supplied>
+                    <list>
+                        <item>one hundred twenty <foreign>kācu</foreign>s necessary for the expenses including garments <supplied reason="explanation"><foreign>paricaṭṭam</foreign></supplied> for the customary usage <supplied reason="explanation"><foreign>vaḻakkam</foreign></supplied>, necessary for the <foreign>tiruvātirai</foreign> festival <supplied reason="subaudible">in the month of</supplied> Mārkaḻi,</item>
+                        <item>one hundred eighty <foreign>kācu</foreign>s for the food-offerings, the customary garments, and the expenses including four hundred <foreign>nāḻi</foreign>s of oil for a glorious lamp, during the <foreign>tiruvāṉi</foreign> festival,</item>
+                        <item>five <foreign>kācu</foreign>s for those who recite the Tiruttoṇṭattokai during the <foreign>tirumāci</foreign> festival,</item>
+                    </list>
+                    <supplied reason="subaudible">thus</supplied> taking/with <supplied reason="explanation"><foreign>koṇṭu</foreign></supplied> three hundred and five <foreign>kācu</foreign>s <supplied reason="subaudible">according to</supplied> the so described <foreign>nibandha</foreign>.
+                </p>
+                
+                <p n="25-26">
+                    The residents <supplied reason="explanation"><foreign>kuṭi</foreign></supplied>, including the merchants who reside in this Kuṇamēṉakaipuram, the Veḷḷāḷars, the oil-sellers, ... 
+                    and the lower … <supplied reason="explanation"><foreign>kīḻkalaṉai</foreign></supplied> including the ...
+                    let them be assigned to run <supplied reason="explanation"><foreign>celutta</foreign></supplied> this <foreign>nibandha</foreign> as long as the moon and the sun.
+                </p>
+                
+                <p n="26-29">
+                    Whereas/So that there be a <foreign>nibandha</foreign> for twenty-five Brahmins who take food in the Ciṅkaḷāntakaṉ feeding hall <supplied reason="explanation"><foreign>cālai</foreign></supplied>…,
+                    according to the document <supplied reason="subaudible">concerning</supplied> Paravainaṅkainallūr <hi rend="italic">alias</hi> Caṅkoṭi, ... <supplied reason="explanation"><foreign>pāḻāy</foreign></supplied>,
+                    the land got on a part <supplied reason="explanation"><foreign>pāl</foreign></supplied> of this village, <supplied reason="subaudible">that is,</supplied>
+                    the land bought <supplied reason="subaudible">is as follows:</supplied> 
+                    fifteen and a half <foreign>vēli</foreign>s;
+                    among this, having removed five and a half land removed as unfit <supplied reason="explanation"><foreign>oṇṇātu</foreign></supplied> for yielding crops, <supplied reason="subaudible">thus</supplied> ten <foreign>vēli</foreign>s;
+                    these, so that there be twelve pots and three <foreign>kuṟuṇi</foreign>s of paddy ...
+                    two thousand four hundred fifty pots;
+                    among this, the paddy of the lower share <supplied reason="explanation"><foreign>mēlvāram</foreign></supplied> <supplied reason="subaudible">is</supplied> one thousand two hundred twenty five pots ...
+                    whereas there are expenses <supplied reason="explanation"><foreign>celavu āka</foreign>, line 26</supplied> ...
+                    so that there be one <foreign>tūṇi</foreign> one <foreign>patakku</foreign> and two <foreign>nāḻi</foreign>s per day for twenty-five Brahmins who take food in the feeding hall <supplied reason="explanation"><foreign>cālai</foreign></supplied> ...
+                </p>
+                <p n="29">
+                    So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 32</supplied>
+                    
+                    <list>
+                        <item><supplied reason="lost">for</supplied> prepared food <supplied reason="explanation"><foreign>kaṟi</foreign></supplied> <gap reason="lost"/>, one <foreign>tūṇi</foreign> of paddy,</item>
+                        <item>for one <foreign>āḻākku</foreign> of black pepper <supplied reason="explanation"><foreign>miḷaku</foreign></supplied>, five <foreign>nāḻi</foreign>s and one <foreign>uri</foreign> of paddy, </item>
+                        <item>...</item>
+                        <item>...</item>
+                        <item>for one woman who brings waterpots, four <foreign>nāḻi</foreign>s of paddy,</item>
+                        <item>...</item>
+                    </list>	
+                    
+                    the <foreign>nibandha</foreign>s <supplied reason="subaudible">so</supplied> described—including,
+                    so that there be per day three pots and three <foreign>kuṟuṇi</foreign>s of paddy, one thousand two hundred fifty five pots seven <foreign>kuṟuṇi</foreign>s and four <foreign>nāḻi</foreign>s per year—have been engraved,
+                    so that, from the twenty-fourth year <supplied reason="subaudible">onwards</supplied>, a <foreign>nibandha</foreign> goes <supplied reason="explanation"><foreign>cella</foreign></supplied> as long as the moon and the sun.		
+                </p>
+            </div>
+            
+            <div type="commentary">
+                
+                <p>
+                    The <foreign>meykkīrtti</foreign> is a mixing of that of Rājendra I Cōḻa and Rājendra II Cōḻa, as found in <bibl><ptr target="bib:Cuppiramaniyam1983_01"/></bibl> (pp. 26-28, 60-63), more precisely, we find first the <foreign>aṭi</foreign>s 1-39 of the <foreign>meykkīrtti</foreign> of Rājendra I Cōḻa and then most, but not all, of the <foreign>aṭi</foreign>s 37-82 of the 5th <foreign>meykkīrtti</foreign> of Rājendra II Cōḻa. This was already noted by <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (p. 29, fn. 5, at the word <foreign>takkaṇa-lāṭamum</foreign>, line 7): 
+                    <quote>From here the wording is quite different from that of the other published inscriptions.</quote>
+                </p>
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/118).</p>
+                <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.223).</p>	
+                <p>Translated in <bibl><ptr target="bib:Orr2000_01"/></bibl> (pp. 121-122).</p>	
+                <p>This digital edition by Renato Dávalos and Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl>. This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:KrishnaSastri1923_01"/>
+                        <citedRange unit="page">29-31</citedRange>
+                        <citedRange unit="item">223</citedRange>
+                    </bibl>
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1887-1888_01"/>
+                        <citedRange unit="page">4</citedRange>
+                        <citedRange unit="appendix">I/1887-1888</citedRange>
+                        <citedRange unit="item">118</citedRange>			
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:Cuppiramaniyam1983_01"/>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:Orr2000_01"/>
+                        <citedRange unit="page">121-122</citedRange>	
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
         </body>
     </text>
 </TEI>
