@@ -5,176 +5,176 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Tiruvōṟṟiyūr, Ādhipurīśvara temple, time of king Kumāra Kampaṇṇa, <foreign>cātāraṇa</foreign> <supplied reason="explanation"><foreign>sādhāraṇa</foreign></supplied> year</title>
-				<respStmt>
-					<resp>author of digital edition</resp>
-					<persName ref="part:reda">
-						<forename>Renato</forename>
-						<surname>Dávalos</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">DHARMA_INStfaSIIv38p0i0195</idno>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary>
-			<p>
-				It records the resolution of a dispute between the <foreign>iṣapa-taḷiyilār</foreign> <supplied reason="explanation">also called <foreign>cokka-taḷiyilār</foreign></supplied> and the <foreign>tēvaraṭiyār</foreign> at Tiruvoṟṟiyūr regarding temple service duties, honours, and privileges. The <foreign>iṣapa-taḷiyilār</foreign> were assigned service at the shrine of the god, and the <foreign>tēvaraṭiyār</foreign> at that of the goddess. The <foreign>iṣapa-taḷiyilār</foreign> were to perform dance, <foreign>akamāṟkam</foreign>, and <foreign>cintu</foreign> at the sacred hall <supplied reason="explanation"><foreign>tirumaṇṭapa</foreign></supplied> of the God <supplied reason="explanation"><foreign>nāyanār</foreign></supplied>, while the <foreign>tēvaraṭiyār</foreign> did the same at the sacred hall <supplied reason="explanation"><foreign>tirumaṇṭapa</foreign></supplied> of the Goddess <supplied reason="explanation"><foreign>nācciyār</foreign></supplied>. The <foreign>tēvaraṭiyār</foreign> were also to sing <foreign>tiruppatiyam</foreign>, <foreign>tiruvempāvai</foreign>, and the <foreign>tiruppallāṇṭu</foreign>, whilst both groups recited <foreign>tiruccāḻal</foreign> in turn. It also specifies the honours to be conferred upon <foreign>vīraṇukkar</foreign>, <foreign>kaikkōḷar</foreign>, and <foreign>muṭṭukkārar</foreign>.</p>						
-
-						<p>Tiruñānasambandan, a supervisory official <hi rend="italic">(māhēśvarakkaṇkāṇi)</hi> and others figure as signatories.</p>						
-
-						</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p/>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<revisionDesc>
-			<change who="part:reda" when="2025-08-01" status="draft">Creation of the file on the repository</change>
-			<change who="part:mime" when="2025-06-24" status="draft">Conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-		<body>
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-
-
-<p>
-
-	<lb n="1"/><hi rend="grantha">sva<choice><sic>ṟttatiṟi</sic><corr>śrī</corr></choice></hi></p>
-	<p>	
-	makā-maṇṭal<choice><sic>ītara</sic><corr>icura</corr></choice> vīra-pokkaṇar kumāra kampaṇa<unclear> v-u</unclear>ṭaiy<choice><sic>a</sic><corr>ā</corr></choice>r Aruḷi-c ceyalpaṭikku cātāraṇa varu<choice><sic>ḻuca</sic><corr><hi rend="grantha">ṣa</hi></corr></choice>m Aṟpaci mātam Irupattu nālāntiyati nāḷ </p>
-	<p>
-		
-		viyākaraṇatāṉa<unclear>n-ti</unclear>rukkāvaṇattil niṟaivaṟa niṟaintu
-
-		<lb n="2"/>kuṟaivaṟa-k kūṭi <choice><orig>ci</orig><reg>śrī</reg></choice>-uruttira <choice><orig>ci</orig><reg>śrī</reg></choice>-mākecura<choice><sic>na</sic><corr>ru</corr></choice>m tāṉattārum nāṭṭārum Ik-kōyil Atikāramāṉa tuṇaiyiruntāṉ-<supplied reason="subaudible">n</supplied>ampi koṅka-rāyaru<supplied reason="subaudible">m</supplied> muṉp’ āka 
-		</p>
-	<p>
-		Iraṇṭu niyāyattārum porutta Iḻapa-t-taḷiyilār
-
-		<lb n="3"/>tevaraṭiyār muṟaimaik kāriyattukku-p pū<choice><sic>ṟ</sic><corr>r</corr></choice>uvamakkāri Ivarkaḷ cevikkum paṭikku nāṅkaḷ Aṟuti y-iṭṭapaṭi cokka-t-taḷiyilār cevittu-p potum muṟaimaikaḷil
-
-		<lb n="4"/>cokkamum tirukāpp<seg rend="check"><choice><sic>unāṇ</sic><corr>ar</corr></choice></seg>um tirukkaḷapamum tiruccāntum muttirā-maṇṭapattiṟ ceya-p-pāvai tari-p-pāvaiyum cokka-t-taḷiyilār cevittu-p pōtavum Itu Oḻinta cevik<supplied reason="omitted">ku</supplied> muṟaimaikaḷ Ellām cevikkum
-
-		<lb n="5"/>Iṭattu perumāḷ mutaliyār tirukkalliyāṇa cunt<choice><sic>iri</sic><corr>ara</corr></choice>-teva rmuṟṟum Eḻuntaruḷum nāyaṉmāṟkum I<hi rend="grantha">ṣa</hi><surplus>ca</surplus>pattaḷiyilār muṟkeṭatta Ikkuṭiyilum Ivaḷukku piṉp’
-	</p>
-	<p>	
-		āka taivittāri
-
-		<lb n="6"/>kuṟalliyal paṇimāṟa-k kaṭavarkaḷ ākavum 
-		</p>
-	<p>	Ivarkaḷ piṉp’āka-t 
-		
-		</p>
-	<p>	
-		<seg rend="check">tirumaruṅkile</seg> tevaraṭiyār tiruveṇcāmaram paṇiyāṟavum I<surplus>ḻa</surplus><hi rend="grantha">ṣa</hi>pa-t-taḷiyilār tiruvantikkāppum tevaraṭiyār pu<hi rend="grantha">ṣpa</hi><surplus>p</surplus>pattaḷikaiyum tiruniṟṟukkāppum 
-
-		<lb n="7"/>I<hi rend="grantha">ṣa</hi>pa-<unclear>t</unclear>-taḷiyilār muṉṉum tevaraṭiyār piṉṉum <unclear>Atu</unclear> Eṭukka kaṭavarka<unclear>ḷ</unclear> ākavum
-		</p>
-	<p>	
-		pu<unclear>ṣ</unclear>pa-t-taḷikai Eṭukka tevaraṭiyār niṟkum paṭi mutaliyār caṉṉatiyil munnil kāṇalē niṟka
-
-		<lb n="8" break="no"/><unclear>k</unclear> katavu Arukil tūṇilē niṟkavum periya tirumaṇṭapattil melaippattiyil Iraṇṭām tūṇilē niṟkavum I<hi rend="grantha">ṣa</hi>pa-t-taḷiyilār nāyiṉār caṉṉatiyilum tevaraṭiyār nācciyār caṉṉatiyilum canti-k ku
-<lb n="9" break="no"/>ṉippam Iṭavum malaippum Ippaṭi Āṭavum <choice><orig>ci</orig><reg><hi rend="grantha">śrī</hi></reg></choice>palikku-p pāṭumatum tiruppavaṉikku-p pāṭumatum I<hi rend="grantha">ṣa</hi>pa-t-taḷiyilār pāṭavum Iraṇṭu tirumaṇṭapattilum Iraṇṭu vakai y-āka
-	</p>
-		<p>
-			muṭṭukkāṟar cevikkavum Uḷḷu-p paṇimāṟa paṇṇiṉa Aḷavilē nācciyārkku vantu paṇṭamāṟappaṇṇavum tiruv<choice><sic>i</sic><corr>ī</corr></choice>ti cevikkumpaṭi nāyaṉār caṉṉatiyilum nācciyār caṉṉatiyilum Iraṇṭu vakai y-āka	
-			</p>
-		<p>
-
-			<lb n="10"/>muṭṭukkāṟar cevikkavum Uḷḷu Iḻa<surplus>ca</surplus>pa-t-taḷiyilār Akamāṟkamum cintukkumāṭavum tevaraṭiyār nācciyār tirumaṇṭapattilē Akamāṟkamum cintukkum <seg rend="check">variyumāṭavum</seg> tiruttoppukaḷilē tevaraṭiyār Iṭappāri cukattilē tiruvolakkattilē cevittu Irukka I<hi rend="grantha">ṣa</hi><surplus>ca</surplus>pa-t-taḷiyilār varipāṭavum kūtta-p perumāḷ maṇṭapattilē taḷiyilār Āṭakkaṭavarkaḷ Allāvākavum tiruccāḻalukku I<hi rend="grantha">ṣa</hi><surplus>ca</surplus>pa-t-ta
-
-			<lb n="11" break="no"/>taḷiyilār muṟpāṭu pāṭi-t tevaraṭiyār piṉpupāṭi I<hi rend="grantha">ṣa</hi><surplus>ca</surplus>pa-t-taḷiyilār muṉṉum muṭṭukkāṟar naṭuvum tevaraṭiyār piṉṉum āka-p</p>
-			<p>
-				puṟappaṭṭut taṅkaḷ Ellaikaḷilē pāṭi-p-pōtavum Uṭaiyār kalcatakāpaṉam tirumañcaṉattukku ce<unclear>p</unclear>puvā<unclear>ca</unclear>lukkum tuvāravācalukkun <supplied reason="omitted">na</supplied>ṭuvē tiruppatiyam viṇṇappam ceyvārum tevaraṭiyārum tiruppallāṇṭu cevikkavum tiruyeṇṇaikkāppum tiruccuṇṇattukkum muṉp’ ilāṇṭum atikāri tevaraṭi
-
-				<lb n="12" break="no"/>yār cevikkavum Ippaṭikku Ūrilē cevikkum matikārikaḷum cevittu-p payaṇamum I<hi rend="grantha">ṣa</hi>pa-t-taḷiyilārum tevaraṭiyārum cevikkavum Aricippaṭi Iraṇṭu tiṟavarum peṟavum veṟṟilai cokka-t-taḷiyilār peṟṟāl tevaraṭiyār peṟavum cokka-t-taḷiyilāraiyē Eḻuntu veṟṟilai peṟum Iṭattu Iraṇṭu tiṟavarum mokka-p peṟavum viraṇukkarum kaikkoḷarum veṟṟilaipeṟum Iṭattu muṉṉum piṉṉum āka-p
-		</p>
-			<p>		
-				peṟavum kaikkoḷarum I<hi rend="grantha">ṣa</hi><surplus>ca</surplus>pa-t-taḷiyilār makkaḷum veṟṟilai peṟum iṭattu Okkappeṟa-k ka
-<lb n="13" break="no"/>ṭavarkaḷ Ākavum
-				</p>
-			<p>		
-				perumāḷukku-p paṇimāṟa-p paṇṇiṉāl I<hi rend="grantha">ṣa</hi>pa-t-taḷiyilār Āṭippāṭavum nācciyārkku-p paṇimā<unclear>ra</unclear>-p <unclear>pa</unclear>ṇṇiṉāl tevaraṭiyār Āṭippāṭavu<unclear>n</unclear> perumāḷ tirumaṇṭapam tiruttoppu Eṟi Aruḷum poḻutu co <gap reason="lost" quantity="3" unit="character"/> kkuṟaṭṭu Aḷavu Āka-t tiruveṇcāmaram paṇimāṟi Iraṇṭu tiṟavarum paṇṭārattilē kuṭukkavum tiruvātavūr nāyaṉār Eḻuntaruḷina tiru<unclear>v</unclear>empāvai tiruvitiyum tirumāḷikaiyum cevittu-c ceppuvācalukkum tuvāravācalukkum naṭuttirupāṭṭu <unclear>O</unclear>
-
-				<lb n="14" break="no"/>tuvaruṭaṉe paṟṟum pāṭi-t tiruniṟṟum tevaraṭiyār peṟavum <unclear>ti</unclear>ruvātiraikku Aṟaikaṭṭum Iṭattu-p perumāḷ tirumaṇṭapattilē I<hi rend="grantha">ṣa</hi><surplus>ca</surplus>pa-t-taḷiyilār Aṟaikaṭṭippāṭi Āṭavum nācciyār tirumaṇṭapattilē tevaraṭiyār Aṟaikaṭṭi pāṭi Āṭavum nāyiṉār koyilē I<hi rend="grantha">ṣa</hi>pa-t-taḷiyilār coṟu peṟavum ta <gap reason="lost" quantity="10" unit="character"/> peṟavum Ippaṭi <gap reason="lost" quantity="4" unit="character"/> c cevittu-p pōtavum I <gap reason="lost" quantity="5" unit="character"/> ṭi Imantu kalaintavarkaḷ civatturoki Irā
-
-				<lb n="15" break="no"/><unclear>ca</unclear>tturoki Āka-k 
-				</p>
-			<p>	
-				
-				kaṭavatākavum Ippaṭikku Ivai <hi rend="grantha">śrī</hi>mā<hi rend="grantha">heśvara</hi>k kaṇkāṇi tiruñāṉacampantaṉ Eḻuttu
-				</p>
-			<p>	
-				
-				Ivai vā<hi rend="grantha">giśvarapaṇḍi</hi>ta<hi rend="grantha">sya</hi>
-				</p>
-			<p>	
-				Ivai <hi rend="grantha">ja</hi>yaṅkoṇṭacoḻamaṇṭala miṭarkaṉ Eḻuttu 
-				</p>
-			<p>	
-				Ivai tavaneṟi peṟṟāṉ Eḻuttu 
-			</p>
-			<p>	
-				Ivai Iṇaittavitavaneṟi peṟṟāṉ Eḻuttu 
-			</p>
-			<p>		
-				Ivai Ilaikkāṭṭuruṭaiyāṉ nāṟpatteṇṇāyira muṭaiyār koyililē <unclear>matuvāṭiyār</unclear> <gap reason="lost" quantity="10" unit="character"/> 
-<lb n="16"/>veḷḷāḷa Eḻu <gap reason="lost" quantity="8" unit="character"/> 
-</p>
-
-</div>
-
-<div type="apparatus">
-
-</div>
-
-<div type="commentary">
-
-</div>
-
-<div type="bibliography">
-
-	<p>Digital edition of SII 38.195 by <bibl><ptr target="bib:Swaminathan2019_01"/></bibl> automatically converted to DHARMA conventions.</p>
-
-	<listBibl type="primary">
-
-		<bibl n="SII">
-			<ptr target="bib:Swaminathan2019_01"/>
-			<citedRange unit="page">222-225</citedRange>
-			<citedRange unit="item">195</citedRange>
-		</bibl>
-
-	</listBibl>
-
-	<listBibl type="secondary">
-
-		<bibl/>
-
-	</listBibl>
-
-</div>
-
-	</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tiruvōṟṟiyūr, Ādhipurīśvara temple, time of king Kumāra Kampaṇṇa, <foreign>cātāraṇa</foreign> <supplied reason="explanation"><foreign>sādhāraṇa</foreign></supplied> year</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INStfaSIIv38p0i0195</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p>
+                                It records the resolution of a dispute between the <foreign>iṣapa-taḷiyilār</foreign> <supplied reason="explanation">also called <foreign>cokka-taḷiyilār</foreign></supplied> and the <foreign>tēvaraṭiyār</foreign> at Tiruvoṟṟiyūr regarding temple service duties, honours, and privileges. The <foreign>iṣapa-taḷiyilār</foreign> were assigned service at the shrine of the god, and the <foreign>tēvaraṭiyār</foreign> at that of the goddess. The <foreign>iṣapa-taḷiyilār</foreign> were to perform dance, <foreign>akamāṟkam</foreign>, and <foreign>cintu</foreign> at the sacred hall <supplied reason="explanation"><foreign>tirumaṇṭapa</foreign></supplied> of the God <supplied reason="explanation"><foreign>nāyanār</foreign></supplied>, while the <foreign>tēvaraṭiyār</foreign> did the same at the sacred hall <supplied reason="explanation"><foreign>tirumaṇṭapa</foreign></supplied> of the Goddess <supplied reason="explanation"><foreign>nācciyār</foreign></supplied>. The <foreign>tēvaraṭiyār</foreign> were also to sing <foreign>tiruppatiyam</foreign>, <foreign>tiruvempāvai</foreign>, and the <foreign>tiruppallāṇṭu</foreign>, whilst both groups recited <foreign>tiruccāḻal</foreign> in turn. It also specifies the honours to be conferred upon <foreign>vīraṇukkar</foreign>, <foreign>kaikkōḷar</foreign>, and <foreign>muṭṭukkārar</foreign>.</p>						
+                            
+                            <p>Tiruñānasambandan, a supervisory official <hi rend="italic">(māhēśvarakkaṇkāṇi)</hi> and others figure as signatories.</p>						
+                            
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="part:reda" when="2025-08-01" status="draft">Creation of the file on the repository</change>
+            <change who="part:mime" when="2025-06-24" status="draft">Conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                
+                <p>
+                    
+                    <lb n="1"/><hi rend="grantha">sva<choice><sic>ṟttatiṟi</sic><corr>śrī</corr></choice></hi></p>
+                <p>	
+                    makā-maṇṭal<choice><sic>ītara</sic><corr>icura</corr></choice> vīra-pokkaṇar kumāra kampaṇa<unclear> v-u</unclear>ṭaiy<choice><sic>a</sic><corr>ā</corr></choice>r Aruḷi-c ceyalpaṭikku cātāraṇa varu<choice><sic>ḻuca</sic><corr><hi rend="grantha">ṣa</hi></corr></choice>m Aṟpaci mātam Irupattu nālāntiyati nāḷ </p>
+                <p>
+                    
+                    viyākaraṇatāṉa<unclear>n-ti</unclear>rukkāvaṇattil niṟaivaṟa niṟaintu
+                    
+                    <lb n="2"/>kuṟaivaṟa-k kūṭi <choice><orig>ci</orig><reg>śrī</reg></choice>-uruttira <choice><orig>ci</orig><reg>śrī</reg></choice>-mākecura<choice><sic>na</sic><corr>ru</corr></choice>m tāṉattārum nāṭṭārum Ik-kōyil Atikāramāṉa tuṇaiyiruntāṉ-<supplied reason="subaudible">n</supplied>ampi koṅka-rāyaru<supplied reason="subaudible">m</supplied> muṉp’ āka 
+                </p>
+                <p>
+                    Iraṇṭu niyāyattārum porutta Iḻapa-t-taḷiyilār
+                    
+                    <lb n="3"/>tevaraṭiyār muṟaimaik kāriyattukku-p pū<choice><sic>ṟ</sic><corr>r</corr></choice>uvamakkāri Ivarkaḷ cevikkum paṭikku nāṅkaḷ Aṟuti y-iṭṭapaṭi cokka-t-taḷiyilār cevittu-p potum muṟaimaikaḷil
+                    
+                    <lb n="4"/>cokkamum tirukāpp<seg rend="check"><choice><sic>unāṇ</sic><corr>ar</corr></choice></seg>um tirukkaḷapamum tiruccāntum muttirā-maṇṭapattiṟ ceya-p-pāvai tari-p-pāvaiyum cokka-t-taḷiyilār cevittu-p pōtavum Itu Oḻinta cevik<supplied reason="omitted">ku</supplied> muṟaimaikaḷ Ellām cevikkum
+                    
+                    <lb n="5"/>Iṭattu perumāḷ mutaliyār tirukkalliyāṇa cunt<choice><sic>iri</sic><corr>ara</corr></choice>-teva rmuṟṟum Eḻuntaruḷum nāyaṉmāṟkum I<hi rend="grantha">ṣa</hi><surplus>ca</surplus>pattaḷiyilār muṟkeṭatta Ikkuṭiyilum Ivaḷukku piṉp’
+                </p>
+                <p>	
+                    āka taivittāri
+                    
+                    <lb n="6"/>kuṟalliyal paṇimāṟa-k kaṭavarkaḷ ākavum 
+                </p>
+                <p>	Ivarkaḷ piṉp’āka-t 
+                    
+                </p>
+                <p>	
+                    <seg rend="check">tirumaruṅkile</seg> tevaraṭiyār tiruveṇcāmaram paṇiyāṟavum I<surplus>ḻa</surplus><hi rend="grantha">ṣa</hi>pa-t-taḷiyilār tiruvantikkāppum tevaraṭiyār pu<hi rend="grantha">ṣpa</hi><surplus>p</surplus>pattaḷikaiyum tiruniṟṟukkāppum 
+                    
+                    <lb n="7"/>I<hi rend="grantha">ṣa</hi>pa-<unclear>t</unclear>-taḷiyilār muṉṉum tevaraṭiyār piṉṉum <unclear>Atu</unclear> Eṭukka kaṭavarka<unclear>ḷ</unclear> ākavum
+                </p>
+                <p>	
+                    pu<unclear>ṣ</unclear>pa-t-taḷikai Eṭukka tevaraṭiyār niṟkum paṭi mutaliyār caṉṉatiyil munnil kāṇalē niṟka
+                    
+                    <lb n="8" break="no"/><unclear>k</unclear> katavu Arukil tūṇilē niṟkavum periya tirumaṇṭapattil melaippattiyil Iraṇṭām tūṇilē niṟkavum I<hi rend="grantha">ṣa</hi>pa-t-taḷiyilār nāyiṉār caṉṉatiyilum tevaraṭiyār nācciyār caṉṉatiyilum canti-k ku
+                    <lb n="9" break="no"/>ṉippam Iṭavum malaippum Ippaṭi Āṭavum <choice><orig>ci</orig><reg><hi rend="grantha">śrī</hi></reg></choice>palikku-p pāṭumatum tiruppavaṉikku-p pāṭumatum I<hi rend="grantha">ṣa</hi>pa-t-taḷiyilār pāṭavum Iraṇṭu tirumaṇṭapattilum Iraṇṭu vakai y-āka
+                </p>
+                <p>
+                    muṭṭukkāṟar cevikkavum Uḷḷu-p paṇimāṟa paṇṇiṉa Aḷavilē nācciyārkku vantu paṇṭamāṟappaṇṇavum tiruv<choice><sic>i</sic><corr>ī</corr></choice>ti cevikkumpaṭi nāyaṉār caṉṉatiyilum nācciyār caṉṉatiyilum Iraṇṭu vakai y-āka	
+                </p>
+                <p>
+                    
+                    <lb n="10"/>muṭṭukkāṟar cevikkavum Uḷḷu Iḻa<surplus>ca</surplus>pa-t-taḷiyilār Akamāṟkamum cintukkumāṭavum tevaraṭiyār nācciyār tirumaṇṭapattilē Akamāṟkamum cintukkum <seg rend="check">variyumāṭavum</seg> tiruttoppukaḷilē tevaraṭiyār Iṭappāri cukattilē tiruvolakkattilē cevittu Irukka I<hi rend="grantha">ṣa</hi><surplus>ca</surplus>pa-t-taḷiyilār varipāṭavum kūtta-p perumāḷ maṇṭapattilē taḷiyilār Āṭakkaṭavarkaḷ Allāvākavum tiruccāḻalukku I<hi rend="grantha">ṣa</hi><surplus>ca</surplus>pa-t-ta
+                    
+                    <lb n="11" break="no"/>taḷiyilār muṟpāṭu pāṭi-t tevaraṭiyār piṉpupāṭi I<hi rend="grantha">ṣa</hi><surplus>ca</surplus>pa-t-taḷiyilār muṉṉum muṭṭukkāṟar naṭuvum tevaraṭiyār piṉṉum āka-p</p>
+                <p>
+                    puṟappaṭṭut taṅkaḷ Ellaikaḷilē pāṭi-p-pōtavum Uṭaiyār kalcatakāpaṉam tirumañcaṉattukku ce<unclear>p</unclear>puvā<unclear>ca</unclear>lukkum tuvāravācalukkun <supplied reason="omitted">na</supplied>ṭuvē tiruppatiyam viṇṇappam ceyvārum tevaraṭiyārum tiruppallāṇṭu cevikkavum tiruyeṇṇaikkāppum tiruccuṇṇattukkum muṉp’ ilāṇṭum atikāri tevaraṭi
+                    
+                    <lb n="12" break="no"/>yār cevikkavum Ippaṭikku Ūrilē cevikkum matikārikaḷum cevittu-p payaṇamum I<hi rend="grantha">ṣa</hi>pa-t-taḷiyilārum tevaraṭiyārum cevikkavum Aricippaṭi Iraṇṭu tiṟavarum peṟavum veṟṟilai cokka-t-taḷiyilār peṟṟāl tevaraṭiyār peṟavum cokka-t-taḷiyilāraiyē Eḻuntu veṟṟilai peṟum Iṭattu Iraṇṭu tiṟavarum mokka-p peṟavum viraṇukkarum kaikkoḷarum veṟṟilaipeṟum Iṭattu muṉṉum piṉṉum āka-p
+                </p>
+                <p>		
+                    peṟavum kaikkoḷarum I<hi rend="grantha">ṣa</hi><surplus>ca</surplus>pa-t-taḷiyilār makkaḷum veṟṟilai peṟum iṭattu Okkappeṟa-k ka
+                    <lb n="13" break="no"/>ṭavarkaḷ Ākavum
+                </p>
+                <p>		
+                    perumāḷukku-p paṇimāṟa-p paṇṇiṉāl I<hi rend="grantha">ṣa</hi>pa-t-taḷiyilār Āṭippāṭavum nācciyārkku-p paṇimā<unclear>ra</unclear>-p <unclear>pa</unclear>ṇṇiṉāl tevaraṭiyār Āṭippāṭavu<unclear>n</unclear> perumāḷ tirumaṇṭapam tiruttoppu Eṟi Aruḷum poḻutu co <gap reason="lost" quantity="3" unit="character"/> kkuṟaṭṭu Aḷavu Āka-t tiruveṇcāmaram paṇimāṟi Iraṇṭu tiṟavarum paṇṭārattilē kuṭukkavum tiruvātavūr nāyaṉār Eḻuntaruḷina tiru<unclear>v</unclear>empāvai tiruvitiyum tirumāḷikaiyum cevittu-c ceppuvācalukkum tuvāravācalukkum naṭuttirupāṭṭu <unclear>O</unclear>
+                    
+                    <lb n="14" break="no"/>tuvaruṭaṉe paṟṟum pāṭi-t tiruniṟṟum tevaraṭiyār peṟavum <unclear>ti</unclear>ruvātiraikku Aṟaikaṭṭum Iṭattu-p perumāḷ tirumaṇṭapattilē I<hi rend="grantha">ṣa</hi><surplus>ca</surplus>pa-t-taḷiyilār Aṟaikaṭṭippāṭi Āṭavum nācciyār tirumaṇṭapattilē tevaraṭiyār Aṟaikaṭṭi pāṭi Āṭavum nāyiṉār koyilē I<hi rend="grantha">ṣa</hi>pa-t-taḷiyilār coṟu peṟavum ta <gap reason="lost" quantity="10" unit="character"/> peṟavum Ippaṭi <gap reason="lost" quantity="4" unit="character"/> c cevittu-p pōtavum I <gap reason="lost" quantity="5" unit="character"/> ṭi Imantu kalaintavarkaḷ civatturoki Irā
+                    
+                    <lb n="15" break="no"/><unclear>ca</unclear>tturoki Āka-k 
+                </p>
+                <p>	
+                    
+                    kaṭavatākavum Ippaṭikku Ivai <hi rend="grantha">śrī</hi>mā<hi rend="grantha">heśvara</hi>k kaṇkāṇi tiruñāṉacampantaṉ Eḻuttu
+                </p>
+                <p>	
+                    
+                    Ivai vā<hi rend="grantha">giśvarapaṇḍi</hi>ta<hi rend="grantha">sya</hi>
+                </p>
+                <p>	
+                    Ivai <hi rend="grantha">ja</hi>yaṅkoṇṭacoḻamaṇṭala miṭarkaṉ Eḻuttu 
+                </p>
+                <p>	
+                    Ivai tavaneṟi peṟṟāṉ Eḻuttu 
+                </p>
+                <p>	
+                    Ivai Iṇaittavitavaneṟi peṟṟāṉ Eḻuttu 
+                </p>
+                <p>		
+                    Ivai Ilaikkāṭṭuruṭaiyāṉ nāṟpatteṇṇāyira muṭaiyār koyililē <unclear>matuvāṭiyār</unclear> <gap reason="lost" quantity="10" unit="character"/> 
+                    <lb n="16"/>veḷḷāḷa Eḻu <gap reason="lost" quantity="8" unit="character"/> 
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+            </div>
+            
+            <div type="commentary">
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Digital edition of SII 38.195 by <bibl><ptr target="bib:Swaminathan2019_01"/></bibl> automatically converted to DHARMA conventions.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:Swaminathan2019_01"/>
+                        <citedRange unit="page">222-225</citedRange>
+                        <citedRange unit="item">195</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl/>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>
 <!--SAIDAPET TALUK, CHINGLEPUT DISTRICT. On the west wall, first prākāra,
 -->
