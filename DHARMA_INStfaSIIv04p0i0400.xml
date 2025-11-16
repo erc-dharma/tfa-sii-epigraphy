@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Taraṅkampāṭi/Tranquebar, Śaka year 1775</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INStfaSIIv04p0i0400</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Donation of banner-post and pavement in the temple of Mācilāmaṇiyīcuvaracuvāmi, that is, the shore temple in Tranquebar, by a Ceṭṭiyār.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>Double <foreign>kompu</foreign> irregularly used.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2025-11-16" status="draft">Creation of the file</change>            
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                
+                <p>
+                    <lb n="1"/><g type="pc"/> cālivākaṉa-cakā<orig>pi</orig>ttam <num value="1775"><g type="numeral">1000</g>
+                    <lb n="2"/>7 <g type="numeral">100</g> 7 <g type="numeral">10</g> 5</num> kaliyukā<orig>pi</orig>ttam <num value="4885">4 <g type="numeral">1000</g> 8
+                    <lb n="3" break="no"/><g type="numeral">100</g> 8 <g type="numeral">10</g> 4</num> Itaṉ m<choice><sic>e</sic><corr>ē</corr></choice>l cellā niṉṟa
+                    <lb n="4"/>cōpakiṟutu <g type="varuṣam"/> Āvaṇi <g type="mācam"/> <num value="30">3 <g type="numeral">10</g></num> <g type="tēti"/>
+                    <lb n="5"/>cukkiṟa-vāramum Uttiraṭṭāti-naṭca
+                    <lb n="6" break="no"/><supplied reason="omitted">t</supplied>tiramuṅ kūṭiṉa cupatiṉat=til
+                </p>
+                <p>
+                    māci
+                    <lb n="7" break="no"/>lāmaṇi-y-īcuvara-cuvāmi caṉṉati tu
+                    <lb n="8" break="no"/>ca-k=-kampamum taḷavicaiyu=M cēṉai
+                    <lb n="9" break="no"/>-k-kuṭai cuppiṟamaṇiya-ce<unclear reason="eccentric_ductus">ṭṭi</unclear>yār
+                    <lb n="10"/>kumāraṉ Āpatuttāraṇa-ceṭṭi
+                    <lb n="11" break="no"/>yār ce<choice><orig>yi</orig><reg>y</reg></choice>tu vaitta taṟmam
+                </p>
+                <p>
+                    nitti
+                    <lb n="12" break="no"/>yam catāc<choice><sic>e</sic><corr>ē</corr></choice>ṟvai <g type="pc">.</g> 
+                </p>
+                <p>
+                    <hi rend="grantha">śubham astu</hi>
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                <listApp>
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:KrishnaSastri1923_01"></rdg>
+                    </app>
+                    
+                    <app loc="7">
+                        <lem>caṉṉati</lem>
+                        <rdg source="bib:KrishnaSastri1923_01">caṉṉa<unclear>ti</unclear></rdg>
+                    </app>
+                    
+                    <app loc="7">
+                        <lem>tu
+                    <lb n="8" break="no"/>ca-k=-kampamum</lem>
+                        <rdg source="bib:KrishnaSastri1923_01">tu
+                    <lb n="8" break="no"/>ca-t=-tampamum</rdg>
+                    </app>
+                    
+                    <app loc="9">
+                        <lem>ce<unclear reason="eccentric_ductus">ṭṭi</unclear>yār</lem>
+                        <rdg source="bib:KrishnaSastri1923_01">ceṭṭiyār</rdg>
+                    </app>
+                    
+                </listApp>
+            </div>
+            
+            <div type="translation">
+                <p n="1-6">
+                    Cālivākaṉa year 1775,
+                    Kaliyuka year 4884,
+                    year Cōpakiṟutu, which was then current,
+                    month of Āvaṇi, day 30,
+                    on the auspicious day when combined a Friday and the <foreign>nakṣatra</foreign> Uttiraṭṭāti.
+                </p>
+                <p n="6-11">
+                    <supplied reason="subaudible">This is the</supplied> pious donation <supplied reason="explanation"><foreign>tārmam</foreign><note>Sanskrit <foreign>dharma</foreign>.</note></supplied> that 
+                    Āpatuttāraṇa-ceṭṭiyār, son of Cēṉaikkuṭai cuppiṟamaṇiya-ceṭṭiyār,
+                    gave by making
+                    a banner-post and the pavement <supplied reason="subaudible">of</supplied> the temple of Mācilāmaṇiyīcuvaracuvāmi.
+                </p>
+                <p n="11-12">
+                    <supplied reason="subaudible">This is made in</supplied>  perpetual devotion.
+                </p>
+                <p n="12">Let prosperity be!</p>
+            </div>
+            
+            <div type="commentary">
+                <p>Dated to Śaka 1775 [1853/4 CE] = Kaliyuga 4884 [1783/4 CE] = Jovian cycle year Cōpakiṟutu [1783/4 CE]. Thus Śaka 1775 appears to be a mistake for Śaka 1715 [1783/4 CE].</p>
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0010.xml">SII 4.400</ref>).</p>
+                <p>This edition by Emmanuel Francis based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> and photo (Margherita Trento, 2025).</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:KrishnaSastri1923_01"/>
+                        <citedRange unit="page">120</citedRange>
+                        <citedRange unit="item">400</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl/>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>
