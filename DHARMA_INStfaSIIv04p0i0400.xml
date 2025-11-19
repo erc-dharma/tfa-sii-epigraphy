@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Taraṅkampāṭi/Tranquebar, Śaka year 1775</title>
+                <title>Taraṅkampāṭi/Tranquebar, Śaka year 1775 (mistake for 1705)</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -103,7 +103,7 @@
             
             <div type="translation">
                 <p n="1-6">
-                    Cālivākaṉa year 1775,
+                    Cālivākaṉa year 1775,<note>Read 1705.</note>
                     Kaliyuka year 4884,
                     year Cōpakiṟutu, which was then current,
                     month of Āvaṇi, day 30,
@@ -113,7 +113,7 @@
                     <supplied reason="subaudible">This is the</supplied> pious donation <supplied reason="explanation"><foreign>tārmam</foreign><note>Sanskrit <foreign>dharma</foreign>.</note></supplied> that 
                     Āpatuttāraṇa-ceṭṭiyār, son of Cēṉaikkuṭai Cuppiṟamaṇiya-ceṭṭiyār,
                     gave by making
-                    a banner-post and the pavement <supplied reason="subaudible">of</supplied> the temple of Mācilāmaṇiyīcuvaracuvāmi.
+                    a banner-post and the pavement <supplied reason="subaudible">for</supplied> the temple of Mācilāmaṇiyīcuvaracuvāmi.
                 </p>
                 <p n="11-12">
                     <supplied reason="subaudible">This is made in</supplied>  perpetual devotion.
@@ -122,7 +122,7 @@
             </div>
             
             <div type="commentary">
-                <p>Dated to Śaka 1775 [1853/4 CE] = Kaliyuga 4884 [1783/4 CE] = Jovian cycle year Cōpakiṟutu [1783/4 CE]. Thus Śaka 1775 appears to be a mistake for Śaka 1715 [1783/4 CE].</p>
+                <p>Marco Franceschini kindly assessed the date (email, 2025-11-19), as follows: <quote>With the exception of the Cālivākaṉa year, all the remaining calendrical data converge on 12 September 1783 CE, which was Cālivākaṉa (Śaka) current year 1705, Kaliyuga current year 4884, Jovian year Cōpakirutu (Śobhana), Friday, 26th <foreign>nakṣatra</foreign> (Uttiraṭṭāti). Thus, Cālivākaṉa 1775 is a mistake for Cālivākaṉa 1705.</quote></p>
             </div>
             
             <div type="bibliography">
