@@ -10,11 +10,7 @@
             <titleStmt>
                 <title>Elavaṉācūr, Grāmārdhanātha, time of Vikrama Cōḻa, year 17</title>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
-                    <persName>
-                        <forename>G.V.</forename>
-                        <surname>Srinivasa Rao</surname>
-                    </persName>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>
@@ -24,13 +20,6 @@
                         <surname>Francis</surname>
                     </persName>
                 </respStmt>
-                <respStmt>
-                    <resp>EpiDoc encoding</resp>
-                    <persName ref="part:reda">
-                        <forename>Renato</forename>
-                        <surname>Dávalos</surname>
-                    </persName>
-                </respStmt>		        
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
@@ -183,7 +172,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1906-1907"/></bibl> (ARIE/1906-1907/B/1906/165).</p>
-                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 22.165).</p>
+                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (<ref target="DHARMA_INSSIIv22p0i0165">SII 22.165</ref>).</p>
                 <p>This digital edition by Renato Dávalos and Emmanuel Francis (2024), based on <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl>. This translation by Renato Dávalos and Emmanuel Francis (2024).</p>    
                 <listBibl type="primary">
                     
