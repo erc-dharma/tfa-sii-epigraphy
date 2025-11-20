@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Taraṅkampāṭi/Tranquebar, Śaka year 1775 (mistake for 1705)</title>
+                <title>Taraṅkampāṭi/Tranquebar, Mācilāmaṇīṣvara temple, Śaka year 1775 (mistake for 1705)</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -29,7 +29,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Donation of banner-post and pavement in the temple of Mācilāmaṇiyīcuvaracuvāmi, that is, the shore temple in Tranquebar, by a Ceṭṭiyār.</summary>
+                        <summary>Donation of banner-post and pavement in the temple of Mācilāmaṇiyīcuvaracuvāmi, that is, the shore temple in Tranquebar, by a Ceṭṭiyār. <quote>On a stone built on the floor</quote> (<bibl><ptr target="bib:ARIE1890-1891_01"/></bibl>) of the Mācilāmaṇīṣvara temple, kept (2025) in the Danish Fort at Tranquebar.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -50,8 +50,8 @@
                 
                 <p>
                     <lb n="1"/><g type="pc"/> cālivākaṉa-cakā<orig>pi</orig>ttam <num value="1775"><g type="numeral">1000</g>
-                    <lb n="2"/>7 <g type="numeral">100</g> 7 <g type="numeral">10</g> 5</num> kaliyukā<orig>pi</orig>ttam <num value="4885">4 <g type="numeral">1000</g> 8
-                    <lb n="3" break="no"/><g type="numeral">100</g> 8 <g type="numeral">10</g> 4</num> Itaṉ m<choice><sic>e</sic><corr>ē</corr></choice>l cellā niṉṟa
+                        <lb n="2"/>7 <g type="numeral">100</g> 7 <g type="numeral">10</g> 5</num> kaliyukā<orig>pi</orig>ttam <num value="4885">4 <g type="numeral">1000</g> 8
+                            <lb n="3" break="no"/><g type="numeral">100</g> 8 <g type="numeral">10</g> 4</num> Itaṉ m<choice><sic>e</sic><corr>ē</corr></choice>l cellā niṉṟa
                     <lb n="4"/>cōpakiṟutu <g type="varuṣam"/> Āvaṇi <g type="mācam"/> <num value="30">3 <g type="numeral">10</g></num> <g type="tēti"/>
                     <lb n="5"/>cukkiṟa-vāramum Uttiraṭṭāti-naṭca
                     <lb n="6" break="no"/><supplied reason="omitted">t</supplied>tiramuṅ kūṭiṉa cupatiṉat=til
@@ -88,9 +88,9 @@
                     
                     <app loc="7">
                         <lem>tu
-                    <lb n="8" break="no"/>ca-k=-kampamum</lem>
+                            <lb n="8" break="no"/>ca-k=-kampamum</lem>
                         <rdg source="bib:KrishnaSastri1923_01">tu
-                    <lb n="8" break="no"/>ca-t=-tampamum</rdg>
+                            <lb n="8" break="no"/>ca-t=-tampamum</rdg>
                     </app>
                     
                     <app loc="9">
@@ -127,6 +127,7 @@
             
             <div type="bibliography">
                 
+                <p>Reported in <bibl><ptr target="bib:ARIE1890-1891_01"/></bibl> (ARIE/1890-1891/A/1890/76).</p>
                 <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (<ref target="DHARMA_INSSIIv04p0i0400">SII 4.400</ref>).</p>
                 <p>This edition by Emmanuel Francis based on <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> and photo (Margherita Trento, 2025).</p>
                 
@@ -142,7 +143,12 @@
                 
                 <listBibl type="secondary">
                     
-                    <bibl/>
+                    <bibl>
+                        <ptr target="bib:ARIE1890-1891_01"/>
+                        <citedRange unit="page">7</citedRange>
+                        <citedRange unit="appendix">1890</citedRange>
+                        <citedRange unit="item">76</citedRange>			
+                    </bibl>
                     
                 </listBibl>
                 
