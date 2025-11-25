@@ -62,15 +62,15 @@
                 </p>
                 <p>     
                     
-                    <gap reason="lost" quantity="5" unit="character"/> <hi rend="grantha">Aparapakṣa</hi>ttu <hi rend="grantha">tri</hi>tiyaiyum viyāḻakkiḻa<lb n="2" break="no"/>maiyum peṟṟa Urōcaṇināḷ viruta-rā<hi rend="grantha">ja</hi>-payaṅkara-vaḷa-nāṭṭu nallāṟṟūr-nāṭṭu Uṭaiyār tirukkoṭikā-v-uṭaiyār k<unclear>o</unclear><!--kāl unclear only--> <gap reason="lost" quantity="8" unit="character"/> var tē<unclear>vaka</unclear>ṉmika<unclear>ḷō</unclear>m<!--kompu is clear--> 
+                    <gap reason="lost" quantity="5" unit="character"/> <hi rend="grantha">Aparapakṣa</hi>ttu <hi rend="grantha">tri</hi>tiyaiyum viyāḻakkiḻa<lb n="2" break="no"/>maiyum peṟṟa Urōcaṇināḷ viruta-rā<hi rend="grantha">ja</hi>-payaṅkara-vaḷa-nāṭṭu nallāṟṟūr-nāṭṭu Uṭaiyār tirukkoṭikā-v-uṭaiyār k<unclear>o</unclear><!--kāl unclear only--> <gap reason="lost" quantity="8" unit="character"/> var tē<unclear>vaka</unclear>ṉmika<unclear>ḷō</unclear>m<!--kompu is clear--> Iṟai-muṟai
+                    <lb n="3" break="no"/>-p piramāṇa Icaivutiṭṭu  <hi rend="grantha">ga</hi>ṅkaikoṇṭacōḻa-purattu Irukkum maṉuvūr-uṭaiyār varantarum kūtta-p-perumāḷukku
                 </p>
                 <p>
                     
-                    Iṟai-muṟai
-                    <lb n="3" break="no"/>-p piramāṇa Icaivutiṭṭu
-                    <hi rend="grantha">ga</hi>ṅkaikoṇṭacoḻa-purattu Irukkum maṉuvūr-uṭaiyār varantarum kūtta-p-perumāḷukku Iṉ-ṉāyaṉār <unclear>tēva</unclear>tāṉam tirukkoṭikāvil <unclear>tiyā</unclear>
-                    <lb n="4" break="no"/>kaviṉōta viḻupparaiyar kāṇi-y-āṉa Aṟupatu varicaiyum Antar<unclear>ā</unclear>yamum Iṟukkum kollaiyil Ivar pakkal vilaikoṇṭa nilam Araimāvum Ivar taṅkaḷ kurukkaḷ <unclear>varam</unclear>
-                    <lb n="5" break="no"/>tarum kūtta-p-perumāḷukkut <hi rend="grantha">dā</hi>ṉamāka-k kuṭutta nilam Araimāvum Āka 
+                    
+                    Iṉ-ṉāyaṉār <unclear>tēva</unclear>tāṉam tirukkoṭikāvil <unclear>tiyā</unclear>
+                    <lb n="4" break="no"/>ka-viṉōta-viḻupparaiyar kāṇi-y-āṉa Aṟupatu varicaiyum Antar<unclear>ā</unclear>yamum Iṟukkum kollaiyil Ivar pakkal vilaikoṇṭa nilam Araimāvum Ivar taṅkaḷ kurukkaḷ <unclear>varam</unclear>
+                    <lb n="5" break="no"/>tarum kūtta-p-perumāḷukku-t <hi rend="grantha">dā</hi>ṉam āka-k kuṭutta nilam Araimāvum Āka 
                 </p>
                 <p>
                 
@@ -141,11 +141,29 @@
             </div>
             
             <div type="apparatus"/>
-                
             
+            <div type="translation" resp="part:reda">
+                <p n="1">
+                   [under construction] 
+                   This is the 22th year of king Sakala-bhuvana-cakravarti Kōpperuñciṅka.
+                </p>
+                <p n="1">
+                    This is the 22th year of king Sakala-bhuvana-cakravarti Kōpperuñciṅka.
+                </p>
+                
+                <p n="1-3">
+                    On the second fortnight, third day of the Rohiṇī month, which is a Thursday, we, administrators of the temple tēvakaṉmikaḷōm of the Lord of Tirukkoṭikā, who reigns in Nallāṟṟūr-nāṭu, a subdivision of Virutarājapayaṅkara vaḷanāṭu, [have issued] an agreement deed authorising exemption of tax iṟaimuṟai piramāṇa icaivutiṭṭu to Varantarum Kūttapperumāḷ, a land-owner uṭaiyār from Maṉuvūr residing in Gaṅgaikoṇṭacōḻapuram.               
+              </p>
+                 <p n="3-4">
+                The land of sixty mās, which was purchased from him ivar pakkal that are paid on dry lands, the antarāyam [tax], the sixty [types] of taxes as hereditary rights for Tiyāka Viṉōta Viḻupparaiyar in the tēvatāṉam for this god [called] Tirukkoṭikkā.
+            </p>
+                
+            </div>
+            
+           
             
             <div type="commentary"/>
-                
+            
             
             
             <div type="bibliography">
