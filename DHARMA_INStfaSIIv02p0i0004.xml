@@ -15,10 +15,6 @@
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>
                     </persName>
-                    <persName ref="part:vimu">
-                        <forename>Vigneshwaran</forename>
-                        <surname>Muralidaran</surname>
-                    </persName>
                 </respStmt>               
             </titleStmt>
             <publicationStmt>
@@ -101,24 +97,27 @@
                             <l n="5">taṭi kaipāṭiyum nuḷampa-p <lb n="2"/>pāṭiyuṅ</l>
                             <l n="6">kuṭamalai nāṭuṅ kollamuṅ kaliṅkamum</l>
                             <l n="7">muraṭṭ<choice><sic>e</sic><corr>o</corr></choice>ḻil ciṅkaḷar Īḻamaṇ ṭalamum</l>
-                            <l n="8">Iraṭṭa pāṭi Eḻarai y-ilakkamum</l>
+                            <l n="8">Iraṭṭa pāṭi Ēḻarai y-ilakkamum</l>
                             <l n="9">muṉṉīr-p paḻantīvu paṉṉīrā y-iramun</l>
                             <l n="10">tiṇṭiṟal veṉ<lb n="3" break="no"/>ṟi-t taṇṭāṟ koṇṭataṉ-ṉ</l>
                             <l n="11">eḻilvaḷar ūḻiyuḷ ellā yāṇṭun</l>
-                            <l n="12">toḻutaka viḷaṅkum yāṇṭey</l>
+                            <l n="12">toḻutak<choice><orig>a</orig><reg>ai</reg></choice> viḷaṅkum yāṇṭe-y</l>
                             <l n="13">ceḻiyarai-t tēcukoḷ </l>
                         </lg>
                     </p>
                     
                     <p>
                         kō-<hi rend="grantha">rāja-kesari-varmmar</hi>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">śrī-rāja-rāja-de</hi>varkku yāṇṭu irupatt' o
-                        <lb n="4" break="no"/>ṉpat' āvatu varai Uṭaiyār <hi rend="grantha">śrī-rāja-rāja-devar</hi> tañcāvūr Eṭuppitta tirukkaṟṟaḷi <hi rend="grantha">śrī-rāja-rājīśvaram</hi> Uṭaiya <hi rend="grantha">parama-svāmi</hi>kku veṇṭu<supplied reason="subaudible">m</supplied> nivantaṅkaḷukku-t tēvatāṉam āka-c coḻa-maṇṭalattum puṟa-maṇṭalaṅ
-                        <lb n="5" break="no"/>kaḷilum Uṭaiyār <hi rend="grantha">śrī-rāja-rāja-devar</hi> kuṭutta Ūrkaḷil Ūrnattamum <hi rend="grantha">śrī</hi>-kōyilkaḷuṅ kuḷaṅkaḷum Ūṭaṟuttu-p poṉa vāykkālkaḷum paṟai-c-cēriyuṅ kammāṇa-cēriyuñ cuṭukāṭum Uḷḷiṭṭu Iṟai Ili nilaṅkaḷum
+                        <lb n="4" break="no"/>ṉpat' āvatu varai Uṭaiyār <hi rend="grantha">śrī-rāja-rāja-devar</hi> tañcāvūr Eṭuppitta tirukkaṟṟaḷi <hi rend="grantha">śrī-rāja-rājīśvaram</hi> Uṭaiya <hi rend="grantha">parama-svāmi</hi>kku veṇṭu<supplied reason="subaudible">m</supplied> nivantaṅkaḷukku-t tēvatāṉam āka-c cōḻa-maṇṭalattum puṟa-maṇṭalaṅ
+                        
+                        <lb n="5" break="no"/>kaḷilum Uṭaiyār <hi rend="grantha">śrī-rāja-rāja-devar</hi> kuṭutta Ūrkaḷil Ūr-nattamum <hi rend="grantha">śrī</hi>-kōyilkaḷuṅ kuḷaṅkaḷum Ūṭaṟuttu-p poṉa vāykkālkaḷum paṟai-c-cēriyuṅ kammāṇa-cēriyuñ cuṭukāṭum Uḷḷiṭṭu Iṟai Ili nilaṅkaḷum
+                       
                         <lb n="6"/>Iṟai kaṭṭiṉa nilattāṟ kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ eṉṉum marakkālāl Aḷakka-k-kaṭava nellum Iṭakkaṭava poṉṉuṅ kācum pecikkallil veṭṭiṉa <g type="gomutraFinal">.</g>  
                     </p>
                     <p>
                         teṉ-kaṭuvāy-āṉa
                         <lb n="7"/>Arumoḻi-tēva-vaḷa-nāṭṭu Iṅka-ṇāṭṭu-p pālaiyūr paḷḷiyuṅ kaṇi muṟṟūṭṭum Uṭpaṭa Aḷantapaṭi nilam nūṟṟu muppattu nāṉkē-y Eṭṭu māviṉ kīḻ mukkālē mummāvarai y-araikkā
+                        
                         <lb n="8" break="no"/>ṇi muntirikai-k kīḻ nāṉku māvilum Ū<unclear>r</unclear>nattamuṅ kuḷamuṅ kammāṇa-cēriyum paṟai-c cēriyuñ cuṭukāṭum Ivvūr nilattai Ūṭaṟuttu-p poṉa vāykkālkaḷālum Iṟai Ili nilam oṉpatē-y kāṇi
                         <lb n="9" break="no"/>Araikkāṇi muntirikai-k kīḻ arai nīk<unclear>ki</unclear> Iṟai kaṭṭiṉa nilam nūṟṟu Irupattu Aiñcē-y Eḻumāvarai muntirikai-k kīḻ Eṇmāvarai araikkāṇi muntirikaikkīḻ nāṉku māviṉāl iṟai kaṭṭiṉa kāṇi
                     </p>
@@ -381,10 +380,22 @@
                 
             </div>
             
+             <div type="apparatus">
+            <listApp>
+                <app loc="1">
+                    <lem><hi rend="grantha">svasti śrīḥ</hi></lem>
+                    <note><ptr target="bib:Hultzsch1895_01"/> <hi rend="grantha">svasti śrī</hi></note>
+                </app>
+            </listApp>
+        </div>
+            
+            
+            
+            
             <div type="bibliography">
                 
                 <p>First reported and edited <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.4).</p>
-                <p>This edition by Renato Dávalos and Vigneshwaran Muralidaran (2025) based on <bibl><ptr target="bib:Hultzsch1895_01"/></bibl>.</p>
+                <p>This edition by Renato Dávalos (2025) based on <bibl><ptr target="bib:Hultzsch1895_01"/></bibl>.</p>
                 
                 
                 <listBibl type="primary">
