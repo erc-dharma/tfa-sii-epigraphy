@@ -549,6 +549,13 @@
         </app>
     </listApp>
             <listApp>
+        <app loc="E-9">
+            <lem>In-nāṭṭu Ūcikaṇṇaṅkuṭi</lem>
+            <rdg source="bib:Hultzsch1895_01">In-nāṭṭu Ūcakaṇṇaṅkuṭi 
+            </rdg>
+        </app>
+    </listApp>
+            <listApp>
         <app loc="F-7">
             <lem>kku n<choice><sic>i</sic><corr>ī</corr></choice>r pāya</lem>
             <rdg source="bib:Hultzsch1895_01">kku nīr pāya
@@ -560,13 +567,7 @@
             
             
             
-    <listApp>
-        <app loc="E-9">
-            <lem>In-nāṭṭu Ūcikaṇṇaṅkuṭi</lem>
-            <rdg source="bib:Hultzsch1895_01">In-nāṭṭu Ūcakaṇṇaṅkuṭi 
-            </rdg>
-        </app>
-    </listApp>
+    
 </div>		
        
                     
