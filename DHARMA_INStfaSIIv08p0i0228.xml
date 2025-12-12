@@ -5,54 +5,54 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>SII 8.228: original edition by K.V. Subrahmanya Aiyer</title>
-				<title type="alt">No. 228. (A.R. No. 628 of 1902). ON THE SAME WALL.</title>
-				<respStmt>
-					<resp>author of digital edition</resp>
-					<persName ref="part:reda">
-						<forename>Renato</forename>
-						<surname>Dávalos</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">DHARMA_INStfaSIIv08p0i0228</idno>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary>
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>SII 8.228: original edition by K.V. Subrahmanya Aiyer</title>
+			<title type="alt">No. 228. (A.R. No. 628 of 1902). ON THE SAME WALL.</title>
+			<respStmt>
+				<resp>author of digital edition</resp>
+				<persName ref="part:reda">
+					<forename>Renato</forename>
+					<surname>Dávalos</surname>
+				</persName>
+			</respStmt>
+		</titleStmt>
+		<publicationStmt>
+			<authority>DHARMA</authority>
+			<pubPlace>Paris, CEIAS</pubPlace>
+			<idno type="filename">DHARMA_INStfaSIIv08p0i0228</idno>
+		</publicationStmt>
+		<sourceDesc>
+			<msDesc>
+				<msIdentifier>
+					<repository>DHARMAbase</repository>
+					<idno/>
+				</msIdentifier>
+				<msContents>
+					<summary>
 
-						</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p/>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<revisionDesc>
-			<change who="part:reda" when="2025-12-09">Creation of the file on the
-				repository</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-		<body>
-			
-			
+					</summary>
+				</msContents>
+				<physDesc>
+					<handDesc>
+						<p/>
+					</handDesc>
+				</physDesc>
+			</msDesc>
+		</sourceDesc>
+	</fileDesc>
+	<revisionDesc>
+		<change who="part:reda" when="2025-12-09">Creation of the file on the
+			repository</change>
+	</revisionDesc>
+</teiHeader>
+<text xml:space="preserve">
+	<body>
+		
+		
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
-	
+
 	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<lb n="1"/>svasti śrī
 	</ab>
@@ -97,47 +97,62 @@
 		vikkirama-cōḻa-vaḷa-nāṭṭu In
 		<lb n="11" break="no"/>nampar-nāṭṭu Uṭaiyār tiruvalañ<supplied reason="lost">cuḻi</supplied><gap reason="lost" quantity="1" unit="character"/>-maṅkalattu tiripuvaṉa-mātēvi-vatikku kiḻakku Irā<hi rend="grantha">je</hi>
 		<lb n="12" break="no"/>ntira-cōḻa-vā<supplied reason="omitted">y</supplied>kkālukku teṟku nā<unclear>lāṅ ka</unclear>ṇṇāṟṟu munṟā<unclear>ñ catirattu</unclear> <gap reason="lost" quantity="3" unit="character"/> lit tiruveṇkāṭupaṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice> tiruvitinampi-pakkal Eṅkaḷ
-		<lb n="13"/>mātākkaḷ Eṅkaḷ tamaya<unclear>ṉār</unclear> taṇparic-uṭaiyār pērilē vilaikoṇṭuṭaiyarāy Anupavittu Avar Apāvattu Eṅkaḷukku <hi rend="grantha">sa</hi>
-		<lb n="14" break="no"/> <gap reason="lost" quantity="4" unit="character"/> māna <gap reason="lost" quantity="5" unit="character"/> kaṭaimaiyu mantarāyamum maṟṟuḷḷa cilvarikaḷu miṟuttu mikuti Uḷḷatu tevaka <gap reason="lost" quantity="1" unit="character"/> 
-		<lb n="15"/> <gap reason="lost" quantity="6" unit="character"/> �kavum <gap reason="lost" quantity="3" unit="character"/> muvaṟkkum <hi rend="grantha">so</hi>mmāvatākavum Ippaṭi Icaintu Ittirunāvukkara <gap reason="lost" quantity="1" unit="character"/> 
-		<lb n="16"/> <gap reason="lost" quantity="3" unit="character"/> tiruvāta<unclear>vūrāḷi</unclear>kaḷukkum tirukkaṇṇappa<unclear>tevark</unclear>ku<unclear>m</unclear> Iva<unclear>r</unclear>kaḷ cipātatte nirvāttuk kuṭuttamaikkup piramāṇam paṇṇikkuṭu<unclear>t</unclear>
-		<lb n="17" break="no"/> <gap reason="lost" quantity="4" unit="character"/> vviruvom <supplied reason="undefined"><g type="danda">.</g></supplied> Ippaṭi Ivarkaḷ colla Ippiramāṇam Eḻutinen Iva<supplied reason="omitted">r</supplied>kaḷ tamayan Āṭ(k)koṇṭān taṇparicuṭaiyānen <supplied reason="undefined"><g type="danda">.</g></supplied> Ivai
-<lb n="18"/> <gap reason="lost" quantity="3" unit="character"/> tu <g type="pc"/> Ippaṭikku Ivai Āṭkoṇṭān tevuntiruvumuṭaiyāḷ Eḻuttu <supplied reason="undefined"><g type="danda">.</g></supplied> Ippaṭikku Ivai kiḻakkaṭaiyaniṉṟāḷ Eḻu
-<lb n="19" break="no"/><unclear>ttu</unclear> <g type="ddanda">.</g><g type="pc"/>
-</p>
+		<lb n="13"/>mātākkaḷ Eṅkaḷ tamaya<unclear>ṉār</unclear> taṇparic-uṭaiyār pērilē vilai-koṇṭ' uṭaiyarāy A<choice><orig>n</orig><reg>ṉ</reg></choice>upavittu Avar Apāvattu Eṅkaḷukku <hi rend="grantha">sa</hi>
+		<lb n="14" break="no"/> <gap reason="lost" quantity="4" unit="character"/> māna <gap reason="lost" quantity="5" unit="character"/> kaṭaimaiyum antarāyamum maṟṟ' uḷḷa cilvarikaḷum iṟuttu mikuti Uḷḷatu tēvaka <gap reason="lost" quantity="1" unit="character"/>
+		<lb n="15"/> <gap reason="lost" quantity="6" unit="character"/> ākavum 
+	</p>
+	<p>
+		<gap reason="lost" quantity="3" unit="character"/> muvaṟkkum <hi rend="grantha">so</hi>m-<surplus>m</surplus> āvat' ākavum 
+	</p>
+	<p>
+		
+		Ip-paṭi Icaintu It-tirunāvukkaracu
+		<lb n="16" break="no"/><supplied reason="lost">tēvaṟkum</supplied> tiruvāta<unclear>vūr-āḷi</unclear>kaḷukkum tirukkaṇṇappa<unclear>tēvark</unclear>ku<unclear>m</unclear> Iva<unclear>r</unclear>kaḷ c<choice><sic>i</sic><corr>ī</corr></choice>pātattē n<choice><sic>i</sic><corr>ī</corr></choice>rvāttu-k kuṭutt' amaikku-p piramāṇam paṇṇi-k kuṭu<unclear>t</unclear>
+		<lb n="17" break="no"/> <gap reason="lost" quantity="5" unit="character"/> 
+	</p>
+	<p> <supplied reason="lost">I</supplied>vv-iruvōm Ip-paṭi Ivarkaḷ colla Ip-piramāṇam Eḻuti<choice><orig>n</orig><reg>ṉ</reg></choice>ē<choice><orig>n</orig><reg>ṉ</reg></choice> </p>
+	<p>
+		<list>
+			<item>Iva<supplied reason="omitted">r</supplied>kaḷ tamaya<choice><orig>n</orig><reg>ṉ</reg></choice> Āṭ<unclear>k</unclear>koṇṭā<choice><orig>n</orig><reg>ṉ</reg></choice> taṇparicuṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice>ē<choice><orig>n</orig><reg>ṉ</reg></choice> Ivai
+				<lb n="18"/><supplied reason="lost">Eḻut</supplied>tu <g type="pc"/></item>
+			<item> Ip-paṭikku Ivai Āṭkoṇṭān tēvuntiruvumuṭaiyāḷ Eḻuttu</item>
+			<item> Ip-paṭikku Ivai kiḻakkaṭaiyaniṉṟāḷ Eḻu
+				<lb n="19" break="no"/><unclear>ttu</unclear><g type="ddanda">.</g><g type="pc"/></item>
+		</list>
+	</p>
+	
+</div>
+		
+		<div type="apparatus">
+			
+		</div>
+		
+		<div type="commentary">
+			
+		</div>
+		
+		<div type="bibliography">
+			
+			<p>Digital edition of SII 8.228 by <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> converted to DHARMA conventions by Renato Dávalos.</p>
+			
+			<listBibl type="primary">
+				
+				<bibl n="SII">
+					<ptr target="bib:SubrahmanyaAiyer1937_01"/>
+		<citedRange unit="page">122-123</citedRange>
+		<citedRange unit="item">228</citedRange>
+	</bibl>
+
+</listBibl>
+
+<listBibl type="secondary">
+
+	<bibl/>
+
+</listBibl>
 
 </div>
 
-<div type="apparatus">
-
-</div>
-
-<div type="commentary">
-
-</div>
-
-<div type="bibliography">
-
-	<p>Digital edition of SII 8.228 by <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> converted to DHARMA conventions by Renato Dávalos.</p>
-
-	<listBibl type="primary">
-
-		<bibl n="SII">
-			<ptr target="bib:SubrahmanyaAiyer1937_01"/>
-			<citedRange unit="page">122-123</citedRange>
-			<citedRange unit="item">228</citedRange>
-		</bibl>
-
-	</listBibl>
-
-	<listBibl type="secondary">
-
-		<bibl/>
-
-	</listBibl>
-
-</div>
-
-	</body>
+</body>
 </text>
 </TEI>
