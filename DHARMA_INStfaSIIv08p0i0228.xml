@@ -8,8 +8,7 @@
 <teiHeader>
 	<fileDesc>
 		<titleStmt>
-			<title>SII 8.228: original edition by K.V. Subrahmanya Aiyer</title>
-			<title type="alt">No. 228. (A.R. No. 628 of 1902). ON THE SAME WALL.</title>
+			<title>Tiruvalañjuli, Kapartīśvara temple, time of Rājarāja I, year 12</title>
 			<respStmt>
 				<resp>author of digital edition</resp>
 				<persName ref="part:reda">
@@ -31,7 +30,7 @@
 				</msIdentifier>
 				<msContents>
 					<summary>
-
+						Donation of land made by two female temple-servants <supplied reason="explanation"><foreign>tēvarāṭiyār</foreign></supplied> for the consecration of the images of the saint <supplied reason="explanation"><foreign>tēvar</foreign></supplied> Tirunāvukkaraicu, the ruler <supplied reason="explanation"><foreign>āḷikaḷ</foreign></supplied> of Tiruvātavūr <supplied reason="explanation">i.e., Māṇikkavācakar</supplied>, and the saint <supplied reason="explanation"><foreign>tēvar</foreign></supplied> Tirukkaṇṇappar.
 					</summary>
 				</msContents>
 				<physDesc>
