@@ -363,7 +363,7 @@
         
         
         <div type="translation" source="bib:Hultzsch1895_01">
-            <p>
+           <!-- <p>
                 1. Hail! Prosperity! There was engraved on stone, as orally settled, the revenue <supplied reason="explanation"><foreign>kāṇikkaṭaṉ</foreign></supplied> in paddy,–which has to be measured by the <foreign>marakkāl</foreign> called <supplied reason="subaudible">after</supplied> Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>;–and the gold and the money <supplied reason="explanation"><foreign>kācu</foreign></supplied>, which have to be paid from the land paying taxes; and <supplied reason="subaudible">there was also engraved on stone</supplied> the land free from taxes,–including the village-site <supplied reason="explanation"><foreign>ūr-nattam</foreign></supplied>, the sacred temples <supplied reason="explanation"><foreign>śrīkōyil</foreign></supplied>, the ponds <supplied reason="explanation"><foreign>kuḷam</foreign></supplied>, the channels <supplied reason="explanation"><foreign>vāykkāl</foreign></supplied> passing through <supplied reason="subaudible">the villages</supplied>, the <foreign>paṟai-c-cēri</foreign>, the <foreign>kammāṇa-cēri</foreign>, and the burning-ground <supplied reason="explanation"><foreign>cuṭukāṭu</foreign></supplied>,–in the villages, which the lord Śrī-Rājarājadeva had given in the Cōḻa country and in other countries as divine gifts <supplied reason="explanation"><foreign>devadāna</foreign></supplied> for the expenses <supplied reason="explanation"><foreign>nibandha</foreign></supplied> required by the supreme lord <supplied reason="explanation"><foreign>paramasvāmin</foreign></supplied>of the sacred stone-temple <supplied reason="explanation"><foreign>tirukkaṟṟaḷi</foreign></supplied>, <supplied reason="subaudible">called</supplied> śrī-Rājarājēśvara,–which the lord śrī-Rājarājadeva had caused to be built at Tañjāvūr,–until the twenty-ninth year <supplied reason="subaudible">of the reign</supplied> of kō-Rājakēsarivarman, <foreign>alias</foreign> śrī-Rājarājadeva, who,–while his heart rejoiced, that, like the goddess of fortune, the goddess of the great earth had become his wife,–in his life of growing strength, during which, having been pleased to cut the vessel in the hall at Kāntaḷūr, he conquered by his army, which was victorious in great battles, Vēṅkai-nāṭu, Gaṅga-pāṭi, Taṭigai-pāṭi, Nuḷampa-pāṭi, Kuṭamalai-nāṭu, Kollam, Kaliṅkam, Īḻa-maṇṭalam, which was the country of the Ciṅkaḷas who possessed rough strength, the seven and a half <foreign>lakṣas</foreign> of Iraṭṭa-pāṭi, and twelve thousand ancient islands of the sea, deprived the Ceḻiyas of their splendour, while he was resplendent <supplied reason="explanation">to such a degree</supplied> that he was worthy to be worshipped everywhere.
             </p>
             
@@ -417,12 +417,8 @@
             <p>
                 18.	<supplied reason="subaudible">The village of</supplied> Maruttuvakkuṭi in Iṉṉampar-nāṭu, <supplied reason="subaudible">a subdivision</supplied> of Vaṭakarai-Rājēndrasiṁha-vaḷanāṭu, <supplied reason="subaudible">contains</supplied>, according to measurement, <supplied reason="lost">thirty</supplied> <supplied reason="subaudible">measures of</supplied> land, one half, four twentieths, three eightieths and one hundred-and-sixtieth; and 1/320 of one half and three twentieths. There have to be deducted three quarters of a measure of land free from taxes, two twentieths and one hundred-and-sixtieth; and 1/320 of one twentieth, one fortieth and one three-hundred-and-twentieth, consisting of the village-site, the sacred temples and their sacred courts <supplied reason="explanation"><foreign>tirumuṟṟam</foreign></supplied> and sacred flower-gardens, the <foreign>paṟaiccēri</foreign> and the burning-ground. <supplied reason="subaudible">There remain</supplied> twenty-nine <supplied reason="explanation">measures of</supplied> land, three quarters, two twentieths and three eightieths; and 1/320 of one half, one twentieth, one eightieth, one hundred-and-sixtieth and one three-hundred-and-twentieth. The revenue paid as tax is two thousand nine hundred and sixty-seven <foreign>kalam</foreign>, two <foreign>tūṇi</foreign>, one padakku and two <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>.
             </p>
-            
-            <p>
-                
-            </p>
-            
-            
+            -->
+
             
         </div>
         
@@ -612,7 +608,7 @@ Therefore, repeated fractional values throughout this record—those that seem t
         
         <div type="bibliography">
             
-            <p>First reported and edited <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.4).</p>
+            <p>First reported, edited, and translated by <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.4).</p>
             
             <p>This edition by Renato Dávalos (2025) based on <bibl><ptr target="bib:Hultzsch1895_01"/></bibl>, autopsy (2025) and photographical documentation (E. Francis, 2025; R. Dávalos, 2025)</p>
             
