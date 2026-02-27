@@ -85,12 +85,10 @@
                 <!--check break="no" presently encoded with intervening milestone "pagelike partition". Apparently not necessary and <pb> should be introduced. Ask DANIEL-->
                 
                 <ab>
-                    <milestone unit="item" n="N"/>
-                    <label xml:lang="eng">Northern plinth of the <foreign>vimāna</foreign></label>
                     
-                    <lb n="1.1=1"/>
                     <milestone type="pagelike" unit="zone" n="1"/>
-                    <label xml:lang="eng">Section 1</label>
+                    <label>Northern plinth of the <foreign>vimāna</foreign>, Section 1</label>
+                    <lb n="1.1=1"/>
                     <hi rend="grantha">svasti śrī</hi> <g type="circleDouble">.</g>
                 </ab>
                 
@@ -124,7 +122,7 @@
                     
                     <lb n="2.1=8"/>
                     <milestone type="pagelike" unit="zone" n="2"/>
-                    <label xml:lang="eng">Section 2</label>
+                    <label>Section 2</label>
                     <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">mā</hi>ṉattil-k kallil-ē veṭṭuka Eṉṟu tiruvāy moḻi<choice><orig>ñc</orig><reg>nt</reg></choice>-aruḷa veṭṭi<choice><orig>n</orig><reg>ṉ</reg></choice>a
                 </p>
                 
@@ -145,7 +143,7 @@
                     
                     <lb n="3.1=15" break="no"/>
                     <milestone type="pagelike" unit="zone" n="3" break="no"/>
-                    <label xml:lang="eng">Section 3</label>ṉāl Uṭaiyār <hi rend="grantha">śrī-rājarājade</hi>var kuṭutta poṉṉiṉ tiruppaṭṭam Oṉṟu Āṭavallāṉ eṉṉuṅ kallāl niṟai nāṉūṟṟu-t toṇṇūṟṟ’ oṉpati
+                    <label>Section 3</label>ṉāl Uṭaiyār <hi rend="grantha">śrī-rājarājade</hi>var kuṭutta poṉṉiṉ tiruppaṭṭam Oṉṟu Āṭavallāṉ eṉṉuṅ kallāl niṟai nāṉūṟṟu-t toṇṇūṟṟ’ oṉpati
                     <lb n="3.2=16"/>ṉ kaḻañcu —
                 </p>         	
                 <p>         		
@@ -175,7 +173,7 @@
                     nāḷatiṉālēy kuṭutta
                     <lb n="4.1=22"/>
                     <milestone type="pagelike" unit="zone" n="4"/>
-                    <label xml:lang="eng">Section 4</label>poṉṉiṉ maṇṭai Oṉṟu mēṟpaṭi kallāl niṟai muṉṉūṟṟu-t toṇṇūṟṟ’ ēḻu kaḻañcē Āṟu
+                    <label>Section 4</label>poṉṉiṉ maṇṭai Oṉṟu mēṟpaṭi kallāl niṟai muṉṉūṟṟu-t toṇṇūṟṟ’ ēḻu kaḻañcē Āṟu
                     <lb n="4.2=23"/>mañcāṭi —
                 </p>         	
                 <p>
@@ -198,7 +196,7 @@
                     nāḷ muppattu nāliṉāl Uṭaiyār <hi rend="grantha">śrī-rājar<unclear>ā</unclear>jade</hi>var ciṟu-ta<choice><orig>n</orig><reg>ṉ</reg></choice>attu-k kuṭutta poṉṉi         		        		
                     <lb n="5.1=29" break="no"/>
                     <milestone type="pagelike" unit="zone" n="5" break="no"/>
-                    <label xml:lang="eng">Section 5</label> ṉ taṭṭam Oṉṟu Āṭavallāṉ eṉṉuṅ kallāl niṟai nāṟ-patiṉ kaḻañcēy kāl —
+                    <label>Section 5</label> ṉ taṭṭam Oṉṟu Āṭavallāṉ eṉṉuṅ kallāl niṟai nāṟ-patiṉ kaḻañcēy kāl —
                 </p>
                 <p>        		
                     yāṇṭu Irupatt’ aiñc-āvatu nāḷ Irunūṟṟ’ eḻu-patt’ aiñciṉāl Uṭaiyār <hi rend="grantha">śrī-rājarājade</hi>var <hi rend="grantha">śrī-rājarājīśvara</hi>m uṭaiyār <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">mā</hi>nattu-c cempiṉ <hi rend="grantha">stūpi</hi>ttaṟiyil vaikka-k kuṭutta ceppu-k-kuṭam Oṉṟu
@@ -247,7 +245,7 @@
                     nāḷa-tiṉāley kuṭutta poṉṉiṉ taṭṭam Oṉṟu mēṟpaṭi kallāl niṟai         		       		
                     <lb n="6.1=36" break="no"/>
                     <milestone type="pagelike" unit="zone" n="6"/>
-                    <label xml:lang="eng">Section 6</label>
+                    <label>Section 6</label>
                     nāṟ-patt’ oṉpatiṉ kaḻañcē mukkālē Iraṇṭu mañcāṭiyuṅ kuṉṟi —
                 </p>
                 <p>
@@ -269,7 +267,7 @@
                 <p> 
                     <lb n="7.1=44"/>
                     <milestone type="pagelike" unit="zone" n="7"/>
-                    <label xml:lang="eng">Section 7</label> 
+                    <label>Section 7</label> 
                     Uṭaiyār śrī-rājarājadevar cēramāṉaiyum pāṇṭiyarkaḷaiyum malai-nāṭṭu Eṟintu koṇṭa paṇṭāraṅkaḷil yāṇṭu Iru-patt’ āṟ-āvatu nāḷ muṉ
                     <lb n="7.2=44" break="no"/>ṉūṟṟu Orupatt’ oṉpatiṉāl śrī-rājarāja-Īśvaram uṭaiya paramasvāmikku-k kuṭutta <unclear>po</unclear>ṉṉiṉ<!--kompu is clear check EGD 5.3.4 + 5.4.5--> ciṉṉaṅkaḷ Āṭavallāṉ Eṉṉum kallā
                     <lb n="7.3=45" break="no"/>l niṟai-y eṭuttu kallil veṭṭiṉa paṭi <supplied reason="omitted">—</supplied></p>
@@ -322,7 +320,7 @@
                     kala<unclear>cappā</unclear>ṉai Oṉṟu <unclear>mū</unclear>kkum Aṭiyum Uṭpaṭa poṉ nāṉūṟṟu Ē         		       	
                     <lb n="8.1=51" break="no"/>
                     <milestone type="pagelike" unit="zone" n="8" break="no"/>
-                    <label xml:lang="eng">Section 8</label>ḻu-patiṉ kaḻañcu —
+                    <label>Section 8</label>ḻu-patiṉ kaḻañcu —
                 </p>
                 <p>
                     kalacappāṉai Oṉṟu mūkkum Aṭiyum Uṭpaṭa poṉ nāṉū
@@ -350,7 +348,7 @@
                     <lb n="8.8=58"/>varai <hi rend="grantha">śrī-rājarājīśvaram·</hi> Uṭaiya <hi rend="grantha">paramasvā</hi>mikku Uṭaiyār <hi rend="grantha">śrī-rājarājade</hi>
                     <lb n="9.1=59" break="no"/>
                     <milestone type="pagelike" unit="zone" n="9" break="no"/>
-                    <label xml:lang="eng">Section 9</label>
+                    <label>Section 9</label>
                     var tam paṇṭāraṅkaḷilum cēramāṉaiyum pāṇṭiyarkaḷaiyum malai-nāṭṭu Eṟintu koṇṭa paṇṭāraṅkaḷilum kuṭutta poṉṉiṉ ciṉṉa
                     <lb n="9.2=60" break="no"/>ṅkaḷum poṉṉiṉ tiru-<hi rend="grantha">Ābhara</hi>ṇaṅkaḷum Uḷḷiṭṭaṉa yāṇṭu Iru-patt’ aiñ<unclear>c</unclear>-āvatum yāṇṭu Iru-patt’ āṟ-āvatum Inta <hi rend="grantha">jaga</hi>tippaṭaiyil Itaṉukku muṉ kiḻakk’ aṭaiya kallil
                     <lb n="9.3=61"/>veṭṭi<choice><orig>n</orig><reg>ṉ</reg></choice>a nīkki niṉṟaṉa Āṭavallāṉ eṉṉuṅ kallāl niṟai Eṭuttu kallil v<unclear>e</unclear>ṭṭiṉa paṭi —
@@ -395,14 +393,10 @@
                 </p>
                 <p>         		
                     <unclear>kā</unclear>ḷam o<unclear>ṉ</unclear>ṟu poṉ Iru-nūṟṟu-t toṇṇūṟṟu
-                    
-                    <milestone unit="item" n="W"/>
-                    <label xml:lang="eng">Western plinth of the <foreign>vimāna</foreign></label>
-                    
-                    <lb n="10.1=66"/>
+                                        
                     <milestone type="pagelike" unit="zone" n="10"/>
-                    <label xml:lang="eng">Section 1 = 10</label>
-                    Eṇ-kaḻañc’ araiyēy iraṇṭu mañcāṭi —
+                    <label>Western plinth of the <foreign>vimāna</foreign>, Section 1 = 10</label>
+                    <lb n="10.1=66"/>Eṇ-kaḻañc’ araiyēy iraṇṭu mañcāṭi —
                 </p>
                 <p>         		
                     kāḷama Oṉṟu poṉ Iru-nūṟṟu eṇ-pattu Ēḻu-kaḻañcēy mukkāle nālu mañcāṭiyuṅ kuṉṟi —
@@ -460,7 +454,7 @@
                     tiru-p-paḷḷi-t-toṅkal makuṭam Oṉṟu poṉ Aimpatiṉ kaḻañcē mukkāl-āka Iraṇṭiṉāl poṉ
                     <lb n="11.1=75"/>
                     <milestone type="pagelike" unit="zone" n="11"/>
-                    <label xml:lang="eng">Section 2 = 11</label>
+                    <label>Section 2 = 11</label>
                     nūṟṟu Oru kaḻañc’ arai —
                 </p>
                 <p>
@@ -499,7 +493,7 @@
                     <hi rend="grantha">dhavaḷacchatram·</hi>
                     <lb n="12.1=84"/>
                     <milestone type="pagelike" unit="zone" n="12"/>
-                    <label xml:lang="eng">Section 3 = 12</label>
+                    <label>Section 3 = 12</label>
                     <hi rend="grantha">makuṭam·</hi> moṭṭu Aṭuttu viḷakkiṉa paṟaḷai-y uṭpaṭa Aiñci<choice><orig>n</orig><reg>ṉ</reg></choice>āl poṉ Aimpatiṉ kaḻañcu —
                 </p>
                 <p>
@@ -555,7 +549,7 @@
                 <p>
                     Oppaṉ tiru-k-kai-k-kāṟai Oṉṟu poṉ nāṟpattu Oṉpatiṉ kaḻañcēy 
                     <lb n="13.1=93"/><milestone type="pagelike" unit="zone" n="13"/>
-                    <label xml:lang="eng">Section 4 = 13</label>
+                    <label>Section 4 = 13</label>
                     mukkālē Iraṇṭu mañcāṭiyuṅ kuṉṟi —
                 </p>
                 <p>
