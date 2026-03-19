@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Copy of a manuscript document <supplied reason="explanation"><foreign>ōlai</foreign></supplied> grating several rights to three temple women <supplied reason="explanation"><foreign>tēvaraṭiyār</foreign></supplied>, including  <unclear cert="low">signing</unclear> the <title>tiruvempāvai</title> during the Tiruvātirai festival in Mārkaḻi.</title>
+				<title>Tirumurukaṉpūṇṭi, Muruganātha temple, no king, no year</title>
 				
 				<respStmt>
 					<resp>author of digital edition</resp>
@@ -32,14 +32,13 @@
 					<msContents>
 						<summary>
 							<p>
-								The record is dated  to the 14th century  (most probably on paleaographical grounds).
+								Copy of a manuscript document <supplied reason="explanation"><foreign>ōlai</foreign></supplied> grating several rights to three temple women <supplied reason="explanation"><foreign>tēvaraṭiyār</foreign></supplied>, namely to Cuvaṇṭaya Naṅkai, daughter of Āṭkoṇṭanācci, and her two daughters: Tiruvuṇāḻiyar Naṅkai, alias Toḻi, and Ālālacuntara-Naṅkai, alias Kāṅkaya-nācci. Among the privileges they received was the <unclear cert="low">signing</unclear> the <title>tiruvempāvai</title> during the Tiruvātirai festival in Mārkaḻi. 
 							</p>
 						</summary>
 					</msContents>
 					<physDesc>
-						<handDesc>
-							<p/>
-						</handDesc>
+						
+							
 					</physDesc>
 				</msDesc>
 			</sourceDesc>
@@ -78,6 +77,9 @@
 </div>
 
 <div type="commentary">
+	<p>
+		ARIE dates the record to the 14th century. However, the rationale behind it is missing.
+	</p>
 
 </div>
 
@@ -106,3 +108,4 @@
 	</body>
 </text>
 </TEI>
+<!--On the north wall of the same shrine.-->
