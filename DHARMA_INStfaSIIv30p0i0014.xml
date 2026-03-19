@@ -8,12 +8,13 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>SII 30.14: original edition by N. Marxia Gandhi, A. Padmavathy and S. Swaminathan</title>
-				<title type="alt">No. 14. (A.R. No. 92 of 1915.) Tirumurugaṉpūṇḍi, Avinashi Taluk, Coimbatore District Muruganātha temple-on the north wall of the same shrine King name not mentioned: Īśvara year: 14th c. A.D.</title>
+				<title>Copy of a manuscript document <supplied reason="explanation"><foreign>ōlai</foreign></supplied> grating several rights to three temple women <supplied reason="explanation"><foreign>tēvaraṭiyār</foreign></supplied>, including  <unclear cert="low">signing</unclear> the <title>tiruvempāvai</title> during the Tiruvātirai festival in Mārkaḻi.</title>
+				
 				<respStmt>
 					<resp>author of digital edition</resp>
-					<persName>
-						<name>DHARMA team</name>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
 					</persName>
 				</respStmt>
 			</titleStmt>
@@ -30,7 +31,9 @@
 					</msIdentifier>
 					<msContents>
 						<summary>
-
+							<p>
+								The record is dated  to the 14th century  (most probably on paleaographical grounds).
+							</p>
 						</summary>
 					</msContents>
 					<physDesc>
