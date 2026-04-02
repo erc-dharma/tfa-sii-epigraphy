@@ -30,22 +30,21 @@
 					</msIdentifier>
 					<msContents>
 						<summary>
-							<p>Copy of a palm-leaf order. Doation of money <supplied reason="explanation"><foreign>paṇam</foreign></supplied> by the <foreign>tēvaraṭiyār</foreign> Nāṟpatteṇṇāyira-Naṅkai to the temple for the benefit of mendicants <supplied reason="explanation"><foreign>kōvaṇavar</foreign></supplied>, <unclear cert="low">devotees of Vīrabhadra</unclear> <supplied reason="explanation"><foreign>vīrapattirar</foreign></supplied> and temple trustees <supplied reason="explanation"><foreign>tāṉattar</foreign></supplied>. </p>						
-
-						</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>According to ARIE, it is dated to the 14th century on palaeographical grounds.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<revisionDesc>
-			<change who="part:reda" when="2026-04-02">Creation of the file on the
-				repository</change>
-		</revisionDesc>
+							<p>Copy of a palm-leaf order. Grant of money <supplied reason="explanation"><foreign>paṇam</foreign></supplied> by the <foreign>tēvaraṭiyār</foreign> Nāṟpatteṇṇāyira-Naṅkai to the temple for the benefit of mendicants <supplied reason="explanation"><foreign>kōvaṇavar</foreign></supplied>, <unclear cert="low">devotees of Vīrabhadra</unclear> <supplied reason="explanation"><foreign>vīrapattirar</foreign></supplied> and temple trustees <supplied reason="explanation"><foreign>tāṉattar</foreign></supplied>. In return, she was appointed to perform several services, including flashing the sacred fly-whisk <supplied reason="explanation"><foreign>tiruveṇcāmarai</foreign></supplied>, the sacred mirror <supplied reason="explanation"><foreign>tirukkaṇṇāṭi</foreign></supplied> singing holy songs <supplied reason="explanation"><foreign>tiruppāṭṭu</foreign></supplied> while gesturing with her hands <supplied reason="explanation"><foreign>kaikāṭṭa</foreign></supplied>, as well as certain land rights <supplied reason="explanation"><foreign>urimai kuṭi</foreign></supplied> </p>						
+				</summary>
+			</msContents>
+			<physDesc>
+				<handDesc>
+					<p>According to ARIE, it is dated to the 14th century on palaeographical grounds.</p>
+				</handDesc>
+			</physDesc>
+		</msDesc>
+	</sourceDesc>
+</fileDesc>
+<revisionDesc>
+	<change who="part:reda" when="2026-04-02">Creation of the file on the
+		repository</change>
+</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
 		<body>
@@ -54,11 +53,14 @@
 
 
 	<p>
-	<lb n="1"/>taṇṭi<hi rend="grantha">śva</hi>raṉ Ōlai cākarañ cūḻ vaiyyakattu-t taṇṭiyavaran karumam ārāykai paṇṭ' eyaṟañ ceytāṉ <surplus>ceytāṉ</surplus> Aṟaṅ kāttāṉ pātam tappāmal ceṉṉimēl vaittu Aruḷāl Āti taṇṭe<hi rend="grantha">śva</hi>raṉ Ātēcam nam tirumaṭai-viḷā<unclear>ka</unclear>ttu tēva<unclear>ra</unclear>ṭiyār <gap reason="lost" quantity="5" unit="character"/> 
-	
-		<lb n="2" break="no"/>rukaṉ-pūṇṭi Āḷuṭaiya-ṉāyaṉār c<choice><sic>i</sic><corr>ī</corr></choice>-paṇṭārattu Aṭi Uṟaiyār <gap reason="lost" quantity="3" unit="character"/> kōvaṇavar<supplied reason="omitted">k</supplied>kum tāṉattā<supplied reason="omitted">rk</supplied>kum v<choice><sic>i</sic><corr>ī</corr></choice>rapattira<supplied reason="omitted">r</supplied>kkum kuṭutta <g type="paṇam"></g> <num value="30">3 <g type="numeral">10</g></num> Āka <g type="paṇam"></g> <num value="80">8 <g type="numeral">10</g></num> I<supplied reason="omitted">p</supplied>-paṇam Eṇpatum Oṭukkukaiyil nām Ivarkaḷukku varicai kuṭutta paṭiyā<supplied reason="omitted">va</supplied>tu nāṟpatte<supplied reason="omitted">ṇ</supplied>ṇāyira-naṅkai <gap reason="lost" quantity="4" unit="character"/> 
-		
-	<lb n="3" break="no"/>mum tiruveṇcāmaraiyum tiruka<supplied reason="omitted">ṇ</supplied>ṇāṭiyuṅ kāḷāñcamum <gap reason="lost" quantity="4" unit="character"/> meṟi cevikka kaṭavar ākavum cevikkum iṭattu <choice><sic>Aiñ</sic><corr>veñ</corr></choice>cāma<choice><sic>ṟ</sic><corr>r</corr></choice>aiyum k<choice><sic>a</sic><corr>ā</corr></choice>ṭṭi tiru<supplied reason="omitted">p</supplied>pā<unclear>ṭ</unclear>ṭuk<supplied reason="omitted">ku</supplied>m kaikāṭṭa kaṭavāḷ ākavum maṟṟum Eppeṟpaṭṭatuvum Urimai kuṭitaṉap peṟum <gap reason="lost" quantity="5" unit="character"/> 
+		<lb n="1"/>taṇṭi<hi rend="grantha">śva</hi>raṉ Ōlai cākarañ cūḻ vaiyyakattu-t taṇṭiyavaran karumam ārāykai paṇṭ' eyaṟañ ceytāṉ <surplus>ceytāṉ</surplus> Aṟaṅ kāttāṉ pātam tappāmal ceṉṉimēl vaittu Aruḷāl Āti taṇṭe<hi rend="grantha">śva</hi>raṉ Ātēcam 
+	</p>
+	<p>
+		nam tirumaṭai-viḷā<unclear>ka</unclear>ttu tēva<unclear>ra</unclear>ṭiyār <gap reason="lost" quantity="2" unit="character"/> <supplied reason="lost">tirumu</supplied>
+	<lb n="2" break="no"/>rukaṉ-pūṇṭi Āḷuṭaiya-ṉāyaṉār c<choice><sic>i</sic><corr>ī</corr></choice>-paṇṭārattu Aṭi Uṟaiyār <gap reason="lost" quantity="3" unit="character"/> kōvaṇavar<supplied reason="omitted">k</supplied>kum tāṉattā<supplied reason="omitted">rk</supplied>kum v<choice><sic>i</sic><corr>ī</corr></choice>rapattira<supplied reason="omitted">r</supplied>kkum kuṭutta <g type="paṇam"></g> <num value="30">3 <g type="numeral">10</g></num> Āka <g type="paṇam"></g> <num value="80">8 <g type="numeral">10</g></num> 
+	</p>
+	<p>
+		I<supplied reason="omitted">p</supplied>-paṇam Eṇpatum Oṭukkukaiyil nām Ivarkaḷukku varicai kuṭutta paṭiyā<supplied reason="omitted">va</supplied>tu nāṟpatte<supplied reason="omitted">ṇ</supplied>ṇāyira-naṅkai <gap reason="lost" quantity="4" unit="character"/>		<lb n="3" break="no"/>mum tiruveṇcāmaraiyum tiruka<supplied reason="omitted">ṇ</supplied>ṇāṭiyuṅ kāḷāñcamum <gap reason="lost" quantity="4" unit="character"/> meṟi cevikka kaṭavar ākavum cevikkum iṭattu <choice><sic>Aiñ</sic><corr>veñ</corr></choice>cāma<choice><sic>ṟ</sic><corr>r</corr></choice>aiyum k<choice><sic>a</sic><corr>ā</corr></choice>ṭṭi tiru<supplied reason="omitted">p</supplied>pā<unclear>ṭ</unclear>ṭuk<supplied reason="omitted">ku</supplied>m kaikāṭṭa kaṭavāḷ ākavum maṟṟum Eppeṟpaṭṭatuvum Urimai kuṭitaṉap peṟum <gap reason="lost" quantity="5" unit="character"/> 
 	</p>
 	
 	</div>
@@ -73,7 +75,9 @@
 
 <div type="bibliography">
 
-	<p>Digital edition of SII 30.54 by <bibl><ptr target="bib:MarxiaGandhi+al2011_01"/></bibl> automatically converted to DHARMA conventions.</p>
+		<p>Reported in <bibl><ptr target="bib:ARIE1915-1916"/></bibl> (ARIE/1915-1916/B/1915/131).</p>
+        <p>Edited in <bibl><ptr target="bib:MarxiaGandhi+al2011_01"/></bibl> (SII 36.186).</p>
+        <p>This digital edition by Renato Dávalos, based on <bibl><ptr target="bib:MarxiaGandhi+al2011_01"/></bibl>.</p>
 
 	<listBibl type="primary">
 
@@ -86,10 +90,15 @@
 	</listBibl>
 
 	<listBibl type="secondary">
-
-		<bibl/>
-
-	</listBibl>
+		            
+		            <bibl n="ARIE">
+		                <ptr target="bib:ARIE1915-1916"/>
+		                <citedRange unit="page">12</citedRange>
+		                <citedRange unit="appendix">B/1915</citedRange>
+		                <citedRange unit="item">131</citedRange>			
+		            </bibl>		
+		            
+		        </listBibl>
 
 </div>
 
