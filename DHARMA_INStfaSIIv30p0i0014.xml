@@ -32,7 +32,7 @@
 					<msContents>
 						<summary>
 							<p>
-								Copy of a manuscript document <supplied reason="explanation"><foreign>ōlai</foreign></supplied> grating several rights to three temple women <supplied reason="explanation"><foreign>tēvaraṭiyār</foreign></supplied>, namely to Cuvaṇṭaya Naṅkai, daughter of Āṭkoṇṭanācci, and her two daughters: Tiruvuṇāḻiyar Naṅkai, alias Toḻi, and Ālālacuntara-Naṅkai, alias Kāṅkaya-nācci. Among the privileges they received was the designation of the hand gestures (<foreign>kai nāṭṭi</foreign>) during the performance of the <title>Tiruvempāvai</title>, in the context of the Tiruvātirai festival in Mārkaḻi. 
+								Copy of a manuscript document <supplied reason="explanation"><foreign>ōlai</foreign></supplied> grating several rights to three temple women <supplied reason="explanation"><foreign>tēvaraṭiyār</foreign></supplied>, namely to Cuvaṇṭaya Naṅkai, daughter of Āṭkoṇṭanācci, and her two daughters: Tiruvuṇāḻiyar Naṅkai, alias Toḻi, and Ālālacuntara-Naṅkai, alias Kāṅkaya-nācci. Among the privileges they received was the designation of the hand gestures (<foreign>kai kāṭṭi</foreign>) during the performance of the <title>Tiruvempāvai</title>, in the context of the Tiruvātirai festival in Mārkaḻi. 
 							</p>
 						</summary>
 					</msContents>
@@ -77,7 +77,7 @@
 			<lb n="6" break="no"/>vaṇam uḷḷiṭṭa Ā<hi rend="grantha">sa</hi>naṅkaḷ ēṟa-k kaṭavarkaḷ ākavum 
 			</p>
 		<p>
-			tirumārkaḻi-t tiruvātiraikku muṉṟā <gap reason="lost" quantity="8" unit="character"/> lā y-uḷḷa tiruvempāvaikku kai nāṭṭi muṉṟām Aṟai mutalāyuḷḷa Aṟaiyuṅ kaṭṭakkaṭava
+			tirumārkaḻi-t tiruvātiraikku muṉṟā <gap reason="lost" quantity="8" unit="character"/> lā y-uḷḷa tiruvempāvaikku kai <choice><sic>n</sic><corr>k</corr></choice>āṭṭi muṉṟām Aṟai mutalāyuḷḷa Aṟaiyuṅ kaṭṭakkaṭava
 	<lb n="7" break="no"/>rkaḷ ākavum
 			</p>
 		<p>
@@ -139,6 +139,15 @@
 </div>
 
 <div type="apparatus">
+	<listApp>
+		
+		<app loc="7">
+			<lem>kai <choice><sic>n</sic><corr>k</corr></choice>āṭṭi</lem>
+			<rdg source="bib:MarxiaGandhi+al2011_01">kai nāṭṭi</rdg>
+			<note>I follow here the wording of a parallel inscription from the same temple:  <ref target="INStfaSIIv30p0i0054"/></note>
+		</app>      
+		
+	</listApp>
 
 </div>
 
@@ -180,4 +189,4 @@
 	</body>
 </text>
 </TEI>
-<!--On the north wall of the same shrine.-->
+<!--On the south and east walls of the goddess shrine.-->
