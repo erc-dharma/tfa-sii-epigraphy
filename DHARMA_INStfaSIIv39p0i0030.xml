@@ -42,7 +42,8 @@
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
-			<change who="part:mime" when="2026-03-17" status="draft">Conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+				<change who="part:reda" when="2026-04-10">Creation of the file</change>
+			
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -69,9 +70,15 @@
 
 </div>
 
-<!--<div type="apparatus">
-
-</div>-->
+<div type="apparatus">
+	<listApp>	
+	<app loc="1">
+		<lem><hi rend="grantha">maka</hi> kittukku</lem>
+		<rdg source="bib:Karuppiah2020_01">makkittikku</rdg>
+		<note>See parallel inscription in the same temple, following regnal year.</note>
+	</app>
+</listApp>
+</div>
 
 <!--<div type="commentary">
 
@@ -79,7 +86,7 @@
 
 <div type="bibliography">
 
-	<p>Reported in <bibl><ptr target="bib:Karuppiah2020_01"/></bibl> (ARIE/1915-1916/C/1916/30).</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1915-1916"/></bibl> (ARIE/1915-1916/C/1916/30).</p>
 	<p>First edited in <bibl><ptr target="bib:Karuppiah2020_01"/></bibl> (SII 39.30).</p>
     <p>This edition by Renato Dávalos (2026), based on <bibl><ptr target="bib:Karuppiah2020_01"/></bibl>.</p>
 
