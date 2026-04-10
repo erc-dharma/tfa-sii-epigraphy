@@ -12,8 +12,9 @@
 				</title>
 				<respStmt>
 					<resp>author of digital edition</resp>
-					<persName>
-						<name>DHARMA team</name>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
 					</persName>
 				</respStmt>
 			</titleStmt>
