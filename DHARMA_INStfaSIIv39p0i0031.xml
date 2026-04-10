@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Ceṉṉivaṉam, Sāliyavanēśvarar temple, Māṟavarman Sundara Pāṇḍya, year 5
+				<title>Ceṉṉivaṉam, Sāliyavanēśvarar temple, Māṟavarman Kulaśekhara, no year
 				</title>
 				<respStmt>
 					<resp>author of digital edition</resp>
@@ -104,9 +104,11 @@
 	</listApp>
 </div>
 
-<!--<div type="commentary">
-
-</div>-->
+<div type="commentary">
+<p>
+	Since the inscription is clearly a supplement to <ref target="DHARMA_INStfaSIIv39p0i0030.xml"/> of the same king, it was probably issued afterwards, meaning between the 38th year of the previous record and the last regnal year of king Maṟavarman, the 40th year.
+</p>
+</div>
 
 <div type="bibliography">
 
