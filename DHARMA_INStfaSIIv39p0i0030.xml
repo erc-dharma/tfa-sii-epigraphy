@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ceṉṉivaṉam, Sāliyavanēśvarar temple, Māṟavarman Sundara Pāṇḍya, year 5
+				</title>
+				<respStmt>
+					<resp>author of digital edition</resp>
+					<persName>
+						<name>DHARMA team</name>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">DHARMA_INStfaSIIv39p0i0030</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>
+							<p>Land grant made by the inhabitats of Viyātaraiyaṉ-kōṭṭai for an image of Tiruvātavūr-Nāyaṇār (Māṇikkavācakar), which was set up by Sundara Pāṇḍya Paṭṭaṉ. The endowment includes food offerings, clothes and related items. The record is said to have been engraved on copper.</p>	
+						</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:mime" when="2026-03-17" status="draft">Conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+		<body>
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+	
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+            <lb n="1"/>śrī
+        </ab>
+
+	<p>
+		makkittikku meṟ <hi rend="grantha">śrī</hi> komāṟapaṉmar-āṉa tirupuvaṉa-c-cakkaravattikaḷ Emmaṇṭala muṅkoṇṭaruḷiya <hi rend="grantha">śrī</hi>kulacēkara-tēvaṟkku yāṇṭu <num value="38">3 <g type="numeral">10</g> 8</num> vatu Ai<unclear>p</unclear>paci <hi rend="grantha">śrī</hi>
+	</p>
+	<p>
+		tiruttiyū<unclear>r</unclear>-mu<unclear>ṭ</unclear>ṭattu tiruccaṉṉavaṉattu Uṭaiyā<unclear>r</unclear> tiruccaṉṉavaṉam-uṭaiya-nāyiṉār kōyilil tēvakaṉmi c<choice><sic>i</sic><corr>ī</corr></choice>kāriyañcevār <hi rend="grantha">śrī māheśvara</hi>-kaṇkāṇi cevārkaḷukku I<unclear>n</unclear>-nāṭu viyātaraiyaṉ-kōṭṭai <gap reason="lost" quantity="7" unit="character"/> ḻaiñcca Ū<unclear>ra</unclear>varōm piṭipāṭu paṇṇi kuṭutta paricāvatu
+	</p>
+	<p>
+		I<unclear>n</unclear>ta nāyiṉār kōyilil muppatu vaṭṭattu civa-p-pirāmaṇaril ceya 
+		<lb n="2"/>yāṉ Imametaruvāṉ-āṉa cuntarapāṇṭiya-paṭṭaṉ In-nāyaṉār kōyilil Ēṟiaruḷa-p paṇṇiṉa tiruvātavūr nāyaṉāṟku Amutupaṭi cāttupaṭi <unclear>U</unclear>ḷḷiṭṭaṉ itta nimantatukku <gap reason="lost" quantity="4" unit="character"/> vakaḷ viṭ<unclear>ṭa nila</unclear>m āvatu viyataraiyaṉ kōṭṭai vayalil periya-kuḷatil veḷḷuruva maṭaiyāl nirpāyum E <gap reason="lost" quantity="1" unit="character"/> kaḷ kāṇi <unclear>ci</unclear>la viṭṭa nilam Iraṇṭu <gap reason="lost" quantity="6" unit="character"/> patu kiḻpāṟkellai naṭuvillempa-k kuḷattil nānā<unclear>ḷu</unclear>kku meṟkum teṉ <supplied reason="explanation">pā</supplied>ṟkellai paṟaiyaṉ kāṇi
+		<lb n="3"/>tēvaṉ kāḷaiyār Uḻutu pōtukiṟa taṭi Iraṇṭum mututaricāṉa taṭi Iraṇṭukkum vaṭakkum melpāṟkellai muṉpu tiruvilaiku-p-puṟam āka viṭṭa tēvatāṉa-paṟṟil vā <gap reason="lost" quantity="2" unit="character"/> ttuṭaval <gap reason="lost" quantity="4" unit="character"/> varampukku kiḻakkum pa <gap reason="lost" quantity="3" unit="character"/> tēvatāṉam Ālāla cuntaraṉ vaykkal kiḻ <gap reason="lost" quantity="2" unit="character"/> rampukku kiḻakkum vaṭapāṟk kellai It-<supplied reason="explanation">tēva</supplied>tāṉam vaṭavarampuvanta cevuṟaikkut teṟkkum Āka <unclear>I</unclear>c<unclear>ai</unclear>nta perunāṉkellaikk' uṭpaṭṭa palataṭiyāl Ēṟṟa-c curukkam Uṭpaṭa nilam Iraṇṭumāvum In-nāyaṉāṟkku kārāḻvai
+		<lb n="4" break="no"/>kavum Inta cuntarāpāṇṭiya paṭṭaṇukku kāṇi Āvatu Ākavum In-nāyaṉāṟku Amutupaṭi cāttuppaṭi Uḷḷiṭṭa viñcaṉattukkum Iṟaiyili kārāḻmai Āka n<choice><sic>i</sic><corr>ī</corr></choice>rvārttu Eṅkaḷ<choice><sic>u</sic><corr>ū</corr></choice>r puravil kaḻittu viṭṭamai<unclear>kku</unclear> cantirāticcavaṟ celvatāka kallilum cempilum veṭṭi-k kuṭuttōm tiruvātavūr-nāyiṉārku viyātaraiyaṉ kōṭṭai Ūrkku camainta Ūravarōm Ip-paṭikku Añcāta kaṇṭapparaiyaṉ Eḻuttu Ippaṭikku muṭitāṅkirāmaṉ Eḻuttu
+	</p>
+
+</div>
+
+<!--<div type="apparatus">
+
+</div>-->
+
+<!--<div type="commentary">
+
+</div>-->
+
+<div type="bibliography">
+
+	<p>Reported in <bibl><ptr target="bib:Karuppiah2020_01"/></bibl> (ARIE/1915-1916/C/1916/30).</p>
+	<p>First edited in <bibl><ptr target="bib:Karuppiah2020_01"/></bibl> (SII 39.30).</p>
+    <p>This edition by Renato Dávalos (2026), based on <bibl><ptr target="bib:Karuppiah2020_01"/></bibl>.</p>
+
+	<listBibl type="primary">
+
+		<bibl n="SII">
+			<ptr target="bib:Karuppiah2020_01"/>
+			<citedRange unit="page">37-38</citedRange>
+			<citedRange unit="item">30</citedRange>
+		</bibl>
+
+	</listBibl>
+
+	<listBibl type="secondary">
+            <bibl n="ARIE">
+                <ptr target="bib:ARIE1915-1916"/>
+                <citedRange unit="page">66</citedRange>
+                <citedRange unit="item">30</citedRange>
+                <citedRange unit="appendix">C/1915-1916</citedRange>
+            </bibl> 
+                </listBibl>
+
+</div>
+
+	</body>
+</text>
+</TEI>
