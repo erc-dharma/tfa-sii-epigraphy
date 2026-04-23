@@ -140,7 +140,7 @@
                 </p>
                 <p>
                     
-                    <hi rend="grantha">śrī pa</hi><choice><sic>n</sic><corr>ṉ</corr></choice><hi rend="grantha">māheśvara<supplied reason="omitted"> ra</supplied>kṣai</hi> <g type="ddanda">.</g> <g type="pc">.</g> 
+                    <hi rend="grantha">śrī pa</hi><choice><sic>n</sic><corr>ṉ</corr></choice><hi rend="grantha">māheśvara<supplied reason="omitted"> ra</supplied>kṣai</hi> <g ref="sym:doubleBar" type="punctuation">.</g> <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--> 
                 </p>
                 
             </div>
@@ -161,7 +161,7 @@
                     From the land that was left unclassified <supplied reason="explanation"><foreign>taram peṟātu kiṭakkum</foreign></supplied> and was comparable to the waste land <supplied reason="explanation"><foreign>kaḻiku oppumāy</foreign></supplied> of the drummers in Ciṅkaviṣṇu-caturvedimaṅgalam, which amounts to sixty-six <foreign>vēli</foreign>s of land, they have been converted into new fields <supplied reason="explanation"><foreign>putu tiruttu ākki</foreign></supplied> under the title of surrounding areas <supplied reason="explanation"><foreign>vilākam</foreign></supplied> of Vīrarājendra.
                 </p>
                 <p n="2">
-                For each <foreign>vēli</foreign> from this land, sixty <gap reason="undefined"></gap> of paddy <supplied reason="subaudible">were measured</supplied> the <foreign>rājakēcari</foreign> <supplied reason="subaudible">measure</supplied>.
+                For each <foreign>vēli</foreign> from this land, sixty <gap reason="undefined"/> of paddy <supplied reason="subaudible">were measured</supplied> the <foreign>rājakēcari</foreign> <supplied reason="subaudible">measure</supplied>.
             </p>
            <p n="3">
                We took the five hundred and sixty eight gold coins that were left unused as endowments <supplied reason="explanation"><foreign>ceyyātu niṉṟa</foreign></supplied> 
@@ -170,7 +170,7 @@
                    <item>for the prosperity of the royal lineage <supplied reason="explanation"><foreign>irukkulam vattikkavum</foreign></supplied>,</item>
                    <item>for the increase of the marriage-badge of the queens <supplied reason="explanation"><foreign>nampirāṭṭimār tirumaṅkalliyam perukavum</foreign></supplied>, and</item>
                    <item>so that the body <supplied reason="explanation"><foreign>tirumēṉi</foreign></supplied> of the children <supplied reason="subaudible">of the king</supplied> are safe and sound <supplied reason="explanation"><foreign>kalliyāṉa tirumēṉi ākavum</foreign></supplied>.</item>
-                   <item></item>
+                   <item/>
                </list>
            </p>
             <p n="3">

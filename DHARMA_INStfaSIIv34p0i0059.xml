@@ -44,7 +44,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -296,7 +296,7 @@
     <p>
         Ip-paṭikku nammil Orimai Ottu-c ceytu koṇṭa kal-veṭṭukku Akitam ceytār Uṇṭāṉāl
         
-        <lb n="72"/>keṅkai-k karaiyil kārām pacuvai-k koṉṟa pāvattilē pōka kaṭavār Ākavum <g type="gomutraFinal">.</g>
+        <lb n="72"/>keṅkai-k karaiyil kārām pacuvai-k koṉṟa pāvattilē pōka kaṭavār Ākavum <g ref="sym:flourish-taperOut" type="punctuation">.</g>
     </p>
     
     

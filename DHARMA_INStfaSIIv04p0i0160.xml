@@ -122,7 +122,7 @@
                     <lb n="11"/><gap reason="lost" quantity="3" unit="character"/>
                     mukaṇṭi Ūr Āḷ<supplied reason="undefined">vari</supplied> ta<supplied reason="undefined">ra</supplied>ku nalla pokku
                     <gap reason="lost" quantity="6" unit="character"/>
-                    kku <g type="undefined"/> <num value="30">3 <g type="numeral">10</g></num>-m peru-marutūr Āḷkoṇ	
+                    kku <g ref="sym:unclassified" type="symbol">*</g> <num value="30">3 <g type="numeral">10</g></num>-m peru-marutūr Āḷkoṇ	
                     <lb n="12" break="no"/>
                     <gap reason="lost" quantity="4" unit="character"/>		
                     kaiy Aḻakiyāṉ pokkum paḻavāṟaiyil taṭi Oṉṟu kuḻi <num value="22">2 <g type="numeral">10</g> 2</num> kku
@@ -137,7 +137,7 @@
                     <gap reason="lost" quantity="7" unit="character"/>
                     ḻakku-t teṟ
                     <gap reason="lost" quantity="3" unit="character"/>
-                    <lb n="14"/><supplied reason="undefined">vā</supplied>ḻikallukku mēṟku taṭi 1<g type="dash"/>kku kuḻi
+                    <lb n="14"/><supplied reason="undefined">vā</supplied>ḻikallukku mēṟku taṭi 1<g ref="sym:dash" type="punctuation">.</g>kku kuḻi
                     <gap reason="lost" quantity="3" unit="character"/>
                     maṇi-maṅkalam vaṇika-nārāyaṇar po
                     <gap reason="lost" quantity="7" unit="character"/>
@@ -158,10 +158,10 @@
                     ṇṭārattil vāṅ
                     <lb n="17" break="no"/>
                     <gap reason="lost" quantity="2" unit="character"/>
-                    teṇ-ṇāyakkar tiru-vakka<supplied reason="undefined">ḷi</supplied>l ceṭ<supplied reason="undefined">ṭi</supplied>-y-appa<supplied reason="undefined">ṉ va</supplied>cam celav' aṟutta <g type="undefined"/> <num value="150"><g type="numeral">100</g> 5 <g type="numeral">10</g></num>-m mēṟ pa
+                    teṇ-ṇāyakkar tiru-vakka<supplied reason="undefined">ḷi</supplied>l ceṭ<supplied reason="undefined">ṭi</supplied>-y-appa<supplied reason="undefined">ṉ va</supplied>cam celav' aṟutta <g ref="sym:unclassified" type="symbol">*</g> <num value="150"><g type="numeral">100</g> 5 <g type="numeral">10</g></num>-m mēṟ pa
                     <gap reason="lost" quantity="4" unit="character"/>
                     -c curattukku kaḻitta paṭi 
-                    <lb n="18" break="no"/>yi-c celav' aṟutta <g type="undefined"/> <num value="120"><g type="numeral">100</g> 2 <g type="numeral">10</g></num>-m Āka <g type="undefined"/> <num value="270">2 <g type="numeral">100</g> 7 <g type="numeral">10</g></num>
+                    <lb n="18" break="no"/>yi-c celav' aṟutta <g ref="sym:unclassified" type="symbol">*</g> <num value="120"><g type="numeral">100</g> 2 <g type="numeral">10</g></num>-m Āka <g ref="sym:unclassified" type="symbol">*</g> <num value="270">2 <g type="numeral">100</g> 7 <g type="numeral">10</g></num>
                 </p>
                 <p>
                     Ip-p-paṇam Iru-nūṟṟu Eḻu-patukkum I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ila
@@ -175,11 +175,11 @@
                     Aḻaka-p-perumāḷu<supplied reason="undefined">kku</supplied>		
                     <list>
                         <item>
-                            <lb n="21"/><supplied reason="lost">Ip-paṭikku</supplied> tēva-p-perumāḷ nampi Eḻuttu <g type="pc"/></item>
+                            <lb n="21"/><supplied reason="lost">Ip-paṭikku</supplied> tēva-p-perumāḷ nampi Eḻuttu <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--></item>
                         <item>Ip-paṭikku <gap reason="lost" quantity="6" unit="character"/>
-                            <lb n="22"/><gap reason="lost" quantity="7" unit="character"/> kōpura-nampi Eḻuttu <g type="pc"/></item>
+                            <lb n="22"/><gap reason="lost" quantity="7" unit="character"/> kōpura-nampi Eḻuttu <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--></item>
                         <item>I<supplied reason="undefined">p-paṭi</supplied><supplied reason="lost">kku</supplied> <gap reason="lost" quantity="3" unit="character"/>
-                            <lb n="23"/><gap reason="lost" quantity="8" unit="character"/> Eḻuttu <g type="pc"/></item>
+                            <lb n="23"/><gap reason="lost" quantity="8" unit="character"/> Eḻuttu <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--></item>
                         <item><supplied reason="lost">Ip-paṭikku</supplied> <gap reason="lost" quantity="3" unit="character"/> ma <gap reason="lost" quantity="4" unit="character"/>
                             <lb n="24"/>vāḷa-paṭṭaṉ Eḻuttu</item>
                         <item><gap reason="lost" quantity="7" unit="character"/></item>

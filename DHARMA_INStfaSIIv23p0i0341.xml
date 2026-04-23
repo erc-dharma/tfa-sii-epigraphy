@@ -50,7 +50,7 @@
 			<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
 				
 				<p>
-					<lb n="1"/><hi rend="grantha">svasti śrī</hi> <supplied reason="subaudible"><g type="ddanda">.</g></supplied> k<choice><orig>o</orig><reg>ō</reg></choice>-p-parak<choice><orig>e</orig><reg>ē</reg></choice>cari-<hi rend="grantha">pa<choice><orig>n</orig><reg>ṉ</reg></choice>ma</hi><unclear>r-āṉa</unclear> <hi rend="grantha"><unclear>śrī rāje</unclear></hi>ntira-c<choice><orig>o</orig><reg>ō</reg></choice>ḻa-<hi rend="grantha">de</hi>varkku yāṇṭu 3<g type="dash"/>Āvatu vaṭa-karai rā<hi rend="grantha">je</hi>ntira <hi rend="grantha">siṁha</hi>-vaḷa-nāṭṭu maṇṇi-nāṭṭu <hi rend="grantha">brahmade</hi>yam vempaṟṟūr-ākiya <hi rend="grantha">śrī</hi> c<choice><orig>o</orig><reg>ō</reg></choice>ḻa-māttāṇṭa catu<hi rend="grantha">r-ve</hi>ti-maṅkalattu tiru-vica
+					<lb n="1"/><hi rend="grantha">svasti śrī</hi> <supplied reason="subaudible"><g ref="sym:doubleBar" type="punctuation">.</g></supplied> k<choice><orig>o</orig><reg>ō</reg></choice>-p-parak<choice><orig>e</orig><reg>ē</reg></choice>cari-<hi rend="grantha">pa<choice><orig>n</orig><reg>ṉ</reg></choice>ma</hi><unclear>r-āṉa</unclear> <hi rend="grantha"><unclear>śrī rāje</unclear></hi>ntira-c<choice><orig>o</orig><reg>ō</reg></choice>ḻa-<hi rend="grantha">de</hi>varkku yāṇṭu 3<g ref="sym:dash" type="punctuation">.</g>Āvatu vaṭa-karai rā<hi rend="grantha">je</hi>ntira <hi rend="grantha">siṁha</hi>-vaḷa-nāṭṭu maṇṇi-nāṭṭu <hi rend="grantha">brahmade</hi>yam vempaṟṟūr-ākiya <hi rend="grantha">śrī</hi> c<choice><orig>o</orig><reg>ō</reg></choice>ḻa-māttāṇṭa catu<hi rend="grantha">r-ve</hi>ti-maṅkalattu tiru-vica
 					
 					<lb n="2" break="no"/>lūr mā<hi rend="grantha">hā</hi>-t<choice><orig>e</orig><reg>ē</reg></choice>var k<choice><orig>o</orig><reg>ō</reg></choice>yilil It-t<choice><orig>e</orig><reg>ē</reg></choice>varkku tiru<unclear>c</unclear>-cuṟṟālaiya<unclear>mum k</unclear><choice><orig>o</orig><reg>ō</reg></choice>puramum ceyvittā <gap reason="lost" quantity="6" unit="character"/> rā<hi rend="grantha">je</hi>nti<supplied reason="omitted">ra</supplied>-c<choice><orig>o</orig><reg>ō</reg></choice>ḻa-t<choice><orig>e</orig><reg>ē</reg></choice>var <gap reason="lost" quantity="3" unit="character"/> t<hi rend="grantha">tya</hi>yat terinta valaṅkai veḷai-k-kāṟar It tiru-k-k<choice><orig>o</orig><reg>ō</reg></choice>yilile Eḻuntaru<supplied reason="omitted">ḷi</supplied>-vicca malai nāṭṭu koṭuṅko
 				</p>
@@ -63,8 +63,8 @@
 			</div>
 			
 			<div type="bibliography">
-				<p>Reported in <bibl><ptr target="bib:ARIE1907-1908"></ptr></bibl> (ARIE/1907-1908/B/1907/341).</p>
-				<p>Edited in <bibl><ptr target="bib:SrinivasaRao1979_01"></ptr></bibl> (SII 23.341).</p>
+				<p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/B/1907/341).</p>
+				<p>Edited in <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl> (SII 23.341).</p>
 				<p>This digital edition by Dorotea Operato, based on <bibl><ptr target="bib:SrinivasaRao1979_01"/></bibl>.</p>
 				
 				<listBibl type="primary">	

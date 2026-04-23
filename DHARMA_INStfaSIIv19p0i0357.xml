@@ -105,21 +105,21 @@
                     <ab>
                         <milestone type="pagelike" unit="zone" n="A1"/>
                         <label xml:lang="eng">Northern facade</label>
-                        <lb n="A1=1"/><g type="daṇḍa"/><g type="daṇḍa"/><g type="daṇḍa"/> <hi rend="grantha">svasti śrī</hi> <g type="gomutraFinal">.</g>
+                        <lb n="A1=1"/><g ref="sym:bar" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g> <hi rend="grantha">svasti śrī</hi> <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                     </ab>
                     
                     <lg n="1" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                         <l n="a">kuvalāla-samudbhavaḥ su-kī<unclear>r</unclear>tti<lb n="A2=2" break="no"/>-paḻu<hi rend="grantha">vū</hi>r-</l>
                         <l n="b">nakka Iti pratīta-nāmā muravairīva</l>
                         <l n="c"><unclear reason="eccentric_ductus">vira</unclear><lb n="A3=3" break="no"/><unclear reason="eccentric_ductus">jaḥ</unclear> jāta-varṇṇa-<unclear>pra</unclear>varo</l>
-                        <l n="d">vaṁśa-karaḥ sam-āvirāsīt· <g type="ddanda">.</g></l>
+                        <l n="d">vaṁśa-karaḥ sam-āvirāsīt· <g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="2" rend="grantha" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:83215">          
                         <l n="a"><lb n="A4=4"/>yam artthinas tyāgam upātta-vigraham·</l>
                         <l n="b">dviṣat·-janāḥ <unclear reason="eccentric_ductus">śau</unclear><lb n="A5=5" break="no"/><unclear>r</unclear>yya-guṇaṁ śarīriṇam·</l>
                         <l n="c">Anaṁgam aṁgānvayinaṁ· mṛgekṣaṇā</l>
-                        <l n="d"><lb n="A6=6"/>vida<unclear>n</unclear>ti dhar<unclear>m</unclear>maṁ satanum· vipaścitaḥ <g type="gomutraFinal">.</g></l>
+                        <l n="d"><lb n="A6=6"/>vida<unclear>n</unclear>ti dhar<unclear>m</unclear>maṁ satanum· vipaścitaḥ <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                     </lg>
                     
                     <p xml:lang="san-Latn" rendition="class:grantha maturity:83215">
@@ -132,7 +132,7 @@
                         <lb n="A10=10" break="no"/>mbhoḥ mandiraṁ śilā-mayam· vidhāyāsyaiva grāmasya svabh<unclear>ū</unclear>tām· ne
                         <lb n="A11=11" break="no"/><choice><unclear>ḍ</unclear><unclear>ṭ</unclear></choice>uvāyil-nāma-grāmaṭ<choice><sic>ī</sic><corr>i</corr></choice>kām mahāparṣadaḥ krītvā sva-vitta-dānād aka
                         <lb n="A12=12" break="no"/>rāñ ca kṛtvā tasyaiva śam·bhor ā-śaśāṁka-sthiter arccanot·savādy-arttha
-                        <lb n="A13=13" break="no"/>m· prādāt· <g type="gomutraFinal">.</g>
+                        <lb n="A13=13" break="no"/>m· prādāt· <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                     </p>
                     
                     <p>

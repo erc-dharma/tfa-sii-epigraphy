@@ -113,10 +113,10 @@
 	<p>
 		<list>
 			<item>Iva<supplied reason="omitted">r</supplied>kaḷ tamaya<choice><orig>n</orig><reg>ṉ</reg></choice> Āṭ<unclear>k</unclear>koṇṭā<choice><orig>n</orig><reg>ṉ</reg></choice> taṇparicuṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice>ē<choice><orig>n</orig><reg>ṉ</reg></choice> Ivai
-				<lb n="18"/><supplied reason="lost">Eḻut</supplied>tu <g type="pc"/></item>
+				<lb n="18"/><supplied reason="lost">Eḻut</supplied>tu <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--></item>
 			<item> Ip-paṭikku Ivai Āṭkoṇṭān tēvuntiruvumuṭaiyāḷ Eḻuttu</item>
 			<item> Ip-paṭikku Ivai kiḻakkaṭaiyaniṉṟāḷ Eḻu
-				<lb n="19" break="no"/><unclear>ttu</unclear><g type="ddanda">.</g><g type="pc"/></item>
+				<lb n="19" break="no"/><unclear>ttu</unclear><g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--></item>
 		</list>
 	</p>
 	

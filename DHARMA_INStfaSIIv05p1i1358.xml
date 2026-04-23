@@ -100,7 +100,7 @@
                     <l n="a">vyakr<unclear>ī</unclear>ṇāc chata-viṃśati</l>
                     <l n="b">kāśais somasya vṛṣalasya</l>
                     <l n="c">vaṭuka-mah<gap reason="lost" quantity="4" unit="character"/></l>
-                    <l n="d"><gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">vā</supplied>reśa<unclear>ḥ</unclear> <g type="gomutraFinal">.</g></l>
+                    <l n="d"><gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">vā</supplied>reśa<unclear>ḥ</unclear> <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                 </lg>	
                 
                 <p>
@@ -140,21 +140,21 @@
                 <p>
                     <list>
                         <item>Ip-paṭikku Ivai ma
-                            <lb n="6" break="no"/>ṭam-uṭaiya caturā<choice><orig>nan</orig><reg>ṉaṉ</reg></choice>a-paṇṭitaṉ Eḻuttu <g type="gomutraFinal">.</g></item>
+                            <lb n="6" break="no"/>ṭam-uṭaiya caturā<choice><orig>nan</orig><reg>ṉaṉ</reg></choice>a-paṇṭitaṉ Eḻuttu <g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
                         
-                        <item>Ip-paṭikku Ivai tiru-vīti-vēyiṭaṅ-koṇṭāṉ Eḻuttu <g type="gomutraFinal">.</g></item>
+                        <item>Ip-paṭikku Ivai tiru-vīti-vēyiṭaṅ-koṇṭāṉ Eḻuttu <g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
                         
-                        <item><supplied reason="lost"><hi rend="grantha">śrī-</hi>kāriyam Ariyapirāṉ paṭṭa</supplied>ṉ Eḻuttu <g type="gomutraFinal">.</g></item>
+                        <item><supplied reason="lost"><hi rend="grantha">śrī-</hi>kāriyam Ariyapirāṉ paṭṭa</supplied>ṉ Eḻuttu <g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
                         
-                        <item>Ip-paṭikku Ivai cōma-cittāntam vakkāṇikkum vā<hi rend="grantha">gīśva</hi>ra-paṇṭitaṉ Eḻuttu <g type="gomutraFinal">.</g></item>
+                        <item>Ip-paṭikku Ivai cōma-cittāntam vakkāṇikkum vā<hi rend="grantha">gīśva</hi>ra-paṇṭitaṉ Eḻuttu <g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
                         
-                        <item>Ip-paṭikku Ivai kālum piṭārañ ceyaṅ-koṇṭa-cōḻa-maṇṭala-piṭāraṉ Eḻuttu <g type="gomutraFinal">.</g></item>
+                        <item>Ip-paṭikku Ivai kālum piṭārañ ceyaṅ-koṇṭa-cōḻa-maṇṭala-piṭāraṉ Eḻuttu <g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
                         
-                        <item>Ip-paṭi-k<lb n="7" break="no"/>ku Ivai tiru-v-oṟṟiyūr-p piccaṉ Eḻuttu <g type="gomutraFinal">.</g></item>
+                        <item>Ip-paṭi-k<lb n="7" break="no"/>ku Ivai tiru-v-oṟṟiyūr-p piccaṉ Eḻuttu <g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
                         
-                        <item>Ip-paṭikku Ivai kōyil nāyakam paṭampakka-nāyaka-paṭṭaṉ Eḻuttu <g type="gomutraFinal">.</g></item>
+                        <item>Ip-paṭikku Ivai kōyil nāyakam paṭampakka-nāyaka-paṭṭaṉ Eḻuttu <g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
                         
-                        <item><gap reason="lost" unit="character" quantity="10"/><unclear>ṉ U</unclear>ṟavākkiṉāṉ Eḻuttu <g type="gomutraFinal">.</g></item>
+                        <item><gap reason="lost" unit="character" quantity="10"/><unclear>ṉ U</unclear>ṟavākkiṉāṉ Eḻuttu <g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
                         
                     </list>
                 </p>

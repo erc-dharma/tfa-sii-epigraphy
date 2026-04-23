@@ -63,7 +63,7 @@
 		<lb n="2"/>cikāriyañceyvārka <gap reason="lost" quantity="2" unit="character"/> <supplied reason="lost">ti</supplied>ruttiyūr-muṭṭa nāṭṭu <gap reason="lost" quantity="5" unit="character"/> mainta nāṭṭavarōm piṭipāṭu paṇṇi-k kuṭutta pāricāvatu 
 	</p>
 	<p>
-		Iṉ-ṉāyaṉār <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <gap reason="lost" quantity="8" unit="character"/> <supplied reason="lost">cu</supplied>ntara-pāṇṭiya-paṭṭaṉ ēṟiyaruḷa-p paṇṇiṉa tiruvātavūr-nāyaṉāṟku Amutupaṭi cāttuppaṭi vēṇṭum nimantattukkum tirumārkaḻi-t tiru<supplied  cert="low" reason="lost">vātirai</supplied><gap reason="lost" quantity="7" unit="character"/> ttukkum nāṅkaḷ puravilkkaḻittu <gap reason="lost" quantity="5" unit="character"/> ṟayiliy-āka n<choice><sic>i</sic><corr>ī</corr></choice>rvar
+		Iṉ-ṉāyaṉār <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <gap reason="lost" quantity="8" unit="character"/> <supplied reason="lost">cu</supplied>ntara-pāṇṭiya-paṭṭaṉ ēṟiyaruḷa-p paṇṇiṉa tiruvātavūr-nāyaṉāṟku Amutupaṭi cāttuppaṭi vēṇṭum nimantattukkum tirumārkaḻi-t tiru<supplied cert="low" reason="lost">vātirai</supplied><gap reason="lost" quantity="7" unit="character"/> ttukkum nāṅkaḷ puravilkkaḻittu <gap reason="lost" quantity="5" unit="character"/> ṟayiliy-āka n<choice><sic>i</sic><corr>ī</corr></choice>rvar
 		<lb n="3" break="no"/>ttu-k kuṭutta nilam ā<unclear>vatu</unclear> <gap reason="lost" quantity="3" unit="character"/> 
 	</p>
 	<p>
@@ -94,7 +94,7 @@
 			<rdg source="bib:Karuppiah2020_01"><gap reason="lost" quantity="9" unit="character"/> ntara</rdg>
 		</app>
 		<app loc="2">
-			<lem>tirumārkaḻi-t tiru<supplied  cert="low" reason="lost">vātirai</supplied><gap reason="lost" quantity="7" unit="character"/></lem>
+			<lem>tirumārkaḻi-t tiru<supplied cert="low" reason="lost">vātirai</supplied><gap reason="lost" quantity="7" unit="character"/></lem>
 			<rdg source="bib:Karuppiah2020_01">tirumārkaḻi-t tiru <gap reason="lost" quantity="10" unit="character"/></rdg>
 			<note>Given the fact that it is a festival carried out during the month of Markāḻi and that it is related to Māṇikkavācakar, it is almost with certainty that the festival in question is the  Tiruvātirai festival.</note>
 		</app>

@@ -122,7 +122,7 @@
 		<lb n="10" break="no"/><hi rend="grantha">bhai</hi> paṇi O<supplied reason="undefined">ṭṭi-k kuṭut</supplied>tēṉ <supplied reason="undefined">ca<hi rend="grantha">kra</hi></supplied>pāṇi <supplied reason="undefined">nam</supplied>piyēṉ
 	</p>
 	<p>
-		<supplied reason="undefined">I</supplied><hi rend="grantha">dh<choice><sic>i</sic><corr>ar</corr></choice>mma <g type="undefined"/></hi>
+		<supplied reason="undefined">I</supplied><hi rend="grantha">dh<choice><sic>i</sic><corr>ar</corr></choice>mma <g ref="sym:unclassified" type="symbol">*</g></hi>
 	</p>
 	
 </div>
@@ -150,7 +150,7 @@ f.</quote></note>
 		</app>
 		
 		<app loc="10">
-			<lem><g type="undefined"/></lem>
+			<lem><g ref="sym:unclassified" type="symbol">*</g></lem>
 			<rdg source="bib:Hultzsch1899_01">+</rdg>
 			<note><ptr target="bib:Hultzsch1899_01"/> notes: <quote>the following symbol represents
 “<hi rend="italic">etc.</hi>”</quote></note>

@@ -44,7 +44,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -82,7 +82,7 @@
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 
-                <p><hi rend="grantha">ṣa</hi>vumiya varu<hi rend="grantha">ṣam·</hi> cittirai <g type="tam-matam"/> <num value="16"><g type="numeral">10</g> 6</num> <g type="tam-teti"/>
+                <p><hi rend="grantha">ṣa</hi>vumiya varu<hi rend="grantha">ṣam·</hi> cittirai <g ref="sym:tam-matam"/> <num value="16"><g type="numeral">10</g> 6</num> <g ref="sym:tam-teti"/>
                 </p>
                 <p>
                     kāveri vaṭa-karai virutarāca-payaṅkara-vaḷa-nāṭṭu m<choice><orig>e</orig><reg>ē</reg></choice>ṟkā

@@ -49,10 +49,10 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><g type="pc"/> cālivākaṉa-cakā<orig>pi</orig>ttam <num value="1775"><g type="numeral">1000</g>
+                    <lb n="1"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> cālivākaṉa-cakā<orig>pi</orig>ttam <num value="1775"><g type="numeral">1000</g>
                         <lb n="2"/>7 <g type="numeral">100</g> 7 <g type="numeral">10</g> 5</num> kaliyukā<orig>pi</orig>ttam <num value="4885">4 <g type="numeral">1000</g> 8
                             <lb n="3" break="no"/><g type="numeral">100</g> 8 <g type="numeral">10</g> 4</num> Itaṉ m<choice><sic>e</sic><corr>ē</corr></choice>l cellā niṉṟa
-                    <lb n="4"/>cōpakiṟutu <g type="tam-varusam"/> Āvaṇi <g type="tam-matam"/> <num value="30">3 <g type="numeral">10</g></num> <g type="tam-teti"/>
+                    <lb n="4"/>cōpakiṟutu <g ref="sym:tam-varusam"/> Āvaṇi <g ref="sym:tam-matam"/> <num value="30">3 <g type="numeral">10</g></num> <g ref="sym:tam-teti"/>
                     <lb n="5"/>cukkiṟa-vāramum Uttiraṭṭāti-naṭca
                     <lb n="6" break="no"/><supplied reason="omitted">t</supplied>tiramuṅ kūṭiṉa cupatiṉat=til
                 </p>
@@ -66,7 +66,7 @@
                 </p>
                 <p>
                     nitti
-                    <lb n="12" break="no"/>yam catāc<choice><sic>e</sic><corr>ē</corr></choice>ṟvai <g type="pc">.</g> 
+                    <lb n="12" break="no"/>yam catāc<choice><sic>e</sic><corr>ē</corr></choice>ṟvai <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--> 
                 </p>
                 <p>
                     <hi rend="grantha">śubham astu</hi>
@@ -77,8 +77,8 @@
             <div type="apparatus">
                 <listApp>
                     <app loc="0">
-                        <lem></lem>
-                        <rdg source="bib:KrishnaSastri1923_01"></rdg>
+                        <lem/>
+                        <rdg source="bib:KrishnaSastri1923_01"/>
                     </app>
                     
                     <app loc="7">

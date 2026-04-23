@@ -56,16 +56,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -85,7 +82,7 @@
                 <ab>
                     <milestone n="A" unit="zone" type="pagelike"/>
                     <label>Village of Pālaiyūr</label>
-                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> <g type="dotDouble">.</g>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> <g ref="sym:bullet-double" type="punctuation">.</g>
                 </ab>                        
                 
                 <lg n="1" met="āciriyappā">
@@ -111,7 +108,7 @@
                     
                     <lb n="5" break="no"/>kaḷilum Uṭaiyār <hi rend="grantha">śrī-rāja-rāja-devar</hi> kuṭutta Ūrkaḷil Ūr-nattamum <hi rend="grantha">śrī</hi>-kōyilkaḷuṅ kuḷaṅkaḷum Ūṭaṟuttu-p poṉa vāykkālkaḷum paṟai-c-cēriyuṅ kammāṇa-cēriyuñ cuṭukāṭum Uḷḷiṭṭu Iṟai-Ili nilaṅkaḷum
                     
-                    <lb n="6"/>Iṟai kaṭṭiṉa nilattāṟ kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ eṉṉum marakkālāl Aḷakka-k-kaṭava nellum Iṭa-k-kaṭava poṉṉuṅ kācum pēci-k kallil veṭṭiṉa <g type="gomutraFinal">.</g>  
+                    <lb n="6"/>Iṟai kaṭṭiṉa nilattāṟ kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ eṉṉum marakkālāl Aḷakka-k-kaṭava nellum Iṭa-k-kaṭava poṉṉuṅ kācum pēci-k kallil veṭṭiṉa <g ref="sym:flourish-taperOut" type="punctuation">.</g>  
                 </p>
                 
                 <p>
@@ -126,7 +123,7 @@
                         <label>Village of Āṟappāḻ</label>
                         <lb n="1=10" break="no"/>k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ eṉṉum marakkālāl Aḷakka-k-kaṭava nellu-p paṉṉī
                         
-                        <lb n="2=11" break="no"/>r āyirattu Ai<choice><orig>ññ</orig><reg>nn</reg></choice>ūṟṟu muppatiṉ kalaṉē Irutūṇi-k kuṟuṇi Orunāḻi <g type="gomutraFinal">.</g> 
+                        <lb n="2=11" break="no"/>r āyirattu Ai<choice><orig>ññ</orig><reg>nn</reg></choice>ūṟṟu muppatiṉ kalaṉē Irutūṇi-k kuṟuṇi Orunāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g> 
                     </p>
                     <p>Iṉ-ṉāṭṭu Ārappāḻ nā
                         <lb n="3=12" break="no"/>yvālamum maruttuva-p pēṟum paḷḷiyum Uṭpaṭa Aḷanta-paṭi nilam nūṟṟu Orupattu Oṉ
@@ -145,7 +142,7 @@
                         
                         <milestone n="C" unit="zone" type="pagelike" break="no"/>
                         <label>Villages of Kīraṉtēvaṉkuṭi and Nākaṉakakaṉakuṭi</label>
-                        <lb n="1" break="no"/>kka-k-kaṭava nellu-p patiṉ āyirattu Eḻunūṟṟu nāṟppattu Aiṅkalaṉē Irutūṇi-p-patakku muṉṉāḻi <g type="gomutraFinal">.</g> 
+                        <lb n="1" break="no"/>kka-k-kaṭava nellu-p patiṉ āyirattu Eḻunūṟṟu nāṟppattu Aiṅkalaṉē Irutūṇi-p-patakku muṉṉāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g> 
                     </p>
                     
                     <p>
@@ -156,7 +153,7 @@
                         <lb n="3"/><hi rend="grantha">śrī</hi>-kōyilum nan=tavaṉamuṅ kuḷaṅkaḷum Iṟai-Ili nilam Iraṇṭē Orumāvarai Araikkāṇi muntirikai-k kīḻ nāṉkumā muntirikai-k kīḻ Araiyē Iraṇṭumā nīkki Iṟai kaṭṭi
                         
                         <lb n="4" break="no"/>ṉa nilam nāṟpa<supplied reason="omitted">t</supplied>tē-y mukkālē Irumāvarai Araikkāṇi-k kīḻ Oṉpatumā mukkāṇi-k kīḻ mukkālē Orumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭava
-                        <lb n="5" break="no"/>llāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu nālāyirattu Eḻupatiṉ kalaṉē Aiṅkuṟuṇi Ai<choice><orig>ññ</orig><reg>nn</reg></choice>āḻi <g type="gomutraFinal">.</g></p>
+                        <lb n="5" break="no"/>llāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu nālāyirattu Eḻupatiṉ kalaṉē Aiṅkuṟuṇi Ai<choice><orig>ññ</orig><reg>nn</reg></choice>āḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g></p>
                     
                     <p>
                         Iṉṉāṭṭu <sic>nākaṉakakaṉa</sic><note>The sequence is visually clear, but the toponym remains unattested in any other Tamil inscription. A modern village called Nākaṉkuṭi exists in the Nannilam taluk; however, the emendation would require suppressing several extra <foreign>akṣaras</foreign>, which, given the high degree of accuracy throughout this record, seems very unlikely. No standardised form is proposed; therefore, the name remains in its ambiguous, epigraphic form.</note>-kuṭi Aḷanta-paṭi nilam Irupattu Iraṇṭ' arai
@@ -166,32 +163,32 @@
                         <lb n="7" break="no"/>yum Ivv-ūr nilattai y-ūṭaṟuttu-p pōṉa vāykkālkaḷālum cuṭukāṭṭālum Irai-Ili nilam mukkālē Orumā Araikkāṇi muntirikai-k kīḻ Irumāvarai nīkki Iṟai kaṭṭiṉa
                         <lb n="8"/>nilam Irupattu Oṉṟē-y mukkālē Orumāvarai Araikkāṇi muntirikai-k kīḻ Araikkāṇi-k kīḻ Eṭṭumāviṉāl iṟ<unclear>ai</unclear> kaṭṭi
                         ṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭaval
-                        <lb n="9" break="no"/>lāṉ Eṉṉum marakkālāl Aḷakka-k kaṭava nellu iraṇṭ' āyirattu Orunūṟṟu Eṇpattu mukkalaṉē Aiṅkuṟuṇi n<supplied reason="lost">āṉāḻi</supplied> <g type="gomutraFinalComplex">§§</g> <g type="gomutraFinal"/> <g type="gomutraFinalComplex">§§</g> <g type="gomutraFinal"/>
+                        <lb n="9" break="no"/>lāṉ Eṉṉum marakkālāl Aḷakka-k kaṭava nellu iraṇṭ' āyirattu Orunūṟṟu Eṇpattu mukkalaṉē Aiṅkuṟuṇi n<supplied reason="lost">āṉāḻi</supplied> <g ref="sym:flourish-taperOut-complex" type="connector">§§</g><!--CHECK SYMBOL: iterate g elements with single § sign--> <g ref="sym:flourish-taperOut" type="symbol">*</g> <g ref="sym:flourish-taperOut-complex" type="connector">§§</g><!--CHECK SYMBOL: iterate g elements with single § sign--> <g ref="sym:flourish-taperOut" type="symbol">*</g>
                     </p>
                 
                 
                 <div type="textpart" n="D">
                     <head>Part D (Villages of [...] and Kiḷinallūr)</head><note>At the time of Hultzsch’s edition, a flight of steps blocked this part of the wall. He had already proposed that some <foreign>akṣaras</foreign>, or even an entire section, might have been lost. The new autopsy and photographic documentation reveal that a significant stretch of text, a whole section in fact, is now visible. Therefore, this edition treats this section (Part D) as the new fourth one. As a result, the subtitles adopted here do not match those in Hultzsch’s edition.</note>
                     <p>
-                        <lb n="1"/>teṉ-kaṭuvāy-āṉa <unclear>A</unclear>rumoḻi-tēva-vaḷa-nāṭṭu neṉmali-nāṭṭu koṟ <gap reason="illegible" unit="character" quantity="5"></gap>kaḷum kaṇi muṟṟūṭṭum Uṭpaṭa kīḻ Eṭṭumāvilum Ūr-irukkaiyum <hi rend="grantha">śrī</hi>-kōyilu<supplied reason="lost">m</supplied>
+                        <lb n="1"/>teṉ-kaṭuvāy-āṉa <unclear>A</unclear>rumoḻi-tēva-vaḷa-nāṭṭu neṉmali-nāṭṭu koṟ <gap reason="illegible" unit="character" quantity="5"/>kaḷum kaṇi muṟṟūṭṭum Uṭpaṭa kīḻ Eṭṭumāvilum Ūr-irukkaiyum <hi rend="grantha">śrī</hi>-kōyilu<supplied reason="lost">m</supplied>
                         
                         <lb n="2"/>Aḷanta-paṭi nilamu<unclear>m n</unclear>ūṟṟu Eḻupattu muṉṟ' araiyē Iraṇṭumā <unclear>mukkāṇi</unclear>-k kīḻ Oṉpatumā muntirikai-k 
                         
                         <lb n="3"/>kīḻ Iraṇṭumā mukkāṇi Araikkāṇiyilum Ūr-irukkai nattamum ku<unclear>ḷaṅ</unclear>kaḷum Aiyyaṉ kōyilum tīṇṭā-c-cēri
                         
-                        <lb n="4"/>kaḷum pulattil-k kuṭi<gap reason="lost" quantity="2" unit="character"></gap>kkai nattaṅkaḷum piṭāri kōyilālum I<unclear>ṟaiyili ni</unclear>lam patiṉ muṉṟē Oṉpatumā 
+                        <lb n="4"/>kaḷum pulattil-k kuṭi<gap reason="lost" quantity="2" unit="character"/>kkai nattaṅkaḷum piṭāri kōyilālum I<unclear>ṟaiyili ni</unclear>lam patiṉ muṉṟē Oṉpatumā 
                         
                         <lb n="5" break="no"/>k kāṅi Araikkāṇi mun<supplied reason="lost">tiri</supplied>kai-k kīḻ mukkālē Orumā Araikkāṇi-k <unclear>kīḻ Araiyē</unclear> kāṇi Araikkāṇi nīkki Iṟaikaṭṭi
                         
-                        <lb n="6" break="no"/>ṉa nilam muṉṉūṟṟu <gap reason="lost" quantity="7" unit="character"></gap><unclear>mā</unclear>-k kāṇi-k kīḻ Araiyē <gap reason="lost" unit="character" quantity="3"></gap> <unclear>ṭu mā</unclear> mukkāṇi Araikkāṇi-k kīḻ Araiyē Iru
+                        <lb n="6" break="no"/>ṉa nilam muṉṉūṟṟu <gap reason="lost" quantity="7" unit="character"/><unclear>mā</unclear>-k kāṇi-k kīḻ Araiyē <gap reason="lost" unit="character" quantity="3"/> <unclear>ṭu mā</unclear> mukkāṇi Araikkāṇi-k kīḻ Araiyē Iru
                         
-                        <lb n="7" break="no"/>māvaraiyiṉāl Iṟai <gap reason="lost" quantity="10" unit="character"></gap> <hi rend="grantha">rājakesari</hi>yōṭ' <supplied reason="lost">ok</supplied>kum Āṭavallāṉ Eṉṉum marakkālāl Aḷak
+                        <lb n="7" break="no"/>māvaraiyiṉāl Iṟai <gap reason="lost" quantity="10" unit="character"/> <hi rend="grantha">rājakesari</hi>yōṭ' <supplied reason="lost">ok</supplied>kum Āṭavallāṉ Eṉṉum marakkālāl Aḷak
                         
-                        <lb n="8" break="no"/>kka-k-kaṭava nellu mup <gap reason="lost" unit="character" quantity="10"></gap><unclear>ṉ</unclear> āyirattu <gap reason="lost" unit="character" quantity="5"></gap> tu <gap reason="lost" unit="character" quantity="3"></gap> kalaṉē Irutūṇi Orunāḻi <g type="gomutraFinal"/>
+                        <lb n="8" break="no"/>kka-k-kaṭava nellu mup <gap reason="lost" unit="character" quantity="10"/><unclear>ṉ</unclear> āyirattu <gap reason="lost" unit="character" quantity="5"/> tu <gap reason="lost" unit="character" quantity="3"/> kalaṉē Irutūṇi Orunāḻi <g ref="sym:flourish-taperOut" type="symbol">*</g>
                     </p>
                     
                     <p> In-nāṭṭu-k
-                        <lb n="9" break="no"/>kiḷinallūr-p paḷḷi <gap reason="lost" unit="character" quantity="10"></gap> <unclear>nilam</unclear> <unclear rend="check">nū</unclear><unclear>ṟṟu</unclear> <gap reason="lost" unit="character" quantity="7"></gap> kāṇi-k kīḻ Aṟumā mukkāṇi A<unclear>raik</unclear>kāṇi-k 
+                        <lb n="9" break="no"/>kiḷinallūr-p paḷḷi <gap reason="lost" unit="character" quantity="10"/> <unclear>nilam</unclear> <unclear rend="check">nū</unclear><unclear>ṟṟu</unclear> <gap reason="lost" unit="character" quantity="7"/> kāṇi-k kīḻ Aṟumā mukkāṇi A<unclear>raik</unclear>kāṇi-k 
                         
                     </p>
                 </div>
@@ -201,14 +198,14 @@
                     <p>
                         <lb n="1"/>kīḻ Eṭṭumāvilum Ūr-irukkaiyum <hi rend="grantha">śrī</hi>-kōyilu<supplied reason="lost">m</supplied> <unclear>paṟai</unclear>-c-cēriyu<unclear>m</unclear> kuḷa<unclear>ṅka</unclear>ḷum Oṭaikaḷum Iṟai-y-ili nīṅku nilam Aiñciṉ kīḻ Araiyē mūṉṟumā mukkāṇi-k kīḻ mukkālē Orumā nīkki Iṟai kaṭṭiṉa nilam nūṟṟu Orupattu Aiñcē kālē Araikkāṇi muntirikai-k kīḻ Araiyē mūṉṟumā muntirikai-k kīḻ Araiyē Iraṇṭumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum
                         
-                        <lb n="2"/>Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu-p patiṉōr āyirattu Ai<choice><orig>ññ</orig><reg>nn</reg></choice>ūṟṟu Irupattu Aṟukalaṉē kuṟuṇi Eḻunāḻi <g type="gomutraFinal"/>
+                        <lb n="2"/>Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu-p patiṉōr āyirattu Ai<choice><orig>ññ</orig><reg>nn</reg></choice>ūṟṟu Irupattu Aṟukalaṉē kuṟuṇi Eḻunāḻi <g ref="sym:flourish-taperOut" type="symbol">*</g>
                     </p>
                     
                     <p>In-nāṭṭu-t taṇṇīr-k-kuṉṟamāṉa <hi rend="grantha">rājarāja</hi>-nallūr Aḷanta-paṭi nilam muppattu Āṟaraiyē Orumā Araikkāṇi muntirikai-k kīḻ mukkālē māfkāṇi-k kīḻ mukkālē Orumāvilum Ūr-irukkaiyum kuḷamum <hi rend="grantha">śrī</hi>-kōyilkaḷum cuṭukāṭum paṟai-c-cēriyum nāṭṭā
                         
                         <lb n="3" break="no"/>r vāykkāl niṉṟum kulai y-uṭaintu kuṭṭam iṭṭa nilamum Ivvūr nilattai Ūṭaṟuttu-p puṟavūrkku-p poṉa vāykkālālum Iṟai-Ili nilam iraṇṭē Eḻumā Araikkāṇi muntirikai-k kīḻ mukkālē Orumāvarai muntirikai-k kīḻ Araiyē Iraṇṭumā nīkki nilam muppattu nāṉkē mūṉṟumā mukkāṇi Araikkāṇi muntirikai-k kīḻ mukkālē nāṉmāvarai Araikkāṇi muntirikai-k
                         
-                        <lb n="4"/>kīḻ nāṉkumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">r<supplied reason="lost">ā</supplied>jakesari</hi>y-ōṭ' okkum Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu mūvāyirattu mu<choice><orig>nn</orig><reg>ṉṉ</reg></choice>ūṟṟu Eḻupattu Eṇkalaṉē patakku nāṉāḻi <g type="gomutraFinal">.</g> 
+                        <lb n="4"/>kīḻ nāṉkumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">r<supplied reason="lost">ā</supplied>jakesari</hi>y-ōṭ' okkum Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu mūvāyirattu mu<choice><orig>nn</orig><reg>ṉṉ</reg></choice>ūṟṟu Eḻupattu Eṇkalaṉē patakku nāṉāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g> 
                     </p>
                     
                     <p>
@@ -217,19 +214,19 @@
                         
                         <lb n="5" break="no"/>mmāṉa ceriyum paṟai-c-cēriyuñ cuṭukāṭum Āka Iraiy-i-ili <unclear>nila</unclear>m Oṉṟē mukkālē mūṉṟumā mukkāṇi Araikkāṇi muntirikai-k kīḻ Irumāvarai muntirikai-k kīḻ Araiyē Iraṇṭumā nīkki Iṟai kaṭṭiṉa nilam Aiympattaiñcaraiyē mūṉṟumāviṉ kīḻ Araiyē Iraṇṭumā v-araikkāṇi-k kīḻ Eṭṭumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ Eṉṉum marakkālā
                         
-                        <lb n="6"/>l Aḷakka-k-kaṭava nellu Ai<surplus>y</surplus>yāyirattu Ai<choice><orig>ññ</orig><reg>nn</reg></choice>ūṟṟu Irupa<unclear>t</unclear>tu <unclear>A</unclear>ṟukalaṉē-y tūṇi nāṉāḻi <g type="gomutraFinal">.</g>
+                        <lb n="6"/>l Aḷakka-k-kaṭava nellu Ai<surplus>y</surplus>yāyirattu Ai<choice><orig>ññ</orig><reg>nn</reg></choice>ūṟṟu Irupa<unclear>t</unclear>tu <unclear>A</unclear>ṟukalaṉē-y tūṇi nāṉāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                     </p>
                     <p>
                         In-nāṭṭu-k kīḻ vaṭuka-k kuṭi Aḷanta-paṭi nilam Irupatt' eḻaraiyē Orumāvarai Araikkāṇi-k kīḻ nāṉkumā Araikkāṇi muntirikai-k kīḻ nāṉkumāvilum Ūr-irukkaiyum kuḷamum <hi rend="grantha">śrī</hi>-kōyilkaḷum cuṭukāṭum Īḻa-c-cēriyuṅ kammāṇa-cēriyum paṟai-c-cēriyum vaṇṇāra-c-cēriyum paṟai-k-kuḷa-k kuḻiyum 
                         
                         <lb n="7"/>Āka Iṟai-y-ili nilam Oṉṟē Iraṇṭumā v-araikkāṇi mu<unclear>ntirikai</unclear>-k kīḻ mūṉṟumā-k kāṇi Araikkāṇi-k kīḻ Eṭṭumā nīkki Iṟai kaṭṭiṉa nilam Irupatt' āṟē-y Oṉpatumā-k kāṇi Araikkāṇi muntirikai-k kīḻ mukkāṇi-k kīḻ mukkālē Orumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu Iraṇṭ' āyirattu Aṟunūṟṟu nāṟ
                         
-                        <lb n="8" break="no"/>pattu Aṟukalaṉē mukkuṟuṇi Eḻunāḻi <g type="gomutraFinal"/> 
+                        <lb n="8" break="no"/>pattu Aṟukalaṉē mukkuṟuṇi Eḻunāḻi <g ref="sym:flourish-taperOut" type="symbol">*</g> 
                     </p>
                     <p>
-                        In-nāṭṭu-k kañcāṟa<unclear>ṉa</unclear>kar <gap reason="lost" quantity="1" unit="character"></gap> Aḷanta-paṭi nilam Āṟē mukkālē Iraṇṭumā mukkāṇi Araikkāṇi muntirikai-k kīḻ mukkālē Orumā mukkāṇi-k kīḻ mukkālē Orumāvilum Ivvūr-k kuḷaṅkaḷāl Iṟai-y-ili nilam Orumā mukkāṇi Araikkāṇi muntirikai-k kīḻ Aṟumā-k kāṇi Araikkāṇi-k kīḻ Eṭṭumā nīkk<choice><sic>ī</sic><corr>i</corr></choice> Iṟai kaṭṭiṉa nilam Āṟē mukkālē Orumāviṉ kīḻ Araiyē kāṇi 
+                        In-nāṭṭu-k kañcāṟa<unclear>ṉa</unclear>kar <gap reason="lost" quantity="1" unit="character"/> Aḷanta-paṭi nilam Āṟē mukkālē Iraṇṭumā mukkāṇi Araikkāṇi muntirikai-k kīḻ mukkālē Orumā mukkāṇi-k kīḻ mukkālē Orumāvilum Ivvūr-k kuḷaṅkaḷāl Iṟai-y-ili nilam Orumā mukkāṇi Araikkāṇi muntirikai-k kīḻ Aṟumā-k kāṇi Araikkāṇi-k kīḻ Eṭṭumā nīkk<choice><sic>ī</sic><corr>i</corr></choice> Iṟai kaṭṭiṉa nilam Āṟē mukkālē Orumāviṉ kīḻ Araiyē kāṇi 
                         
-                        <lb n="9"/>Araikkāṇi-k kīḻ Eṭṭumāviṉāl Iṟai kaṭṭiṉa kā<unclear>ṇi-k-kaṭa</unclear>ṉ <hi rend="grantha">rājak<unclear>e</unclear>sari</hi>yōṭ' okkum <unclear>Ā</unclear>ṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu Aṟunūṟṟu Eḻupattu nāṟkalaṉē Irutūṇi-k kuṟuṇi nāṉāḻi <g type="gomutraFinal">.</g> 
+                        <lb n="9"/>Araikkāṇi-k kīḻ Eṭṭumāviṉāl Iṟai kaṭṭiṉa kā<unclear>ṇi-k-kaṭa</unclear>ṉ <hi rend="grantha">rājak<unclear>e</unclear>sari</hi>yōṭ' okkum <unclear>Ā</unclear>ṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu Aṟunūṟṟu Eḻupattu nāṟkalaṉē Irutūṇi-k kuṟuṇi nāṉāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g> 
                     </p>
                     <p>
                         In-nāṭṭu Ūci-k-kaṇṇaṅ kuṭi-k-k<choice><sic>a</sic><corr>u</corr></choice>ḷ tevatāṉamāy varukiṉṟa nilam Aḷanta-paṭi nilam Aiñc' araiyē Irumāv   arai Araikkāṇi-k kīḻ mukkālē mukkāṇi Araikkāṇi muntirikai-k kīḻ nāṉku māvilum 
@@ -246,7 +243,7 @@
                         
                         <lb n="3"/>kīḻ mukkālē y-iraṇṭumā Araikkāṇi-k kīḻ Eṭṭumāviṉāl Iṟai kaṭṭiṉa kāṇi-kkaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭava
                         
-                        <lb n="4" break="no"/>llāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu Ai<choice><orig>ññ</orig><reg>nn</reg></choice>ūṟṟu Orupattu Eṇkalaṉē Irutūṇi Irunāḻi <g type="gomutraFinal">.</g> 
+                        <lb n="4" break="no"/>llāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu Ai<choice><orig>ññ</orig><reg>nn</reg></choice>ūṟṟu Orupattu Eṇkalaṉē Irutūṇi Irunāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g> 
                     </p>
                     <p>
                         In-nāṭṭu ārva
@@ -265,7 +262,7 @@
                 <div type="textpart" n="G">
                     <head>Part G (Villages of Tirutteṅkūr, Arakkaṉkuṭi, and Piṭāraceri)</head>
                     <p>
-                        <lb n="1" break="no"/>ṇūṟṟu mukkalaṉē Irutūṇi-k kuṟuṇi Ai<choice><orig>ññ</orig><reg>nn</reg></choice>āḻi <g type="gomutraFinal">.</g>
+                        <lb n="1" break="no"/>ṇūṟṟu mukkalaṉē Irutūṇi-k kuṟuṇi Ai<choice><orig>ññ</orig><reg>nn</reg></choice>āḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                     </p>
                     <p>
                         In-nāṭṭu nakaram tirutteṅkūr Aḷanta-paṭi nilam muppattu nālē kālē mukkāṇi muntirikai-k kīḻ mukkālē Orumā mukkāṇi muntiri
@@ -274,7 +271,7 @@
                         
                         <lb n="3" break="no"/>raikkāṇi-k kīḻ mukkālē Araimā Araikkāṇi muntirikai-k kīḻ nāṉkumā nīkki nilam Irupatt' oṉpataraiyē nāṉkumā mukkāṇi Araikkāṇi muntirikai-k kīḻ Orumā muntirikai-k kīḻ muk
                         
-                        <lb n="4" break="no"/>kālē mūṉṟumāviṉāl Iṟai kaṭṭiṉa poṉ Irunūṟṟu-t toṇṇūṟṟu Eḻukaḻañcey nālum <supplied reason="subaudible">m</supplied>añcāṭiyum mūṉṟumā mukkāṇi <g type="gomutraFinal">.</g> 
+                        <lb n="4" break="no"/>kālē mūṉṟumāviṉāl Iṟai kaṭṭiṉa poṉ Irunūṟṟu-t toṇṇūṟṟu Eḻukaḻañcey nālum <supplied reason="subaudible">m</supplied>añcāṭiyum mūṉṟumā mukkāṇi <g ref="sym:flourish-taperOut" type="punctuation">.</g> 
                     </p>
                     <p>
                         vaṭa-kaṭuvāy-āṉa <hi rend="grantha">kṣatriyaśikhā</hi>maṇi vaḷa
@@ -284,7 +281,7 @@
                         
                         <lb n="7"/>mukkāṇi-k kīḻ mukkālē Orumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' o<unclear>kku</unclear>m Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu Aṟunūṟṟu
                         
-                        <lb n="8"/>Aiympattu Aṟukalaṉē Eḻukuṟuṇi muṉṉāḻi <g type="gomutraFinal">.</g> 
+                        <lb n="8"/>Aiympattu Aṟukalaṉē Eḻukuṟuṇi muṉṉāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g> 
                     </p>
                     <p>
                         In-nāṭṭu-p piṭāraceri Aḷanta-paṭi nilam Aiñc' araiyē Iraṇṭumā mukkāṇi muntirikai-k kīḻ Araiyē muntirikai-k kīḻ 
@@ -300,7 +297,7 @@
                         
                         <lb n="2" break="no"/>ṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-ka
                         
-                        <lb n="3" break="no"/>ṭava nellu Ai<choice><orig>ññ</orig><reg>nn</reg></choice>ūṟṟu muppatt' aiṅkala<choice><orig>n</orig><reg>ṉ</reg></choice>ē Irutūṇi-p-patakku nāṉāḻi <g type="gomutraFinal">.</g> 
+                        <lb n="3" break="no"/>ṭava nellu Ai<choice><orig>ññ</orig><reg>nn</reg></choice>ūṟṟu muppatt' aiṅkala<choice><orig>n</orig><reg>ṉ</reg></choice>ē Irutūṇi-p-patakku nāṉāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g> 
                     </p>
                     <p>
                         In-nāṭṭu veḷā-nāṭṭu
@@ -322,9 +319,9 @@
                     <head>Part I (Villages of Nerkuppai and Maruttuvakkuṭi)</head>
                     
                     <p>
-                        <lb n="1" break="no"/>ṉ kīḻ Āṟumā-k kāṇi muntirikai-k kīḻ Araiyē nāṉkumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava<note>The final part of this section is no longer visible due to the stone's detachment.</note> n<supplied reason="lost">ellu</supplied> <gap reason="lost" quantity="4" unit="character"></gap>
+                        <lb n="1" break="no"/>ṉ kīḻ Āṟumā-k kāṇi muntirikai-k kīḻ Araiyē nāṉkumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava<note>The final part of this section is no longer visible due to the stone's detachment.</note> n<supplied reason="lost">ellu</supplied> <gap reason="lost" quantity="4" unit="character"/>
                         
-                        <lb n="2" break="no"/>rattu-t toḷāyiratt' orupatt' eṇkala<choice><orig>n</orig><reg>ṉ</reg></choice>ē Irutūṇi mukkuṟuṇi Orunāḻi <g type="gomutraFinal">.</g> </p>
+                        <lb n="2" break="no"/>rattu-t toḷāyiratt' orupatt' eṇkala<choice><orig>n</orig><reg>ṉ</reg></choice>ē Irutūṇi mukkuṟuṇi Orunāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g> </p>
                     <p>
                         Aricilukkuṅ kāvīrikku naṭu-v-āṉa Uyyakkoṇṭār-vaḷa-nāṭṭu-t tiraimūr-nāṭṭu-p paḷḷi-c-cantam Iṟaṅkiṉa neṟkuppai A<supplied reason="lost">ḷanta-paṭi ni</supplied>
                         
@@ -334,7 +331,7 @@
                         
                         <lb n="5"/>muntirikai-k kīḻ nāṉkumā nīkki nilam muppatt' eḻē Eḻumā-k kāṇi-k kīḻ mukkālē nāṉkumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ Eṉ<supplied reason="lost">ṉum ma</supplied>
                         
-                        <lb n="6" break="no"/>rakālāl Aḷakka-k-kaṭava nellu mū-v-āyiratt' eḻunūṟṟu Irupatt' irukala<choice><orig>n</orig><reg>ṉ</reg></choice>ē Ai<choice><orig>ññ</orig><reg>nn</reg></choice>āḻi <g type="gomutraFinal">.</g>
+                        <lb n="6" break="no"/>rakālāl Aḷakka-k-kaṭava nellu mū-v-āyiratt' eḻunūṟṟu Irupatt' irukala<choice><orig>n</orig><reg>ṉ</reg></choice>ē Ai<choice><orig>ññ</orig><reg>nn</reg></choice>āḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                     </p>
                     <p>
                         vaṭakarai <hi rend="grantha">rājendra</hi>-ciṅka-vaḷa-nāṭṭu Iṉṉampar-nāṭṭu maruttuva-k-kuṭi Aḷanta-paṭi nilam <supplied reason="lost">muppat</supplied>
@@ -481,7 +478,7 @@
                 </listApp>
                 <listApp>
                     <app loc="C-9">
-                        <lem><g type="gomutraFinalComplex"/> <g type="gomutraFinalComplex"/> <g type="gomutraFinal"/> <g type="gomutraFinalComplex"/> <g type="gomutraFinalComplex"/> <g type="gomutraFinal"/> <g type="gomutraFinal"/> </lem>
+                        <lem><g ref="sym:flourish-taperOut-complex" type="symbol">*</g> <g ref="sym:flourish-taperOut-complex" type="symbol">*</g> <g ref="sym:flourish-taperOut" type="symbol">*</g> <g ref="sym:flourish-taperOut-complex" type="symbol">*</g> <g ref="sym:flourish-taperOut-complex" type="symbol">*</g> <g ref="sym:flourish-taperOut" type="symbol">*</g> <g ref="sym:flourish-taperOut" type="symbol">*</g> </lem>
                         <rdg source="bib:Hultzsch1895_01">
                             <gap reason="lost" quantity="6" unit="character"/>
                         </rdg>
@@ -540,7 +537,7 @@
                 </listApp>
                 <listApp>
                     <app loc="E-8">
-                        <lem>pattu Aṟukalaṉē mukkuṟuṇi Eḻunāḻi <g type="gomutraFinal"/> 
+                        <lem>pattu Aṟukalaṉē mukkuṟuṇi Eḻunāḻi <g ref="sym:flourish-taperOut" type="symbol">*</g> 
                             In-nāṭṭu</lem>
                         <rdg source="bib:Hultzsch1895_01"> <gap reason="lost" quantity="10" unit="character"/> āṭṭu
                         </rdg>

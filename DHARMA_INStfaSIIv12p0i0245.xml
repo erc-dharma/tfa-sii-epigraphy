@@ -93,7 +93,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<ab>
-		<lb n="1"/><hi rend="grantha">svasti śrī</hi> <g type="pc">.</g>        
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi> <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->        
 	</ab>
 	
 	<p>
@@ -156,7 +156,7 @@
 	</p>   	
 	
 	<p>
-		Ivai vēṇāṭ-uṭaiyāṉ Eḻuttu Eṉṟu pukunta Evaṟt<choice><orig>i</orig><reg>ī</reg></choice>ṭṭiṉ paṭi kalveṭṭiyatu <g type="pc">.</g>
+		Ivai vēṇāṭ-uṭaiyāṉ Eḻuttu Eṉṟu pukunta Evaṟt<choice><orig>i</orig><reg>ī</reg></choice>ṭṭiṉ paṭi kalveṭṭiyatu <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
 	</p>
 	
 </div>

@@ -84,7 +84,7 @@
                 
                 <p>	  	
                     kāntaḷūr cālai kalam aṟutta
-                    <lb n="2"/><hi rend="grantha">ko-rāja-rāja-kesari-panma</hi><supplied reason="omitted">ṟ</supplied>kku yāṇṭu <num value="10"><g type="numeral">10</g></num><g type="dash"/>tt-āvatu	
+                    <lb n="2"/><hi rend="grantha">ko-rāja-rāja-kesari-panma</hi><supplied reason="omitted">ṟ</supplied>kku yāṇṭu <num value="10"><g type="numeral">10</g></num><g ref="sym:dash" type="punctuation">.</g>tt-āvatu	
                 </p>
                 
                 <p>	
@@ -101,7 +101,7 @@
                 <p>		
                     
                     <lb n="8"/>Iv-āṭṭai puraṭṭāti mutal kaḻañci<choice><orig>n</orig><reg>ṉ</reg></choice> vā<supplied reason="omitted">y</supplied> tiṅkaḷ iraṇṭum-ā-p policaiyāl ōr āṭ
-                    <lb n="9" break="no"/>ṭaikku van=ta po<choice><orig>n</orig><reg>ṉ</reg></choice> 3 <g type="tam-kalancu"/>
+                    <lb n="9" break="no"/>ṭaikku van=ta po<choice><orig>n</orig><reg>ṉ</reg></choice> 3 <g ref="sym:tam-kalancu"/>
                 </p>
                 
                 <p>

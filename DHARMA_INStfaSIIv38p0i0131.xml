@@ -206,7 +206,7 @@
                     <item>vic<unclear>ai</unclear>ya-p pākkattu māyaṇam pocaṉ kāvaṉ perumā<choice><orig>n</orig><reg>ṉ</reg></choice>ē<unclear>kē</unclear> 
                     </item>
                     
-                    <item>māyaṇam pocaṉ perumāḷ kañca<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ <g type="gomutraFinal">.</g>
+                    <item>māyaṇam pocaṉ perumāḷ kañca<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                     </item>
                 </list>
                 
@@ -280,7 +280,7 @@
                 <p>taḷi Oṉṟu vilai k<supplied reason="omitted">ā</supplied>cu mukkāl</p>
                 <list>
                     
-                    <item></item>
+                    <item/>
                     <item>peṟa kālum piṭārum ceyvār Aivarkkum</item>
                     <item>caiva<supplied reason="omitted">cū</supplied>ttiram vakkāṇippāṉukkum</item>
                     <item>kārāṇai viṭaṅka tēvarai-p pūcippāṉukku Uru Iraṇṭum</item>
@@ -352,7 +352,7 @@
                 </p>
                 <p>
                     
-                    <gap reason="lost" quantity="8" unit="character"/>aṟamallatu tuṇai Illai Aṟamē tuṇai<g type="gomutraFinal">.</g>
+                    <gap reason="lost" quantity="8" unit="character"/>aṟamallatu tuṇai Illai Aṟamē tuṇai<g ref="sym:flourish-taperOut" type="punctuation">.</g>
                     
                 </p>
                 

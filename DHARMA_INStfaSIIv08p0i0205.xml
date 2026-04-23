@@ -29,7 +29,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary/>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -62,7 +62,7 @@
                     <lb n="2"/> <gap reason="lost" quantity="5" unit="character"/> ṟṟa y-i<unclear>n</unclear>-nattattu Ivvūr Uṭaiyār tiruvakatt'i<hi rend="grantha">śva</hi>ram uṭaiyārkku nattattukku talai<unclear>m</unclear>āṟu parivar<supplied reason="omitted">t</supplied>taṉai <unclear>y</unclear>-āka Iṉ-ṉāyaṉār vaṭakkil tirumaṭai-viḷāka<unclear>ttu</unclear> pūcikku nampi <unclear>p</unclear>ākattukku kiḻakku nāṅkaḷ paṟṟiṉa maṉai kuḻi <num value="22">2 <g type="numeral">10</g> 2</num> Irupattiraṇṭum Ivarkku Ū<unclear>r</unclear>-k kiḻ-iṟaiyili maṉai Āka-k kuṭuttu Ivar ceyta kāḻi-k kaṟpakam kukai kaṭṭi mey<unclear>ntu</unclear> tirumuṟai tirukkāppu n<choice><sic>i</sic><corr>ī</corr></choice>kki Iruppārkkum tiruviḷak' -eṇṇai Uḷḷiṭṭa Aḻivukaḷukkum Uṭalāka nāṅkaḷ kāṇiyum iṟaiyili y-āka paṇṇi-k kuṭutta nilam āvatu I<supplied reason="omitted">v</supplied>vūr<surplus>u</surplus> <unclear>Ā</unclear>ka muḻut-uṭai peruvāykkālukku teṟku mē<surplus>n</surplus>nīr-nilaikku meṟkum Uṭciṟuvāykkāluk <gap reason="lost" quantity="8" unit="character"/> luṭai nilattukku kiḻakkum naṭuvupaṭṭa
                 </p>
                 <p>
-                    <lb n="3"/> <gap reason="lost" quantity="4" unit="character"/> kuḻi <num value="350">3 <g type="numeral">100</g> 5 <g type="numeral">10</g></num>-ṉāl <g type="tam-nilam"/> 3/20 1/40 I<supplied reason="omitted">ṉ</supplied><unclear>ṉi</unclear>la mummā v-araiyum mikkukaikku kāṇiyum iṟaiyiliyum āka kuṭuttōm Ivvū<supplied reason="omitted">r ū</supplied>ravarōm 
+                    <lb n="3"/> <gap reason="lost" quantity="4" unit="character"/> kuḻi <num value="350">3 <g type="numeral">100</g> 5 <g type="numeral">10</g></num>-ṉāl <g ref="sym:tam-nilam"/> 3/20 1/40 I<supplied reason="omitted">ṉ</supplied><unclear>ṉi</unclear>la mummā v-araiyum mikkukaikku kāṇiyum iṟaiyiliyum āka kuṭuttōm Ivvū<supplied reason="omitted">r ū</supplied>ravarōm 
                 </p>
                 <p> 
                     Iṉṉilattu mēṉōkkiṉa maramuṅ kiṇ <supplied reason="subaudible">n</supplied>ōkkiṉa kiṇaṟum potu<unclear>vum</unclear> pōtu tāriyum <supplied reason="subaudible">m</supplied>aṟṟum eppērppaṭṭa Urimaikaḷum akappaṭa Iṉṉilam <supplied reason="subaudible">m</supplied>ummā-v-araiyum <unclear>Uṭaiyār</unclear> tiruvaiyāṟ' uṭaiyār cantāṉattukku kaṭavār niccayit<unclear>tu</unclear>-k kukaiyil iruppār c<choice><orig><unclear>e</unclear></orig><reg>a</reg></choice>ntirāti-t-tavarai<unclear>-t taru</unclear>mam āka kāṇiyum iṟaiyiliyum āka kuṭuttōm ivvūr ūravarōm 
@@ -80,7 +80,7 @@
                     <lb n="4"/> <gap reason="lost" quantity="6" unit="character"/> <unclear>ḻi</unclear>ttu-k kāṇiyum iṟaiyiliyum āka kuṭuttōm ivvūr ūravarōm
                 </p>
                 <p>
-                    paṇiyāl Ūr-kaṇakku vaṅki-<choice><orig>n</orig><reg>ṉ</reg></choice>akar-uṭaiyāṉ eḻuttu <g type="ddanda">.</g> <g type="pc"/>
+                    paṇiyāl Ūr-kaṇakku vaṅki-<choice><orig>n</orig><reg>ṉ</reg></choice>akar-uṭaiyāṉ eḻuttu <g ref="sym:doubleBar" type="punctuation">.</g> <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"-->
                 </p>
                 <p>	
                     Itu cāmutāyam <unclear>p</unclear>eru<supplied reason="omitted">m</supplied>-p<unclear>e</unclear>yaraṉ eḻuttu
@@ -116,7 +116,7 @@
                 <p>	
                     <gap reason="lost" quantity="4" unit="character"/> paṅkuṭaiyāṉ <gap reason="lost" quantity="2" unit="character"/>
                     
-                    <lb n="5"/><hi rend="grantha"> <gap reason="lost" quantity="3" unit="character"/> saṁjñā</hi>ta ṉamaikku māmatiuṭaiyā ṉaḻakiyamuṭi Eḻuttu <supplied reason="undefined"><g type="danda">.</g></supplied> Itu maṇṭoḷiyuṭaiyā ṉeḻuttu <supplied reason="undefined"><g type="danda">.</g></supplied> Itu maṇ<unclear>pu</unclear>ra kuḻi <gap reason="lost" quantity="2" unit="character"/> tiru <gap reason="lost" quantity="4" unit="character"/> <unclear>Eḻu</unclear>ttu <supplied reason="undefined"><g type="danda">.</g></supplied> Itu <gap reason="lost" quantity="4" unit="character"/> tiru <gap reason="lost" quantity="1" unit="character"/> ḷarum tevaruṭaiyāṉ Āccaṉum neṭumaṇ Uṭaiyāṉ <gap reason="lost" quantity="3" unit="character"/> <hi rend="grantha">sam</hi> ññātaṉamaikku Ivai karuppūruṭaiyāṉ kuṭiveḷāṉ Eḻuttu <g type="ddanda">.</g><g type="dashLong">.</g>itu peru<unclear>nai</unclear>yuṭaiyāṉ <hi rend="grantha">sam</hi> ññātaṉa<unclear>m</unclear>aikku Ivai parutti<supplied reason="omitted">k</supplied>kuṭaiyā ṉeḻuttu <supplied reason="undefined"><g type="danda">.</g></supplied> Itu ciṟṟāmuruṭaiyāṉum peṟṟi <gap reason="lost" quantity="8" unit="character"/> 
+                    <lb n="5"/><hi rend="grantha"> <gap reason="lost" quantity="3" unit="character"/> saṁjñā</hi>ta ṉamaikku māmatiuṭaiyā ṉaḻakiyamuṭi Eḻuttu <supplied reason="undefined"><g ref="sym:bar" type="punctuation">.</g></supplied> Itu maṇṭoḷiyuṭaiyā ṉeḻuttu <supplied reason="undefined"><g ref="sym:bar" type="punctuation">.</g></supplied> Itu maṇ<unclear>pu</unclear>ra kuḻi <gap reason="lost" quantity="2" unit="character"/> tiru <gap reason="lost" quantity="4" unit="character"/> <unclear>Eḻu</unclear>ttu <supplied reason="undefined"><g ref="sym:bar" type="punctuation">.</g></supplied> Itu <gap reason="lost" quantity="4" unit="character"/> tiru <gap reason="lost" quantity="1" unit="character"/> ḷarum tevaruṭaiyāṉ Āccaṉum neṭumaṇ Uṭaiyāṉ <gap reason="lost" quantity="3" unit="character"/> <hi rend="grantha">sam</hi> ññātaṉamaikku Ivai karuppūruṭaiyāṉ kuṭiveḷāṉ Eḻuttu <g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:dash-long" type="punctuation">.</g>itu peru<unclear>nai</unclear>yuṭaiyāṉ <hi rend="grantha">sam</hi> ññātaṉa<unclear>m</unclear>aikku Ivai parutti<supplied reason="omitted">k</supplied>kuṭaiyā ṉeḻuttu <supplied reason="undefined"><g ref="sym:bar" type="punctuation">.</g></supplied> Itu ciṟṟāmuruṭaiyāṉum peṟṟi <gap reason="lost" quantity="8" unit="character"/> 
                 </p>
                 
             </div>

@@ -44,7 +44,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -130,7 +130,7 @@
                     <lb n="13"/>nāṭṭavarum Akampaṭi vēḷāṉum paḷḷiveḷāṉum I-vv-aṉaivōm 
                 </p>
                 <p>
-                    Ip-paṭṭāṅku nā<unclear>ṭṭā</unclear>rkku <hi rend="grantha">ja</hi>yaṅkoṇṭa-cōḻa vēḷḷāṉ eḻuttu <g type="ddanda">.</g>
+                    Ip-paṭṭāṅku nā<unclear>ṭṭā</unclear>rkku <hi rend="grantha">ja</hi>yaṅkoṇṭa-cōḻa vēḷḷāṉ eḻuttu <g ref="sym:doubleBar" type="punctuation">.</g>
                 </p>
                 <ab xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                     <hi rend="grantha">śrī</hi>-mākēcura-Ira<hi rend="grantha">ḳṣ</hi>ai

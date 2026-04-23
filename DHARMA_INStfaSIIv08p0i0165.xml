@@ -160,8 +160,8 @@
                 
                 <p>
                     vicaiyāṟputa
-                    <lb n="44" break="no"/>ya-cālivākaṉa-caka <g type="tam-varusam"/> <num value="1438">1 <g type="numeral">1000</g> 4 <g type="numeral">100</g> 3 <g type="numeral">10</g> 8</num>-l mēl cell
-                    <lb n="45" break="no"/>ā niṉṟa tātu <g type="tam-varusam"/> makara-nāyaṟṟu pūṟuva-pa<hi rend="grantha">kṣa</hi>ttil
+                    <lb n="44" break="no"/>ya-cālivākaṉa-caka <g ref="sym:tam-varusam"/> <num value="1438">1 <g type="numeral">1000</g> 4 <g type="numeral">100</g> 3 <g type="numeral">10</g> 8</num>-l mēl cell
+                    <lb n="45" break="no"/>ā niṉṟa tātu <g ref="sym:tam-varusam"/> makara-nāyaṟṟu pūṟuva-pa<hi rend="grantha">kṣa</hi>ttil
                     <lb n="46"/>tiraiyoteciyum cōma-vārattu nāḷ
                     <hi rend="grantha">śrī</hi>-kā<hi rend="grantha">ḷa</hi>
                     <lb n="47" break="no"/><hi rend="grantha">sti</hi>kku vant-aruḷi kāḷatti-<unclear>nāta</unclear>ṉai c-cevittu U
@@ -236,9 +236,9 @@
                     <lb n="86" break="no"/>kku 
                     
                     <list>
-                        <item>Ūṟ-k-kālāl Arici 6 <g type="tam-kalam"/></item>
-                        <item><lb n="87"/>Eṇṇai-k kāppu 2 <g type="tam-nali"/></item>
-                        <item>paḻam <g type="tam-nali"/></item>
+                        <item>Ūṟ-k-kālāl Arici 6 <g ref="sym:tam-kalam"/></item>
+                        <item><lb n="87"/>Eṇṇai-k kāppu 2 <g ref="sym:tam-nali"/></item>
+                        <item>paḻam <g ref="sym:tam-nali"/></item>
                         <item><lb n="88"/> <gap reason="lost" quantity="10" unit="character"/></item>
                         <item><lb n="89"/>kaṟpūram <unclear>pala</unclear><supplied reason="omitted">m</supplied> 1/2</item>
                         <item>pu
@@ -273,13 +273,13 @@
                         </app>-->
                     
                     <app loc="86">
-                        <lem>Arici 6 <g type="tam-kalam"/></lem>
+                        <lem>Arici 6 <g ref="sym:tam-kalam"/></lem>
                         <rdg source="bib:SubrahmanyaAiyer1937_01"/>
                         <rdg source="bib:Srinivasan+Reiniche1990_01">arici 6 kalam (kalam)</rdg>
                     </app>
                     
                     <app loc="87">
-                        <lem>2 <g type="tam-nali"/></lem>
+                        <lem>2 <g ref="sym:tam-nali"/></lem>
                         <rdg source="bib:SubrahmanyaAiyer1937_01"/>
                         <rdg source="bib:Srinivasan+Reiniche1990_01">2 patakku (nāḻi)</rdg>
                     </app>

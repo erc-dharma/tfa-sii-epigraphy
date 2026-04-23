@@ -86,7 +86,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:regional">
 				
     <ab xml:lang="san-Latn" rendition="class:grantha maturity:regional"> 
-        <lb n="1"/><unclear>hara <g type="dash">.</g></unclear> svasti śrī 
+        <lb n="1"/><unclear>hara <g ref="sym:dash" type="punctuation">.</g></unclear> svasti śrī 
     </ab>
     
    <p>
@@ -116,11 +116,11 @@
         <l n="a"><seg met="====-+"><gap reason="lost" unit="character" quantity="14"/></seg> <unclear>yat tu</unclear></l>
         <l n="b"><unclear>ka</unclear>lpayessya<unclear>ndanasya ca</unclear></l>            
         <l n="c">vidyayādhītayā svasya</l>        
-        <l n="d">śarīram· varttayed ayam· <g type="ddanda">.</g></l>
+        <l n="d">śarīram· varttayed ayam· <g ref="sym:doubleBar" type="punctuation">.</g></l>
     </lg> 
         
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        Attra śaṃkha-vacanam· <g type="ddanda">.</g>
+        Attra śaṃkha-vacanam· <g ref="sym:doubleBar" type="punctuation">.</g>
     </p> 
                 
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
@@ -130,7 +130,7 @@
     
     <lg n="4" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="a">Anulomyopaneyānām·</l>
-        <l n="b">sa<unclear>ndhy</unclear>āyā<unclear>m a</unclear>pyupāsanam·<g type="danda">.</g></l>
+        <l n="b">sa<unclear>ndhy</unclear>āyā<unclear>m a</unclear>pyupāsanam·<g ref="sym:bar" type="punctuation">.</g></l>
         <l n="c">nādhānaṁ sannidhān<supplied reason="omitted">ā</supplied>gni</l>
         <l n="d">hotran-naup<supplied reason="omitted">ā</supplied>sanan tathā</l>  
     </lg>
@@ -139,7 +139,7 @@
         <l n="a">na ca pañca-mahā-yajño</l>    
         <l n="b">na vedādhyayanan tathā</l>    
         <l n="c">mantreṇa rahit<unclear>ā</unclear> tveṣām</l>
-        <l n="d">upanītir api smṛtā<g type="ddanda">.</g></l>
+        <l n="d">upanītir api smṛtā<g ref="sym:doubleBar" type="punctuation">.</g></l>
     </lg> 
     
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">Attra gautamīya-vivaraṇaṁ kurvvatā maskara-paṭhitaṁ smṛtty-antara-vacanam·
@@ -167,14 +167,14 @@
     
     <lg n="8" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="a">Anulomeṣu sarvveṣu</l>
-        <l n="b">tūṣṇīm upanayaḥ kriyā <g type="danda">.</g></l>
+        <l n="b">tūṣṇīm upanayaḥ kriyā <g ref="sym:bar" type="punctuation">.</g></l>
     </lg>
     
      <lg n="9" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">        
         <l n="c">savarṇām·baṣṭhayor eva</l>
         <l n="d">sāpi tat· savidhīyate</l>
         <l n="a">rathakārādi-jā<lb n="3" break="no"/>tīnām</l>
-        <l n="b">upanītir amantrakam· <g type="danda">.</g></l>
+        <l n="b">upanītir amantrakam· <g ref="sym:bar" type="punctuation">.</g></l>
      </lg>
     
     <lg n="10" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
@@ -195,14 +195,14 @@
         <l n="a">ya<choice><sic>jñ</sic><corr>ntr</corr></choice>ānām api pātrāṇi</l>
         <l n="b">prati-pūrvvam· prakalpayet·</l>
         <l n="c">suvarṇ<choice><sic>n</sic><corr>ṇ</corr></choice>ābharaṇānāñ ca</l>
-        <l n="d">kāñcāvyaya s<choice><sic>k</sic><corr>t</corr></choice>riyā <g type="ddanda">.</g></l>
+        <l n="d">kāñcāvyaya s<choice><sic>k</sic><corr>t</corr></choice>riyā <g ref="sym:doubleBar" type="punctuation">.</g></l>
     </lg>
 
     <lg n="13" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="a">devatādi-tanūnā<supplied reason="omitted">ṃ</supplied> c<choice><sic>e</sic><corr>a</corr></choice></l>
-        <l n="b">karaṇaṁ śilpa-jīvi<choice><sic>k</sic><corr>t</corr></choice>ā <g type="danda">.</g></l>
+        <l n="b">karaṇaṁ śilpa-jīvi<choice><sic>k</sic><corr>t</corr></choice>ā <g ref="sym:bar" type="punctuation">.</g></l>
         <l n="c">sauvarṇa-vastu-nirmmāṇa<supplied reason="omitted">ṁ</supplied></l>
-        <l n="d">svarṇnakāra Itīṣyate <g type="ddanda">.</g></l>
+        <l n="d">svarṇnakāra Itīṣyate <g ref="sym:doubleBar" type="punctuation">.</g></l>
     </lg>
     
     <lg n="14" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
@@ -240,20 +240,20 @@
         <list>
             <item>
                 <hi rend="grantha">śrī</hi>-pāṇṭi-kulā<hi rend="grantha">ntaka-c-catur-v-vedi</hi>-maṅkalattu <hi rend="grantha">gomathattu yajñāta-bhaṭṭa-so<unclear>ma</unclear>yāji</hi>y<choice><orig>en</orig><reg>ēṉ</reg></choice>
-                <hi rend="grantha">yajñātma-bhaṭṭa-somayājinaḥ</hi><g type="ddanda">.</g>
+                <hi rend="grantha">yajñātma-bhaṭṭa-somayājinaḥ</hi><g ref="sym:doubleBar" type="punctuation">.</g>
             </item>
             <item>
-                I-p-pati co<choice><orig>nnen</orig><reg>ṉṉēṉ</reg></choice> ko<unclear>mmakkai</unclear> pu<supplied reason="omitted">ru</supplied><hi rend="grantha">ṣottama-bhaṭṭa</hi>n<choice><orig>en</orig><reg>ēṉ</reg></choice> <g type="ddanda">.</g>
+                I-p-pati co<choice><orig>nnen</orig><reg>ṉṉēṉ</reg></choice> ko<unclear>mmakkai</unclear> pu<supplied reason="omitted">ru</supplied><hi rend="grantha">ṣottama-bhaṭṭa</hi>n<choice><orig>en</orig><reg>ēṉ</reg></choice> <g ref="sym:doubleBar" type="punctuation">.</g>
                 <hi rend="grantha">śiriya</hi>-<seg rendition="class:tamil maturity:regional">ciṅka</seg><hi rend="grantha">bhaṭṭa-somayājinaḥ</hi>
-                <g type="ddanda">.</g>
+                <g ref="sym:doubleBar" type="punctuation">.</g>
             </item>
             <item>
-                <gap reason="lost" unit="character" quantity="6"/> <hi rend="grantha">pratibhāsa<surplus>ḥ</surplus> śaṁkara-nārāyaṇa-bhaṭṭa-somayājinaḥ</hi> <g type="gomutraFinal">.</g>
-                <hi rend="grantha">cakra<unclear>pā</unclear>ṇi-bhaṭṭasya</hi> <g type="ddanda">.</g>
+                <gap reason="lost" unit="character" quantity="6"/> <hi rend="grantha">pratibhāsa<surplus>ḥ</surplus> śaṁkara-nārāyaṇa-bhaṭṭa-somayājinaḥ</hi> <g ref="sym:flourish-taperOut" type="punctuation">.</g>
+                <hi rend="grantha">cakra<unclear>pā</unclear>ṇi-bhaṭṭasya</hi> <g ref="sym:doubleBar" type="punctuation">.</g>
             </item>
             <item>
                 I-p-pati co<choice><orig>nnen</orig><reg>ṉṉēṉ</reg></choice> ce<hi rend="grantha">nti</hi>ṟattu
-                <gap reason="lost" unit="character" quantity="7"/> <hi rend="grantha">devabhaṭṭa Ag<supplied reason="omitted">n</supplied>i-cidatirātrayāji</hi>yē<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">Agni-cidatirātra-yājinaḥ</hi> <g type="ddanda">.</g>
+                <gap reason="lost" unit="character" quantity="7"/> <hi rend="grantha">devabhaṭṭa Ag<supplied reason="omitted">n</supplied>i-cidatirātrayāji</hi>yē<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">Agni-cidatirātra-yājinaḥ</hi> <g ref="sym:doubleBar" type="punctuation">.</g>
             </item>
             <item>
                 <hi rend="grantha">kānni</hi>kkuṟi <hi rend="grantha">keśava<unclear>n</unclear> so<unclear>ma</unclear>yājinopy evam·</hi>
@@ -263,11 +263,11 @@
                 <lb n="5"/><hi rend="grantha">catur-agrahāra<unclear>bhuktyā</unclear> madhurājāta-bhaṭṭasyāpy evam· pratibhāsa-narasiṁhasya</hi>
             </item>
             <item>
-                <hi rend="grantha">hṛṣīkeśa<surplus>va</surplus>-bhaṭṭasoma<surplus>soma</surplus>yājinopy evam· pratibhāsaḥ</hi> <g type="pc">.</g>
+                <hi rend="grantha">hṛṣīkeśa<surplus>va</surplus>-bhaṭṭasoma<surplus>soma</surplus>yājinopy evam· pratibhāsaḥ</hi> <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
             </item>
-            <item>kuḷavit tiruvayāṟṟaṭikaḷ <hi rend="grantha">deśapriya-bhaṭṭan</hi> maka<choice><orig>n</orig><reg>ṉ</reg></choice> tiruviyalūraṭikaḷ <hi rend="grantha">bhaṭṭasyāpy evam·</hi> <g type="gomutraFinal">.</g>
+            <item>kuḷavit tiruvayāṟṟaṭikaḷ <hi rend="grantha">deśapriya-bhaṭṭan</hi> maka<choice><orig>n</orig><reg>ṉ</reg></choice> tiruviyalūraṭikaḷ <hi rend="grantha">bhaṭṭasyāpy evam·</hi> <g ref="sym:flourish-taperOut" type="punctuation">.</g>
             </item>
-            <item><gap reason="lost" unit="character" quantity="3"/> ḷu<hi rend="grantha">ka<unclear>-mū</unclear>rtti dakṣaṇāmūrti-bhaṭṭa-vasanta-yājinaḥ</hi> <g type="gomutraFinal">.</g>
+            <item><gap reason="lost" unit="character" quantity="3"/> ḷu<hi rend="grantha">ka<unclear>-mū</unclear>rtti dakṣaṇāmūrti-bhaṭṭa-vasanta-yājinaḥ</hi> <g ref="sym:flourish-taperOut" type="punctuation">.</g>
             </item>
             <item>
                 <hi rend="grantha">śrī-rājādhirāja-c-catur-vedi-maṁ</hi>kalattu muppurā <hi rend="grantha">bha</hi>va<hi rend="grantha">skaṁda <gap reason="lost" unit="character" quantity="2"/> soma</hi>yā<hi rend="grantha">ji</hi>y<choice><orig>e</orig><reg>ē</reg></choice>ṉ <hi rend="grantha">bhava-skanta</hi> <gap reason="lost" unit="character" quantity="6"/> 
@@ -280,7 +280,7 @@
         <gap reason="lost" unit="character" quantity="7"/>
         <hi rend="grantha">śūdra-jā</hi>ti-y-āy-uḷḷa
         <lb n="6"/><gap reason="lost" unit="character" quantity="2"/>
-        <hi rend="grantha">Āgamam·</hi> <gap reason="lost" unit="character" quantity="2"/> <hi rend="grantha">ditta-vacanam·</hi><g type="danda">.</g>
+        <hi rend="grantha">Āgamam·</hi> <gap reason="lost" unit="character" quantity="2"/> <hi rend="grantha">ditta-vacanam·</hi><g ref="sym:bar" type="punctuation">.</g>
     </p>
     
     <lg n="17" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
@@ -294,18 +294,18 @@
         <l n="a">ta <seg met="===-+-="><gap reason="lost" unit="character" quantity="7"/></seg></l>
         <l n="b">sahitau kāryyam ācare<unclear>t·</unclear></l>
         <l n="c">tāveva sahitau <seg met="-="><gap reason="lost" unit="character" quantity="2"/></seg></l>
-        <l n="d"><unclear>sarvasaṁ</unclear>pat· kara<supplied reason="omitted">ṁ</supplied> nṛṇām·<g type="ddanda"/></l>
+        <l n="d"><unclear>sarvasaṁ</unclear>pat· kara<supplied reason="omitted">ṁ</supplied> nṛṇām·<g ref="sym:doubleBar" type="punctuation">.</g></l>
     </lg>
     
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        bhīma-saṁhitāyām· <g type="dash">.</g>
+        bhīma-saṁhitāyām· <g ref="sym:dash" type="punctuation">.</g>
     </p>
 
     <lg n="19" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="a" enjamb="yes">sulekhas suguṇaś śilpa</l>
-        <l n="b">śāstra-jñaḥ karmma-yogyakaḥ<g type="ddanda"/></l>
+        <l n="b">śāstra-jñaḥ karmma-yogyakaḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>
         <l n="c">mānādi-rasa-māna-jñaś</l>
-        <l n="d">śalyoddhāra-viśāradaḥ<g type="ddanda"/></l>
+        <l n="d">śalyoddhāra-viśāradaḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>
     </lg>
     
     <lg n="20" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
@@ -316,7 +316,7 @@
     </lg>
     
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">kāraṇe
-        <g type="ddanda">.</g>
+        <g ref="sym:doubleBar" type="punctuation">.</g>
     </p>
 
     <lg n="21" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
@@ -327,7 +327,7 @@
     </lg>
     
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">yogaje
-        <g type="ddanda">.</g>
+        <g ref="sym:doubleBar" type="punctuation">.</g>
     </p>
 
     <lg n="22" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
@@ -341,39 +341,39 @@
         <l n="a">sthāpako deva-deva<supplied reason="omitted">s</supplied> syād</l>
         <l n="b">yajamāno janārddanaḥ</l>
         <l n="c">vidhātā sthapatis sākṣād</l>
-        <l n="d">etair ddharmma-sthis tribhiḥ <g type="ddanda">.</g></l>
+        <l n="d">etair ddharmma-sthis tribhiḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
     </lg>
 
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        suprabhede <g type="ddanda">.</g>
+        suprabhede <g ref="sym:doubleBar" type="punctuation">.</g>
     </p>
     
     <lg n="24" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="a">Ācāryyam uktavāṁś caiva</l>
         <l n="b">pūrvvoktān· sam·pragṛhya ca</l>
         <l n="c"><lb n="7"/><seg met="=="><gap reason="lost" unit="character" quantity="1"/></seg>syānveṣayet· tat·vat·</l>
-        <l n="d">śilpinaṁ sukulot·bhavam·<g type="ddanda">.</g></l>
+        <l n="d">śilpinaṁ sukulot·bhavam·<g ref="sym:doubleBar" type="punctuation">.</g></l>
     </lg>
     
     <lg n="25" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="a">sthapatis sūtra-grāhī ca</l>
-        <l n="b">varddhakis takṣakas tathā <g type="danda">.</g></l>
+        <l n="b">varddhakis takṣakas tathā <g ref="sym:bar" type="punctuation">.</g></l>
         <l n="c">tanū-karaṇa <seg met="+-="><gap reason="lost" unit="character" quantity="3"/></seg></l>
         <l n="d"><seg met="====-+-="><gap reason="lost" unit="character" quantity="8"/></seg></l>
     </lg>
     
     <lg n="26" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="a">sthapatis sūtra-grāhibhyām·</l>
-        <l n="b">prāsāda-pratimāṁs tathā <g type="danda">.</g></l>
+        <l n="b">prāsāda-pratimāṁs tathā <g ref="sym:bar" type="punctuation">.</g></l>
         <l n="c">Akṣi-mokṣādikaṁ sarvam·</l>
-        <l n="d">kārayet· takṣakottamaḥ <g type="danda">.</g></l>
+        <l n="d">kārayet· takṣakottamaḥ <g ref="sym:bar" type="punctuation">.</g></l>
     </lg>
     
     <lg n="27" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="a">sthapatiś śāstra-karmma-jñaḥ</l>
         <l n="b">kṛta-karmmābhijātavān·</l>
         <l n="c">Īdṛśaṁ śilpanaṁ grihya</l>
-        <l n="d">prārabhet· sarva-karmmakam· <g type="danda">.</g></l>
+        <l n="d">prārabhet· sarva-karmmakam· <g ref="sym:bar" type="punctuation">.</g></l>
     </lg>
     
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">prapañcottare vidyāsūtre
@@ -383,16 +383,16 @@
         <l n="a">sulekhas suguṇo dhīmān·</l>
         <l n="b">śāstra-jñaḥ karmma-yogyakaḥ</l>
         <l n="c">vāstu-vidyā-kṛtābhyāsa-ś</l>
-        <l n="d">śalyoddhāra-viśāradaḥ <g type="ddanda">.</g></l>
+        <l n="d">śalyoddhāra-viśāradaḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
      </lg>
     
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">lakṣaṇa-pramāṇe
-        <g type="danda">.</g>
+        <g ref="sym:bar" type="punctuation">.</g>
     </p>
     
      <lg n="29" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="a">sarvva-lakṣaṇa-sam·panno</l>
-        <l n="b">nīrograḥ kopa-varjjitaḥ <g type="ddanda">.</g></l>
+        <l n="b">nīrograḥ kopa-varjjitaḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
         <l n="c">Upāya-jñas suśīla-jñaḥ</l>
         <l n="d">kṛta-hasto vicakṣaṇaḥ</l>
      </lg>
@@ -404,7 +404,7 @@
         <l n="d">kṛtakṛtyas sujātakaḥ</l>
      </lg>
 
-    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">prapañca-taṁtre lakṣaṇa-pramāṇe <g type="ddanda">.</g>
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">prapañca-taṁtre lakṣaṇa-pramāṇe <g ref="sym:doubleBar" type="punctuation">.</g>
     </p>
     
     <lg n="31" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
@@ -423,14 +423,14 @@
         <l n="a">veda-vid dharmma-vid dhīmān</l>
         <l n="b">ācāryyaḥ prokṣita-<unclear>s suddhīḥ</unclear></l>
         <l n="c">prāsāda-liṁga-kāryyeṣu</l>
-        <l n="d"><choice><sic>mānosura</sic><corr>mānasa</corr></choice>-kāya-karmmabhiḥ <g type="gomutraFinal">.</g></l>
+        <l n="d"><choice><sic>mānosura</sic><corr>mānasa</corr></choice>-kāya-karmmabhiḥ <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
     </lg>
     
     <lg n="34" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="a">brah<supplied reason="omitted">m</supplied>aiva sthapatis sākṣāt·</l>
         <l n="b">yajamānas tu keśavaḥ</l>
         <l n="c">gurus sarvasya kāryyasya</l>
-        <l n="d">mahādevas sakāraṇam· <g type="gomutraFinal">.</g></l>
+        <l n="d">mahādevas sakāraṇam· <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
     </lg>
     
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">śrī-pañcarātraṁ kāpiṁ<unclear>jalaṁ</unclear>
@@ -443,14 +443,14 @@
         <l n="d">dhana-dhānya-gajādibhiḥ</l>
     </lg>
     
-    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">parama-puruṣa-saṁhitāyām· <g type="ddanda">.</g>
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">parama-puruṣa-saṁhitāyām· <g ref="sym:doubleBar" type="punctuation">.</g>
     </p>
     
      <lg n="36" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        <l n="ab"><gap reason="lost" unit="character" quantity="6"/> sāreṇa kārayet· <gap reason="lost" unit="character" quantity="4"/> ṇam· <g type="pc">.</g></l>
+        <l n="ab"><gap reason="lost" unit="character" quantity="6"/> sāreṇa kārayet· <gap reason="lost" unit="character" quantity="4"/> ṇam· <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--></l>
     </lg>
   
-   <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">śrī-vaikhānasa-mahāstave<g type="danda">.</g>
+   <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">śrī-vaikhānasa-mahāstave<g ref="sym:bar" type="punctuation">.</g>
     </p>
     
      <lg n="37" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
@@ -460,7 +460,7 @@
         <l n="d">Ācāryyaś śilpibhis saha</l>
     </lg>
   
-  <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">Atri-prokte<g type="ddanda">.</g>
+  <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">Atri-prokte<g ref="sym:doubleBar" type="punctuation">.</g>
     </p>
     
      <lg n="38" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
@@ -468,7 +468,7 @@
          <l n="b">śilpibhiś śāstra-kovidai<supplied reason="omitted">ḥ</supplied></l>
     </lg>
     
-    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">Āgastya-vāstu-śāstre<g type="ddanda">.</g>
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">Āgastya-vāstu-śāstre<g ref="sym:doubleBar" type="punctuation">.</g>
     </p>
     
      <lg n="39" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
@@ -507,7 +507,7 @@
         <l n="d">jala-saṁprokṣaṇañ care<unclear>t</unclear></l>
     </lg>
     
-    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">vāstu-vidyāyāṁ<g type="gomutraFinal">.</g>
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">vāstu-vidyāyāṁ<g ref="sym:flourish-taperOut" type="punctuation">.</g>
     </p>
     
     <lg n="44" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
@@ -543,17 +543,17 @@
     
     <lg n="48" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="a">sapta-vyasana-jid dhīmān·</l>
-        <l n="b">Ūhāpoha-vicakṣaṇaḥ <g type="ddanda">.</g></l>
+        <l n="b">Ūhāpoha-vicakṣaṇaḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
     </lg>
     
-    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">sārasvatīye <g type="ddanda">.</g>
+    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">sārasvatīye <g ref="sym:doubleBar" type="punctuation">.</g>
     </p>
     
     <lg n="49" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="a">viśvakarmmā ṛṣer nnāmnā</l>
         <l n="b">gurutvā<unclear>t·</unclear> viśva-karmmaṇaḥ</l>
         <l n="c">sthapatiḥ sthāpanaṁ kurvvan·</l>
-        <l n="d">Iti śilpir vvidhīyate <g type="danda">.</g></l>
+        <l n="d">Iti śilpir vvidhīyate <g ref="sym:bar" type="punctuation">.</g></l>
     </lg>
     
     <lg n="50" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
@@ -566,7 +566,7 @@
     <p>
         <list>
             <item>
-                <lb n="11"/><hi rend="grantha"><unclear>nārāyaṇa-bha</unclear>ṭṭa-so<supplied reason="omitted">ma</supplied>yājinaḥ</hi> <g type="gomutraFinal">.</g></item>
+                <lb n="11"/><hi rend="grantha"><unclear>nārāyaṇa-bha</unclear>ṭṭa-so<supplied reason="omitted">ma</supplied>yājinaḥ</hi> <g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
             <item>
                 <hi rend="grantha">śrī-rājādhirāja-caturvvedi</hi>-maṅkala<hi rend="grantha">ttu</hi> nampūr kaṭṭukkē <hi rend="grantha">śrī-raṁganātha-bhaṭṭa-vājape<supplied reason="omitted">ya</supplied>yāji</hi>y<choice><orig>en</orig><reg>ēṉ</reg></choice>
             </item>
@@ -582,7 +582,7 @@
             The Kammāḷars speaking here, whereas the Brahmins were speaking in 603A or 603-1
         -->
     
-      <ab xml:lang="san-Latn" rendition="class:grantha maturity:regional"><lb n="12"/>svasti śrī <g type="gomutraFinal">.</g></ab>
+      <ab xml:lang="san-Latn" rendition="class:grantha maturity:regional"><lb n="12"/>svasti śrī <g ref="sym:flourish-taperOut" type="punctuation">.</g></ab>
     
     <lg n="51" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="a">vaiśyataḥ śūdra-kannyāyāṁ</l>
@@ -614,14 +614,14 @@
        
     <p>
         <hi rend="grantha">māhiṣya</hi><unclear>nu</unclear>kku <hi rend="grantha">karṇi</hi>kku piṟa<unclear>ntā</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">rathakāra</hi><choice><orig>n</orig><reg>ṉ</reg></choice>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a tacca<choice><orig>n</orig><reg>ṉ</reg></choice> I<surplus>v</surplus>va<supplied reason="omitted"><choice><orig>n</orig><reg>ṉ</reg></choice>u</supplied>kku to<choice><orig>l</orig><reg>ḻ</reg></choice>i <gap reason="lost" quantity="10" unit="character"/> ku<unclear>ru</unclear>taikku Ilakkaṇamum <hi rend="grantha">vāstu-śāstra</hi>mum cilpa-toḻi<surplus>la</surplus>lum to<surplus>r</surplus>paṇṇum i<supplied reason="omitted">la</supplied>kka<unclear>ṇamu</unclear>m Ākiṟa In=ta vi<hi rend="grantha">jai</hi>ka<surplus>ḷ</surplus>ḷālē ta<choice><orig>n</orig><reg>ṉ</reg></choice> car<choice><sic>i</sic><corr>ī</corr></choice>ra<supplied reason="omitted">m</supplied> I<hi rend="grantha">rakṣi</hi>kkum Itu <hi rend="grantha">rathakāra</hi><choice><orig>n</orig><reg>ṉ</reg></choice>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a tacca<choice><orig>n</orig><reg>ṉ</reg></choice>ukku <hi rend="grantha">vṛ</hi>t=ti E<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu
-        co<choice><orig>nn</orig><reg>ṉṉ</reg></choice>ār <g type="dash">.</g>
+        co<choice><orig>nn</orig><reg>ṉṉ</reg></choice>ār <g ref="sym:dash" type="punctuation">.</g>
     </p>
     
     <p>
         <hi rend="grantha">yājña</hi>valkīye ta <gap reason="lost" quantity="2" unit="character"/>      
     </p>
     
-     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">Atra śaṁkha-va<unclear>cana</unclear>ṁ <g type="gomutraFinal">.</g>
+     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">Atra śaṁkha-va<unclear>cana</unclear>ṁ <g ref="sym:flourish-taperOut" type="punctuation">.</g>
     </p>
     
     <p><lb n="13"/><hi rend="grantha">kṣatri</hi>ya-<hi rend="grantha">vaiśyānulomā</hi>n=ta<hi rend="grantha">rajot·pa</hi>nno <hi rend="grantha">rathakāra</hi><supplied reason="omitted">r</supplied>-Āna kammāḷar<choice><orig>o</orig><reg>ō</reg></choice>m Anul<choice><orig>o</orig><reg>ō</reg></choice><supplied reason="omitted">ma</supplied><hi rend="grantha">ro</hi>m <hi rend="grantha">pra</hi>til<choice><orig>o</orig><reg>ō</reg></choice>mar-āna <hi rend="grantha">jā</hi>tikaḷil Iḻi-toḻil ceyy<choice><orig>o</orig><reg>ō</reg></choice>m ākavum Eṉṟu coṉṉār

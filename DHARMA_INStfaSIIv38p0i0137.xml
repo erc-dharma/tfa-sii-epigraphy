@@ -135,7 +135,7 @@
                 </lg>
                 
                 <p>
-                    kōvirāja kesari-pa<hi rend="grantha">nma</hi>r-āṉa Uṭaiyār <hi rend="grantha">śrī-rājādhirājade</hi>varkku yāṇṭu <num value="28">2 <g type="numeral">10</g> 8</num> Āvatu <g type="gomutraFinal">.</g>
+                    kōvirāja kesari-pa<hi rend="grantha">nma</hi>r-āṉa Uṭaiyār <hi rend="grantha">śrī-rājādhirājade</hi>varkku yāṇṭu <num value="28">2 <g type="numeral">10</g> 8</num> Āvatu <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                 </p>
                 <p>
                     <hi rend="grantha">ja</hi>yaṅkoṇṭa-cōḻa-maṇṭalattu puḻaṟ-kōṭṭattu kaṉṟi<unclear>kai-p</unclear>-pēṟūr-nāṭṭu kāvaṉūr-āṉa kamala-nārāyaṇa-c caruppeti-maṅkalattu cavaiyōm paiyy<choice><sic>u</sic><corr>ū</corr></choice>r-k kōṭṭattu āraṇi nilai ciṟuvarampe<unclear>ṭā</unclear>ṉa mumm<choice><sic>a</sic><corr>u</corr></choice>ṭi-cōḻa-nallūr iḷaiy<choice><orig>u</orig><reg>ū</reg></choice>ṟu kiḻavaṉ nārāyaṇaṉ vēḷi tiruvōṟṟiyur uṭaiyā<supplied reason="omitted">r</supplied> paṅkuṉi Uttirat tiruviḻāvil t<choice><sic>i</sic><corr>ī</corr></choice>rttam Āṭi Aruḷiṉa 
@@ -162,11 +162,11 @@
                     <lb n="14" break="no"/>mam paṟiccu-toṭu-p-pataṟkum Ukaccarkkum āka nellu eṇkala<choice><orig>n</orig><reg>ṅ</reg></choice>ē tūṇi-p-pataṟkum <hi rend="grantha">prasāda</hi>ṅ kuṭukkum paricaṭṭattukku nellu
                     <lb n="15"/>pati<choice><orig>n</orig><reg>ṉ</reg></choice>aṟu kalamum tirun<supplied reason="omitted">e</supplied>l patakk-āka Eṇṇai Irupati-nāḻikku <surplus>ai</surplus>Aiṅ-kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē Iru-tūṇiyu-p piḷḷaiyārkku tiṉpaṇṭattukku Aiṅ-kuṟuṇi nā-nāḻiyu- 
                     <lb n="16" break="no"/>m ari<supplied reason="omitted">ci</supplied> nellu ai<unclear>ym</unclear>pattāṟu kala<choice><orig>n</orig><reg>ṉ</reg></choice>ē patakkiru nāḻiyum
-                    Āka nāḷ Oṉṟukku <g type="tam-poṉ"/> Eḻu-patt-aiṅ-kalam Iru-nellu Eḻu-patt-aiṅ-kalattukkum <unclear>k</unclear>ā
-                    <lb n="17" break="no"/>vaṉūr-āna kamala-nārāyaṇa-c caruppeti-maṅkalattu <hi rend="grantha">sabhai</hi>yōm koṇṭa kācu mu-p-patukku kācu Oṉṟukku <g type="tam-poṉ"/> Arumoḻitevaṉāl
+                    Āka nāḷ Oṉṟukku <g ref="sym:tam-poṉ"/> Eḻu-patt-aiṅ-kalam Iru-nellu Eḻu-patt-aiṅ-kalattukkum <unclear>k</unclear>ā
+                    <lb n="17" break="no"/>vaṉūr-āna kamala-nārāyaṇa-c caruppeti-maṅkalattu <hi rend="grantha">sabhai</hi>yōm koṇṭa kācu mu-p-patukku kācu Oṉṟukku <g ref="sym:tam-poṉ"/> Arumoḻitevaṉāl
                     I<unclear>ru</unclear>kala tū
-                    <lb n="18" break="no"/>ṇi-p pata<unclear>k</unclear>k-āka van=ta <g type="tam-poṉ"/>  Eḻu-patt-aiṅ-kalamum Āṭṭ-āṇṭu tōṟum poliyūṭṭ-āka Ācan=tira-kālamum tēvar-paṇṭā<unclear>ra</unclear>-tey koṭuvantu Aḷa
-                    <lb n="19" break="no"/>p pomāṉōm kāvaṉūr-āṉa kamala-nārāyaṇa-c caruppeti-maṅkalattu <hi rend="grantha">sabhai</hi>yōm <g type="ddanda"/>
+                    <lb n="18" break="no"/>ṇi-p pata<unclear>k</unclear>k-āka van=ta <g ref="sym:tam-poṉ"/>  Eḻu-patt-aiṅ-kalamum Āṭṭ-āṇṭu tōṟum poliyūṭṭ-āka Ācan=tira-kālamum tēvar-paṇṭā<unclear>ra</unclear>-tey koṭuvantu Aḷa
+                    <lb n="19" break="no"/>p pomāṉōm kāvaṉūr-āṉa kamala-nārāyaṇa-c caruppeti-maṅkalattu <hi rend="grantha">sabhai</hi>yōm <g ref="sym:doubleBar" type="punctuation">.</g>
                 </p>
                 
             </div>	

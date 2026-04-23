@@ -96,7 +96,7 @@
                     <lb n="21"/>talai-vañciṉaṉ mūti ka
                     <lb n="22" break="no"/>ṇṭa <gap reason="lost" quantity="2" unit="character"/> Āṭṭaik
                     <lb n="23"/>ku Oṉṟ' āka <unclear>O</unclear>ṭṭiṉa
-                    <lb n="24-30"/><g type="damaged"/>
+                    <lb n="24-30"/><g ref="sym:unclassified" type="symbol">*</g><!--CHECK SYMBOL encoding and content, was "damaged"-->
                 </p>
                 
             </div>
