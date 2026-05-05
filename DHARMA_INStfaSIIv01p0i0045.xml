@@ -105,14 +105,14 @@
                     <lb n="20" break="no"/><hi rend="grantha">ṇḍe<!--update: e at end of preceding line-->śvara-svāmi</hi>kku <hi rend="grantha">Aṃga
                         <lb n="21" break="no"/>raṃga</hi>-vai<hi rend="grantha">bha</hi>vattukku
                     <lb n="22"/>v-iṭu-vitta <hi rend="grantha">grā</hi>mam Aru
-                    <lb n="23" break="no"/>mparitti <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
+                    <lb n="23" break="no"/>mparitti <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
                 </p>
                 
                 <lg met="anuṣṭubh" n="1" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">dā<supplied reason="omitted">na</supplied>-pālana<lb n="24" break="no"/>yor mmaddhye</l>
                     <l n="b">dānāc śre<lb n="25" break="no"/>yo 'nupālanam·</l>
                     <l n="c">dānāt· <lb n="26" break="no"/> svarggam avāpnoti</l>
-                    <l n="d">pā<lb n="27" break="no"/>lanād a<choice><sic>cc</sic><corr>cy</corr></choice>utam<!--final m=Tamil script--> pada<lb n="27" break="no"/>m· <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--></l>
+                    <l n="d">pā<lb n="27" break="no"/>lanād a<choice><sic>cc</sic><corr>cy</corr></choice>utam<!--final m=Tamil script--> pada<lb n="27" break="no"/>m· <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g></l>
                 </lg>
                 
             </div>

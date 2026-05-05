@@ -105,14 +105,14 @@
                     <lb n="19" break="no"/><hi rend="grantha">śvara-svāmi</hi>kku <hi rend="grantha">Aṃgaraṃga</hi>         	  	
                     <lb n="20" break="no"/>-vai<hi rend="grantha">bha</hi>vattukku v-iṭu-vitta         	  	
                     <lb n="21"/><hi rend="grantha">grā</hi>mam Arukūrukkuḷ muru
-                    <lb n="22" break="no"/>kkericiṟṟeṟi <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
+                    <lb n="22" break="no"/>kkericiṟṟeṟi <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
                 </p>
                 
                 <lg met="anuṣṭubh" n="1" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">dā<supplied reason="omitted">na</supplied>-pā<lb n="23" break="no"/>lanayor mmaddhye</l>
                     <l n="b">dānā<lb n="24" break="no"/>c śreyo 'nupālanam· <g ref="sym:bar" type="punctuation">.</g></l>
                     <l n="c">dā<lb n="25" break="no"/>nāt· svarggam av<choice><sic>a</sic><corr>ā</corr></choice>pnoti</l>
-                    <l n="d">p<lb n="26" break="no"/>ālanād a<choice><sic>cc</sic><corr>cy</corr></choice>utam<!--final m=Tamil script--> pada<lb n="27" break="no"/>m· <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--></l>
+                    <l n="d">p<lb n="26" break="no"/>ālanād a<choice><sic>cc</sic><corr>cy</corr></choice>utam<!--final m=Tamil script--> pada<lb n="27" break="no"/>m· <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g></l>
                 </lg>
                 
             </div>

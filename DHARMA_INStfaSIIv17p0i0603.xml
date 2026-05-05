@@ -263,7 +263,7 @@
                 <lb n="5"/><hi rend="grantha">catur-agrahāra<unclear>bhuktyā</unclear> madhurājāta-bhaṭṭasyāpy evam· pratibhāsa-narasiṁhasya</hi>
             </item>
             <item>
-                <hi rend="grantha">hṛṣīkeśa<surplus>va</surplus>-bhaṭṭasoma<surplus>soma</surplus>yājinopy evam· pratibhāsaḥ</hi> <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
+                <hi rend="grantha">hṛṣīkeśa<surplus>va</surplus>-bhaṭṭasoma<surplus>soma</surplus>yājinopy evam· pratibhāsaḥ</hi> <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
             </item>
             <item>kuḷavit tiruvayāṟṟaṭikaḷ <hi rend="grantha">deśapriya-bhaṭṭan</hi> maka<choice><orig>n</orig><reg>ṉ</reg></choice> tiruviyalūraṭikaḷ <hi rend="grantha">bhaṭṭasyāpy evam·</hi> <g ref="sym:flourish-taperOut" type="punctuation">.</g>
             </item>
@@ -447,7 +447,7 @@
     </p>
     
      <lg n="36" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        <l n="ab"><gap reason="lost" unit="character" quantity="6"/> sāreṇa kārayet· <gap reason="lost" unit="character" quantity="4"/> ṇam· <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--></l>
+        <l n="ab"><gap reason="lost" unit="character" quantity="6"/> sāreṇa kārayet· <gap reason="lost" unit="character" quantity="4"/> ṇam· <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g></l>
     </lg>
   
    <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">śrī-vaikhānasa-mahāstave<g ref="sym:bar" type="punctuation">.</g>

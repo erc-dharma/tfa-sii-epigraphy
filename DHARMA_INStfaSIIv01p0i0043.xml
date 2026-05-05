@@ -104,14 +104,14 @@
                     <lb n="18" break="no"/>ēlūr<!--update: ē at end of preceding line--> <hi rend="grantha">jvara</hi>-ka<hi rend="grantha">ṇḍeśvara</hi>         	  	
                     <lb n="19" break="no"/>-<hi rend="grantha">svāmi</hi>kku <hi rend="grantha">Aṃgaraṃga</hi>-v         	  	
                     <lb n="20" break="no"/>ai<hi rend="grantha">bha</hi>vattukku v-iṭu-vitta <hi rend="grantha">grā</hi>         	  	
-                    <lb n="21" break="no"/>mam Aṟappakkam <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
+                    <lb n="21" break="no"/>mam Aṟappakkam <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
                 </p>
                 
                 <lg met="anuṣṭubh" n="1" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">dāna-p<lb n="22" break="no"/>ālanayor mmaddhye</l>
                     <l n="b">dānā<lb n="23" break="no"/>c śreyo 'nupālanam·</l>
                     <l n="c">dā<lb n="24" break="no"/>nāt· svarggam avāpnoti</l>
-                    <l n="d">p<lb n="25" break="no"/>ālanād a<choice><sic>cc</sic><corr>cy</corr></choice>tam· padam· <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--></l>
+                    <l n="d">p<lb n="25" break="no"/>ālanād a<choice><sic>cc</sic><corr>cy</corr></choice>tam· padam· <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g></l>
                 </lg>
                 
             </div>
