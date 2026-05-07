@@ -74,472 +74,466 @@
         </revisionDesc>
     </teiHeader>
     
-<text xml:space="preserve">
-    <body>
-        <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-            
-            <ab>
-                <milestone n="A" unit="zone" type="pagelike"/><!--Village of Pālaiyūr-->
-                <lb n="1=1"/><hi rend="grantha">svasti śrī</hi> <g ref="sym:bullet-double" type="punctuation">.</g>
-            </ab>                        
-            
-            <lg n="1" met="āciriyappā">
-                <l n="1">tirumakaḷ pōla-p perunila-c celviyun</l>
-                <l n="2">taṉakkē-y Urimai pūṇṭamai ma<choice><orig>n</orig><reg>ṉ</reg></choice>akkoḷa-k</l>
-                <l n="3">kāntaḷūr-c cālai kalamaṟu-t taruḷi</l>
-                <l n="4">veṅkai nāṭuṅ kaṅka pāṭiyun</l>
-                <l n="5">taṭi kaipāṭiyum nuḷampa-p <lb n="2=2"/>pāṭiyuṅ</l>
-                <l n="6">kuṭamalai nāṭuṅ kollamuṅ kaliṅkamum</l>
-                <l n="7">muraṭṭ<choice><sic>e</sic><corr>o</corr></choice>ḻil ciṅkaḷar Īḻamaṇ ṭalamum</l>
-                <l n="8">Iraṭṭa pāṭi Ēḻarai y-ilakkamum</l>
-                <l n="9">muṉṉīr-p paḻantīvu paṉṉīrā y-iramun</l>
-                <l n="10">tiṇṭiṟal veṉ<lb n="3=3" break="no"/>ṟi-t taṇṭāṟ koṇṭataṉ-ṉ</l>
-                <l n="11">eḻilvaḷar ūḻiyuḷ ellā yāṇṭun</l>
-                <l n="12">toḻutak<choice><orig>a</orig><reg>ai</reg></choice> viḷaṅkum yāṇṭe-y</l>
-                <l n="13">ceḻiyarai-t tēcukoḷ </l>
-            </lg>
-            <p>
-                kō-<hi rend="grantha">rāja-kesari-varmmar</hi>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">śrī-rāja-rāja-de</hi>varkku yāṇṭu Irupatt' o
-                <lb n="4=4" break="no"/>ṉpat' āvatu varai Uṭaiyār <hi rend="grantha">śrī-rāja-rāja-devar</hi> tañcāvūr Eṭuppitta tirukkaṟṟaḷi <hi rend="grantha">śrī-rāja-rājīśvaram</hi> Uṭaiya <hi rend="grantha">parama-svāmi</hi>kku vēṇṭu<supplied reason="subaudible">m</supplied> nivantaṅkaḷukku-t tēvatāṉam āka-c cōḻa-maṇṭalattum puṟa-maṇṭalaṅ
+    <text xml:space="preserve">
+        <body>
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
-                <lb n="5=5" break="no"/>kaḷilum Uṭaiyār <hi rend="grantha">śrī-rāja-rāja-devar</hi> kuṭutta Ūrkaḷil Ūr-nattamum <hi rend="grantha">śrī</hi>-kōyilkaḷuṅ kuḷaṅkaḷum Ūṭaṟuttu-p poṉa vāykkālkaḷum paṟai-c-cēriyuṅ kammāṇa-cēriyuñ cuṭukāṭum Uḷḷiṭṭu Iṟai-Ili nilaṅkaḷum
+                <ab>
+                    <milestone n="A" unit="zone" type="pagelike"/><label>Section 1</label><!--Village of Pālaiyūr-->
+                    <lb n="A1=1"/><hi rend="grantha">svasti śrī</hi> <g ref="sym:bullet-double" type="punctuation">.</g>
+                </ab>                        
                 
-                <lb n="6=6"/>Iṟai kaṭṭiṉa nilattāṟ kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ eṉṉum marakkālāl Aḷakka-k-kaṭava nellum Iṭa-k-kaṭava poṉṉuṅ kācum pēci-k kallil veṭṭiṉa <g ref="sym:flourish-taperOut" type="punctuation">.</g>  
-            </p>
-            
-            <p>
-                teṉ-kaṭuvāy-āṉa
-                <lb n="7=7"/>Arumoḻi-tēva-vaḷa-nāṭṭu Iṅka-ṇāṭṭu-p pālaiyūr paḷḷiyuṅ kaṇi muṟṟūṭṭum Uṭpaṭa Aḷanta-paṭi nilam nūṟṟu muppattu nāṉkē-y Eṭṭumāviṉ kīḻ mukkālē mummāvarai y-araikkā
+                <lg n="1" met="āciriyappā">
+                    <l n="1">tirumakaḷ pōla-p perunila-c celviyun</l>
+                    <l n="2">taṉakkē-y Urimai pūṇṭamai ma<choice><orig>n</orig><reg>ṉ</reg></choice>akkoḷa-k</l>
+                    <l n="3">kāntaḷūr-c cālai kalamaṟu-t taruḷi</l>
+                    <l n="4">veṅkai-nāṭuṅ kaṅka-pāṭiyun</l>
+                    <l n="5">taṭikai-pāṭiyum nuḷampa-p<lb n="A2=2" break="no"/>pāṭiyuṅ</l>
+                    <l n="6">kuṭamalai-nāṭuṅ kollamuṅ kaliṅkamum</l>
+                    <l n="7">muraṭṭ<choice><sic>e</sic><corr>o</corr></choice>ḻil ciṅkaḷar Īḻamaṇṭalamum</l>
+                    <l n="8">Iraṭṭa pāṭi Ēḻarai y-ilakkamum</l>
+                    <l n="9">muṉṉīr-p paḻantīvu paṉṉīrāyiramun</l>
+                    <l n="10">tiṇṭiṟal veṉ<lb n="A3=3" break="no"/>ṟi-t taṇṭāṟ koṇṭata<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice></l>
+                    <l n="11">eḻilvaḷar ūḻiyuḷ ellā yāṇṭun</l>
+                    <l n="12">toḻutak<choice><sic>a</sic><corr>ai</corr></choice> viḷaṅkum yāṇṭe-y</l>
+                    <l n="13">ceḻiyarai-t tēcukoḷ </l>
+                </lg>
+                <p>
+                    kō-<hi rend="grantha">rāja-kesari-varmma</hi>r-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">śrī-rāja-rāja-de</hi>varkku yāṇṭu Irupatt' o
+                    <lb n="A4=4" break="no"/>ṉpat' āvatu varai Uṭaiyār <hi rend="grantha">śrī-rāja-rāja-devar</hi> tañcāvūr Eṭuppitta tirukkaṟṟaḷi <hi rend="grantha">śrī-rāja-rājīśvaraM</hi> Uṭaiya <hi rend="grantha">parama-svāmi</hi>kku vēṇṭu<supplied reason="subaudible">m</supplied> nivantaṅkaḷukku-t tēvatāṉam āka-c cōḻa-maṇṭalattum puṟa-maṇṭalaṅ
+                    
+                    <lb n="A5=5" break="no"/>kaḷilum Uṭaiyār <hi rend="grantha">śrī-rāja-rāja-devar</hi> kuṭutta Ūrkaḷil Ūr-nattamum <hi rend="grantha">śrī</hi>-kōyilkaḷuṅ kuḷaṅkaḷum Ūṭaṟuttu-p poṉa vāykkālkaḷum paṟai-c-cēriyuṅ kammāṇa-cēriyuñ cuṭukāṭum Uḷḷiṭṭu Iṟai-Ili nilaṅkaḷum
+                    
+                    <lb n="A6=6"/>Iṟai kaṭṭiṉa nilattāṟ kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ eṉṉum marakkālāl Aḷakka-k-kaṭava nellum Iṭa-k-kaṭava poṉṉuṅ kācum pēci-k kallil veṭṭiṉa <g ref="sym:flourish-taperOut" type="punctuation">.</g>  
+                </p>
                 
-                <lb n="8=8" break="no"/>ṇi muntirikai-k kīḻ nāṉkumāvilum Ū<unclear>r</unclear>-nattamuṅ kuḷamuṅ kammāṇa-cēriyum paṟai-c cēriyuñ cuṭukāṭum Ivv-ūr nilattai Ūṭaṟuttu-p poṉa vāykkālkaḷālum Iṟai-Ili nilam oṉpatē-y kāṇi
-                
-                <lb n="9=9"/>Araikkāṇi muntirikai-k kīḻ arai nīk<unclear>ki</unclear> Iṟai kaṭṭiṉa nilam nūṟṟu Irupattu Aiñcē-y Eḻumāvarai muntirikai-k kīḻ Eṇmāvarai araikkāṇi muntirikai-k kīḻ nāṉkumāviṉāl Iṟai kaṭṭiṉa kāṇi
-
-                <milestone n="B" unit="zone" type="pagelike" break="no"/><!--Village of Āṟappāḻ-->
-                
-        <lb n="1=10" break="no"/>k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ eṉṉum marakkālāl Aḷakka-k-kaṭava nellu-p paṉṉī
-         <lb n="2=11" break="no"/>r āyirattu Ai<choice><orig>ññ</orig><reg>nn</reg></choice>ūṟṟu muppatiṉ kalaṉē Irutūṇi-k kuṟuṇi Orunāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g> 
-        </p>
-    <p>
-        Iṉ-ṉāṭṭu Ārappāḻ nā
-        <lb n="3=12" break="no"/>yvālamum maruttuva-p pēṟum paḷḷiyum Uṭpaṭa Aḷanta-paṭi nilam nūṟṟu Orupattu Oṉ
-        <lb n="4=13" break="no"/>ṟē y-Aṟumāvarai Araikkāṇi-k kīḻ mukkālē Araikkāliṉ kīḻ Araiyē Iraṇṭumā
-        <lb n="5=14" break="no"/>vilum Ūr-nattamuṅ kuḷaṅkaḷum <hi rend="grantha">śrī</hi>-kōyilum Aiyyaṉ kōyilum piṭāri kōyiluṅ
-        <lb n="6=15"/>kaḻaṉi-k kuḷaṅkaḷum paṟai-c-cēri nattamum Iṟai-Ili nilam mūṉṟ' araiyē nāṉkumā
-        <lb n="7=16" break="no"/>k kāṇi Araikkāṇi nīkki Iṟai kaṭṭiṉa nilam nūṟṟu Eḻ' araiyē Iraṇṭumā-k kā
-        <lb n="8=17" break="no"/>ṇi-k kīḻ mukkālē Araikkāliṉ kīḻ Araiyē Iraṇṭumāviṉāl Iṟai kaṭṭiṉa
-        <lb n="9=18"/>kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ Eṉṉum marakkālāl Aḷa
-        
-        <milestone n="C" unit="zone" type="pagelike" break="no"/><!--Villages of Kīraṉtēvaṉkuṭi and Nākaṉakakaṉakuṭi-->
-        
-        <lb n="1=19" break="no"/>kka-k-kaṭava nellu-p patiṉ āyirattu Eḻunūṟṟu nāṟppattu Aiṅkalaṉē Irutūṇi-p-patakku muṉṉāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g> 
-    </p> 
-    <p>
-        Iṉ-ṉāṭṭu-k kīraṉtēvaṉkuṭi paḷḷi y-uṭpaṭa Aḷanta-paṭi nilam nāṟpattu
-        <lb n="2=20"/>Iraṇṭē mukkālē nāṉkumā-k kāṇi muntirikai-k kīḻ Araiyē mūṉṟumā mukkāṇi Araikkāṇi-k kīḻ Eṭṭumāvilum Ūr-nattamum paṟai-c-cēri nattamuṅ kammāṇa-cēri nattamum
-        <lb n="3=21"/><hi rend="grantha">śrī</hi>-kōyilum nan=tavaṉamuṅ kuḷaṅkaḷum Iṟai-Ili nilam Iraṇṭē Orumāvarai Araikkāṇi muntirikai-k kīḻ nāṉkumā muntirikai-k kīḻ Araiyē Iraṇṭumā nīkki Iṟai kaṭṭi
-        <lb n="4=22" break="no"/>ṉa nilam nāṟpa<supplied reason="omitted">t</supplied>tē-y mukkālē Irumāvarai Araikkāṇi-k kīḻ Oṉpatumā mukkāṇi-k kīḻ mukkālē Orumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭava
-        <lb n="5=23" break="no"/>llāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu nālāyirattu Eḻupatiṉ kalaṉē Aiṅkuṟuṇi Ai<choice><orig>ññ</orig><reg>nn</reg></choice>āḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g>
-    </p>
-<p>
-Iṉṉāṭṭu <sic>nākaṉakakaṉa</sic><note>The sequence is visually clear, but the toponym remains unattested in any other Tamil inscription. A modern village called Nākaṉkuṭi exists in the Nannilam taluk; however, the emendation would require suppressing several extra <foreign>akṣaras</foreign>, which, given the high degree of accuracy throughout this record, seems very unlikely. No standardised form is proposed; therefore, the name remains in its ambiguous, epigraphic form.</note>-kuṭi Aḷanta-paṭi nilam Irupattu Iraṇṭ' arai
-<lb n="6=24" break="no"/>yē-y Iraṇṭumā mukkāṇi Araikkāṇi-k kīḻ Irumāvarai Araikkāṇi-k kīḻ Eṭṭumāvilum Ūr-irukkaiyuṅ kuḷaṅkaḷum Aiyyaṉ kōyilum piṭāri kōyilun tīṇṭā-c-cēri
-<lb n="7=25" break="no"/>yum Ivv-ūr nilattai y-ūṭaṟuttu-p pōṉa vāykkālkaḷālum cuṭukāṭṭālum Irai-Ili nilam mukkālē Orumā Araikkāṇi muntirikai-k kīḻ Irumāvarai nīkki Iṟai kaṭṭiṉa
-<lb n="8=26"/>nilam Irupattu Oṉṟē-y mukkālē Orumāvarai Araikkāṇi muntirikai-k kīḻ Araikkāṇi-k kīḻ Eṭṭumāviṉāl iṟ<unclear>ai</unclear> kaṭṭi
-ṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭaval
-<lb n="9=27" break="no"/>lāṉ Eṉṉum marakkālāl Aḷakka-k kaṭava nellu iraṇṭ' āyirattu Orunūṟṟu Eṇpattu mukkalaṉē Aiṅkuṟuṇi n<supplied reason="lost">āṉāḻi</supplied> <g ref="sym:flourish-taperOut-complex" type="connector">§</g><g ref="sym:flourish-taperOut-complex" type="connector">§</g> <g ref="sym:flourish-taperOut-complex" type="connector">§</g><g ref="sym:flourish-taperOut-complex" type="connector">§</g><g ref="sym:flourish-taperOut-complex" type="connector">§</g>
-
-    <milestone n="D" unit="zone" type="pagelike"/> <!--Villages of [...] and Kiḷinallūr-->
-   
-    <lb n="1=28"/>teṉ-kaṭuvāy-āṉa <unclear>A</unclear>rumoḻi-tēva-vaḷa-nāṭṭu neṉmali-nāṭṭu koṟ <gap reason="illegible" unit="character" quantity="5"/>kaḷum kaṇi muṟṟūṭṭum Uṭpaṭa kīḻ Eṭṭumāvilum Ūr-irukkaiyum <hi rend="grantha">śrī</hi>-kōyilu<supplied reason="lost">m</supplied>
-     <lb n="2=29"/>Aḷanta-paṭi nilamu<unclear>m n</unclear>ūṟṟu Eḻupattu muṉṟ' araiyē Iraṇṭumā <unclear>mukkāṇi</unclear>-k kīḻ Oṉpatumā muntirikai-k 
-        <lb n="3=30"/>kīḻ Iraṇṭumā mukkāṇi Araikkāṇiyilum Ūr-irukkai nattamum ku<unclear>ḷaṅ</unclear>kaḷum Aiyyaṉ kōyilum tīṇṭā-c-cēri
-        <lb n="4=31" break="no"/>kaḷum pulattil-k kuṭi<gap reason="lost" quantity="2" unit="character"/>kkai nattaṅkaḷum piṭāri kōyilālum I<unclear>ṟaiyili ni</unclear>lam patiṉ muṉṟē Oṉpatumā 
-        <lb n="5=32" break="no"/>k kāṅi Araikkāṇi mun<supplied reason="lost">tiri</supplied>kai-k kīḻ mukkālē Orumā Araikkāṇi-k <unclear>kīḻ Araiyē</unclear> kāṇi Araikkāṇi nīkki Iṟaikaṭṭi
-        <lb n="6=33" break="no"/>ṉa nilam muṉṉūṟṟu <gap reason="lost" quantity="7" unit="character"/><unclear>mā</unclear>-k kāṇi-k kīḻ Araiyē <gap reason="lost" unit="character" quantity="3"/> <unclear>ṭu mā</unclear> mukkāṇi Araikkāṇi-k kīḻ Araiyē Iru
-        <lb n="7=34" break="no"/>māvaraiyiṉāl Iṟai <gap reason="lost" quantity="10" unit="character"/> <hi rend="grantha">rājakesari</hi>yōṭ' <supplied reason="lost">ok</supplied>kum Āṭavallāṉ Eṉṉum marakkālāl Aḷak
-        <lb n="8=35" break="no"/>kka-k-kaṭava nellu mup <gap reason="lost" unit="character" quantity="10"/><unclear>ṉ</unclear> āyirattu <gap reason="lost" unit="character" quantity="5"/> tu <gap reason="lost" unit="character" quantity="3"/> kalaṉē Irutūṇi Orunāḻi <g ref="sym:flourish-taperOut" type="symbol">*</g>
-    </p>
-            <p> In-nāṭṭu-k
-                <lb n="9=36" break="no"/>kiḷinallūr-p paḷḷi <gap reason="lost" unit="character" quantity="10"/> <unclear>nilam</unclear> <unclear rend="check">nū</unclear><unclear>ṟṟu</unclear> <gap reason="lost" unit="character" quantity="7"/> kāṇi-k kīḻ Aṟumā mukkāṇi A<unclear>raik</unclear>kāṇi-k 
-                
-<milestone n="E" unit="zone" type="pagelike" break="no"/><!--Villages of Rājarājanallūr, Uccipāṭi, Kīḻvaṭukakkuṭi, Kañcāṟaṉakaram, Uccikkaṇṇaṅkuṭi-->
-                
-                <lb n="1=37"/>kīḻ Eṭṭumāvilum Ūr-irukkaiyum <hi rend="grantha">śrī</hi>-kōyilu<supplied reason="lost">m</supplied> <unclear>paṟai</unclear>-c-cēriyu<unclear>m</unclear> kuḷa<unclear>ṅka</unclear>ḷum Oṭaikaḷum Iṟai-y-ili nīṅku nilam Aiñciṉ kīḻ Araiyē mūṉṟumā mukkāṇi-k kīḻ mukkālē Orumā nīkki Iṟai kaṭṭiṉa nilam nūṟṟu Orupattu Aiñcē kālē Araikkāṇi muntirikai-k kīḻ Araiyē mūṉṟumā muntirikai-k kīḻ Araiyē Iraṇṭumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum
-                <lb n="2=38"/>Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu-p patiṉōr āyirattu Ai<choice><orig>ññ</orig><reg>nn</reg></choice>ūṟṟu Irupattu Aṟukalaṉē kuṟuṇi Eḻunāḻi <g ref="sym:flourish-taperOut" type="symbol">*</g>
-          </p>
-           <p>
-                    In-nāṭṭu-t taṇṇīr-k-kuṉṟamāṉa <hi rend="grantha">rājarāja</hi>-nallūr Aḷanta-paṭi nilam muppattu Āṟaraiyē Orumā Araikkāṇi muntirikai-k kīḻ mukkālē mākāṇi-k kīḻ mukkālē Orumāvilum Ūr-irukkaiyum kuḷamum <hi rend="grantha">śrī</hi>-kōyilkaḷum cuṭukāṭum paṟai-c-cēriyum nāṭṭā
+                <p>
+                    teṉ-kaṭuvāy-āṉa
+                    <lb n="A7=7"/>Arumoḻi-tēva-vaḷa-nāṭṭu Iṅka-ṇāṭṭu-p pālaiyūr paḷḷiyuṅ kaṇi muṟṟūṭṭum Uṭpaṭa Aḷanta paṭi nilam nūṟṟu muppattu nāṉkē-y Eṭṭu-māviṉ kīḻ mukkālē mummā-v-arai y-araikkā
+                    
+                    <lb n="A8=8" break="no"/>ṇi muntirikai-k kīḻ nāṉkumāvilum Ū<unclear>r</unclear>-nattamuṅ kuḷamuṅ kammāṇa-cēriyum paṟai-c-cēriyuñ cuṭukāṭum Ivv-ūr nilattai Ūṭaṟuttu-p poṉa vāykkālkaḷālum Iṟai-Ili nilam oṉpatē-y kāṇi
+                    
+                    <lb n="A9=9"/>Araikkāṇi muntirikai-k kīḻ arai nīkki Iṟai kaṭṭiṉa nilam nūṟṟu Irupattu Aiñcē-y Eḻumāvarai muntirikai-k kīḻ Eṇmāvarai Araikkāṇi muntirikai-k kīḻ nāṉkumāviṉāl Iṟai kaṭṭiṉa kāṇi
+                    
+                    <milestone n="B" unit="zone" type="pagelike" break="no"/><label>Section 2</label><!--Village of Āṟappāḻ-->
+                    
+                    <lb n="B1=10" break="no"/>k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ eṉṉum marakkālāl Aḷakka-k-kaṭava nellu-p paṉṉī
+                    <lb n="B2=11" break="no"/>r-āyirattu Ai<choice><orig>ññ</orig><reg>nn</reg></choice>ūṟṟu muppatiṉ kalaṉē Irutūṇi-k kuṟuṇi Orunāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g> 
+                </p>
+                <p>
+                    I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āṭṭu Ārappāḻ nā
+                    <lb n="B3=12" break="no"/>yvālamum maruttuva-p pēṟum paḷḷiyum Uṭpaṭa Aḷanta paṭi nilam nūṟṟu Orupattu Oṉ
+                    <lb n="B4=13" break="no"/>ṟē-y Aṟumāvarai Araikkāṇi-k kīḻ mukkālē Araikkāliṉ kīḻ Araiyē Iraṇṭumā
+                    <lb n="B5=14" break="no"/>vilum Ūr-nattamuṅ kuḷaṅkaḷum <hi rend="grantha">śrī</hi>-kōyilum Aiyyaṉ kōyilum piṭāri kōyiluṅ
+                    <lb n="B6=15"/>kaḻaṉi-k kuḷaṅkaḷum paṟai-c-cēri nattamum Iṟai-Ili nilam mūṉṟ' araiyē nāṉkumā
+                    <lb n="B7=16" break="no"/>k kāṇi Araikkāṇi nīkki Iṟai kaṭṭiṉa nilam nūṟṟu Eḻ' araiyē Iraṇṭu-mā-k kā
+                    <lb n="B8=17" break="no"/>ṇi-k kīḻ mukkālē Araikkāliṉ kīḻ Araiyē Iraṇṭumāviṉāl Iṟai kaṭṭiṉa
+                    <lb n="B9=18"/>kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ Eṉṉum marakkālāl Aḷa
+                    
+                    <milestone n="C" unit="zone" type="pagelike" break="no"/><label>Section 3</label><!--Villages of Kīraṉtēvaṉkuṭi and Nākaṉakakaṉakuṭi-->
+                    
+                    <lb n="C1=19" break="no"/>kka-k-kaṭava nellu-p patiṉ āyirattu Eḻunūṟṟu nāṟppattu Aiṅkalaṉē Iru-tūṇi-p-patakku muṉṉāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g> 
+                </p> 
+                <p>
+                    I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āṭṭu-k kīraṉtēvaṉkuṭi paḷḷi y-uṭpaṭa Aḷanta paṭi nilam nāṟpattu
+                    <lb n="C2=20"/>Iraṇṭē mukkālē nāṉku-mā-k kāṇi muntirikai-k kīḻ Araiyē mūṉṟu-mā mukkāṇi Araikkāṇi-k kīḻ Eṭṭumāvilum Ūr-nattamum paṟai-c-cēri nattamuṅ kammāṇa-cēri nattamum
+                    <lb n="C3=21"/><hi rend="grantha">śrī</hi>-kōyilum nan=tavaṉamuṅ kuḷaṅkaḷum Iṟai-Ili nilam Iraṇṭē Oru-māvarai Araikkāṇi muntirikai-k kīḻ nāṉkumā muntirikai-k kīḻ Araiyē Iraṇṭumā nīkki Iṟai kaṭṭi
+                    <lb n="C4=22" break="no"/>ṉa nilam nāṟpa<supplied reason="omitted">t</supplied>tē-y mukkālē Irumāvarai Araikkāṇi-k kīḻ Oṉpatumā mukkāṇi-k kīḻ mukkālē Orumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭava
+                    <lb n="C5=23" break="no"/>llāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu nālāyirattu Eḻupatiṉ kalaṉē Aiṅkuṟuṇi Ai<choice><orig>ññ</orig><reg>nn</reg></choice>āḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g>
+                </p>
+                <p>
+                    I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āṭṭu nākaṉakkaṉa-kuṭi Aḷanta paṭi nilam Irupattu Iraṇṭ' arai
+                    <lb n="C6=24" break="no"/>yē-y Iraṇṭumā mukkāṇi Araikkāṇi-k kīḻ Irumāvarai Araikkāṇi-k kīḻ Eṭṭumāvilum Ūr-irukkaiyuṅ kuḷaṅkaḷum Aiyyaṉ kōyilum piṭāri kōyilun tīṇṭā-c-cēri
+                    <lb n="C7=25" break="no"/>yum Ivv-ūr nilattai y-ūṭaṟuttu-p pōṉa vāykkālkaḷālum cuṭukāṭṭālum Irai-Ili nilam mukkālē Orumā Araikkāṇi muntirikai-k kīḻ Irumāvarai nīkki Iṟai kaṭṭiṉa
+                    <lb n="C8=26"/>nilam Irupattu Oṉṟē-y mukkālē Orumāvarai Araikkāṇi muntirikai-k kīḻ Araikkāṇi-k kīḻ Eṭṭumāviṉāl I<supplied reason="lost">ṟ</supplied><unclear>ai</unclear> kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭaval
+                    <lb n="C9=27" break="no"/>lāṉ Eṉṉum marakkālāl Aḷakka-k kaṭava nellu Iraṇṭ' āyirattu Orunūṟṟu Eṇpattu mukkalaṉē Aiṅkuṟuṇi n<unclear>ā</unclear><supplied reason="lost">ṉāḻi</supplied> <g ref="sym:flourish-taperOut-complex" type="connector">§</g> <g ref="sym:flourish-taperOut-complex" type="connector">§</g> <g ref="sym:flourish-taperOut-complex" type="connector">§</g> <g ref="sym:flourish-taperOut-complex" type="connector">§</g> <g ref="sym:flourish-taperOut-complex" type="connector">§</g> <g ref="sym:flourish-taperOut-complex" type="connector">§</g> <g ref="sym:flourish-taperOut-complex" type="connector">§</g>
+                    
+                    <milestone n="D" unit="zone" type="pagelike"/> <!--Villages of [...] and Kiḷinallūr-->
+                    
+                    <lb n="1=28"/>teṉ-kaṭuvāy-āṉa <unclear>A</unclear>rumoḻi-tēva-vaḷa-nāṭṭu neṉmali-nāṭṭu koṟ <gap reason="illegible" unit="character" quantity="5"/>kaḷum kaṇi muṟṟūṭṭum Uṭpaṭa kīḻ Eṭṭumāvilum Ūr-irukkaiyum <hi rend="grantha">śrī</hi>-kōyilu<supplied reason="lost">m</supplied>
+                    <lb n="2=29"/>Aḷanta paṭi nilamu<unclear>m n</unclear>ūṟṟu Eḻupattu muṉṟ' araiyē Iraṇṭumā <unclear>mukkāṇi</unclear>-k kīḻ Oṉpatumā muntirikai-k 
+                    <lb n="3=30"/>kīḻ Iraṇṭumā mukkāṇi Araikkāṇiyilum Ūr-irukkai nattamum ku<unclear>ḷaṅ</unclear>kaḷum Aiyyaṉ kōyilum tīṇṭā-c-cēri
+                    <lb n="4=31" break="no"/>kaḷum pulattil-k kuṭi<gap reason="lost" quantity="2" unit="character"/>kkai nattaṅkaḷum piṭāri kōyilālum I<unclear>ṟaiyili ni</unclear>lam patiṉ muṉṟē Oṉpatumā 
+                    <lb n="5=32" break="no"/>k kāṅi Araikkāṇi mun<supplied reason="lost">tiri</supplied>kai-k kīḻ mukkālē Orumā Araikkāṇi-k <unclear>kīḻ Araiyē</unclear> kāṇi Araikkāṇi nīkki Iṟaikaṭṭi
+                    <lb n="6=33" break="no"/>ṉa nilam muṉṉūṟṟu <gap reason="lost" quantity="7" unit="character"/><unclear>mā</unclear>-k kāṇi-k kīḻ Araiyē <gap reason="lost" unit="character" quantity="3"/> <unclear>ṭu mā</unclear> mukkāṇi Araikkāṇi-k kīḻ Araiyē Iru
+                    <lb n="7=34" break="no"/>māvaraiyiṉāl Iṟai <gap reason="lost" quantity="10" unit="character"/> <hi rend="grantha">rājakesari</hi>yōṭ' <supplied reason="lost">ok</supplied>kum Āṭavallāṉ Eṉṉum marakkālāl Aḷak
+                    <lb n="8=35" break="no"/>kka-k-kaṭava nellu mup <gap reason="lost" unit="character" quantity="10"/><unclear>ṉ</unclear> āyirattu <gap reason="lost" unit="character" quantity="5"/> tu <gap reason="lost" unit="character" quantity="3"/> kalaṉē Irutūṇi Orunāḻi <g ref="sym:flourish-taperOut" type="symbol">*</g>
+                </p>
+                <p> In-nāṭṭu-k
+                    <lb n="9=36" break="no"/>kiḷinallūr-p paḷḷi <gap reason="lost" unit="character" quantity="10"/> <unclear>nilam</unclear> <unclear rend="check">nū</unclear><unclear>ṟṟu</unclear> <gap reason="lost" unit="character" quantity="7"/> kāṇi-k kīḻ Aṟumā mukkāṇi A<unclear>raik</unclear>kāṇi-k 
+                    
+                    <milestone n="E" unit="zone" type="pagelike" break="no"/><!--Villages of Rājarājanallūr, Uccipāṭi, Kīḻvaṭukakkuṭi, Kañcāṟaṉakaram, Uccikkaṇṇaṅkuṭi-->
+                    
+                    <lb n="1=37"/>kīḻ Eṭṭumāvilum Ūr-irukkaiyum <hi rend="grantha">śrī</hi>-kōyilu<supplied reason="lost">m</supplied> <unclear>paṟai</unclear>-c-cēriyu<unclear>m</unclear> kuḷa<unclear>ṅka</unclear>ḷum Oṭaikaḷum Iṟai-y-ili nīṅku nilam Aiñciṉ kīḻ Araiyē mūṉṟumā mukkāṇi-k kīḻ mukkālē Orumā nīkki Iṟai kaṭṭiṉa nilam nūṟṟu Orupattu Aiñcē kālē Araikkāṇi muntirikai-k kīḻ Araiyē mūṉṟumā muntirikai-k kīḻ Araiyē Iraṇṭumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum
+                    <lb n="2=38"/>Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu-p patiṉōr āyirattu Ai<choice><orig>ññ</orig><reg>nn</reg></choice>ūṟṟu Irupattu Aṟukalaṉē kuṟuṇi Eḻunāḻi <g ref="sym:flourish-taperOut" type="symbol">*</g>
+                </p>
+                <p>
+                    In-nāṭṭu-t taṇṇīr-k-kuṉṟamāṉa <hi rend="grantha">rājarāja</hi>-nallūr Aḷanta paṭi nilam muppattu Āṟaraiyē Orumā Araikkāṇi muntirikai-k kīḻ mukkālē mākāṇi-k kīḻ mukkālē Orumāvilum Ūr-irukkaiyum kuḷamum <hi rend="grantha">śrī</hi>-kōyilkaḷum cuṭukāṭum paṟai-c-cēriyum nāṭṭā
                     <lb n="3=39" break="no"/>r vāykkāl niṉṟum kulai y-uṭaintu kuṭṭam iṭṭa nilamum Ivvūr nilattai Ūṭaṟuttu-p puṟavūrkku-p poṉa vāykkālālum Iṟai-Ili nilam iraṇṭē Eḻumā Araikkāṇi muntirikai-k kīḻ mukkālē Orumāvarai muntirikai-k kīḻ Araiyē Iraṇṭumā nīkki nilam muppattu nāṉkē mūṉṟumā mukkāṇi Araikkāṇi muntirikai-k kīḻ mukkālē nāṉmāvarai Araikkāṇi muntirikai-k
                     <lb n="4=40"/>kīḻ nāṉkumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">r<supplied reason="lost">ā</supplied>jakesari</hi>y-ōṭ' okkum Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu mūvāyirattu mu<choice><orig>nn</orig><reg>ṉṉ</reg></choice>ūṟṟu Eḻupattu Eṇkalaṉē patakku nāṉāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g> 
                 </p>
-        <p>
-            In-nāṭṭu Uccipāṭi Aḷanta-paṭi nilam Aimpattu Eḻaraiyē Orumā mukkāṇi Araikkāṇi muntirikai-k kīḻ Araiyē nāṉkumā mukkāṇiyilum Ūr-irukkaiyuṅ kuḷaṅkaḷum <hi rend="grantha">śrī</hi>-kōyilkaḷum Īḻa-c-cēriyum ka
-            <lb n="5=41" break="no"/>mmāṉa ceriyum paṟai-c-cēriyuñ cuṭukāṭum Āka Iraiy-i-ili <unclear>nila</unclear>m Oṉṟē mukkālē mūṉṟumā mukkāṇi Araikkāṇi muntirikai-k kīḻ Irumāvarai muntirikai-k kīḻ Araiyē Iraṇṭumā nīkki Iṟai kaṭṭiṉa nilam Aiympattaiñcaraiyē mūṉṟumāviṉ kīḻ Araiyē Iraṇṭumā v-araikkāṇi-k kīḻ Eṭṭumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ Eṉṉum marakkālā
-            <lb n="6=42" break="no"/>l Aḷakka-k-kaṭava nellu Ai<surplus>y</surplus>yāyirattu Ai<choice><orig>ññ</orig><reg>nn</reg></choice>ūṟṟu Irupa<unclear>t</unclear>tu <unclear>A</unclear>ṟukalaṉē-y tūṇi nāṉāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g>
-        </p>
-        <p>
-            In-nāṭṭu-k kīḻ vaṭuka-k kuṭi Aḷanta-paṭi nilam Irupatt' eḻaraiyē Orumāvarai Araikkāṇi-k kīḻ nāṉkumā Araikkāṇi muntirikai-k kīḻ nāṉkumāvilum Ūr-irukkaiyum kuḷamum <hi rend="grantha">śrī</hi>-kōyilkaḷum cuṭukāṭum Īḻa-c-cēriyuṅ kammāṇa-cēriyum paṟai-c-cēriyum vaṇṇāra-c-cēriyum paṟai-k-kuḷa-k kuḻiyum 
-            <lb n="7=43"/>Āka Iṟai-y-ili nilam Oṉṟē Iraṇṭumā v-araikkāṇi mu<unclear>ntirikai</unclear>-k kīḻ mūṉṟumā-k kāṇi Araikkāṇi-k kīḻ Eṭṭumā nīkki Iṟai kaṭṭiṉa nilam Irupatt' āṟē-y Oṉpatumā-k kāṇi Araikkāṇi muntirikai-k kīḻ mukkāṇi-k kīḻ mukkālē Orumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu Iraṇṭ' āyirattu Aṟunūṟṟu nāṟ
-            <lb n="8=44" break="no"/>pattu Aṟukalaṉē mukkuṟuṇi Eḻunāḻi <g ref="sym:flourish-taperOut" type="symbol">*</g> 
-        </p>
-        <p>
-            In-nāṭṭu-k kañcāṟa<unclear>ṉa</unclear>kar <gap reason="lost" quantity="1" unit="character"/> Aḷanta-paṭi nilam Āṟē mukkālē Iraṇṭumā mukkāṇi Araikkāṇi muntirikai-k kīḻ mukkālē Orumā mukkāṇi-k kīḻ mukkālē Orumāvilum Ivvūr-k kuḷaṅkaḷāl Iṟai-y-ili nilam Orumā mukkāṇi Araikkāṇi muntirikai-k kīḻ Aṟumā-k kāṇi Araikkāṇi-k kīḻ Eṭṭumā nīkk<choice><sic>ī</sic><corr>i</corr></choice> Iṟai kaṭṭiṉa nilam Āṟē mukkālē Orumāviṉ kīḻ Araiyē kāṇi 
-        <lb n="9=45"/>Araikkāṇi-k kīḻ Eṭṭumāviṉāl Iṟai kaṭṭiṉa kā<unclear>ṇi-k-kaṭa</unclear>ṉ <hi rend="grantha">rājak<unclear>e</unclear>sari</hi>yōṭ' okkum <unclear>Ā</unclear>ṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu Aṟunūṟṟu Eḻupattu nāṟkalaṉē Irutūṇi-k kuṟuṇi nāṉāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g> 
-        </p>
-    <p>
-        In-nāṭṭu Ūci-k-kaṇṇaṅ kuṭi-k-k<choice><sic>a</sic><corr>u</corr></choice>ḷ tevatāṉamāy varukiṉṟa nilam Aḷanta-paṭi nilam Aiñc' araiyē Irumāvarai Araikkāṇi-k kīḻ mukkālē mukkāṇi Araikkāṇi muntirikai-k kīḻ nāṉku māvilum 
-        
-        <milestone n="F" unit="zone" type="pagelike" break="no"/><!--Village of Vaṭaviṟaiyāṉ-->
-        
-        <lb n="1=46"/>Ūr-irukkaiyuṅ kuḷamuñ cuṭukāṭum pāṇṭa-vāykkarai-k kulaiyum āka Iṟai-y-ili nilamum <supplied reason="subaudible">m</supplied>ummāvarai Araikkāṇi-k kīḻ mukkā
-        
-        <lb n="2=47" break="no"/>lē mūṉṟumā mukkāṇi-k kīḻ mukkālē Orumā nīkki  Iṟai kaṭṭiṉa nilam Aiñcē Eṭṭumā mukkāṇi Araikkāṇi muntirikai-k 
-        
-        <lb n="3=48"/>kīḻ mukkālē y-iraṇṭumā Araikkāṇi-k kīḻ Eṭṭumāviṉāl Iṟai kaṭṭiṉa kāṇi-kkaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭava
-        
-        <lb n="4=49" break="no"/>llāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu Ai<choice><orig>ññ</orig><reg>nn</reg></choice>ūṟṟu Orupattu Eṇkalaṉē Irutūṇi Irunāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g> 
-    </p>
-    <p>
-            In-nāṭṭu ārva
-            <lb n="5=50" break="no"/>la-k kūṟṟattu vaṭaviṟaiyāṉ paḷḷam Aḷanta-paṭi nilam Irupattu nālē kālē Araikkāṇi-k kīḻ Oṉpatumā-k kāṇi A
-            <lb n="6=51" break="no"/>raikkāṇi-k kīḻ Eṭṭumāvilum Ivvūr Ūr-nattamuṅ kuḷaṅkaḷuñ cuṭukāṭum Ivvūr nilattai Ūṭaṟuttu-p puṟavūrkaḷu
-            <lb n="7=52" break="no"/>kku nīr pāya-p poṉa vāykkālum Āka Iṟai-y-ili nilam Āṟumā-k kāṇi Araikkāṇi-k kīḻ Āṟumā-k kāṇi Araikkāṇi-k kīḻ 
-            <lb n="8=53"/>Eṭṭumā nīkki nilam Irupattu mūṉṟē mukkālē mūṉṟumā mukkāṇi-k kīḻ mūṉṟumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājake</hi>
-            <lb n="9=54" break="no"/><hi rend="grantha">sari</hi>yōṭ' okkum Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu Iraṇṭ' āyirattu muṉṉūṟṟu-t toṇ
-        
-        <milestone n="G" unit="zone" type="pagelike" break="no"/><!--Villages of Tirutteṅkūr, Arakkaṉkuṭi, and Piṭāraceri-->
-        
-        <lb n="1=55" break="no"/>ṇūṟṟu mukkalaṉē Irutūṇi-k kuṟuṇi Ai<choice><orig>ññ</orig><reg>nn</reg></choice>āḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g>
-    </p>
-    <p>
-        In-nāṭṭu nakaram tirutteṅkūr Aḷanta-paṭi nilam muppattu nālē kālē mukkāṇi muntirikai-k kīḻ mukkālē Orumā mukkāṇi muntiri 
-        <lb n="2=56" break="no"/>kai-k kīḻ Iraṇṭumāvilum Ivv-ūr Ūr-nattamuṅ kuḷaṅkaḷum pulattil kuḷaṅkaḷum tīṇṭā-c-cēriyum paṟai-c-cēriyuñ cuṭukāṭum Āka Iṟaiyili nilam nāṉk' araiyē mukkāṇi A
-        <lb n="3=57" break="no"/>raikkāṇi-k kīḻ mukkālē Araimā Araikkāṇi muntirikai-k kīḻ nāṉkumā nīkki nilam Irupatt' oṉpataraiyē nāṉkumā mukkāṇi Araikkāṇi muntirikai-k kīḻ Orumā muntirikai-k kīḻ muk
-        <lb n="4=58" break="no"/>kālē mūṉṟumāviṉāl Iṟai kaṭṭiṉa poṉ Irunūṟṟu-t toṇṇūṟṟu Eḻukaḻañcey nālum <supplied reason="subaudible">m</supplied>añcāṭiyum mūṉṟumā mukkāṇi <g ref="sym:flourish-taperOut" type="punctuation">.</g> 
-    </p>
-    <p>
-        vaṭa-kaṭuvāy-āṉa <hi rend="grantha">kṣatriyaśikhā</hi>maṇi vaḷa
-        <lb n="5=59" break="no"/>nāṭṭu-t tirunaṟaiyūr-nāṭṭu Arakkaṉkuṭi Aḷanta-paṭi nilam Eḻē Āṟumā-k kāṇi Araikkāṇi-k kīḻ kāṇi muntirikai-k kīḻ Eṭṭumā mukkāṇi-k kīḻ mukkālē Orumāvilum Ivvūr Ūr
-        <lb n="6=60" break="no"/>nattamuṅ kuḷaṅkaḷālum Iṟai-y-ili nilam Eṭṭumā-k kāṇi-k kīḻ Oṉpatumā nīkki nilam Āṟē mukk<unclear>ā</unclear>lē mūṉṟumā muntirikai-k kīḻ Araiyē mākāṇi muntirikai-k kīḻ Eṭṭumā 
-        <lb n="7=61"/>mukkāṇi-k kīḻ mukkālē Orumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' o<unclear>kku</unclear>m Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu Aṟunūṟṟu
-        <lb n="8=62"/>Aiympattu Aṟukalaṉē Eḻukuṟuṇi muṉṉāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g> 
-    </p>
-    <p>
-        In-nāṭṭu-p piṭāraceri Aḷanta-paṭi nilam Aiñc' araiyē Iraṇṭumā mukkāṇi muntirikai-k kīḻ Araiyē muntirikai-k kīḻ 
-        <lb n="9=63"/>Araiyē Iraṇṭumāvilum Ivv-ūr Ūr-nattamuṅ kuḷaṅkaḷum Āka Iṟai-y-ili nilam nāṉkumā-k kā<unclear>ṇi A</unclear>raikkāṇi muntirikai-k kīḻ mākāṇi Araikkāṇi-k kīḻ Eṭṭumā nīkki nilam Aiñcē
-    
-        <milestone n="H" unit="zone" type="pagelike" break="no"/><!--Villages of Maṇaṟkālappaḷḷi and Peṇpaḷḷi-->
-        
-        <lb n="1=64"/>Eṭṭumā-k kāṇi Araikkāṇi-k kīḻ Eṇmāvarai Araikkāṇi muntirikai-k kīḻ nāṉku māviṉāl Iṟai ka
-        <lb n="2=65" break="no"/>ṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-ka
-        <lb n="3=66" break="no"/>ṭava nellu Ai<choice><orig>ññ</orig><reg>nn</reg></choice>ūṟṟu muppatt' aiṅkala<choice><orig>n</orig><reg>ṉ</reg></choice>ē Irutūṇi-p-patakku nāṉāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g>
-    </p>
-    <p>
-        In-nāṭṭu veḷā-nāṭṭu
-        <lb n="4=67" break="no"/>maṇaṟ kāla-p paḷḷiyun tiṟappāṉ <hi rend="grantha">mahādevar<note><foreign>virāma</foreign> is marked in this sole instance.</note> de</hi>vatāṉaṅkaḷum tiruvaṭikaḷ <hi rend="grantha">de</hi>vatāṉaṅkaḷum
-        <lb n="5=68"/>Ivv-ūrōṭum Ēṟiṉa peṇpaḷḷiyum Āka Aḷanta-paṭi nilam Ai<surplus>y</surplus>mpatt' oṉṟē mukkā
-        <lb n="6=69" break="no"/>lē Orumā-k kāṇi munt<choice><sic>a</sic><corr>i</corr></choice>rikai-k kīḻ mukkālē mummāvarai y-araikkāṇi-k kīḻ Araiyi
-        <lb n="7=70" break="no"/>lum Ūr-nattaṅkaḷuṅ kuḷaṅkaḷum piṭāri kōyilum peruvaḻiyum Āka Iṟai-y-ili nīṅku ni
-        <lb n="8=71" break="no"/>lam Oṉṟē mukkālē Iraṇṭumā-k kāṇi muntirikai-k kīḻ Araiyē Iraṇṭumā
-        <lb n="9=72" break="no"/>k kāṇi-k kīḻ mukkālē Orumā nīkki nilam nāṟpatt' onpatē mukkālē nāṉkumāvi
-    
-        <milestone n="I" unit="zone" type="pagelike" break="no"/><!--Villages of Nerkuppai and Maruttuvakkuṭi-->
-        
-        <lb n="1=73" break="no"/>ṉ kīḻ Āṟumā-k kāṇi muntirikai-k kīḻ Araiyē nāṉkumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava n<supplied reason="lost">ellu</supplied> <gap reason="lost" quantity="4" unit="character"/>
-        <lb n="2=74" break="no"/>rattu-t toḷāyiratt' orupatt' eṇkala<choice><orig>n</orig><reg>ṉ</reg></choice>ē Irutūṇi mukkuṟuṇi Orunāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g> </p>
-        <p>
-            Aricilukkuṅ kāvīrikku naṭu-v-āṉa Uyyakkoṇṭār-vaḷa-nāṭṭu-t tiraimūr-nāṭṭu-p paḷḷi-c-cantam Iṟaṅkiṉa neṟkuppai A<supplied reason="lost">ḷanta-paṭi ni</supplied>
-            <lb n="3=75" break="no"/>lam muppatt' oṉpatē mukkāṇi Araikkāṇi muntirikai-k kīḻ Arai<unclear>yē</unclear> Araikkāṇi muntirikai-k kīḻ nāṉkumāvilum Ūr-nattattāluṅ kuḷaṅkaḷāluñ cuṭukāṭṭālum <supplied reason="lost">vv-ūr nilattai</supplied>
-            
-            <lb n="4=76"/>Ūṭaṟuttu-k kīḻ-nāṭṭukku nīr pāya-p poṉa Āṟukaḷālum vāykkālkaḷālum Āka Iṟai-y-ili nīṅku nilam Oṉṟ' araiyē mummāvarai Araikkāṇi-k kīḻ Araiyē Orumā A<supplied reason="lost">raikkāṇi</supplied>
-            
-            <lb n="5=77"/>muntirikai-k kīḻ nāṉkumā nīkki nilam muppatt' eḻē Eḻumā-k kāṇi-k kīḻ mukkālē nāṉkumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ Eṉ<supplied reason="lost">ṉum ma</supplied>
-            
-            <lb n="6=78" break="no"/>rakālāl Aḷakka-k-kaṭava nellu mū-v-āyiratt' eḻunūṟṟu Irupatt' irukala<choice><orig>n</orig><reg>ṉ</reg></choice>ē Ai<choice><orig>ññ</orig><reg>nn</reg></choice>āḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g>
-        </p>
-        <p>
-            vaṭakarai <hi rend="grantha">rājendra</hi>-ciṅka-vaḷa-nāṭṭu Iṉṉampar-nāṭṭu maruttuva-k-kuṭi Aḷanta-paṭi nilam <supplied reason="lost">muppat</supplied>
-            
-            <lb n="7=79" break="no"/>t' araiyē nāṉkumā mukkāṇi Araikkāṇi-k kīḻ Araiyē mūṉṟumāvilum Ūr-irukkaiyum <hi rend="grantha">śrī</hi>-kōyilkaḷālun tirumuṟṟaṅkaḷālun tirunan=tavaṉaṅkaḷālum paṟai-c-cēri<supplied reason="lost">yālum</supplied>
-            
-            <lb n="8=80"/>cuṭukāṭum Āka Iṟai-y-ili nīṅku nilam mukkālē Iraṇṭumā Araikkāṇi-k kīḻ o
-            Or<unclear>u</unclear>māvarai muntirikai nīkki nilam Irupatt' oṉpatē mukkālē Iraṇṭumā mukkāṇi-k kīḻ Arai<supplied reason="lost" cert="low">yē Oru</supplied>  
-            <lb n="9=81" break="no"/>mākāṇi Araikkāṇi muntirikaiyiṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okku<supplied reason="lost">m Āṭavallā</supplied>ṉ Eṉṉum marak<supplied reason="lost">kāl</supplied>āl Aḷakka-k-kaṭava nellu Iraṇṭ' āyirattu-t toḷāyirattu Aṟupatt' eḻukala<choice><orig>n</orig><reg>ṉ</reg></choice>ē Irutūṇi-p patakku irunāḻi 
-            
-        </p>
-        </div>
-        
-        
-        
-        <div type="translation" source="bib:Hultzsch1895_01">
-            <!-- <p>
-                1. Hail! Prosperity! There was engraved on stone, as orally settled, the revenue <supplied reason="explanation"><foreign>kāṇikkaṭaṉ</foreign></supplied> in paddy,–which has to be measured by the <foreign>marakkāl</foreign> called <supplied reason="subaudible">after</supplied> Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>;–and the gold and the money <supplied reason="explanation"><foreign>kācu</foreign></supplied>, which have to be paid from the land paying taxes; and <supplied reason="subaudible">there was also engraved on stone</supplied> the land free from taxes,–including the village-site <supplied reason="explanation"><foreign>ūr-nattam</foreign></supplied>, the sacred temples <supplied reason="explanation"><foreign>śrīkōyil</foreign></supplied>, the ponds <supplied reason="explanation"><foreign>kuḷam</foreign></supplied>, the channels <supplied reason="explanation"><foreign>vāykkāl</foreign></supplied> passing through <supplied reason="subaudible">the villages</supplied>, the <foreign>paṟai-c-cēri</foreign>, the <foreign>kammāṇa-cēri</foreign>, and the burning-ground <supplied reason="explanation"><foreign>cuṭukāṭu</foreign></supplied>,–in the villages, which the lord Śrī-Rājarājadeva had given in the Cōḻa country and in other countries as divine gifts <supplied reason="explanation"><foreign>devadāna</foreign></supplied> for the expenses <supplied reason="explanation"><foreign>nibandha</foreign></supplied> required by the supreme lord <supplied reason="explanation"><foreign>paramasvāmin</foreign></supplied>of the sacred stone-temple <supplied reason="explanation"><foreign>tirukkaṟṟaḷi</foreign></supplied>, <supplied reason="subaudible">called</supplied> śrī-Rājarājēśvara,–which the lord śrī-Rājarājadeva had caused to be built at Tañjāvūr,–until the twenty-ninth year <supplied reason="subaudible">of the reign</supplied> of kō-Rājakēsarivarman, <foreign>alias</foreign> śrī-Rājarājadeva, who,–while his heart rejoiced, that, like the goddess of fortune, the goddess of the great earth had become his wife,–in his life of growing strength, during which, having been pleased to cut the vessel in the hall at Kāntaḷūr, he conquered by his army, which was victorious in great battles, Vēṅkai-nāṭu, Gaṅga-pāṭi, Taṭigai-pāṭi, Nuḷampa-pāṭi, Kuṭamalai-nāṭu, Kollam, Kaliṅkam, Īḻa-maṇṭalam, which was the country of the Ciṅkaḷas who possessed rough strength, the seven and a half <foreign>lakṣas</foreign> of Iraṭṭa-pāṭi, and twelve thousand ancient islands of the sea, deprived the Ceḻiyas of their splendour, while he was resplendent <supplied reason="explanation">to such a degree</supplied> that he was worthy to be worshipped everywhere.
-                </p>
-                
                 <p>
-                2. <supplied reason="subaudible">The village of</supplied> Pālaiyūr in Iṅkaṇāṭu, a <supplied reason="subaudible">subdivision</supplied> of Teṉ-Kaṭuvāy, <foreign>alias</foreign> Arumoḻideva-vaḷa-nāṭu, <supplied reason="explanation">contains</supplied>, according to measurement, one hundred and thirty-four <supplied reason="explanation">measures of</supplied> land and eight twentieths; 1/320 of three quarters, three twentieths, one fortieth, one hundred-and-sixtieth and one three-hundred-and-twentieth; and 1/320 of four twentieths, including the Jaina temple <supplied reason="explanation"><foreign>paḷḷi</foreign></supplied> and <supplied reason="subaudible">the land</supplied> enjoyed by the community of Jaina teachers <supplied reason="explanation"><foreign>gaṇimuṟṟūṭṭu</foreign></supplied>. There have to be deducted nine <supplied reason="subaudible">measures of</supplied> land free from taxes, one eightieth, one hundred-and-sixtieth and one three-hundred-and-twentieth; and 1/320 of one half, consisting of the village-site, the ponds, the Kammāṇacēri, the Paṟaiccēri, the burning-ground, and the channels which pass through the land of this village. <supplied reason="subaudible">There remain</supplied> one hundred and twenty-five measures of land paying taxes, seven twentieths, one fortieth and one three-hundred-and-twentieth; 1/320 of eight twentieths, one fortieth, one hundred-and-sixtieth and one three-hundred-and-twentieth; and 1/320 of four twentieths. The revenue paid as tax is twelve thousand five hundred and thirty <foreign>kalam</foreign>, two <foreign>tūṇi</foreign>, <supplied reason="subaudible">one</supplied> <foreign>kuṟuṇi</foreign> and one <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>
+                    In-nāṭṭu Uccipāṭi Aḷanta paṭi nilam Aimpattu Eḻaraiyē Orumā mukkāṇi Araikkāṇi muntirikai-k kīḻ Araiyē nāṉkumā mukkāṇiyilum Ūr-irukkaiyuṅ kuḷaṅkaḷum <hi rend="grantha">śrī</hi>-kōyilkaḷum Īḻa-c-cēriyum ka
+                    <lb n="5=41" break="no"/>mmāṉa ceriyum paṟai-c-cēriyuñ cuṭukāṭum Āka Iraiy-i-ili <unclear>nila</unclear>m Oṉṟē mukkālē mūṉṟumā mukkāṇi Araikkāṇi muntirikai-k kīḻ Irumāvarai muntirikai-k kīḻ Araiyē Iraṇṭumā nīkki Iṟai kaṭṭiṉa nilam Aiympattaiñcaraiyē mūṉṟumāviṉ kīḻ Araiyē Iraṇṭumā v-araikkāṇi-k kīḻ Eṭṭumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ Eṉṉum marakkālā
+                    <lb n="6=42" break="no"/>l Aḷakka-k-kaṭava nellu Ai<surplus>y</surplus>yāyirattu Ai<choice><orig>ññ</orig><reg>nn</reg></choice>ūṟṟu Irupa<unclear>t</unclear>tu <unclear>A</unclear>ṟukalaṉē-y tūṇi nāṉāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                 </p>
                 <p>
-                3. <supplied reason="subaudible">The village of</supplied> Ārappāḻ in the same <foreign>nāṭu</foreign> <supplied reason="subaudible">contains</supplied>, according to measurement, one hundred and eleven <supplied reason="subaudible">measures of</supplied> land, six twentieths, one fortieth and one hundred-and-sixtieth; 1/320 of three quarters and one eighth; and 1/320 of one half and two twentieths, including the <foreign>nāyvālam</foreign>,<supplied reason="subaudible">the land</supplied> enjoyed by the physician <supplied reason="explanation"><foreign>maruttuvappeṟu</foreign></supplied>, and the Jaina temple. There have to be deducted three <supplied reason="subaudible">measures of</supplied> land free from taxes, one half, four twentieths, one eightieth and one hundred-and-sixtieth, <supplied reason="subaudible">consisting of</supplied> the village-site, the ponds, the sacred temple, the temple of Aiyaṉ, the temple of Pitāri, the ponds in paddy-fields <supplied reason="explanation"><foreign>kaḻaṉi</foreign></supplied>, and the site of the Paṟaiccēri. <supplied reason="subaudible">There remain</supplied> one hundred and seven <supplied reason="subaudible">measures of</supplied> land paying taxes, one half, two twentieths and one eightieth; 1/320 of three quarters and one eighth; and 1/320 of one half and two twentieths. The revenue paid as tax is ten thousand seven hundred and forty-five <foreign>kalam</foreign>, two <foreign>tūṇi</foreign>, one <foreign>patakku</foreign> and three <foreign>nāḻi</foreign> of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>.
-                </p>
-                
-                <p>
-                4. <supplied reason="subaudible">The village of</supplied> Kīraṉtēvaṉkuṭi in the same nāṭu <supplied reason="subaudible">contains</supplied> forty-two measures of land, three quarters, four twentieths, one eightieth and one three-hundred-and-twentieth; 1/320 of one half, three twentieths, three eightieths and one hundred-and-sixtieth; and 1/320 of eight twentieths. There have to be deducted two measures of land free from taxes, one twentieth, one fortieth, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of four twentieths and one three-hundred-and-twentieth; and 1/320 of one half and two twentieths, consisting of the village-site, the sacred temple and its flower-garden, and the ponds. <supplied reason="subaudible">There remain</supplied> forty measures of land paying taxes, three quarters, two twentieths, one fortieth and one hundred-and-sixtieth; 1/320 of nine twentieths and three eightieths; and 1/320 of three quarters and one twentieth. The revenue paid as tax is four thousand and seventy <foreign>kalam</foreign>, five <foreign>kuṟuṇi</foreign> and five <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ.
+                    In-nāṭṭu-k kīḻ vaṭuka-k kuṭi Aḷanta paṭi nilam Irupatt' eḻaraiyē Orumāvarai Araikkāṇi-k kīḻ nāṉkumā Araikkāṇi muntirikai-k kīḻ nāṉkumāvilum Ūr-irukkaiyum kuḷamum <hi rend="grantha">śrī</hi>-kōyilkaḷum cuṭukāṭum Īḻa-c-cēriyuṅ kammāṇa-cēriyum paṟai-c-cēriyum vaṇṇāra-c-cēriyum paṟai-k-kuḷa-k kuḻiyum 
+                    <lb n="7=43"/>Āka Iṟai-y-ili nilam Oṉṟē Iraṇṭumā v-araikkāṇi mu<unclear>ntirikai</unclear>-k kīḻ mūṉṟumā-k kāṇi Araikkāṇi-k kīḻ Eṭṭumā nīkki Iṟai kaṭṭiṉa nilam Irupatt' āṟē-y Oṉpatumā-k kāṇi Araikkāṇi muntirikai-k kīḻ mukkāṇi-k kīḻ mukkālē Orumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu Iraṇṭ' āyirattu Aṟunūṟṟu nāṟ
+                    <lb n="8=44" break="no"/>pattu Aṟukalaṉē mukkuṟuṇi Eḻunāḻi <g ref="sym:flourish-taperOut" type="symbol">*</g> 
                 </p>
                 <p>
-                5. <supplied reason="subaudible">The village of</supplied> Nākaṉk<gap reason="undefined"></gap> in the same nāṭu <supplied reason="subaudible">contains</supplied> <supplied reason="lost">twenty-two measures of land, one half</supplied>, two twentieths, three eightieths and one hundred-and-sixtieth; 1/320 of two twentieths, one fortieth and one hundred-and-sixtieth; and 1/320 of eight twentieths. There have to be deducted three quarters of a measure of land free from taxes, one twentieth, one hundred-and-sixtieth and one three-hundred-and-twentieth; and 1/320 of two twentieths and one fortieth, consisting of the village-site, the ponds, the temple of Aiyaṉ, <gap reason="undefined"></gap> the channels which pass through the land of this village, and the burning-ground. <supplied reason="subaudible">There remain</supplied> twenty-one measures of land paying taxes, three quarters, one twentieth, one fortieth, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of one hundred-and-sixtieth; and 1/320 of eight twentieths. The revenue paid as tax is two thousand one hundred and eighty-three <foreign>kalam</foreign>, five <foreign>kuṟuṇi</foreign> and four <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, <gap reason="undefined"></gap>
+                    In-nāṭṭu-k kañcāṟa<unclear>ṉa</unclear>kar <gap reason="lost" quantity="1" unit="character"/> Aḷanta paṭi nilam Āṟē mukkālē Iraṇṭumā mukkāṇi Araikkāṇi muntirikai-k kīḻ mukkālē Orumā mukkāṇi-k kīḻ mukkālē Orumāvilum Ivvūr-k kuḷaṅkaḷāl Iṟai-y-ili nilam Orumā mukkāṇi Araikkāṇi muntirikai-k kīḻ Aṟumā-k kāṇi Araikkāṇi-k kīḻ Eṭṭumā nīkk<choice><sic>ī</sic><corr>i</corr></choice> Iṟai kaṭṭiṉa nilam Āṟē mukkālē Orumāviṉ kīḻ Araiyē kāṇi 
+                    <lb n="9=45"/>Araikkāṇi-k kīḻ Eṭṭumāviṉāl Iṟai kaṭṭiṉa kā<unclear>ṇi-k-kaṭa</unclear>ṉ <hi rend="grantha">rājak<unclear>e</unclear>sari</hi>yōṭ' okkum <unclear>Ā</unclear>ṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu Aṟunūṟṟu Eḻupattu nāṟkalaṉē Irutūṇi-k kuṟuṇi nāṉāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g> 
                 </p>
                 <p>
-                6.<gap reason="undefined"></gap> There have to be deducted five measures of land free from taxes; 1/320 of one half, three twentieths and three eightieths; and 1/320 of three quarters and one twentieth, <supplied reason="subaudible">consisting of</supplied> <gap reason="undefined"></gap> the <foreign>paṟaiccēri</foreign>, the ponds and the water-courses. <supplied reason="subaudible">There remain</supplied> one hundred and fifteen measures of land paying taxes, one quarter, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of one half, three twentieths and one three-hundred-and-twentieth; and 1/320 of one half and two twentieths. The revenue paid as tax is eleven thousand five hundred and twenty-six <foreign>kalam</foreign>, one kuṟuṇi and seven <foreign>nāḻi</foreign>of paddy, <gap reason="undefined"></gap> which is equal to a <foreign>rājakesari</foreign>.
+                    In-nāṭṭu Ūci-k-kaṇṇaṅ kuṭi-k-k<choice><sic>a</sic><corr>u</corr></choice>ḷ tevatāṉamāy varukiṉṟa nilam Aḷanta paṭi nilam Aiñc' araiyē Irumāvarai Araikkāṇi-k kīḻ mukkālē mukkāṇi Araikkāṇi muntirikai-k kīḻ nāṉku māvilum 
+                    
+                    <milestone n="F" unit="zone" type="pagelike" break="no"/><!--Village of Vaṭaviṟaiyāṉ-->
+                    
+                    <lb n="1=46"/>Ūr-irukkaiyuṅ kuḷamuñ cuṭukāṭum pāṇṭa-vāykkarai-k kulaiyum āka Iṟai-y-ili nilamum <supplied reason="subaudible">m</supplied>ummāvarai Araikkāṇi-k kīḻ mukkā
+                    
+                    <lb n="2=47" break="no"/>lē mūṉṟumā mukkāṇi-k kīḻ mukkālē Orumā nīkki  Iṟai kaṭṭiṉa nilam Aiñcē Eṭṭumā mukkāṇi Araikkāṇi muntirikai-k 
+                    
+                    <lb n="3=48"/>kīḻ mukkālē y-iraṇṭumā Araikkāṇi-k kīḻ Eṭṭumāviṉāl Iṟai kaṭṭiṉa kāṇi-kkaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭava
+                    
+                    <lb n="4=49" break="no"/>llāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu Ai<choice><orig>ññ</orig><reg>nn</reg></choice>ūṟṟu Orupattu Eṇkalaṉē Irutūṇi Irunāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g> 
                 </p>
                 <p>
-                7.	<supplied reason="subaudible">The village of</supplied> Taṇṇīrkkuṉṟam, <foreign>alias</foreign> Rājarāja-nallūr, in the same <foreign>nāṭu</foreign> <supplied reason="subaudible">contains</supplied>, according to measurement, thirty-six <supplied reason="subaudible">measures of</supplied> land, one half, one twentieth, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of three quarters, one twentieth and one eightieth; and 1/320 of three quarters and one twentieth. There have to be deducted two <supplied reason="subaudible">measures of</supplied> land free from taxes, seven twentieths, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of three quarters, one twentieth, one fortieth and one three-hundred-and twentieth; and 1/320 of one half and two twentieths, consisting of the village-site, the ponds, the sacred temples, the burning-ground, the <foreign>paṟaiccēri</foreign>, <gap reason="undefined"></gap> and the channels which pass through the land of this village to other villages. <supplied reason="subaudible">There remain</supplied> thirty-four <supplied reason="subaudible">measures of</supplied> land, three twentieths, three eightieths, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of three quarters, four twentieths, one fortieth, one hundred-and-sixtieth and one three-hundred-and-twentieth; and 1/320 of four twentieths. The revenue paid as tax is three thousand three hundred and seventy-eight <foreign>kalam</foreign>, one padakku and four <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>.
+                    In-nāṭṭu ārva
+                    <lb n="5=50" break="no"/>la-k kūṟṟattu vaṭaviṟaiyāṉ paḷḷam Aḷanta paṭi nilam Irupattu nālē kālē Araikkāṇi-k kīḻ Oṉpatumā-k kāṇi A
+                    <lb n="6=51" break="no"/>raikkāṇi-k kīḻ Eṭṭumāvilum Ivvūr Ūr-nattamuṅ kuḷaṅkaḷuñ cuṭukāṭum Ivvūr nilattai Ūṭaṟuttu-p puṟavūrkaḷu
+                    <lb n="7=52" break="no"/>kku nīr pāya-p poṉa vāykkālum Āka Iṟai-y-ili nilam Āṟumā-k kāṇi Araikkāṇi-k kīḻ Āṟumā-k kāṇi Araikkāṇi-k kīḻ 
+                    <lb n="8=53"/>Eṭṭumā nīkki nilam Irupattu mūṉṟē mukkālē mūṉṟumā mukkāṇi-k kīḻ mūṉṟumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājake</hi>
+                    <lb n="9=54" break="no"/><hi rend="grantha">sari</hi>yōṭ' okkum Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu Iraṇṭ' āyirattu muṉṉūṟṟu-t toṇ
+                    
+                    <milestone n="G" unit="zone" type="pagelike" break="no"/><!--Villages of Tirutteṅkūr, Arakkaṉkuṭi, and Piṭāraceri-->
+                    
+                    <lb n="1=55" break="no"/>ṇūṟṟu mukkalaṉē Irutūṇi-k kuṟuṇi Ai<choice><orig>ññ</orig><reg>nn</reg></choice>āḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                 </p>
                 <p>
-                8.	<supplied reason="subaudible">The village of</supplied> Uccipāṭi in the same nāṭu <supplied reason="subaudible">contains</supplied>, according to measurement, fifty-seven measures of land, one half, one twentieth, three eightieths, one hundred-and-sixtieth and one three-hundred-and-twentieth; and 1/320 of one half, four twentieths and three eightieths. There have to be deducted one measure of land free from taxes, three quarters, three twentieths, three eightieths, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of two twentieths, one fortieth and one three-hundred-and-twentieth; and 1/320 of one half and two twentieths, consisting of the village-site, the ponds, the sacred temples, the Īḻaccēri. <supplied reason="subaudible">There remain</supplied> fifty-five measures of land paying taxes, one half and three twentieths; 1/320 of one half, two twentieths and one hundred-and-sixtieth; and 1/320 of eight twentieths. The revenue paid as tax is hundred and twenty-six <foreign>kalam</foreign>, one <foreign>tūṇi</foreign> and four <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>.
+                    In-nāṭṭu nakaram tirutteṅkūr Aḷanta paṭi nilam muppattu nālē kālē mukkāṇi muntirikai-k kīḻ mukkālē Orumā mukkāṇi muntiri 
+                    <lb n="2=56" break="no"/>kai-k kīḻ Iraṇṭumāvilum Ivv-ūr Ūr-nattamuṅ kuḷaṅkaḷum pulattil kuḷaṅkaḷum tīṇṭā-c-cēriyum paṟai-c-cēriyuñ cuṭukāṭum Āka Iṟaiyili nilam nāṉk' araiyē mukkāṇi A
+                    <lb n="3=57" break="no"/>raikkāṇi-k kīḻ mukkālē Araimā Araikkāṇi muntirikai-k kīḻ nāṉkumā nīkki nilam Irupatt' oṉpataraiyē nāṉkumā mukkāṇi Araikkāṇi muntirikai-k kīḻ Orumā muntirikai-k kīḻ muk
+                    <lb n="4=58" break="no"/>kālē mūṉṟumāviṉāl Iṟai kaṭṭiṉa poṉ Irunūṟṟu-t toṇṇūṟṟu Eḻukaḻañcey nālum <supplied reason="subaudible">m</supplied>añcāṭiyum mūṉṟumā mukkāṇi <g ref="sym:flourish-taperOut" type="punctuation">.</g> 
                 </p>
                 <p>
-                9.<supplied reason="subaudible">The village of</supplied> Kīḻ-Vaṭukakkuṭi in the same nāṭu <supplied reason="subaudible">contains</supplied>, according to measurement, twenty-seven measures of land, one half, one twentieth, one fortieth and one hundred-and-sixtieth; 1/320 of four twentieths, one hundred-and-sixtieth and one three-hundred-and-twentieth; and 1/320 of four twentieths. There have to be deducted one measure of land free from taxes, two twentieths, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of three twentieths, one eightieth and one hundred-and-sixtieth; and 1/320 of eight twentieths, consisting of the village-site, the ponds, the sacred temples, the burning-ground, the <foreign>īḻaccēri</foreign>, the <foreign>kammāṇacēri</foreign>, the <foreign>paṟaiccēri</foreign>, the <foreign>vaṇṇāraccēri</foreign>, the ponds and wells of the <foreign>paṟaiyas</foreign>. <supplied reason="subaudible">There remain</supplied> twenty-six measures of land paying taxes, nine twentieths, one eightieth, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of three eightieths; and 1/320 of three quarters and one twentieth. The revenue paid as tax is two thousand six hundred of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>.
+                    vaṭa-kaṭuvāy-āṉa <hi rend="grantha">kṣatriyaśikhā</hi>maṇi vaḷa
+                    <lb n="5=59" break="no"/>nāṭṭu-t tirunaṟaiyūr-nāṭṭu Arakkaṉkuṭi Aḷanta paṭi nilam Eḻē Āṟumā-k kāṇi Araikkāṇi-k kīḻ kāṇi muntirikai-k kīḻ Eṭṭumā mukkāṇi-k kīḻ mukkālē Orumāvilum Ivvūr Ūr
+                    <lb n="6=60" break="no"/>nattamuṅ kuḷaṅkaḷālum Iṟai-y-ili nilam Eṭṭumā-k kāṇi-k kīḻ Oṉpatumā nīkki nilam Āṟē mukk<unclear>ā</unclear>lē mūṉṟumā muntirikai-k kīḻ Araiyē mākāṇi muntirikai-k kīḻ Eṭṭumā 
+                    <lb n="7=61"/>mukkāṇi-k kīḻ mukkālē Orumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' o<unclear>kku</unclear>m Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu Aṟunūṟṟu
+                    <lb n="8=62"/>Aiympattu Aṟukalaṉē Eḻukuṟuṇi muṉṉāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g> 
                 </p>
                 <p>
-                10. <supplied reason="subaudible">The village of</supplied> Kañjāṟaṉakara in <supplied reason="subaudible">contains</supplied>, according to measurement, six measures of land, three quarters, two twentieths, three eightieths, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of three quarters, one twentieth and three eightieths; and 1/320 of three quarters and one twentieth. There have to be deducted one twentieth of a measure of land free from taxes, three eightieths, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of six twentieths, one eightieth and one hundred-and-sixtieth; and 1/320 of eight twentieths, consisting of the ponds of this village. <supplied reason="subaudible">There remain</supplied> six measures of land paying taxes, three quarters and one twentieth; 1/320 of one half, one eightieth and one hundred-and-sixtieth; and 1/320 of eight twentieths. The revenue paid as tax is six hundred and seventy-four <foreign>kalam</foreign>, two <foreign>tūṇi</foreign>, one kuṟuṇi and four <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>.
+                    In-nāṭṭu-p piṭāraceri Aḷanta paṭi nilam Aiñc' araiyē Iraṇṭumā mukkāṇi muntirikai-k kīḻ Araiyē muntirikai-k kīḻ 
+                    <lb n="9=63"/>Araiyē Iraṇṭumāvilum Ivv-ūr Ūr-nattamuṅ kuḷaṅkaḷum Āka Iṟai-y-ili nilam nāṉkumā-k kā<unclear>ṇi A</unclear>raikkāṇi muntirikai-k kīḻ mākāṇi Araikkāṇi-k kīḻ Eṭṭumā nīkki nilam Aiñcē
+                    
+                    <milestone n="H" unit="zone" type="pagelike" break="no"/><!--Villages of Maṇaṟkālappaḷḷi and Peṇpaḷḷi-->
+                    
+                    <lb n="1=64"/>Eṭṭumā-k kāṇi Araikkāṇi-k kīḻ Eṇmāvarai Araikkāṇi muntirikai-k kīḻ nāṉku māviṉāl Iṟai ka
+                    <lb n="2=65" break="no"/>ṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-ka
+                    <lb n="3=66" break="no"/>ṭava nellu Ai<choice><orig>ññ</orig><reg>nn</reg></choice>ūṟṟu muppatt' aiṅkala<choice><orig>n</orig><reg>ṉ</reg></choice>ē Irutūṇi-p-patakku nāṉāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                 </p>
                 <p>
-                11.	The land, which is a divine gift, in <supplied reason="subaudible">The village of</supplied> Ūcikkaṇṇaṅguṭi in the same nāṭu <supplied reason="subaudible">contains</supplied>, according to measurement, five measures of land, one half, two twentieths, one fortieth and one hundred-and-sixtieth; 1/320 of three quarters, three eightieths, one hundred-and-sixtieth and one three-hundred-and-twentieth; and 1/320 of four twentieths. There have to be deducted three twentieths of a measure of land free from taxes, one fortieth and one hundred-and-sixtieth; 1/320 of three quarters, three twentieths and three eightieths; and 1/320 of three quarters and one twentieth, consisting of the village-site, the ponds, the burning-ground, and the causeway on the bank of the Pāṇṭavāy river. <supplied reason="subaudible">There remain</supplied> five measures of land paying taxes, eight twentieths, three eightieths, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of three quarters, two twentieths and one hundred-and-sixtieth; and 1/320 of eight twentieths. The revenue paid as tax is five hundred and eighteen <foreign>kalam</foreign>, two <foreign>tūṇi</foreign> and two <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>.
+                    In-nāṭṭu veḷā-nāṭṭu
+                    <lb n="4=67" break="no"/>maṇaṟ kāla-p paḷḷiyun tiṟappāṉ <hi rend="grantha">mahādevar<note><foreign>virāma</foreign> is marked in this sole instance.</note> de</hi>vatāṉaṅkaḷum tiruvaṭikaḷ <hi rend="grantha">de</hi>vatāṉaṅkaḷum
+                    <lb n="5=68"/>Ivv-ūrōṭum Ēṟiṉa peṇpaḷḷiyum Āka Aḷanta paṭi nilam Ai<surplus>y</surplus>mpatt' oṉṟē mukkā
+                    <lb n="6=69" break="no"/>lē Orumā-k kāṇi munt<choice><sic>a</sic><corr>i</corr></choice>rikai-k kīḻ mukkālē mummāvarai y-araikkāṇi-k kīḻ Araiyi
+                    <lb n="7=70" break="no"/>lum Ūr-nattaṅkaḷuṅ kuḷaṅkaḷum piṭāri kōyilum peruvaḻiyum Āka Iṟai-y-ili nīṅku ni
+                    <lb n="8=71" break="no"/>lam Oṉṟē mukkālē Iraṇṭumā-k kāṇi muntirikai-k kīḻ Araiyē Iraṇṭumā
+                    <lb n="9=72" break="no"/>k kāṇi-k kīḻ mukkālē Orumā nīkki nilam nāṟpatt' onpatē mukkālē nāṉkumāvi
+                    
+                    <milestone n="I" unit="zone" type="pagelike" break="no"/><!--Villages of Nerkuppai and Maruttuvakkuṭi-->
+                    
+                    <lb n="1=73" break="no"/>ṉ kīḻ Āṟumā-k kāṇi muntirikai-k kīḻ Araiyē nāṉkumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava n<supplied reason="lost">ellu</supplied> <gap reason="lost" quantity="4" unit="character"/>
+                    <lb n="2=74" break="no"/>rattu-t toḷāyiratt' orupatt' eṇkala<choice><orig>n</orig><reg>ṉ</reg></choice>ē Irutūṇi mukkuṟuṇi Orunāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g> </p>
+                <p>
+                    Aricilukkuṅ kāvīrikku naṭu-v-āṉa Uyyakkoṇṭār-vaḷa-nāṭṭu-t tiraimūr-nāṭṭu-p paḷḷi-c-cantam Iṟaṅkiṉa neṟkuppai A<supplied reason="lost">ḷanta-paṭi ni</supplied>
+                    <lb n="3=75" break="no"/>lam muppatt' oṉpatē mukkāṇi Araikkāṇi muntirikai-k kīḻ Arai<unclear>yē</unclear> Araikkāṇi muntirikai-k kīḻ nāṉkumāvilum Ūr-nattattāluṅ kuḷaṅkaḷāluñ cuṭukāṭṭālum <supplied reason="lost">vv-ūr nilattai</supplied>
+                    
+                    <lb n="4=76"/>Ūṭaṟuttu-k kīḻ-nāṭṭukku nīr pāya-p poṉa Āṟukaḷālum vāykkālkaḷālum Āka Iṟai-y-ili nīṅku nilam Oṉṟ' araiyē mummāvarai Araikkāṇi-k kīḻ Araiyē Orumā A<supplied reason="lost">raikkāṇi</supplied>
+                    
+                    <lb n="5=77"/>muntirikai-k kīḻ nāṉkumā nīkki nilam muppatt' eḻē Eḻumā-k kāṇi-k kīḻ mukkālē nāṉkumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ Eṉ<supplied reason="lost">ṉum ma</supplied>
+                    
+                    <lb n="6=78" break="no"/>rakālāl Aḷakka-k-kaṭava nellu mū-v-āyiratt' eḻunūṟṟu Irupatt' irukala<choice><orig>n</orig><reg>ṉ</reg></choice>ē Ai<choice><orig>ññ</orig><reg>nn</reg></choice>āḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                 </p>
                 <p>
-                12.	<supplied reason="subaudible">The village of</supplied> Vaṭaviṟaiyāṉpaḷḷam in Ārvalakkūṟṟam, a subdivision of the same nāṭu, <supplied reason="subaudible">contains</supplied>, according to measurement, twenty-four measures of land, one quarter and one hundred-and-sixtieth; 1/320 of nine twentieths, one eightieth and one hundred-and-sixtieth; and 1/320 of eight twentieths. There have to be deducted six twentieths of a measure of land free from taxes, one eightieth and one hundred-and-sixtieth; 1/320 of six twentieths, one eightieth and one hundred-and-sixtieth; and 1/320 of eight twentieths, consisting of the village-site, the ponds of this village, the burning-ground, and the channels which pass through the land of this village and supply water to other villages. <supplied reason="subaudible">There remain</supplied> twenty-three measures of land, three quarters, three twentieths and three eightieths; and 1/320 of three twentieths. The revenue paid as tax is two thousand three hundred and ninety-three <foreign>kalam</foreign>, two <foreign>tūṇi</foreign>, one kuṟuṇi and five <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>.
+                    vaṭakarai <hi rend="grantha">rājendra</hi>-ciṅka-vaḷa-nāṭṭu Iṉṉampar-nāṭṭu maruttuva-k-kuṭi Aḷanta paṭi nilam <supplied reason="lost">muppat</supplied>
+                    
+                    <lb n="7=79" break="no"/>t' araiyē nāṉkumā mukkāṇi Araikkāṇi-k kīḻ Araiyē mūṉṟumāvilum Ūr-irukkaiyum <hi rend="grantha">śrī</hi>-kōyilkaḷālun tirumuṟṟaṅkaḷālun tirunan=tavaṉaṅkaḷālum paṟai-c-cēri<supplied reason="lost">yālum</supplied>
+                    
+                    <lb n="8=80"/>cuṭukāṭum Āka Iṟai-y-ili nīṅku nilam mukkālē Iraṇṭumā Araikkāṇi-k kīḻ o
+                    Or<unclear>u</unclear>māvarai muntirikai nīkki nilam Irupatt' oṉpatē mukkālē Iraṇṭumā mukkāṇi-k kīḻ Arai<supplied reason="lost" cert="low">yē Oru</supplied>  
+                    <lb n="9=81" break="no"/>mākāṇi Araikkāṇi muntirikaiyiṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okku<supplied reason="lost">m Āṭavallā</supplied>ṉ Eṉṉum marak<supplied reason="lost">kāl</supplied>āl Aḷakka-k-kaṭava nellu Iraṇṭ' āyirattu-t toḷāyirattu Aṟupatt' eḻukala<choice><orig>n</orig><reg>ṉ</reg></choice>ē Irutūṇi-p patakku irunāḻi 
+                    
                 </p>
-                <p>
-                13.	Tirutteṅkūr, a town in the same nāṭu, <supplied reason="subaudible">contains</supplied>, according to measurement, thirty-four measures of land, one quarter, three eightieths and one three-hundred-and-twentieth; 1/320 of three quarters, one twentieth, three eightieths and one three-hundred-and-twentieth; and 1/320 of two twentieths. There have to be deducted four measures of land free from taxes, one half, three eightieths and one hundred-and-sixtieth; 1/320 of three quarters, one fortieth, one hundred-and-sixtieth and one three-hundred-and twentieth; and 1/320 of four twentieths, consisting of the village-site, the ponds of this village, the ponds in the fields, the Tiṇṭāccēri, the Paṟaiccēri and the burning-ground. <supplied reason="subaudible">There remain</supplied> twenty-nine measures of land, one half, four twentieths, three eightieths, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of one twentieth and one three-hundred-and-twentieth; and 1/320 of three quarters and three twentieths. The gold paid as tax is two hundred and ninety-seven kaḻañju, four mañjāṭi, three tenths and three fortieths.
-                </p>
-                <p>
-                14.	<supplied reason="subaudible">The village of</supplied> Arakkaṉkuṭi in Tirunaṟaiyūr-nāṭu, a subdivision of Vaṭa-Kaṭuvāy, alias Kshatriyacikhāmaṇi-vaḷanāṭu, <supplied reason="subaudible">contains</supplied>, according to measurement, seven measures of land, six twentieths, one eightieth and one hundred-and-sixtieth; 1/320 of one eightieth and one three-hundred-and-twentieth; 1/320 of eight twentieths and three eightieths; and 1/320³ of three quarters and one twentieth. There have to be deducted eight twentieths of a measure of land free from taxes and one eightieth; and 1/320 of nine twentieths, consisting of the village-site and the ponds of this village. <supplied reason="subaudible">There remain</supplied> six measures of land, three quarters, three twentieths and one three-hundred-and-twentieth; 1/320 of one half, one twentieth, one eightieth and one three-hundred-and-twentieth; 1/320 of eight twentieths and three eightieths; and 1/320³ of three quarters and one twentieth. The revenue paid as tax is six hundred and fifty-six <foreign>kalam</foreign>, seven kuṟuṇi and three <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>.</p>
-                <p>
-                15. <supplied reason="subaudible">The village of</supplied> Piṭāracēri in the same <foreign>nāṭu</foreign> <supplied reason="subaudible">contains</supplied>, according to measurement, <supplied reason="subaudible">five measures of</supplied> land, one half, two twentieths, three eightieths and one three-hundred-and-twentieth; 1/320 of one half and one three-hundred-and-twentieth; and 1/320 of one half and two twentieths. There have to be deducted four twentieths <supplied reason="subaudible">of a measure</supplied> of land free from taxes, one eightieth, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of one twentieth, one eightieth and one hundred-and-sixtieth; and 1/320 of eight twentieths, consisting of the village-site and the ponds of this village. <supplied reason="subaudible">There remain</supplied> five measures of land, eight twentieths, one eightieth and one hundred-and-sixtieth; 1/320 of eight twentieths, one fortieth, one hundred-and-sixtieth and one three-hundred-and-twentieth; and 1/320 of four twentieths. The revenue paid as tax is five hundred and thirty-five <foreign>kalam</foreign>, two <foreign>tūṇi</foreign>, one <foreign>patakku</foreign> and four <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>.</p>
-                <p>
-                16.	<supplied reason="subaudible">The village of</supplied> Maṇaṟkālappaḷḷi, the divine gifts to Tiṟappāṉ Mahādevar, the divine gifts to Tiruvaṭikaḷ, and <supplied reason="subaudible">the village of</supplied> Peṇpaḷḷi, which adjoins this village <supplied reason="subaudible">of Maṇaṟkālappaḷḷi</supplied>, in Vēḷānāṭu, <supplied reason="subaudible">a subdivision</supplied> of the same nāṭu, contain, according to measurement, fifty-one <supplied reason="subaudible">measures of</supplied> land, three quarters, one twentieth, one eightieth and one three-hundred-and-twentieth; 1/320 of three quarters, three twentieths, one fortieth and one hundred-and-sixtieth; and 1/320 of one half. There have to be deducted one <supplied reason="subaudible">measure of</supplied> land free from taxes, three quarters, two twentieths, one eightieth and one three-hundred-and-twentieth; 1/320 of one half, two twentieths and one eightieth; and 1/320 of three quarters and one twentieth, consisting of the village-sites, the ponds, the temple of Piṭāri, and the high-road <supplied reason="subaudible"><foreign>peruvaḻi</foreign></supplied>. <supplied reason="subaudible">There remain</supplied> forty-nine <supplied reason="subaudible">measures of</supplied> land, three quarters and four twentieths; 1/320 of six twentieths, one eightieth and one three-hundred-and-twentieth; and 1/320 of one half and four twentieths. The revenue paid as tax is thousand nine hundred and eighteen <foreign>kalam</foreign>, two <foreign>tūṇi</foreign>, three <foreign>kuṟuṇi</foreign> and one <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>.
-                </p>
-                <p>
-                17.	<supplied reason="subaudible">The village of</supplied> Neṟkuppai, in which a <foreign>paḷḷi-c-cantam</foreign> is established, in Tiraimūr-nāṭu, <supplied reason="subaudible">a subdivision</supplied> of Uyyakkoṇṭār-vaḷanāṭu, which is situated between the Aricil and Kāvīri rivers, <supplied reason="subaudible">contains</supplied>, <supplied reason="subaudible">according to measurement,</supplied> thirty-nine <supplied reason="subaudible">measures of</supplied> land, three eightieths, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of one half, one hundred-and-sixtieth and one three-hundred-and-twentieth; and 1/320 of four twentieths. There have to be deducted one <supplied reason="subaudible">measure of</supplied> land free from taxes, one half, three twentieths, one fortieth and one hundred-and-sixtieth; 1/320 of one half, one twentieth, <supplied reason="lost">one hundred-and-sixtieth</supplied> and one three-hundred-and-twentieth; and 1/320 of four twentieths, consisting of the village-site, the ponds, the burning-ground, and the rivers and channels which pass through <supplied reason="lost">the land of this village</supplied> and supply water to the eastern country. <supplied reason="subaudible">There remain</supplied> thirty-seven <supplied reason="subaudible">measures of</supplied> land, seven twentieths and one eightieth; and 1/320 of three quarters and four twentieths. The revenue paid as tax is three thousand seven hundred and twenty-two <foreign>kalam</foreign> and five <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>.
-                </p>
-                <p>
-                18.	<supplied reason="subaudible">The village of</supplied> Maruttuvakkuṭi in Iṉṉampar-nāṭu, <supplied reason="subaudible">a subdivision</supplied> of Vaṭakarai-Rājēndrasiṁha-vaḷanāṭu, <supplied reason="subaudible">contains</supplied>, according to measurement, <supplied reason="lost">thirty</supplied> <supplied reason="subaudible">measures of</supplied> land, one half, four twentieths, three eightieths and one hundred-and-sixtieth; and 1/320 of one half and three twentieths. There have to be deducted three quarters of a measure of land free from taxes, two twentieths and one hundred-and-sixtieth; and 1/320 of one twentieth, one fortieth and one three-hundred-and-twentieth, consisting of the village-site, the sacred temples and their sacred courts <supplied reason="explanation"><foreign>tirumuṟṟam</foreign></supplied> and sacred flower-gardens, the <foreign>paṟaiccēri</foreign> and the burning-ground. <supplied reason="subaudible">There remain</supplied> twenty-nine <supplied reason="explanation">measures of</supplied> land, three quarters, two twentieths and three eightieths; and 1/320 of one half, one twentieth, one eightieth, one hundred-and-sixtieth and one three-hundred-and-twentieth. The revenue paid as tax is two thousand nine hundred and sixty-seven <foreign>kalam</foreign>, two <foreign>tūṇi</foreign>, one padakku and two <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>.
-                </p>
-            -->
+            </div>
             
             
-        </div>
-        
-        <div type="apparatus">
-            <listApp>
-                <app loc="19">
-                    <lem>paḷḷi y-uṭpaṭa Aḷanta-paṭi nilam nāṟpattu</lem>
-                    <rdg source="bib:Hultzsch1895_01">
-                        <gap reason="lost" quantity="8" unit="character"/>
-                    </rdg>
-                </app>
-            </listApp>
-            <listApp>
-                <app loc="20">
-                    <lem>paṟai-c-cēri nattamuṅ kammāṇa-cēri nattamum</lem>
-                    <rdg source="bib:Hultzsch1895_01">
-                        <gap reason="lost" quantity="6" unit="character"/>
-                    </rdg>
-                </app>
-            </listApp>
             
-            <listApp>
-                <app loc="21">
-                    <lem>-k kīḻ Araiyē Iraṇṭu mā nīkki Iṟai kaṭṭi</lem>
-                    <rdg source="bib:Hultzsch1895_01">
-                        <gap reason="lost" quantity="7" unit="character"/>
-                    </rdg>
-                </app>
-            </listApp>
-            <listApp>
-                <app loc="22">
-                    <lem>kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭava</lem>
-                    <rdg source="bib:Hultzsch1895_01">
-                        <gap reason="lost" quantity="7" unit="character"/>
-                    </rdg>
-                </app>
-            </listApp>
-            
-            <listApp>
-                <app loc="23">
-                    <lem>kaṉkuṭi Aḷanta-paṭi nilam Irupattu Iraṇṭ' arai</lem>
-                    <rdg source="bib:Hultzsch1895_01">
-                        <gap reason="lost" quantity="5" unit="character"/>
-                    </rdg>
-                </app>
-            </listApp>
-            <listApp>
-                <app loc="24">
-                    <lem>kōyilum piṭāri kōyilun tīṇṭā-c-cēri</lem>
-                    <rdg source="bib:Hultzsch1895_01">
-                        <gap reason="lost" quantity="10" unit="character"/>
-                    </rdg>
-                </app>
-            </listApp>
-            <listApp>
-                <app loc="25">
-                    <lem>muntirikai-k kīḻ Irumāvarai nīkki Iṟai kaṭṭiṉa</lem>
-                    <rdg source="bib:Hultzsch1895_01">
-                        <gap reason="lost" quantity="9" unit="character"/>
-                    </rdg>
-                </app>
-            </listApp>
-            <listApp>
-                <app loc="26">
-                    <lem>ṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭaval</lem>
-                    <rdg source="bib:Hultzsch1895_01">
-                        <gap reason="lost" quantity="9" unit="character"/>
-                    </rdg>
-                </app>
-            </listApp>
-            <listApp>
-                <app loc="27">
-                    <lem><g ref="sym:flourish-taperOut-complex" type="symbol">*</g> <g ref="sym:flourish-taperOut-complex" type="symbol">*</g> <g ref="sym:flourish-taperOut" type="symbol">*</g> <g ref="sym:flourish-taperOut-complex" type="symbol">*</g> <g ref="sym:flourish-taperOut-complex" type="symbol">*</g> <g ref="sym:flourish-taperOut" type="symbol">*</g> <g ref="sym:flourish-taperOut" type="symbol">*</g> </lem>
-                    <rdg source="bib:Hultzsch1895_01">
-                        <gap reason="lost" quantity="6" unit="character"/>
-                    </rdg>
-                </app>
-            </listApp>
-            
-            <listApp>
-                <app loc="37">
-                    <lem>kīḻ Eṭṭumāvilum Ūr-irukkaiyum <hi rend="grantha">śrī</hi>-kōyilu<supplied reason="lost">m</supplied> <unclear>paṟai</unclear></lem>
-                    <rdg source="bib:Hultzsch1895_01"> <gap reason="lost" quantity="10" unit="character"/> <unclear>paṟai</unclear>
-                    </rdg>
-                </app>
-            </listApp>
-            <listApp>
-                <app loc="38">
-                    <lem>Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava</lem>
-                    <rdg source="bib:Hultzsch1895_01"> <gap reason="lost" quantity="10" unit="character"/> <unclear>ṭa</unclear>va
-                    </rdg>
-                </app>
-            </listApp>
-            <listApp>
-                <app loc="39">
-                    <lem>-r vāykkāl niṉṟum kulai y-uṭaintu kuṭṭam iṭṭa nilamum Ivvūr</lem>
-                    <rdg source="bib:Hultzsch1895_01"> <gap reason="lost" quantity="10" unit="character"/> nilamum
-                    </rdg>
-                </app>
-            </listApp>
-            <listApp>
-                <app loc="40">
-                    <lem>kīḻ nāṉkumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">r<supplied reason="lost">ā</supplied>jakesari</hi>
-                    </lem>
-                    <rdg source="bib:Hultzsch1895_01"> <gap reason="lost" quantity="10" unit="character"/> <hi rend="grantha">jakesari</hi>
-                    </rdg>
-                </app>
-            </listApp>
-            <listApp>
-                <app loc="41">
-                    <lem>mmāṉa ceriyum paṟai-c-cēriyuñ cuṭukāṭum Āka</lem>
-                    <rdg source="bib:Hultzsch1895_01"> <gap reason="lost" quantity="10" unit="character"/> ka
-                    </rdg>
-                </app>
-            </listApp>
-            <listApp>
-                <app loc="42">
-                    <lem>l Aḷakka-k-kaṭava nellu Ai<surplus>y</surplus>yāyirattu Ai<choice><orig>ññ</orig><reg>nn</reg></choice>ūṟṟu</lem>
-                    <rdg source="bib:Hultzsch1895_01"> <gap reason="lost" quantity="10" unit="character"/> ṟṟu
-                    </rdg>
-                </app>
-            </listApp>
-            <listApp>
-                <app loc="43">
-                    <lem>Āka Iṟai-y-ili nilam Oṉṟē Iraṇṭumā v-araikkāṇi</lem>
-                    <rdg source="bib:Hultzsch1895_01"> r<unclear>ai</unclear>kkāṇi 
-                    </rdg>
-                </app>
-            </listApp>
-            <listApp>
-                <app loc="44">
-                    <lem>pattu Aṟukalaṉē mukkuṟuṇi Eḻunāḻi <g ref="sym:flourish-taperOut" type="symbol">*</g> 
-                        In-nāṭṭu</lem>
-                    <rdg source="bib:Hultzsch1895_01"> <gap reason="lost" quantity="10" unit="character"/> āṭṭu
-                    </rdg>
-                </app>
-            </listApp>
-            <listApp>
-                <app loc="45">
-                    <lem>Araikkāṇi-k kīḻ Eṭṭumāviṉāl Iṟai kaṭṭiṉa</lem>
-                    <rdg source="bib:Hultzsch1895_01"> <gap reason="lost" quantity="10" unit="character"/> ṉa
-                    </rdg>
-                </app>
-            </listApp>
-            <listApp>
-                <app loc="45">
-                    <lem>In-nāṭṭu Ūcikaṇṇaṅkuṭi</lem>
-                    <rdg source="bib:Hultzsch1895_01">In-nāṭṭu Ūcakaṇṇaṅkuṭi 
-                    </rdg>
-                </app>
-            </listApp>
-            <listApp>
-                <app loc="52">
-                    <lem>kku n<choice><sic>i</sic><corr>ī</corr></choice>r pāya</lem>
-                    <rdg source="bib:Hultzsch1895_01">kku nīr pāya
-                    </rdg>
-                </app>
+            <div type="translation" source="bib:Hultzsch1895_01">
+                <!-- <p>
+                    1. Hail! Prosperity! There was engraved on stone, as orally settled, the revenue <supplied reason="explanation"><foreign>kāṇikkaṭaṉ</foreign></supplied> in paddy,–which has to be measured by the <foreign>marakkāl</foreign> called <supplied reason="subaudible">after</supplied> Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>;–and the gold and the money <supplied reason="explanation"><foreign>kācu</foreign></supplied>, which have to be paid from the land paying taxes; and <supplied reason="subaudible">there was also engraved on stone</supplied> the land free from taxes,–including the village-site <supplied reason="explanation"><foreign>ūr-nattam</foreign></supplied>, the sacred temples <supplied reason="explanation"><foreign>śrīkōyil</foreign></supplied>, the ponds <supplied reason="explanation"><foreign>kuḷam</foreign></supplied>, the channels <supplied reason="explanation"><foreign>vāykkāl</foreign></supplied> passing through <supplied reason="subaudible">the villages</supplied>, the <foreign>paṟai-c-cēri</foreign>, the <foreign>kammāṇa-cēri</foreign>, and the burning-ground <supplied reason="explanation"><foreign>cuṭukāṭu</foreign></supplied>,–in the villages, which the lord Śrī-Rājarājadeva had given in the Cōḻa country and in other countries as divine gifts <supplied reason="explanation"><foreign>devadāna</foreign></supplied> for the expenses <supplied reason="explanation"><foreign>nibandha</foreign></supplied> required by the supreme lord <supplied reason="explanation"><foreign>paramasvāmin</foreign></supplied>of the sacred stone-temple <supplied reason="explanation"><foreign>tirukkaṟṟaḷi</foreign></supplied>, <supplied reason="subaudible">called</supplied> śrī-Rājarājēśvara,–which the lord śrī-Rājarājadeva had caused to be built at Tañjāvūr,–until the twenty-ninth year <supplied reason="subaudible">of the reign</supplied> of kō-Rājakēsarivarman, <foreign>alias</foreign> śrī-Rājarājadeva, who,–while his heart rejoiced, that, like the goddess of fortune, the goddess of the great earth had become his wife,–in his life of growing strength, during which, having been pleased to cut the vessel in the hall at Kāntaḷūr, he conquered by his army, which was victorious in great battles, Vēṅkai-nāṭu, Gaṅga-pāṭi, Taṭigai-pāṭi, Nuḷampa-pāṭi, Kuṭamalai-nāṭu, Kollam, Kaliṅkam, Īḻa-maṇṭalam, which was the country of the Ciṅkaḷas who possessed rough strength, the seven and a half <foreign>lakṣas</foreign> of Iraṭṭa-pāṭi, and twelve thousand ancient islands of the sea, deprived the Ceḻiyas of their splendour, while he was resplendent <supplied reason="explanation">to such a degree</supplied> that he was worthy to be worshipped everywhere.
+                    </p>
+                    
+                    <p>
+                    2. <supplied reason="subaudible">The village of</supplied> Pālaiyūr in Iṅkaṇāṭu, a <supplied reason="subaudible">subdivision</supplied> of Teṉ-Kaṭuvāy, <foreign>alias</foreign> Arumoḻideva-vaḷa-nāṭu, <supplied reason="explanation">contains</supplied>, according to measurement, one hundred and thirty-four <supplied reason="explanation">measures of</supplied> land and eight twentieths; 1/320 of three quarters, three twentieths, one fortieth, one hundred-and-sixtieth and one three-hundred-and-twentieth; and 1/320 of four twentieths, including the Jaina temple <supplied reason="explanation"><foreign>paḷḷi</foreign></supplied> and <supplied reason="subaudible">the land</supplied> enjoyed by the community of Jaina teachers <supplied reason="explanation"><foreign>gaṇimuṟṟūṭṭu</foreign></supplied>. There have to be deducted nine <supplied reason="subaudible">measures of</supplied> land free from taxes, one eightieth, one hundred-and-sixtieth and one three-hundred-and-twentieth; and 1/320 of one half, consisting of the village-site, the ponds, the Kammāṇacēri, the Paṟaiccēri, the burning-ground, and the channels which pass through the land of this village. <supplied reason="subaudible">There remain</supplied> one hundred and twenty-five measures of land paying taxes, seven twentieths, one fortieth and one three-hundred-and-twentieth; 1/320 of eight twentieths, one fortieth, one hundred-and-sixtieth and one three-hundred-and-twentieth; and 1/320 of four twentieths. The revenue paid as tax is twelve thousand five hundred and thirty <foreign>kalam</foreign>, two <foreign>tūṇi</foreign>, <supplied reason="subaudible">one</supplied> <foreign>kuṟuṇi</foreign> and one <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>
+                    </p>
+                    <p>
+                    3. <supplied reason="subaudible">The village of</supplied> Ārappāḻ in the same <foreign>nāṭu</foreign> <supplied reason="subaudible">contains</supplied>, according to measurement, one hundred and eleven <supplied reason="subaudible">measures of</supplied> land, six twentieths, one fortieth and one hundred-and-sixtieth; 1/320 of three quarters and one eighth; and 1/320 of one half and two twentieths, including the <foreign>nāyvālam</foreign>,<supplied reason="subaudible">the land</supplied> enjoyed by the physician <supplied reason="explanation"><foreign>maruttuvappeṟu</foreign></supplied>, and the Jaina temple. There have to be deducted three <supplied reason="subaudible">measures of</supplied> land free from taxes, one half, four twentieths, one eightieth and one hundred-and-sixtieth, <supplied reason="subaudible">consisting of</supplied> the village-site, the ponds, the sacred temple, the temple of Aiyaṉ, the temple of Pitāri, the ponds in paddy-fields <supplied reason="explanation"><foreign>kaḻaṉi</foreign></supplied>, and the site of the Paṟaiccēri. <supplied reason="subaudible">There remain</supplied> one hundred and seven <supplied reason="subaudible">measures of</supplied> land paying taxes, one half, two twentieths and one eightieth; 1/320 of three quarters and one eighth; and 1/320 of one half and two twentieths. The revenue paid as tax is ten thousand seven hundred and forty-five <foreign>kalam</foreign>, two <foreign>tūṇi</foreign>, one <foreign>patakku</foreign> and three <foreign>nāḻi</foreign> of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>.
+                    </p>
+                    
+                    <p>
+                    4. <supplied reason="subaudible">The village of</supplied> Kīraṉtēvaṉkuṭi in the same nāṭu <supplied reason="subaudible">contains</supplied> forty-two measures of land, three quarters, four twentieths, one eightieth and one three-hundred-and-twentieth; 1/320 of one half, three twentieths, three eightieths and one hundred-and-sixtieth; and 1/320 of eight twentieths. There have to be deducted two measures of land free from taxes, one twentieth, one fortieth, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of four twentieths and one three-hundred-and-twentieth; and 1/320 of one half and two twentieths, consisting of the village-site, the sacred temple and its flower-garden, and the ponds. <supplied reason="subaudible">There remain</supplied> forty measures of land paying taxes, three quarters, two twentieths, one fortieth and one hundred-and-sixtieth; 1/320 of nine twentieths and three eightieths; and 1/320 of three quarters and one twentieth. The revenue paid as tax is four thousand and seventy <foreign>kalam</foreign>, five <foreign>kuṟuṇi</foreign> and five <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ.
+                    </p>
+                    <p>
+                    5. <supplied reason="subaudible">The village of</supplied> Nākaṉk<gap reason="undefined"></gap> in the same nāṭu <supplied reason="subaudible">contains</supplied> <supplied reason="lost">twenty-two measures of land, one half</supplied>, two twentieths, three eightieths and one hundred-and-sixtieth; 1/320 of two twentieths, one fortieth and one hundred-and-sixtieth; and 1/320 of eight twentieths. There have to be deducted three quarters of a measure of land free from taxes, one twentieth, one hundred-and-sixtieth and one three-hundred-and-twentieth; and 1/320 of two twentieths and one fortieth, consisting of the village-site, the ponds, the temple of Aiyaṉ, <gap reason="undefined"></gap> the channels which pass through the land of this village, and the burning-ground. <supplied reason="subaudible">There remain</supplied> twenty-one measures of land paying taxes, three quarters, one twentieth, one fortieth, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of one hundred-and-sixtieth; and 1/320 of eight twentieths. The revenue paid as tax is two thousand one hundred and eighty-three <foreign>kalam</foreign>, five <foreign>kuṟuṇi</foreign> and four <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, <gap reason="undefined"></gap>
+                    </p>
+                    <p>
+                    6.<gap reason="undefined"></gap> There have to be deducted five measures of land free from taxes; 1/320 of one half, three twentieths and three eightieths; and 1/320 of three quarters and one twentieth, <supplied reason="subaudible">consisting of</supplied> <gap reason="undefined"></gap> the <foreign>paṟaiccēri</foreign>, the ponds and the water-courses. <supplied reason="subaudible">There remain</supplied> one hundred and fifteen measures of land paying taxes, one quarter, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of one half, three twentieths and one three-hundred-and-twentieth; and 1/320 of one half and two twentieths. The revenue paid as tax is eleven thousand five hundred and twenty-six <foreign>kalam</foreign>, one kuṟuṇi and seven <foreign>nāḻi</foreign>of paddy, <gap reason="undefined"></gap> which is equal to a <foreign>rājakesari</foreign>.
+                    </p>
+                    <p>
+                    7.	<supplied reason="subaudible">The village of</supplied> Taṇṇīrkkuṉṟam, <foreign>alias</foreign> Rājarāja-nallūr, in the same <foreign>nāṭu</foreign> <supplied reason="subaudible">contains</supplied>, according to measurement, thirty-six <supplied reason="subaudible">measures of</supplied> land, one half, one twentieth, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of three quarters, one twentieth and one eightieth; and 1/320 of three quarters and one twentieth. There have to be deducted two <supplied reason="subaudible">measures of</supplied> land free from taxes, seven twentieths, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of three quarters, one twentieth, one fortieth and one three-hundred-and twentieth; and 1/320 of one half and two twentieths, consisting of the village-site, the ponds, the sacred temples, the burning-ground, the <foreign>paṟaiccēri</foreign>, <gap reason="undefined"></gap> and the channels which pass through the land of this village to other villages. <supplied reason="subaudible">There remain</supplied> thirty-four <supplied reason="subaudible">measures of</supplied> land, three twentieths, three eightieths, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of three quarters, four twentieths, one fortieth, one hundred-and-sixtieth and one three-hundred-and-twentieth; and 1/320 of four twentieths. The revenue paid as tax is three thousand three hundred and seventy-eight <foreign>kalam</foreign>, one padakku and four <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>.
+                    </p>
+                    <p>
+                    8.	<supplied reason="subaudible">The village of</supplied> Uccipāṭi in the same nāṭu <supplied reason="subaudible">contains</supplied>, according to measurement, fifty-seven measures of land, one half, one twentieth, three eightieths, one hundred-and-sixtieth and one three-hundred-and-twentieth; and 1/320 of one half, four twentieths and three eightieths. There have to be deducted one measure of land free from taxes, three quarters, three twentieths, three eightieths, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of two twentieths, one fortieth and one three-hundred-and-twentieth; and 1/320 of one half and two twentieths, consisting of the village-site, the ponds, the sacred temples, the Īḻaccēri. <supplied reason="subaudible">There remain</supplied> fifty-five measures of land paying taxes, one half and three twentieths; 1/320 of one half, two twentieths and one hundred-and-sixtieth; and 1/320 of eight twentieths. The revenue paid as tax is hundred and twenty-six <foreign>kalam</foreign>, one <foreign>tūṇi</foreign> and four <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>.
+                    </p>
+                    <p>
+                    9.<supplied reason="subaudible">The village of</supplied> Kīḻ-Vaṭukakkuṭi in the same nāṭu <supplied reason="subaudible">contains</supplied>, according to measurement, twenty-seven measures of land, one half, one twentieth, one fortieth and one hundred-and-sixtieth; 1/320 of four twentieths, one hundred-and-sixtieth and one three-hundred-and-twentieth; and 1/320 of four twentieths. There have to be deducted one measure of land free from taxes, two twentieths, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of three twentieths, one eightieth and one hundred-and-sixtieth; and 1/320 of eight twentieths, consisting of the village-site, the ponds, the sacred temples, the burning-ground, the <foreign>īḻaccēri</foreign>, the <foreign>kammāṇacēri</foreign>, the <foreign>paṟaiccēri</foreign>, the <foreign>vaṇṇāraccēri</foreign>, the ponds and wells of the <foreign>paṟaiyas</foreign>. <supplied reason="subaudible">There remain</supplied> twenty-six measures of land paying taxes, nine twentieths, one eightieth, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of three eightieths; and 1/320 of three quarters and one twentieth. The revenue paid as tax is two thousand six hundred of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>.
+                    </p>
+                    <p>
+                    10. <supplied reason="subaudible">The village of</supplied> Kañjāṟaṉakara in <supplied reason="subaudible">contains</supplied>, according to measurement, six measures of land, three quarters, two twentieths, three eightieths, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of three quarters, one twentieth and three eightieths; and 1/320 of three quarters and one twentieth. There have to be deducted one twentieth of a measure of land free from taxes, three eightieths, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of six twentieths, one eightieth and one hundred-and-sixtieth; and 1/320 of eight twentieths, consisting of the ponds of this village. <supplied reason="subaudible">There remain</supplied> six measures of land paying taxes, three quarters and one twentieth; 1/320 of one half, one eightieth and one hundred-and-sixtieth; and 1/320 of eight twentieths. The revenue paid as tax is six hundred and seventy-four <foreign>kalam</foreign>, two <foreign>tūṇi</foreign>, one kuṟuṇi and four <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>.
+                    </p>
+                    <p>
+                    11.	The land, which is a divine gift, in <supplied reason="subaudible">The village of</supplied> Ūcikkaṇṇaṅguṭi in the same nāṭu <supplied reason="subaudible">contains</supplied>, according to measurement, five measures of land, one half, two twentieths, one fortieth and one hundred-and-sixtieth; 1/320 of three quarters, three eightieths, one hundred-and-sixtieth and one three-hundred-and-twentieth; and 1/320 of four twentieths. There have to be deducted three twentieths of a measure of land free from taxes, one fortieth and one hundred-and-sixtieth; 1/320 of three quarters, three twentieths and three eightieths; and 1/320 of three quarters and one twentieth, consisting of the village-site, the ponds, the burning-ground, and the causeway on the bank of the Pāṇṭavāy river. <supplied reason="subaudible">There remain</supplied> five measures of land paying taxes, eight twentieths, three eightieths, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of three quarters, two twentieths and one hundred-and-sixtieth; and 1/320 of eight twentieths. The revenue paid as tax is five hundred and eighteen <foreign>kalam</foreign>, two <foreign>tūṇi</foreign> and two <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>.
+                    </p>
+                    <p>
+                    12.	<supplied reason="subaudible">The village of</supplied> Vaṭaviṟaiyāṉpaḷḷam in Ārvalakkūṟṟam, a subdivision of the same nāṭu, <supplied reason="subaudible">contains</supplied>, according to measurement, twenty-four measures of land, one quarter and one hundred-and-sixtieth; 1/320 of nine twentieths, one eightieth and one hundred-and-sixtieth; and 1/320 of eight twentieths. There have to be deducted six twentieths of a measure of land free from taxes, one eightieth and one hundred-and-sixtieth; 1/320 of six twentieths, one eightieth and one hundred-and-sixtieth; and 1/320 of eight twentieths, consisting of the village-site, the ponds of this village, the burning-ground, and the channels which pass through the land of this village and supply water to other villages. <supplied reason="subaudible">There remain</supplied> twenty-three measures of land, three quarters, three twentieths and three eightieths; and 1/320 of three twentieths. The revenue paid as tax is two thousand three hundred and ninety-three <foreign>kalam</foreign>, two <foreign>tūṇi</foreign>, one kuṟuṇi and five <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>.
+                    </p>
+                    <p>
+                    13.	Tirutteṅkūr, a town in the same nāṭu, <supplied reason="subaudible">contains</supplied>, according to measurement, thirty-four measures of land, one quarter, three eightieths and one three-hundred-and-twentieth; 1/320 of three quarters, one twentieth, three eightieths and one three-hundred-and-twentieth; and 1/320 of two twentieths. There have to be deducted four measures of land free from taxes, one half, three eightieths and one hundred-and-sixtieth; 1/320 of three quarters, one fortieth, one hundred-and-sixtieth and one three-hundred-and twentieth; and 1/320 of four twentieths, consisting of the village-site, the ponds of this village, the ponds in the fields, the Tiṇṭāccēri, the Paṟaiccēri and the burning-ground. <supplied reason="subaudible">There remain</supplied> twenty-nine measures of land, one half, four twentieths, three eightieths, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of one twentieth and one three-hundred-and-twentieth; and 1/320 of three quarters and three twentieths. The gold paid as tax is two hundred and ninety-seven kaḻañju, four mañjāṭi, three tenths and three fortieths.
+                    </p>
+                    <p>
+                    14.	<supplied reason="subaudible">The village of</supplied> Arakkaṉkuṭi in Tirunaṟaiyūr-nāṭu, a subdivision of Vaṭa-Kaṭuvāy, alias Kshatriyacikhāmaṇi-vaḷanāṭu, <supplied reason="subaudible">contains</supplied>, according to measurement, seven measures of land, six twentieths, one eightieth and one hundred-and-sixtieth; 1/320 of one eightieth and one three-hundred-and-twentieth; 1/320 of eight twentieths and three eightieths; and 1/320³ of three quarters and one twentieth. There have to be deducted eight twentieths of a measure of land free from taxes and one eightieth; and 1/320 of nine twentieths, consisting of the village-site and the ponds of this village. <supplied reason="subaudible">There remain</supplied> six measures of land, three quarters, three twentieths and one three-hundred-and-twentieth; 1/320 of one half, one twentieth, one eightieth and one three-hundred-and-twentieth; 1/320 of eight twentieths and three eightieths; and 1/320³ of three quarters and one twentieth. The revenue paid as tax is six hundred and fifty-six <foreign>kalam</foreign>, seven kuṟuṇi and three <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>.</p>
+                    <p>
+                    15. <supplied reason="subaudible">The village of</supplied> Piṭāracēri in the same <foreign>nāṭu</foreign> <supplied reason="subaudible">contains</supplied>, according to measurement, <supplied reason="subaudible">five measures of</supplied> land, one half, two twentieths, three eightieths and one three-hundred-and-twentieth; 1/320 of one half and one three-hundred-and-twentieth; and 1/320 of one half and two twentieths. There have to be deducted four twentieths <supplied reason="subaudible">of a measure</supplied> of land free from taxes, one eightieth, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of one twentieth, one eightieth and one hundred-and-sixtieth; and 1/320 of eight twentieths, consisting of the village-site and the ponds of this village. <supplied reason="subaudible">There remain</supplied> five measures of land, eight twentieths, one eightieth and one hundred-and-sixtieth; 1/320 of eight twentieths, one fortieth, one hundred-and-sixtieth and one three-hundred-and-twentieth; and 1/320 of four twentieths. The revenue paid as tax is five hundred and thirty-five <foreign>kalam</foreign>, two <foreign>tūṇi</foreign>, one <foreign>patakku</foreign> and four <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>.</p>
+                    <p>
+                    16.	<supplied reason="subaudible">The village of</supplied> Maṇaṟkālappaḷḷi, the divine gifts to Tiṟappāṉ Mahādevar, the divine gifts to Tiruvaṭikaḷ, and <supplied reason="subaudible">the village of</supplied> Peṇpaḷḷi, which adjoins this village <supplied reason="subaudible">of Maṇaṟkālappaḷḷi</supplied>, in Vēḷānāṭu, <supplied reason="subaudible">a subdivision</supplied> of the same nāṭu, contain, according to measurement, fifty-one <supplied reason="subaudible">measures of</supplied> land, three quarters, one twentieth, one eightieth and one three-hundred-and-twentieth; 1/320 of three quarters, three twentieths, one fortieth and one hundred-and-sixtieth; and 1/320 of one half. There have to be deducted one <supplied reason="subaudible">measure of</supplied> land free from taxes, three quarters, two twentieths, one eightieth and one three-hundred-and-twentieth; 1/320 of one half, two twentieths and one eightieth; and 1/320 of three quarters and one twentieth, consisting of the village-sites, the ponds, the temple of Piṭāri, and the high-road <supplied reason="subaudible"><foreign>peruvaḻi</foreign></supplied>. <supplied reason="subaudible">There remain</supplied> forty-nine <supplied reason="subaudible">measures of</supplied> land, three quarters and four twentieths; 1/320 of six twentieths, one eightieth and one three-hundred-and-twentieth; and 1/320 of one half and four twentieths. The revenue paid as tax is thousand nine hundred and eighteen <foreign>kalam</foreign>, two <foreign>tūṇi</foreign>, three <foreign>kuṟuṇi</foreign> and one <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>.
+                    </p>
+                    <p>
+                    17.	<supplied reason="subaudible">The village of</supplied> Neṟkuppai, in which a <foreign>paḷḷi-c-cantam</foreign> is established, in Tiraimūr-nāṭu, <supplied reason="subaudible">a subdivision</supplied> of Uyyakkoṇṭār-vaḷanāṭu, which is situated between the Aricil and Kāvīri rivers, <supplied reason="subaudible">contains</supplied>, <supplied reason="subaudible">according to measurement,</supplied> thirty-nine <supplied reason="subaudible">measures of</supplied> land, three eightieths, one hundred-and-sixtieth and one three-hundred-and-twentieth; 1/320 of one half, one hundred-and-sixtieth and one three-hundred-and-twentieth; and 1/320 of four twentieths. There have to be deducted one <supplied reason="subaudible">measure of</supplied> land free from taxes, one half, three twentieths, one fortieth and one hundred-and-sixtieth; 1/320 of one half, one twentieth, <supplied reason="lost">one hundred-and-sixtieth</supplied> and one three-hundred-and-twentieth; and 1/320 of four twentieths, consisting of the village-site, the ponds, the burning-ground, and the rivers and channels which pass through <supplied reason="lost">the land of this village</supplied> and supply water to the eastern country. <supplied reason="subaudible">There remain</supplied> thirty-seven <supplied reason="subaudible">measures of</supplied> land, seven twentieths and one eightieth; and 1/320 of three quarters and four twentieths. The revenue paid as tax is three thousand seven hundred and twenty-two <foreign>kalam</foreign> and five <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>.
+                    </p>
+                    <p>
+                    18.	<supplied reason="subaudible">The village of</supplied> Maruttuvakkuṭi in Iṉṉampar-nāṭu, <supplied reason="subaudible">a subdivision</supplied> of Vaṭakarai-Rājēndrasiṁha-vaḷanāṭu, <supplied reason="subaudible">contains</supplied>, according to measurement, <supplied reason="lost">thirty</supplied> <supplied reason="subaudible">measures of</supplied> land, one half, four twentieths, three eightieths and one hundred-and-sixtieth; and 1/320 of one half and three twentieths. There have to be deducted three quarters of a measure of land free from taxes, two twentieths and one hundred-and-sixtieth; and 1/320 of one twentieth, one fortieth and one three-hundred-and-twentieth, consisting of the village-site, the sacred temples and their sacred courts <supplied reason="explanation"><foreign>tirumuṟṟam</foreign></supplied> and sacred flower-gardens, the <foreign>paṟaiccēri</foreign> and the burning-ground. <supplied reason="subaudible">There remain</supplied> twenty-nine <supplied reason="explanation">measures of</supplied> land, three quarters, two twentieths and three eightieths; and 1/320 of one half, one twentieth, one eightieth, one hundred-and-sixtieth and one three-hundred-and-twentieth. The revenue paid as tax is two thousand nine hundred and sixty-seven <foreign>kalam</foreign>, two <foreign>tūṇi</foreign>, one padakku and two <foreign>nāḻi</foreign>of paddy, which has to be measured by the <supplied reason="explanation"><foreign>marakkāl</foreign></supplied> called after Āṭavallāṉ, which is equal to a <foreign>rājakesari</foreign>.
+                    </p>
+                -->
                 
                 
-            </listApp>
+            </div>
             
-            
-            
-            
-            
-            
-        </div>		
-        
-        
-        
-        
-        <div type="commentary">
-            
-            <p>
-                At the time of Hultzsch’s edition, a flight of steps blocked this part of the wall. He had already proposed that some <foreign>akṣaras</foreign>, or even an entire section, might have been lost. The new autopsy and photographic documentation reveal that a significant stretch of text, a whole section in fact, is now visible. Therefore, this edition treats this section (Zone D) as the new fourth one. As a result, the subtitles adopted here do not match those in Hultzsch’s edition.
-            </p>
-            <p>
-                This digital edition treats fractional units such as <foreign>mukkāl</foreign>, <foreign>mukkāṇi</foreign>, or <foreign>mākkāṇi</foreign> as single word forms (e.g., <q>iraṇṭē mukkālē nāṉku mākkāṇi</q>), rather than usual segmentation with hyphens (e.g., <q>iraṇṭē mu-k-kālē nāṉku mā-k-kāṇi</q>). In some cases, segmentation could imply arithmetically misleading parsing. For instance, <foreign>eṇmāvarai</foreign> should be written as <foreign>eṇ-mā v-arai</foreign>, which could be then interpreted as <q>8/20 + 1/2</q>. In contrast, here it is kept as such in order to keep the mathematical reading (that is, <q>8/20 + 1/40</q>) aligned with what it is written on the stone. 
-            </p>
-            <p>
-                Therefore, repeated fractional values throughout this record—those that seem to have formed part of a “fractional grid" used to generate specific values—such as <foreign>iraṇṭumā</foreign> <supplied reason="explanation">2/20 = 1/10</supplied> or <foreign>eṭṭumā</foreign> <supplied reason="explanation">8/20 = 2/5</supplied>—are written altogether. Ambiguous strings such as <foreign>nāṉkumākkāṇi</foreign> follow this epigraphic-mathematic segmentation, making it <q><foreign>nāṉkumā + kāṇi</foreign></q> <supplied reason="explanation">4/20 + 1/80</supplied>. Common numeral sequences are spaced in the usual way <supplied reason="explanation">e.g., <foreign>iraṇṭu mākkāṇi</foreign></supplied>. This particular convention aims to preserve a readable epigraphic edition that minimises editorial ambiguity in the interpretation of complex strings of numerals.
-            </p>
-            
-            
-        </div>   
-        
-        
-        
-        
-        
-        
-        <div type="bibliography">
-            
-            <p>First reported, edited, and translated by <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.4).</p>
-            
-            <p>This edition by Renato Dávalos (2025) based on <bibl><ptr target="bib:Hultzsch1895_01"/></bibl>, autopsy (2025) and photographical documentation (E. Francis, 2025; R. Dávalos, 2025)</p>
-            
-            
-            <listBibl type="primary">
+            <div type="apparatus">
+                <listApp>
+                    <app loc="19">
+                        <lem>paḷḷi y-uṭpaṭa Aḷanta paṭi nilam nāṟpattu</lem>
+                        <rdg source="bib:Hultzsch1895_01">
+                            <gap reason="lost" quantity="8" unit="character"/>
+                        </rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <app loc="20">
+                        <lem>paṟai-c-cēri nattamuṅ kammāṇa-cēri nattamum</lem>
+                        <rdg source="bib:Hultzsch1895_01">
+                            <gap reason="lost" quantity="6" unit="character"/>
+                        </rdg>
+                    </app>
+                </listApp>
                 
-                <bibl n="SII">
-                    <ptr target="bib:Hultzsch1895_01"/>
-                    <citedRange unit="page">42-53</citedRange>
-                    <citedRange unit="item">4</citedRange>
-                </bibl>
+                <listApp>
+                    <app loc="21">
+                        <lem>-k kīḻ Araiyē Iraṇṭu mā nīkki Iṟai kaṭṭi</lem>
+                        <rdg source="bib:Hultzsch1895_01">
+                            <gap reason="lost" quantity="7" unit="character"/>
+                        </rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <app loc="22">
+                        <lem>kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭava</lem>
+                        <rdg source="bib:Hultzsch1895_01">
+                            <gap reason="lost" quantity="7" unit="character"/>
+                        </rdg>
+                    </app>
+                </listApp>
                 
-            </listBibl>
+                <listApp>
+                    <app loc="23">
+                        <lem>kaṉkuṭi Aḷanta paṭi nilam Irupattu Iraṇṭ' arai</lem>
+                        <rdg source="bib:Hultzsch1895_01">
+                            <gap reason="lost" quantity="5" unit="character"/>
+                        </rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <app loc="24">
+                        <lem>kōyilum piṭāri kōyilun tīṇṭā-c-cēri</lem>
+                        <rdg source="bib:Hultzsch1895_01">
+                            <gap reason="lost" quantity="10" unit="character"/>
+                        </rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <app loc="25">
+                        <lem>muntirikai-k kīḻ Irumāvarai nīkki Iṟai kaṭṭiṉa</lem>
+                        <rdg source="bib:Hultzsch1895_01">
+                            <gap reason="lost" quantity="9" unit="character"/>
+                        </rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <app loc="26">
+                        <lem>ṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭaval</lem>
+                        <rdg source="bib:Hultzsch1895_01">
+                            <gap reason="lost" quantity="9" unit="character"/>
+                        </rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <app loc="27">
+                        <lem><g ref="sym:flourish-taperOut-complex" type="symbol">*</g> <g ref="sym:flourish-taperOut-complex" type="symbol">*</g> <g ref="sym:flourish-taperOut" type="symbol">*</g> <g ref="sym:flourish-taperOut-complex" type="symbol">*</g> <g ref="sym:flourish-taperOut-complex" type="symbol">*</g> <g ref="sym:flourish-taperOut" type="symbol">*</g> <g ref="sym:flourish-taperOut" type="symbol">*</g> </lem>
+                        <rdg source="bib:Hultzsch1895_01">
+                            <gap reason="lost" quantity="6" unit="character"/>
+                        </rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <app loc="37">
+                        <lem>kīḻ Eṭṭumāvilum Ūr-irukkaiyum <hi rend="grantha">śrī</hi>-kōyilu<supplied reason="lost">m</supplied> <unclear>paṟai</unclear></lem>
+                        <rdg source="bib:Hultzsch1895_01"> <gap reason="lost" quantity="10" unit="character"/> <unclear>paṟai</unclear>
+                        </rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <app loc="38">
+                        <lem>Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava</lem>
+                        <rdg source="bib:Hultzsch1895_01"> <gap reason="lost" quantity="10" unit="character"/> <unclear>ṭa</unclear>va
+                        </rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <app loc="39">
+                        <lem>-r vāykkāl niṉṟum kulai y-uṭaintu kuṭṭam iṭṭa nilamum Ivvūr</lem>
+                        <rdg source="bib:Hultzsch1895_01"> <gap reason="lost" quantity="10" unit="character"/> nilamum
+                        </rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <app loc="40">
+                        <lem>kīḻ nāṉkumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">r<supplied reason="lost">ā</supplied>jakesari</hi>
+                        </lem>
+                        <rdg source="bib:Hultzsch1895_01"> <gap reason="lost" quantity="10" unit="character"/> <hi rend="grantha">jakesari</hi>
+                        </rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <app loc="41">
+                        <lem>mmāṉa ceriyum paṟai-c-cēriyuñ cuṭukāṭum Āka</lem>
+                        <rdg source="bib:Hultzsch1895_01"> <gap reason="lost" quantity="10" unit="character"/> ka
+                        </rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <app loc="42">
+                        <lem>l Aḷakka-k-kaṭava nellu Ai<surplus>y</surplus>yāyirattu Ai<choice><orig>ññ</orig><reg>nn</reg></choice>ūṟṟu</lem>
+                        <rdg source="bib:Hultzsch1895_01"> <gap reason="lost" quantity="10" unit="character"/> ṟṟu
+                        </rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <app loc="43">
+                        <lem>Āka Iṟai-y-ili nilam Oṉṟē Iraṇṭumā v-araikkāṇi</lem>
+                        <rdg source="bib:Hultzsch1895_01"> r<unclear>ai</unclear>kkāṇi 
+                        </rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <app loc="44">
+                        <lem>pattu Aṟukalaṉē mukkuṟuṇi Eḻunāḻi <g ref="sym:flourish-taperOut" type="symbol">*</g> 
+                            In-nāṭṭu</lem>
+                        <rdg source="bib:Hultzsch1895_01"> <gap reason="lost" quantity="10" unit="character"/> āṭṭu
+                        </rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <app loc="45">
+                        <lem>Araikkāṇi-k kīḻ Eṭṭumāviṉāl Iṟai kaṭṭiṉa</lem>
+                        <rdg source="bib:Hultzsch1895_01"> <gap reason="lost" quantity="10" unit="character"/> ṉa
+                        </rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <app loc="45">
+                        <lem>In-nāṭṭu Ūcikaṇṇaṅkuṭi</lem>
+                        <rdg source="bib:Hultzsch1895_01">In-nāṭṭu Ūcakaṇṇaṅkuṭi 
+                        </rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <app loc="52">
+                        <lem>kku n<choice><sic>i</sic><corr>ī</corr></choice>r pāya</lem>
+                        <rdg source="bib:Hultzsch1895_01">kku nīr pāya
+                        </rdg>
+                    </app>
+                    
+                    
+                </listApp>
+                
+                
+                
+                
+                
+                
+            </div>		
             
             
             
-        </div>
+            
+            <div type="commentary">
+                
+                <p>
+                    At the time of Hultzsch’s edition, a flight of steps blocked this part of the wall. He had already proposed that some <foreign>akṣaras</foreign>, or even an entire section, might have been lost. The new autopsy and photographic documentation reveal that a significant stretch of text is now visible at the end of section 3 and that there is one more section (the present section 4) before Hultzsch's section 4 (the present section 5). As a result, the subtitles adopted here do not match those in Hultzsch’s edition.
+                </p>
+                <p>
+                    This digital edition treats fractional units such as <foreign>mukkāl</foreign>, <foreign>mukkāṇi</foreign>, or <foreign>mākkāṇi</foreign> as single word forms (e.g., <q>iraṇṭē mukkālē nāṉku mākkāṇi</q>), rather than usual segmentation with hyphens (e.g., <q>iraṇṭē mu-k-kālē nāṉku mā-k-kāṇi</q>). In some cases, segmentation could imply arithmetically misleading parsing. For instance, <foreign>eṇmāvarai</foreign> should be written as <foreign>eṇ-mā v-arai</foreign>, which could be then interpreted as <q>8/20 + 1/2</q>. In contrast, here it is kept as such in order to keep the mathematical reading (that is, <q>8/20 + 1/40</q>) aligned with what it is written on the stone. 
+                </p>
+                <p>
+                    Therefore, repeated fractional values throughout this record—those that seem to have formed part of a “fractional grid" used to generate specific values—such as <foreign>iraṇṭumā</foreign> <supplied reason="explanation">2/20 = 1/10</supplied> or <foreign>eṭṭumā</foreign> <supplied reason="explanation">8/20 = 2/5</supplied>—are written altogether. Ambiguous strings such as <foreign>nāṉkumākkāṇi</foreign> follow this epigraphic-mathematic segmentation, making it <q><foreign>nāṉkumā + kāṇi</foreign></q> <supplied reason="explanation">4/20 + 1/80</supplied>. Common numeral sequences are spaced in the usual way <supplied reason="explanation">e.g., <foreign>iraṇṭu mākkāṇi</foreign></supplied>. This particular convention aims to preserve a readable epigraphic edition that minimises editorial ambiguity in the interpretation of complex strings of numerals.
+                </p>
+                
+                <p n="C5=23"><foreign>nākaṉakkaṉa-kuṭi</foreign>. The sequence is visually clear, but the toponym remains unattested in any other Tamil inscription. A modern village called Nākaṉkuṭi exists in the Nannilam taluk; however, the emendation would require suppressing several extra <foreign>akṣaras</foreign>, which, given the high degree of accuracy throughout this record, seems very unlikely. No standardised form is proposed; therefore, the name remains in its ambiguous, epigraphic form.</p>
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>First reported, edited, and translated by <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.4).</p>
+                
+                <p>This edition by Renato Dávalos (2025) based on <bibl><ptr target="bib:Hultzsch1895_01"/></bibl>, autopsy (2025) and photographical documentation (E. Francis, 2025; R. Dávalos, 2025).</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:Hultzsch1895_01"/>
+                        <citedRange unit="page">42-53</citedRange>
+                        <citedRange unit="item">4</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                
+                
+            </div>
         </body>
     </text>
 </TEI>
