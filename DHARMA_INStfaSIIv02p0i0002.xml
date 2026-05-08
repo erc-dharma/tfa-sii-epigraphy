@@ -83,10 +83,9 @@
                     <!--<milestone unit="item" n="N"/>
                         <label xml:lang="eng">Northern plinth of the <foreign>vimāna</foreign></label>-->
                     
-                    <lb n="1.1=1"/>
                     <milestone type="pagelike" unit="zone" n="1"/>
                     <label xml:lang="eng">Section 1</label>
-                    <hi rend="grantha">svasti śrī</hi> <g ref="sym:bullet-double-hollow" type="punctuation">.</g>
+                    <lb n="1.1=1"/><hi rend="grantha">svasti śrī</hi> <g ref="sym:bullet-double-hollow" type="punctuation">.</g>
                 </ab>
                 
                 <lg n="1" met="āciriyappā">
@@ -145,10 +144,9 @@
                 <p>
                     yāṇṭu Irupatt’ aiñc-<supplied reason="lost">āva</supplied>tu mutal yāṇṭu Irupatt’ oṉpat<supplied reason="lost">ā</supplied>vatu varai Āṭavallār <hi rend="grantha">dakṣ<choice><sic>a</sic><corr>i</corr></choice></hi>ṇa-mēru-viṭaṅkar nampirāṭṭiyār
                     
-                    <lb n="2.1=8"/>
                     <milestone type="pagelike" unit="zone" n="2"/>
                     <label xml:lang="eng">Section 2</label>
-                    Umāparameśvariyārkkun tañcai-viṭaṅkar nampirāṭṭiyār Umāparameśvariyārkkum śrī-rājarājadevar tirutta
+                    <lb n="2.1=8"/>Umāparameśvariyārkkun tañcai-viṭaṅkar nampirāṭṭiyār Umāparameśvariyārkkum śrī-rājarājadevar tirutta
                     <lb n="2.2=9" break="no"/>makkaiyār vallavaraiyar vandyadevar mahādeviyār kuṭutta poṉṉiṉ tiru-Ābharaṇaṅkaḷum ciṉṉaṅkaḷum
                     <lb n="2.3=10"/>Uḷḷiṭṭaṉa yāṇṭu Irupatt’ aiñcāvatu Inta jagati-p-paṭaiyil Itaṉukku muṉ vaṭakk’ aṭaiya kallil veṭṭiṉa nī
                     <lb n="2.4=11" break="no"/>kki niṉṟaṉa Āṭavallāṉ eṉṉuṅ kallāl niṟai Eṭuttu-k kallil veṭṭiṉa paṭi —
@@ -179,11 +177,10 @@
                     Aṉṉam oṉṟu poṉ toṇṇūṟ<unclear>ṟu</unclear> Eṇ-kaḻañcē kāl <unclear>—</unclear>
                 </p>
                 
-                <p>              		
-                    <lb n="3.1=17"/>
+                <p> 
                     <milestone type="pagelike" unit="zone" n="3"/>
                     <label xml:lang="eng">Section 3</label>
-                    kiḷi Oṉṟil kaṇṇil <unclear>taṭavi-k</unclear> kaṭṭiṉa kallu Iraṇṭ’ uṭpaṭa niṟai poṉ muppattu nāṟ-kaḻañcēy oṉpatu mañcāṭiyuṅ kuṉṟi —
+                    <lb n="3.1=17"/>kiḷi Oṉṟil kaṇṇil <unclear>taṭavi-k</unclear> kaṭṭiṉa kallu Iraṇṭ’ uṭpaṭa niṟai poṉ muppattu nāṟ-kaḻañcēy oṉpatu mañcāṭiyuṅ kuṉṟi —
                 </p>
                 <p>
                     veṇ-cāmarai-k-kai-y O
@@ -236,10 +233,9 @@
                 <p>
                     puṟattuṭar paṭu<unclear>kaṇ</unclear>ṇuṅ kaḷḷip<unclear>pūvu</unclear>ṅ <unclear>k</unclear>ok<unclear>ku</unclear>v<unclear>ā</unclear>yum Uṭpaṭa Oṉṟu poṉ Irupattu nāṟ-kaḻañc’ arai
                     
-                    <lb n="4.1=26" break="no"/>
                     <milestone type="pagelike" unit="zone" n="4" break="no"/>
                     <label xml:lang="eng">Section 4</label>
-                    yē Iraṇṭu mañcāṭiyuṅ kuṉṟi —
+                    <lb n="4.1=26" break="no"/> yē Iraṇṭu mañcāṭiyuṅ kuṉṟi —
                 </p>
                 <p>
                     vayira-cāyalam Oṉṟu poṉ nūṟṟu Irupattu Iru-kaḻañcēy
@@ -278,10 +274,9 @@
                 </p>
                 <p>
                     taḷikai Oṉṟu poṉ nāṉūṟṟu nāṟpattu Eṇ-kaḻañcēy nā         		         		      		        		
-                    <lb n="5.1=35" break="no"/>
                     <milestone type="pagelike" unit="zone" n="5" break="no"/>
                     <label xml:lang="eng">Section 5</label>
-                    lu mañcāṭi —
+                    <lb n="5.1=35" break="no"/>lu mañcāṭi —
                 </p>
                 <p>
                     maṇṭai Oṉṟu poṉ Iru-nūṟṟu-t toṇṇūṟṟu Aṟu kaḻañc’ arai —
@@ -535,7 +530,7 @@
                 </p>
                 
                 <p>
-                    First edited <bibl><ptr target="bib:Hultzsch1891_01"/></bibl> (SII 2, no. 2), with English translation.
+                    First edited <bibl><ptr target="bib:Hultzsch1891_01"/></bibl> (<ref target="DHARMA_INSSIIv02p0i0002">SII 2.2</ref>), with English translation.
                 </p>
                 
                 <p>

@@ -569,7 +569,7 @@
             <div type="bibliography">
                 
                 <!--<p>Reported in <bibl><ptr target="bib:ARIE1934-1935"/></bibl> (ARIE/1934-1935/B/1934-1935/104).</p>-->
-                <p>Edited, with English translation, in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.65).</p>
+                <p>Edited, with English translation, in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (<ref target="DHARMA_INSSIIv02p0i0065">SII 2.65</ref>).</p>
                 <p>This digital edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:Hultzsch1895_01"/></bibl>.</p>
                 
                 <listBibl type="primary">
