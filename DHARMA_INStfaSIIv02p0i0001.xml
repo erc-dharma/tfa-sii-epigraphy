@@ -44,7 +44,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p/>
+                            <p>Medial Grantha <foreign>-ai</foreign> used with Tamil consonants but not consistently: compare <foreign>niṟ<hi rend="grantha">ai</hi></foreign> (line A2.4) and <foreign>niṟai</foreign> (line A6.8).</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -75,10 +75,9 @@
     <text xml:space="preserve">
         <body>
             
-            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-                <!--change class of tamil script, in case we let down the class "Tamil with Grantha"-->
-                <!--create 2 div textpart: Sanskrit portion + Tamil portion? Ask DANIEL-->
-                <!--check break="no" presently encoded with intervening milestone "pagelike partition". Apparently not necessary and <pb> should be introduced. Ask DANIEL-->
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                <!--check against pictures taken in August 2025-->
+                <!--Check grantha -ai with Tamil consonant-->
                 
                 <ab>
                     
@@ -88,7 +87,7 @@
                     <hi rend="grantha">svasti śrī</hi> <g ref="sym:bullet-double-hollow" type="punctuation">.</g>
                 </ab>
                 
-                <lg xml:lang="san-Latn" n="1" met="anuṣṭubh" rendition="class:grantha maturity:83215">
+                <lg xml:lang="san-Latn" n="1" met="anuṣṭubh" rendition="class:grantha maturity:vernacular">
                     <l n="a" enjamb="yes" real="+++--++-">Etat viśva-nṛpa-śreṇi</l>
                     <l n="b" real="+-++-+-+">mauli-mālopalāḷitam<unclear>·</unclear></l> 
                     <l n="c" real="+-++-++-">śāsanaṁ rājarājasya</l>
@@ -102,19 +101,19 @@
                     <l n="4">vēṅkai-nāṭuṅ kaṅka-pāṭiyun</l> 
                     <l n="5">taṭikai-pāṭiyum nuḷampa-pāṭiyuṅ</l>	
                     <l n="6">kuṭamalai-nāṭuṇ kolla<lb n="1.3=3" break="no"/>muṅ kaliṅkamum</l>
-                    <l n="7">Eṇ-ṭicai pukaḻ tara Īḻa-maṇṭalamum</l>
-                    <l n="8">Iraṭṭapāṭi Ēḻ’ arai Ilakkamun</l>
+                    <l n="7">Eṇ-ṭic<hi rend="grantha">ai</hi> pukaḻ tara Īḻa-maṇṭalamum</l>
+                    <l n="8">Iraṭṭapāṭi Ēḻ’ ar<hi rend="grantha">ai</hi> Ilakkamun</l>
                     <l n="9">tiṇ-ṭiṟal veṉṟi-t taṇṭāṟ koṇṭa ta<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice></l>
                     <l n="10">eḻil vaḷar ū<lb n="1.4=4" break="no"/>ḻiyuḷ ellā-yāṇṭun</l>
                     <l n="11">toḻutaka viḷaṅkum yāṇṭē-y</l>
-                    <l n="12">ceḻiyar<unclear>ai</unclear>-t tēcu koḷ</l>         		
+                    <l n="12">ceḻiyar<hi rend="grantha"><unclear>ai</unclear></hi>-t tēcu koḷ</l>         		
                 </lg>
                 
                 <p>
                     kō-<hi rend="grantha">rāja-kesari-varmma</hi>r-āṉa <hi rend="grantha">śrī-rājarāja-de</hi>varkku yāṇṭu I
-                    <lb n="1.5=5" break="no"/>ruppatt’ āṟ-āvatu nāḷ Iru-patiṉāl Uṭaiyār <hi rend="grantha">śrī-rājarāja-de</hi>var tañcāvūr-k kōyili<choice><orig>n</orig><reg>ṉ</reg></choice> uḷḷāl Iru-maṭicōḻa<choice><orig>n</orig><reg>ṉ</reg></choice>iṉ kīḻai-t tiru-ma
+                    <lb n="1.5=5" break="no"/>ruppatt’ āṟ-āvatu nāḷ Iru-patiṉāl Uṭ<hi rend="grantha">ai</hi>yār <hi rend="grantha">śrī-rājarāja-de</hi>var tañcāvūr-k kōyili<choice><orig>n</orig><reg>ṉ</reg></choice> uḷḷāl Iru-maṭicōḻa<choice><orig>n</orig><reg>ṉ</reg></choice>iṉ kīḻ<hi rend="grantha">ai</hi>-t tiru-ma
                     <lb n="1.6=6" break="no"/>ñcana-cālai <hi rend="grantha">dā</hi>ṉañ ceyt-aruḷā-viruntu <hi rend="grantha">pāṇḍya-kulāśa</hi>ni-vaḷanāṭṭu-t tañcāvūr-k-kūṟṟattu-t tañcāvūr nām Eṭuppi<choice><orig>cc</orig><reg>tt</reg></choice>a tiru-k-kaṟṟaḷi
-                    <lb n="1.7=7"/><hi rend="grantha">śrī-rājarājīśvara</hi>m uṭaiyārk=ku nāṅ <unclear>ku</unclear>ṭutta<choice><orig>n</orig><reg>ṉ</reg></choice>avum Akkaṉ kuṭutta<choice><orig>n</orig><reg>ṉ</reg></choice>avum nam peṇṭukaḷ kuṭutta<choice><orig>n</orig><reg>ṉ</reg></choice>avum maṟ<unclear>ṟu</unclear>m kuṭutt<unclear>ā</unclear>r kuṭutta<choice><orig>n</orig><reg>ṉ</reg></choice>avum
+                    <lb n="1.7=7"/><hi rend="grantha">śrī-rājarājīśvara</hi>m-uṭ<hi rend="grantha">ai</hi>yārk=ku nāṅ <unclear>ku</unclear>ṭutta<choice><orig>n</orig><reg>ṉ</reg></choice>avum Akkaṉ kuṭutta<choice><orig>n</orig><reg>ṉ</reg></choice>avum nam peṇṭukaḷ kuṭutta<choice><orig>n</orig><reg>ṉ</reg></choice>avum maṟ<unclear>ṟu</unclear>m kuṭutt<unclear>ā</unclear>r kuṭutta<choice><orig>n</orig><reg>ṉ</reg></choice>avum
                                         
                     <milestone type="pagelike" unit="zone" n="2"/>
                     <label>Section 2</label>
@@ -122,192 +121,192 @@
                 </p>
                 
                 <p>
-                    <lb n="2.2=9"/>yāṇṭu Irupatt’ aiñcāvatu nāḷ muṉṉūṟṟ’ orupatt’ iraṇṭiṉāl Uṭaiyār
-                    <lb n="2.3=10"/><hi rend="grantha">śrī-rājarājade</hi>var kuṭutta <hi rend="grantha">śrī-bali</hi> Eḻuntaruḷum poṉṉiṉ koḷkai<hi rend="grantha">de</hi>var
-                    <lb n="2.4=11"/>Oruvar Āṭavallā<choice><sic>n</sic><corr>ṉ</corr></choice> eṉṉuṅ kallāl niṟai Eṇṇūṟṟ’ irupatt’ oṉpatiṉ ka
-                    <lb n="2.5=12" break="no"/>ḻañcēy mukkālēy mūṉṟu mañcāṭi —
+                    <lb n="2.2=9"/>yāṇṭu Irupatt’ aiñcāvatu nāḷ muṉṉūṟṟ’ orupatt’ iraṇṭiṉāl Uṭ<hi rend="grantha">ai</hi>yār
+                    <lb n="2.3=10"/><hi rend="grantha">śrī-rājarājade</hi>var kuṭutta <hi rend="grantha">śrī-bali</hi> Eḻuntaruḷum poṉṉiṉ koḷk<hi rend="grantha">aide</hi>var
+                    <lb n="2.4=11"/>Oruvar Āṭavallā<choice><sic>n</sic><corr>ṉ</corr></choice> eṉṉuṅ kallāl niṟ<hi rend="grantha">ai</hi> Eṇṇūṟṟ’ irupatt’ oṉpatiṉ ka
+                    <lb n="2.5=12" break="no"/>ḻañcēy mukkālēy mūṉṟu mañcāṭi <g ref="sym:dash" type="punctuation">.</g>
                 </p>         	
                 <p>
                     nāḷatiṉālē-y kuṭutta poṉṉiṉ <hi rend="grantha">pa
-                        <lb n="2.6=13" break="no"/><choice><sic>t</sic><corr>d</corr></choice>māsa</hi>na-<hi rend="grantha">śrī-bali</hi>-t-tālam Oṉṟu mēṟpaṭi kallāl niṟai toḷāyirattu-t to
-                    <lb n="2.7=14" break="no"/><unclear>ṇ</unclear>ṇūṟṟ’ <choice><orig>aiy</orig><reg>ai</reg></choice>ṅ-kaḻañc’ araiyē nālu mañcāṭi —
+                        <lb n="2.6=13" break="no"/><choice><sic>t</sic><corr>d</corr></choice>māsa</hi>na-<hi rend="grantha">śrī-bali</hi>-t-tālam Oṉṟu mēṟpaṭi kallāl niṟ<hi rend="grantha">ai</hi> toḷāyirattu-t to
+                    <lb n="2.7=14" break="no"/><unclear>ṇ</unclear>ṇūṟṟ’ <choice><orig><hi rend="grantha">ai</hi>y</orig><reg>ai</reg></choice>ṅ-kaḻañc’ a<hi rend="grantha">ai</hi>yē nālu mañcāṭi <g ref="sym:dash" type="punctuation">.</g>
                 </p>         	         	
                 <p>     
                     yāṇṭu Irupatt’ āṟ-āvatu nāḷ pati<choice><orig>n</orig><reg>ṉ</reg></choice>āli
                    
                     <milestone type="pagelike" unit="zone" n="3" break="no"/><label>Section 3</label>
-                    <lb n="3.1=15" break="no"/>ṉāl Uṭaiyār <hi rend="grantha">śrī-rājarājade</hi>var kuṭutta poṉṉiṉ tiruppaṭṭam Oṉṟu Āṭavallāṉ eṉṉuṅ kallāl niṟai nāṉūṟṟu-t toṇṇūṟṟ’ oṉpati
-                    <lb n="3.2=16"/>ṉ kaḻañcu —
+                    <lb n="3.1=15" break="no"/>ṉāl Uṭ<hi rend="grantha">ai</hi>yār <hi rend="grantha">śrī-rājarājade</hi>var kuṭutta poṉṉiṉ tiruppaṭṭam Oṉṟu Āṭavallāṉ eṉṉuṅ kallāl niṟ<hi rend="grantha">ai</hi> nāṉūṟṟu-t toṇṇūṟṟ’ oṉpati
+                    <lb n="3.2=16"/>ṉ kaḻañcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>         	
                 <p>         		
-                    nāḷatiṉālēy kuṭutta poṉṉiṉ tiruppaṭṭam Oṉṟu mēṟpaṭi kallāl niṟai nāṉūṟṟu-t toṇṇūṟṟu nāṟ-kaḻañc’ araiyēy Iraṇṭu
-                    <lb n="3.3=17"/>mañcāṭi —
+                    nāḷatiṉālēy kuṭutta poṉṉiṉ tiruppaṭṭam Oṉṟu mēṟpaṭi kallāl niṟ<hi rend="grantha">ai</hi> nāṉūṟṟu-t toṇṇūṟṟu nāṟ-kaḻañc’ ar<hi rend="grantha">ai</hi>yēy Iraṇṭu
+                    <lb n="3.3=17"/>mañcāṭi <g ref="sym:dash" type="punctuation">.</g>
                 </p>         	
                 <p>
-                    nālatiṉālēy kuṭutta poṉṉiṉ tiruppaṭṭam Oṉṟu mēṟpaṭi kallāl niṟai nāṉūṟṟ’ eṇpattu nāṟ-kaḻañcē kāl —
+                    nālatiṉālēy kuṭutta poṉṉiṉ tiruppaṭṭam Oṉṟu mēṟpaṭi kallāl niṟ<hi rend="grantha">ai</hi> nāṉūṟṟ’ eṇpattu nāṟ-kaḻañcē kāl <g ref="sym:dash" type="punctuation">.</g>
                 </p>         	
                 <p>
                     nāḷatiṉālē ku
-                    <lb n="3.4=18" break="no"/>ṭutta poṉṉiṉ tiruppaṭṭam Oṉṟu mēṟpaṭi kallāl niṟai nāṉūṟṟu-t toṇṇūṟṟ’ eḻu kaḻañc’ arai —
+                    <lb n="3.4=18" break="no"/>ṭutta poṉṉiṉ tiruppaṭṭam Oṉṟu mēṟpaṭi kallāl niṟ<hi rend="grantha">ai</hi> nāṉūṟṟu-t toṇṇūṟṟ’ eḻu kaḻañc’ ar<hi rend="grantha">ai</hi> <g ref="sym:dash" type="punctuation">.</g>
                 </p>         	
                 <p>
                     nāḷatiṉālēy kuṭutta poṉṉiṉ tiruppa
-                    <lb n="3.5=19" break="no"/>ṭṭam Oṉṟu mēṟpaṭi kallāl niṟai nāṉūṟṟu-t toṇṇūṟṟ’ eḻu kaḻañc’ arai —
+                    <lb n="3.5=19" break="no"/>ṭṭam Oṉṟu mēṟpaṭi kallāl niṟ<hi rend="grantha">ai</hi> nāṉūṟṟu-t toṇṇūṟṟ’ eḻu kaḻañc’ ar<hi rend="grantha">ai</hi> <g ref="sym:dash" type="punctuation">.</g>
                 </p>         	
                 <p>
-                    nāḷ Irupatt’ ēḻiṉāl Uṭaiyār <hi rend="grantha">śrī-rājarājade</hi>var ciṟu-ta<choice><orig>n</orig><reg>ṉ</reg></choice>at
-                    <lb n="3.6=20" break="no"/>tu-k kuṭutta poṉṉiṉ taḷikai Oṉṟu Āṭavallāṉ eṉṉum kallāl niṟai Aṟunūṟṟ’ <choice><orig>aiy</orig><reg>ai</reg></choice>mpatt’ iru-kaḻañcēy Eṭṭu mañcāṭi —
+                    nāḷ Irupatt’ ēḻiṉāl Uṭ<hi rend="grantha">ai</hi>yār <hi rend="grantha">śrī-rājarājade</hi>var ciṟu-ta<choice><orig>n</orig><reg>ṉ</reg></choice>at
+                    <lb n="3.6=20" break="no"/>tu-k kuṭutta poṉṉiṉ taḷikai Oṉṟu Āṭavallāṉ eṉṉum kallāl niṟ<hi rend="grantha">ai</hi> Aṟunūṟṟ’ <choice><orig><hi rend="grantha">ai</hi>y</orig><reg>ai</reg></choice>mpatt’ iru-kaḻañcēy Eṭṭu mañcāṭi <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     nāḷati
-                    <lb n="3.7=21" break="no"/>ṉālēy kuṭutta poṉṉiṉ taḷikai Oṉṟu mēṟpaṭi kallāl niṟai nāṉūṟṟu-t toṇṇūṟṟu mu-k-kaḻañcēy kāl —
+                    <lb n="3.7=21" break="no"/>ṉālēy kuṭutta poṉṉiṉ taḷik<hi rend="grantha">ai</hi> Oṉṟu mēṟpaṭi kallāl niṟ<hi rend="grantha">ai</hi> nāṉūṟṟu-t toṇṇūṟṟu mu-k-kaḻañcēy kāl <g ref="sym:dash" type="punctuation">.</g>
                 </p>         	
                 <p>
                     nāḷatiṉālēy kuṭutta
                     
                     <milestone type="pagelike" unit="zone" n="4"/>
                     <label>Section 4</label>
-                    <lb n="4.1=22"/>poṉṉiṉ maṇṭai Oṉṟu mēṟpaṭi kallāl niṟai muṉṉūṟṟu-t toṇṇūṟṟ’ ēḻu kaḻañcē Āṟu
-                    <lb n="4.2=23"/>mañcāṭi —
+                    <lb n="4.1=22"/>poṉṉiṉ maṇṭ<hi rend="grantha">ai</hi> Oṉṟu mēṟpaṭi kallāl niṟ<hi rend="grantha">ai</hi> muṉṉūṟṟu-t toṇṇūṟṟ’ ēḻu kaḻañcē Āṟu
+                    <lb n="4.2=23"/>mañcāṭi <g ref="sym:dash" type="punctuation">.</g>
                 </p>         	
                 <p>
-                    nāḷatiṉālē kuṭutta poṉṉiṉ maṇṭai Oṉṟu mēṟpaṭi kallāl niṟai muṉṉūṟ
-                    <lb n="4.3=24" break="no"/>ṟu-t toṇṇūṟṟ’ mu-k-kaḻañcey mañcāṭi —
+                    nāḷatiṉālē kuṭutta poṉṉiṉ maṇṭ<hi rend="grantha">ai</hi> Oṉṟu mēṟpaṭi kallāl niṟ<hi rend="grantha">ai</hi> muṉṉūṟ
+                    <lb n="4.3=24" break="no"/>ṟu-t toṇṇūṟṟ’ mu-k-kaḻañcey mañcāṭi <g ref="sym:dash" type="punctuation">.</g>
                 </p>         	
                 <p>
-                    nāḷatiṉālēy kuṭutta poṉṉiṉ maṇṭai Oṉṟu
-                    <lb n="4.4=25"/>mēṟpaṭi kallāl niṟai muṉṉūṟṟu-t toṇṇūṟṟ’ eṇ-kaḻañcēy kuṉṟi —
+                    nāḷatiṉālēy kuṭutta poṉṉiṉ maṇṭ<hi rend="grantha">ai</hi> Oṉṟu
+                    <lb n="4.4=25"/>mēṟpaṭi kallāl niṟ<hi rend="grantha">ai</hi> muṉṉūṟṟu-t toṇṇūṟṟ’ eṇ-kaḻañcēy kuṉṟi <g ref="sym:dash" type="punctuation">.</g>
                 </p>         	
                 <p>
                     nāḷatiṉālēy kuṭu
-                    <lb n="4.5=26" break="no"/>tta poṉṉiṉ maṇṭai Oṉṟu mēṟpaṭi kallāl niṟai muṉṉūṟṟu-t toṇṇūṟṟu Aṟu kaḻañcu —
+                    <lb n="4.5=26" break="no"/>tta poṉṉiṉ maṇṭ<hi rend="grantha">ai</hi> Oṉṟu mēṟpaṭi kallāl niṟ<hi rend="grantha">ai</hi> muṉṉūṟṟu-t toṇṇūṟṟu Aṟu kaḻañcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>         	
                 <p>
-                    <lb n="4.6=27"/>nāḷatiṉālēy kuṭutta poṉṉiṉ keṇṭi Oṉṟu mēṟpaṭi kallāl niṟai Iru-nūṟṟ’ eṇpattu nā
-                    <lb n="4.7=28" break="no"/>ṟ-kaḻañc’ arai —
+                    <lb n="4.6=27"/>nāḷatiṉālēy kuṭutta poṉṉiṉ keṇṭi Oṉṟu mēṟpaṭi kallāl niṟ<hi rend="grantha">ai</hi> Iru-nūṟṟ’ eṇpattu nā
+                    <lb n="4.7=28" break="no"/>ṟ-kaḻañc’ ar<hi rend="grantha">ai</hi> <g ref="sym:dash" type="punctuation">.</g>
                 </p>         	
                 <p>
-                    nāḷ muppattu nāliṉāl Uṭaiyār <hi rend="grantha">śrī-rājar<unclear>ā</unclear>jade</hi>var ciṟu-ta<choice><orig>n</orig><reg>ṉ</reg></choice>attu-k kuṭutta poṉṉi         		        		
+                    nāḷ muppattu nāliṉāl Uṭ<hi rend="grantha">ai</hi>yār <hi rend="grantha">śrī-rājar<unclear>ā</unclear>jade</hi>var ciṟu-ta<choice><orig>n</orig><reg>ṉ</reg></choice>attu-k kuṭutta poṉṉi         		        		
                     
                     <milestone type="pagelike" unit="zone" n="5" break="no"/>
                     <label>Section 5</label>
-                    <lb n="5.1=29" break="no"/>ṉ taṭṭam Oṉṟu Āṭavallāṉ eṉṉuṅ kallāl niṟai nāṟ-patiṉ kaḻañcēy kāl —
+                    <lb n="5.1=29" break="no"/>ṉ taṭṭam Oṉṟu Āṭavallāṉ eṉṉuṅ kallāl niṟ<hi rend="grantha">ai</hi> nāṟ-patiṉ kaḻañcēy kāl <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>        		
-                    yāṇṭu Irupatt’ aiñc-āvatu nāḷ Irunūṟṟ’ eḻu-patt’ aiñciṉāl Uṭaiyār <hi rend="grantha">śrī-rājarājade</hi>var <hi rend="grantha">śrī-rājarājīśvara</hi>m uṭaiyār <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">mā</hi>nattu-c cempiṉ <hi rend="grantha">stūpi</hi>ttaṟiyil vaikka-k kuṭutta ceppu-k-kuṭam Oṉṟu
-                    <lb n="5.2=30"/>niṟai mūvāyirattu Eṇpattu muppalattil curukki<choice><orig>n</orig><reg>ṉ</reg></choice>a takaṭu pala poṉ Āṭavallāṉ eṉṉuṅ kallāl niṟai Iraṇṭ’ āyirattu-t toḷāyirattu Irupatt’ aṟu-kaḻañc’ arai —
+                    yāṇṭu Irupatt’ <hi rend="grantha">ai</hi>ñc-āvatu nāḷ Irunūṟṟ’ eḻu-patt’ <hi rend="grantha">ai</hi>ñciṉāl Uṭ<hi rend="grantha">ai</hi>yār <hi rend="grantha">śrī-rājarājade</hi>var <hi rend="grantha">śrī-rājarājīśvara</hi>m-uṭ<hi rend="grantha">ai</hi>yār <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">mā</hi>nattu-c cempiṉ <hi rend="grantha">stūpi</hi>ttaṟiyil vaikka-k kuṭutta ceppu-k-kuṭam Oṉṟu
+                    <lb n="5.2=30"/>niṟ<hi rend="grantha">ai</hi> mūvāyirattu Eṇpattu muppalattil curukki<choice><orig>n</orig><reg>ṉ</reg></choice>a takaṭu pala poṉ Āṭavallāṉ eṉṉuṅ kallāl niṟ<hi rend="grantha">ai</hi> Iraṇṭ’ āyirattu-t toḷāyirattu Irupatt’ aṟu-kaḻañc’ ar<hi rend="grantha">ai</hi> <g ref="sym:dash" type="punctuation">.</g>
                 </p>         	
                 <p>    	
-                    yāṇṭu Irupatt’ āṟ-āvatu nāḷ nūṟṟu nāliṉāl Uṭaiyār <hi rend="grantha">śrī-rājarājade</hi>var <hi rend="grantha">śrī-rājarājīśvara</hi>m uṭaiyārkku-k kuṭutta po
-                    <lb n="5.3=31" break="no"/>ṉṉiṉ kiṭāram Oṉṟu Āṭavallāṉ eṉṉum kallāl niṟai patiṉ ōr āyirattu eḻu-nūṟṟu nāṟ-pattu Iru_kaḻañcu —
+                    yāṇṭu Irupatt’ āṟ-āvatu nāḷ nūṟṟu nāliṉāl Uṭ<hi rend="grantha">ai</hi>yār <hi rend="grantha">śrī-rājarājade</hi>var <hi rend="grantha">śrī-rājarājīśvara</hi>m-uṭ<hi rend="grantha">ai</hi>yārkku-k kuṭutta po
+                    <lb n="5.3=31" break="no"/>ṉṉiṉ kiṭāram Oṉṟu Āṭavallāṉ eṉṉum kallāl niṟ<hi rend="grantha">ai</hi> patiṉ ōr āyirattu eḻu-nūṟṟu nāṟ-pattu Iru_kaḻañcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>         	
                 <p>
-                    nāḷatiṉālēy kuṭutta poṉṉiṉ Oṭṭuvaṭṭil Oṉṟu mēṟpaṭi kallāl niṟai nāṉūṟṟu Eṇpatt’ eṇ-kaḻañcu —
+                    nāḷatiṉālēy kuṭutta poṉṉiṉ Oṭṭuvaṭṭil Oṉṟu mēṟpaṭi kallāl niṟ<hi rend="grantha">ai</hi> nāṉūṟṟu Eṇpatt’ eṇ-kaḻañcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>         	
                 <p>
                     nāḷatiṉālēy kuṭutta poṉṉiṉ kala
-                    <lb n="5.4=32" break="no"/>cam Oṉṟu mēṟpaṭi kallāl niṟai Aiñ-ñūṟṟu Eḻu kaḻañcu —         		
+                    <lb n="5.4=32" break="no"/>cam Oṉṟu mēṟpaṭi kallāl niṟ<hi rend="grantha">ai</hi> Aiñ-ñūṟṟu Eḻu kaḻañcu <g ref="sym:dash" type="punctuation">.</g>         		
                 </p>         	
                 <p>
-                    nāḷatiṉālēy kuṭutta poṉṉiṉ kalacam Oṉṟu mēṟpaṭi kallāl niṟai nāṉūṟṟ’ eṇpattu mukkaḻañcu —
+                    nāḷatiṉālēy kuṭutta poṉṉiṉ kalacam Oṉṟu mēṟpaṭi kallāl niṟ<hi rend="grantha">ai</hi> nāṉūṟṟ’ eṇpattu mukkaḻañcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 
                 <p>
-                    nāḷatiṉālēy kuṭutta poṉṉiṉ kalacam Oṉṟu mēṟpaṭi kallāl niṟai nāṉūṟṟu-t to
-                    <lb n="5.5=33" break="no"/>ṇṇūṟṟu Iru-kaḻañ<unclear>cu —</unclear>
+                    nāḷatiṉālēy kuṭutta poṉṉiṉ kalacam Oṉṟu mēṟpaṭi kallāl niṟ<hi rend="grantha">ai</hi> nāṉūṟṟu-t to
+                    <lb n="5.5=33" break="no"/>ṇṇūṟṟu Iru-kaḻañ<unclear>cu <g ref="sym:dash" type="punctuation">.</g></unclear>
                 </p>         	
                 <p>         		
-                    nāḷatiṉālēy kuṭutta poṉṉiṉ kalacam Oṉṟu mēṟpaṭi kallāl niṟai nāṉūṟṟu-t toṇṇūṟṟ’ iru-kaḻañcē kāl —
+                    nāḷatiṉālēy kuṭutta poṉṉiṉ kalacam Oṉṟu mēṟpaṭi kallāl niṟ<hi rend="grantha">ai</hi> nāṉūṟṟu-t toṇṇūṟṟ’ iru-kaḻañcē kāl <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
-                    nāḷatiṉālēy kuṭutta poṉṉiṉ kalacam Oṉṟu mēṟpaṭi kallāl niṟai Aiñ-ñūṟṟ’ oru patt’ iru-kaḻañc’ arai —
+                    nāḷatiṉālēy kuṭutta poṉṉiṉ kalacam Oṉṟu mēṟpaṭi kallāl niṟ<hi rend="grantha">ai</hi> Aiñ-ñūṟṟ’ oru patt’ iru-kaḻañc’ ar<hi rend="grantha">ai</hi> <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     nā
-                    <lb n="5.6=34" break="no"/>ḷatiṉālēy kuṭutta <unclear>po</unclear>ṉṉiṉ paṭikka<unclear>m</unclear> Oṉṟu kāl mūṉṟum vaḷaiyil Iraṇṭum Uḷppaṭa mēṟpaṭi kallāl niṟai eṇ-ṇūṟṟ’ iru-kaḻañc’ arai —
+                    <lb n="5.6=34" break="no"/>ḷatiṉālēy kuṭutta <unclear>po<!--kompu clear--></unclear>ṉṉiṉ paṭikka<unclear>m</unclear> Oṉṟu kāl mūṉṟum vaḷaiyil Iraṇṭum Uḷppaṭa mēṟpaṭi kallāl niṟ<hi rend="grantha">ai</hi> eṇ-ṇūṟṟ’ iru-kaḻañc’ ar<hi rend="grantha">ai</hi> <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
-                    nāḷatiṉālēy kuṭutta poṉṉiṉ taṭṭam Oṉṟu mēṟpaṭi kallāl niṟai nāṟ-patt’ oṉpatiṉ kaḻañcē mukkāl —
+                    nāḷatiṉālēy kuṭutta poṉṉiṉ taṭṭam Oṉṟu mēṟpaṭi kallāl niṟ<hi rend="grantha">ai</hi> nāṟ-patt’ oṉpatiṉ kaḻañcē mukkāl <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     nāḷatiṉā
-                    <lb n="5.47=35" break="no"/>lēy ku<unclear>ṭu</unclear>tta poṉṉiṉ taṭṭam Oṉṟu mēṟpaṭi kallāl niṟai nāṟ-patt’ oṉpatiṉ kaḻañcē mukkāl —
+                    <lb n="5.7=35" break="no"/>lēy ku<unclear>ṭu</unclear>tta poṉṉiṉ taṭṭam Oṉṟu mēṟpaṭi kallāl niṟ<hi rend="grantha">ai</hi> nāṟ-patt’ oṉpatiṉ kaḻañcē mukkāl <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
-                    nāḷatiṉālēy kuṭutta poṉṉiṉ taṭṭam Oṉṟu mēṟpaṭi kallāl niṟai <choice><orig>aiy</orig><reg>ai</reg></choice>mpatiṉ kaḻañcu —
+                    nāḷatiṉālēy kuṭutta poṉṉiṉ taṭṭam Oṉṟu mēṟpaṭi kallāl niṟ<hi rend="grantha">ai</hi><choice><orig>aiy</orig><reg>ai</reg></choice>mpatiṉ kaḻañcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
-                    nāḷa-tiṉāley kuṭutta poṉṉiṉ taṭṭam Oṉṟu mēṟpaṭi kallāl niṟai         		       		
+                    nāḷa-tiṉāley kuṭutta poṉṉiṉ taṭṭam Oṉṟu mēṟpaṭi kallāl niṟ<hi rend="grantha">ai</hi>         		       		
                     
                     <milestone type="pagelike" unit="zone" n="6"/>
                     <label>Section 6</label>
-                    <lb n="6.1=36"/>nāṟ-patt’ oṉpatiṉ kaḻañcē mukkālē Iraṇṭu mañcāṭiyuṅ kuṉṟi —
+                    <lb n="6.1=36"/>nāṟ-patt’ oṉpatiṉ kaḻañcē mukkālē Iraṇṭu mañcāṭiyuṅ kuṉṟi <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     nāḷatiṉāle
-                    <lb n="6.2=37" break="no"/>y kuṭutta poṉṉiṉ kuṟumaṭal Oṉṟu mēṟpaṭi kallāl niṟai toṇ-ṇūṟ
-                    <lb n="6.3=38" break="no"/>ṟu Ēḻu kaḻañcu — 
+                    <lb n="6.2=37" break="no"/>y kuṭutta poṉṉiṉ kuṟumaṭal Oṉṟu mēṟpaṭi kallāl niṟ<hi rend="grantha">ai</hi> toṇ-ṇūṟ
+                    <lb n="6.3=38" break="no"/>ṟu Ēḻu kaḻañcu <g ref="sym:dash" type="punctuation">.</g> 
                 </p>
                 <p>
                     nāḷatiṉālēy kuṭutta poṉṉiṉ mānavaṭṭil Oṉṟu mēṟpaṭi
-                    <lb n="6.4=39"/>kallāl niṟai Irupatiṉ kaḻañcu —
+                    <lb n="6.4=39"/>kallāl niṟ<hi rend="grantha">ai</hi> Irupatiṉ kaḻañcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     yāṇṭu Irupatt’ āṟ-āvatu nāḷ mu<choice><orig>ṉṉ</orig><reg>nn</reg></choice>ūṟṟ’ oru patt’ eṭṭiṉāl ku
-                    <lb n="6.5=40" break="no"/>ṭutta uṭaiyār kōyilil muḻattiṉ kīḻ veḷḷiyiṉ <hi rend="grantha">śrī-pādapīṭham·</hi> Āṟu torai Ucaramum nāl vi
-                    <lb n="6.6=41" break="no"/>ralē Āṟu torai-c cuṟṟum Uṭaiya poṉṉiṉ <hi rend="grantha">kṣetrapālade</hi>var <hi rend="grantha"><unclear>ā</unclear>dā-dikeśāntam·</hi> mū
+                    <lb n="6.5=40" break="no"/>ṭutta Uṭaiyār kōyilil muḻattiṉ kīḻ veḷḷiyiṉ <hi rend="grantha">śrī-pādapīṭhaM</hi> Āṟu torai Ucaramum nāl vi
+                    <lb n="6.6=41" break="no"/>ralē Āṟu torai-c cuṟṟum Uṭaiya poṉṉiṉ <hi rend="grantha">kṣetrapālade</hi>var <hi rend="grantha"><unclear>ā</unclear>dā-dikeśāntaM</hi> mū
                     <lb n="6.7=42" break="no"/>viralē mūṉṟu torai Ucaramum nālu <hi rend="grantha">śrī-hasta</hi>ttilum piṭi<choice><orig>cc</orig><reg>tt</reg></choice>’ aruḷina <hi rend="grantha">śūla</hi>mum <hi rend="grantha">kapāla</hi>mu
-                    <lb n="6.8=43" break="no"/>m <hi rend="grantha">pāśa</hi>mum <hi rend="grantha">ḍamaruka</hi>mum veḷḷiyiṉ <hi rend="grantha">śrī-pādapīṭha</hi>mum Uḷpaṭa niṟai Ēḻu-patt’ iru-kaḻañc’ arai <supplied reason="omitted">—</supplied></p>
+                    <lb n="6.8=43" break="no"/>m <hi rend="grantha">pāśa</hi>mum <hi rend="grantha">ḍamaruka</hi>mum veḷḷiyiṉ <hi rend="grantha">śrī-pādapīṭha</hi>mum Uḷpaṭa niṟai Ēḻu-patt’ iru-kaḻañc’ arai <supplied reason="omitted"><g ref="sym:dash" type="punctuation">.</g></supplied></p>
                 
                 <p>                     
                     <milestone type="pagelike" unit="zone" n="7"/>
                     <label>Section 7</label> 
                     <lb n="7.1=44"/>Uṭaiyār śrī-rājarājadevar cēramāṉaiyum pāṇṭiyarkaḷaiyum malai-nāṭṭu Eṟintu koṇṭa paṇṭāraṅkaḷil yāṇṭu Iru-patt’ āṟ-āvatu nāḷ muṉ
-                    <lb n="7.2=44" break="no"/>ṉūṟṟu Orupatt’ oṉpatiṉāl śrī-rājarāja-Īśvaram uṭaiya paramasvāmikku-k kuṭutta <unclear>po</unclear>ṉṉiṉ<!--kompu is clear check EGD 5.3.4 + 5.4.5--> ciṉṉaṅkaḷ Āṭavallāṉ Eṉṉum kallā
-                    <lb n="7.3=45" break="no"/>l niṟai-y eṭuttu kallil veṭṭiṉa paṭi <supplied reason="omitted">—</supplied></p>
+                    <lb n="7.2=45" break="no"/>ṉūṟṟu Orupatt’ oṉpatiṉāl śrī-rājarāja-Īśvaram uṭaiya paramasvāmikku-k kuṭutta <unclear>po<!--kompu clear--></unclear>ṉṉiṉ ciṉṉaṅkaḷ Āṭavallāṉ Eṉṉum kallā
+                    <lb n="7.3=46" break="no"/>l niṟai-y eṭuttu kallil veṭṭiṉa paṭi <supplied reason="omitted"><g ref="sym:dash" type="punctuation">.</g></supplied></p>
                 
                 <p>
-                    kāḷāñci Oṉṟu poṉ aiñ-ñūṟṟu Eṇpattu Aṟu kaḻañcu —
+                    kāḷāñci Oṉṟu poṉ aiñ-ñūṟṟu Eṇpattu Aṟu kaḻañcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 
                 <p>
                     kāḷāñci Oṉṟu poṉ Aṟu nū
-                    <lb n="7.4=46" break="no"/>ṟṟu Irupattu Iru-kaḻañc’ arai —
+                    <lb n="7.4=47" break="no"/>ṟṟu Irupattu Iru-kaḻañc’ arai <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 
                 <p>
-                    kuṭam Oṉṟu poṉ muṉṉūṟṟu Eṇpattu Iru-kaḻañc’ arai —
+                    kuṭam Oṉṟu poṉ muṉṉūṟṟu Eṇpattu Iru-kaḻañc’ arai <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 
                 <p>         		
                     kuṭam Oṉṟu poṉ muṉṉūṟṟu Aṟu pattu Ēḻu
-                    <lb n="7.5=47" break="no"/>-kaḻañcu —
+                    <lb n="7.5=48" break="no"/>-kaḻañcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 
                 <p>
-                    kuṭam Oṉṟu poṉ muṉṉūṟṟu Aim-pattu Iru-kaḻañcu —
+                    kuṭam Oṉṟu poṉ muṉṉūṟṟu Aim-pattu Iru-kaḻañcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 
                 <p>         		
-                    kuṭam Oṉṟu poṉ Iru-nūṟṟu-t toṇṇūṟṟu nāṟ-kaḻañcu —
+                    kuṭam Oṉṟu poṉ Iru-nūṟṟu-t toṇṇūṟṟu nāṟ-kaḻañcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 
                 <p>
                     kaṟaṇṭikai-c
-                    <lb n="7.6=48" break="no"/>-ceppu Oṉṟu Aṭiyum mūḻalum Uṭpaṭa poṉ nūṟṟu Iru-pattu Oru kaḻañc’ arai —
+                    <lb n="7.6=49" break="no"/>-ceppu Oṉṟu Aṭiyum mūḻalum Uṭpaṭa poṉ nūṟṟu Iru-pattu Oru kaḻañc’ arai <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 
                 <p>
                     Ilaicceppu Oṉṟu yāḷikkāl nālum mūḻalum Uṭpaṭa po
-                    <lb n="7.7=49" break="no"/>ṉ nūṟṟu Eṇ-pattu Aiṅ-kaḻañcē mukkāl —
+                    <lb n="7.7=50" break="no"/>ṉ nūṟṟu Eṇ-pattu Aiṅ-kaḻañcē mukkāl <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 
                 <p>
-                    Ilaicceppu Oṉṟu yāḷikkāl nālum <unclear>mū</unclear>ḻalum Uṭpaṭa poṉ nūṟṟu nāṟ-pattu Ēḻu kaḻañcu —
+                    Ilaicceppu Oṉṟu yāḷikkāl nālum <unclear>mū</unclear>ḻalum Uṭpaṭa poṉ nūṟṟu nāṟ-pattu Ēḻu kaḻañcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 
                 <p>
-                    <lb n="7.8=50"/>taḷikai Oṉṟu aṭi-y uṭpaṭa poṉ Āyirattu Oru nūṟṟu muppattu Aiṅ-kaḻañc’ arai —
+                    <lb n="7.8=51"/>taḷikai Oṉṟu aṭi y-uṭpaṭa poṉ Āyirattu Oru nūṟṟu muppattu Aiṅ-kaḻañc’ arai <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 
                 <p>         		
@@ -315,250 +314,250 @@
                     
                     <milestone type="pagelike" unit="zone" n="8" break="no"/>
                     <label>Section 8</label>
-                    <lb n="8.1=51" break="no"/>ḻu-patiṉ kaḻañcu —
+                    <lb n="8.1=52" break="no"/>ḻu-patiṉ kaḻañcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     kalacappāṉai Oṉṟu mūkkum Aṭiyum Uṭpaṭa poṉ nāṉū
-                    <lb n="8.2=52" break="no"/>ṟṟu muppattu Eṇ-kaḻañcu —
+                    <lb n="8.2=53" break="no"/>ṟṟu muppattu Eṇ-kaḻañcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>         	
                     poṉṉiṉ koṭi tūkkattil talaiyil taicca
-                    <lb n="8.3=53"/>pū-p patiṉ āṟu Uṭpaṭa Eṭṭiṉāl poṉ Ēḻu-pattu Eṇ-kaḻañcēy mukkāl <supplied reason="omitted">—</supplied>
+                    <lb n="8.3=54"/>pū-p patiṉ āṟu Uṭpaṭa Eṭṭiṉāl poṉ Ēḻu-pattu Eṇ-kaḻañcēy mukkāl <supplied reason="omitted"><g ref="sym:dash" type="punctuation">.</g></supplied>
                 </p>         	
                 <p>
                     tā
-                    <lb n="8.4=54" break="no"/>raittāḷvaṭṭil Oṉṟu karukk’ iraṇṭum ciṅka-pātam iraṇṭum Uṭpaṭa poṉ nā
-                    <lb n="8.5=55" break="no"/>ṉūṟṟu nāṟ-pattu Eṇ-kaḻañcu —
+                    <lb n="8.4=55" break="no"/>raittāḷvaṭṭil Oṉṟu karukk’ iraṇṭum ciṅka-pātam iraṇṭum Uṭpaṭa poṉ nā
+                    <lb n="8.5=56" break="no"/>ṉūṟṟu nāṟ-pattu Eṇ-kaḻañcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     tirumuṭi Oṉṟu poṉ Iru-nūṟṟu Ēḻu
-                    <lb n="8.6=56" break="no"/>pattu mukkaḻañcu —
+                    <lb n="8.6=57" break="no"/>pattu mukkaḻañcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>         		
                     Īccōppikkai Oṉṟu poṉ Iru-nūṟṟu nāṟ-kaḻa
-                    <lb n="8.7=57" break="no"/>ñcu —
+                    <lb n="8.7=58" break="no"/>ñcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     yāṇṭu Iru-pattu mūṉṟ-āvatu mutal yāṇṭu Iru-patt’ oṉpat-āvatu
-                    <lb n="8.8=58"/>varai <hi rend="grantha">śrī-rājarājīśvaram·</hi> Uṭaiya <hi rend="grantha">paramasvā</hi>mikku Uṭaiyār <hi rend="grantha">śrī-rājarājade</hi>                    
+                    <lb n="8.8=59"/>varai <hi rend="grantha">śrī-rājarājīśvaraM</hi> Uṭaiya <hi rend="grantha">paramasvā</hi>mikku Uṭaiyār <hi rend="grantha">śrī-rājarājade</hi>                    
                     <milestone type="pagelike" unit="zone" n="9" break="no"/>
                     <label>Section 9</label>
-                    <lb n="9.1=59" break="no"/>var tam paṇṭāraṅkaḷilum cēramāṉaiyum pāṇṭiyarkaḷaiyum malai-nāṭṭu Eṟintu koṇṭa paṇṭāraṅkaḷilum kuṭutta poṉṉiṉ ciṉṉa
-                    <lb n="9.2=60" break="no"/>ṅkaḷum poṉṉiṉ tiru-<hi rend="grantha">Ābhara</hi>ṇaṅkaḷum Uḷḷiṭṭaṉa yāṇṭu Iru-patt’ aiñ<unclear>c</unclear>-āvatum yāṇṭu Iru-patt’ āṟ-āvatum Inta <hi rend="grantha">jaga</hi>tippaṭaiyil Itaṉukku muṉ kiḻakk’ aṭaiya kallil
-                    <lb n="9.3=61"/>veṭṭi<choice><orig>n</orig><reg>ṉ</reg></choice>a nīkki niṉṟaṉa Āṭavallāṉ eṉṉuṅ kallāl niṟai Eṭuttu kallil v<unclear>e</unclear>ṭṭiṉa paṭi —
+                    <lb n="9.1=60" break="no"/>var tam paṇṭāraṅkaḷilum cēramāṉaiyum pāṇṭiyarkaḷaiyum malai-nāṭṭu Eṟintu koṇṭa paṇṭāraṅkaḷilum kuṭutta poṉṉiṉ ciṉṉa
+                    <lb n="9.2=61" break="no"/>ṅkaḷum poṉṉiṉ tiru-<hi rend="grantha">Ābhara</hi>ṇaṅkaḷum Uḷḷiṭṭaṉa yāṇṭu Iru-patt’ aiñ<unclear>c</unclear>-āvatum yāṇṭu Iru-patt’ āṟ-āvatum Inta <hi rend="grantha">jaga</hi>tippaṭaiyil Itaṉukku muṉ kiḻakk’ aṭaiya kallil
+                    <lb n="9.3=62"/>veṭṭi<choice><orig>n</orig><reg>ṉ</reg></choice>a nīkki niṉṟaṉa Āṭavallāṉ eṉṉuṅ kallāl niṟai Eṭuttu kallil v<unclear>e</unclear>ṭṭiṉa paṭi <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     cēramāṉaiyum pāṇṭiyarkaḷaiyum malai-nāṭṭu Eṟintu koṇṭa paṇṭāraṅkaḷil kuṭu
-                    <lb n="9.4=62" break="no"/>ttaṉa <supplied reason="omitted">—</supplied>
+                    <lb n="9.4=63" break="no"/>ttaṉa <supplied reason="omitted"><g ref="sym:dash" type="punctuation">.</g></supplied>
                 </p>
                 <p>
-                    Īccōppikkaiy Oṉṟu poṉ muppattu nāṟ-kaḻañcu —
+                    Īccōppikkaiy Oṉṟu poṉ muppattu nāṟ-kaḻañcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
-                    Īccōppikkaiy Oṉṟu poṉ muppattu mukkaḻañcu —         		
+                    Īccōppikkaiy Oṉṟu poṉ muppattu mukkaḻañcu <g ref="sym:dash" type="punctuation">.</g>         		
                 </p>
                 <p>
                     civapātacēkaraṉ eṉṟum <hi rend="grantha">śrī-rājarāja</hi>ṉ eṉṟum tirunāmam vāṅ         		
-                    <lb n="9.5=63" break="no"/>ki kaṅkil Oṉṟum kuḻal Iraṇṭum mōtiram Aiñcum Uṭaiya poṉṉiṉ kāḷaṅkaḷ —
+                    <lb n="9.5=64" break="no"/>ki kaṅkil Oṉṟum kuḻal Iraṇṭum mōtiram Aiñcum Uṭaiya poṉṉiṉ kāḷaṅkaḷ <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
-                    kāḷam Oṉṟu poṉ Iru-nūṟṟu-t toṇṇūṟṟu nāṟ-kaḻañc’ arai —
+                    kāḷam Oṉṟu poṉ Iru-nūṟṟu-t toṇṇūṟṟu nāṟ-kaḻañc’ arai <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     kāḷam Oṉṟu poṉ Iru-nūṟṟu
-                    <lb n="9.6=64" break="no"/>-t toṇṇūṟṟu Aiṅ-kaḻañcēy kāl —
+                    <lb n="9.6=65" break="no"/>-t toṇṇūṟṟu Aiṅ-kaḻañcēy kāl <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>         		
-                    kāḷam Oṉṟu poṉ Iru-nūṟṟu-t toṇṇūṟṟu Aṟu-kaḻañcēy mukkālē Iraṇṭu mañcāṭi —
+                    kāḷam Oṉṟu poṉ Iru-nūṟṟu-t toṇṇūṟṟu Aṟu-kaḻañcēy mukkālē Iraṇṭu mañcāṭi <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>         		
                     kāḷam Oṉṟu poṉ Iru-nūṟṟu-t toṇṇūṟṟu Aṟu ka
-                    <lb n="9.7=65" break="no"/>ḻañc’ arai-y-āka Iraṇṭ<choice><sic>un</sic><corr>iṉ</corr></choice>āl poṉ Aiññūṟṟu-t toṇṇūṟṟu mukkaḻañcu <unclear>—</unclear>
+                    <lb n="9.7=66" break="no"/>ḻañc’ arai-y-āka Iraṇṭ<choice><sic>un</sic><corr>iṉ</corr></choice>āl poṉ Aiññūṟṟu-t toṇṇūṟṟu mukkaḻañcu <unclear><g ref="sym:dash" type="punctuation">.</g></unclear>
                 </p>
                 <p>         		
-                    kāḷa<unclear>m</unclear> Oṉṟu poṉ Iru-nūṟṟu-t toṇṇūṟṟu nāṟ-kaḻañcēy Oṉ<unclear>pa</unclear>tu mañcāṭiyuṅ kuṉṟi —
+                    kāḷa<unclear>m</unclear> Oṉṟu poṉ Iru-nūṟṟu-t toṇṇūṟṟu nāṟ-kaḻañcēy Oṉ<unclear>pa</unclear>tu mañcāṭiyuṅ kuṉṟi <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>         		
                     kāḷam Oṉṟu
-                    <lb n="9.8=66"/>poṉ Iru-nūṟṟu-t toṇṇūṟṟu-k kaḻañcēy mukkāl —
+                    <lb n="9.8=67"/>poṉ Iru-nūṟṟu-t toṇṇūṟṟu-k kaḻañcēy mukkāl <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>         		
-                    kāḷam Oṉṟu poṉ Iru-nūṟṟu Eṇ-pattu Aṟu-kaḻañcēy muṉṟu mañcāṭiyu<unclear>ṅ kuṉṟi</unclear> <supplied reason="omitted">—</supplied>
+                    kāḷam Oṉṟu poṉ Iru-nūṟṟu Eṇ-pattu Aṟu-kaḻañcēy muṉṟu mañcāṭiyu<unclear>ṅ kuṉṟi</unclear> <supplied reason="omitted"><g ref="sym:dash" type="punctuation">.</g></supplied>
                 </p>
                 <p>         		
                     <unclear>kā</unclear>ḷam o<unclear>ṉ</unclear>ṟu poṉ Iru-nūṟṟu-t toṇṇūṟṟu
                                         
                     <milestone type="pagelike" unit="zone" n="10"/>
                     <label>Western plinth of the <foreign>vimāna</foreign>, Section 1 = 10</label>
-                    <lb n="10.1=66"/>Eṇ-kaḻañc’ araiyēy iraṇṭu mañcāṭi —
+                    <lb n="10.1=68"/>Eṇ-kaḻañc’ araiyēy iraṇṭu mañcāṭi <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>         		
-                    kāḷama Oṉṟu poṉ Iru-nūṟṟu eṇ-pattu Ēḻu-kaḻañcēy mukkāle nālu mañcāṭiyuṅ kuṉṟi —
+                    kāḷam Oṉṟu poṉ Iru-nūṟṟu eṇ-pattu Ēḻu-kaḻañcēy mukkāle nālu mañcāṭiyuṅ kuṉṟi <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
-                    paṇṭāraṅkaḷil kuṭuttaṉa <supplied reason="omitted">—</supplied>
+                    paṇṭāraṅkaḷil kuṭuttaṉa <supplied reason="omitted"><g ref="sym:dash" type="punctuation">.</g></supplied>
                 </p>
                 <p>         		
                     kāḷam Oṉṟu poṉ nūṟṟu
-                    <lb n="10.2=67"/>Aṟu-pattu Eṇ-kaḻañcēy kāl —
+                    <lb n="10.2=69"/>Aṟu-pattu Eṇ-kaḻañcēy kāl <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>         		
-                    kāḷam Oṉṟu poṉ nūṟṟu Aṟu-pattu Eṇ-kaḻañcu —
+                    kāḷam Oṉṟu poṉ nūṟṟu Aṟu-pattu Eṇ-kaḻañcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>         		
                     Oṟṟai kaṅkil Oṉṟum kuḻal Oṉṟum Uḷpaṭa poṉ nūṟṟu nāṟ-pattu Oṉpatiṉ kaḻañc’ arai
-                    <lb n="10.3=68" break="no"/>yē muṉṟu mañcāṭi —
+                    <lb n="10.3=70" break="no"/>yē muṉṟu mañcāṭi <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>         		
-                    Aṭuttu viḷakkiṉa moṭṭum paṟaḷaiyum Uṭ-paṭa tiruppaḷḷittoṅkal makuṭaṅkaḷ —
+                    Aṭuttu viḷakkiṉa moṭṭum paṟaḷaiyum Uṭ-paṭa tiruppaḷḷittoṅkal makuṭaṅkaḷ <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>         		
                     tiru-p-paḷḷi-t-toṅkal makuṭam Oṉṟu poṉ nāṟpattu oṉpatiṉ kaḻañc’ araiyē I
-                    <lb n="10.4=69" break="no"/>raṇṭu mañcāṭiyum kuṉṟi-y-āka mūṉṟiṉāl poṉ nūṟṟu nāṟpattu Eṇ-kaḻañcēy mukkālēy iraṇṭu mañcāṭiyuṅ kuṉṟi —
+                    <lb n="10.4=71" break="no"/>raṇṭu mañcāṭiyum kuṉṟi-y-āka mūṉṟiṉāl poṉ nūṟṟu nāṟpattu Eṇ-kaḻañcēy mukkālēy iraṇṭu mañcāṭiyuṅ kuṉṟi <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     tiru-p-paḷḷi-t-toṅkal makuṭam Oṉṟu poṉ nāṟpattu Oṉpatiṉ
-                    <lb n="10.5=70"/>kaḻañcē m<choice><sic>ū</sic><corr>u</corr></choice>kkāl-āka Aiñciṉāl poṉ Iru-nūṟṟu nāṟpattu Eṇ-kaḻañcēy mukkāl —
+                    <lb n="10.5=72"/>kaḻañcē m<choice><sic>ū</sic><corr>u</corr></choice>kkāl-āka Aiñciṉāl poṉ Iru-nūṟṟu nāṟpattu Eṇ-kaḻañcēy mukkāl <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>         		
                     tiru-p-paḷḷi-t-toṅka<unclear>l</unclear> makuṭam Oṉṟu poṉ Aimpatiṉ kaḻañc-āka Iraṇṭiṉāl poṉ ṉūṟṟu-k
-                    <lb n="10.6=71" break="no"/>-kaḻañcu —
+                    <lb n="10.6=73" break="no"/>-kaḻañcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>         		
-                    tiru-p-paḷḷi-t-toṅkal makuṭam Oṉṟu poṉ nāṟpattu Oṉ<unclear>pa</unclear>tiṉ kaḻañc-āka Iraṇṭiṉāl poṉ toṇṇūṟṟu Eṇ-kaḻañcu —
+                    tiru-p-paḷḷi-t-toṅkal makuṭam Oṉṟu poṉ nāṟpattu Oṉ<unclear>pa</unclear>tiṉ kaḻañc-āka Iraṇṭiṉāl poṉ toṇṇūṟṟu Eṇ-kaḻañcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     tiru-p-paḷḷi-t-toṅkal makuṭam Oṉṟu poṉ
-                    <lb n="10.7=72"/>Aimpattu Oru kaḻañcu —
+                    <lb n="10.7=74"/>Aimpattu Oru kaḻañcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     tiru-p-paḷḷi-t-toṅkal makuṭam Oṉṟu poṉ nāṟpattu Oṉpatiṉ kaḻañcē Ēḻu mañcāṭiyuṅ kuṉṟi-y-āka Iraṇṭiṉāl poṉ toṇṇūṟṟu Eṇ-kaḻañcēy mukkā
-                    <lb n="10.8=73" break="no"/>l <unclear>—</unclear>
+                    <lb n="10.8=75" break="no"/>l <unclear><g ref="sym:dash" type="punctuation">.</g></unclear>
                 </p>
                 <p>
-                    tiru-p-paḷḷi-t-toṅkal makuṭam Oṉṟu poṉ Aimpatiṉ kaḻañcē Iraṇṭu mañcāṭiyuṅ kuṉṟi —
+                    tiru-p-paḷḷi-t-toṅkal makuṭam Oṉṟu poṉ Aimpatiṉ kaḻañcē Iraṇṭu mañcāṭiyuṅ kuṉṟi <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
-                    tiru-p-paḷḷi-t-toṅkal makuṭam Oṉṟu poṉ nāṟpattu Eṇ-kaḻañcē mukkāl —
+                    tiru-p-paḷḷi-t-toṅkal makuṭam Oṉṟu poṉ nāṟpattu Eṇ-kaḻañcē mukkāl <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     tiru-p-pa
-                    <lb n="10.9=74" break="no"/>ḷḷi-t-toṅkal makuṭam Oṉṟu poṉ Aimpatiṉ kaḻañcē mukkāle Iraṇṭu mañcāṭiyuṅ kuṉṟi —</p>
+                    <lb n="10.9=76" break="no"/>ḷḷi-t-toṅkal makuṭam Oṉṟu poṉ Aimpatiṉ kaḻañcē mukkāle Iraṇṭu mañcāṭiyuṅ kuṉṟi <g ref="sym:dash" type="punctuation">.</g></p>
                 <p>         		
                     tiru-p-paḷḷi-t-toṅkal makuṭam Oṉṟu poṉ Aimpatiṉ kaḻañcē mukkāl-āka Iraṇṭiṉāl poṉ
                     
                     <milestone type="pagelike" unit="zone" n="11"/>
                     <label>Section 2 = 11</label>
-                    <lb n="11.1=75"/>nūṟṟu Oru kaḻañc’ arai —
+                    <lb n="11.1=77"/>nūṟṟu Oru kaḻañc’ arai <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     tiru-p-paḷḷi-t-toṅkal makuṭam Oṉṟu poṉ nāṟpattu Oṉpatiṉ kaḻa
-                    <lb n="11.2=76" break="no"/>ñc’ arai —
+                    <lb n="11.2=78" break="no"/>ñc’ arai <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>         		
                     tiru-p-paḷḷi-t-toṅkal makuṭam Oṉṟu poṉ nāṟpattu Oṉpatiṉ kaḻañcē Āṟu mañ
-                    <lb n="11.3=77" break="no"/>cāṭi —
+                    <lb n="11.3=79" break="no"/>cāṭi <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
-                    tiru-p-paḷḷi-t-toṅkal makuṭam Oṉṟu poṉ nāṟpattu Oṉpatiṉ kaḻañcē kāl —
+                    tiru-p-paḷḷi-t-toṅkal makuṭam Oṉṟu poṉ nāṟpattu Oṉpatiṉ kaḻañcē kāl <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     tiru-p-paḷ
-                    <lb n="11.4=78" break="no"/>ḷi-t-toṅkal makuṭam Oṉṟu poṉ nāṟpattu Eṇ-kaḻañc’ arai <unclear>—</unclear>
+                    <lb n="11.4=80" break="no"/>ḷi-t-toṅkal makuṭam Oṉṟu poṉ nāṟpattu Eṇ-kaḻañc’ arai <unclear><g ref="sym:dash" type="punctuation">.</g></unclear>
                 </p>
                 <p>
                     tiru-p-paḷḷi-t-toṅkal makuṭam
-                    <lb n="11.5=79"/>Oṉṟu poṉ nāṟpattu Oṉpatiṉ kaḻañcē Iraṇṭu mañcāṭiyuṅ kuṉṟi —
+                    <lb n="11.5=81"/>Oṉṟu poṉ nāṟpattu Oṉpatiṉ kaḻañcē Iraṇṭu mañcāṭiyuṅ kuṉṟi <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     tiru-p-paḷḷi-t-toṅkal
-                    <lb n="11.6=80"/>makuṭam Oṉṟu poṉ nāṟppattu Eṇ-kaḻañcē mukkālē Iraṇṭu mañcāṭiyuṅ kuṉṟi —
+                    <lb n="11.6=82"/>makuṭam Oṉṟu poṉ nāṟppattu Eṇ-kaḻañcē mukkālē Iraṇṭu mañcāṭiyuṅ kuṉṟi <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     tiru-p-pa
-                    <lb n="11.7=81" break="no"/>ḷḷi-t-toṅkal makuṭam Oṉṟu poṉ Aimpatiṉ kaḻañcē mañcāṭi —
+                    <lb n="11.7=83" break="no"/>ḷḷi-t-toṅkal makuṭam Oṉṟu poṉ Aimpatiṉ kaḻañcē mañcāṭi <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     tiru-p-paḷḷi-t-toṅkal
-                    <lb n="11.8=82"/>makuṭam Oṉṟu poṉ nāṟpattu Oṉpatiṉ kaḻañcē mukkālē Iraṇṭu mañcāṭiyuṅ kuṉṟi-y-āka muṉṟiṉā
-                    <lb n="11.9=83" break="no"/>l poṉ nūṟṟu nāṟpattu Oṉpatiṉ kaḻañc’ araiyē Iraṇṭu mañcāṭiyuṅ <unclear>ku</unclear>ṉṟi <unclear>—</unclear>
+                    <lb n="11.8=84"/>makuṭam Oṉṟu poṉ nāṟpattu Oṉpatiṉ kaḻañcē mukkālē Iraṇṭu mañcāṭiyuṅ kuṉṟi-y-āka muṉṟiṉā
+                    <lb n="11.9=85" break="no"/>l poṉ nūṟṟu nāṟpattu Oṉpatiṉ kaḻañc’ araiyē Iraṇṭu mañcāṭiyuṅ <unclear>ku</unclear>ṉṟi <unclear><g ref="sym:dash" type="punctuation">.</g></unclear>
                 </p>
                 <p>         		
-                    <hi rend="grantha">dhavaḷacchatram·</hi>
+                    <hi rend="grantha">dhavaḷacchatraM</hi>
                    
                     <milestone type="pagelike" unit="zone" n="12"/>
                     <label>Section 3 = 12</label>
-                     <lb n="12.1=84"/><hi rend="grantha">makuṭam·</hi> moṭṭu Aṭuttu viḷakkiṉa paṟaḷai-y uṭpaṭa Aiñci<choice><orig>n</orig><reg>ṉ</reg></choice>āl poṉ Aimpatiṉ kaḻañcu —
+                     <lb n="12.1=86"/><hi rend="grantha">makuṭaM</hi> moṭṭu Aṭuttu viḷakkiṉa paṟaḷai y-uṭpaṭa Aiñci<choice><orig>n</orig><reg>ṉ</reg></choice>āl poṉ Aimpatiṉ kaḻañcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     vaṇṇikai-t tiru-k-koṟṟa-k-kuṭai makuṭam moṭṭu Aṭuttu viḷakkiṉa paṟaḷai
-                    <lb n="12.2=85"/>Uḷppaṭa Oṉṟu poṉ patiṉ aiṅ-kaḻañc’ araiyē Iraṇṭu mañcāṭiyuṅ kuṉṟi —
+                    <lb n="12.2=87"/>Uḷppaṭa Oṉṟu poṉ patiṉ aiṅ-kaḻañc’ araiyē Iraṇṭu mañcāṭiyuṅ kuṉṟi <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
-                    Ilaittaṭṭu Oṉṟu poṉ toḷāyirattu-t toṇṇūṟṟu Aiṅ-kaḻañcu —
+                    Ilaittaṭṭu Oṉṟu poṉ toḷāyirattu-t toṇṇūṟṟu Aiṅ-kaḻañcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     Ilaitta
-                    <lb n="12.3=86" break="no"/>ṭṭu Oṉṟu poṉ toḷāyirattu Eṇpattu Eṇ-kaḻañcu —
+                    <lb n="12.3=88" break="no"/>ṭṭu Oṉṟu poṉ toḷāyirattu Eṇpattu Eṇ-kaḻañcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
-                    <hi rend="grantha">satyāśra</hi>yaṉai Eṟin=tu Eḻun=taruḷi vantu <hi rend="grantha">śrī-pādapuṣpa</hi>m-āka Aṭṭi-t-tiruvaṭi-t toḻutaṉa <supplied reason="omitted">—</supplied>
+                    <hi rend="grantha">satyāśra</hi>yaṉai Eṟin=tu Eḻun=taruḷi vantu <hi rend="grantha">śrī-pādapuṣpa</hi>m-āka Aṭṭi-t-tiruvaṭi-t toḻutaṉa <supplied reason="omitted"><g ref="sym:dash" type="punctuation">.</g></supplied>
                 </p>
                 <p>
                     tiru-p-poṟpū
-                    <lb n="12.4=87"/>Oṉṟu poṉ patiṉ kaḻañc-āka Iraṇṭiṉāṟ poṉ Irupatiṉ kaḻañcu —
+                    <lb n="12.4=89"/>Oṉṟu poṉ patiṉ kaḻañc-āka Iraṇṭiṉāṟ poṉ Irupatiṉ kaḻañcu <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     tiru-p-poṟpū Oṉṟu poṉ Oṉpatiṉ kaḻañcēy mukkālē nālu mañcāṭiyuṅ kuṉṟi-y-āka paṉṉira
-                    <lb n="12.5=88"/>ṇṭiṉāṟ poṉ nūṟṟu Oru pattu Oṉpatiṉ kaḻañc’ araiyē nālu mañcāṭi —         	
+                    <lb n="12.5=90"/>ṇṭiṉāṟ poṉ nūṟṟu Oru pattu Oṉpatiṉ kaḻañc’ araiyē nālu mañcāṭi <g ref="sym:dash" type="punctuation">.</g>         	
                 </p>
                 <p>         		
                     tiru-p-poṟpū Oṉṟu poṉ Oṉpatiṉ kaḻañcēy mukkālē nālu mañcāṭi-y-āka tiru-p-poṟpū
-                    <lb n="12.6=89" break="no"/>-p patti<choice><orig>n</orig><reg>ṉ</reg></choice>āṟ poṉ toṇṇūṟṟu Oṉpatiṉ kaḻañc’ arai —
+                    <lb n="12.6=91" break="no"/>-p patti<choice><orig>n</orig><reg>ṉ</reg></choice>āṟ poṉ toṇṇūṟṟu Oṉpatiṉ kaḻañc’ arai <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
-                    tiru-p-poṟpū Oṉṟu poṉ Oṉpatiṉ kaḻañcēy mukkālē mūṉṟu mañcāṭiyuṅ kuṉṟi —
+                    tiru-p-poṟpū Oṉṟu poṉ Oṉpatiṉ kaḻañcēy mukkālē mūṉṟu mañcāṭiyuṅ kuṉṟi <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     tiru-p-poṟpū Oṉṟu
-                    <lb n="12.7=90"/>poṉ kaḻañcēy mukkālē mañcāṭi —
+                    <lb n="12.7=92"/>poṉ kaḻañcēy mukkālē mañcāṭi <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
-                    tāmarai-c-ceyal tiru-p-poṟpū Oṉṟu poṉ patiṉ mukkaḻañcēy Āṟu mañcāṭi —
+                    tāmarai-c-ceyal tiru-p-poṟpū Oṉṟu poṉ patiṉ mukkaḻañcēy Āṟu mañcāṭi <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     <hi rend="grantha">dakṣi</hi>ṇa<hi rend="grantha">meru</hi>-vi<hi rend="grantha">ṭaṁ</hi>karkku-c cārtti Aruḷa
-                    <lb n="12.8=91" break="no"/>-k kuṭuttaṉa —
+                    <lb n="12.8=93" break="no"/>-k kuṭuttaṉa <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>         		
-                    Añcaṭuttu viḷakkiṉa tiraḷmaṇivaṭam Oṉṟu poṉ nāṟpattu Oṉpatiṉ kaḻañcēy Ēḻu mañcāṭiyuṅ kuṉṟi —
+                    Añcaṭuttu viḷakkiṉa tiraḷmaṇivaṭam Oṉṟu poṉ nāṟpattu Oṉpatiṉ kaḻañcēy Ēḻu mañcāṭiyuṅ kuṉṟi <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     Oppaṉ tiruk-kai-k-kāṟai Oṉṟu poṉ Aimpattu
-                    <lb n="12.9=92"/>Oru kaḻañc’ arai —
+                    <lb n="12.9=94"/>Oru kaḻañc’ arai <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
-                    Oppaṉ tiru-<unclear>k</unclear>-kai-k-kāṟai Oṉṟu poṉ nāṟpattu Aiṅ-kaḻañc’ araiyē Iraṇṭu mañcāṭi —
+                    Oppaṉ tiru-<unclear>k</unclear>-kai-k-kāṟai Oṉṟu poṉ nāṟpattu Aiṅ-kaḻañc’ araiyē Iraṇṭu mañcāṭi <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
                     Oppaṉ tiru-k-kai-k-kāṟai Oṉṟu poṉ nāṟpattu Oṉpatiṉ kaḻañcēy 
                     <milestone type="pagelike" unit="zone" n="13"/>
                     <label>Section 4 = 13</label>
-                    <lb n="13.1=93"/>mukkālē Iraṇṭu mañcāṭiyuṅ kuṉṟi —
+                    <lb n="13.1=95"/>mukkālē Iraṇṭu mañcāṭiyuṅ kuṉṟi <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
-                    Oppaṉ tiru-k-kai-k-kāṟai Oṉṟu poṉ nāṟpattu Aiṅ-kaḻañcēy mukkāl —
+                    Oppaṉ tiru-k-kai-k-kāṟai Oṉṟu poṉ nāṟpattu Aiṅ-kaḻañcēy mukkāl <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>
-                    <lb n="13.2=94"/>Oppaṉ tiruvaṭi-k-kāṟai Oraṇai poṉ toṇṇūṟṟu Aṟu kaḻañc’ ar<unclear>ai</unclear> <supplied reason="omitted">—</supplied>
+                    <lb n="13.2=96"/>Oppaṉ tiruvaṭi-k-kāṟai Oraṇai poṉ toṇṇūṟṟu Aṟu kaḻañc’ ar<unclear>ai</unclear> <supplied reason="omitted"><g ref="sym:dash" type="punctuation">.</g></supplied>
                 </p>
                 <p>
                     <unclear>ti</unclear>ru-p-paṭṭikai Oṉṟu poṉ nūṟṟu nāṟpattu
-                    <lb n="13.3=95"/>Oṉpatiṉ kaḻañcēy kāl —
+                    <lb n="13.3=97"/>Oṉpatiṉ kaḻañcēy kāl <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 <p>        		
                     cēramāṉaiyum pāṇṭiyarkaḷaiyum malai-nāṭṭu <unclear>E</unclear>ṟin=tu koṇṭa paṇṭāraṅka
-                    <lb n="13.4=96"/>ḷil poṉ koṇṭu ceytu kuṭutta tiru-p-paṭṭam Oṉṟu po<unclear>ṉ t</unclear>oḷāyirattu Eṇpattu Oru kaḻañcēy kāl —
+                    <lb n="13.4=98"/>ḷil poṉ koṇṭu ceytu kuṭutta tiru-p-paṭṭam Oṉṟu po<unclear>ṉ t</unclear>oḷāyirattu Eṇpattu Oru kaḻañcēy kāl <g ref="sym:dash" type="punctuation">.</g>
                 </p>
                 
             </div>
@@ -840,7 +839,7 @@
                 </p>
                 
                 <p>
-                    First edited <bibl><ptr target="bib:Hultzsch1891_01"/></bibl> (<ref target="DHARMA_INSSIIv02p0i0001">SII 2.</ref>), with partial facsimile (lines 1-7 = 1.1-1.7) and English translation.
+                    First edited <bibl><ptr target="bib:Hultzsch1891_01"/></bibl> (<ref target="DHARMA_INSSIIv02p0i0001">SII 2.1</ref>), with partial facsimile (lines 1-7 = 1.1-1.7) and English translation.
                 </p>
                 
                 <p>
