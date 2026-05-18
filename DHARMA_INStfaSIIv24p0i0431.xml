@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vallūru, slab set up in Śiva temple, Sadāśivadēva-Mahārāya king, Śaka 1475</title>
+				
+				<respStmt>
+					<resp>author of digital edition</resp>
+					<persName>
+						<name>DHARMA team</name>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">DHARMA_INStfaSIIv24p0i0431</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Registers the weight of four silver bed cushions to be used during the swing festival (<foreign>tiruvuñcal</foreign>) by a certain Viśvanātha Nāyaka. 
+						</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:reda" when="2026-05-18">Creation of the file on the
+				repository</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+		<body>
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+	
+	<ab>
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+	</ab>
+	
+	<p>
+		jayā<hi rend="grantha">tbhuda</hi>ya <hi rend="grantha">śāli</hi>vā<hi rend="grantha">ha</hi>na <hi rend="grantha">śa</hi>kava<hi rend="grantha">rṣaM</hi> <num value="1458"><g type="numeral">1000</g> 4 <g type="numeral">100</g> 5 <g type="numeral">10</g> 8</num> Itaṉ mel cellāniṉṟa <hi rend="grantha">hē</hi>viḷampi va<hi rend="grantha">rṣam</hi> māci <g ref="sym:tam-matam"/> <num value="12"><g type="numeral">10</g> 2</num> <g ref="sym:tam-teti"/>yil 
+	</p>
+	<p>
+		<hi rend="grantha">śrīman mahādhirājārāja rājaparameśvara śrī </hi>vi<hi rend="grantha">rapra</hi>tā<hi rend="grantha">pa śrī </hi>vi<hi rend="grantha">ra</hi> Accuta<hi rend="grantha">de</hi>va<hi rend="grantha">mahārā</hi>yar ta<choice><orig>mm</orig><reg>m</reg></choice> Uṭaiya Upaiyam Āka 
+	</p>
+		<p>
+			pe
+		<lb n="2" break="no"/><unclear>rumāḷ</unclear> <hi rend="grantha">śrī raṅga</hi>nā<hi rend="grantha">tha de</hi>vaṟku tiru-Ūñcal tirunāḷaikku tiru-Ūñcal mañcattukku vicuvanāta-nāya<surplus>k</surplus>kar kaiyil varakkāṭṭi Aruḷiṉa veḷḷi carappaḷḷi nālukku varākaṉ Iṭaiveḷḷi Irāya<hi rend="grantha">sa</hi>ppaṭi Araimaṉai-p paṭikkallāl tūkkam <num value="8392">8 <g type="numeral">1000</g> 3 <g type="numeral">100</g> 9 <g type="numeral">10</g> 2</num>kku kōyil-p paṭikkallāl varāka
+			<lb n="3" break="no"/>ṉ Iṭai tūkkam <num value="8392">8 <g type="numeral">1000</g> 3 <g type="numeral">100</g> 9 <g type="numeral">10</g> 2</num> <g ref="sym:bar" type="punctuation">.</g>
+			</p>
+	<p>
+		Inta Upaiya<supplied reason="omitted">m</supplied> varu<hi rend="grantha">ṣaM varṣam</hi> tirunāḷ-t tirunāḷ-t-tōṟum Accuta<hi rend="grantha">de</hi>va<hi rend="grantha">mahārā</hi>yar Upaiyam Āka 
+	</p>
+	<p>
+		<hi rend="grantha">Ācantrārkka</hi>m āka naṭakka-k kaṭavat' ākavum <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g> 
+		</p>
+	<p>
+		Inta <hi rend="grantha">śilāśāsa</hi>nam Eḻutiṉamaikku kōvilk kaṇakku <hi rend="grantha">śrī raṅ</hi>
+		<lb n="4" break="no"/><hi rend="grantha">ga-</hi>nā<hi rend="grantha">rā</hi>yaṇa<hi rend="grantha">pri</hi>yar Eḻuttu <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
+	</p>
+	
+</div>
+
+<div type="apparatus">
+
+</div>
+
+<div type="commentary">
+<p>ARIE corrects the date to Śaka 1459 (i.e., 1538 CE).
+</p>
+
+</div>
+
+<div type="bibliography">
+
+	<p>Reported in <bibl><ptr target="bib:ARIE1938-1939"/></bibl> (ARIE/1912-1913/B/1912/140).</p>
+                <p>Edited in <bibl><ptr target="bib:Narasimhaswamy1982_01"/></bibl> (SII 38.140).</p>
+                <p>This edition by Renato Dávalos (2026), based on <bibl><ptr target="bib:Narasimhaswamy1982_01"/></bibl>.</p>
+	<listBibl type="primary">
+
+		<bibl n="SII">
+			<ptr target="bib:Narasimhaswamy1982_01"/>
+			<citedRange unit="page">415</citedRange>
+			<citedRange unit="item">431</citedRange>
+		</bibl>
+
+	</listBibl>
+
+	<listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1938-1939"/>
+                        <citedRange unit="page">55</citedRange>
+                        <citedRange unit="appendix">B/1939</citedRange>
+                        <citedRange unit="item">431</citedRange>
+                    </bibl>	
+                    
+                </listBibl>
+
+
+
+</div>
+
+	</body>
+</text>
+</TEI>
+<!--Metadata: I PRĀKĀRA, WEST WALL.-->
