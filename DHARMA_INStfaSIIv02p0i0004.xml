@@ -82,6 +82,7 @@
         <body>
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
+                <!--update Eḻu to Ēḻu where necessary-->
                 <ab>
                     <milestone n="1" unit="zone" type="pagelike"/><label>Section 1</label><!--Village of Pālaiyūr-->
                     <lb n="1.1=1"/><hi rend="grantha">svasti śrī</hi> <g ref="sym:bullet-double" type="punctuation">.</g>
@@ -150,17 +151,18 @@
                     <lb n="3.6=24" break="no"/>yē-y Iraṇṭumā mukkāṇi Araikkāṇi-k kīḻ Irumāvarai Araikkāṇi-k kīḻ Eṭṭumāvilum Ūr-irukkaiyuṅ kuḷaṅkaḷum Aiyyaṉ kōyilum piṭāri kōyilun tīṇṭā-c-cēri
                     <lb n="3.7=25" break="no"/>yum Ivv-ūr nilattai y-ūṭaṟuttu-p pōṉa vāykkālkaḷālum cuṭukāṭṭālum Irai-Ili nilam mukkālē Orumā Araikkāṇi muntirikai-k kīḻ Irumāvarai nīkki Iṟai kaṭṭiṉa
                     <lb n="3.8=26"/>nilam Irupattu Oṉṟē-y mukkālē Orumāvarai Araikkāṇi muntirikai-k kīḻ Araikkāṇi-k kīḻ Eṭṭumāviṉāl I<supplied reason="lost">ṟ</supplied><unclear>ai</unclear> kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭaval
-                    <lb n="3.9=27" break="no"/>lāṉ Eṉṉum marakkālāl Aḷakka-k kaṭava nellu Iraṇṭ' āyirattu Orunūṟṟu Eṇpattu mukkalaṉē Aiṅkuṟuṇi n<unclear>ā</unclear><supplied reason="lost">ṉāḻi</supplied> <g ref="sym:flourish-taperOut-complex" type="connector">§</g> <g ref="sym:flourish-taperOut-complex" type="connector">§</g> <g ref="sym:flourish-taperOut-complex" type="connector">§</g> <g ref="sym:flourish-taperOut-complex" type="connector">§</g> <g ref="sym:flourish-taperOut-complex" type="connector">§</g> <g ref="sym:flourish-taperOut-complex" type="connector">§</g> <g ref="sym:flourish-taperOut-complex" type="connector">§</g>
-                                        
+                    <lb n="3.9=27" break="no"/>lāṉ Eṉṉum marakkālāl Aḷakka-k kaṭava nellu Iraṇṭ' āyirattu Orunūṟṟu Eṇpattu mukkalaṉē Aiṅkuṟuṇi n<unclear>ā</unclear><supplied reason="lost">ṉāḻi</supplied> <g ref="sym:flourish-taperOut-complex" type="punctuation">.</g> <g ref="sym:flourish-taperOut-complex" type="connector">§</g> <g ref="sym:flourish-taperOut-complex" type="connector">§</g> <g ref="sym:flourish-taperOut-complex" type="connector">§</g> <g ref="sym:flourish-taperOut-complex" type="connector">§</g> <g ref="sym:flourish-taperOut-complex" type="connector">§</g> <g ref="sym:flourish-taperOut-complex" type="connector">§</g>
+                </p>
+                
+                <p>               
                     <milestone n="4" unit="zone" type="pagelike"/><label>Section 4</label><!--Villages of [...] and Kiḷinallūr-->
-                    
                     <lb n="4.1=28"/>teṉ-kaṭuvāy-āṉa Arumoḻi-tēva-vaḷa-nāṭṭu neṉmali-nāṭṭu koṟ <gap reason="illegible" unit="character" quantity="3"/>paḷḷikaḷum kaṇi muṟṟūṭṭum Uṭpaṭa
                     <lb n="4.2=29"/>Aḷanta paṭi nilamu<unclear>m n</unclear>ūṟṟu Eḻupattu muṉṟ' araiyē Iraṇṭumā <unclear>mukkāṇi</unclear>-k kīḻ Oṉpatumā muntirikai-k 
                     <lb n="4.3=30"/>kīḻ Iraṇṭumā mukkā<unclear>ṇi</unclear> Araikkāṇiyilum Ūr-irukkai nattamum ku<unclear>ḷaṅ</unclear>kaḷum Aiyyaṉ kōyilum tīṇṭā-c-cēri
                     <lb n="4.4=31" break="no"/>kaḷum pulattil-k kuṭi <gap reason="lost" quantity="2" unit="character"/> kkai nattaṅkaḷum piṭāri kōyilālum I<unclear>ṟaiyili</unclear> nilam patiṉ mūṉṟē Oṉpatumā 
                     <lb n="4.5=32" break="no"/>k kāṅi Araikkāṇi mun<supplied reason="lost">tiri</supplied>kai-k kīḻ mukkālē Orumā Araikkāṇi-k <unclear>kīḻ Araiyē</unclear> kāṇi Araikkāṇi nīkki Iṟaikaṭṭi
                     <lb n="4.6=33" break="no"/>ṉa nilam muṉṉūṟṟu <gap reason="lost" quantity="7" unit="character"/> <unclear>mā</unclear>-k kāṇi-k kīḻ Araiyē <supplied reason="lost">Iraṇ</supplied><unclear>ṭu mā</unclear> mukkāṇi Araikkāṇi-k kīḻ Araiyē Iru
-                    <lb n="4.7=34" break="no"/>māvaraiyiṉāl Iṟai <gap reason="lost" quantity="10" unit="character"/> <hi rend="grantha">rājakesari</hi>yōṭ' <supplied reason="lost">ok</supplied>kum Āṭavallāṉ Eṉṉum marakkālāl Aḷak
+                    <lb n="4.7=34" break="no"/>māvaraiyiṉāl Iṟai <supplied reason="lost">kaṭṭiṉa kāṇik kaṭaṉ</supplied> <hi rend="grantha">rājakesari</hi>yōṭ' <supplied reason="lost">ok</supplied>kum Āṭavallāṉ Eṉṉum marakkālāl Aḷak
                     <lb n="4.8=35" break="no"/>ka-k-kaṭava nellu mup <gap reason="lost" unit="character" quantity="10"/> <unclear>ṉ</unclear> āyirattu <gap reason="lost" unit="character" quantity="4"/> tu <gap reason="lost" unit="character" quantity="1"/> nāṟkkalaṉē Irutūṇi Orunāḻi <g ref="sym:flourish-taperOut" type="symbol">*</g>
                 </p>
                 <p> In-nāṭṭu-k
@@ -219,18 +221,18 @@
                     In-nāṭṭu nakaram tirutteṅkūr Aḷanta paṭi nilam muppattu nālē kālē mukkāṇi muntirikai-k kīḻ mukkālē Orumā mukkāṇi muntiri 
                     <lb n="7.2=56" break="no"/>kai-k kīḻ Iraṇṭumāvilum Ivv-ūr Ūr-nattamuṅ kuḷaṅkaḷum pulattil kuḷaṅkaḷum tīṇṭā-c-cēriyum paṟai-c-cēriyuñ cuṭukāṭum Āka Iṟaiyili nilam nāṉk' araiyē mukkāṇi A
                     <lb n="7.3=57" break="no"/>raikkāṇi-k kīḻ mukkālē Araimā Araikkāṇi muntirikai-k kīḻ nāṉkumā nīkki nilam Irupatt' oṉpataraiyē nāṉkumā mukkāṇi Araikkāṇi muntirikai-k kīḻ Orumā muntirikai-k kīḻ muk
-                    <lb n="7.4=58" break="no"/>kālē mūṉṟumāviṉāl Iṟai kaṭṭiṉa poṉ Irunūṟṟu-t toṇṇūṟṟu Eḻukaḻañcey nālum <supplied reason="subaudible">m</supplied>añcāṭiyum mūṉṟumā mukkāṇi <g ref="sym:flourish-taperOut" type="punctuation">.</g> 
+                    <lb n="7.4=58" break="no"/>kālē mūṉṟumāviṉāl Iṟai kaṭṭiṉa poṉ Irunūṟṟu-t toṇṇūṟṟu Eḻukaḻañcey nālu<supplied reason="subaudible">m</supplied> mañcāṭiyum mūṉṟumā mukkāṇi <g ref="sym:flourish-taperOut" type="punctuation">.</g> 
                 </p>
                 <p>
                     vaṭa-kaṭuvāy-āṉa <hi rend="grantha">kṣatriyaśikhā</hi>maṇi vaḷa
-                    <lb n="7.5=59" break="no"/>nāṭṭu-t tirunaṟaiyūr-nāṭṭu Arakkaṉkuṭi Aḷanta paṭi nilam Eḻē Āṟumā-k kāṇi Araikkāṇi-k kīḻ kāṇi muntirikai-k kīḻ Eṭṭumā mukkāṇi-k kīḻ mukkālē Orumāvilum Ivvūr Ūr
+                    <lb n="7.5=59" break="no"/>nāṭṭu-t tirunaṟaiyūr-nāṭṭu Arakkaṉkuṭi Aḷanta paṭi nilam Ēḻē Āṟumā-k kāṇi Araikkāṇi-k kīḻ kāṇi muntirikai-k kīḻ Eṭṭumā mukkāṇi-k kīḻ mukkālē Orumāvilum Ivvūr Ūr
                     <lb n="7.6=60" break="no"/>nattamuṅ kuḷaṅkaḷālum Iṟai-y-ili nilam Eṭṭumā-k kāṇi-k kīḻ Oṉpatumā nīkki nilam Āṟē mukk<unclear>ā</unclear>lē mūṉṟumā muntirikai-k kīḻ Araiyē mākāṇi muntirikai-k kīḻ Eṭṭumā 
-                    <lb n="7.7=61"/>mukkāṇi-k kīḻ mukkālē Orumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' o<unclear>kku</unclear>m Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu Aṟunūṟṟu
-                    <lb n="7.8=62"/>Aiympattu Aṟukalaṉē Eḻukuṟuṇi muṉṉāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g> 
+                    <lb n="7.7=61"/>mukkāṇi-k kīḻ mukkālē Orumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okku<!--add to apparatus-->m Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava nellu Aṟunūṟṟu
+                    <lb n="7.8=62"/><choice><orig>Aiy</orig><reg>Ai</reg></choice>mpattu Aṟu-kalaṉē Eḻu-kuṟuṇi muṉṉāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g> 
                 </p>
                 <p>
-                    In-nāṭṭu-p piṭāraceri Aḷanta paṭi nilam Aiñc' araiyē Iraṇṭumā mukkāṇi muntirikai-k kīḻ Araiyē muntirikai-k kīḻ 
-                    <lb n="7.9=63"/>Araiyē Iraṇṭumāvilum Ivv-ūr Ūr-nattamuṅ kuḷaṅkaḷum Āka Iṟai-y-ili nilam nāṉkumā-k kā<unclear>ṇi A</unclear>raikkāṇi muntirikai-k kīḻ mākāṇi Araikkāṇi-k kīḻ Eṭṭumā nīkki nilam Aiñcē
+                    In-nāṭṭu-p piṭāracēri Aḷanta paṭi nilam Aiñc' araiyē Iraṇṭumā mukkāṇi muntirikai-k kīḻ Araiyē muntirikai-k kīḻ 
+                    <lb n="7.9=63"/>Araiyē Iraṇṭumāvilum Ivv-ūr Ūr-nattamuṅ kuḷaṅkaḷum Āka Iṟai-y-ili nilam nāṉkumā-k kā<unclear>ṇi</unclear> <supplied reason="lost">A</supplied>raikkāṇi muntirikai-k kīḻ mākāṇi Araikkāṇi-k kīḻ Eṭṭumā nīkki nilam Aiñcē
                     
                     <milestone n="8" unit="zone" type="pagelike" break="no"/><!--Villages of Maṇaṟkālappaḷḷi and Peṇpaḷḷi-->
                     
@@ -240,35 +242,35 @@
                 </p>
                 <p>
                     In-nāṭṭu veḷā-nāṭṭu
-                    <lb n="8.4=67" break="no"/>maṇaṟ kāla-p paḷḷiyun tiṟappāṉ <hi rend="grantha">mahādevar<note><foreign>virāma</foreign> is marked in this sole instance.</note> de</hi>vatāṉaṅkaḷum tiruvaṭikaḷ <hi rend="grantha">de</hi>vatāṉaṅkaḷum
-                    <lb n="8.5=68"/>Ivv-ūrōṭum Ēṟiṉa peṇpaḷḷiyum Āka Aḷanta paṭi nilam Ai<surplus>y</surplus>mpatt' oṉṟē mukkā
+                    <lb n="8.4=67"/>maṇaṟ kāla-p paḷḷiyun tiṟappāṉ <hi rend="grantha">mahādevar· de</hi>vatāṉaṅkaḷum tiruvaṭikaḷ <hi rend="grantha">de</hi>vatāṉaṅkaḷum
+                    <lb n="8.5=68"/>Ivv-ūrōṭum Ēṟiṉa peṇpaḷḷiyum Āka Aḷanta paṭi nilam <choice><orig>Aiy</orig><reg>Ai</reg></choice>mpatt' oṉṟē mukkā
                     <lb n="6=69" break="no"/>lē Orumā-k kāṇi munt<choice><sic>a</sic><corr>i</corr></choice>rikai-k kīḻ mukkālē mummāvarai y-araikkāṇi-k kīḻ Araiyi
                     <lb n="8.7=70" break="no"/>lum Ūr-nattaṅkaḷuṅ kuḷaṅkaḷum piṭāri kōyilum peruvaḻiyum Āka Iṟai-y-ili nīṅku ni
                     <lb n="8.8=71" break="no"/>lam Oṉṟē mukkālē Iraṇṭumā-k kāṇi muntirikai-k kīḻ Araiyē Iraṇṭumā
-                    <lb n="8.9=72" break="no"/>k kāṇi-k kīḻ mukkālē Orumā nīkki nilam nāṟpatt' onpatē mukkālē nāṉkumāvi
+                    <lb n="8.9=72" break="no"/>k kāṇi-k kīḻ mukkālē Orumā nīkki nilam nāṟpatt' o<choice><orig>n</orig><reg>ṉ</reg></choice>patē mukkālē nāṉkumāvi
                     
                     <milestone n="9" unit="zone" type="pagelike" break="no"/><!--Villages of Nerkuppai and Maruttuvakkuṭi-->
                     
-                    <lb n="9.1=73" break="no"/>ṉ kīḻ Āṟumā-k kāṇi muntirikai-k kīḻ Araiyē nāṉkumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava n<supplied reason="lost">ellu</supplied> <gap reason="lost" quantity="4" unit="character"/>
+                    <lb n="9.1=73" break="no"/>ṉ kīḻ Āṟumā-k kāṇi muntirikai-k kīḻ Araiyē nāṉkumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ Eṉṉum marakkālāl Aḷakka-k-kaṭava <supplied reason="lost">n</supplied>e<supplied reason="lost">llu</supplied> <gap reason="lost" quantity="3" unit="character"/> <supplied reason="lost">āyi</supplied><!--add apparatus note-->
                     <lb n="9.2=74" break="no"/>rattu-t toḷāyiratt' orupatt' eṇkala<choice><orig>n</orig><reg>ṉ</reg></choice>ē Irutūṇi mukkuṟuṇi Orunāḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g> </p>
                 <p>
                     Aricilukkuṅ kāvīrikku naṭu-v-āṉa Uyyakkoṇṭār-vaḷa-nāṭṭu-t tiraimūr-nāṭṭu-p paḷḷi-c-cantam Iṟaṅkiṉa neṟkuppai A<supplied reason="lost">ḷanta-paṭi ni</supplied>
-                    <lb n="9.3=75" break="no"/>lam muppatt' oṉpatē mukkāṇi Araikkāṇi muntirikai-k kīḻ Arai<unclear>yē</unclear> Araikkāṇi muntirikai-k kīḻ nāṉkumāvilum Ūr-nattattāluṅ kuḷaṅkaḷāluñ cuṭukāṭṭālum <supplied reason="lost">vv-ūr nilattai</supplied>
+                    <lb n="9.3=75" break="no"/>lam muppatt' oṉpatē mukkāṇi Araikkāṇi muntirikai-k kīḻ Araiyē<!--add apparatus note--> Araikkāṇi muntirikai-k kīḻ nāṉkumāvilum Ūr-nattattāluṅ kuḷaṅkaḷāluñ cuṭukāṭṭālum I<supplied reason="lost">vv-ūr nilattai</supplied>
                     
-                    <lb n="9.4=76"/>Ūṭaṟuttu-k kīḻ-nāṭṭukku nīr pāya-p poṉa Āṟukaḷālum vāykkālkaḷālum Āka Iṟai-y-ili nīṅku nilam Oṉṟ' araiyē mummāvarai Araikkāṇi-k kīḻ Araiyē Orumā A<supplied reason="lost">raikkāṇi</supplied>
+                    <lb n="9.4=76"/>Ūṭaṟuttu-k kīḻ-nāṭṭukku nīr pāya-p pōṉa Āṟukaḷālum vāykkālkaḷālum Āka Iṟai-y-ili nīṅku nilam Oṉṟ' araiyē mummāvarai Araikkāṇi-k kīḻ Araiyē Orumā A<supplied reason="lost">r</supplied><unclear>ai</unclear><supplied reason="lost">kkāṇi</supplied>
                     
-                    <lb n="9.5=77"/>muntirikai-k kīḻ nāṉkumā nīkki nilam muppatt' eḻē Eḻumā-k kāṇi-k kīḻ mukkālē nāṉkumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ Eṉ<supplied reason="lost">ṉum ma</supplied>
+                    <lb n="9.5=77"/>muntirikai-k kīḻ nāṉkumā nīkki nilam muppatt' ēḻē Eḻumā-k kāṇi-k kīḻ mukkālē nāṉkumāviṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okkum Āṭavallāṉ Eṉ<supplied reason="lost">ṉum ma</supplied>
                     
                     <lb n="9.6=78" break="no"/>rakālāl Aḷakka-k-kaṭava nellu mū-v-āyiratt' eḻunūṟṟu Irupatt' irukala<choice><orig>n</orig><reg>ṉ</reg></choice>ē Ai<choice><orig>ññ</orig><reg>nn</reg></choice>āḻi <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                 </p>
                 <p>
-                    vaṭakarai <hi rend="grantha">rājendra</hi>-ciṅka-vaḷa-nāṭṭu Iṉṉampar-nāṭṭu maruttuva-k-kuṭi Aḷanta paṭi nilam <supplied reason="lost">muppat</supplied>
+                    vaṭakarai <hi rend="grantha">rājendra</hi>-ciṅka-vaḷa-nāṭṭu Iṉṉampar-nāṭṭu maruttuva-k-kuṭi Aḷanta paṭi nilam <supplied reason="lost">muppat</supplied><!--add apparatus note-->
                     
                     <lb n="9.7=79" break="no"/>t' araiyē nāṉkumā mukkāṇi Araikkāṇi-k kīḻ Araiyē mūṉṟumāvilum Ūr-irukkaiyum <hi rend="grantha">śrī</hi>-kōyilkaḷālun tirumuṟṟaṅkaḷālun tirunan=tavaṉaṅkaḷālum paṟai-c-cēri<supplied reason="lost">yālum</supplied>
                     
-                    <lb n="9.8=80"/>cuṭukāṭum Āka Iṟai-y-ili nīṅku nilam mukkālē Iraṇṭumā Araikkāṇi-k kīḻ o
-                    Or<unclear>u</unclear>māvarai muntirikai nīkki nilam Irupatt' oṉpatē mukkālē Iraṇṭumā mukkāṇi-k kīḻ Arai<supplied reason="lost" cert="low">yē Oru</supplied>  
-                    <lb n="9.9=81" break="no"/>mākāṇi Araikkāṇi muntirikaiyiṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okku<supplied reason="lost">m Āṭavallā</supplied>ṉ Eṉṉum marak<supplied reason="lost">kāl</supplied>āl Aḷakka-k-kaṭava nellu Iraṇṭ' āyirattu-t toḷāyirattu Aṟupatt' eḻukala<choice><orig>n</orig><reg>ṉ</reg></choice>ē Irutūṇi-p patakku irunāḻi 
+                    <lb n="9.8=80"/>cuṭukāṭum Āka Iṟai-y-ili nīṅku nilam mukkālē Iraṇṭumā Araikkāṇi-k kīḻ
+                    Or<unclear>u</unclear>māvarai muntirikai nīkki nilam Irupatt' oṉpatē mukkālē Iraṇṭumā mukkāṇi-k kīḻ Arai<supplied reason="lost" cert="low">yē Oru</supplied><!--add apparatus note-->
+                    <lb n="9.9=81" break="no"/>mākāṇi Araikkāṇi muntiri<supplied reason="lost">kai</supplied>yiṉāl Iṟai kaṭṭiṉa kāṇi-k-kaṭaṉ <hi rend="grantha">rājakesari</hi>yōṭ' okku<supplied reason="lost">m Āṭavallā</supplied>ṉ<!--add apparatus note--> Eṉṉum marak<supplied reason="lost">kāl</supplied>āl Aḷakka-k-kaṭava nellu Iraṇṭ' āyirattu-t toḷāyirattu Aṟupatt' eḻukala<choice><orig>n</orig><reg>ṉ</reg></choice>ē Irutūṇi-p patakku Irunāḻi <supplied reason="lost"><g ref="sym:flourish-taperOut" type="punctuation">.</g></supplied>
                     
                 </p>
             </div>
@@ -295,8 +297,7 @@
                             <gap reason="lost" quantity="6" unit="character"/>
                         </rdg>
                     </app>
-                </listApp>
-                
+                </listApp>                
                 <listApp>
                     <app loc="21">
                         <lem>-k kīḻ Araiyē Iraṇṭu mā nīkki Iṟai kaṭṭi</lem>
@@ -433,7 +434,10 @@
                         <rdg source="bib:Hultzsch1895_01">kku nīr pāya
                         </rdg>
                     </app>
-                    
+                    <app loc="67">
+                        <lem><hi rend="grantha">mahādevar·</hi></lem>
+                        <note>The <foreign>virāma</foreign> is marked in this sole instance.</note>
+                    </app>
                 </listApp>
                 
             </div>
