@@ -10,23 +10,12 @@
             <titleStmt>
                 <title>Tiruvōṟṟiyūr, Ādhipurīśvara, time of Rājendra Cōḻa, year 29</title>
                 <respStmt>
-                    <resp>EpiDoc encoding</resp>
-                    <persName>
-                        <forename>Renato</forename>
-                        <surname>Dávalos</surname>
-                    </persName>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>
                     </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>Intellectual authorship of edition</resp>
-                    <persName ref="part:reda">
-                        <forename>Renato</forename>
-                        <surname>Dávalos</surname>
-                    </persName>
-                </respStmt>
+                </respStmt>                
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
@@ -255,8 +244,7 @@
                    
                 </listBibl>          
                
-                <listBibl type="secondary">
-                   
+                <listBibl type="secondary">                   
                    
                     <bibl>
                         <ptr target="bib:ARIE1912-1913"/>
