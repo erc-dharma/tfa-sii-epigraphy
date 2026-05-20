@@ -85,13 +85,13 @@
     </teiHeader>
     <text xml:space="preserve">
         <body>
-            
+           
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 
                 <ab>
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
-                
+               
                 <lg met="āciriyappā">
                     <l n="1">tirumaṉni vaḷara Irunila maṭan=taiyum</l>
                     <l n="2">pōrc<surplus>c</surplus><choice><sic>a</sic><corr>e</corr></choice>ya-p pā<lb n="2" break="no"/>vaiyuñ c<choice><sic>i</sic><corr>ī</corr></choice>rttanil celviyum</l>
@@ -161,8 +161,8 @@
                     <l n="66">toṭukaṭaṟ kāval kaṭumuraṭa-k <supplied reason="omitted">kaṭ</supplied>āramum</l>
                     <l n="67">māpporu taṇṭāṟ koṇ<lb n="29" break="no"/>ṭa</l>
                 </lg>
-        <p>         
-            kō-p-parakē<hi rend="grantha">sa</hi>ripaṉ=mar-āna Uṭaiyār śrī-rā<hi rend="grantha">jentra</hi>-cōḻa-<hi rend="grantha">de</hi>varkku yāṇṭu <num value="29">2 <g type="numeral">10</g> 9</num> Āvatu 
+        <p>        
+            kō-p-parakē<hi rend="grantha">sa</hi>ripaṉ=mar-āna Uṭaiyār śrī-rā<hi rend="grantha">jentra</hi>-cōḻa-<hi rend="grantha">de</hi>varkku yāṇṭu <num value="29">2 <g type="numeral">10</g> 9</num> Āvatu
         </p>
         <p>
             paṇi
@@ -172,98 +172,99 @@
             <lb n="33" break="no"/>ṭāra-k kallāl koṇṭa tuḷainiṟai poṉ Irupatiṉ kaḻañcukku poṉ kaḻañcu <hi rend="grantha">rāja</hi>kēcari marakkālā
             <lb n="34" break="no"/>l palic<unclear>ai</unclear> <g ref="sym:tam-nel"/> Iru kalam āka
         </p>
-                
+               
                 <p>
                     Āṇṭu varai Aḷakka kaṭava <g ref="sym:tam-nel"/> nāṟpatiṉ kalattukkum Āṭiyaruḷa ney
                     <lb n="35"/>Eṇpatiṉāḻikku <g ref="sym:tam-nel"/> muppatiru kalamum tiruvamirtukku patteṭṭu-k kuttal Arici ka<unclear>la</unclear>ttukku Irukala<choice><orig>n</orig><reg>ṉ</reg></choice>ē
-                    
+                   
                     <lb n="36"/>tūṇi-p-patakkum neyyamutu Iru-nāḻikku <g ref="sym:tam-nel"/> kalamum tayiramutu tūṇi-p-patakkukku <g ref="sym:tam-nel"/> ka<unclear>lamu</unclear>m paruppamu
-                    
+                   
                     <lb n="37" break="no"/>tu Uḷḷiṭṭa palakaṟiyamutu pat<unclear>tu</unclear>kku <g ref="sym:tam-nel"/> kalam miḷaku v-uḻakkukkum kaṭuku Uri<supplied reason="lost">kku</supplied>m <gap reason="lost" quantity="3" unit="character"/>kkum pu
-                    
+                   
                     <lb n="38" break="no"/>ḷiṅkaṟi Amutu patināḻikku <g ref="sym:tam-nel"/> kam veṟuṅkāy Aimpatukkum veṟṟilai Irunū<unclear>ṟṟukku</unclear> nellu
-                    
+                   
                     <lb n="39" break="no"/>patakkum kuca-k-kalattukku <g ref="sym:tam-nel"/> tūṇi-p-patakkum viṟaku kaṭṭukku <g ref="sym:tam-nel"/> Iru-tūṇiyum Aṭuma<unclear>ṭavāṟ</unclear>ku <g ref="sym:tam-nel"/> {<choice><unclear>kku</unclear><unclear>varaikkum</unclear></choice>}
-                    
+                   
                     <lb n="40" break="no"/>m Āka
                 </p>
-                
+               
     <p>
         Orāṇṭi<choice><orig>n</orig><reg>ṉ</reg></choice>ukku kāvaṉūr-āṉa kamala-nārayaṇa-c-caruppēti-maṅkalattu cavaiyār Āṇtu va⌈
         <lb n="41" break="no"/>rai Aḷakka kaṭava <g ref="sym:tam-nel"/> nāṟpatiṉ kalam Ip-paṭi Āṭṭāṇṭu tōṟum mārkaḻi tiruvātiraikku <unclear>vai</unclear><hi rend="grantha"><unclear>bha</unclear></hi>ttu <gap reason="lost" quantity="2" unit="character"/>
-        
+       
         <lb n="42"/>meṟpaṭiyāṉ Uṭaiyār Ucciyam poḻutu Amutu ceytaruḷuvatiṉ muṉpu vētam va<unclear>ll</unclear>ār muvar <hi rend="grantha">brā</hi>
-        
+       
         <lb n="43" break="no"/><hi rend="grantha">hma</hi>ṇarkku-k kuṭukka caṭṭi-c-cōṟu muṉṟu puṟappaṭuvataṟku <unclear>taḷi</unclear> muṉṟiṉukku patt' eṭṭu-k kuttal
-        
+       
         <lb n="44"/>Arici nānāḻi Uriyum ney Āḻākkē-y Oru ceviṭum caṟkarai Āḻā<supplied reason="omitted">k</supplied>kē-y Iru ceviṭu tayir nāḻi
-        
+       
         <lb n="45"/>Uriyum paruppu Āḻā<supplied reason="omitted">k</supplied>kē Iru ceviṭ' araiyum po<unclear>ṟi</unclear>kaṟi nālum veṟuṅkāy Āṟum veṟṟilai I
-        
+       
         <lb n="46" break="no"/>rupattu nālum Uḷḷiṭṭu vēṇṭum vicattukku vai<surplus>y</surplus>tta maturān=taka-tēvaṉ māṭai nāṟppa<supplied reason="omitted">t</supplied>t' ai
-        
+       
         <lb n="47" break="no"/>ñcu Ivaṟṟuḷ puḻaṟ-kōṭṭattu puḻal-nāṭṭu nakaram tiruvoṟṟiyūr nakara<supplied reason="omitted">t</supplied>tār caṭṭi-cōṟu Iraṇṭu puṟa
-        
+       
         <lb n="48" break="no"/>ppaṭuvataṟku koṇṭa māṭai muppatum koṇṭu Āṇṭu varai Aḷakka-k kaṭava palicai nellu
-        
+       
         <lb n="49"/>Aṟupatiṉ kalamum Ik-kōṭṭattu-k kanṟikaippeṟūr nāṭṭu mañciyaṉ kārāṇai ūrar caṭṭi<unclear>c</unclear>cō
-        
+       
         <lb n="50" break="no"/>ṟu Oṉṟu puṟappaṭuvataṟkku koṇṭa māṭai patiṉ aiñcum koṇṭu Āṇṭu varai Aḷakka-k kaṭava <unclear>pa</unclear>
         <lb n="51" break="no"/>licai nellu muppati<choice><orig>n</orig><reg>ṅ</reg></choice> kalamum <unclear>Ā</unclear>ka caṭṭi-c-cōṟu muṉṟu puṟappaṭuvataṟkku koṇṭa māṭai nā
-        
-        <lb n="52" break="no"/>ppatt' aiñcum koṇṭu Āṇṭu varai Aḷakka-<supplied reason="omitted">k</supplied> kaṭava palicai nellu toṇṇūṟṟu-k kalam 
+       
+        <lb n="52" break="no"/>ppatt' aiñcum koṇṭu Āṇṭu varai Aḷakka-<supplied reason="omitted">k</supplied> kaṭava palicai nellu toṇṇūṟṟu-k kalam
     </p>
-                
-                
+               
+               
             </div>	
-            
+           
             <div type="apparatus">
-                
+               
                 <!--<listApp>
                     <app loc="0">
                     <lem>...</lem>
                     <rdg source="bib:Swaminathan2019_01">...</rdg>
                     </app>
-                    
+                   
                     </listApp>-->
-                
+               
             </div>
-            
+           
             <div type="translation" resp="part:reda">
-                
+               
                 <p n="1">Prosperity! Fortune!</p>
-                
+               
             </div>	
-            
+           
             <!--<div type="commentary">
-                
+               
                 </div>-->
-            
+           
             <div type="bibliography">
-                
+               
                 <p>Reported in <bibl><ptr target="bib:ARIE1912-1913"/></bibl> (ARIE/1912-1913/B/1912/140).</p>
                 <p>Edited in <bibl><ptr target="bib:Swaminathan2019_01"/></bibl> (SII 38.140).</p>
                 <p>This edition by Renato Dávalos (2025), based on <bibl><ptr target="bib:Swaminathan2019_01"/></bibl>.</p>
-                
+               
                 <listBibl type="primary">
-                    
+                   
                     <bibl n="SII">
                         <ptr target="bib:Swaminathan2019_01"/>
                         <citedRange unit="page">153-156</citedRange>
                         <citedRange unit="item">140</citedRange>
                     </bibl>
-                    
-                </listBibl>           
-                
+                   
+                </listBibl>          
+               
                 <listBibl type="secondary">
-                    
+                   
+                   
                     <bibl>
                         <ptr target="bib:ARIE1912-1913"/>
                         <citedRange unit="page">21</citedRange>
                         <citedRange unit="appendix">B/1912</citedRange>
                         <citedRange unit="item">140</citedRange>
                     </bibl>	
-                    
+                   
                 </listBibl>
             </div>
         </body>
@@ -272,5 +273,5 @@
 
 <!--METADATA:On the third pillar in the same place
 
-    
+   
 -->
