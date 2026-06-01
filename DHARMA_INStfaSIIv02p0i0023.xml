@@ -30,11 +30,12 @@
                     </msIdentifier>
                     <msContents>
                         <summary>
+                            <p>Upper tier of southern base of the <foreign>vimāna</foreign>, eastern edge.</p>                            
                         </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p/>
+                            <p>The formulaic verse in line A1 is in larger characters.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -49,7 +50,7 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
-                <div type="textpart" n="A">
+                <div type="textpart" n="A" ><head>Upper row of upper tier</head>
                     <lg xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                         <l n="a"><lb n="A1"/>dāna-pālanayor mmaddhye</l>
                         <l n="b">dānā<choice><sic>ś</sic><corr>c</corr></choice> chreyo <supplied reason="subaudible">’</supplied>nupālanaM <supplied reason="undefined"><g ref="sym:danda" type="punctuation">.</g></supplied></l>
@@ -80,7 +81,7 @@
                     </p>
                 </div>
                 
-                <div type="textpart" n="B">
+                <div type="textpart" n="B"><head>Horizontal plane of lower row of upper tier</head>
                     <p> 
                         <lb n="B1" style="text-align: right"/><hi rend="grantha">rājā</hi>viṉ Aruḷi ceyal paṭikku <hi rend="grantha">mantra-mūrtti</hi> veṭṭuvitta<unclear>tu</unclear>
                     </p>
