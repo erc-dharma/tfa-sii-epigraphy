@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tanjore, Bṛhadīśvara, time of Tirumalai, Śaka year 1377 (SII 2.23)</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INStfaSIIv02p0i0023</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2026-01-26" status="draft">creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                
+                <div type="textpart" n="A">
+                    <lg xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                        <l n="a"><lb n="A1"/>dāna-pālanayor mmaddhye</l>
+                        <l n="b">dānā<choice><sic>ś</sic><corr>c</corr></choice> chreyo <supplied reason="subaudible">’</supplied>nupālanaM <supplied reason="undefined"><g ref="sym:danda" type="punctuation">.</g></supplied></l>
+                        <l n="c">dā<choice><sic>r</sic><corr>n</corr></choice>āT svargam avāpnot<choice><sic>a</sic><corr>i</corr></choice></l>
+                        <l n="d">pālanād acyutaM padaM <supplied reason="undefined"><g ref="sym:ddanda" type="punctuation">.</g> 1</supplied></l>
+                    </lg>
+                    
+                    <p>
+                        <lb n="A2"/><unclear><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g></unclear> <hi rend="grantha">śubham astu śrī</hi> <supplied reason="undefined"><g ref="sym:ddanda" type="punctuation">.</g></supplied>
+                    </p>
+                    
+                    <p>
+                        <hi rend="grantha">śakābdaM</hi> Ā<supplied reason="lost">yirattu</supplied> muṉṉūṟṟu Eḻupattu Eḻiṉ mēṟ cellā niṉṟa <hi rend="grantha">bhā</hi>va-varu<hi rend="grantha">ṣa</hi>ttukku-c cellum
+                        <lb n="A3"/><hi rend="grantha">yu</hi>va-varu<hi rend="grantha">ṣa</hi>m cittirai <g ref="sym:tam-matam" type="ideogram"/> <num value="17"><unclear><g type="numeral">10</g> 7</unclear></num> <gap reason="lost" quantity="2" unit="character"/>
+                    </p>
+                    
+                    <p>
+                        <hi rend="grantha">śrīmaN mahāmaṇḍa</hi>le<hi rend="grantha">śvaraN</hi> <choice><sic>meti</sic><corr><hi rend="grantha">medi</hi></corr></choice><choice><sic>ṉi</sic><corr>nī</corr></choice><choice><sic><hi rend="grantha">misa</hi>ra</sic><corr><hi rend="grantha">śvara</hi></corr></choice> kaṇṭa kaṭṭāri cāḷuva-cāḷuva <surplus>ti</surplus>tirumalai-tēva
+                        <lb n="A4" break="no"/>-ma<hi rend="grantha">hārā</hi>car tañcāvūr va <gap reason="lost" quantity="3" unit="character"/> ṇṭayam ta<unclear reason="eccentric_ductus">ñ</unclear>ca-mā-maṇi-kaṇṭaṅkuṟai nākaḷāpuram paḻamāṟaṉ Ēri <choice><sic>Aṉ</sic><corr>Aim</corr></choice>pati<choice><sic><hi rend="grantha">N</hi></sic><corr>ṉ</corr></choice> mēl Akaram
+                        <lb n="A5"/>vēlaṅkuṭi Ammai-<choice><orig>A</orig><reg>y-a</reg></choice><supplied reason="lost" cert="low">ppa-pu</supplied>ram teṉ-<choice><orig>A</orig><reg>y-a</reg></choice>ḷūr karu<choice><sic>y</sic><corr>pp</corr></choice>ūr maruvūr Irācē<surplus>nti</surplus><hi rend="grantha">ndra</hi>-cōḻa-nallūr cuṅkantavi<supplied reason="omitted">r</supplied>tta-cōḻa-nallūr-āṉa
+                        <lb n="A6"/>tirumalai-Ir=ācapuram camuttiṟa <gap reason="lost" quantity="2" unit="character"/> <unclear cert="low">ya</unclear>-puram Āka Inta Akaraṅkaḷil vāriya<hi rend="grantha">N</hi> kāraṇattāṉukku n<choice><sic>ī</sic><corr>i</corr></choice>rupam
+                    </p>
+                    
+                    <p>
+                        taṅkaḷ Akaraṅkaḷukku Avatāva<hi rend="grantha">ga</hi>
+                        <lb n="A7" break="no"/>kkaṉai rā<hi rend="grantha">jasapa</hi>kkaṉai <hi rend="grantha">pradhā</hi>ni<hi rend="grantha">jo</hi>ṭi karaṇikkacoṭi talaiyār<unclear>i</unclear>kkam māvaṭai maravaṭai kuḷavaṭai maṟṟu
+                        <lb n="A8" break="no"/>m E<choice><sic>pepa</sic><corr>ppe</corr></choice>rpaṭ=ṭa pala Upā<hi rend="grantha">dhi</hi>kaḷu<add place="below">m</add> kaḻittu viṭ=ṭa Aḷavukku ca<hi rend="grantha">ndrāditya</hi>varaiyum <hi rend="grantha">sarvva</hi>-mā<hi rend="grantha">nnya</hi>m-āka <hi rend="grantha">sukha</hi>mē Irukka<space type="unclassified"/>vum <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g> <space type="unclassified"/>
+                    </p>
+                </div>
+                
+                <div type="textpart" n="B">
+                    <p> 
+                        <lb n="B1"/><hi rend="grantha">r=ājā</hi>viṉ Aruḷi ceyal paṭikku <hi rend="grantha">mantra-mūrtti</hi> veṭṭuvitta<unclear>tu</unclear>
+                    </p>
+                </div>                
+                
+            </div>
+            
+            <div type="apparatus">
+                <listApp>
+                    <app loc="2">
+                        <lem>Ā<supplied reason="lost">yirattu</supplied></lem>
+                        <rdg source="bib:Hultzsch1891_01">Ā<unclear>yirattu</unclear></rdg>
+                    </app>
+                    <app loc="3">
+                        <lem source="bib:Hultzsch1891_01"><num value="17"><unclear><g type="numeral">10</g> 7</unclear></num> <gap reason="lost" quantity="2" unit="character"/></lem>
+                        <note>The figure is probably followed by the symbol for <foreign>tēti</foreign> (<g ref="sym:tam-teti" type="ideogram"/>) and possibly also by a punctuation.</note>
+                    </app>
+                    <app loc="3">
+                        <lem source="bib:Hultzsch1891_01"><choice><sic>meti</sic><corr><hi rend="grantha">medi</hi></corr></choice><choice><sic>ṉi</sic><corr>nī</corr></choice><choice><sic><hi rend="grantha">misa</hi>ra</sic><corr><hi rend="grantha">śvara</hi></corr></choice></lem>
+                    </app>
+                    <app loc="5">
+                        <lem>Ammai<choice><orig>A</orig><reg>ya</reg></choice><supplied reason="lost" cert="low">ppapu</supplied>ram</lem>
+                        <rdg source="bib:Hultzsch1891_01">AmmaiA<supplied reason="lost" cert="low">ppapu</supplied>ram</rdg>
+                    </app>
+                    <app loc="5">
+                        <lem source="bib:Hultzsch1891_01">karu<choice><sic>y</sic><corr>pp</corr></choice>ūr</lem>
+                        <note>Unless one should read <foreign>karup=pūr</foreign>.</note>
+                    </app>
+                    <app loc="6">
+                        <lem>camuttiṟa <gap reason="lost" quantity="2" unit="character"/> <unclear cert="low">ya</unclear>puram</lem>
+                        <rdg source="bib:Hultzsch1891_01">camuttiṟa <gap reason="lost" quantity="3" unit="character"/> puram</rdg>
+                    </app>
+                    <app loc="7">
+                        <lem><hi rend="grantha">pradhā</hi>ni<hi rend="grantha">jo</hi>ṭi</lem>
+                        <rdg source="bib:Hultzsch1891_01"><hi rend="grantha"><unclear>pra</unclear>dhā</hi>ni<hi rend="grantha">jo</hi>ṭi</rdg>
+                    </app>
+                    <app loc="7">
+                        <lem>talaiyār<unclear>i</unclear>kkam</lem>
+                        <rdg source="bib:Hultzsch1891_01">talaiyā<unclear>ri</unclear>kkam</rdg>
+                    </app>
+                    <app loc="8">
+                        <lem>Upā<hi rend="grantha">dhi</hi>kaḷu<add place="below">m</add> kaḻittu</lem>
+                        <rdg source="bib:Hultzsch1891_01">Upā<hi rend="grantha">dhi</hi>kaḷu<unclear>m i</unclear>ḻittu</rdg>
+                    </app>
+                </listApp>
+            </div>
+            
+            <div type="translation">
+                
+            </div>
+            
+            <div type="commentary">
+                <p n="B1">This is line 9 in <bibl><ptr target="bib:Hultzsch1891_01"/></bibl>. It is engraved on the top of the lower tier, it seems.</p>
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Edited and translated in <bibl><ptr target="bib:Hultzsch1891_01"/></bibl>, with visual documentation (<ref target="DHARMA_INSSIIv02p0i0023">SII 2.23</ref>).</p>
+                <p>This revised edition by Emmanuel Francis based on <bibl><ptr target="bib:Hultzsch1891_01"/></bibl>, visual documentation therein and photos (E. Francis, 2025).</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:Hultzsch1891_01"/>
+                        <citedRange unit="page">117-119</citedRange>
+                        <citedRange unit="item">23</citedRange>
+                        <citedRange unit="plate">V</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl/>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>
