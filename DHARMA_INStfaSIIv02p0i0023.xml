@@ -30,7 +30,7 @@
                     </msIdentifier>
                     <msContents>
                         <summary>
-                            <p>Upper tier of southern base of the <foreign>vimāna</foreign>, eastern edge.</p>                            
+                            <p>Upper and lower row of upper tier of southern base of the <foreign>vimāna</foreign>, eastern edge.</p>                            
                         </summary>
                     </msContents>
                     <physDesc>
@@ -91,38 +91,38 @@
             
             <div type="apparatus">
                 <listApp>
-                    <app loc="2">
+                    <app loc="A2">
                         <lem>Ā<supplied reason="lost">yirattu</supplied></lem>
                         <rdg source="bib:Hultzsch1891_01">Ā<unclear>yirattu</unclear></rdg>
                     </app>
-                    <app loc="3">
+                    <app loc="A3">
                         <lem source="bib:Hultzsch1891_01"><num value="17"><unclear><g type="numeral">10</g> 7</unclear></num> <gap reason="lost" quantity="2" unit="character"/></lem>
                         <note>The number 17 is probably followed by the symbol for <foreign>tēti</foreign> (<g ref="sym:tam-teti" type="ideogram"/>) and possibly also by a punctuation.</note>
                     </app>
-                    <app loc="3">
+                    <app loc="A3">
                         <lem source="bib:Hultzsch1891_01"><choice><sic>meti</sic><corr><hi rend="grantha">medi</hi></corr></choice><choice><sic>ṉi</sic><corr>nī</corr></choice><choice><sic><hi rend="grantha">misa</hi>ra</sic><corr><hi rend="grantha">śvara</hi></corr></choice></lem>
                     </app>
-                    <app loc="5">
+                    <app loc="A5">
                         <lem>Ammai<choice><orig>A</orig><reg>ya</reg></choice><supplied reason="lost" cert="low">ppapu</supplied>ram</lem>
                         <rdg source="bib:Hultzsch1891_01">AmmaiA<supplied reason="lost" cert="low">ppapu</supplied>ram</rdg>
                     </app>
-                    <app loc="5">
+                    <app loc="A5">
                         <lem source="bib:Hultzsch1891_01">karu<choice><sic>y</sic><corr>pp</corr></choice>ūr</lem>
                         <note>Unless one should read <foreign>karup=pūr</foreign>.</note>
                     </app>
-                    <app loc="6">
+                    <app loc="A6">
                         <lem>camuttiṟa <gap reason="lost" quantity="2" unit="character"/> <unclear cert="low">ya</unclear>puram</lem>
                         <rdg source="bib:Hultzsch1891_01">camuttiṟa <gap reason="lost" quantity="3" unit="character"/> puram</rdg>
                     </app>
-                    <app loc="7">
+                    <app loc="A7">
                         <lem><hi rend="grantha">pradhā</hi>ni<hi rend="grantha">jo</hi>ṭi</lem>
                         <rdg source="bib:Hultzsch1891_01"><hi rend="grantha"><unclear>pra</unclear>dhā</hi>ni<hi rend="grantha">jo</hi>ṭi</rdg>
                     </app>
-                    <app loc="7">
+                    <app loc="A7">
                         <lem>talaiyār<unclear>i</unclear>kkam</lem>
                         <rdg source="bib:Hultzsch1891_01">talaiyā<unclear>ri</unclear>kkam</rdg>
                     </app>
-                    <app loc="8">
+                    <app loc="A8">
                         <lem>Upā<hi rend="grantha">dhi</hi>kaḷu<add place="below">m</add> kaḻittu</lem>
                         <rdg source="bib:Hultzsch1891_01">Upā<hi rend="grantha">dhi</hi>kaḷu<unclear>m i</unclear>ḻittu</rdg>
                     </app>
