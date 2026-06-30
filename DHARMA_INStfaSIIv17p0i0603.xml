@@ -124,7 +124,7 @@
     </p> 
                 
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        kṣatriya-vaiṣyānulomā<surplus>na</surplus>ntarajotpanno rathakāraḥ tasyejyādhānopanayana-saṃskāra-kriyāś ca prati<seg rend="check">ṣiddh</seg>ās tasyāśva-ratha  
+        kṣatriya-vaiṣyānulomā<surplus>na</surplus>ntarajotpanno rathakāraḥ tasyejyādhānopanayana-saṃskāra-kriyāś ca prati<hi rend="check">ṣiddh</hi>ās tasyāśva-ratha  
         <lb n="2" break="no"/>-sūtra-śilpa-vāstu-vidyādy-addhyayana-kramaḥ vṛttitā ceti
     </p>
     
@@ -630,7 +630,7 @@
         <gap reason="lost" unit="character" quantity="6"/> kku Iḻi-toḻil ceyy<choice><orig>o</orig><reg>ō</reg></choice>m ākavum <hi rend="grantha">smṛ</hi>ti-va<hi rend="grantha">ca</hi>na<hi rend="grantha">ṁ</hi>kaḷi<supplied reason="omitted">l</supplied> collutalālum paṇṇin<choice><orig>o</orig><reg>ō</reg></choice>m <hi rend="grantha">rathakāraro</hi>m</p>
     
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        kṣatriya-vaiśyānulom<supplied reason="omitted">ā</supplied>ntarajotpanna<seg rendition="class:tamil maturity:regional">r</seg> rathakāra<supplied reason="omitted"><seg rendition="class:tamil maturity:regional">r</seg></supplied> tasyej·<supplied reason="omitted">yā</supplied>dhānopanayana-kriyāś cā prati<seg rend="check">ṣi<unclear>ddhatvāt·</unclear></seg> tasyāśva-ratha-sūtra-śilpa-vāstu-vidyā-dhanur-vvi<supplied reason="omitted">dyā</supplied>nvitāś ceti
+        kṣatriya-vaiśyānulom<supplied reason="omitted">ā</supplied>ntarajotpanna<seg rendition="class:tamil maturity:regional">r</seg> rathakāra<supplied reason="omitted"><seg rendition="class:tamil maturity:regional">r</seg></supplied> tasyej·<supplied reason="omitted">yā</supplied>dhānopanayana-kriyāś cā prati<hi rend="check">ṣi<unclear>ddhatvāt·</unclear></hi> tasyāśva-ratha-sūtra-śilpa-vāstu-vidyā-dhanur-vvi<supplied reason="omitted">dyā</supplied>nvitāś ceti
     </p>
     
     <p>Ampaṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice>ukku karaṇikku piṟa<hi rend="grantha">n=tā<choice><orig>n</orig><reg>ṉ</reg></choice> rathakāra</hi><choice><orig>n</orig><reg>ṉ</reg></choice>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a kammāḷa<choice><orig>n</orig><reg>ṉ</reg></choice> Iva<choice><orig>n</orig><reg>ṉ</reg></choice>ukku toḻil <hi rend="grantha">Aśvajā</hi>tīyamum tēr teruvi

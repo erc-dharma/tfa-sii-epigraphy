@@ -50,7 +50,7 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
-                <div type="textpart" n="A" ><head>Upper row of upper tier</head>
+                <div type="textpart" n="A"><head>Upper row of upper tier</head>
                     <lg xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                         <l n="a"><lb n="A1"/>dāna-pālanayor mmaddhye</l>
                         <l n="b">dānā<choice><sic>ś</sic><corr>c</corr></choice> chreyo <supplied reason="subaudible">’</supplied>nupālanaM <supplied reason="undefined"><g ref="sym:danda" type="punctuation">.</g></supplied></l>
