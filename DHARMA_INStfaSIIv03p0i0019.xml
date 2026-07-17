@@ -11,14 +11,14 @@
 				<title>Mēlpāṭi, Somanātheśvara temple, time of Mummuṭi Cōḻa Rājarāja
 					Rājakesarivarman, year 14</title>
 				<respStmt>
-					<resp>EpiDoc encoding</resp>
+					<resp key="contributor">EpiDoc encoding</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
 					</persName>
 				</respStmt>
 				<respStmt>
-					<resp>intellectual authorship of edition</resp>
+					<resp key="creator">intellectual authorship of edition</resp>
 					<persName>
 						<forename>Eugen</forename>
 						<surname>Hultzsch</surname>

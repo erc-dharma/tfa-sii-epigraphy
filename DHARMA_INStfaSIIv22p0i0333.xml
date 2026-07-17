@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Tirumālpuram, ruined Viṣṇu temple, time of Rājarājakesarivarman, year 10</title>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp key="creator">intellectual authorship of edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>

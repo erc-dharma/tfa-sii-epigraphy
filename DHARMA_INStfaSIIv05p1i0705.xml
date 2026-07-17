@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Tiruviṭaimarutūr, Māhaliṅgasvāmin, time of Rajakesarivarman Tribhuvanacakravartin Kulottuṅga Cōḻa, year 9</title>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp key="creator">intellectual authorship of edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>

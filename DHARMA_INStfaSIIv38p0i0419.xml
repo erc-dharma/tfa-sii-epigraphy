@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Vaḻuvūr, Vīraṭṭāṉēśvara, time of Rājarāja, year 14 + 1</title>
                 <respStmt>
-                    <resp>EpiDoc encoding</resp>
+                    <resp key="contributor">EpiDoc encoding</resp>
                     <persName>
                         <forename>S.</forename>
                         <surname>Swaminathan</surname>
@@ -21,7 +21,7 @@
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp key="creator">intellectual authorship of edition</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>

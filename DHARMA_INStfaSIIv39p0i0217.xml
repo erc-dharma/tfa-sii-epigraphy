@@ -11,7 +11,7 @@
                 <title>Tiruppukuḻi, Vijayaraghavaperumāḷ temple, time of Vīra Harihararāya
                 </title>
                 <respStmt>
-                    <resp>author of digital edition</resp>
+                    <resp key="creator">author of digital edition</resp>
                     <persName ref="part:doop">
                         <forename>Dorotea</forename>
                         <surname>Operato</surname>

@@ -10,14 +10,14 @@
 			<titleStmt>
 				<title>Ukkal, Perumāḷ temple, time of Parakesarivarman, year 37</title>
 				<respStmt>
-					<resp>EpiDoc encoding</resp>
+					<resp key="contributor">EpiDoc encoding</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
 					</persName>
 				</respStmt>
 				<respStmt>
-					<resp>intellectual authorship of edition</resp>
+					<resp key="creator">intellectual authorship of edition</resp>
 					<persName>
 						<forename>Eugen</forename>
 						<surname>Hultzsch</surname>

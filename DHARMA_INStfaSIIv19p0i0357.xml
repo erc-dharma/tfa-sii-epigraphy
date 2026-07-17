@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Kōvintaputtūr, Gaṅgājaṭādhara, time of Parakesarivarman, year 14, and time Rājarāja, year 7</title>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp key="creator">intellectual authorship of edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Davalos</surname>
@@ -25,7 +25,7 @@
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>EpiDoc encoding</resp>
+                    <resp key="contributor">EpiDoc encoding</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Davalos</surname>
