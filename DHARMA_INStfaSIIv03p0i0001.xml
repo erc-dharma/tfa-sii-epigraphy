@@ -5,177 +5,166 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Ukkal, Perumāḷ temple, time of Rājakesarivarman, year 23</title>
-				<respStmt>
-					<resp key="creator">intellectual authorship of edition</resp>
-					<persName>
-						<forename>Eugen</forename>
-						<surname>Hultzsch</surname>
-					</persName>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp key="contributor">EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>				
-			</titleStmt>
-			<publicationStmt>
-				<authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INStfaSIIv03p0i0001.xml</idno>
-				<availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary>...</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p/>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-04-08">Creation of the file on the
-				repository</change>
-		</revisionDesc>
-	</teiHeader>
-
-	<text xml:space="preserve">
-<body>
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-		
-<!--
-		Check from estampage
-		Check VG photos if any
--->
-	<ab>
-		<lb n="1"/><hi rend="grantha">svasti śrī</hi> <g ref="sym:flourish-taperOut" type="punctuation">.</g>
-	</ab>
-	<p>
-		 kō-<hi rend="grantha">rāja</hi>kē<hi rend="grantha">sa-riva<unclear>r</unclear>mma</hi>ṟku yāṇṭu Iru-pattu m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟ-āvatu
-	</p>
-	<p>
-		kāliyūr-k-kōṭṭattu-p pākū
-		<lb n="2" break="no"/>r-<unclear>n</unclear>āṭṭu-c civa-cūḷāmaṇi-maṅ<unclear>ka</unclear>lam-ā<unclear>ki</unclear>ya Aparā<hi rend="grantha"><unclear>ji</unclear></hi>ta-c-ca<hi rend="grantha">tu<unclear>r</unclear>vve</hi>ti-maṅkalattu <hi rend="grantha">sabhaiyō</hi>
-		<lb n="3" break="no"/><choice><orig>mm</orig><reg>m</reg></choice> eḻuttu
-	</p>
-	<p>
-		Ik-kōṭṭa<unclear>t</unclear>tu-t taṉ kūṟṟu Uttara-mēru-c-ca<hi rend="grantha">tu<unclear>r</unclear>vve</hi>ti-maṅkalam iy-ā
-		<lb n="4" break="no"/>ḷuṅ-kaṇattār-uṭ ceti<unclear>ṟū</unclear>r-t tiru-vi<hi rend="grantha">krama<unclear>-bha</unclear>ṭṭa</hi>r-ākiya <hi rend="grantha">brahmādhi</hi>rā<hi rend="grantha">ja</hi>r pakkal koṇṭa poṉ Iru-nūṟ
-		<lb n="5" break="no"/>ṟu-k kaḻañcu
-	</p>
-	<p>
-		Ip-poṉṉiṉ <choice><orig><hi rend="grantha">pra<unclear>ddha</unclear></hi></orig><reg>vṛddhi</reg></choice>yālu<unclear>mē</unclear><!--SII note--> Emm<choice><orig>u</orig><reg>ū</reg></choice>r-p puva<choice><orig>n</orig><reg>ṉ</reg></choice>i-māṇikka-vi<hi rend="grantha">ṣṇu-gr̥ha</hi>ttu perumāṉ-aṭika
-		<lb n="6" break="no"/>ḷ Uccam p<unclear>ō</unclear>ḻ<unclear>tu</unclear> tiru-v-amirtu ceyvataṉ mu<unclear>ṉ</unclear>ṉam nicati paṉṉ-iruvar <hi rend="grantha">brāhma</hi>ṇar vē<hi rend="grantha">da</hi>m vallār Uṇpa<unclear>t' ā</unclear>
-		<lb n="7" break="no"/>kavum
-	</p>
-	<p>
-		<list>
-			<item>Ip-<unclear>paṉ-iru</unclear>vaṟkum <hi rend="grantha">śar<choice><orig>i</orig><reg>ī</reg></choice>ram· pra</hi>ti <unclear>Āḻā</unclear>kku <unclear>ne</unclear>y<unclear>yu</unclear>m Ain<unclear>tu</unclear> kaṟiyu<unclear>m</unclear> Ai-vv-u<unclear>ḻa</unclear>kku-t tayirum Iv<unclear>v-i</unclear>raṇṭu kāyum i<unclear>lai</unclear>yum
-		<lb n="8"/>Ivarkaḷukku <hi rend="grantha"><unclear>tr̥</unclear>pti</hi>yām aḷavum Ip-paricu Ā<hi rend="grantha">can<choice><orig>t</orig><reg>d</reg></choice>ra</hi>tāramum <unclear>Ū</unclear>ṭṭuvat' āka</item>
-			<item>	Ip-paṉṉ-iruvar <hi rend="grantha">brāhma</hi>ṇarkkum <unclear>A</unclear>ṭuvārkkum <unclear>vi</unclear>ṟak' iṭu
-		<lb n="9" break="no"/>vārk<unclear>ku</unclear>m ma<unclear>ṟ</unclear>ṟum <unclear>E</unclear>ppērppaṭṭatum Aṭaṅka Ip-paricu Ūṭṭuvat' āka</item>
-		</list>
-		Ivv-iru-nū<unclear>ṟ</unclear>ṟu-k kaḻañcuṅ koṇṭōm
-	</p>
-	<p>
-		I<unclear>p</unclear>-paricu
-		<lb n="10"/>Ūṭṭām<unclear>ē</unclear> <hi rend="grantha">vigghna</hi>n= tuytār <hi rend="grantha">geṃgai</hi> Iṭai-k kumari Iṭai-c ceytār ceyta pāpam ellāṅ koḷ<unclear>v</unclear>ār āka<unclear>vum</unclear>
-	</p>
-	<p>
-		<unclear>i</unclear>p-pari
-		<lb n="11" break="no"/>cu muṭṭi<unclear>l mu</unclear><choice><orig>n</orig><reg>ṉ</reg></choice><unclear> t</unclear>ān= tu<unclear>y</unclear>ta I<hi rend="grantha">ṣṭā-pū<unclear>r</unclear>tta</hi>m <hi rend="grantha">brahmādhirāja</hi><choice><orig>n</orig><reg>ṉ</reg></choice>ukkē Āvat' ākavum
-	</p>
-	<p>
-		I<supplied reason="omitted">p</supplied>-paricu Oṭṭi <hi rend="grantha">śilā-lekhai</hi> ceytu <unclear>ku</unclear>ṭut
-		<lb n="12" break="no"/><unclear>tōm</unclear> <hi rend="grantha"><unclear>sabhai</unclear></hi>yōm <g ref="sym:flourish-taperOut" type="punctuation">.</g>
-	</p>
-	
-	<ab>		
-		<hi rend="grantha">svasti śrī</hi> <g ref="sym:flourish-taperOut" type="punctuation">.</g>
-	</ab>
-		
-</div>
-			
-<div type="apparatus">
-				
-	<listApp>
-		
-		<app loc="3">
-			<lem>°maṅkalam iyā<lb n="4" break="no"/>ḷuṅkaṇattāruṭ</lem>
-			<rdg source="bib:Hultzsch1899_01">°maṅkalam<choice><orig>i</orig><reg>ī</reg></choice>yā<lb n="4" break="no"/>ḷuṅkaṇattāruṭ</rdg>
-		</app>	
-		
-	</listApp>    			
-	
-</div>
-    	
-<div type="translation" source="bib:Hultzsch1899_01">
-	
-	<p n="1">Hail! Prosperity! In the twenty-third year <supplied reason="subaudible">of the reign</supplied> of king Rājakesarivarman. The writing of us, the assembly of Śivacūḷāmaṇimaṅgala, <hi rend="italic">alias</hi> Aparā<unclear>ji</unclear>ta-caturvedimaṅgala, <supplied reason="subaudible">a village</supplied> in Pākūr-nāṭu, <supplied reason="subaudible">a subdivision</supplied> of Kāliyūr-kōṭṭam.</p>	
-	<p n="3"><supplied reason="subaudible">We</supplied> have received two hundred <foreign>kaḻañcu</foreign>s of gold from Tiruvikrama-Bhaṭṭar, <hi rend="italic">alias</hi> Brahmādhirājar, of Ceti<unclear>ṟū</unclear>r, <supplied reason="subaudible">one</supplied> among the commissioners <supplied reason="explanation"><foreign>kaṇattār</foreign></supplied> ruling over Uttaramēru-caturvedimaṅgala,<note>This is the modern Uttaraṉmērūr in the madurāntakam tāluka of the Chingleput district.</note> <supplied reason="subaudible">a village</supplied> in its own subdivision <supplied reason="explanation"><foreign>kūṟu</foreign></supplied><note>This expression implies that the village by itself formed an independent subdivision of a district (<foreign>kōṭṭam</foreign>), just as Tiruvottūr in Vol. I. No. 85 (where <foreign>taṉ kūṟṟu</foreign> must be read instead of <foreign>taṉakūṟṟu</foreign>), and as Tirukkaḻukkuṉṟam in <hi rend="italic">Ep. Ind</hi>. Vol. III. p. 279. The technical designation of such a village was <foreign>taṉiyūr</foreign>, for which see the Index to Vol. II. of the present work.</note> of the same <foreign>kōṭṭam</foreign>.</p>
-	<p n="5">From the interest of this gold, twelve Brāhmaṇas who know the Veda, have to be fed daily, before the god <supplied reason="explanation"><foreign>perumāṉ-aṭikaḷ</foreign></supplied> of the Puvaṉimāṇikka-Viṣṇugr̥ha in our village receives offerings at noon-time.</p>
-	<p n="7">We have received these two hundred <foreign>kaḻañcu</foreign>s, in order to supply, as long as the moon and the stars exist, to each of these twelve <supplied reason="subaudible">Brāhmaṇas</supplied>, <supplied reason="subaudible">one</supplied> <foreign>āḻākku</foreign> of ghee, five dishes of curry, five <foreign>uḻakku</foreign>s of curds, two areca-nuts, and betel-leaves until they are satisfied, <supplied reason="subaudible">and</supplied> in order to supply everything else to these twelve Brāhmaṇas, to the cooks, and to those who fetch firewood.</p>
-	<p n="9">Those who do not feed <supplied reason="subaudible">them</supplied> thus and cause obstruction, shall incur all the sins committed between the Gaṅgā and Kumari.<note>Compare <hi rend="italic">Ep. Ind.</hi> Vol. IV. p. 140, note 3.</note></p>
-	<p n="10">If <supplied reason="subaudible">any persons</supplied> hinder this, the sacrifices and charitable deeds <supplied reason="subaudible"><foreign>iṣṭāpūrta</foreign></supplied> which they have performed themselves before, shall devolve on Brahmādhirājaṉ.<note>According to line 4 of the text, this was the name of the donor.</note></p>
-	<p n="11">Having agreed thus, we, the assembly, engraved <supplied reason="subaudible">this</supplied> on stone. Hail! Prosperity!</p>
-</div>
-			
-<!--<div type="commentary">
-				
-</div>-->
-			
-<div type="bibliography">
-				
-	<p>Reported in <bibl><ptr target="bib:ARIE1892-1893"/></bibl> (ARIE/1892-1893/B/1893/19).</p>
-	<p>Edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>, with English translation and facsimile (SII 3.1).</p>
-	<p>This edition by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>, published visual documentation and photos (Valérie Gillet, 2008).</p>	
-	
-	<listBibl type="primary">
-		
-		<bibl n="SII">
-			<ptr target="bib:Hultzsch1899_01"/>
-			<citedRange unit="page">2-3</citedRange>
-			<citedRange unit="item">1</citedRange>
-			<citedRange unit="plate">I</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-				
-		<bibl>
-			<ptr target="bib:ARIE1892-1893"/>
-			<citedRange unit="page">13</citedRange>
-			<citedRange unit="appendix">B/1893</citedRange>
-			<citedRange unit="item">19</citedRange>			
-		</bibl>		
-		
-	</listBibl>
-	
-</div>
-</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ukkal, Perumāḷ temple, time of Rājakesarivarman, year 23</title>
+                <respStmt>
+                    <resp key="creator">EpiDoc encoding</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>				
+            </titleStmt>
+            <publicationStmt>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INStfaSIIv03p0i0001.xml</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>...</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-04-08">Creation of the file on the
+                repository</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <!--
+                    Check from estampage
+                    Check VG photos if any
+                -->
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> <g ref="sym:flourish-taperOut" type="punctuation">.</g>
+                </ab>
+                <p>
+                    kō-<hi rend="grantha">rāja</hi>kē<hi rend="grantha">sa-riva<unclear>r</unclear>mma</hi>ṟku yāṇṭu Iru-pattu m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟ-āvatu
+                </p>
+                <p>
+                    kāliyūr-k-kōṭṭattu-p pākū
+                    <lb n="2" break="no"/>r-<unclear>n</unclear>āṭṭu-c civa-cūḷāmaṇi-maṅ<unclear>ka</unclear>lam-ā<unclear>ki</unclear>ya Aparā<hi rend="grantha"><unclear>ji</unclear></hi>ta-c-ca<hi rend="grantha">tu<unclear>r</unclear>vve</hi>ti-maṅkalattu <hi rend="grantha">sabhaiyō</hi>
+                    <lb n="3" break="no"/><choice><orig>mm</orig><reg>m</reg></choice> eḻuttu
+                </p>
+                <p>
+                    Ik-kōṭṭa<unclear>t</unclear>tu-t taṉ kūṟṟu Uttara-mēru-c-ca<hi rend="grantha">tu<unclear>r</unclear>vve</hi>ti-maṅkalam iy-ā
+                    <lb n="4" break="no"/>ḷuṅ-kaṇattār-uṭ ceti<unclear>ṟū</unclear>r-t tiru-vi<hi rend="grantha">krama<unclear>-bha</unclear>ṭṭa</hi>r-ākiya <hi rend="grantha">brahmādhi</hi>rā<hi rend="grantha">ja</hi>r pakkal koṇṭa poṉ Iru-nūṟ
+                    <lb n="5" break="no"/>ṟu-k kaḻañcu
+                </p>
+                <p>
+                    Ip-poṉṉiṉ <choice><orig><hi rend="grantha">pra<unclear>ddha</unclear></hi></orig><reg>vṛddhi</reg></choice>yālu<unclear>mē</unclear><!--SII note--> Emm<choice><orig>u</orig><reg>ū</reg></choice>r-p puva<choice><orig>n</orig><reg>ṉ</reg></choice>i-māṇikka-vi<hi rend="grantha">ṣṇu-gr̥ha</hi>ttu perumāṉ-aṭika
+                    <lb n="6" break="no"/>ḷ Uccam p<unclear>ō</unclear>ḻ<unclear>tu</unclear> tiru-v-amirtu ceyvataṉ mu<unclear>ṉ</unclear>ṉam nicati paṉṉ-iruvar <hi rend="grantha">brāhma</hi>ṇar vē<hi rend="grantha">da</hi>m vallār Uṇpa<unclear>t' ā</unclear>
+                    <lb n="7" break="no"/>kavum
+                </p>
+                <p>
+                    <list>
+                        <item>Ip-<unclear>paṉ-iru</unclear>vaṟkum <hi rend="grantha">śar<choice><orig>i</orig><reg>ī</reg></choice>ram· pra</hi>ti <unclear>Āḻā</unclear>kku <unclear>ne</unclear>y<unclear>yu</unclear>m Ain<unclear>tu</unclear> kaṟiyu<unclear>m</unclear> Ai-vv-u<unclear>ḻa</unclear>kku-t tayirum Iv<unclear>v-i</unclear>raṇṭu kāyum i<unclear>lai</unclear>yum
+                            <lb n="8"/>Ivarkaḷukku <hi rend="grantha"><unclear>tr̥</unclear>pti</hi>yām aḷavum Ip-paricu Ā<hi rend="grantha">can<choice><orig>t</orig><reg>d</reg></choice>ra</hi>tāramum <unclear>Ū</unclear>ṭṭuvat' āka</item>
+                        <item>	Ip-paṉṉ-iruvar <hi rend="grantha">brāhma</hi>ṇarkkum <unclear>A</unclear>ṭuvārkkum <unclear>vi</unclear>ṟak' iṭu
+                            <lb n="9" break="no"/>vārk<unclear>ku</unclear>m ma<unclear>ṟ</unclear>ṟum <unclear>E</unclear>ppērppaṭṭatum Aṭaṅka Ip-paricu Ūṭṭuvat' āka</item>
+                    </list>
+                    Ivv-iru-nū<unclear>ṟ</unclear>ṟu-k kaḻañcuṅ koṇṭōm
+                </p>
+                <p>
+                    I<unclear>p</unclear>-paricu
+                    <lb n="10"/>Ūṭṭām<unclear>ē</unclear> <hi rend="grantha">vigghna</hi>n= tuytār <hi rend="grantha">geṃgai</hi> Iṭai-k kumari Iṭai-c ceytār ceyta pāpam ellāṅ koḷ<unclear>v</unclear>ār āka<unclear>vum</unclear>
+                </p>
+                <p>
+                    <unclear>i</unclear>p-pari
+                    <lb n="11" break="no"/>cu muṭṭi<unclear>l mu</unclear><choice><orig>n</orig><reg>ṉ</reg></choice><unclear> t</unclear>ān= tu<unclear>y</unclear>ta I<hi rend="grantha">ṣṭā-pū<unclear>r</unclear>tta</hi>m <hi rend="grantha">brahmādhirāja</hi><choice><orig>n</orig><reg>ṉ</reg></choice>ukkē Āvat' ākavum
+                </p>
+                <p>
+                    I<supplied reason="omitted">p</supplied>-paricu Oṭṭi <hi rend="grantha">śilā-lekhai</hi> ceytu <unclear>ku</unclear>ṭut
+                    <lb n="12" break="no"/><unclear>tōm</unclear> <hi rend="grantha"><unclear>sabhai</unclear></hi>yōm <g ref="sym:flourish-taperOut" type="punctuation">.</g>
+                </p>
+                
+                <ab>		
+                    <hi rend="grantha">svasti śrī</hi> <g ref="sym:flourish-taperOut" type="punctuation">.</g>
+                </ab>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>
+                    
+                    <app loc="3">
+                        <lem>°maṅkalam iyā<lb n="4" break="no"/>ḷuṅkaṇattāruṭ</lem>
+                        <rdg source="bib:Hultzsch1899_01">°maṅkalam<choice><orig>i</orig><reg>ī</reg></choice>yā<lb n="4" break="no"/>ḷuṅkaṇattāruṭ</rdg>
+                    </app>	
+                    
+                </listApp>    			
+                
+            </div>
+            
+            <div type="translation" source="bib:Hultzsch1899_01">
+                
+                <p n="1">Hail! Prosperity! In the twenty-third year <supplied reason="subaudible">of the reign</supplied> of king Rājakesarivarman. The writing of us, the assembly of Śivacūḷāmaṇimaṅgala, <hi rend="italic">alias</hi> Aparā<unclear>ji</unclear>ta-caturvedimaṅgala, <supplied reason="subaudible">a village</supplied> in Pākūr-nāṭu, <supplied reason="subaudible">a subdivision</supplied> of Kāliyūr-kōṭṭam.</p>	
+                <p n="3"><supplied reason="subaudible">We</supplied> have received two hundred <foreign>kaḻañcu</foreign>s of gold from Tiruvikrama-Bhaṭṭar, <hi rend="italic">alias</hi> Brahmādhirājar, of Ceti<unclear>ṟū</unclear>r, <supplied reason="subaudible">one</supplied> among the commissioners <supplied reason="explanation"><foreign>kaṇattār</foreign></supplied> ruling over Uttaramēru-caturvedimaṅgala,<note>This is the modern Uttaraṉmērūr in the madurāntakam tāluka of the Chingleput district.</note> <supplied reason="subaudible">a village</supplied> in its own subdivision <supplied reason="explanation"><foreign>kūṟu</foreign></supplied><note>This expression implies that the village by itself formed an independent subdivision of a district (<foreign>kōṭṭam</foreign>), just as Tiruvottūr in Vol. I. No. 85 (where <foreign>taṉ kūṟṟu</foreign> must be read instead of <foreign>taṉakūṟṟu</foreign>), and as Tirukkaḻukkuṉṟam in <hi rend="italic">Ep. Ind</hi>. Vol. III. p. 279. The technical designation of such a village was <foreign>taṉiyūr</foreign>, for which see the Index to Vol. II. of the present work.</note> of the same <foreign>kōṭṭam</foreign>.</p>
+                <p n="5">From the interest of this gold, twelve Brāhmaṇas who know the Veda, have to be fed daily, before the god <supplied reason="explanation"><foreign>perumāṉ-aṭikaḷ</foreign></supplied> of the Puvaṉimāṇikka-Viṣṇugr̥ha in our village receives offerings at noon-time.</p>
+                <p n="7">We have received these two hundred <foreign>kaḻañcu</foreign>s, in order to supply, as long as the moon and the stars exist, to each of these twelve <supplied reason="subaudible">Brāhmaṇas</supplied>, <supplied reason="subaudible">one</supplied> <foreign>āḻākku</foreign> of ghee, five dishes of curry, five <foreign>uḻakku</foreign>s of curds, two areca-nuts, and betel-leaves until they are satisfied, <supplied reason="subaudible">and</supplied> in order to supply everything else to these twelve Brāhmaṇas, to the cooks, and to those who fetch firewood.</p>
+                <p n="9">Those who do not feed <supplied reason="subaudible">them</supplied> thus and cause obstruction, shall incur all the sins committed between the Gaṅgā and Kumari.<note>Compare <hi rend="italic">Ep. Ind.</hi> Vol. IV. p. 140, note 3.</note></p>
+                <p n="10">If <supplied reason="subaudible">any persons</supplied> hinder this, the sacrifices and charitable deeds <supplied reason="subaudible"><foreign>iṣṭāpūrta</foreign></supplied> which they have performed themselves before, shall devolve on Brahmādhirājaṉ.<note>According to line 4 of the text, this was the name of the donor.</note></p>
+                <p n="11">Having agreed thus, we, the assembly, engraved <supplied reason="subaudible">this</supplied> on stone. Hail! Prosperity!</p>
+            </div>
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1892-1893"/></bibl> (ARIE/1892-1893/B/1893/19).</p>
+                <p>Edited in <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>, with English translation and facsimile (SII 3.1).</p>
+                <p>This edition by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Hultzsch1899_01"/></bibl>, published visual documentation and photos (Valérie Gillet, 2008).</p>	
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:Hultzsch1899_01"/>
+                        <citedRange unit="page">2-3</citedRange>
+                        <citedRange unit="item">1</citedRange>
+                        <citedRange unit="plate">I</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1892-1893"/>
+                        <citedRange unit="page">13</citedRange>
+                        <citedRange unit="appendix">B/1893</citedRange>
+                        <citedRange unit="item">19</citedRange>			
+                    </bibl>		
+                    
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
 </TEI>
