@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Caṅkaramanallūr / Sangrāmanallūr, Cōḷeśvara temple, time of Kōṉēriṉmaikoṇṭāṉ, year 29</title>
+                <respStmt>
+                    <resp key="creator">author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSSIIv26p0i0174.xml</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            
+                            <p>South wall of the Agnīśvara shrine in the Cōḷeśvara temple.</p>
+                            
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2026-08-17" status="draft">creation of file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                
+                <p>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </p>
+                
+                <p>
+                    <hi rend="grantha">tribhu</hi>vana-<hi rend="grantha">c-cakra</hi>va<hi rend="grantha"/>
+                    <lb n="2" break="no"/>t=ti kōṉēri<choice><orig>m</orig><reg>ṉ</reg></choice>maikoṇṭāṉ
+                    <lb n="3"/>karaivaḻināṭṭu-t
+                    <lb n="4"/>tiru-v-ālanturai
+                    <lb n="5" break="no"/>-y-āṉa vik<hi rend="grantha"><unclear>ra</unclear></hi>ma-cōḻa
+                    <lb n="6" break="no"/>-<hi rend="grantha">c-ca</hi>tu<hi rend="grantha">rvve</hi>ti-maṅkalat
+                    <lb n="7" break="no"/>tu <hi rend="grantha">sabh</hi>aiyārkku-t taṅ
+                    <lb n="8" break="no"/>kaḷūr-t tuṟaiyil ma<hi rend="grantha">hā</hi>
+                    <lb n="9" break="no"/>-<hi rend="grantha">bhā</hi>ratam vācikkum pēṟku
+                    <lb n="10"/>Ivv-ūril irupatt’ eṭṭ-āvatu
+                    <lb n="11"/>varaiyuṅ kāṭu pāḻāṉa nilattil
+                    <lb n="12"/>tillai-nāyakaṉ tirutti-k kuṭukkum nila
+                    <lb n="13" break="no"/>m Arai māvum
+                </p>
+                
+                <p>                    
+                    In-nilattukku varuṅka
+                    <lb n="14" break="no"/>ṭamai nellu Ōṭṭaccu Ārāṭci Anta
+                    <lb n="15" break="no"/>rāyam Ēlvai Ukavai kāṇikkai maṇ
+                    <lb n="16" break="no"/>ṭala mutalmai-p peṟu mutal Eḻuttu 
+                    <lb n="17"/>viṉiyōkam kāliṅkarāyar viṉi
+                    <lb n="18" break="no"/>yōkam cantu-vi<hi rend="grantha">graha</hi>-p peṟu ko
+                    <lb n="19" break="no"/>ṇṭatu mutal kuṟṟateṇṭam kāt
+                    <lb n="20" break="no"/>tikai-p-paccai maṟṟum Eppēṟpaṭṭa I
+                    <lb n="21" break="no"/>ṟaikaḷum Iru-patt’ oṉpatāvatu mu
+                    <lb n="22" break="no"/>tal Iṟai-y-ili-y-āka-t tantōm
+                </p>
+                
+                <p>
+                    Ip
+                    <lb n="23" break="no"/>-paṭikku Ivv-ōlai piṭipāṭ-āka-k
+                    <lb n="24"/>koṇṭu ca<hi rend="grantha">ndrā</hi>tittava<hi rend="grantha">T</hi> celvat-ā
+                    <lb n="25" break="no"/>ka-k kallilum cempilum veṭṭi
+                    <lb n="26" break="no"/>-k-koḷka
+                </p>
+                <p>
+                    Ivai villavataraiyaṉ
+                    <lb n="27"/>Eḻuttu yāṇṭu <num value="29">2 <g type="numeral">10</g> 9</num> nāḷ <num value="98">9 <g type="numeral">10</g> 8</num></p>
+                <p>
+                    Ivai
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                <listApp>
+                    <app loc="15">
+                        <lem>Ēlvai</lem>
+                        <rdg source="bib:Srinivasan1990_01">Elavai</rdg>
+                    </app>
+                </listApp>
+            </div>
+            
+            <div type="commentary">
+                <p>Either the inscription is unfinished or its end is lost.</p>
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1909-1910"/></bibl> (ARIE/1909-1910/B/1909/163).</p>
+                <p>Edited in <bibl><ptr target="bib:Srinivasan1990_01"/></bibl> (<ref target="DHARMA_INSSIIv26p0i0174.xml">SII 26.174</ref>).</p>
+                <p>This revised edition by Emmanuel Francis based on <bibl><ptr target="bib:Srinivasan1990_01"/></bibl>.</p>
+                
+                <listBibl type="primary">
+                    <bibl n="SII">
+                        <ptr target="bib:Srinivasan1990_01"/>
+                        <citedRange unit="page">114-115</citedRange>
+                        <citedRange unit="item">174</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                <listBibl type="secondary">
+                    <bibl n="ARIE">
+                        <ptr target="bib:ARIE1909-1910"/>
+                        <citedRange unit="page">19</citedRange>
+                        <citedRange unit="appendix">B/1909</citedRange>
+                        <citedRange unit="item">163</citedRange>
+                    </bibl>
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>
