@@ -9,24 +9,13 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Ukkal, Perumāḷ temple, time of Rājakesarivarman Rājarāja, year 29</title>
-				<respStmt>
-					<resp key="contributor">EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp key="creator">intellectual authorship of edition</resp>
-					<persName>
-						<forename>Eugen</forename>
-						<surname>Hultzsch</surname>
-					</persName>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
+			    <respStmt>
+			        <resp key="creator">author of digital edition</resp>
+			        <persName ref="part:emfr">
+			            <forename>Emmanuel</forename>
+			            <surname>Francis</surname>
+			        </persName>
+			    </respStmt>	
 			</titleStmt>
 			<publicationStmt>
 				<authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
