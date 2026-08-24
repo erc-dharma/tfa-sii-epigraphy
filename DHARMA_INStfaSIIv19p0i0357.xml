@@ -10,10 +10,10 @@
             <titleStmt>
                 <title>Kōvintaputtūr, Gaṅgājaṭādhara, time of Parakesarivarman, year 14, and time Rājarāja, year 7</title>
                 <respStmt>
-                    <resp key="creator">intellectual authorship of edition</resp>
+                    <resp key="creator">author of digital edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
-                        <surname>Davalos</surname>
+                        <surname>Dávalos</surname>
                     </persName>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
@@ -22,17 +22,6 @@
                     <persName ref="part:vagi">
                         <forename>Valérie</forename>
                         <surname>Gillet</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp key="contributor">EpiDoc encoding</resp>
-                    <persName ref="part:reda">
-                        <forename>Renato</forename>
-                        <surname>Davalos</surname>
-                    </persName>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
                     </persName>
                 </respStmt>
             </titleStmt>

@@ -10,19 +10,16 @@
             <titleStmt>
                 <title>Tirukkōṭikkāval, Tirukkōṭīśvara, time of Parakesarivarman, year 11</title>
                 <respStmt>
-                    <resp key="contributor">EpiDoc encoding</resp>
+                    <resp key="creator">author of digital edition</resp>
                     <persName ref="part:vagi">
                         <forename>Valérie</forename>
                         <surname>Gillet</surname>
                     </persName>
-                </respStmt>
-                <respStmt>
-                    <resp key="creator">intellectual authorship of edition</resp>
-                    <persName ref="part:vagi">
-                        <forename>Valérie</forename>
-                        <surname>Gillet</surname>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
                     </persName>
-                </respStmt>
+                    </respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
@@ -145,7 +142,9 @@
             
             <div type="bibliography">
                 
-                <p>First reported <bibl><ptr target="bib:ARIE1930-1931"/></bibl> (ARIE 1930-1931/B/36); first edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.292); re-edited here for DHARMA (ERC n° 809994) by Valérie Gillet (2020), based on autopsy and photographs.</p>
+                <p>Reported <bibl><ptr target="bib:ARIE1930-1931"/></bibl> (ARIE 1930-1931/B/36).</p>
+                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.292)</p>
+                <p>This edition by Valérie Gillet (2020), based on autopsy and photographs. Curated by Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     

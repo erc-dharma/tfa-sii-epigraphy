@@ -5,161 +5,154 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Shiyali, Brahmapurīśvara temple, time of king Kōpperuciṅkaṉ, no year</title>
-				<respStmt>
-					<resp key="contributor">EpiDoc encoding</resp>
-					<persName ref="part:reda">
-						<forename>Renato</forename>
-						<surname>Dávalos</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp key="creator">intellectual authorship of edition</resp>
-					<persName ref="part:reda">
-						<forename>Renato</forename>
-						<surname>Dávalos</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
-				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">DHARMA_INStfaSIIv12p0i0252.xml</idno>
-				<availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary>Fragmentary inscription. Seems to record gift of land for reciting <foreign>tiruppatiyam</foreign> in the temple of Aḷḷuṭaiya-Piḷḷaiyār.</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
-		<revisionDesc>
-			<change who="part:reda" when="2024-11-21" status="draft">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-
-	<text xml:space="preserve">
-     
-<body>
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-			
-
-	
-	<p>
-		<lb n="1"/><gap quantity="3" reason="lost" unit="character"/><supplied reason="lost">caka</supplied>lapuvaṉa-c ca<hi rend="grantha">kravatti</hi>kaḷ śrī-kō-p-peruñ-ciṅkatēva <gap quantity="6" reason="lost" unit="character"/>
-	</p>
-	<p>
-		<lb n="2"/><gap quantity="5" reason="lost" unit="character"/> ṅkaḷukkum uṭalāka naṭuvil nāṭāṉa Irā<supplied reason="lost"><hi rend="grantha">ja</hi></supplied>rāja <gap quantity="6" reason="lost" unit="character"/>
-		<lb n="3"/><gap quantity="3" reason="lost" unit="character"/><supplied reason="lost">pi</supplied>ḷḷaiyār kōyi<unclear>li</unclear>l tiruppatiyam viṇṇappañ<unclear>-c</unclear>e <gap quantity="5" reason="lost" unit="character"/>
-		<lb n="4"/><gap quantity="5" reason="lost" unit="character"/> ṉṉila[m o]ṉṟē oṉpatu māvum <unclear>t</unclear>ēvatāṉa kā <gap quantity="7" reason="lost" unit="character"/>
-	</p>
-	
-	<p>
-		<lb n="5"/><gap quantity="5" reason="lost" unit="character"/> ḻa-p pal<unclear>la</unclear>varaiyaṉe <gap quantity="7" reason="lost" unit="character"/>
-	</p>
-	
-	
-</div>
-         		         	
-<!--<div type="apparatus">
-
-	<listApp>
-		
-	<!-\-	<app loc="4">
-			<lem><supplied reason="undefined">poṉ</supplied> niṟai</lem>
-			<rdg source="bib:VenkatasubbaAyyar1943_01"><supplied reason="undefined">pura</supplied>niṟai</rdg>
-			<note>See <foreign><supplied reason="undefined">p</supplied>o<supplied reason="omitted">ṉ</supplied> niṟai</foreign> in the other copy of this inscription (SII 6, no. 350, line 5).</note>
-		</app>
-		
-		<app loc="4">
-			<lem><supplied reason="undefined"><num value="100"><g type="numeral">100</g></num></supplied></lem>
-			<rdg source="bib:VenkatasubbaAyyar1943_01"/>
-			<note>The number <foreign>nūṟṟu</foreign> is legible in the other copy of this inscription (SII 6, no. 350, line 5).</note>
-		</app>-\->
-				
-	</listApp>
-	
-</div>    -->     
-      	
-	<div type="translation" resp="part:reda">
-		<p n="1">
-		<gap extent="unknown" reason="lost"/> king Kōpperuciṅkaṉ, emperor of all worlds <gap extent="unknown" reason="lost"/>
-		</p>
-		
-		<p n="2-4">
-			<gap extent="unknown" reason="lost"/> as capital for <gap extent="unknown" reason="lost"/> a <foreign>tēvatāna</foreign> comprising 1 9/20 <supplied reason="explanation"><foreign>vēli</foreign></supplied> of land <gap extent="unknown" reason="lost"/> request for the holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied> in the temple of <supplied reason="lost">Āḷuṭaiya-Pi</supplied>ḷḷaiyār <gap extent="unknown" reason="lost"/>
-		</p>
-	<p n="5">
-		
-		<gap extent="unknown" reason="lost"/>  Pallavaraiyaṉ <gap extent="unknown" reason="lost"/>
-	</p>
-</div>
-	
-      	
-<!--<div type="commentary">
-	
-
-         	
-</div>-->
-	
-
-<div type="bibliography">
-	
-	<p>
-		First reported in <bibl><ptr target="bib:ARIE1917-1918"/></bibl> (ARIE/1917-1918/B/1917/367).
-	</p>
-	
-	<p>
-		First edited <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.252).
-	</p>
-	
-	<p>
-		Digitally encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2024), based on <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>. First translated by Renato Dávalos (2024).
-	</p>
-	
-	<listBibl type="primary">
-		
-		<bibl n="VA">
-         			<ptr target="bib:VenkatasubbaAyyar1943_01"/>
-         			<citedRange unit="page">157</citedRange>
-         			<citedRange unit="item">252</citedRange>
-         		</bibl>
-		
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1917-1918"/>
-			<citedRange unit="page">34</citedRange>
-			<citedRange unit="appendix">B/367</citedRange>
-			<citedRange unit="item">367</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-</div>
-
-</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Shiyali, Brahmapurīśvara temple, time of king Kōpperuciṅkaṉ, no year</title>
+                <respStmt>
+                    <resp key="creator">author of digital edition</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INStfaSIIv12p0i0252.xml</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Fragmentary inscription. Seems to record gift of land for reciting <foreign>tiruppatiyam</foreign> in the temple of Aḷḷuṭaiya-Piḷḷaiyār.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:reda" when="2024-11-21" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                
+                
+                <p>
+                    <lb n="1"/><gap quantity="3" reason="lost" unit="character"/><supplied reason="lost">caka</supplied>lapuvaṉa-c ca<hi rend="grantha">kravatti</hi>kaḷ śrī-kō-p-peruñ-ciṅkatēva <gap quantity="6" reason="lost" unit="character"/>
+                </p>
+                <p>
+                    <lb n="2"/><gap quantity="5" reason="lost" unit="character"/> ṅkaḷukkum uṭalāka naṭuvil nāṭāṉa Irā<supplied reason="lost"><hi rend="grantha">ja</hi></supplied>rāja <gap quantity="6" reason="lost" unit="character"/>
+                    <lb n="3"/><gap quantity="3" reason="lost" unit="character"/><supplied reason="lost">pi</supplied>ḷḷaiyār kōyi<unclear>li</unclear>l tiruppatiyam viṇṇappañ<unclear>-c</unclear>e <gap quantity="5" reason="lost" unit="character"/>
+                    <lb n="4"/><gap quantity="5" reason="lost" unit="character"/> ṉṉila[m o]ṉṟē oṉpatu māvum <unclear>t</unclear>ēvatāṉa kā <gap quantity="7" reason="lost" unit="character"/>
+                </p>
+                
+                <p>
+                    <lb n="5"/><gap quantity="5" reason="lost" unit="character"/> ḻa-p pal<unclear>la</unclear>varaiyaṉe <gap quantity="7" reason="lost" unit="character"/>
+                </p>
+                
+                
+            </div>
+            
+            <!--<div type="apparatus">
+                
+                <listApp>
+                
+                <!-\-	<app loc="4">
+                <lem><supplied reason="undefined">poṉ</supplied> niṟai</lem>
+                <rdg source="bib:VenkatasubbaAyyar1943_01"><supplied reason="undefined">pura</supplied>niṟai</rdg>
+                <note>See <foreign><supplied reason="undefined">p</supplied>o<supplied reason="omitted">ṉ</supplied> niṟai</foreign> in the other copy of this inscription (SII 6, no. 350, line 5).</note>
+                </app>
+                
+                <app loc="4">
+                <lem><supplied reason="undefined"><num value="100"><g type="numeral">100</g></num></supplied></lem>
+                <rdg source="bib:VenkatasubbaAyyar1943_01"/>
+                <note>The number <foreign>nūṟṟu</foreign> is legible in the other copy of this inscription (SII 6, no. 350, line 5).</note>
+                </app>-\->
+                
+                </listApp>
+                
+                </div>    -->     
+            
+            <div type="translation" resp="part:reda">
+                <p n="1">
+                    <gap extent="unknown" reason="lost"/> king Kōpperuciṅkaṉ, emperor of all worlds <gap extent="unknown" reason="lost"/>
+                </p>
+                
+                <p n="2-4">
+                    <gap extent="unknown" reason="lost"/> as capital for <gap extent="unknown" reason="lost"/> a <foreign>tēvatāna</foreign> comprising 1 9/20 <supplied reason="explanation"><foreign>vēli</foreign></supplied> of land <gap extent="unknown" reason="lost"/> request for the holy hymns <supplied reason="explanation"><foreign>tiruppatiyam</foreign></supplied> in the temple of <supplied reason="lost">Āḷuṭaiya-Pi</supplied>ḷḷaiyār <gap extent="unknown" reason="lost"/>
+                </p>
+                <p n="5">
+                    
+                    <gap extent="unknown" reason="lost"/>  Pallavaraiyaṉ <gap extent="unknown" reason="lost"/>
+                </p>
+            </div>
+            
+            
+            <!--<div type="commentary">
+                
+                
+                
+                </div>-->
+            
+            
+            <div type="bibliography">
+                
+                <p>
+                    First reported in <bibl><ptr target="bib:ARIE1917-1918"/></bibl> (ARIE/1917-1918/B/1917/367).
+                </p>
+                
+                <p>
+                    First edited <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl> (SII 12.252).
+                </p>
+                
+                <p>
+                    Digitally encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2024), based on <bibl><ptr target="bib:VenkatasubbaAyyar1943_01"/></bibl>. First translated by Renato Dávalos (2024).
+                </p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="VA">
+                        <ptr target="bib:VenkatasubbaAyyar1943_01"/>
+                        <citedRange unit="page">157</citedRange>
+                        <citedRange unit="item">252</citedRange>
+                    </bibl>
+                    
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1917-1918"/>
+                        <citedRange unit="page">34</citedRange>
+                        <citedRange unit="appendix">B/367</citedRange>
+                        <citedRange unit="item">367</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>
