@@ -21,7 +21,7 @@
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris, CEIAS</pubPlace>
                 <idno type="filename">DHARMA_INStfaSIIv08p0i0205.xml</idno>
-            <date from="2019" to="2026">2019-2026</date></publicationStmt>
+                <date from="2019" to="2026">2019-2026</date></publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
@@ -139,7 +139,7 @@
             </div>
             
             <div type="commentary">
-                <p n="2"><foreign>kāḻi-k kaṟpakam</foreign>. An inscription from the 11th year of Rājarāja II mentions a garden under the same name: Kāḻi Kāṟpakam (<bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl>, PI 512).</p>
+                <p n="2"><foreign>kāḻi-k kaṟpakam</foreign>. An inscription from the 11th year of Rājarāja II mentions a garden with the same name: Kāḻi Kāṟpakam (<bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl>, PI 512).</p>
             </div>
             
             <div type="bibliography">
