@@ -153,7 +153,8 @@
             
             <div type="bibliography">
                 
-                <p>Digital edition of SII 38.195 by <bibl><ptr target="bib:Swaminathan2019_01"/></bibl> automatically converted to DHARMA conventions.</p>
+                <p>Edited in <bibl><ptr target="bib:Swaminathan2019_01"/></bibl> (<ref target="DHARMA_INSSIIv38p0i0195">SII 38.195</ref>).</p>
+                <p>This revised edition by Renato Dávalos.</p>
                 
                 <listBibl type="primary">
                     
