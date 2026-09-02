@@ -72,7 +72,7 @@
                     
                     <lb n="3"/>tevaraṭiyār muṟaimaik kāriyattukku-p pū<choice><sic>ṟ</sic><corr>r</corr></choice>uvamakkāri Ivarkaḷ cevikkum paṭikku nāṅkaḷ Aṟuti y-iṭṭapaṭi cokka-t-taḷiyilār cevittu-p potum muṟaimaikaḷil
                     
-                    <lb n="4"/>cokkamum tirukāpp<hi rend="check"><choice><sic>unāṇ</sic><corr>ar</corr></choice></hi>um tirukkaḷapamum tiruccāntum muttirā-maṇṭapattiṟ ceya-p-pāvai tari-p-pāvaiyum cokka-t-taḷiyilār cevittu-p pōtavum Itu Oḻinta cevik<supplied reason="omitted">ku</supplied> muṟaimaikaḷ Ellām cevikkum
+                    <lb n="4"/>cokkamum tirukāppunāṇum tirukkaḷapamum tiruccāntum muttirā-maṇṭapattiṟ cey<surplus>p</surplus> pāvai tar<choice><sic>i</sic><corr>ā</corr></choice>-p-pāvaiyum cokka-t-taḷiyilār cevittu-p pōtavum Itu Oḻinta cevik<supplied reason="omitted">ku</supplied> muṟaimaikaḷ Ellām cevikkum
                     
                     <lb n="5"/>Iṭattu perumāḷ mutaliyār tirukkalliyāṇa cunt<choice><sic>iri</sic><corr>ara</corr></choice>-teva rmuṟṟum Eḻuntaruḷum nāyaṉmāṟkum I<hi rend="grantha">ṣa</hi><surplus>ca</surplus>pattaḷiyilār muṟkeṭatta Ikkuṭiyilum Ivaḷukku piṉp’
                 </p>
@@ -144,6 +144,17 @@
             </div>
             
             <div type="apparatus">
+                <listApp>
+                <app loc="4">
+                    <lem>cey<surplus>p</surplus> pāvai</lem>
+                    <rdg source="bib:Swaminathan2019_01">ceya-p-pāvai</rdg>
+                </app>
+                    <app loc="4">
+                    <lem>tar<choice><sic>i</sic><corr>ā</corr></choice>-p-pāvaiyum</lem>
+                    <rdg source="bib:Swaminathan2019_01">tari-p-pāvaiyum</rdg>
+                </app>
+                    
+                </listApp>
                 
             </div>
             
