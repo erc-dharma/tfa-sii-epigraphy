@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tanjore, Bṛhadīśvara, time of Rājarāja I Cōḻa, year 29 (SII 2.1)</title>
+                <title>Tanjore, Br̥hadīśvara, time of Rājarāja I Cōḻa, year 29 (SII 2.1)</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -66,7 +66,7 @@
                 </ab>
                 
                 <lg xml:lang="san-Latn" n="1" met="anuṣṭubh" rendition="class:grantha maturity:vernacular">
-                    <l n="a" enjamb="yes" real="+++--++-">Etat viśva-nṛpa-śreṇi</l>
+                    <l n="a" enjamb="yes" real="+++--++-">Etat viśva-nr̥pa-śreṇi</l>
                     <l n="b" real="+-++-+-+">mauli-mālopalāḷitam<unclear>·</unclear></l> 
                     <l n="c" real="+-++-++-">śāsanaṁ rājarājasya</l>
                     <l n="d" real="+-+--+-+">rāja-kesari-varmmaṇaḥ <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
@@ -685,7 +685,7 @@
                 
                 <p n="§54">One handle for a fly-whisk, <supplied reason="subaudible">consisting of</supplied> thirty-three <foreign>kaḻañcu</foreign>s of gold.</p>
                 
-                <p n="§55">Having obtained the illustrious names of Śivapādaśēkhara<note><hi rend="italic">I.e.</hi>, ‘he whose diadem are Śiva’s feet,’ ‘the devotee of Śiva.’</note> and Śrī-Rājarāja,<note><hi rend="italic">I.e.</hi>, ‘the illustrious king of kings.’</note> <supplied reason="subaudible">he gave the following</supplied> gold trumpets <supplied reason="explanation"><foreign>kāḷam</foreign></supplied>, which had one kaṅgil <supplied reason="explanation">?</supplied>, two pipes <supplied reason="explanation"><foreign>kuṛal</foreign></supplied> and five rings <supplied reason="explanation"><foreign>mōtiram</foreign></supplied>:——</p>
+                <p n="§55">Having obtained the illustrious names of Śivapādaśēkhara<note><hi rend="italic">I.e.</hi>, ‘he whose diadem are Śiva’s feet,’ ‘the devotee of Śiva.’</note> and Śrī-Rājarāja,<note><hi rend="italic">I.e.</hi>, ‘the illustrious king of kings.’</note> <supplied reason="subaudible">he gave the following</supplied> gold trumpets <supplied reason="explanation"><foreign>kāḷam</foreign></supplied>, which had one kaṅgil <supplied reason="explanation">?</supplied>, two pipes <supplied reason="explanation"><foreign>kur̥al</foreign></supplied> and five rings <supplied reason="explanation"><foreign>mōtiram</foreign></supplied>:——</p>
                 
                 <p n="§56">One trumpet, <supplied reason="subaudible">consisting of</supplied> two hundred and ninety-four <foreign>kaḻañcu</foreign>s and a half of gold.</p>
                 
@@ -711,7 +711,7 @@
                 
                 <p n="§67">One trumpet, <supplied reason="subaudible">consisting of</supplied> one hundred and sixty-eight <foreign>kaḻañcu</foreign>s of gold.</p>
                 
-                <p n="§68">A single <supplied reason="subaudible">trumpet</supplied>, <supplied reason="subaudible">consisting of</supplied> one hundred and forty-nine <foreign>kaḻañcu</foreign>s and a half and three <foreign>mañcāṭi</foreign>s of gold,——including one kaṅgil and one pipe <supplied reason="explanation"><foreign>kuṛal</foreign></supplied>.</p>
+                <p n="§68">A single <supplied reason="subaudible">trumpet</supplied>, <supplied reason="subaudible">consisting of</supplied> one hundred and forty-nine <foreign>kaḻañcu</foreign>s and a half and three <foreign>mañcāṭi</foreign>s of gold,——including one kaṅgil and one pipe <supplied reason="explanation"><foreign>kur̥al</foreign></supplied>.</p>
                 
                 <p n="§69"><supplied reason="subaudible">The following</supplied> tops <supplied reason="explanation"><foreign>makuṭa</foreign></supplied> for temple-parasols <supplied reason="explanation"><foreign>tiruppaḷḷittoṅkal</foreign></supplied>, including a knob <supplied reason="explanation"><foreign>moṭṭu</foreign></supplied> and a plate <supplied reason="explanation"><foreign>paṟaḷai</foreign></supplied> soldered together:——</p>
                 

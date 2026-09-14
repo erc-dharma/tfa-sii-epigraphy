@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tanjore, Bṛhadīśvara, time of Rājakesarivarman Rājarāja, year 29</title>
+                <title>Tanjore, Br̥hadīśvara, time of Rājakesarivarman Rājarāja, year 29</title>
                 <respStmt>
                     <resp key="creator">intellectual authorship of edition</resp>
                     <persName ref="part:reda">
@@ -267,7 +267,7 @@
                         </item>
                         
                         <item>
-                            Aiyāṟaṉ peṇṇōrpākaṉ-āṉa <hi rend="grantha">hṛda</hi><unclear>ya</unclear><hi rend="grantha"><unclear>śi</unclear></hi>vaṉu<unclear>kku ni</unclear>catam nellu mukkuṟuṇi <g ref="sym:flourish-taperOut" type="punctuation">.</g>
+                            Aiyāṟaṉ peṇṇōrpākaṉ-āṉa <hi rend="grantha">hr̥da</hi><unclear>ya</unclear><hi rend="grantha"><unclear>śi</unclear></hi>vaṉu<unclear>kku ni</unclear>catam nellu mukkuṟuṇi <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                         </item>
                         
                         <item>
@@ -517,7 +517,7 @@
                     To Āccaṉ Tirunāvukkaraiyaṉ, <hi rend="italic">alias</hi> Nēttraśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
                 </p>
                 <p n="§46">
-                    To Aiyāṟaṉ Peṇṇoṟpākaṉ, <hi rend="italic">alias</hi> Hṛdayaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
+                    To Aiyāṟaṉ Peṇṇoṟpākaṉ, <hi rend="italic">alias</hi> Hr̥dayaśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
                 </p>
                 <p n="§47">
                     To Rājādittan Ambalattāṭi, <hi rend="italic">alias</hi> Sikhāśivaṉ, three <foreign>kuṟuṇi</foreign>s of paddy per day.
