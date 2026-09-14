@@ -62,7 +62,7 @@
                 <!--Check Grantha characters: y, n, t normally not Grantha, but common to both alphabets, thus not tagged as Grantha-->			
                 <p>
                     <lb n="01"/><hi rend="grantha">śrī-rājamahe
-                        <lb n="02" break="no"/>ṃdra-ca</hi>tu<hi rend="grantha">rvve
+                        <lb n="02" break="no"/>ṁdra-ca</hi>tu<hi rend="grantha">rvve
                             <lb n="03" break="no"/>di</hi>-maṅkalattu-k ka
                     <lb n="04" break="no"/>lveṭṭu
                 </p>

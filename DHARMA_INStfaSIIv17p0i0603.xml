@@ -96,11 +96,11 @@
     </lg> 
         
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        Attra śaṃkha-vacanam· <g ref="sym:doubleBar" type="punctuation">.</g>
+        Attra śaṁkha-vacanam· <g ref="sym:doubleBar" type="punctuation">.</g>
     </p> 
                 
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        kṣatriya-vaiṣyānulomā<surplus>na</surplus>ntarajotpanno rathakāraḥ tasyejyādhānopanayana-saṃskāra-kriyāś ca prati<hi rend="check">ṣiddh</hi>ās tasyāśva-ratha  
+        kṣatriya-vaiṣyānulomā<surplus>na</surplus>ntarajotpanno rathakāraḥ tasyejyādhānopanayana-saṁskāra-kriyāś ca prati<hi rend="check">ṣiddh</hi>ās tasyāśva-ratha  
         <lb n="2" break="no"/>-sūtra-śilpa-vāstu-vidyādy-addhyayana-kramaḥ vṛttitā ceti
     </p>
     
@@ -122,7 +122,7 @@
     </p>
     
     <p xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        Anulomānām upanaya<supplied reason="lost">m eva</supplied> na vedāddhyaya<supplied reason="omitted">na</supplied>n na pañca-mahāyajñ<choice><sic>ā</sic><corr>aṃ</corr></choice> naupāsanan nāg<supplied reason="omitted">ni</supplied>hotran na samit·kāryan na
+        Anulomānām upanaya<supplied reason="lost">m eva</supplied> na vedāddhyaya<supplied reason="omitted">na</supplied>n na pañca-mahāyajñ<choice><sic>ā</sic><corr>aṁ</corr></choice> naupāsanan nāg<supplied reason="omitted">ni</supplied>hotran na samit·kāryan na
        sandhyopāsanam upanayanam api tūṣṇīm eveti
     </p>
 
@@ -175,7 +175,7 @@
     </lg>
 
     <lg n="13" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        <l n="a">devatādi-tanūnā<supplied reason="omitted">ṃ</supplied> c<choice><sic>e</sic><corr>a</corr></choice></l>
+        <l n="a">devatādi-tanūnā<supplied reason="omitted">ṁ</supplied> c<choice><sic>e</sic><corr>a</corr></choice></l>
         <l n="b">karaṇaṁ śilpa-jīvi<choice><sic>k</sic><corr>t</corr></choice>ā <g ref="sym:bar" type="punctuation">.</g></l>
         <l n="c">sauvarṇa-vastu-nirmmāṇa<supplied reason="omitted">ṁ</supplied></l>
         <l n="d">svarṇnakāra Itīṣyate <g ref="sym:doubleBar" type="punctuation">.</g></l>
@@ -203,7 +203,7 @@
     <p>
        <list>
            <item>
-               Ip-paṭi cai<unclear>y</unclear>vā<hi rend="grantha">gama</hi>ṅkaḷilum <hi rend="grantha">pañcarātra-saṃhi</hi>taikaḷilum vai<hi rend="grantha">khānasa-granthaṁ</hi>kaḷilum <hi rend="grantha">viśvakarmmīyam Āgastyādi-śāstraṁ</hi>kaḷilum <hi rend="grantha">utpatti-vṛtti-vidhānañ co</hi>llutalālum
+               Ip-paṭi cai<unclear>y</unclear>vā<hi rend="grantha">gama</hi>ṅkaḷilum <hi rend="grantha">pañcarātra-saṁhi</hi>taikaḷilum vai<hi rend="grantha">khānasa-granthaṁ</hi>kaḷilum <hi rend="grantha">viśvakarmmīyam Āgastyādi-śāstraṁ</hi>kaḷilum <hi rend="grantha">utpatti-vṛtti-vidhānañ co</hi>llutalālum
            </item>
            <item>
                Iva<choice><orig>ne</orig><reg>ṉē</reg></choice> <hi rend="grantha">grāmā<unclear>di</unclear>
@@ -478,7 +478,7 @@
     
     <lg n="43" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <l n="a"><seg met="===="><gap reason="lost" unit="character" quantity="4"/></seg> śarīrāṁgam·</l>
-        <l n="b">pāce bhautika-saṃjñi<surplus>ta</surplus>ta<unclear>m·</unclear></l>
+        <l n="b">pāce bhautika-saṁjñi<surplus>ta</surplus>ta<unclear>m·</unclear></l>
         <l n="c">vimānaṁ vidhinā samyak·</l>
         <l n="d">jala-saṁprokṣaṇañ care<unclear>t</unclear></l>
     </lg>
@@ -693,7 +693,7 @@
      <p n="3-4">
          <list>
              <item>
-                 Since his origin and rules of conduct are stated so <supplied reason="explanation"><foreign>collutalālum</foreign></supplied> in the Śaivāgamas, the Pañcarātrasaṃhitās, ...
+                 Since his origin and rules of conduct are stated so <supplied reason="explanation"><foreign>collutalālum</foreign></supplied> in the Śaivāgamas, the Pañcarātrasaṁhitās, ...
              </item>
              <item>
                  and since the rule is <supplied reason="explanation"><foreign>uṇṭalālum</foreign></supplied> to do<note>That is, since his duty is to.</note> ...
