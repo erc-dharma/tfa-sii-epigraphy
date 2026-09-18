@@ -139,6 +139,16 @@
 </div>
 
 <div type="apparatus">
+	
+	<listApp>
+		
+		<app loc="4">
+			<lem>tiruveṇcāmaram</lem>
+			<rdg source="bib:MarxiaGandhi+al2011_01">tiruveṉ <gap reason="lost" quantity="6" unit="character"/></rdg>
+			<note>I follow here the wording of a parallel inscription from the same temple:  <ref target="INStfaSIIv30p0i0054"/></note>
+		</app>      
+		
+	</listApp>
 	<listApp>
 		
 		<app loc="7">
