@@ -143,7 +143,7 @@
 	<listApp>
 		
 		<app loc="4">
-			<lem>tiruveṇcāmaram</lem>
+			<lem>tiruve<supplied reason="lost">ṇcāmaram</supplied></lem>
 			<rdg source="bib:MarxiaGandhi+al2011_01">tiruveṉ <gap reason="lost" quantity="6" unit="character"/></rdg>
 			<note>I follow here the wording of a parallel inscription from the same temple:  <ref target="INStfaSIIv30p0i0054"/></note>
 		</app>      
