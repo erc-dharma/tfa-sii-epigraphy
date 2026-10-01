@@ -63,7 +63,7 @@
 		I<unclear>n</unclear>ta nāyiṉār kōyilil muppatu vaṭṭattu civa-p-pirāmaṇaril ceya 
 		<lb n="2"/>yāṉ Imametaruvāṉ-āṉa cuntarapāṇṭiya-paṭṭaṉ In-nāyaṉār kōyilil Ēṟiaruḷa-p paṇṇiṉa tiruvātavūr nāyaṉāṟku Amutupaṭi cāttupaṭi <unclear>U</unclear>ḷḷiṭṭaṉ itta nimantatukku <gap reason="lost" quantity="4" unit="character"/> vakaḷ viṭ<unclear>ṭa nila</unclear>m āvatu viyataraiyaṉ kōṭṭai vayalil periya-kuḷatil veḷḷuruva maṭaiyāl nirpāyum E <gap reason="lost" quantity="1" unit="character"/> kaḷ kāṇi <unclear>ci</unclear>la viṭṭa nilam Iraṇṭu <gap reason="lost" quantity="6" unit="character"/> patu kiḻpāṟkellai naṭuvillempa-k kuḷattil nānā<unclear>ḷu</unclear>kku meṟkum teṉ <supplied reason="explanation">pā</supplied>ṟkellai paṟaiyaṉ kāṇi
 		<lb n="3"/>tēvaṉ kāḷaiyār Uḻutu pōtukiṟa taṭi Iraṇṭum mututaricāṉa taṭi Iraṇṭukkum vaṭakkum melpāṟkellai muṉpu tiruvilaiku-p-puṟam āka viṭṭa tēvatāṉa-paṟṟil vā <gap reason="lost" quantity="2" unit="character"/> ttuṭaval <gap reason="lost" quantity="4" unit="character"/> varampukku kiḻakkum pa <gap reason="lost" quantity="3" unit="character"/> tēvatāṉam Ālāla cuntaraṉ vaykkal kiḻ <gap reason="lost" quantity="2" unit="character"/> rampukku kiḻakkum vaṭapāṟk kellai It-<supplied reason="explanation">tēva</supplied>tāṉam vaṭavarampuvanta cevuṟaikkut teṟkkum Āka <unclear>I</unclear>c<unclear>ai</unclear>nta perunāṉkellaikk' uṭpaṭṭa palataṭiyāl Ēṟṟa-c curukkam Uṭpaṭa nilam Iraṇṭumāvum In-nāyaṉāṟkku kārā<choice><sic>ḻv</sic><corr>ṇm</corr></choice>ai
-		<lb n="4" break="no"/>kavum Inta cuntarāpāṇṭiya paṭṭaṇukku kāṇi Āvatu Ākavum In-nāyaṉāṟku Amutupaṭi cāttuppaṭi Uḷḷiṭṭa viñcaṉattukkum Iṟaiyili kārāḻmai Āka n<choice><sic>i</sic><corr>ī</corr></choice>rvārttu Eṅkaḷ<choice><sic>u</sic><corr>ū</corr></choice>r puravil kaḻittu viṭṭamai<unclear>kku</unclear> cantirāticcavaṟ celvatāka kallilum cempilum veṭṭi-k kuṭuttōm tiruvātavūr-nāyiṉārku viyātaraiyaṉ kōṭṭai Ūrkku camainta Ūravarōm Ip-paṭikku Añcāta kaṇṭapparaiyaṉ Eḻuttu Ippaṭikku muṭitāṅkirāmaṉ Eḻuttu
+		<lb n="4" break="no"/>kavum Inta cuntarāpāṇṭiya paṭṭaṇukku kāṇi Āvatu Ākavum In-nāyaṉāṟku Amutupaṭi cāttuppaṭi Uḷḷiṭṭa viñcaṉattukkum Iṟaiyili kārā<choice><sic>ḻ</sic><corr>ṇ</corr></choice>mai Āka n<choice><sic>i</sic><corr>ī</corr></choice>rvārttu Eṅkaḷ<choice><sic>u</sic><corr>ū</corr></choice>r puravil kaḻittu viṭṭamai<unclear>kku</unclear> cantirāticcavaṟ celvatāka kallilum cempilum veṭṭi-k kuṭuttōm tiruvātavūr-nāyiṉārku viyātaraiyaṉ kōṭṭai Ūrkku camainta Ūravarōm Ip-paṭikku Añcāta kaṇṭapparaiyaṉ Eḻuttu Ippaṭikku muṭitāṅkirāmaṉ Eḻuttu
 	</p>
 
 </div>
@@ -80,7 +80,13 @@
 	<app loc="3">
 		<lem>kārā<choice><sic>ḻv</sic><corr>ṇm</corr></choice>ai</lem>
 		<rdg source="bib:Karuppiah2020_01">kārāḻvai</rdg>
-		<note>The reference that comes afterwards is to <foreign>kāṇi</foreign> rights, so it might be well possible that this is a scribal mistake and that the record here refers to the <foreign>kāraṇmai</foreign> rights.</note>
+		<note>The reference that comes afterwards is to <foreign>kāṇi</foreign> rights, so it might be well possible that this is a scribal mistake and that the record here refers to the <foreign>kāraṇmai</foreign> rights. Moreover, another variation appears in line 4 (<foreign>kārāḻmai</foreign>).</note>
+	</app>
+</listApp>
+	<listApp>	
+	<app loc="4">
+		<lem>kārā<choice><sic>ḻ</sic><corr>ṇ</corr></choice>mai</lem>
+		<rdg source="bib:Karuppiah2020_01">kārāḻmai</rdg>
 	</app>
 </listApp>
 </div>
