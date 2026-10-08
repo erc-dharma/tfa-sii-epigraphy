@@ -202,9 +202,9 @@
                         <item><lb n="87"/>Eṇṇai-k kāppu 2 <g ref="sym:tam-nali"/></item>
                         <item>paḻam <g ref="sym:tam-nali"/></item>
                         <item><lb n="88"/> <gap reason="lost" quantity="10" unit="character"/></item>
-                        <item><lb n="89"/>kaṟpūram <unclear>pala</unclear><supplied reason="omitted">m</supplied> 1/2</item>
+                        <item><lb n="89"/>kaṟpūram <unclear>pala</unclear><supplied reason="omitted">m</supplied> <g type="numeral">1/2</g></item>
                         <item>pu
-                            <lb n="90" break="no"/>ḻuku <unclear>pala</unclear><supplied reason="omitted">m</supplied> 1/2</item>
+                            <lb n="90" break="no"/>ḻuku <unclear>pala</unclear><supplied reason="omitted">m</supplied> <g type="numeral">1/2</g></item>
                         <item>tiru-ma
                             <lb n="91" break="no"/>ñcaṉam Eṭupp
                             <lb n="92" break="no"/>ār periya tiru-p
