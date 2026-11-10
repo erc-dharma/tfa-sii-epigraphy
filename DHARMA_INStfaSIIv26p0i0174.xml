@@ -55,19 +55,22 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
-                <p>
+                <ab>
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
-                </p>
+                </ab>
                 
                 <p>
                     <hi rend="grantha">tribhu</hi>vana-<hi rend="grantha">c-cakra</hi>va<hi rend="grantha"/>
                     <lb n="2" break="no"/>t=ti kōṉēri<choice><orig>m</orig><reg>ṉ</reg></choice>maikoṇṭāṉ
-                    <lb n="3"/>karaivaḻināṭṭu-t
+                    <lb n="3"/>karaivaḻi-nāṭṭu-t
                     <lb n="4"/>tiru-v-ālanturai
                     <lb n="5" break="no"/>-y-āṉa vik<hi rend="grantha"><unclear>ra</unclear></hi>ma-cōḻa
                     <lb n="6" break="no"/>-<hi rend="grantha">c-ca</hi>tu<hi rend="grantha">rvve</hi>ti-maṅkalat
-                    <lb n="7" break="no"/>tu <hi rend="grantha">sabh</hi>aiyārkku-t taṅ
-                    <lb n="8" break="no"/>kaḷūr-t tuṟaiyil ma<hi rend="grantha">hā</hi>
+                    <lb n="7" break="no"/>tu <hi rend="grantha">sabh</hi>aiyārkku-t
+                </p>
+                <p>
+                    taṅ
+                    <lb n="8" break="no"/>kaḷ ūr-t tuṟaiyil ma<hi rend="grantha">hā</hi>
                     <lb n="9" break="no"/>-<hi rend="grantha">bhā</hi>ratam vācikkum pēṟku
                     <lb n="10"/>Ivv-ūril irupatt’ eṭṭ-āvatu
                     <lb n="11"/>varaiyuṅ kāṭu pāḻāṉa nilattil
@@ -113,8 +116,19 @@
                 </listApp>
             </div>
             
+            <div type="translation" resp="part:emfr">
+                <p n="1">Prosperity! Fortune!</p>
+                <p n="1-7">The unmatched king, emperor of the three worlds, to the members of the assembly of ...</p>
+                <p n="7-13">In the division of their village, for the person who recites the Mahābhārata ...
+                <supplied reason="subaudible">there is</supplied> a land of half a <foreign>mā</foreign>.</p>
+                <p n="14-22">For this land, we have given tax-free from the twenty-ninth <supplied reason="subaudible">year</supplied> ...</p>
+                <p n="22-26">...</p>
+                <p n="26-27">These <supplied reason="subaudible">are</supplied> the letters<note>That is, the signature.</note> of Villavataraiyaṉ, year 29, day 98.</p>
+                <p n="27">These <supplied reason="subaudible">are</supplied></p>
+            </div>
+            
             <div type="commentary">
-                <p>Either the inscription is unfinished or its end is lost.</p>
+                <p>The inscription is either unfinished or its end is lost.</p>
             </div>
             
             <div type="bibliography">
