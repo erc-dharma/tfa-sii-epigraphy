@@ -16,12 +16,12 @@
                         <surname>Francis</surname>
                     </persName>
                 </respStmt>
-            <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris, CEIAS</pubPlace>
                 <idno type="filename">DHARMA_INStfaSIIv06p0i0012.xml</idno>
-            <date from="2019" to="2026">2019-2026</date></publicationStmt>
+                <date from="2019" to="2026">2019-2026</date></publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier><repository>as per external metadata</repository></msIdentifier>
@@ -50,21 +50,24 @@
                 </p>
                 
                 <p>
-                    Ār<supplied reason="omitted">k</supplied>kāṭṭu-k-kūṟṟattu <hi rend="grantha">brahmade</hi>yam
-                    <lb n="2"/><hi rend="grantha">cantralekhai</hi>-catu<hi rend="grantha">rvve</hi>ti-maṅkalattu peruṅ-kuṟi <hi rend="grantha">sabhai</hi>yōm Ivv-ūr Ai
-                    <lb n="3" break="no"/>mpattu mu<choice><orig>n</orig><reg>ṉ</reg></choice>ṟāṅ kuṭumpil <hi rend="grantha">bhā</hi>rata-paṅku kōyilā<choice><orig>n</orig><reg>ṉ</reg></choice> nāka-ṉan=ti viṟṟa paṅku 1
+                    Ār<supplied reason="omitted">k</supplied>kāṭṭu-k kūṟṟattu <hi rend="grantha">brahmade</hi>yam
+                    <lb n="2"/><hi rend="grantha">cantralekhai</hi>-catu<hi rend="grantha">rvve</hi>ti-maṅkalattu peruṅ-kuṟi <hi rend="grantha">sabhai</hi>yōm
+                </p>
+                <p>
+                    Ivv-ūr Ai
+                    <lb n="3" break="no"/>mpattu mu<choice><orig>n</orig><reg>ṉ</reg></choice>ṟāṅ kuṭumpil <hi rend="grantha">bhā</hi>rata-paṅku kōyilā<choice><orig>n</orig><reg>ṉ</reg></choice> nākaṉan=ti viṟṟa paṅku 1
                 </p>
                 
                 <p>
                     I
-                    <lb n="4" break="no"/>vv-oru paṅkum Ivv-ūr <hi rend="grantha">brahmasthā</hi>nattu miyceṅkiḷi-nāṭṭu veṇṇāyil-uṭai
+                    <lb n="4" break="no"/>vv-oru paṅkum Ivv-ūr <hi rend="grantha">brahmasthā</hi>nattu m<choice><orig>iy</orig><reg>i</reg></choice>ceṅkiḷi-nāṭṭu veṇṇāyil-uṭai
                     <lb n="5" break="no"/>yāṉ vayira-<choice><orig>mm</orig><reg>m</reg></choice>ēka<surplus>m</surplus>-paṭāraṉ Eṭuppitta Ampalattu Iruntu nicatiyum <hi rend="grantha">śrī</hi>
                     <lb n="6" break="no"/>-<hi rend="grantha">bhā</hi>ratam vācikka perum-puliyūr Ā<hi rend="grantha">trai</hi>ya-<hi rend="grantha">gottra</hi>ttu vai<hi rend="grantha">khānasa-sūtra</hi>ttu <hi rend="grantha">śi</hi><unclear>ṅki</unclear>
                     <lb n="7" break="no"/><unclear>nan=til</unclear> <hi rend="grantha">śva-rū</hi>pa-<hi rend="grantha">bhaṭṭa</hi>nukku Iṟai-I<choice><orig>ll</orig><reg>l</reg></choice>i-y-āka kuṭuttōm <hi rend="grantha">sabhai</hi>yōm
                 </p>
                 
                 <p>
-                    Ivanil-p pi
+                    <hi rend="check">Ivanil</hi>-p pi
                     <lb n="8" break="no"/>ṉpu Ip-paṅk’ uṇpār Ivv-ūr <hi rend="grantha">brahmasthā</hi>nattē Iruntu nicatiyum <hi rend="grantha">śrī-bhā</hi>ratam vāci
                     <lb n="9" break="no"/>tt’ uṇpat’ āka Ip-paṅk’ oṉṟum <hi rend="grantha">candrādi</hi>t=tavat Iṟai-Ili-y-āka paṇittu kal mēl
                     
@@ -85,6 +88,23 @@
                         <rdg source="bib:SubrahmanyaAiyer1928_01">koyilān</rdg>
                     </app>
                 </listApp>
+            </div>
+            
+            <div type="translation" resp="part:emfr">
+                <p n="1">9th year of the king Rājakesarivarman.</p>
+                <p n="1-2"><supplied reason="subaudible">This is a decision of</supplied> We, the members of the assembly of the great council of Candralekhācaturvedimaṅgala, a <foreign>brahmadeya</foreign> in the <foreign>kuṟram</foreign> of Ārkkāṭu.</p>
+                <p n="2-3">In the fifty-third <hi rend="check">ward</hi> <supplied reason="explanation"><foreign>kuṭumpu</foreign></supplied> of this village, <supplied reason="subaudible">there is</supplied> 1 share that Kōyilāṉ Nākaṉ Nanti bought/sold as <supplied reason="subaudible">share</supplied> for the <foreign>Bhārata</foreign>.</p>
+                <p n="3-7">
+                    This one share,
+                    so as to recite daily <supplied reason="explanation"><foreign>nicati</foreign></supplied> the glorious <foreign>Bhārata</foreign> sitting in the hall that Vayira-mēka-paṭāraṉ, magnate at Veṇṇāyil in Miceṅkiḷi-nāṭu, had built in the <foreign>brahmasthāna</foreign><note>The Brahmins' quarters.</note> of this village,
+                    We, the members of the assembly, have given it
+                    to ... of Perumpuliyūr.
+                </p>
+                <p n="7-10">
+                    He who eats this share, after him (?),
+                    so as to feed him for reading the glorious <foreign>Bhārata</foreign> sitting daily in the in the <foreign>brahmasthāna</foreign> of this village,
+                    this one share, having ordered it to be tax-free as long as the moon and the sun, having inscribed it on the stone, we have given it, We, the members of the assembly of the great council.
+                </p>
             </div>
             
             <div type="commentary"/>            
