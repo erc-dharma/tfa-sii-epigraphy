@@ -1,6 +1,5 @@
 2 subfolders (sii-corpus + workflow-output) and 1 html (index-sii) for South Indian Inscriptions volumes displayed as volumes online
-On https://erc-dharma.github.io/tfa-sii-epigraphy/index-sii.html
-Itself avalailable in the top menu in https://dharmalekha.info/
+on https://erc-dharma.github.io/tfa-sii-epigraphy/index-sii.html
 
 --- sii-corpus = SII volumes 1-4 as individual xmls and htmls
 
@@ -8,4 +7,4 @@ Itself avalailable in the top menu in https://dharmalekha.info/
 
 --- index-sii = index page for the four volumes
 
-Should ideally be moved in "south-indian-inscriptions", whihc would imply updating the URL and other updates
+Should ideally be moved in "south-indian-inscriptions", which would imply updating the URL and other updates
