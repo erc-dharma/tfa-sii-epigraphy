@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kadri / Kadiri, Mañjanātha temple, pedestal of bronze image of Lokeśvara</title>
+                <respStmt>
+                    <resp key="creator">author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+            <publicationStmt>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INStfaSIIv07p0i0191.xml</idno>
+                <date from="2019" to="2026">2019-2026</date></publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
+                    <msContents>
+                        <summary>On the pedestal of a bronze of Lokeśvara, which has been replaced in the course of time on this pedestal by a bronze of Mañjuvajra as pointed out in <ptr target="bib:Mallinson2019_01"/> (page 15; figures 4 and 5).</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="part:doop" when="2025-05-13" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+            <change who="part:mime" when="2025-05-06" status="draft">Conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                
+                <ab>
+                    <lb n="1"/>svasti śrī
+                </ab>
+                
+                <lg n="1">
+                    <l n="ab">śrīmat-soma-kulāṁbhojaraviṇā dīpta-<unclear>t</unclear>ejasā</l>
+                    <l n="cd">rāja-lakṣmī-kucā<unclear>lakta</unclear>-kalaṁkīkṛta-vakṣasā</l>
+                </lg>
+                
+                <lg n="2">
+                    <l n="ab">Uddāma-bāhu-vīryyeṇa rakṣitā kṣiti-maṇḍal<unclear>ā</unclear></l>
+                    <l n="cd">niskalaṁka-yaśaś-candra-candrikā-vilasaddiśā</l>
+                </lg>
+                
+                <lg n="3">
+                    <l n="ab">surāpānakṛto d<unclear>o<!--kompu clear--></unclear>so yena rājñā nirākṛtaḥ</l>
+                    <l n="cd">dvijānām agrahāre
+                        <lb n="2" break="no"/>bhyaś cārucāritra<choice><sic>ṣ</sic><corr>ś</corr></choice>āḷinā</l>
+                </lg>
+                
+                <lg n="4">
+                    <l n="ab">dattā bhūpa<choice><sic>nn</sic><corr>ṁ n</corr></choice>irākṛtya balād viśvāsakhātinaM</l>
+                    <l n="cd">rājyaṁ sva-bhuja-vīryyeṇa gṛhītaṁ yena māninā</l>
+                </lg>
+                
+                <lg n="5">
+                    <l n="ab">so ’yaṁ ka<supplied reason="omitted">r</supplied>ṇṇa-samas tyāge <unclear>pārttha</unclear>-kalpaḥ parākrame</l>
+                    <l n="cd">surendra-sadṛśo lakṣmyā bṛhaspati-samo dhiyā</l>
+                </lg>
+                
+                <lg n="6">
+                    <l n="ab">śrī-kundavarmar guṇav<choice><sic>a</sic><corr>ā</corr></choice>n <unclear>ā</unclear>lupe<unclear>ndro<!--kompu clear--></unclear> mahīpatiḥ</l>
+                    <l n="cd"><lb n="3"/>pād<unclear>ā</unclear>ravinda-bhramaro bāla-candra-śikhāmaṇeḥ</l>
+                </lg>
+                
+                <lg n="7">
+                    <l n="ab">kalau va<supplied reason="omitted">r</supplied>ṣa-sahasrāṇām atikrānte catuṣ<choice><sic>ṭh</sic><corr>ṭ</corr></choice>aye</l>
+                    <l n="cd">pu<unclear>nar abda</unclear>-śate caivāṣṭaṣaṣṭyā samanvite</l>
+                </lg>
+                
+                <lg n="8">
+                    <l n="ab">gateṣu nava-māseṣu kanyāyāṁ saṁsthite gurau</l>
+                    <l n="cd">paścime ’hani rohiṇyām muhū<unclear>r</unclear>tte śubha-lakṣaṇe</l>
+                </lg>
+                
+                <lg n="9">
+                    <l n="ab"><lb n="4"/>lokeśvarasya devasya pratiṣṭhām akaro<unclear>t pra</unclear>bhuḥ</l>
+                    <l n="cd">śrīmat-kadi<unclear>ri</unclear>kā-nāmni vihāre su-manohare 
+                        <g ref="sym:bullet-double-hollow" type="symbol">*</g><g ref="sym:bullet-middle-hollow" type="symbol">*</g>
+                    </l>
+                </lg>
+                
+                <p>
+                    svasti śrī <g ref="sym:bullet-middle-hollow" type="punctuation">.</g><g ref="sym:bullet-middle-hollow" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g>
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                <listApp>
+                    <app loc="3">
+                        <lem>°śate</lem>
+                        <rdg source="bib:SubrahmanyaAiyer1932_01">°gate</rdg>
+                        <note>On the correct reading, already suggested by Pai (1941), see <ptr target="bib:Mallinson2019_01"/> (p. 12, footnote 93).</note>
+                    </app>
+                </listApp>
+            </div> 
+            
+            <div type="commentary">
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Not reported in <bibl><ptr target="bib:ARIE1900-1901"/></bibl> (ARIE/1900-1901/A/1901/27).</p>
+                <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (<ref target="DHARMA_INSSIIv07p0i0191.xml">SII 7.191</ref>, restrospectively numbered ARIE/1900-1901/A/1901/27-B).</p>
+                <p>This revised digital edition by Emmanuel Francis based on <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl>.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:SubrahmanyaAiyer1932_01"/>
+                        <citedRange unit="page">87</citedRange>
+                        <citedRange unit="item">191</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1900-1901"/>
+                        <citedRange unit="page">11</citedRange>
+                        <citedRange unit="appendix">A/1901</citedRange>
+                        <citedRange unit="item">27</citedRange>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:Mallinson2019_01"/>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>
